@@ -1,0 +1,4 @@
+docker pull jeongho98/llama_parsing:python_3.12
+docker-compose up
+
+.env에 api키 입력

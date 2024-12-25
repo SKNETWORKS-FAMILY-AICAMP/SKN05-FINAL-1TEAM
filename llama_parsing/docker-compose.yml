@@ -1,0 +1,11 @@
+services:
+  jupyter:
+    image: ubuntu:python_3.12
+    volumes:
+      - ./jupyter_notebook:/jupyter_notebook
+    ports: 
+      - "8888:8888"
+    command: bash -c "
+      pip install jupyter && 
+      jupyter notebook --ip='*' --allow-root --NotebookApp.token=''
+      "
