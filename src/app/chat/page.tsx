@@ -5,12 +5,11 @@ import { SideBar } from '@/app/components/sidebar/SideBar';
 import { Header } from '@/app/components/layout/Header';
 import { ChatContainer } from '@/app/components/chat/ChatContainer';
 import styles from '@/app/styles/chat.module.css';
-import { useMessageStore } from '../store/messageStore';
 import { useUserStore } from '../store/userStore';
 import { useRouter } from 'next/navigation';
 
 export default function ChatPage() {
-  const { setCurrentSession } = useMessageStore();
+  // const { setCurrentSession } = useMessageStore();
 
   // useEffect(() => {
   //   // 테스트용 임시 세션 생성
@@ -58,73 +57,9 @@ export default function ChatPage() {
     // 토큰이 없으면 로그인 페이지로 리다이렉트
     if (!accessToken) {
       router.push('/login');
-      return;
     }
+  }, [accessToken, router]);
 
-    // 세션 목록 가져오기
-    const fetchSessions = async () => {
-      try {
-        // API 서버가 실행 중인지 확인
-        const response = await fetch('http://localhost:8000/api/chat/sessionlist?userId=' + userId, {
-          method: 'GET',
-          headers: {
-            'Content-Type': 'application/json',
-            // 필요한 경우 Authorization 헤더 추가
-            'Authorization': `Bearer ${accessToken}`
-          }
-        });
-
-        if (!response.ok) {
-          throw new Error(`HTTP error! status: ${response.status}`);
-        }
-        
-        const data = await response.json();
-        
-        if (data.session_list && data.session_list.length > 0) {
-          // 가장 최근 세션을 현재 세션으로 설정
-          const latestSession = data.session_list[0];
-          
-          // 채팅 기록 가져오기
-          const historyResponse = await fetch(
-            `http://localhost:8000/api/chat/history?userId=${userId}&sessionId=${latestSession.sessionId}`,
-            {
-              headers: {
-                'Content-Type': 'application/json',
-                'Authorization': `Bearer ${accessToken}`
-              }
-            }
-          );
-
-          if (!historyResponse.ok) {
-            throw new Error(`HTTP error! status: ${historyResponse.status}`);
-          }
-
-          const historyData = await historyResponse.json();
-          
-          // 세션 데이터 구성
-          const sessionData = {
-            sessionId: latestSession.sessionId,
-            userId: userId?.toString(),
-            title: latestSession.title,
-            messages: historyData.Messages,
-            createdAt: latestSession.createdAt,
-            updatedAt: latestSession.updatedAt
-          };
-          
-          setCurrentSession(sessionData);
-        }
-      } catch (error) {
-        console.error('Error fetching sessions:', error);
-        // 에러 처리 - 사용자에게 알림을 보여줄 수 있습니다
-      }
-    };
-
-    if (userId) {
-      fetchSessions();
-    }
-  }, [accessToken, userId, router, setCurrentSession]);
-
-  // accessToken이 없으면 로그인 페이지로 리다이렉트
   if (!accessToken) {
     return null;
   }

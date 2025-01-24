@@ -97,9 +97,32 @@
   color: var(--color-text-secondary);
 }
 
-/* 키워드 설명 */
-.descriptionText {
-  font-size: 1rem;
+
+/* 키워드 설명 컨테이너 스타일 */
+.keywordName {
+  font-size: 1.1rem;
+  font-weight: 600;
+  color: var(--color-text-dark);
+  margin-bottom: 0.5rem;
+}
+
+.keywordDescription {
+  font-size: 0.95rem;
+  color: var(--color-text-dark);
+  line-height: 1.6;
+}
+
+.loading {
+  text-align: center;
+  padding: 1rem;
   color: var(--color-text-secondary);
-  line-height: 1.5;
+  font-size: 0.95rem;
+}
+
+.emptyMessage {
+  text-align: center;
+  padding: 1rem;
+  color: var(--color-text-secondary);
+  font-size: 0.95rem;
+  font-style: italic;
 }
