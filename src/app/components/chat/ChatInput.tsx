@@ -4,14 +4,17 @@ import { useState, KeyboardEvent } from 'react';
 import styles from '@/app/styles/chat.module.css';
 import { useMessageStore } from '@/app/store/messageStore';
 import { useUserStore } from '@/app/store/userStore';
+import { useBrandStore } from '@/app/store/brandStore';
 import HelpPopover from './HelpPopover';
 
 export function ChatInput() {
   const [message, setMessage] = useState('');
   const [showHelp, setShowHelp] = useState(false);
   const [isLoading, setIsLoading] = useState(false);
+
   const { currentSession, setCurrentSession, addMessage } = useMessageStore();
   const { userId } = useUserStore();
+  const { selectedBrand, selectedModel } = useBrandStore();
 
   const handleSendMessage = async () => {
     if (!message.trim() || isLoading || !userId) return;
@@ -21,6 +24,8 @@ export function ChatInput() {
     setIsLoading(true);
 
     try {
+      // 사용자 메세지를 먼저 ChatContainer 에 추가
+      
       const response = await fetch('http://localhost:8000/api/chat/answer', {
         method: 'POST',
         headers: {
@@ -30,8 +35,8 @@ export function ChatInput() {
           question: userMessage,
           userId: userId,
           sessionId: currentSession?.sessionId || null,
-          brand: null,  // 필요한 경우 추가
-          model: null   // 필요한 경우 추가
+          brand: selectedBrand || null,
+          model: selectedModel || null
         }),
       });
 
@@ -99,7 +104,6 @@ export function ChatInput() {
           onClick={handleSendMessage}
           disabled={!message.trim() || isLoading}
         >
-          {isLoading ? '전송' : '전송'}
         </button>
       </div>
       {showHelp && <HelpPopover onClose={() => setShowHelp(false)} />}

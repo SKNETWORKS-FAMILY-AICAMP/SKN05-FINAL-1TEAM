@@ -14,10 +14,33 @@
   background-color: white;
 }
 
+/* 헤더와 초기화 버튼 */
+.headerRow {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 1rem;
+}
+
+.resetButton {
+  background: none;
+  border: none;
+  font-size: 2rem; /* 적절한 크기 조정 */
+  /* min-width: 2.5rem; */
+  color: var(--color-text-dark);
+  cursor: pointer;
+  transition: color 0.2s ease, transform 0.2s ease;
+}
+
+.resetButton:hover {
+  color: var(--color-cobblestone); /* 호버 시 강조 색상 */
+  transform: rotate(90deg); /* 약간의 애니메이션 */
+}
+
 .containerTitle {
   font-size: 1.25rem;
   font-weight: bold;
-  margin-bottom: 1rem;
+  /* margin-bottom: 1rem; */
   color: var(--color-text-dark);
 }
 
