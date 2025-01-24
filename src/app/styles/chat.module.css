@@ -66,6 +66,7 @@
   outline: none;
   border-color: var(--color-tendril);
   box-shadow: 0 0 0 2px rgba(137, 147, 124, 0.2);
+  color: var(--color-text-dark);
 }
 
 .sendButton {
@@ -85,6 +86,16 @@
 
 .sendButton:disabled {
   background-color: var(--color-cobblestone);
+  cursor: not-allowed;
+}
+
+.loading {
+  background-color: var(--color-cobblestone) !important;
+  cursor: not-allowed;
+}
+
+.messageInput:disabled {
+  background-color: var(--color-gardenia);
   cursor: not-allowed;
 }
 
@@ -261,4 +272,27 @@
   border: none;
   border-top: 1px solid var(--color-cobblestone);
   opacity: 0.5;
+}
+
+.loading .messageContent {
+  opacity: 0.7;
+}
+
+.loadingDots {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  color: var(--color-text-secondary);
+}
+
+.loadingDots::after {
+  content: "...";
+  animation: dots 1.5s steps(4, end) infinite;
+}
+
+@keyframes dots {
+  0%, 20% { content: ""; }
+  40% { content: "."; }
+  60% { content: ".."; }
+  80%, 100% { content: "..."; }
 }

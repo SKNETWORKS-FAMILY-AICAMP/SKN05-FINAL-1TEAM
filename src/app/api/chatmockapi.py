@@ -5,6 +5,7 @@ from typing import List, Optional
 from datetime import datetime
 import uuid
 import jwt
+import asyncio
 
 app = FastAPI()
 
@@ -47,15 +48,19 @@ class CreateMessageRequest(BaseModel): # 메시지 생성 요청 타입
     sessionId: str
     userMessage: str
 
-def verify_token(authorization: str) -> dict: # 토큰 검증 함수
+class MessageRequest(BaseModel):
+    sessionId: str
+    userMessage: str
+
+def verify_token(authorization: str = None) -> dict:
     if not authorization or not authorization.startswith("Bearer "):
-        raise HTTPException(status_code=401, detail="Invalid token")
+        return {"email": "test@example.com", "username": "Test User"}
     
-    token = authorization.split(" ")[1]
     try:
+        token = authorization.split(" ")[1]
         return jwt.decode(token, SECRET_KEY, algorithms=["HS256"])
     except jwt.InvalidTokenError:
-        raise HTTPException(status_code=401, detail="Invalid token")
+        return {"email": "test@example.com", "username": "Test User"}
 
 # 새로운 세션 생성
 @app.post("/api/sessions")
@@ -153,7 +158,7 @@ async def delete_session(session_id: str, authorization: str = Header(None)):
 # 메시지 생성
 @app.post("/api/messages")
 async def create_message(
-    request: CreateMessageRequest,
+    request: MessageRequest,
     authorization: str = Header(None)
 ):
     user = verify_token(authorization)
@@ -167,21 +172,24 @@ async def create_message(
     if not session:
         raise HTTPException(status_code=404, detail="Session not found")
     
-    if session["userId"] != user["email"]:
-        raise HTTPException(status_code=403, detail="Unauthorized access")
+    # 임시 지연 추가 (로딩 상태 테스트용)
+    await asyncio.sleep(1)
     
     # Mock AI 응답 생성
-    new_message = Message(
-        messageId=str(uuid.uuid4()),
-        userMessage=request.userMessage,
-        aiMessage="이것은 AI의 mock 응답입니다.",
-        keywords=["키워드1", "키워드2"],
-        suggestedQuestions=["추천 질문 1?", "추천 질문 2?"],
-        createdAt=datetime.now().isoformat()
-    )
+    new_message = {
+        "messageId": str(uuid.uuid4()),
+        "userMessage": request.userMessage,
+        "aiMessage": f"당신의 질문 '{request.userMessage}'에 대한 답변입니다...",
+        "keywords": ["카메라", "설정", "촬영"],  # 실제로는 질문에 따라 다른 키워드 생성
+        "suggestedQuestions": [
+            "조리개 값은 어떻게 조절하나요?",
+            "셔터스피드 설정은 어디서 하나요?",
+            "ISO 감도는 어떻게 변경하나요?"
+        ],
+        "createdAt": datetime.now().isoformat()
+    }
     
-    # 세션에 메시지 추가
-    session["messages"].append(new_message.dict())
+    session["messages"].append(new_message)
     session["updatedAt"] = datetime.now().isoformat()
     
     return new_message

@@ -3,39 +3,69 @@
 import { useState, KeyboardEvent } from 'react';
 import styles from '@/app/styles/chat.module.css';
 import { useMessageStore } from '@/app/store/messageStore';
+import { useUserStore } from '@/app/store/userStore';
 import HelpPopover from './HelpPopover';
 
 export function ChatInput() {
   const [message, setMessage] = useState('');
   const [showHelp, setShowHelp] = useState(false);
-  const { currentSession, addMessage } = useMessageStore();
+  const [isLoading, setIsLoading] = useState(false);
+  const { currentSession, setCurrentSession, addMessage } = useMessageStore();
+  const { userId } = useUserStore();
 
   const handleSendMessage = async () => {
-    if (!message.trim() || !currentSession) return;
+    if (!message.trim() || isLoading || !userId) return;
+
+    const userMessage = message.trim();
+    setMessage('');
+    setIsLoading(true);
 
     try {
-      const response = await fetch('http://localhost:8000/api/messages', {
+      const response = await fetch('http://localhost:8000/api/chat/answer', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
-          'Authorization': `Bearer ${localStorage.getItem('accessToken')}`,
         },
         body: JSON.stringify({
-          sessionId: currentSession.sessionId,
-          userMessage: message.trim(),
+          question: userMessage,
+          userId: userId,
+          sessionId: currentSession?.sessionId || null,
+          brand: null,  // 필요한 경우 추가
+          model: null   // 필요한 경우 추가
         }),
       });
 
-      if (!response.ok) {
-        throw new Error('Failed to send message');
+      const result = await response.json();
+
+      if (!currentSession) {
+        // 새 세션 생성
+        const newSession = {
+          sessionId: result.sessionId,
+          userId: userId.toString(),
+          title: userMessage.slice(0, 30) + "...",
+          messages: [],
+          createdAt: new Date().toISOString(),
+          updatedAt: new Date().toISOString()
+        };
+        setCurrentSession(newSession);
       }
 
-      const newMessage = await response.json();
+      // 새 메시지 추가
+      const newMessage = {
+        messageId: result.messageId,
+        userMessage: userMessage,
+        aiMessage: result.answer,
+        keywords: result.keywords,
+        suggestedQuestions: result.suggestQuestions
+      };
+
       addMessage(newMessage);
-      setMessage('');
     } catch (error) {
       console.error('Error sending message:', error);
-      // 여기에 에러 처리 로직 추가 가능
+      // 에러 발생 시 메시지 복원
+      setMessage(userMessage);
+    } finally {
+      setIsLoading(false);
     }
   };
 
@@ -58,17 +88,18 @@ export function ChatInput() {
         </button>
         <input
           className={styles.messageInput}
-          placeholder="메시지를 입력하세요"
+          placeholder={isLoading ? "응답을 기다리는 중..." : "메시지를 입력하세요"}
           value={message}
           onChange={(e) => setMessage(e.target.value)}
           onKeyPress={handleKeyPress}
+          disabled={isLoading}
         />
         <button
-          className={styles.sendButton}
+          className={`${styles.sendButton} ${isLoading ? styles.loading : ''}`}
           onClick={handleSendMessage}
-          disabled={!message.trim() || !currentSession}
+          disabled={!message.trim() || isLoading}
         >
-          전송
+          {isLoading ? '전송' : '전송'}
         </button>
       </div>
       {showHelp && <HelpPopover onClose={() => setShowHelp(false)} />}

@@ -4,7 +4,7 @@ import { useState } from 'react';
 import { useRouter } from 'next/navigation';
 import styles from '../styles/register.module.css';
 
-const API_URL = 'http://localhost:8000/api/signup';
+const API_URL = 'http://localhost:8000/api/user/create';
 
 export default function RegisterPage() {
   const router = useRouter();
@@ -52,14 +52,15 @@ export default function RegisterPage() {
         body: JSON.stringify({
           username: formData.name,
           email: formData.email,
-          password: formData.password,
+          password1: formData.password,
+          password2: formData.confirmPassword
         }),
       });
 
       const result = await response.json();
 
       if (!response.ok) {
-        throw new Error(result.detail || '회원가입 실패');
+        throw new Error(result.message || '회원가입 실패');
       }
 
       setSuccessMessage('회원가입에 성공했습니다! 이제 로그인하세요.');

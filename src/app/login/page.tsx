@@ -5,7 +5,7 @@ import { useRouter } from 'next/navigation';
 import styles from '../styles/login.module.css';
 import { useUserStore } from '../store/userStore';
 
-const API_URL = 'http://localhost:8000/api/login';
+const API_URL = 'http://localhost:8000/api/user/login';
 
 export default function LoginPage() {
   const router = useRouter();
@@ -14,6 +14,7 @@ export default function LoginPage() {
   const [successMessage, setSuccessMessage] = useState('');
 
   const setAccessToken = useUserStore((state) => state.setAccessToken);
+  const setUserId = useUserStore((state) => state.setUserId);
 
   const handleChange = (e: React.ChangeEvent<HTMLInputElement>) => {
     const { name, value } = e.target;
@@ -26,7 +27,6 @@ export default function LoginPage() {
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
     setFormError('');
-
     setSuccessMessage('');
 
     if (!formData.email || !formData.password) {
@@ -38,28 +38,22 @@ export default function LoginPage() {
         const response = await fetch(API_URL, {
           method: 'POST',
           headers: { 'Content-Type': 'application/json' },
-          body: JSON.stringify({
-              email: formData.email,
-              password: formData.password,
-          }), 
+          body: JSON.stringify(formData), 
         });
       
         const result = await response.json();
       
         if (!response.ok) {
-          if (result.detail === '회원가입 필요') {
-            router.push('/register'); // 회원가입 페이지로 리다이렉트
-            return;
-          }
           throw new Error(result.detail || '로그인 실패');
         }
 
-        // Access Token 저장
+        // Access Token 저장 및 userId도 함께 저장
         setAccessToken(result.access_token);
+        setUserId(result.userId);
 
         setSuccessMessage('로그인 성공! 메인 페이지로 이동합니다.');
         setTimeout(() => {
-          router.push('/chat'); // 메인 페이지로 리다이렉트
+          router.push('/chat');
         }, 2000);
       } catch (error: any) {
         setFormError(error.message || '로그인 중 문제가 발생했습니다.');
