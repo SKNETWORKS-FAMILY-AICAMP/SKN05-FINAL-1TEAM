@@ -12,9 +12,7 @@ export default function LoginPage() {
   const [formData, setFormData] = useState({ email: '', password: ''});
   const [formError, setFormError] = useState('');
   const [successMessage, setSuccessMessage] = useState('');
-
-  const setAccessToken = useUserStore((state) => state.setAccessToken);
-  const setUserId = useUserStore((state) => state.setUserId);
+  const [isLoading, setIsLoading] = useState(false);
 
   const handleChange = (e: React.ChangeEvent<HTMLInputElement>) => {
     const { name, value } = e.target;
@@ -26,39 +24,51 @@ export default function LoginPage() {
 
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
+    setIsLoading(true);
     setFormError('');
     setSuccessMessage('');
 
     if (!formData.email || !formData.password) {
       setFormError('이메일과 비밀번호를 입력하세요.');
+      setIsLoading(false);
       return;
     }
 
     try {
-        const response = await fetch(API_URL, {
-          method: 'POST',
-          headers: { 'Content-Type': 'application/json' },
-          body: JSON.stringify(formData), 
-        });
-      
-        const result = await response.json();
-      
-        if (!response.ok) {
-          throw new Error(result.detail || '로그인 실패');
-        }
+      const response = await fetch(API_URL, {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify({
+          email: formData.email,
+          password: formData.password,
+        }),
+      });
 
-        // Access Token 저장 및 userId도 함께 저장
-        setAccessToken(result.access_token);
-        setUserId(result.userId);
+      const data = await response.json();
 
-        setSuccessMessage('로그인 성공! 메인 페이지로 이동합니다.');
-        setTimeout(() => {
-          router.push('/chat');
-        }, 2000);
-      } catch (error: any) {
-        setFormError(error.message || '로그인 중 문제가 발생했습니다.');
+      if (!response.ok) {
+        throw new Error(data.detail || '로그인에 실패했습니다.');
       }
 
+      // userStore 업데이트
+      useUserStore.getState().setUser(
+        data.userId,
+        data.username,
+        data.email,
+        data.access_token
+      );
+
+      setSuccessMessage('로그인 성공! 메인 페이지로 이동합니다.');
+      setTimeout(() => {
+        router.push('/chat');
+      }, 2000);
+    } catch (error: any) {
+      setFormError(error.message || '로그인 중 문제가 발생했습니다.');
+    } finally {
+      setIsLoading(false);
+    }
   };
 
   return (
@@ -103,7 +113,7 @@ export default function LoginPage() {
             </div>
           </div>
 
-          <button type="submit" className={styles.submitButton}>
+          <button type="submit" className={styles.submitButton} disabled={isLoading}>
             로그인
           </button>
         </form>

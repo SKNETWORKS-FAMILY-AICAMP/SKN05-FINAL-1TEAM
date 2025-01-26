@@ -1,6 +1,6 @@
 'use client';
 
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
 import styles from '@/app/styles/chat.module.css';
 import { ChatInput } from './ChatInput';
 import { UserMessage } from './UserMessage';
@@ -19,10 +19,52 @@ interface Message {
 export function ChatContainer() {
   const [messages, setMessages] = useState<Message[]>([]);
   const [isLoading, setIsLoading] = useState(false);
-  const { userId } = useUserStore();
+  const { userId, accessToken } = useUserStore();
   const { selectedBrand, selectedModel } = useBrandStore();
   const [currentSessionId, setCurrentSessionId] = useState<number | null>(null);
 
+  // 세션 히스토리 불러오기
+  const loadSessionHistory = async (sessionId: number) => {
+    if (!userId || !accessToken) return;
+
+    setIsLoading(true);
+    try {
+      const response = await fetch(
+        `http://localhost:8000/api/chat/history?userId=${userId}&sessionId=${sessionId}`,
+        {
+          headers: {
+            'Content-Type': 'application/json',
+            'Authorization': `Bearer ${accessToken}`
+          }
+        }
+      );
+
+      if (!response.ok) {
+        throw new Error('Failed to load session history');
+      }
+
+      const data = await response.json();
+      setMessages(data.Messages);
+      setCurrentSessionId(sessionId);
+    } catch (error) {
+      console.error('Error loading session history:', error);
+    } finally {
+      setIsLoading(false);
+    }
+  };
+
+  // 세션 선택 이벤트 리스너
+  useEffect(() => {
+    const handleSessionSelected = (event: CustomEvent<number>) => {
+      loadSessionHistory(event.detail);
+    };
+
+    window.addEventListener('sessionSelected', handleSessionSelected as EventListener);
+
+    return () => {
+      window.removeEventListener('sessionSelected', handleSessionSelected as EventListener);
+    };
+  }, [userId, accessToken]); // userId와 accessToken이 변경될 때마다 리스너 재설정
 
   const handleSendMessage = async (message: string) => {
     if (!userId || isLoading) return;
