@@ -8,6 +8,7 @@ interface AIMessageProps {
   suggestedQuestions: string[];
   onQuestionClick: (question: string) => void;
   onKeywordClick: (keyword: string) => void;
+  isGenerating?: boolean;
 }
 
 export function AIMessage({ 
@@ -15,19 +16,25 @@ export function AIMessage({
   keywords, 
   suggestedQuestions, 
   onQuestionClick,
-  onKeywordClick
+  onKeywordClick,
+  isGenerating = false
 }: AIMessageProps) {
   return (
     <div className={styles.aiMessage}>
       <div className={styles.messageContent}>
         {message}
+        {isGenerating && <span className={styles.cursor}>|</span>}
       </div>
-      <hr className={styles.messageDivider} />
-      <Keywords keywords={keywords} onKeywordClick={onKeywordClick} />
-      <SuggestedQuestions 
-        questions={suggestedQuestions}
-        onQuestionClick={onQuestionClick}
-      />
+      {!isGenerating && keywords.length > 0 && (
+        <>
+          <hr className={styles.messageDivider} />
+          <Keywords keywords={keywords} onKeywordClick={onKeywordClick} />
+          <SuggestedQuestions 
+            questions={suggestedQuestions}
+            onQuestionClick={onQuestionClick}
+          />
+        </>
+      )}
     </div>
   );
 }

@@ -28,7 +28,7 @@ export function ModelSelectContainer() {
   return (
     <div className={styles.container}>
       <div className={styles.headerRow}> 
-        <h2 className={styles.containerTitle}>카메라 모델 선택</h2>
+        <h3 className={styles.containerTitle}>카메라 모델 선택</h3>
         <button onClick={handleReset} className={styles.resetButton} title="초기화">
             ⟳
         </button>

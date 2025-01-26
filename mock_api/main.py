@@ -5,6 +5,9 @@ import jwt
 from datetime import datetime, timedelta
 from typing import Optional, List
 from fastapi.middleware.cors import CORSMiddleware
+from fastapi.responses import StreamingResponse
+import asyncio
+import json
 
 app = FastAPI()
 
@@ -70,6 +73,7 @@ async def login(login_data: UserLogin):
     return {
         "userId": result["userId"],
         "username": result["username"],
+        "email": result["email"],
         "access_token": access_token,
         "token_type": "JWT"
     }
@@ -100,44 +104,36 @@ async def get_chat_history(userId: int = Query(...), sessionId: int = Query(...)
     session_exists = any(session["sessionId"] == sessionId for session in user_sessions)
     if not session_exists:
         raise HTTPException(status_code=404, detail="세션을 찾을 수 없습니다.")
-    
     messages = db.get_chat_history(sessionId)
     return {
         "Messages": messages
     }
 
 @app.post("/api/chat/answer")
-async def generate_answer(request: AnswerRequest):
-    user = db.get_user_by_id(request.userId)
-    if not user:
-        raise HTTPException(status_code=404, detail="사용자를 찾을 수 없습니다.")
-    
+async def chat_answer(request: AnswerRequest):
+    """채팅 답변 API - 스트리밍 방식"""
+    # 세션이 없으면 새로 생성
     session_id = request.sessionId
-    if session_id is not None:
-        user_sessions = db.get_user_sessions(request.userId)
-        session_exists = any(session["sessionId"] == session_id for session in user_sessions)
-        if not session_exists:
-            raise HTTPException(status_code=404, detail="세션을 찾을 수 없습니다.")
-    else:
-        title = f"대화 {datetime.now().strftime('%Y-%m-%d %H:%M')}"
+    if not session_id:
+        title = f"카메라 상담 {datetime.now().strftime('%Y-%m-%d %H:%M')}"
         session_id = db.create_new_session(request.userId, title)
-    
-    llm_response = db.mock_llm_response(
-        question=request.question,
-        brand=request.brand,
-        model=request.model
+        print(f"[API] Created new session: {session_id}")
+
+    async def generate_response():
+        async for response in db.generate_chat_response(
+            question=request.question,
+            session_id=session_id,  # 세션 ID 전달
+            brand=request.brand,
+            model=request.model
+        ):
+            response["sessionId"] = session_id  # 응답에 세션 ID 포함
+            yield json.dumps(response) + "\n"
+            await asyncio.sleep(0.2)
+
+    return StreamingResponse(
+        generate_response(),
+        media_type="application/json"
     )
-    
-    message_id = db.create_message(session_id, request.question, llm_response)
-    
-    return {
-        "currentNode": llm_response["currentNode"],
-        "sessionId": session_id,
-        "messageId": message_id,
-        "answer": llm_response["answer"],
-        "keywords": llm_response["keywords"],
-        "suggestQuestions": llm_response["suggestQuestions"]
-    }
 
 @app.get("/api/chat/keyword")
 async def get_keyword_description(keyword: str = Query(...)):
