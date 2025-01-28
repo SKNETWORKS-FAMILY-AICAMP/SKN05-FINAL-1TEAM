@@ -128,7 +128,7 @@ export function SessionInfoContainer() {
                   // 세션 선택 이벤트 발생
                   const event = new CustomEvent('sessionSelected', {
                     detail: session.sessionId
-                  });
+                  }); 
                   window.dispatchEvent(event);
                 }}
               >
