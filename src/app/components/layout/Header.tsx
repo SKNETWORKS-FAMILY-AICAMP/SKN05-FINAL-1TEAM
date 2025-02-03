@@ -13,7 +13,7 @@ export function Header() {
   };
 
   const handleLogout = () => {
-    router.push('/'); // 로그아웃 후 홈으로 이동
+    router.push('/login'); // 로그아웃 후 /login으로 이동
   };
 
   return (

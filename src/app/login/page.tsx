@@ -9,7 +9,7 @@ const API_URL = 'http://localhost:8000/api/user/login';
 
 export default function LoginPage() {
   const router = useRouter();
-  const [formData, setFormData] = useState({ email: '', password: ''});
+  const [formData, setFormData] = useState({ email: '', password: '', message: ''});
   const [formError, setFormError] = useState('');
   const [successMessage, setSuccessMessage] = useState('');
   const [isLoading, setIsLoading] = useState(false);
@@ -28,6 +28,10 @@ export default function LoginPage() {
     setFormError('');
     setSuccessMessage('');
 
+    const formDataToSend = new URLSearchParams();
+    formDataToSend.set('username', formData.email);
+    formDataToSend.set('password', formData.password);   
+
     if (!formData.email || !formData.password) {
       setFormError('이메일과 비밀번호를 입력하세요.');
       setIsLoading(false);
@@ -38,12 +42,9 @@ export default function LoginPage() {
       const response = await fetch(API_URL, {
         method: 'POST',
         headers: {
-          'Content-Type': 'application/json',
+          'Content-Type': 'application/x-www-form-urlencoded',
         },
-        body: JSON.stringify({
-          email: formData.email,
-          password: formData.password,
-        }),
+        body: formDataToSend.toString(),
       });
 
       const data = await response.json();

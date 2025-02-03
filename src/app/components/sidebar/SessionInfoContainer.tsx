@@ -5,29 +5,30 @@ import styles from '@/app/styles/sideBar.module.css';
 import { useUserStore } from '@/app/store/userStore';
 
 interface Session {
-  sessionId: number;
+  session_id: number;
   title: string;
-  updatedAt: string;
+  create_date: string;
+  update_date: string;
 }
 
 export function SessionInfoContainer() {
-  const { userId, username, email, accessToken } = useUserStore();
+  const { username, email, accessToken } = useUserStore();
   const [sessions, setSessions] = useState<Session[]>([]);
   const [isLoading, setIsLoading] = useState(true);
   const [currentSessionId, setCurrentSessionId] = useState<number | null>(null);
 
   // 세션 목록을 불러오는 함수
   const fetchSessions = useCallback(async () => {
-    if (!userId || !accessToken) return;
+    if (!accessToken) return;
 
     setIsLoading(true);
     try {
       const sessionResponse = await fetch(
-        `http://localhost:8000/api/chat/sessionlist?userId=${userId}`,
+        `http://localhost:8000/api/chat/sessionlist`,
         {
           headers: {
+            'Authorization': `Bearer ${accessToken}`,
             'Content-Type': 'application/json',
-            'Authorization': `Bearer ${accessToken}`
           }
         }
       );
@@ -44,7 +45,7 @@ export function SessionInfoContainer() {
     } finally {
       setIsLoading(false);
     }
-  }, [userId, accessToken]);
+  }, [accessToken]);
 
   // 새 대화 시작 핸들러
   const handleNewChat = () => {
@@ -69,7 +70,7 @@ export function SessionInfoContainer() {
   // 초기 로딩
   useEffect(() => {
     fetchSessions();
-  }, [userId, accessToken]);
+  }, [accessToken]);
 
   // 새 세션 생성 이벤트 리스너
   useEffect(() => {
@@ -120,21 +121,21 @@ export function SessionInfoContainer() {
           <div className={styles.sessionList}>
             {sessions.map((session) => (
               <button
-                key={session.sessionId}
+                key={session.session_id}
                 className={`${styles.sessionButton} ${
-                  currentSessionId === session.sessionId ? styles.activeSession : ''
+                  currentSessionId === session.session_id ? styles.activeSession : ''
                 }`}
                 onClick={() => {
                   // 세션 선택 이벤트 발생
                   const event = new CustomEvent('sessionSelected', {
-                    detail: session.sessionId
+                    detail: session.session_id
                   }); 
                   window.dispatchEvent(event);
                 }}
               >
                 <span className={styles.sessionTitle}>{session.title}</span>
                 <span className={styles.sessionDate}>
-                  {formatDate(session.updatedAt)}
+                  {formatDate(session.update_date)}
                 </span>
               </button>
             ))}
