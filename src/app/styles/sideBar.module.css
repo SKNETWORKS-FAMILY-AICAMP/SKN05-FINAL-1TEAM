@@ -42,12 +42,13 @@
   transition: all 0.2s ease;
 }
 
-.miniButton:hover {
+/* 추후 클릭 이벤트 발생시 필요 */
+/* .miniButton:hover {
   background-color: var(--color-cobblestone);
-}
+} */
 
 /* 툴팁 스타일 */
-.miniButton:hover::after {
+/* .miniButton:hover::after {
   content: attr(title);
   position: absolute;
   left: 3.75rem;
@@ -56,7 +57,7 @@
   border-radius: 0.25rem;
   font-size: 0.875rem;
   white-space: nowrap;
-}
+} */
 
 .toggleButtonContainer {
   display: flex;
