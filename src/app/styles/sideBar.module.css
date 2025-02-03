@@ -1,8 +1,89 @@
+
 .sideBar {
-  width: 20%;
+  position: fixed;
+  top: 3.75rem;
+  left: 0;
+  height: calc(100vh - 3.75rem);
+  width: 18rem;
+  overflow-y: auto;
   background-color: var(--color-tendril);
   color: white;
   padding: 1rem;
+  z-index: 1000;
+  transition: all 0.3s ease;
+  flex-direction: column;
+}
+
+.sideBar.closed {
+  width: 3.75rem;
+  padding: 1rem 0.5rem;
+}
+
+/* 미니 사이드바 스타일 */
+.miniSidebar {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1rem;
+  /* padding-top: 1rem; */
+}
+
+.miniButton {
+  width: 2.5rem;
+  height: 2.5rem;
+  border: none;
+  border-radius: 0.5rem;
+  background-color: transparent;
+  color: white;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.2s ease;
+}
+
+.miniButton:hover {
+  background-color: var(--color-cobblestone);
+}
+
+/* 툴팁 스타일 */
+.miniButton:hover::after {
+  content: attr(title);
+  position: absolute;
+  left: 3.75rem;
+  background-color: var(--color-cobblestone);
+  padding: 0.5rem;
+  border-radius: 0.25rem;
+  font-size: 0.875rem;
+  white-space: nowrap;
+}
+
+.toggleButtonContainer {
+  display: flex;
+  justify-content: flex-end; /* 오른쪽 정렬 */
+  margin-bottom: 1rem; /* 버튼과 컨텐츠 사이의 간격 */
+}
+
+/* 토글 버튼 */
+.toggleButton {
+  /* top: 4.75rem; */
+  /* left: 1rem; */
+  z-index: 1001;
+  background: var(--color-tendril);
+  border: none;
+  border-radius: 0.5rem;
+  width: 2.5rem;
+  height: 2.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  color: white;
+  transition: all 0.3s ease;
+}
+
+.sideBar.closed .toggleButton {
+  left: 0.625;
 }
 
 .container {
@@ -11,11 +92,13 @@
   border: 1px solid var(--color-cobblestone);
   border-radius: 0.5rem;
   background-color: white;
+  overflow: hidden;
 }
 
 /* 헤더와 초기화 버튼 */
 .headerRow {
   display: flex;
+  /* overflow: hidden; */
   justify-content: space-between;
   align-items: center;
   margin-bottom: 0.5rem;
@@ -61,11 +144,13 @@
   display: flex;
   align-items: center;
   flex-direction: row;
-  gap: 0.9rem;
+  gap: 0.5rem;
+  width: 100%;
   /* margin-bottom: 1rem; */
 }
 
 .selectLabel {
+  /* flex-shrink: 0; */
   margin-bottom: 0.1rem;
   min-width: 2.5rem;
   font-size: 0.95rem;
@@ -75,6 +160,7 @@
 
 .modelSelect {
   flex: 1;
+  min-width: 0;
   padding: 0.2rem 0.5rem;
   border: 1px solid var(--color-cobblestone);
   border-radius: 0.375rem;
@@ -109,6 +195,33 @@
   font-size: 0.95rem;
   color: var(--color-text-dark);
   line-height: 1.6;
+
+  /* Markdown 스타일 추가 */
+  & h1, & h2, & h3, & h4, & h5, & h6 {
+    margin: 1em 0 0.5em;
+  }
+
+  & p {
+    margin: 0.5em 0;
+  }
+
+  & ul, & ol {
+    padding-left: 1.5em;
+    margin: 0.5em 0;
+  }
+
+  & code {
+    background-color: #f5f5f5;
+    padding: 0.2em 0.4em;
+    border-radius: 3px;
+  }
+
+  & pre {
+    background-color: #f5f5f5;
+    padding: 1em;
+    border-radius: 5px;
+    overflow-x: auto;
+  }
 }
 
 .loading {
@@ -129,13 +242,17 @@
 /* 사용자 정보 스타일 */
 .userInfo {
   padding: 0rem 0;
+  overflow: hidden;
 }
 
 .username {
   font-size: 1.05rem;
-  font-weight: 600;
+  /* font-weight: 600; */
   color: var(--color-text-dark);
   margin-bottom: 0.2rem;
+  /* overflow: hidden;
+  text-overflow: ellipsis; */
+  white-space: nowrap;
 }
 
 .email {
@@ -153,12 +270,15 @@
 /* 세션 목록 스타일 */
 .sessionList {
   display: flex;
+  max-height: calc(3*(1.725rem + 0.5rem));
   flex-direction: column;
   gap: 0.5rem;
+  overflow-y: auto;
 }
 
 .sessionButton {
   width: 100%;
+  height: 1.725rem;
   padding: 0.3rem 0.5rem;
   background: none;
   border: 1px solid var(--color-cobblestone);
@@ -204,19 +324,65 @@
 }
 
 .newChatButton {
-  padding: 0.5rem 0.5rem;
+  /* width: 25%; */
+  padding: 0.3rem;
   background-color: var(--color-tendril);
   border: 1px solid var(--color-cobblestone);
   border-radius: 0.375rem;
   color: var(--color-text-light);
-  font-size: 0.75rem;
-  font-weight: 500;
+  font-size: clamp(0.5rem, 2vw + 0.25rem, 0.75rem);
+  /* font-weight: 500; */
   cursor: pointer;
   transition: all 0.2s ease;
   white-space: nowrap;
+  overflow: hidden;
+  text-overflow: clip;
 }
 
 .newChatButton:hover {
   background-color: var(--color-gardenia);
   color: var(--color-text-dark);
+}
+
+/* 스크롤바 스타일링 (선택사항) */
+.sideBar::-webkit-scrollbar,
+.sessionList::-webkit-scrollbar {
+  width: 6px;
+}
+
+.sideBar::-webkit-scrollbar-track,
+.sessionList::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+.sideBar::-webkit-scrollbar-thumb,
+.sessionList::-webkit-scrollbar-thumb {
+  background: #888;
+  border-radius: 3px;
+}
+
+.sideBar::-webkit-scrollbar-thumb:hover,
+.sessionList::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
+
+/* 반응형 처리 */
+@media (max-width: 768px) {
+  .sideBar {
+    width: 3.75rem;
+    padding: 0.5rem;
+    /* transform: translateX(-100%); */
+  }
+
+  .sideBar.open {
+    transform: translateX(0);
+  }
+
+  .mainContent {
+    margin-left: 0;
+    width: 100%;
+  }
+  .toggleButton {
+    left: 0.625rem;
+  }
 }

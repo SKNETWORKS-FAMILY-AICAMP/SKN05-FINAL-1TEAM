@@ -2,7 +2,8 @@
 .chatPage {
   display: flex;
   flex-direction: column;
-  height: 100vh;
+  min-height: 100vh;
+  /* height: 100vh; */
   background-color: var(--color-gardenia);
 }
 
@@ -10,18 +11,35 @@
   display: flex;
   flex: 1;
   overflow: hidden;
+  position: relative;
+  height: calc(100vh - 3.75rem);
 }
 
-.sideBar {
+/* 메인 컨텐츠 영역 */
+.mainContent {
+  flex: 1;
+  margin-left: 18rem; /* 사이드바 너비만큼 */
+  transition: margin-left 0.3s ease;
+  width: calc(100% - 18rem); /* 전체 너비에서 사이드바 너비를 뺌 */
+  height: 100%;
+}
+
+.mainContent.sidebarClosed {
+  margin-left: 3.75rem; /* 접힌 사이드바 너비만큼 */
+  width: calc(100% - 3.75rem);
+}
+
+/* .sideBar {
   width: 20%;
   background-color: var(--color-tendril);
   color: white;
   padding: 1rem;
   overflow-y: auto;
-}
+} */
 
 .chatContainer {
   flex: 1;
+  height: calc(100vh - 3.75rem);
   display: flex;
   flex-direction: column;
   padding: 1rem;
@@ -42,6 +60,7 @@
 /* 입력 컨테이너 */
 .inputContainer {
   position: relative;
+  height: 4.75rem;
   padding: 1rem;
   background-color: white;
   border-top: 1px solid var(--color-cobblestone);

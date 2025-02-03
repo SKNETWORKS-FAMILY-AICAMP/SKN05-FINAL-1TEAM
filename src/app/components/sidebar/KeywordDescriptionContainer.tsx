@@ -1,6 +1,7 @@
 'use client';
 
 import { useState, useEffect } from 'react';
+import ReactMarkdown from 'react-markdown';
 import styles from '@/app/styles/sideBar.module.css';
 
 interface KeywordDescription {
@@ -64,7 +65,9 @@ export function KeywordDescriptionContainer() {
         <>
           <h4 className={styles.keywordName}>#{currentKeyword.keyword}</h4>
           <hr className={styles.messageDivider} />
-          <p className={styles.keywordDescription}>{currentKeyword.description}</p>
+          <div className={styles.keywordDescription}>
+            <ReactMarkdown>{currentKeyword.description}</ReactMarkdown>
+          </div>
         </>
       ) : (
         <p className={styles.emptyMessage}>키워드를 클릭하면 설명이 표시됩니다.</p>
