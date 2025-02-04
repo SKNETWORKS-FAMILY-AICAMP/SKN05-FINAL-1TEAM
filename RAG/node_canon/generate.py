@@ -2,7 +2,7 @@
 
 from typing import Any, Dict
 
-from node.generation import generation_chain
+from node_canon.generation import generation_chain
 from state import GraphState
 
 def generate(state: GraphState) -> Dict[str, Any]:

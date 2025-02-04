@@ -3,13 +3,13 @@ from dotenv import load_dotenv
 from langgraph.graph import START, END, StateGraph
 from langgraph.types import Send
 
-from node.generate import generate
-from node.retrieve import ensemble_document
-from node.multiQuery import generate_transformed_queries
-from node.multiQueryRetrieve import multiquery_retrieve
-from node.queryMerge import merge_results
-from node.documentFilter import filter_document
-from node.rerank import rerank_docs
+from node_canon.generate import generate
+from node_canon.retrieve import ensemble_document
+from node_canon.multiQuery import generate_transformed_queries
+from node_canon.multiQueryRetrieve import multiquery_retrieve
+from node_canon.queryMerge import merge_results
+from node_canon.documentFilter import filter_document
+from node_canon.rerank import rerank_docs
 from state import GraphState
 
 load_dotenv()

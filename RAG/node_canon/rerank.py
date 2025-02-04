@@ -20,5 +20,5 @@ def rerank_docs(state: GraphState) -> GraphState:
     questions = state['question']
     documents = state['filtered_context']
     reranked_docs = rerank_with_cohere(questions, documents)
-    # print(reranked_docs)
+    print(reranked_docs)
     return {"rerank_context": reranked_docs}
