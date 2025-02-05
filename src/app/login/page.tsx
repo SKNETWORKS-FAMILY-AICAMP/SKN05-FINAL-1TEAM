@@ -54,17 +54,19 @@ export default function LoginPage() {
       }
 
       // userStore 업데이트
-      useUserStore.getState().setUser(
-        data.userId,
-        data.username,
-        data.email,
-        data.access_token
-      );
+      useUserStore.getState().setAccessToken(data.access_token);
+      useUserStore.getState().setUser(data.userId, data.username, data.email);
+
+      // 로컬 스토리지에 access token과 사용자 정보 저장
+      localStorage.setItem('accessToken', data.access_token);
+      localStorage.setItem('userId', data.userId);
+      localStorage.setItem('username', data.username);
+      localStorage.setItem('email', data.email);
 
       setSuccessMessage('로그인 성공! 메인 페이지로 이동합니다.');
       setTimeout(() => {
         router.push('/chat');
-      }, 2000);
+      }, 1000); // 2000ms에서 1000ms로 변경
     } catch (error: any) {
       setFormError(error.message || '로그인 중 문제가 발생했습니다.');
     } finally {

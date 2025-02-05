@@ -17,12 +17,12 @@ export default function ChatPage() {
   useEffect(() => {
     // 토큰이 없으면 로그인 페이지로 리다이렉트
     if (!accessToken) {
-      router.push('/login');
+      router.push('/');
     }
   }, [accessToken, router]);
 
   if (!accessToken) {
-    return null;
+    return null; // accessToken이 없으면 아무것도 렌더링하지 않음
   }
 
   return (

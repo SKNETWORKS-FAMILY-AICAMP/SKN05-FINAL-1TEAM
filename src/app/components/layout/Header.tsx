@@ -5,7 +5,7 @@ import { useUserStore } from '@/app/store/userStore'; // userStore를 가져오�
 import { useRouter } from 'next/navigation'; // useRouter를 가져옵니다.
 
 export function Header() {
-  const { accessToken } = useUserStore(); // userStore에서 accessToken을 가져옵니다.
+  const { accessToken, clearUser } = useUserStore(); // userStore에서 accessToken을 가져옵니다.
   const router = useRouter(); // useRouter 훅을 사용합니다.
 
   const handleLogin = () => {
@@ -13,6 +13,11 @@ export function Header() {
   };
 
   const handleLogout = () => {
+    clearUser(); // userStore에서 사용자 정보 및 access token 삭제
+    localStorage.removeItem('accessToken'); // 로컬 스토리지에서 access token 삭제
+    localStorage.removeItem('userId'); // 로컬 스토리지에서 userId 삭제
+    localStorage.removeItem('username'); // 로컬 스토리지에서 username 삭제
+    localStorage.removeItem('email'); // 로컬 스토리지에서 email 삭제
     router.push('/login'); // 로그아웃 후 /login으로 이동
   };
 
