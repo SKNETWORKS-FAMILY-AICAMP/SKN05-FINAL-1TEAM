@@ -1,7 +1,8 @@
 # multiQueryretrieve.py
+# not use
 from state import GraphState
-from ingestion import retriever
-from node_canon.multiQuery import llm_chain
+from node.subgraph.ingestion import retriever
+from node.subgraph.node_canon.multiQuery import llm_chain
 
 from langchain.retrievers.multi_query import MultiQueryRetriever
 

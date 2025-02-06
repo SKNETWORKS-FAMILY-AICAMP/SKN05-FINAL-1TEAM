@@ -1,4 +1,5 @@
 # 답변 생성 체인
+# not use
 from dotenv import load_dotenv
 # from langchain import hub
 from langchain_core.output_parsers import StrOutputParser
