@@ -64,7 +64,7 @@ export function KeywordDescriptionContainer() {
       ) : currentKeyword ? (
         <>
           <h4 className={styles.keywordName}>#{currentKeyword.keyword}</h4>
-          <hr className={styles.messageDivider} />
+          <hr className={styles.divider} />
           <div className={styles.keywordDescription}>
             <ReactMarkdown>{currentKeyword.description}</ReactMarkdown>
           </div>

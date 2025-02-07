@@ -9,24 +9,28 @@
 
 .contentContainer {
   display: flex;
-  flex: 1;
+  flex-grow: 1;
+  width: 100%;
   overflow: hidden;
   position: relative;
   height: calc(100vh - 3.75rem);
+  transition: width 0.3s ease-in-out;
+  /* height: 100%; */
 }
 
 /* 메인 컨텐츠 영역 */
 .mainContent {
-  flex: 1;
-  margin-left: 18rem; /* 사이드바 너비만큼 */
-  transition: margin-left 0.3s ease;
-  width: calc(100% - 18rem); /* 전체 너비에서 사이드바 너비를 뺌 */
+  flex-grow: 1;
+  /* margin-left: 3rem; */
+  transition: width 0.3s ease-in-out;
+  width: 100%;
   height: 100%;
 }
 
 .mainContent.sidebarClosed {
-  margin-left: 3.75rem; /* 접힌 사이드바 너비만큼 */
-  width: calc(100% - 3.75rem);
+  /* margin-left: 0; 접힌 사이드바 너비만큼 */
+  /* width: calc(100% - 3.75rem); */
+  width: 100%;
 }
 
 /* .sideBar {
@@ -38,13 +42,14 @@
 } */
 
 .chatContainer {
-  flex: 1;
+  flex-grow: 1;
   height: calc(100vh - 3.75rem);
   display: flex;
   flex-direction: column;
   padding: 1rem;
   background-color: white;
   overflow: hidden;
+  transition: all 0.3s ease;
 }
 
 /* 메시지 컨테이너 */
@@ -333,5 +338,12 @@
   }
   50% {
     opacity: 0;
+  }
+}
+
+
+@media (max-width: 768px) {
+  .mainContent {
+    width: 100%;
   }
 }
