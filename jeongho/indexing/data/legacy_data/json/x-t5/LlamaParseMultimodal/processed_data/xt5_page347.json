@@ -1,0 +1,14 @@
+{
+    "parsing_result": "\n## External Flash Units\n\n### Setting: Flash Compensation/Output\n\n**Description:**\n\nThe options available vary with flash control mode.\n\n- **TTL:** Adjust flash compensation (the full value may not be applied if the limits of the flash control system are exceeded). In the cases of the EF-X20, EF-20, and EF-42, the selected value is added to the value selected with the flash unit.\n- **M/MULTI:** Adjust flash output (compatible units only). Choose from values expressed as fractions of full power, from ½ (mode M) or ¼ (MULTI) down to 1/512 in increments equivalent to 1/3 EV. The desired results may not be achieved at low values if they exceed the limits of the flash control system; take a test shot and check the results.\n\n### Setting: Flash Mode (TTL)\n\n**Description:**\n\nChoose a flash mode for TTL flash control. The options available vary with the shooting mode (P, S, A, or M) selected.\n\n- **AUTO (FLASH AUTO):** The flash fires only as required; flash level is adjusted according to subject brightness. A ⚡ icon displayed when the shutter button is pressed halfway indicates that the flash will fire when the photo is taken.\n- **TTL (STANDARD):** The flash fires with every shot if possible; flash level is adjusted according to subject brightness. The flash will not fire if not fully charged when the shutter is released.\n- **SLOW (SLOW SYNC.):** Combine the flash with slow shutter speeds when photographing portrait subjects against a backdrop of night scenery. The flash will not fire if not fully charged when the shutter is released.\n",
+    "metadata": {
+        "page": 347,
+        "model": "x-t5",
+        "chapter": "Peripherals and Optional Accessories",
+        "section": "External Flash Units",
+        "subsection": [
+            "SHOE MOUNT FLASH"
+        ],
+        "embedding_model": "text-embedding-3-small",
+        "token": 349
+    }
+}

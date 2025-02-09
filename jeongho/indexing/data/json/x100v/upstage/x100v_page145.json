@@ -1,0 +1,238 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:14px'>SHOOTING SETTING</header>\n<h1 id='1' style='font-size:20px'>MULTIPLE EXPOSURE CTRL</h1>\n\n<figure id='3'><img style='font-size:16px' alt=\"+ →\" data-coord=\"top-left:(293,647); bottom-right:(2530,1172)\" /><br><figcaption id='2' style='font-size:16px'>Choose how the camera combines shots to create a multiple ex-<br>posure.</figcaption></figure>\n<table id='4' style='font-size:18px'><tr><td>Option</td><td>Description</td></tr><tr><td>ADDITIVE</td><td>The camera adds the exposures together. You may need to lower exposure compensation depending on the number of shots.</td></tr><tr><td>AVERAGE</td><td>The camera automatically optimizes exposure for the final pic- ture. The background in series shot without changing the com- position will be optimally exposed.</td></tr><tr><td>BRIGHT</td><td>The camera compares the exposures and chooses only the brightest pixel at each location. Colors may be mixed depending on their brightness and hue.</td></tr><tr><td>DARK</td><td>The camera compares the exposures and chooses only the dark- est pixel at each location. Colors may be mixed depending on their brightness and hue.</td></tr></table>\n<br><p id='5' data-category='paragraph' style='font-size:14px'>The camera can combine up to nine exposures.</p>\n<br><footer id='6' style='font-size:22px'>6<br>The<br>Shooting<br>Menus</footer>\n<footer id='7' style='font-size:20px'>145</footer>",
+        "markdown": "SHOOTING SETTING\n\n# MULTIPLE EXPOSURE CTRL\n\nChoose how the camera combines shots to create a multiple ex-\nposure.\n\n![image](/image/placeholder)\n+ →\n\n| Option | Description |\n| --- | --- |\n| ADDITIVE | The camera adds the exposures together. You may need to lower exposure compensation depending on the number of shots. |\n| AVERAGE | The camera automatically optimizes exposure for the final pic- ture. The background in series shot without changing the com- position will be optimally exposed. |\n| BRIGHT | The camera compares the exposures and chooses only the brightest pixel at each location. Colors may be mixed depending on their brightness and hue. |\n| DARK | The camera compares the exposures and chooses only the dark- est pixel at each location. Colors may be mixed depending on their brightness and hue. |\n\n\nThe camera can combine up to nine exposures.\n\n6\nThe\nShooting\nMenus\n\n145",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:14px'>SHOOTING SETTING</header>",
+                "markdown": "SHOOTING SETTING",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.718,
+                    "y": 0.0287
+                },
+                {
+                    "x": 0.918,
+                    "y": 0.0287
+                },
+                {
+                    "x": 0.918,
+                    "y": 0.0492
+                },
+                {
+                    "x": 0.718,
+                    "y": 0.0492
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='1' style='font-size:20px'>MULTIPLE EXPOSURE CTRL</h1>",
+                "markdown": "# MULTIPLE EXPOSURE CTRL",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1067,
+                    "y": 0.0733
+                },
+                {
+                    "x": 0.4715,
+                    "y": 0.0733
+                },
+                {
+                    "x": 0.4715,
+                    "y": 0.095
+                },
+                {
+                    "x": 0.1067,
+                    "y": 0.095
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='2' data-category='paragraph' style='font-size:16px'>Choose how the camera combines shots to create a multiple ex-<br>posure.</p>",
+                "markdown": "Choose how the camera combines shots to create a multiple ex-\nposure.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1056,
+                    "y": 0.1047
+                },
+                {
+                    "x": 0.9179,
+                    "y": 0.1047
+                },
+                {
+                    "x": 0.9179,
+                    "y": 0.1529
+                },
+                {
+                    "x": 0.1056,
+                    "y": 0.1529
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "figure",
+            "content": {
+                "html": "<figure id='3'><img style='font-size:16px' alt=\"+ →\" data-coord=\"top-left:(293,647); bottom-right:(2530,1172)\" /></figure>",
+                "markdown": "![image](/image/placeholder)\n+ →",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1061,
+                    "y": 0.1662
+                },
+                {
+                    "x": 0.9154,
+                    "y": 0.1662
+                },
+                {
+                    "x": 0.9154,
+                    "y": 0.3009
+                },
+                {
+                    "x": 0.1061,
+                    "y": 0.3009
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='4' style='font-size:18px'><tr><td>Option</td><td>Description</td></tr><tr><td>ADDITIVE</td><td>The camera adds the exposures together. You may need to lower exposure compensation depending on the number of shots.</td></tr><tr><td>AVERAGE</td><td>The camera automatically optimizes exposure for the final pic- ture. The background in series shot without changing the com- position will be optimally exposed.</td></tr><tr><td>BRIGHT</td><td>The camera compares the exposures and chooses only the brightest pixel at each location. Colors may be mixed depending on their brightness and hue.</td></tr><tr><td>DARK</td><td>The camera compares the exposures and chooses only the dark- est pixel at each location. Colors may be mixed depending on their brightness and hue.</td></tr></table>",
+                "markdown": "| Option | Description |\n| --- | --- |\n| ADDITIVE | The camera adds the exposures together. You may need to lower exposure compensation depending on the number of shots. |\n| AVERAGE | The camera automatically optimizes exposure for the final pic- ture. The background in series shot without changing the com- position will be optimally exposed. |\n| BRIGHT | The camera compares the exposures and chooses only the brightest pixel at each location. Colors may be mixed depending on their brightness and hue. |\n| DARK | The camera compares the exposures and chooses only the dark- est pixel at each location. Colors may be mixed depending on their brightness and hue. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1076,
+                    "y": 0.3136
+                },
+                {
+                    "x": 0.9204,
+                    "y": 0.3136
+                },
+                {
+                    "x": 0.9204,
+                    "y": 0.603
+                },
+                {
+                    "x": 0.1076,
+                    "y": 0.603
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='5' data-category='paragraph' style='font-size:14px'>The camera can combine up to nine exposures.</p>",
+                "markdown": "The camera can combine up to nine exposures.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1154,
+                    "y": 0.6098
+                },
+                {
+                    "x": 0.6541,
+                    "y": 0.6098
+                },
+                {
+                    "x": 0.6541,
+                    "y": 0.6306
+                },
+                {
+                    "x": 0.1154,
+                    "y": 0.6306
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<br><footer id='6' style='font-size:22px'>6<br>The<br>Shooting<br>Menus</footer>",
+                "markdown": "6\nThe\nShooting\nMenus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9562,
+                    "y": 0.5408
+                },
+                {
+                    "x": 0.9831,
+                    "y": 0.5408
+                },
+                {
+                    "x": 0.9831,
+                    "y": 0.7314
+                },
+                {
+                    "x": 0.9562,
+                    "y": 0.7314
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='7' style='font-size:20px'>145</footer>",
+                "markdown": "145",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.8625,
+                    "y": 0.9574
+                },
+                {
+                    "x": 0.9171,
+                    "y": 0.9574
+                },
+                {
+                    "x": 0.9171,
+                    "y": 0.9785
+                },
+                {
+                    "x": 0.8625,
+                    "y": 0.9785
+                }
+            ],
+            "id": 7,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

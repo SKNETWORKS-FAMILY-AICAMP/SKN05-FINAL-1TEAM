@@ -1,0 +1,92 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "\n# FIX MOVIE CROP MAGNIFICATION\n\nFix the movie crop ratio at 1.29:1. This makes it easier to match crops when filming in different formats.\n\n| Options |     |\n|---------|-----|\n| ON      | OFF |\n\n# F-Log RECORDING\n\nSelect **ON** to record movies using a soft gamma curve with a wide gamut suitable for further processing post-production. Sensitivity is restricted to values between ISO 640 and 12800.\n\n| Options |     |\n|---------|-----|\n| ON      | OFF |\n",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "FIX MOVIE CROP MAGNIFICATION",
+                    "md": "# FIX MOVIE CROP MAGNIFICATION"
+                },
+                {
+                    "type": "text",
+                    "value": "Fix the movie crop ratio at 1.29:1. This makes it easier to match crops when filming in different formats.",
+                    "md": "Fix the movie crop ratio at 1.29:1. This makes it easier to match crops when filming in different formats."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Options",
+                            ""
+                        ],
+                        [
+                            "ON",
+                            "OFF"
+                        ]
+                    ],
+                    "md": "| Options |     |\n|---------|-----|\n| ON      | OFF |",
+                    "isPerfectTable": true,
+                    "csv": "\"Options\",\"\"\n\"ON\",\"OFF\""
+                },
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "F-Log RECORDING",
+                    "md": "# F-Log RECORDING"
+                },
+                {
+                    "type": "text",
+                    "value": "Select **ON** to record movies using a soft gamma curve with a wide gamut suitable for further processing post-production. Sensitivity is restricted to values between ISO 640 and 12800.",
+                    "md": "Select **ON** to record movies using a soft gamma curve with a wide gamut suitable for further processing post-production. Sensitivity is restricted to values between ISO 640 and 12800."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Options",
+                            ""
+                        ],
+                        [
+                            "ON",
+                            "OFF"
+                        ]
+                    ],
+                    "md": "| Options |     |\n|---------|-----|\n| ON      | OFF |",
+                    "isPerfectTable": true,
+                    "csv": "\"Options\",\"\"\n\"ON\",\"OFF\""
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "parsingMode": "multimodal-openai-gpt4o",
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 141.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "f1cefd06-e949-491f-996a-e51f425757d3",
+    "file_path": "../data/raw_data/x-e4/x-e4_split/x-e4_page182.pdf"
+}

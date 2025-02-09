@@ -1,0 +1,81 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "# Using Two Cards\n\nThe camera can be used with two cards, one in each of its two slots. At default settings, photos are saved to the card in the second slot only when the card in the first slot is full. This can be changed using **SAVE DATA SET-UP > CARD SLOT SETTING**.\n\n| Option      | Description                                                                                                                                                                                                                      | Display        |\n|-------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------|\n| SEQUENTIAL  | The card in the second slot is used only when the card in the first slot is full. If the second slot is selected for **SAVE DATA SET-UP > SELECT SLOT (SEQUENTIAL)**, recording will start on the card in the second slot and switch to the first slot when the card in the second slot is full. | !Sequential Display |\n| BACKUP      | Each picture is recorded twice, once to each card.                                                                                                                                                                               | !Backup Display     |\n| SEPARATE    | RAW pictures are recorded to the card in the first slot and JPEG or HEIF pictures to the card in the second slot. This setting takes effect only when SUPER FINE+RAW, FINE+RAW, or NORMAL+RAW is selected for **IMAGE QUALITY SETTING > IMAGE QUALITY**. | !Separate Display   |\n\nThe card used to store movies can be selected using **MOVIE SETTING > MEDIA REC SETTING**.",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "Using Two Cards",
+                    "md": "# Using Two Cards"
+                },
+                {
+                    "type": "text",
+                    "value": "The camera can be used with two cards, one in each of its two slots. At default settings, photos are saved to the card in the second slot only when the card in the first slot is full. This can be changed using **SAVE DATA SET-UP > CARD SLOT SETTING**.",
+                    "md": "The camera can be used with two cards, one in each of its two slots. At default settings, photos are saved to the card in the second slot only when the card in the first slot is full. This can be changed using **SAVE DATA SET-UP > CARD SLOT SETTING**."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Option",
+                            "Description",
+                            "Display"
+                        ],
+                        [
+                            "SEQUENTIAL",
+                            "The card in the second slot is used only when the card in the first slot is full. If the second slot is selected for **SAVE DATA SET-UP > SELECT SLOT (SEQUENTIAL)**, recording will start on the card in the second slot and switch to the first slot when the card in the second slot is full.",
+                            "!Sequential Display"
+                        ],
+                        [
+                            "BACKUP",
+                            "Each picture is recorded twice, once to each card.",
+                            "!Backup Display"
+                        ],
+                        [
+                            "SEPARATE",
+                            "RAW pictures are recorded to the card in the first slot and JPEG or HEIF pictures to the card in the second slot. This setting takes effect only when SUPER FINE+RAW, FINE+RAW, or NORMAL+RAW is selected for **IMAGE QUALITY SETTING > IMAGE QUALITY**.",
+                            "!Separate Display"
+                        ]
+                    ],
+                    "md": "| Option      | Description                                                                                                                                                                                                                      | Display        |\n|-------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------|\n| SEQUENTIAL  | The card in the second slot is used only when the card in the first slot is full. If the second slot is selected for **SAVE DATA SET-UP > SELECT SLOT (SEQUENTIAL)**, recording will start on the card in the second slot and switch to the first slot when the card in the second slot is full. | !Sequential Display |\n| BACKUP      | Each picture is recorded twice, once to each card.                                                                                                                                                                               | !Backup Display     |\n| SEPARATE    | RAW pictures are recorded to the card in the first slot and JPEG or HEIF pictures to the card in the second slot. This setting takes effect only when SUPER FINE+RAW, FINE+RAW, or NORMAL+RAW is selected for **IMAGE QUALITY SETTING > IMAGE QUALITY**. | !Separate Display   |",
+                    "isPerfectTable": true,
+                    "csv": "\"Option\",\"Description\",\"Display\"\n\"SEQUENTIAL\",\"The card in the second slot is used only when the card in the first slot is full. If the second slot is selected for **SAVE DATA SET-UP > SELECT SLOT (SEQUENTIAL)**, recording will start on the card in the second slot and switch to the first slot when the card in the second slot is full.\",\"!Sequential Display\"\n\"BACKUP\",\"Each picture is recorded twice, once to each card.\",\"!Backup Display\"\n\"SEPARATE\",\"RAW pictures are recorded to the card in the first slot and JPEG or HEIF pictures to the card in the second slot. This setting takes effect only when SUPER FINE+RAW, FINE+RAW, or NORMAL+RAW is selected for **IMAGE QUALITY SETTING > IMAGE QUALITY**.\",\"!Separate Display\""
+                },
+                {
+                    "type": "text",
+                    "value": "The card used to store movies can be selected using **MOVIE SETTING > MEDIA REC SETTING**.",
+                    "md": "The card used to store movies can be selected using **MOVIE SETTING > MEDIA REC SETTING**."
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 465.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "377a6e1b-8fef-4b06-8a90-f9d43ee8166b",
+    "file_path": "../data/raw_data/gfx100ii/gfx100ii_split/gfx100ii_page75.pdf"
+}

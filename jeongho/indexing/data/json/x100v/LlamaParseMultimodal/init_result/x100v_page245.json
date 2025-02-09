@@ -1,0 +1,110 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "# BUTTON/DIAL SETTING\n\n## SHUTTER AF\n\nChoose whether the camera focuses when the shutter button is pressed halfway.\n\n| Option | Description |\n|--------|-------------|\n| **AF-S** | • **ON**: Focus locks when the shutter button is pressed halfway. <br> • **OFF**: No focus operation is performed when the shutter button is pressed halfway. |\n| **AF-C** | • **ON**: The camera focuses while the shutter button is pressed halfway. <br> • **OFF**: No focus operation is performed when the shutter button is pressed halfway. |\n\n## SHUTTER AE\n\nIf ON is selected, exposure will lock while the shutter button is pressed halfway.\n\n| Option | Description |\n|--------|-------------|\n| **AF-S/MF** | • **ON**: Exposure locks when the shutter button is pressed halfway. <br> • **OFF**: Exposure does not lock when the shutter button is pressed halfway. |\n| **AF-C** | • **ON**: Exposure locks while the shutter button is pressed halfway. <br> • **OFF**: Exposure does not lock when the shutter button is pressed halfway. |\n\n> 💡 **Note:**  \n> Select **OFF** to allow the camera to adjust exposure before each shot taken in burst mode.",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "BUTTON/DIAL SETTING",
+                    "md": "# BUTTON/DIAL SETTING"
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "SHUTTER AF",
+                    "md": "## SHUTTER AF"
+                },
+                {
+                    "type": "text",
+                    "value": "Choose whether the camera focuses when the shutter button is pressed halfway.",
+                    "md": "Choose whether the camera focuses when the shutter button is pressed halfway."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Option",
+                            "Description"
+                        ],
+                        [
+                            "**AF-S**",
+                            "• **ON**: Focus locks when the shutter button is pressed halfway. <br> • **OFF**: No focus operation is performed when the shutter button is pressed halfway."
+                        ],
+                        [
+                            "**AF-C**",
+                            "• **ON**: The camera focuses while the shutter button is pressed halfway. <br> • **OFF**: No focus operation is performed when the shutter button is pressed halfway."
+                        ]
+                    ],
+                    "md": "| Option | Description |\n|--------|-------------|\n| **AF-S** | • **ON**: Focus locks when the shutter button is pressed halfway. <br> • **OFF**: No focus operation is performed when the shutter button is pressed halfway. |\n| **AF-C** | • **ON**: The camera focuses while the shutter button is pressed halfway. <br> • **OFF**: No focus operation is performed when the shutter button is pressed halfway. |",
+                    "isPerfectTable": true,
+                    "csv": "\"Option\",\"Description\"\n\"**AF-S**\",\"• **ON**: Focus locks when the shutter button is pressed halfway. <br> • **OFF**: No focus operation is performed when the shutter button is pressed halfway.\"\n\"**AF-C**\",\"• **ON**: The camera focuses while the shutter button is pressed halfway. <br> • **OFF**: No focus operation is performed when the shutter button is pressed halfway.\""
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "SHUTTER AE",
+                    "md": "## SHUTTER AE"
+                },
+                {
+                    "type": "text",
+                    "value": "If ON is selected, exposure will lock while the shutter button is pressed halfway.",
+                    "md": "If ON is selected, exposure will lock while the shutter button is pressed halfway."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Option",
+                            "Description"
+                        ],
+                        [
+                            "**AF-S/MF**",
+                            "• **ON**: Exposure locks when the shutter button is pressed halfway. <br> • **OFF**: Exposure does not lock when the shutter button is pressed halfway."
+                        ],
+                        [
+                            "**AF-C**",
+                            "• **ON**: Exposure locks while the shutter button is pressed halfway. <br> • **OFF**: Exposure does not lock when the shutter button is pressed halfway."
+                        ]
+                    ],
+                    "md": "| Option | Description |\n|--------|-------------|\n| **AF-S/MF** | • **ON**: Exposure locks when the shutter button is pressed halfway. <br> • **OFF**: Exposure does not lock when the shutter button is pressed halfway. |\n| **AF-C** | • **ON**: Exposure locks while the shutter button is pressed halfway. <br> • **OFF**: Exposure does not lock when the shutter button is pressed halfway. |",
+                    "isPerfectTable": true,
+                    "csv": "\"Option\",\"Description\"\n\"**AF-S/MF**\",\"• **ON**: Exposure locks when the shutter button is pressed halfway. <br> • **OFF**: Exposure does not lock when the shutter button is pressed halfway.\"\n\"**AF-C**\",\"• **ON**: Exposure locks while the shutter button is pressed halfway. <br> • **OFF**: Exposure does not lock when the shutter button is pressed halfway.\""
+                },
+                {
+                    "type": "text",
+                    "value": "> 💡 **Note:**  \n> Select **OFF** to allow the camera to adjust exposure before each shot taken in burst mode.",
+                    "md": "> 💡 **Note:**  \n> Select **OFF** to allow the camera to adjust exposure before each shot taken in burst mode."
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 672.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "1396f490-ce0f-4673-9161-a4d2098e0a16",
+    "file_path": "../data/raw_data/x100v/x100v_split/x100v_page245.pdf"
+}

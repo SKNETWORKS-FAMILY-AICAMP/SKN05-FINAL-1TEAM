@@ -1,0 +1,322 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<p id='0' data-category='paragraph' style='font-size:14px'>SOUND SETTING</p>\n<h1 id='1' style='font-size:18px'>PLAYBACK VOLUME</h1>\n<br><h1 id='2' style='font-size:20px'>Adjust the volume for movie playback.</h1>\n<table id='3' style='font-size:14px'><tr><td colspan=\"11\">Options</td></tr><tr><td>0</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td></tr></table>\n<h1 id='4' style='font-size:18px'>4ch AUDIO PLAYBACK</h1>\n<br><h1 id='5' style='font-size:18px'>Adjust audio settings for use when viewing 4ch movies.</h1>\n<br><table id='6' style='font-size:16px'><tr><td>Option</td><td>Description</td></tr><tr><td>XLR</td><td>The camera plays audio recorded via external micro- phones connected via the XLR microphone adapter.</td></tr><tr><td>CAMERA</td><td>The camera plays audio recorded via the camera's built-in microphone or external microphones connected via the microphone jack.</td></tr></table>\n<p id='7' data-category='paragraph' style='font-size:16px'>You can also switch sources while viewing the playback display by<br>pressing the center of the focus stick (focus lever).</p>\n<footer id='8' style='font-size:22px'>The<br>Setup<br>Menus</footer>\n<footer id='9' style='font-size:14px'>9</footer>\n<footer id='10' style='font-size:20px'>341</footer>",
+        "markdown": "SOUND SETTING\n\n# PLAYBACK VOLUME\n\n# Adjust the volume for movie playback.\n\n| Options | Options | Options | Options | Options | Options | Options | Options | Options | Options | Options |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |\n\n\n# 4ch AUDIO PLAYBACK\n\n# Adjust audio settings for use when viewing 4ch movies.\n\n| Option | Description |\n| --- | --- |\n| XLR | The camera plays audio recorded via external micro- phones connected via the XLR microphone adapter. |\n| CAMERA | The camera plays audio recorded via the camera's built-in microphone or external microphones connected via the microphone jack. |\n\n\nYou can also switch sources while viewing the playback display by\npressing the center of the focus stick (focus lever).\n\nThe\nSetup\nMenus\n\n9\n\n341",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='0' data-category='paragraph' style='font-size:14px'>SOUND SETTING</p>",
+                "markdown": "SOUND SETTING",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.7489,
+                    "y": 0.0284
+                },
+                {
+                    "x": 0.918,
+                    "y": 0.0284
+                },
+                {
+                    "x": 0.918,
+                    "y": 0.0493
+                },
+                {
+                    "x": 0.7489,
+                    "y": 0.0493
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='1' style='font-size:18px'>PLAYBACK VOLUME</h1>",
+                "markdown": "# PLAYBACK VOLUME",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.11,
+                    "y": 0.0729
+                },
+                {
+                    "x": 0.3792,
+                    "y": 0.0729
+                },
+                {
+                    "x": 0.3792,
+                    "y": 0.0949
+                },
+                {
+                    "x": 0.11,
+                    "y": 0.0949
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='2' style='font-size:20px'>Adjust the volume for movie playback.</h1>",
+                "markdown": "# Adjust the volume for movie playback.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1059,
+                    "y": 0.1036
+                },
+                {
+                    "x": 0.5958,
+                    "y": 0.1036
+                },
+                {
+                    "x": 0.5958,
+                    "y": 0.1287
+                },
+                {
+                    "x": 0.1059,
+                    "y": 0.1287
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='3' style='font-size:14px'><tr><td colspan=\"11\">Options</td></tr><tr><td>0</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td></tr></table>",
+                "markdown": "| Options | Options | Options | Options | Options | Options | Options | Options | Options | Options | Options |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1076,
+                    "y": 0.1421
+                },
+                {
+                    "x": 0.9147,
+                    "y": 0.1421
+                },
+                {
+                    "x": 0.9147,
+                    "y": 0.1927
+                },
+                {
+                    "x": 0.1076,
+                    "y": 0.1927
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='4' style='font-size:18px'>4ch AUDIO PLAYBACK</h1>",
+                "markdown": "# 4ch AUDIO PLAYBACK",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1055,
+                    "y": 0.2093
+                },
+                {
+                    "x": 0.41,
+                    "y": 0.2093
+                },
+                {
+                    "x": 0.41,
+                    "y": 0.2313
+                },
+                {
+                    "x": 0.1055,
+                    "y": 0.2313
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='5' style='font-size:18px'>Adjust audio settings for use when viewing 4ch movies.</h1>",
+                "markdown": "# Adjust audio settings for use when viewing 4ch movies.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1046,
+                    "y": 0.2406
+                },
+                {
+                    "x": 0.809,
+                    "y": 0.2406
+                },
+                {
+                    "x": 0.809,
+                    "y": 0.2659
+                },
+                {
+                    "x": 0.1046,
+                    "y": 0.2659
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='6' style='font-size:16px'><tr><td>Option</td><td>Description</td></tr><tr><td>XLR</td><td>The camera plays audio recorded via external micro- phones connected via the XLR microphone adapter.</td></tr><tr><td>CAMERA</td><td>The camera plays audio recorded via the camera's built-in microphone or external microphones connected via the microphone jack.</td></tr></table>",
+                "markdown": "| Option | Description |\n| --- | --- |\n| XLR | The camera plays audio recorded via external micro- phones connected via the XLR microphone adapter. |\n| CAMERA | The camera plays audio recorded via the camera's built-in microphone or external microphones connected via the microphone jack. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1096,
+                    "y": 0.2765
+                },
+                {
+                    "x": 0.9141,
+                    "y": 0.2765
+                },
+                {
+                    "x": 0.9141,
+                    "y": 0.4304
+                },
+                {
+                    "x": 0.1096,
+                    "y": 0.4304
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='7' data-category='paragraph' style='font-size:16px'>You can also switch sources while viewing the playback display by<br>pressing the center of the focus stick (focus lever).</p>",
+                "markdown": "You can also switch sources while viewing the playback display by\npressing the center of the focus stick (focus lever).",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1206,
+                    "y": 0.4426
+                },
+                {
+                    "x": 0.916,
+                    "y": 0.4426
+                },
+                {
+                    "x": 0.916,
+                    "y": 0.489
+                },
+                {
+                    "x": 0.1206,
+                    "y": 0.489
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='8' style='font-size:22px'>The<br>Setup<br>Menus</footer>",
+                "markdown": "The\nSetup\nMenus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9577,
+                    "y": 0.5708
+                },
+                {
+                    "x": 0.9799,
+                    "y": 0.5708
+                },
+                {
+                    "x": 0.9799,
+                    "y": 0.6972
+                },
+                {
+                    "x": 0.9577,
+                    "y": 0.6972
+                }
+            ],
+            "id": 8,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='9' style='font-size:14px'>9</footer>",
+                "markdown": "9",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9574,
+                    "y": 0.7174
+                },
+                {
+                    "x": 0.9756,
+                    "y": 0.7174
+                },
+                {
+                    "x": 0.9756,
+                    "y": 0.737
+                },
+                {
+                    "x": 0.9574,
+                    "y": 0.737
+                }
+            ],
+            "id": 9,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='10' style='font-size:20px'>341</footer>",
+                "markdown": "341",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.8608,
+                    "y": 0.9567
+                },
+                {
+                    "x": 0.915,
+                    "y": 0.9567
+                },
+                {
+                    "x": 0.915,
+                    "y": 0.9793
+                },
+                {
+                    "x": 0.8608,
+                    "y": 0.9793
+                }
+            ],
+            "id": 10,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

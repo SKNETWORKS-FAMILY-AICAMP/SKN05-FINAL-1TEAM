@@ -1,0 +1,126 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<table id='0' style='font-size:14px'><tr><td>Error</td><td>Solution</td></tr><tr><td>CANNOT REACH FTP SERVER OR COMMUNI- CATE WITH FTP SERVER PLEASE CHECK SETTINGS</td><td>Duplicate IP address: Change the camera IP address to en- sure that it does not duplicate the address of any other device on the network. Invalid IP address: If the network includes a DHCP server, select auto address allocation. If IP addresses are assigned manually, check that the IP address is correct. The DNS server address is incorrect: If you configured the DNS address manually, be sure the information you en- tered is correct. FTP server settings are incorrect: Check that the server type, server address, port number, and proxy settings are cor- rect. The FTP server is down: Contact the network administrator.</td></tr><tr><td>LOGIN TO FTP SERVER HAS FAILED</td><td>Incorrect user name or password: Check that you have sup- plied the correct user name and password.</td></tr><tr><td>CANNOT TRANSFER OR SAVE FILES TO FTP SERVER</td><td>FTP server permissions are configured incorrectly: Check that you have write access to the FTP server. The FTP server is full: Check the amount of free storage space remaining on the FTP server.</td></tr><tr><td>CA ROOT CERTIFICATE IS INVALID</td><td>The root certificate has expired: After confirming that the camera clock is set to the correct time and date, load an updated CA root certificate.</td></tr></table>\n<header id='1' style='font-size:20px'>Technical<br>Notes</header>\n<footer id='2' style='font-size:16px'>12</footer>\n<footer id='3' style='font-size:18px'>458</footer>",
+        "markdown": "| Error | Solution |\n| --- | --- |\n| CANNOT REACH FTP SERVER OR COMMUNI- CATE WITH FTP SERVER PLEASE CHECK SETTINGS | Duplicate IP address: Change the camera IP address to en- sure that it does not duplicate the address of any other device on the network. Invalid IP address: If the network includes a DHCP server, select auto address allocation. If IP addresses are assigned manually, check that the IP address is correct. The DNS server address is incorrect: If you configured the DNS address manually, be sure the information you en- tered is correct. FTP server settings are incorrect: Check that the server type, server address, port number, and proxy settings are cor- rect. The FTP server is down: Contact the network administrator. |\n| LOGIN TO FTP SERVER HAS FAILED | Incorrect user name or password: Check that you have sup- plied the correct user name and password. |\n| CANNOT TRANSFER OR SAVE FILES TO FTP SERVER | FTP server permissions are configured incorrectly: Check that you have write access to the FTP server. The FTP server is full: Check the amount of free storage space remaining on the FTP server. |\n| CA ROOT CERTIFICATE IS INVALID | The root certificate has expired: After confirming that the camera clock is set to the correct time and date, load an updated CA root certificate. |\n\n\nTechnical\nNotes\n\n12\n\n458",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='0' style='font-size:14px'><tr><td>Error</td><td>Solution</td></tr><tr><td>CANNOT REACH FTP SERVER OR COMMUNI- CATE WITH FTP SERVER PLEASE CHECK SETTINGS</td><td>Duplicate IP address: Change the camera IP address to en- sure that it does not duplicate the address of any other device on the network. Invalid IP address: If the network includes a DHCP server, select auto address allocation. If IP addresses are assigned manually, check that the IP address is correct. The DNS server address is incorrect: If you configured the DNS address manually, be sure the information you en- tered is correct. FTP server settings are incorrect: Check that the server type, server address, port number, and proxy settings are cor- rect. The FTP server is down: Contact the network administrator.</td></tr><tr><td>LOGIN TO FTP SERVER HAS FAILED</td><td>Incorrect user name or password: Check that you have sup- plied the correct user name and password.</td></tr><tr><td>CANNOT TRANSFER OR SAVE FILES TO FTP SERVER</td><td>FTP server permissions are configured incorrectly: Check that you have write access to the FTP server. The FTP server is full: Check the amount of free storage space remaining on the FTP server.</td></tr><tr><td>CA ROOT CERTIFICATE IS INVALID</td><td>The root certificate has expired: After confirming that the camera clock is set to the correct time and date, load an updated CA root certificate.</td></tr></table>",
+                "markdown": "| Error | Solution |\n| --- | --- |\n| CANNOT REACH FTP SERVER OR COMMUNI- CATE WITH FTP SERVER PLEASE CHECK SETTINGS | Duplicate IP address: Change the camera IP address to en- sure that it does not duplicate the address of any other device on the network. Invalid IP address: If the network includes a DHCP server, select auto address allocation. If IP addresses are assigned manually, check that the IP address is correct. The DNS server address is incorrect: If you configured the DNS address manually, be sure the information you en- tered is correct. FTP server settings are incorrect: Check that the server type, server address, port number, and proxy settings are cor- rect. The FTP server is down: Contact the network administrator. |\n| LOGIN TO FTP SERVER HAS FAILED | Incorrect user name or password: Check that you have sup- plied the correct user name and password. |\n| CANNOT TRANSFER OR SAVE FILES TO FTP SERVER | FTP server permissions are configured incorrectly: Check that you have write access to the FTP server. The FTP server is full: Check the amount of free storage space remaining on the FTP server. |\n| CA ROOT CERTIFICATE IS INVALID | The root certificate has expired: After confirming that the camera clock is set to the correct time and date, load an updated CA root certificate. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0816,
+                    "y": 0.072
+                },
+                {
+                    "x": 0.8954,
+                    "y": 0.072
+                },
+                {
+                    "x": 0.8954,
+                    "y": 0.621
+                },
+                {
+                    "x": 0.0816,
+                    "y": 0.621
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='1' style='font-size:20px'>Technical<br>Notes</header>",
+                "markdown": "Technical\nNotes",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0198,
+                    "y": 0.7618
+                },
+                {
+                    "x": 0.0402,
+                    "y": 0.7618
+                },
+                {
+                    "x": 0.0402,
+                    "y": 0.8801
+                },
+                {
+                    "x": 0.0198,
+                    "y": 0.8801
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='2' style='font-size:16px'>12</footer>",
+                "markdown": "12",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0194,
+                    "y": 0.897
+                },
+                {
+                    "x": 0.0441,
+                    "y": 0.897
+                },
+                {
+                    "x": 0.0441,
+                    "y": 0.9169
+                },
+                {
+                    "x": 0.0194,
+                    "y": 0.9169
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='3' style='font-size:18px'>458</footer>",
+                "markdown": "458",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0827,
+                    "y": 0.9573
+                },
+                {
+                    "x": 0.1395,
+                    "y": 0.9573
+                },
+                {
+                    "x": 0.1395,
+                    "y": 0.9792
+                },
+                {
+                    "x": 0.0827,
+                    "y": 0.9792
+                }
+            ],
+            "id": 3,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

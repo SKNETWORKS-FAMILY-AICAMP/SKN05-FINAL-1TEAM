@@ -1,0 +1,266 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:14px'>BUTTON/DIAL SETTING</header>\n<h1 id='1' style='font-size:16px'>S.S OPERATION</h1>\n<br><h1 id='2' style='font-size:20px'>Select OFF to disable shutter-speed fine-tuning using the com-<br>mand dials.</h1>\n<br><table id='3' style='font-size:16px'><tr><td colspan=\"2\">Options</td></tr><tr><td>ON</td><td>OFF</td></tr></table>\n<h1 id='4' style='font-size:16px'>COMMAND DIAL DIRECTION</h1>\n\n<table id='6' style='font-size:14px'><tr><td>Option</td><td>Description</td></tr><tr><td>- +</td><td>Rotate the dial right for higher values or to move to the next item.</td></tr><tr><td>+</td><td>Rotate the dial left for higher values or to move to the next item.</td></tr><br><caption id='5' style='font-size:18px'>Choose the direction in which the command dials are rotated to<br>choose values. Settings for the front and rear command dials can<br>be adjusted separately.</caption></table>\n<footer id='7' style='font-size:22px'>The<br>Setup<br>Menus</footer>\n<footer id='8' style='font-size:20px'>297</footer>",
+        "markdown": "BUTTON/DIAL SETTING\n\n# S.S OPERATION\n\n# Select OFF to disable shutter-speed fine-tuning using the com-\nmand dials.\n\n| Options | Options |\n| --- | --- |\n| ON | OFF |\n\n\n# COMMAND DIAL DIRECTION\n\nChoose the direction in which the command dials are rotated to\nchoose values. Settings for the front and rear command dials can\nbe adjusted separately.\n\n| Option | Description |\n| --- | --- |\n| - + | Rotate the dial right for higher values or to move to the next item. |\n| + | Rotate the dial left for higher values or to move to the next item. |\n\n\nThe\nSetup\nMenus\n\n297",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:14px'>BUTTON/DIAL SETTING</header>",
+                "markdown": "BUTTON/DIAL SETTING",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.687,
+                    "y": 0.0277
+                },
+                {
+                    "x": 0.9186,
+                    "y": 0.0277
+                },
+                {
+                    "x": 0.9186,
+                    "y": 0.0501
+                },
+                {
+                    "x": 0.687,
+                    "y": 0.0501
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='1' style='font-size:16px'>S.S OPERATION</h1>",
+                "markdown": "# S.S OPERATION",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1108,
+                    "y": 0.0726
+                },
+                {
+                    "x": 0.3662,
+                    "y": 0.0726
+                },
+                {
+                    "x": 0.3662,
+                    "y": 0.0951
+                },
+                {
+                    "x": 0.1108,
+                    "y": 0.0951
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='2' style='font-size:20px'>Select OFF to disable shutter-speed fine-tuning using the com-<br>mand dials.</h1>",
+                "markdown": "# Select OFF to disable shutter-speed fine-tuning using the com-\nmand dials.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1061,
+                    "y": 0.1051
+                },
+                {
+                    "x": 0.9179,
+                    "y": 0.1051
+                },
+                {
+                    "x": 0.9179,
+                    "y": 0.1533
+                },
+                {
+                    "x": 0.1061,
+                    "y": 0.1533
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='3' style='font-size:16px'><tr><td colspan=\"2\">Options</td></tr><tr><td>ON</td><td>OFF</td></tr></table>",
+                "markdown": "| Options | Options |\n| --- | --- |\n| ON | OFF |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1096,
+                    "y": 0.1672
+                },
+                {
+                    "x": 0.917,
+                    "y": 0.1672
+                },
+                {
+                    "x": 0.917,
+                    "y": 0.2184
+                },
+                {
+                    "x": 0.1096,
+                    "y": 0.2184
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='4' style='font-size:16px'>COMMAND DIAL DIRECTION</h1>",
+                "markdown": "# COMMAND DIAL DIRECTION",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1074,
+                    "y": 0.2346
+                },
+                {
+                    "x": 0.4901,
+                    "y": 0.2346
+                },
+                {
+                    "x": 0.4901,
+                    "y": 0.2586
+                },
+                {
+                    "x": 0.1074,
+                    "y": 0.2586
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='5' data-category='paragraph' style='font-size:18px'>Choose the direction in which the command dials are rotated to<br>choose values. Settings for the front and rear command dials can<br>be adjusted separately.</p>",
+                "markdown": "Choose the direction in which the command dials are rotated to\nchoose values. Settings for the front and rear command dials can\nbe adjusted separately.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1067,
+                    "y": 0.2669
+                },
+                {
+                    "x": 0.9185,
+                    "y": 0.2669
+                },
+                {
+                    "x": 0.9185,
+                    "y": 0.3425
+                },
+                {
+                    "x": 0.1067,
+                    "y": 0.3425
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='6' style='font-size:14px'><tr><td>Option</td><td>Description</td></tr><tr><td>- +</td><td>Rotate the dial right for higher values or to move to the next item.</td></tr><tr><td>+</td><td>Rotate the dial left for higher values or to move to the next item.</td></tr></table>",
+                "markdown": "| Option | Description |\n| --- | --- |\n| - + | Rotate the dial right for higher values or to move to the next item. |\n| + | Rotate the dial left for higher values or to move to the next item. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1098,
+                    "y": 0.3527
+                },
+                {
+                    "x": 0.9195,
+                    "y": 0.3527
+                },
+                {
+                    "x": 0.9195,
+                    "y": 0.4532
+                },
+                {
+                    "x": 0.1098,
+                    "y": 0.4532
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='7' style='font-size:22px'>The<br>Setup<br>Menus</footer>",
+                "markdown": "The\nSetup\nMenus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9576,
+                    "y": 0.5708
+                },
+                {
+                    "x": 0.9801,
+                    "y": 0.5708
+                },
+                {
+                    "x": 0.9801,
+                    "y": 0.6971
+                },
+                {
+                    "x": 0.9576,
+                    "y": 0.6971
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='8' style='font-size:20px'>297</footer>",
+                "markdown": "297",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.8605,
+                    "y": 0.9564
+                },
+                {
+                    "x": 0.9172,
+                    "y": 0.9564
+                },
+                {
+                    "x": 0.9172,
+                    "y": 0.9787
+                },
+                {
+                    "x": 0.8605,
+                    "y": 0.9787
+                }
+            ],
+            "id": 8,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

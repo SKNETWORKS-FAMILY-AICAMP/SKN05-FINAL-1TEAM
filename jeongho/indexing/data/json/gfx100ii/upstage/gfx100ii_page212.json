@@ -1,0 +1,210 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:14px'>TIME CODE SETTING (Movie Recording)</header>\n<h1 id='1' style='font-size:16px'>Time code synchronization state</h1>\n\n<figure id='3'><img style='font-size:14px' alt=\"IC 00:00:00:00\" data-coord=\"top-left:(1728,587); bottom-right:(2007,862)\" /><br><figcaption id='2' style='font-size:18px'>You can check the time code synchronization<br>state by the icons displayed on the EVF or LCD.</figcaption></figure>\n<table id='4' style='font-size:18px'><tr><td>#con</td><td>Synchronization state</td></tr><tr><td>TC 00:00:00:00 (white)</td><td>The time code synchronization function is not being used.</td></tr><tr><td>IS 00:00:00:00 (white)</td><td>Time codes are being synchronized.</td></tr><tr><td>IS (amber)</td><td>External devices have been disconnected or time codes are not being synchronized. If time codes have been synchronized once, and the camera continues to count internally after CONNECT TO ATOMOS AirGlu BT was set to ON, a value is displayed.</td></tr><tr><td>IS (red)</td><td>Time codes are not being synchronized because the frame rate settings are different. If time codes have been synchronized once, and the camera continues to count internally after CONNECT TO ATOMOS AirGlu BT was set to ON, a value is displayed.</td></tr><br><caption id='2' style='font-size:18px'>You can check the time code synchronization<br>state by the icons displayed on the EVF or LCD.</caption></table>\n<br><header id='5' style='font-size:22px'>The<br>Shooting<br>Menus</header>\n<footer id='6' style='font-size:20px'>212</footer>",
+        "markdown": "TIME CODE SETTING (Movie Recording)\n\n# Time code synchronization state\n\nYou can check the time code synchronization\nstate by the icons displayed on the EVF or LCD.\n\n![image](/image/placeholder)\nIC 00:00:00:00\n\n| #con | Synchronization state |\n| --- | --- |\n| TC 00:00:00:00 (white) | The time code synchronization function is not being used. |\n| IS 00:00:00:00 (white) | Time codes are being synchronized. |\n| IS (amber) | External devices have been disconnected or time codes are not being synchronized. If time codes have been synchronized once, and the camera continues to count internally after CONNECT TO ATOMOS AirGlu BT was set to ON, a value is displayed. |\n| IS (red) | Time codes are not being synchronized because the frame rate settings are different. If time codes have been synchronized once, and the camera continues to count internally after CONNECT TO ATOMOS AirGlu BT was set to ON, a value is displayed. |\n\n\nThe\nShooting\nMenus\n\n212",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:14px'>TIME CODE SETTING (Movie Recording)</header>",
+                "markdown": "TIME CODE SETTING (Movie Recording)",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.5068,
+                    "y": 0.028
+                },
+                {
+                    "x": 0.8922,
+                    "y": 0.028
+                },
+                {
+                    "x": 0.8922,
+                    "y": 0.051
+                },
+                {
+                    "x": 0.5068,
+                    "y": 0.051
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='1' style='font-size:16px'>Time code synchronization state</h1>",
+                "markdown": "# Time code synchronization state",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0871,
+                    "y": 0.0726
+                },
+                {
+                    "x": 0.4021,
+                    "y": 0.0726
+                },
+                {
+                    "x": 0.4021,
+                    "y": 0.0935
+                },
+                {
+                    "x": 0.0871,
+                    "y": 0.0935
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='2' data-category='paragraph' style='font-size:18px'>You can check the time code synchronization<br>state by the icons displayed on the EVF or LCD.</p>",
+                "markdown": "You can check the time code synchronization\nstate by the icons displayed on the EVF or LCD.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0803,
+                    "y": 0.0944
+                },
+                {
+                    "x": 0.599,
+                    "y": 0.0944
+                },
+                {
+                    "x": 0.599,
+                    "y": 0.1402
+                },
+                {
+                    "x": 0.0803,
+                    "y": 0.1402
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "figure",
+            "content": {
+                "html": "<figure id='3'><img style='font-size:14px' alt=\"IC 00:00:00:00\" data-coord=\"top-left:(1728,587); bottom-right:(2007,862)\" /></figure>",
+                "markdown": "![image](/image/placeholder)\nIC 00:00:00:00",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6255,
+                    "y": 0.1508
+                },
+                {
+                    "x": 0.7264,
+                    "y": 0.1508
+                },
+                {
+                    "x": 0.7264,
+                    "y": 0.2212
+                },
+                {
+                    "x": 0.6255,
+                    "y": 0.2212
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='4' style='font-size:18px'><tr><td>#con</td><td>Synchronization state</td></tr><tr><td>TC 00:00:00:00 (white)</td><td>The time code synchronization function is not being used.</td></tr><tr><td>IS 00:00:00:00 (white)</td><td>Time codes are being synchronized.</td></tr><tr><td>IS (amber)</td><td>External devices have been disconnected or time codes are not being synchronized. If time codes have been synchronized once, and the camera continues to count internally after CONNECT TO ATOMOS AirGlu BT was set to ON, a value is displayed.</td></tr><tr><td>IS (red)</td><td>Time codes are not being synchronized because the frame rate settings are different. If time codes have been synchronized once, and the camera continues to count internally after CONNECT TO ATOMOS AirGlu BT was set to ON, a value is displayed.</td></tr></table>",
+                "markdown": "| #con | Synchronization state |\n| --- | --- |\n| TC 00:00:00:00 (white) | The time code synchronization function is not being used. |\n| IS 00:00:00:00 (white) | Time codes are being synchronized. |\n| IS (amber) | External devices have been disconnected or time codes are not being synchronized. If time codes have been synchronized once, and the camera continues to count internally after CONNECT TO ATOMOS AirGlu BT was set to ON, a value is displayed. |\n| IS (red) | Time codes are not being synchronized because the frame rate settings are different. If time codes have been synchronized once, and the camera continues to count internally after CONNECT TO ATOMOS AirGlu BT was set to ON, a value is displayed. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0814,
+                    "y": 0.2592
+                },
+                {
+                    "x": 0.8915,
+                    "y": 0.2592
+                },
+                {
+                    "x": 0.8915,
+                    "y": 0.7031
+                },
+                {
+                    "x": 0.0814,
+                    "y": 0.7031
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "header",
+            "content": {
+                "html": "<br><header id='5' style='font-size:22px'>The<br>Shooting<br>Menus</header>",
+                "markdown": "The\nShooting\nMenus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0151,
+                    "y": 0.5722
+                },
+                {
+                    "x": 0.043,
+                    "y": 0.5722
+                },
+                {
+                    "x": 0.043,
+                    "y": 0.7303
+                },
+                {
+                    "x": 0.0151,
+                    "y": 0.7303
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='6' style='font-size:20px'>212</footer>",
+                "markdown": "212",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0824,
+                    "y": 0.9559
+                },
+                {
+                    "x": 0.1395,
+                    "y": 0.9559
+                },
+                {
+                    "x": 0.1395,
+                    "y": 0.9788
+                },
+                {
+                    "x": 0.0824,
+                    "y": 0.9788
+                }
+            ],
+            "id": 6,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

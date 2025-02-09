@@ -1,0 +1,121 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "# CLARITY\nIncrease definition while altering tones in highlights and shadows as little as possible. Choose higher values for increased definition, lower values for a softer effect.\n\n| Options |\n|---------|\n| -5 -4 -3 -2 -1 0 +1 +2 +3 +4 +5 |\n\n# LONG EXPOSURE NR\nSelect **ON** to reduce mottling in long time-exposures.\n\n| Options |\n|---------|\n| ON      |\n| OFF     |\n\n# COLOR SPACE\nChoose the gamut of colors available for color reproduction.\n\n| Option     | Description                      |\n|------------|----------------------------------|\n| sRGB       | Recommended in most situations.  |\n| Adobe RGB  | For commercial printing.         |",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "CLARITY",
+                    "md": "# CLARITY"
+                },
+                {
+                    "type": "text",
+                    "value": "Increase definition while altering tones in highlights and shadows as little as possible. Choose higher values for increased definition, lower values for a softer effect.",
+                    "md": "Increase definition while altering tones in highlights and shadows as little as possible. Choose higher values for increased definition, lower values for a softer effect."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Options"
+                        ],
+                        [
+                            "-5 -4 -3 -2 -1 0 +1 +2 +3 +4 +5"
+                        ]
+                    ],
+                    "md": "| Options |\n|---------|\n| -5 -4 -3 -2 -1 0 +1 +2 +3 +4 +5 |",
+                    "isPerfectTable": true,
+                    "csv": "\"Options\"\n\"-5 -4 -3 -2 -1 0 +1 +2 +3 +4 +5\""
+                },
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "LONG EXPOSURE NR",
+                    "md": "# LONG EXPOSURE NR"
+                },
+                {
+                    "type": "text",
+                    "value": "Select **ON** to reduce mottling in long time-exposures.",
+                    "md": "Select **ON** to reduce mottling in long time-exposures."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Options"
+                        ],
+                        [
+                            "ON"
+                        ],
+                        [
+                            "OFF"
+                        ]
+                    ],
+                    "md": "| Options |\n|---------|\n| ON      |\n| OFF     |",
+                    "isPerfectTable": true,
+                    "csv": "\"Options\"\n\"ON\"\n\"OFF\""
+                },
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "COLOR SPACE",
+                    "md": "# COLOR SPACE"
+                },
+                {
+                    "type": "text",
+                    "value": "Choose the gamut of colors available for color reproduction.",
+                    "md": "Choose the gamut of colors available for color reproduction."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Option",
+                            "Description"
+                        ],
+                        [
+                            "sRGB",
+                            "Recommended in most situations."
+                        ],
+                        [
+                            "Adobe RGB",
+                            "For commercial printing."
+                        ]
+                    ],
+                    "md": "| Option     | Description                      |\n|------------|----------------------------------|\n| sRGB       | Recommended in most situations.  |\n| Adobe RGB  | For commercial printing.         |",
+                    "isPerfectTable": true,
+                    "csv": "\"Option\",\"Description\"\n\"sRGB\",\"Recommended in most situations.\"\n\"Adobe RGB\",\"For commercial printing.\""
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 784.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "151b98a5-2259-49c9-9edc-7f395c3512e1",
+    "file_path": "../data/raw_data/x100v/x100v_split/x100v_page136.pdf"
+}

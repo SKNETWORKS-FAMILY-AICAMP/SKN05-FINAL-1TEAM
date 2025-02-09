@@ -1,0 +1,126 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<p id='0' data-category='paragraph' style='font-size:16px'>Warning Messages and Displays</p>\n<table id='1' style='font-size:14px'><tr><td>Warning</td><td>Description</td></tr><tr><td>CAN NOT CROP</td><td>The picture is damaged or was not created with the camera.</td></tr><tr><td>DPOF FILE ERROR</td><td>Print orders can contain no more than 999 pictures. Copy any additional pictures you wish to print to another memo- ry card and create a second print order.</td></tr><tr><td>CAN NOT SET DPOF</td><td>The picture cannot be printed using DPOF.</td></tr><tr><td>CAN NOT SET DPOF</td><td>Movies cannot be printed using DPOF.</td></tr><tr><td>CAN NOT ROTATE</td><td>The selected picture cannot be rotated.</td></tr><tr><td>CAN NOT ROTATE</td><td>Movies cannot be rotated.</td></tr><tr><td>CANNOT EXECUTE</td><td>Red-eye removal cannot be applied to movies.</td></tr><tr><td>千 CANNOT EXECUTE</td><td>Red-eye removal cannot be applied to pictures created with other devices.</td></tr><tr><td>MISMATCH: 4K MODE AND EXTERNAL MONITOR CHANGE MOVIE MODE</td><td>The movie mode selected with the camera is not compat- ible with the device to which the camera is connected via HDMI. Try selecting a different movie mode (  155).</td></tr><tr><td>(yellow)</td><td>Turn the camera off and wait for it to cool. Mottling may increase in pictures taken when this warning is displayed.</td></tr><tr><td>(red)</td><td>Turn the camera off and wait for it to cool. While this warn- ing is displayed, movie recording may not be available, mottling may increase, and performance, including frame advance rate and display quality, may drop.</td></tr></table>\n<footer id='2' style='font-size:20px'>Technical<br>Notes<br>12</footer>\n<footer id='3' style='font-size:18px'>327</footer>",
+        "markdown": "Warning Messages and Displays\n\n| Warning | Description |\n| --- | --- |\n| CAN NOT CROP | The picture is damaged or was not created with the camera. |\n| DPOF FILE ERROR | Print orders can contain no more than 999 pictures. Copy any additional pictures you wish to print to another memo- ry card and create a second print order. |\n| CAN NOT SET DPOF | The picture cannot be printed using DPOF. |\n| CAN NOT SET DPOF | Movies cannot be printed using DPOF. |\n| CAN NOT ROTATE | The selected picture cannot be rotated. |\n| CAN NOT ROTATE | Movies cannot be rotated. |\n| CANNOT EXECUTE | Red-eye removal cannot be applied to movies. |\n| 千 CANNOT EXECUTE | Red-eye removal cannot be applied to pictures created with other devices. |\n| MISMATCH: 4K MODE AND EXTERNAL MONITOR CHANGE MOVIE MODE | The movie mode selected with the camera is not compat- ible with the device to which the camera is connected via HDMI. Try selecting a different movie mode (  155). |\n| (yellow) | Turn the camera off and wait for it to cool. Mottling may increase in pictures taken when this warning is displayed. |\n| (red) | Turn the camera off and wait for it to cool. While this warn- ing is displayed, movie recording may not be available, mottling may increase, and performance, including frame advance rate and display quality, may drop. |\n\n\nTechnical\nNotes\n12\n\n327",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='0' data-category='paragraph' style='font-size:16px'>Warning Messages and Displays</p>",
+                "markdown": "Warning Messages and Displays",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6022,
+                    "y": 0.029
+                },
+                {
+                    "x": 0.9179,
+                    "y": 0.029
+                },
+                {
+                    "x": 0.9179,
+                    "y": 0.0509
+                },
+                {
+                    "x": 0.6022,
+                    "y": 0.0509
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='1' style='font-size:14px'><tr><td>Warning</td><td>Description</td></tr><tr><td>CAN NOT CROP</td><td>The picture is damaged or was not created with the camera.</td></tr><tr><td>DPOF FILE ERROR</td><td>Print orders can contain no more than 999 pictures. Copy any additional pictures you wish to print to another memo- ry card and create a second print order.</td></tr><tr><td>CAN NOT SET DPOF</td><td>The picture cannot be printed using DPOF.</td></tr><tr><td>CAN NOT SET DPOF</td><td>Movies cannot be printed using DPOF.</td></tr><tr><td>CAN NOT ROTATE</td><td>The selected picture cannot be rotated.</td></tr><tr><td>CAN NOT ROTATE</td><td>Movies cannot be rotated.</td></tr><tr><td>CANNOT EXECUTE</td><td>Red-eye removal cannot be applied to movies.</td></tr><tr><td>千 CANNOT EXECUTE</td><td>Red-eye removal cannot be applied to pictures created with other devices.</td></tr><tr><td>MISMATCH: 4K MODE AND EXTERNAL MONITOR CHANGE MOVIE MODE</td><td>The movie mode selected with the camera is not compat- ible with the device to which the camera is connected via HDMI. Try selecting a different movie mode (  155).</td></tr><tr><td>(yellow)</td><td>Turn the camera off and wait for it to cool. Mottling may increase in pictures taken when this warning is displayed.</td></tr><tr><td>(red)</td><td>Turn the camera off and wait for it to cool. While this warn- ing is displayed, movie recording may not be available, mottling may increase, and performance, including frame advance rate and display quality, may drop.</td></tr></table>",
+                "markdown": "| Warning | Description |\n| --- | --- |\n| CAN NOT CROP | The picture is damaged or was not created with the camera. |\n| DPOF FILE ERROR | Print orders can contain no more than 999 pictures. Copy any additional pictures you wish to print to another memo- ry card and create a second print order. |\n| CAN NOT SET DPOF | The picture cannot be printed using DPOF. |\n| CAN NOT SET DPOF | Movies cannot be printed using DPOF. |\n| CAN NOT ROTATE | The selected picture cannot be rotated. |\n| CAN NOT ROTATE | Movies cannot be rotated. |\n| CANNOT EXECUTE | Red-eye removal cannot be applied to movies. |\n| 千 CANNOT EXECUTE | Red-eye removal cannot be applied to pictures created with other devices. |\n| MISMATCH: 4K MODE AND EXTERNAL MONITOR CHANGE MOVIE MODE | The movie mode selected with the camera is not compat- ible with the device to which the camera is connected via HDMI. Try selecting a different movie mode (  155). |\n| (yellow) | Turn the camera off and wait for it to cool. Mottling may increase in pictures taken when this warning is displayed. |\n| (red) | Turn the camera off and wait for it to cool. While this warn- ing is displayed, movie recording may not be available, mottling may increase, and performance, including frame advance rate and display quality, may drop. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1055,
+                    "y": 0.0712
+                },
+                {
+                    "x": 0.92,
+                    "y": 0.0712
+                },
+                {
+                    "x": 0.92,
+                    "y": 0.5656
+                },
+                {
+                    "x": 0.1055,
+                    "y": 0.5656
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='2' style='font-size:20px'>Technical<br>Notes<br>12</footer>",
+                "markdown": "Technical\nNotes\n12",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9575,
+                    "y": 0.7597
+                },
+                {
+                    "x": 0.9853,
+                    "y": 0.7597
+                },
+                {
+                    "x": 0.9853,
+                    "y": 0.9147
+                },
+                {
+                    "x": 0.9575,
+                    "y": 0.9147
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='3' style='font-size:18px'>327</footer>",
+                "markdown": "327",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.8614,
+                    "y": 0.9567
+                },
+                {
+                    "x": 0.9166,
+                    "y": 0.9567
+                },
+                {
+                    "x": 0.9166,
+                    "y": 0.9785
+                },
+                {
+                    "x": 0.8614,
+                    "y": 0.9785
+                }
+            ],
+            "id": 3,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

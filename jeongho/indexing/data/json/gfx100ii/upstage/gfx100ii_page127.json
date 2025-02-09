@@ -1,0 +1,266 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:14px'>IMAGE QUALITY SETTING (Still Photography)</header>\n<h1 id='1' style='font-size:20px'>IMAGE QUALITY</h1>\n<br><h1 id='2' style='font-size:18px'>Choose a file format and compression ratio.</h1>\n<br><table id='3' style='font-size:16px'><tr><td>Option</td><td>Description</td></tr><tr><td>SUPER FINE</td><td>Very low compression ratios are used for maximum image quality.</td></tr><tr><td>FINE</td><td>Low compression ratios are used for higher-quality images.</td></tr><tr><td>NORMAL</td><td>Higher compression ratios are used to increase the number of images that can be stored.</td></tr><tr><td>SUPER FINE + RAW</td><td>Record both RAW and super-fine quality JPEG or HEIF images.</td></tr><tr><td>FINE + RAW</td><td>Record both RAW and fine-quality JPEG or HEIF images.</td></tr><tr><td>NORMAL + RAW</td><td>Record both RAW and normal-quality JPEG or HEIF images.</td></tr><tr><td>RAW</td><td>Record RAW images only.</td></tr></table>\n<p id='4' data-category='paragraph' style='font-size:14px'>The Function Buttons</p>\n\n<br><table id='6' style='font-size:14px'><tr><td>Option currently selected for IMAGE QUALITY</td><td>Option selected by pressing function button to which RAW is assigned</td></tr><tr><td>SUPER FINE</td><td>SUPER FINE + RAW</td></tr><tr><td>FINE</td><td>FINE + RAW</td></tr><tr><td>NORMAL</td><td>NORMAL + RAW</td></tr><tr><td>SUPER FINE + RAW</td><td>SUPER FINE</td></tr><tr><td>FINE + RAW</td><td>FINE</td></tr><tr><td>NORMAL + RAW</td><td>NORMAL</td></tr><tr><td>RAW</td><td>FINE</td></tr><br><caption id='5' style='font-size:16px'>To toggle RAW image quality on or off for a single shot, assign RAW to a<br>function button (□□ 385). Press the button once to select the option in<br>the right column, again to return to the original setting (left column).</caption></table>\n<br><footer id='7' style='font-size:22px'>6<br>The<br>Shooting<br>Menus</footer>\n<footer id='8' style='font-size:20px'>127</footer>",
+        "markdown": "IMAGE QUALITY SETTING (Still Photography)\n\n# IMAGE QUALITY\n\n# Choose a file format and compression ratio.\n\n| Option | Description |\n| --- | --- |\n| SUPER FINE | Very low compression ratios are used for maximum image quality. |\n| FINE | Low compression ratios are used for higher-quality images. |\n| NORMAL | Higher compression ratios are used to increase the number of images that can be stored. |\n| SUPER FINE + RAW | Record both RAW and super-fine quality JPEG or HEIF images. |\n| FINE + RAW | Record both RAW and fine-quality JPEG or HEIF images. |\n| NORMAL + RAW | Record both RAW and normal-quality JPEG or HEIF images. |\n| RAW | Record RAW images only. |\n\n\nThe Function Buttons\n\nTo toggle RAW image quality on or off for a single shot, assign RAW to a\nfunction button (□□ 385). Press the button once to select the option in\nthe right column, again to return to the original setting (left column).\n\n| Option currently selected for IMAGE QUALITY | Option selected by pressing function button to which RAW is assigned |\n| --- | --- |\n| SUPER FINE | SUPER FINE + RAW |\n| FINE | FINE + RAW |\n| NORMAL | NORMAL + RAW |\n| SUPER FINE + RAW | SUPER FINE |\n| FINE + RAW | FINE |\n| NORMAL + RAW | NORMAL |\n| RAW | FINE |\n\n\n6\nThe\nShooting\nMenus\n\n127",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:14px'>IMAGE QUALITY SETTING (Still Photography)</header>",
+                "markdown": "IMAGE QUALITY SETTING (Still Photography)",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.4863,
+                    "y": 0.0281
+                },
+                {
+                    "x": 0.9178,
+                    "y": 0.0281
+                },
+                {
+                    "x": 0.9178,
+                    "y": 0.0512
+                },
+                {
+                    "x": 0.4863,
+                    "y": 0.0512
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='1' style='font-size:20px'>IMAGE QUALITY</h1>",
+                "markdown": "# IMAGE QUALITY",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1093,
+                    "y": 0.0731
+                },
+                {
+                    "x": 0.332,
+                    "y": 0.0731
+                },
+                {
+                    "x": 0.332,
+                    "y": 0.0946
+                },
+                {
+                    "x": 0.1093,
+                    "y": 0.0946
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='2' style='font-size:18px'>Choose a file format and compression ratio.</h1>",
+                "markdown": "# Choose a file format and compression ratio.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1064,
+                    "y": 0.1042
+                },
+                {
+                    "x": 0.6561,
+                    "y": 0.1042
+                },
+                {
+                    "x": 0.6561,
+                    "y": 0.1288
+                },
+                {
+                    "x": 0.1064,
+                    "y": 0.1288
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='3' style='font-size:16px'><tr><td>Option</td><td>Description</td></tr><tr><td>SUPER FINE</td><td>Very low compression ratios are used for maximum image quality.</td></tr><tr><td>FINE</td><td>Low compression ratios are used for higher-quality images.</td></tr><tr><td>NORMAL</td><td>Higher compression ratios are used to increase the number of images that can be stored.</td></tr><tr><td>SUPER FINE + RAW</td><td>Record both RAW and super-fine quality JPEG or HEIF images.</td></tr><tr><td>FINE + RAW</td><td>Record both RAW and fine-quality JPEG or HEIF images.</td></tr><tr><td>NORMAL + RAW</td><td>Record both RAW and normal-quality JPEG or HEIF images.</td></tr><tr><td>RAW</td><td>Record RAW images only.</td></tr></table>",
+                "markdown": "| Option | Description |\n| --- | --- |\n| SUPER FINE | Very low compression ratios are used for maximum image quality. |\n| FINE | Low compression ratios are used for higher-quality images. |\n| NORMAL | Higher compression ratios are used to increase the number of images that can be stored. |\n| SUPER FINE + RAW | Record both RAW and super-fine quality JPEG or HEIF images. |\n| FINE + RAW | Record both RAW and fine-quality JPEG or HEIF images. |\n| NORMAL + RAW | Record both RAW and normal-quality JPEG or HEIF images. |\n| RAW | Record RAW images only. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1073,
+                    "y": 0.1327
+                },
+                {
+                    "x": 0.921,
+                    "y": 0.1327
+                },
+                {
+                    "x": 0.921,
+                    "y": 0.3473
+                },
+                {
+                    "x": 0.1073,
+                    "y": 0.3473
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='4' data-category='paragraph' style='font-size:14px'>The Function Buttons</p>",
+                "markdown": "The Function Buttons",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1116,
+                    "y": 0.3621
+                },
+                {
+                    "x": 0.3259,
+                    "y": 0.3621
+                },
+                {
+                    "x": 0.3259,
+                    "y": 0.3827
+                },
+                {
+                    "x": 0.1116,
+                    "y": 0.3827
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='5' data-category='paragraph' style='font-size:16px'>To toggle RAW image quality on or off for a single shot, assign RAW to a<br>function button (□□ 385). Press the button once to select the option in<br>the right column, again to return to the original setting (left column).</p>",
+                "markdown": "To toggle RAW image quality on or off for a single shot, assign RAW to a\nfunction button (□□ 385). Press the button once to select the option in\nthe right column, again to return to the original setting (left column).",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1083,
+                    "y": 0.3841
+                },
+                {
+                    "x": 0.9186,
+                    "y": 0.3841
+                },
+                {
+                    "x": 0.9186,
+                    "y": 0.4534
+                },
+                {
+                    "x": 0.1083,
+                    "y": 0.4534
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='6' style='font-size:14px'><tr><td>Option currently selected for IMAGE QUALITY</td><td>Option selected by pressing function button to which RAW is assigned</td></tr><tr><td>SUPER FINE</td><td>SUPER FINE + RAW</td></tr><tr><td>FINE</td><td>FINE + RAW</td></tr><tr><td>NORMAL</td><td>NORMAL + RAW</td></tr><tr><td>SUPER FINE + RAW</td><td>SUPER FINE</td></tr><tr><td>FINE + RAW</td><td>FINE</td></tr><tr><td>NORMAL + RAW</td><td>NORMAL</td></tr><tr><td>RAW</td><td>FINE</td></tr></table>",
+                "markdown": "| Option currently selected for IMAGE QUALITY | Option selected by pressing function button to which RAW is assigned |\n| --- | --- |\n| SUPER FINE | SUPER FINE + RAW |\n| FINE | FINE + RAW |\n| NORMAL | NORMAL + RAW |\n| SUPER FINE + RAW | SUPER FINE |\n| FINE + RAW | FINE |\n| NORMAL + RAW | NORMAL |\n| RAW | FINE |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1053,
+                    "y": 0.4596
+                },
+                {
+                    "x": 0.9175,
+                    "y": 0.4596
+                },
+                {
+                    "x": 0.9175,
+                    "y": 0.6839
+                },
+                {
+                    "x": 0.1053,
+                    "y": 0.6839
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<br><footer id='7' style='font-size:22px'>6<br>The<br>Shooting<br>Menus</footer>",
+                "markdown": "6\nThe\nShooting\nMenus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9561,
+                    "y": 0.5361
+                },
+                {
+                    "x": 0.9833,
+                    "y": 0.5361
+                },
+                {
+                    "x": 0.9833,
+                    "y": 0.732
+                },
+                {
+                    "x": 0.9561,
+                    "y": 0.732
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='8' style='font-size:20px'>127</footer>",
+                "markdown": "127",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.8618,
+                    "y": 0.9562
+                },
+                {
+                    "x": 0.918,
+                    "y": 0.9562
+                },
+                {
+                    "x": 0.918,
+                    "y": 0.9794
+                },
+                {
+                    "x": 0.8618,
+                    "y": 0.9794
+                }
+            ],
+            "id": 8,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

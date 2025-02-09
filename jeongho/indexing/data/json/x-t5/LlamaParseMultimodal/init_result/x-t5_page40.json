@@ -1,0 +1,54 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "!The LCD Monitor\n\n# The LCD Monitor\n\nThis image illustrates the various indicators and settings displayed on the camera's LCD monitor. Each numbered element corresponds to a specific function or setting, such as recording time, date, ISO, and more.",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "text",
+                    "value": "!The LCD Monitor",
+                    "md": "!The LCD Monitor"
+                },
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "The LCD Monitor",
+                    "md": "# The LCD Monitor"
+                },
+                {
+                    "type": "text",
+                    "value": "This image illustrates the various indicators and settings displayed on the camera's LCD monitor. Each numbered element corresponds to a specific function or setting, such as recording time, date, ISO, and more.",
+                    "md": "This image illustrates the various indicators and settings displayed on the camera's LCD monitor. Each numbered element corresponds to a specific function or setting, such as recording time, date, ISO, and more."
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "parsingMode": "multimodal-openai-gpt4o",
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 589.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "87833a37-2a20-4fed-84c6-e4294ab2e9b9",
+    "file_path": "../data/raw_data/x-t5/x-t5_split/x-t5_page40.pdf"
+}

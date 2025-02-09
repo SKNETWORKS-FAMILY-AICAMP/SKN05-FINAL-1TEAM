@@ -1,0 +1,127 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "\n# Specifications\n\n## System\n\n### Shutter Speed\n\n- **MECHANICAL SHUTTER, E-FRONT CURTAIN SHUTTER, E-FRONT + MECHANICAL**\n  - Modes P and A: 30 s to 1/8000 s\n  - Modes S and M: 15 min. to 1/8000 s\n  - Bulb: Max. 60 min.\n\n- **ELECTRONIC SHUTTER**\n  - Modes P and A: 30 s to 1/180000 s\n  - Modes S and M: 15 min. to 1/180000 s\n  - Bulb: Fixed at 1 s\n\n- **MECHANICAL + ELECTRONIC, E-FRONT + MECHANICAL + ELECTRONIC**\n  - Modes P and A: 30 s to 1/180000 s\n  - Modes S and M: 15 min. to 1/180000 s\n  - Bulb: Max. 60 min.\n\n### Continuous\n\n| CONTINUOUS MODE       | Available frame advance rates (JPEG) |\n|-----------------------|--------------------------------------|\n| 20fps (1.29X CROP)¹   | 20                                   |\n| 13fps (1.29X CROP)¹   | 13                                   |\n| 10fps (1.29X CROP)¹   | 10                                   |\n| 15fps²                | 15                                   |\n| 10fps³                | 10                                   |\n| 7.0fps⁴               | 7.0                                  |\n| 5.0fps                | 5.0                                  |\n| 3.0fps                | 3.0                                  |\n\n¹ Available with electronic shutter only.  \n² 13 fps with electronic shutter.  \n³ 8.9 fps with electronic shutter.  \n⁴ 6.7 fps with electronic shutter.\n\n> ⚠️ **Note:** The frame rate and number of frames per burst varies with shooting conditions and type of memory card used.\n\n### Focus\n\n- **Mode:** Single or continuous AF; manual focus with focus ring\n- **Autofocus system:** Intelligent hybrid AF (TTL contrast-detect/phase-detection AF)\n- **Focus-area selection:** SINGLE POINT, ZONE, WIDE/TRACKING, ALL\n",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "Specifications",
+                    "md": "# Specifications"
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "System",
+                    "md": "## System"
+                },
+                {
+                    "type": "heading",
+                    "lvl": 3,
+                    "value": "Shutter Speed",
+                    "md": "### Shutter Speed"
+                },
+                {
+                    "type": "text",
+                    "value": "- **MECHANICAL SHUTTER, E-FRONT CURTAIN SHUTTER, E-FRONT + MECHANICAL**\n  - Modes P and A: 30 s to 1/8000 s\n  - Modes S and M: 15 min. to 1/8000 s\n  - Bulb: Max. 60 min.\n\n- **ELECTRONIC SHUTTER**\n  - Modes P and A: 30 s to 1/180000 s\n  - Modes S and M: 15 min. to 1/180000 s\n  - Bulb: Fixed at 1 s\n\n- **MECHANICAL + ELECTRONIC, E-FRONT + MECHANICAL + ELECTRONIC**\n  - Modes P and A: 30 s to 1/180000 s\n  - Modes S and M: 15 min. to 1/180000 s\n  - Bulb: Max. 60 min.",
+                    "md": "- **MECHANICAL SHUTTER, E-FRONT CURTAIN SHUTTER, E-FRONT + MECHANICAL**\n  - Modes P and A: 30 s to 1/8000 s\n  - Modes S and M: 15 min. to 1/8000 s\n  - Bulb: Max. 60 min.\n\n- **ELECTRONIC SHUTTER**\n  - Modes P and A: 30 s to 1/180000 s\n  - Modes S and M: 15 min. to 1/180000 s\n  - Bulb: Fixed at 1 s\n\n- **MECHANICAL + ELECTRONIC, E-FRONT + MECHANICAL + ELECTRONIC**\n  - Modes P and A: 30 s to 1/180000 s\n  - Modes S and M: 15 min. to 1/180000 s\n  - Bulb: Max. 60 min."
+                },
+                {
+                    "type": "heading",
+                    "lvl": 3,
+                    "value": "Continuous",
+                    "md": "### Continuous"
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "CONTINUOUS MODE",
+                            "Available frame advance rates (JPEG)"
+                        ],
+                        [
+                            "20fps (1.29X CROP)¹",
+                            "20"
+                        ],
+                        [
+                            "13fps (1.29X CROP)¹",
+                            "13"
+                        ],
+                        [
+                            "10fps (1.29X CROP)¹",
+                            "10"
+                        ],
+                        [
+                            "15fps²",
+                            "15"
+                        ],
+                        [
+                            "10fps³",
+                            "10"
+                        ],
+                        [
+                            "7.0fps⁴",
+                            "7.0"
+                        ],
+                        [
+                            "5.0fps",
+                            "5.0"
+                        ],
+                        [
+                            "3.0fps",
+                            "3.0"
+                        ]
+                    ],
+                    "md": "| CONTINUOUS MODE       | Available frame advance rates (JPEG) |\n|-----------------------|--------------------------------------|\n| 20fps (1.29X CROP)¹   | 20                                   |\n| 13fps (1.29X CROP)¹   | 13                                   |\n| 10fps (1.29X CROP)¹   | 10                                   |\n| 15fps²                | 15                                   |\n| 10fps³                | 10                                   |\n| 7.0fps⁴               | 7.0                                  |\n| 5.0fps                | 5.0                                  |\n| 3.0fps                | 3.0                                  |",
+                    "isPerfectTable": true,
+                    "csv": "\"CONTINUOUS MODE\",\"Available frame advance rates (JPEG)\"\n\"20fps (1.29X CROP)¹\",\"20\"\n\"13fps (1.29X CROP)¹\",\"13\"\n\"10fps (1.29X CROP)¹\",\"10\"\n\"15fps²\",\"15\"\n\"10fps³\",\"10\"\n\"7.0fps⁴\",\"7.0\"\n\"5.0fps\",\"5.0\"\n\"3.0fps\",\"3.0\""
+                },
+                {
+                    "type": "text",
+                    "value": "¹ Available with electronic shutter only.  \n² 13 fps with electronic shutter.  \n³ 8.9 fps with electronic shutter.  \n⁴ 6.7 fps with electronic shutter.\n\n> ⚠️ **Note:** The frame rate and number of frames per burst varies with shooting conditions and type of memory card used.",
+                    "md": "¹ Available with electronic shutter only.  \n² 13 fps with electronic shutter.  \n³ 8.9 fps with electronic shutter.  \n⁴ 6.7 fps with electronic shutter.\n\n> ⚠️ **Note:** The frame rate and number of frames per burst varies with shooting conditions and type of memory card used."
+                },
+                {
+                    "type": "heading",
+                    "lvl": 3,
+                    "value": "Focus",
+                    "md": "### Focus"
+                },
+                {
+                    "type": "text",
+                    "value": "- **Mode:** Single or continuous AF; manual focus with focus ring\n- **Autofocus system:** Intelligent hybrid AF (TTL contrast-detect/phase-detection AF)\n- **Focus-area selection:** SINGLE POINT, ZONE, WIDE/TRACKING, ALL",
+                    "md": "- **Mode:** Single or continuous AF; manual focus with focus ring\n- **Autofocus system:** Intelligent hybrid AF (TTL contrast-detect/phase-detection AF)\n- **Focus-area selection:** SINGLE POINT, ZONE, WIDE/TRACKING, ALL"
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "parsingMode": "multimodal-openai-gpt4o",
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 746.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "a9e4a6a2-0749-4507-ae86-7afe5c64fe3b",
+    "file_path": "../data/raw_data/x-t5/x-t5_split/x-t5_page423.pdf"
+}

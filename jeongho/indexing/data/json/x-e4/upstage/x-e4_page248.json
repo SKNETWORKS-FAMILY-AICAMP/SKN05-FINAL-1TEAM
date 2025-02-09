@@ -1,0 +1,210 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<h1 id='0' style='font-size:20px'>Movie recording</h1>\n<figure id='1'><img style='font-size:14px' alt=\"SHOOTING MOD\nS.S.\nP AUTO 16:9\nFHD : AF-C 4\n7\nISO WB\n59.94\n5 AUTO AUTO AUTO\n8\n6\nK\nOFF 1 00 M\nbps 10000\nS T OK END\n1 0 11\" data-coord=\"top-left:(631,416); bottom-right:(2098,1482)\" /></figure>\n<br><table id='2' style='font-size:16px'><tr><td colspan=\"2\">Default</td></tr><tr><td>1 SHOOTING MODE</td><td>7 MOVIE MODE FRAME RATE</td></tr><tr><td>2 S.S. (MOVIE OPTIMIZED CONTROL 06)</td><td>8 WHITE BALANCE</td></tr><tr><td>3 MOVIE MODE RESOLUTION/ ASPECT RATIO</td><td>9 FILM SIMULATION</td></tr><tr><td>FOCUS MODE</td><td>FACE/EYE DETECTION SETTING</td></tr><tr><td>APERTURE (MOVIE OPTIMIZED CONTROL )</td><td>11 MOVIE MODE BIT RATE</td></tr><tr><td>ISO</td><td>WHITE BALANCE COLOR TEMP. (WHEN K SELECTED)</td></tr></table>\n<br><p id='3' data-category='paragraph' style='font-size:18px'>The quick menu shows the options currently selected for items<br>②-⑫, which can be changed.</p>\n<br><p id='4' data-category='paragraph' style='font-size:16px'>9</p>\n<br><header id='5' style='font-size:22px'>Shortcuts</header>\n<footer id='6' style='font-size:18px'>248</footer>",
+        "markdown": "# Movie recording\n\n![image](/image/placeholder)\nSHOOTING MOD\nS.S.\nP AUTO 16:9\nFHD : AF-C 4\n7\nISO WB\n59.94\n5 AUTO AUTO AUTO\n8\n6\nK\nOFF 1 00 M\nbps 10000\nS T OK END\n1 0 11\n\n| Default | Default |\n| --- | --- |\n| 1 SHOOTING MODE | 7 MOVIE MODE FRAME RATE |\n| 2 S.S. (MOVIE OPTIMIZED CONTROL 06) | 8 WHITE BALANCE |\n| 3 MOVIE MODE RESOLUTION/ ASPECT RATIO | 9 FILM SIMULATION |\n| FOCUS MODE | FACE/EYE DETECTION SETTING |\n| APERTURE (MOVIE OPTIMIZED CONTROL ) | 11 MOVIE MODE BIT RATE |\n| ISO | WHITE BALANCE COLOR TEMP. (WHEN K SELECTED) |\n\n\nThe quick menu shows the options currently selected for items\n②-⑫, which can be changed.\n\n9\n\nShortcuts\n\n248",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='0' style='font-size:20px'>Movie recording</h1>",
+                "markdown": "# Movie recording",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0942,
+                    "y": 0.0736
+                },
+                {
+                    "x": 0.3021,
+                    "y": 0.0736
+                },
+                {
+                    "x": 0.3021,
+                    "y": 0.0987
+                },
+                {
+                    "x": 0.0942,
+                    "y": 0.0987
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "figure",
+            "content": {
+                "html": "<figure id='1'><img style='font-size:14px' alt=\"SHOOTING MOD\nS.S.\nP AUTO 16:9\nFHD : AF-C 4\n7\nISO WB\n59.94\n5 AUTO AUTO AUTO\n8\n6\nK\nOFF 1 00 M\nbps 10000\nS T OK END\n1 0 11\" data-coord=\"top-left:(631,416); bottom-right:(2098,1482)\" /></figure>",
+                "markdown": "![image](/image/placeholder)\nSHOOTING MOD\nS.S.\nP AUTO 16:9\nFHD : AF-C 4\n7\nISO WB\n59.94\n5 AUTO AUTO AUTO\n8\n6\nK\nOFF 1 00 M\nbps 10000\nS T OK END\n1 0 11",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.2284,
+                    "y": 0.1069
+                },
+                {
+                    "x": 0.7592,
+                    "y": 0.1069
+                },
+                {
+                    "x": 0.7592,
+                    "y": 0.3803
+                },
+                {
+                    "x": 0.2284,
+                    "y": 0.3803
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='2' style='font-size:16px'><tr><td colspan=\"2\">Default</td></tr><tr><td>1 SHOOTING MODE</td><td>7 MOVIE MODE FRAME RATE</td></tr><tr><td>2 S.S. (MOVIE OPTIMIZED CONTROL 06)</td><td>8 WHITE BALANCE</td></tr><tr><td>3 MOVIE MODE RESOLUTION/ ASPECT RATIO</td><td>9 FILM SIMULATION</td></tr><tr><td>FOCUS MODE</td><td>FACE/EYE DETECTION SETTING</td></tr><tr><td>APERTURE (MOVIE OPTIMIZED CONTROL )</td><td>11 MOVIE MODE BIT RATE</td></tr><tr><td>ISO</td><td>WHITE BALANCE COLOR TEMP. (WHEN K SELECTED)</td></tr></table>",
+                "markdown": "| Default | Default |\n| --- | --- |\n| 1 SHOOTING MODE | 7 MOVIE MODE FRAME RATE |\n| 2 S.S. (MOVIE OPTIMIZED CONTROL 06) | 8 WHITE BALANCE |\n| 3 MOVIE MODE RESOLUTION/ ASPECT RATIO | 9 FILM SIMULATION |\n| FOCUS MODE | FACE/EYE DETECTION SETTING |\n| APERTURE (MOVIE OPTIMIZED CONTROL ) | 11 MOVIE MODE BIT RATE |\n| ISO | WHITE BALANCE COLOR TEMP. (WHEN K SELECTED) |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0808,
+                    "y": 0.388
+                },
+                {
+                    "x": 0.8901,
+                    "y": 0.388
+                },
+                {
+                    "x": 0.8901,
+                    "y": 0.6858
+                },
+                {
+                    "x": 0.0808,
+                    "y": 0.6858
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='3' data-category='paragraph' style='font-size:18px'>The quick menu shows the options currently selected for items<br>②-⑫, which can be changed.</p>",
+                "markdown": "The quick menu shows the options currently selected for items\n②-⑫, which can be changed.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0827,
+                    "y": 0.6964
+                },
+                {
+                    "x": 0.8925,
+                    "y": 0.6964
+                },
+                {
+                    "x": 0.8925,
+                    "y": 0.75
+                },
+                {
+                    "x": 0.0827,
+                    "y": 0.75
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='4' data-category='paragraph' style='font-size:16px'>9</p>",
+                "markdown": "9",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0278,
+                    "y": 0.7191
+                },
+                {
+                    "x": 0.0417,
+                    "y": 0.7191
+                },
+                {
+                    "x": 0.0417,
+                    "y": 0.7348
+                },
+                {
+                    "x": 0.0278,
+                    "y": 0.7348
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "header",
+            "content": {
+                "html": "<br><header id='5' style='font-size:22px'>Shortcuts</header>",
+                "markdown": "Shortcuts",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0188,
+                    "y": 0.6227
+                },
+                {
+                    "x": 0.0409,
+                    "y": 0.6227
+                },
+                {
+                    "x": 0.0409,
+                    "y": 0.6981
+                },
+                {
+                    "x": 0.0188,
+                    "y": 0.6981
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='6' style='font-size:18px'>248</footer>",
+                "markdown": "248",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0826,
+                    "y": 0.9564
+                },
+                {
+                    "x": 0.1401,
+                    "y": 0.9564
+                },
+                {
+                    "x": 0.1401,
+                    "y": 0.9793
+                },
+                {
+                    "x": 0.0826,
+                    "y": 0.9793
+                }
+            ],
+            "id": 6,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

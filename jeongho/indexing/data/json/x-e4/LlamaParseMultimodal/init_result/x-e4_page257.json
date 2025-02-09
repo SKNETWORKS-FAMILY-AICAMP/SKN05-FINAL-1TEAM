@@ -1,0 +1,100 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "\n# PERFORMANCE\n\nSelect **BOOST** to improve focus and EVF display performance.\n\n| Option | Description |\n|--------|-------------|\n| BOOST  | Boost camera focus and EVF display performance. The battery drains faster than when is NORMAL selected. |\n| NORMAL | Choose for standard focus and EVF display performance and battery endurance. |\n\n# BOOST SETTING\n\nAdjust the behavior of the EVF and LCD monitor when **BOOST** is selected for PERFORMANCE.\n\n| Option             | Description |\n|--------------------|-------------|\n| LOW LIGHT PRIORITY | Display brightness is adjusted to make subjects in shadows easier to see. Motion blur may cause ghosting. |\n| RESOLUTION PRIORITY| Display resolution is increased to make details easier to see. |\n",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "PERFORMANCE",
+                    "md": "# PERFORMANCE"
+                },
+                {
+                    "type": "text",
+                    "value": "Select **BOOST** to improve focus and EVF display performance.",
+                    "md": "Select **BOOST** to improve focus and EVF display performance."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Option",
+                            "Description"
+                        ],
+                        [
+                            "BOOST",
+                            "Boost camera focus and EVF display performance. The battery drains faster than when is NORMAL selected."
+                        ],
+                        [
+                            "NORMAL",
+                            "Choose for standard focus and EVF display performance and battery endurance."
+                        ]
+                    ],
+                    "md": "| Option | Description |\n|--------|-------------|\n| BOOST  | Boost camera focus and EVF display performance. The battery drains faster than when is NORMAL selected. |\n| NORMAL | Choose for standard focus and EVF display performance and battery endurance. |",
+                    "isPerfectTable": true,
+                    "csv": "\"Option\",\"Description\"\n\"BOOST\",\"Boost camera focus and EVF display performance. The battery drains faster than when is NORMAL selected.\"\n\"NORMAL\",\"Choose for standard focus and EVF display performance and battery endurance.\""
+                },
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "BOOST SETTING",
+                    "md": "# BOOST SETTING"
+                },
+                {
+                    "type": "text",
+                    "value": "Adjust the behavior of the EVF and LCD monitor when **BOOST** is selected for PERFORMANCE.",
+                    "md": "Adjust the behavior of the EVF and LCD monitor when **BOOST** is selected for PERFORMANCE."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Option",
+                            "Description"
+                        ],
+                        [
+                            "LOW LIGHT PRIORITY",
+                            "Display brightness is adjusted to make subjects in shadows easier to see. Motion blur may cause ghosting."
+                        ],
+                        [
+                            "RESOLUTION PRIORITY",
+                            "Display resolution is increased to make details easier to see."
+                        ]
+                    ],
+                    "md": "| Option             | Description |\n|--------------------|-------------|\n| LOW LIGHT PRIORITY | Display brightness is adjusted to make subjects in shadows easier to see. Motion blur may cause ghosting. |\n| RESOLUTION PRIORITY| Display resolution is increased to make details easier to see. |",
+                    "isPerfectTable": true,
+                    "csv": "\"Option\",\"Description\"\n\"LOW LIGHT PRIORITY\",\"Display brightness is adjusted to make subjects in shadows easier to see. Motion blur may cause ghosting.\"\n\"RESOLUTION PRIORITY\",\"Display resolution is increased to make details easier to see.\""
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "parsingMode": "multimodal-openai-gpt4o",
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 183.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "265e26af-99a2-43b5-b811-481584a35c4b",
+    "file_path": "../data/raw_data/x-e4/x-e4_split/x-e4_page257.pdf"
+}

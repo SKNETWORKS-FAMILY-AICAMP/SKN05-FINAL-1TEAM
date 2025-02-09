@@ -1,0 +1,154 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<p id='0' data-category='paragraph' style='font-size:18px'>Specifications</p>\n<table id='1' style='font-size:14px'><tr><td>System</td><td></td></tr><tr><td>Hot shoe</td><td>Provided (supports TTL flash control); supports sync speeds as fast as 1/180 S</td></tr><tr><td>Sync contact</td><td>X contact; supports sync speeds as fast as 1/180 S</td></tr><tr><td>Sync terminal</td><td>-</td></tr><tr><td>Electronic viewfinder (EVF)</td><td>0.39-in., 2360k-dot OLED viewfinder; magnification 0.62x with 50 mm lens (35 mm format equivalent) at infinity and diopter set to -1.0 m-1; diagonal angle of view approximately 31° (horizontal angle of view approximately 26°) ● Diopter adjustment: -4 to +2 m-1 ● Eyepoint: Approximately 17.5 mm</td></tr><tr><td>LCD monitor</td><td>3.0-in/7.6 cm, 1840k-dot color touch screen LCD monitor, Vari-angle LCD monitor</td></tr><tr><td>Movies (with stereo sound)</td><td>● Movie size: 6.2K 3:2, 4K 16:9, DCE 17:9, FHD 16:9, FHD: 17:9, FHD 16:9, FHD 17:9 L ● Frame rate: 59.94P, 50P, 29.97P, 25P, 24P, 23.98P ● Recording/output format: - H.265 (10-bit MOV 4:2:2/4:2:0; 360, 200, 100, or 50 Mbps) -H.264 (8-bit MOV/MP44:2:0; 360, 200, 100, or 50Mbps) - HDMI output supported (RAW output supported with Atomos and Blackmagic Design external recorders; 8-bit 4:2: 2/10-bit 4:2:2)</td></tr><tr><td>High-speed movies</td><td>● Movie size: FHD 16:9, FHD: 17:9 ● Frame advance rate: 240P, 200P, 120P, 100P</td></tr></table>\n<table id='2' style='font-size:16px'><tr><td colspan=\"2\">Input/output terminals</td></tr><tr><td>Microphone connector</td><td>⌀3.5 mm mini-stereojack</td></tr><tr><td>Headphone jack socket</td><td>⌀3.5 mm mini-stereo jack</td></tr><tr><td>Remote release connector</td><td>⌀3.5 mm 3-pole mini jack</td></tr><tr><td>Digital input/output</td><td>USB connector: USB Type-C� USB 10 Gbps</td></tr><tr><td>HDMI output</td><td>HDMI Micro connector (type D)</td></tr></table>\n<br><footer id='3' style='font-size:22px'>Technical<br>Notes<br>12</footer>\n<footer id='4' style='font-size:20px'>391</footer>",
+        "markdown": "Specifications\n\n| System |  |\n| --- | --- |\n| Hot shoe | Provided (supports TTL flash control); supports sync speeds as fast as 1/180 S |\n| Sync contact | X contact; supports sync speeds as fast as 1/180 S |\n| Sync terminal | - |\n| Electronic viewfinder (EVF) | 0.39-in., 2360k-dot OLED viewfinder; magnification 0.62x with 50 mm lens (35 mm format equivalent) at infinity and diopter set to -1.0 m-1; diagonal angle of view approximately 31° (horizontal angle of view approximately 26°) ● Diopter adjustment: -4 to +2 m-1 ● Eyepoint: Approximately 17.5 mm |\n| LCD monitor | 3.0-in/7.6 cm, 1840k-dot color touch screen LCD monitor, Vari-angle LCD monitor |\n| Movies (with stereo sound) | ● Movie size: 6.2K 3:2, 4K 16:9, DCE 17:9, FHD 16:9, FHD: 17:9, FHD 16:9, FHD 17:9 L ● Frame rate: 59.94P, 50P, 29.97P, 25P, 24P, 23.98P ● Recording/output format: - H.265 (10-bit MOV 4:2:2/4:2:0; 360, 200, 100, or 50 Mbps) -H.264 (8-bit MOV/MP44:2:0; 360, 200, 100, or 50Mbps) - HDMI output supported (RAW output supported with Atomos and Blackmagic Design external recorders; 8-bit 4:2: 2/10-bit 4:2:2) |\n| High-speed movies | ● Movie size: FHD 16:9, FHD: 17:9 ● Frame advance rate: 240P, 200P, 120P, 100P |\n\n\n| Input/output terminals | Input/output terminals |\n| --- | --- |\n| Microphone connector | ⌀3.5 mm mini-stereojack |\n| Headphone jack socket | ⌀3.5 mm mini-stereo jack |\n| Remote release connector | ⌀3.5 mm 3-pole mini jack |\n| Digital input/output | USB connector: USB Type-C� USB 10 Gbps |\n| HDMI output | HDMI Micro connector (type D) |\n\n\nTechnical\nNotes\n12\n\n391",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='0' data-category='paragraph' style='font-size:18px'>Specifications</p>",
+                "markdown": "Specifications",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.778,
+                    "y": 0.0295
+                },
+                {
+                    "x": 0.9178,
+                    "y": 0.0295
+                },
+                {
+                    "x": 0.9178,
+                    "y": 0.0494
+                },
+                {
+                    "x": 0.778,
+                    "y": 0.0494
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='1' style='font-size:14px'><tr><td>System</td><td></td></tr><tr><td>Hot shoe</td><td>Provided (supports TTL flash control); supports sync speeds as fast as 1/180 S</td></tr><tr><td>Sync contact</td><td>X contact; supports sync speeds as fast as 1/180 S</td></tr><tr><td>Sync terminal</td><td>-</td></tr><tr><td>Electronic viewfinder (EVF)</td><td>0.39-in., 2360k-dot OLED viewfinder; magnification 0.62x with 50 mm lens (35 mm format equivalent) at infinity and diopter set to -1.0 m-1; diagonal angle of view approximately 31° (horizontal angle of view approximately 26°) ● Diopter adjustment: -4 to +2 m-1 ● Eyepoint: Approximately 17.5 mm</td></tr><tr><td>LCD monitor</td><td>3.0-in/7.6 cm, 1840k-dot color touch screen LCD monitor, Vari-angle LCD monitor</td></tr><tr><td>Movies (with stereo sound)</td><td>● Movie size: 6.2K 3:2, 4K 16:9, DCE 17:9, FHD 16:9, FHD: 17:9, FHD 16:9, FHD 17:9 L ● Frame rate: 59.94P, 50P, 29.97P, 25P, 24P, 23.98P ● Recording/output format: - H.265 (10-bit MOV 4:2:2/4:2:0; 360, 200, 100, or 50 Mbps) -H.264 (8-bit MOV/MP44:2:0; 360, 200, 100, or 50Mbps) - HDMI output supported (RAW output supported with Atomos and Blackmagic Design external recorders; 8-bit 4:2: 2/10-bit 4:2:2)</td></tr><tr><td>High-speed movies</td><td>● Movie size: FHD 16:9, FHD: 17:9 ● Frame advance rate: 240P, 200P, 120P, 100P</td></tr></table>",
+                "markdown": "| System |  |\n| --- | --- |\n| Hot shoe | Provided (supports TTL flash control); supports sync speeds as fast as 1/180 S |\n| Sync contact | X contact; supports sync speeds as fast as 1/180 S |\n| Sync terminal | - |\n| Electronic viewfinder (EVF) | 0.39-in., 2360k-dot OLED viewfinder; magnification 0.62x with 50 mm lens (35 mm format equivalent) at infinity and diopter set to -1.0 m-1; diagonal angle of view approximately 31° (horizontal angle of view approximately 26°) ● Diopter adjustment: -4 to +2 m-1 ● Eyepoint: Approximately 17.5 mm |\n| LCD monitor | 3.0-in/7.6 cm, 1840k-dot color touch screen LCD monitor, Vari-angle LCD monitor |\n| Movies (with stereo sound) | ● Movie size: 6.2K 3:2, 4K 16:9, DCE 17:9, FHD 16:9, FHD: 17:9, FHD 16:9, FHD 17:9 L ● Frame rate: 59.94P, 50P, 29.97P, 25P, 24P, 23.98P ● Recording/output format: - H.265 (10-bit MOV 4:2:2/4:2:0; 360, 200, 100, or 50 Mbps) -H.264 (8-bit MOV/MP44:2:0; 360, 200, 100, or 50Mbps) - HDMI output supported (RAW output supported with Atomos and Blackmagic Design external recorders; 8-bit 4:2: 2/10-bit 4:2:2) |\n| High-speed movies | ● Movie size: FHD 16:9, FHD: 17:9 ● Frame advance rate: 240P, 200P, 120P, 100P |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1066,
+                    "y": 0.0749
+                },
+                {
+                    "x": 0.9231,
+                    "y": 0.0749
+                },
+                {
+                    "x": 0.9231,
+                    "y": 0.6312
+                },
+                {
+                    "x": 0.1066,
+                    "y": 0.6312
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='2' style='font-size:16px'><tr><td colspan=\"2\">Input/output terminals</td></tr><tr><td>Microphone connector</td><td>⌀3.5 mm mini-stereojack</td></tr><tr><td>Headphone jack socket</td><td>⌀3.5 mm mini-stereo jack</td></tr><tr><td>Remote release connector</td><td>⌀3.5 mm 3-pole mini jack</td></tr><tr><td>Digital input/output</td><td>USB connector: USB Type-C� USB 10 Gbps</td></tr><tr><td>HDMI output</td><td>HDMI Micro connector (type D)</td></tr></table>",
+                "markdown": "| Input/output terminals | Input/output terminals |\n| --- | --- |\n| Microphone connector | ⌀3.5 mm mini-stereojack |\n| Headphone jack socket | ⌀3.5 mm mini-stereo jack |\n| Remote release connector | ⌀3.5 mm 3-pole mini jack |\n| Digital input/output | USB connector: USB Type-C� USB 10 Gbps |\n| HDMI output | HDMI Micro connector (type D) |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1068,
+                    "y": 0.6451
+                },
+                {
+                    "x": 0.916,
+                    "y": 0.6451
+                },
+                {
+                    "x": 0.916,
+                    "y": 0.7837
+                },
+                {
+                    "x": 0.1068,
+                    "y": 0.7837
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<br><footer id='3' style='font-size:22px'>Technical<br>Notes<br>12</footer>",
+                "markdown": "Technical\nNotes\n12",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9577,
+                    "y": 0.7592
+                },
+                {
+                    "x": 0.9853,
+                    "y": 0.7592
+                },
+                {
+                    "x": 0.9853,
+                    "y": 0.9154
+                },
+                {
+                    "x": 0.9577,
+                    "y": 0.9154
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='4' style='font-size:20px'>391</footer>",
+                "markdown": "391",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.8609,
+                    "y": 0.9567
+                },
+                {
+                    "x": 0.915,
+                    "y": 0.9567
+                },
+                {
+                    "x": 0.915,
+                    "y": 0.9795
+                },
+                {
+                    "x": 0.8609,
+                    "y": 0.9795
+                }
+            ],
+            "id": 4,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

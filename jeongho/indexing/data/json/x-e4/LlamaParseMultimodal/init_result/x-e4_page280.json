@@ -1,0 +1,88 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "# Touch-Function Gestures\n\nAssign roles to touch-function gestures (T-Fn1, T-Fn2, T-Fn3, or T-Fn4) for quick access to selected features.\n\n> 💡 **Note:**  \n> Touch-function gestures are disabled by default. To enable touch-function gestures, select **ON** for **BUTTON/DIAL SETTING > TOUCH SCREEN SETTING > TOUCH FUNCTION**.\n\n## Touch-Function Gesture Defaults\n\nThe default assignments for the different gestures are:\n\n!Touch-Function Gestures\n\n| Touch-Function Gestures | Default               |\n|-------------------------|-----------------------|\n| ① T-Fn1 (flick up)      | HISTOGRAM             |\n| ② T-Fn2 (flick left)    | SPORTS FINDER MODE    |\n| ③ T-Fn3 (flick right)   | LARGE INDICATORS MODE |\n| ④ T-Fn4 (flick down)    | ELECTRONIC LEVEL      |",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "Touch-Function Gestures",
+                    "md": "# Touch-Function Gestures"
+                },
+                {
+                    "type": "text",
+                    "value": "Assign roles to touch-function gestures (T-Fn1, T-Fn2, T-Fn3, or T-Fn4) for quick access to selected features.\n\n> 💡 **Note:**  \n> Touch-function gestures are disabled by default. To enable touch-function gestures, select **ON** for **BUTTON/DIAL SETTING > TOUCH SCREEN SETTING > TOUCH FUNCTION**.",
+                    "md": "Assign roles to touch-function gestures (T-Fn1, T-Fn2, T-Fn3, or T-Fn4) for quick access to selected features.\n\n> 💡 **Note:**  \n> Touch-function gestures are disabled by default. To enable touch-function gestures, select **ON** for **BUTTON/DIAL SETTING > TOUCH SCREEN SETTING > TOUCH FUNCTION**."
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "Touch-Function Gesture Defaults",
+                    "md": "## Touch-Function Gesture Defaults"
+                },
+                {
+                    "type": "text",
+                    "value": "The default assignments for the different gestures are:\n\n!Touch-Function Gestures",
+                    "md": "The default assignments for the different gestures are:\n\n!Touch-Function Gestures"
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Touch-Function Gestures",
+                            "Default"
+                        ],
+                        [
+                            "① T-Fn1 (flick up)",
+                            "HISTOGRAM"
+                        ],
+                        [
+                            "② T-Fn2 (flick left)",
+                            "SPORTS FINDER MODE"
+                        ],
+                        [
+                            "③ T-Fn3 (flick right)",
+                            "LARGE INDICATORS MODE"
+                        ],
+                        [
+                            "④ T-Fn4 (flick down)",
+                            "ELECTRONIC LEVEL"
+                        ]
+                    ],
+                    "md": "| Touch-Function Gestures | Default               |\n|-------------------------|-----------------------|\n| ① T-Fn1 (flick up)      | HISTOGRAM             |\n| ② T-Fn2 (flick left)    | SPORTS FINDER MODE    |\n| ③ T-Fn3 (flick right)   | LARGE INDICATORS MODE |\n| ④ T-Fn4 (flick down)    | ELECTRONIC LEVEL      |",
+                    "isPerfectTable": true,
+                    "csv": "\"Touch-Function Gestures\",\"Default\"\n\"① T-Fn1 (flick up)\",\"HISTOGRAM\"\n\"② T-Fn2 (flick left)\",\"SPORTS FINDER MODE\"\n\"③ T-Fn3 (flick right)\",\"LARGE INDICATORS MODE\"\n\"④ T-Fn4 (flick down)\",\"ELECTRONIC LEVEL\""
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "parsingMode": "multimodal-openai-gpt4o",
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 287.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "81435393-01d4-4a88-b7ec-accf5cbad037",
+    "file_path": "../data/raw_data/x-e4/x-e4_split/x-e4_page280.pdf"
+}

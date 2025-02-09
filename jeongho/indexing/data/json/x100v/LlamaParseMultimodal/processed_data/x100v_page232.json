@@ -1,0 +1,14 @@
+{
+    "parsing_result": "# POWER MANAGEMENT\n\n## EVF PERFORMANCE\n\nChoose whether the EVF prioritizes **BRIGHTNESS PRIORITY** or **SMOOTHNESS PRIORITY**.\n\n| Option              | Description                                                                 |\n|---------------------|-----------------------------------------------------------------------------|\n| BRIGHTNESS PRIORITY | The EVF display prioritizes brightness. Recommended in most situations.     |\n| SMOOTHNESS PRIORITY | Minimize ghosting in the EVF display. Choose when photographing moving subjects. The brightness of the EVF may drop. |\n\n> 💡 **Note:**  \n> SMOOTHNESS PRIORITY is only available when BOOST is selected for PERFORMANCE.\n\n## AUTO POWER OFF TEMP.\n\nIf its temperature rises beyond a certain point, the camera will first display a message and then, if the temperature rise continues, automatically end shooting and power down. Choose the temperature at which the camera turns off automatically.\n\n| Option   | Description                                                                                                                                                                                                 |\n|----------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| STANDARD | The camera turns off automatically when its temperature reaches the STANDARD value.                                                                                                                         |\n| HIGH     | Shooting can continue at temperatures higher than the STANDARD value, extending the time available to record movies and the like. Because remaining in contact with the camera at these high temperatures could result in low-temperature burns, this option should only be used after mounting the camera on a tripod or taking other steps to avoid prolonged contact with the camera. |",
+    "embedding_result": [],
+    "metadata": {
+        "page": 232,
+        "model": "x100v",
+        "subsection": [
+            "EVF PERFORMANCE",
+            "AUTO POWER OFF TEMP."
+        ],
+        "chapter": "The Setup Menus",
+        "section": "POWER MANAGEMENT"
+    }
+}

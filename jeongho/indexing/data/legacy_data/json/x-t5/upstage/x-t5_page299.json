@@ -1,0 +1,266 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:14px'>BUTTON/DIAL SETTING</header>\n<h1 id='1' style='font-size:16px'>SHOOT WITHOUT LENS</h1>\n\n<table id='3' style='font-size:20px'><tr><td colspan=\"2\">Options</td></tr><tr><td>ON</td><td>OFF</td></tr><br><caption id='2' style='font-size:16px'>Choose ON to enable the shutter release when no lens is at-<br>tached.</caption></table>\n<h1 id='4' style='font-size:18px'>SHOOT WITHOUT CARD</h1>\n\n<table id='6' style='font-size:14px'><tr><td>Option</td><td>Description</td></tr><tr><td>ON</td><td>When no memory card is inserted, the shutter can be released to test camera function and the shooting and setup menus can be displayed.</td></tr><tr><td>OFF</td><td>The shutter is disabled if no memory card is inserted, preventing accidental loss of pictures taken without a memory card.</td></tr><br><caption id='5' style='font-size:18px'>Choose whether the shutter can be released without a memory<br>card inserted in the camera.</caption></table>\n<footer id='7' style='font-size:22px'>The<br>Setup<br>Menus</footer>\n<footer id='8' style='font-size:20px'>299</footer>",
+        "markdown": "BUTTON/DIAL SETTING\n\n# SHOOT WITHOUT LENS\n\nChoose ON to enable the shutter release when no lens is at-\ntached.\n\n| Options | Options |\n| --- | --- |\n| ON | OFF |\n\n\n# SHOOT WITHOUT CARD\n\nChoose whether the shutter can be released without a memory\ncard inserted in the camera.\n\n| Option | Description |\n| --- | --- |\n| ON | When no memory card is inserted, the shutter can be released to test camera function and the shooting and setup menus can be displayed. |\n| OFF | The shutter is disabled if no memory card is inserted, preventing accidental loss of pictures taken without a memory card. |\n\n\nThe\nSetup\nMenus\n\n299",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:14px'>BUTTON/DIAL SETTING</header>",
+                "markdown": "BUTTON/DIAL SETTING",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6866,
+                    "y": 0.0277
+                },
+                {
+                    "x": 0.9189,
+                    "y": 0.0277
+                },
+                {
+                    "x": 0.9189,
+                    "y": 0.05
+                },
+                {
+                    "x": 0.6866,
+                    "y": 0.05
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='1' style='font-size:16px'>SHOOT WITHOUT LENS</h1>",
+                "markdown": "# SHOOT WITHOUT LENS",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1062,
+                    "y": 0.0723
+                },
+                {
+                    "x": 0.4226,
+                    "y": 0.0723
+                },
+                {
+                    "x": 0.4226,
+                    "y": 0.095
+                },
+                {
+                    "x": 0.1062,
+                    "y": 0.095
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='2' data-category='paragraph' style='font-size:16px'>Choose ON to enable the shutter release when no lens is at-<br>tached.</p>",
+                "markdown": "Choose ON to enable the shutter release when no lens is at-\ntached.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1056,
+                    "y": 0.1043
+                },
+                {
+                    "x": 0.9188,
+                    "y": 0.1043
+                },
+                {
+                    "x": 0.9188,
+                    "y": 0.1525
+                },
+                {
+                    "x": 0.1056,
+                    "y": 0.1525
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='3' style='font-size:20px'><tr><td colspan=\"2\">Options</td></tr><tr><td>ON</td><td>OFF</td></tr></table>",
+                "markdown": "| Options | Options |\n| --- | --- |\n| ON | OFF |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1084,
+                    "y": 0.1671
+                },
+                {
+                    "x": 0.917,
+                    "y": 0.1671
+                },
+                {
+                    "x": 0.917,
+                    "y": 0.2184
+                },
+                {
+                    "x": 0.1084,
+                    "y": 0.2184
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='4' style='font-size:18px'>SHOOT WITHOUT CARD</h1>",
+                "markdown": "# SHOOT WITHOUT CARD",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1057,
+                    "y": 0.2342
+                },
+                {
+                    "x": 0.4339,
+                    "y": 0.2342
+                },
+                {
+                    "x": 0.4339,
+                    "y": 0.2581
+                },
+                {
+                    "x": 0.1057,
+                    "y": 0.2581
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='5' data-category='paragraph' style='font-size:18px'>Choose whether the shutter can be released without a memory<br>card inserted in the camera.</p>",
+                "markdown": "Choose whether the shutter can be released without a memory\ncard inserted in the camera.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1071,
+                    "y": 0.2663
+                },
+                {
+                    "x": 0.9178,
+                    "y": 0.2663
+                },
+                {
+                    "x": 0.9178,
+                    "y": 0.3159
+                },
+                {
+                    "x": 0.1071,
+                    "y": 0.3159
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='6' style='font-size:14px'><tr><td>Option</td><td>Description</td></tr><tr><td>ON</td><td>When no memory card is inserted, the shutter can be released to test camera function and the shooting and setup menus can be displayed.</td></tr><tr><td>OFF</td><td>The shutter is disabled if no memory card is inserted, preventing accidental loss of pictures taken without a memory card.</td></tr></table>",
+                "markdown": "| Option | Description |\n| --- | --- |\n| ON | When no memory card is inserted, the shutter can be released to test camera function and the shooting and setup menus can be displayed. |\n| OFF | The shutter is disabled if no memory card is inserted, preventing accidental loss of pictures taken without a memory card. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1105,
+                    "y": 0.329
+                },
+                {
+                    "x": 0.9192,
+                    "y": 0.329
+                },
+                {
+                    "x": 0.9192,
+                    "y": 0.4722
+                },
+                {
+                    "x": 0.1105,
+                    "y": 0.4722
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='7' style='font-size:22px'>The<br>Setup<br>Menus</footer>",
+                "markdown": "The\nSetup\nMenus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9576,
+                    "y": 0.5707
+                },
+                {
+                    "x": 0.98,
+                    "y": 0.5707
+                },
+                {
+                    "x": 0.98,
+                    "y": 0.697
+                },
+                {
+                    "x": 0.9576,
+                    "y": 0.697
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='8' style='font-size:20px'>299</footer>",
+                "markdown": "299",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.8599,
+                    "y": 0.9566
+                },
+                {
+                    "x": 0.9183,
+                    "y": 0.9566
+                },
+                {
+                    "x": 0.9183,
+                    "y": 0.9793
+                },
+                {
+                    "x": 0.8599,
+                    "y": 0.9793
+                }
+            ],
+            "id": 8,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

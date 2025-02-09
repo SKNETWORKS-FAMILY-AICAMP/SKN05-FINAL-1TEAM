@@ -1,0 +1,266 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:22px'>Taking<br>Photographs</header>\n<br><p id='1' data-category='paragraph' style='font-size:16px'>The Focus Indicator</p>\n<br><h1 id='2' style='font-size:16px'>Focus status is shown by the focus indicator.</h1>\n<p id='3' data-category='paragraph' style='font-size:14px'>区</p>\n<br><p id='4' data-category='paragraph' style='font-size:20px'>peloper⌀</p>\n<h1 id='5' style='font-size:14px'>Focus indicator</h1>\n<br><table id='6' style='font-size:18px'><tr><td>Focus indicator</td><td>Focus status</td></tr><tr><td>)</td><td>Camera focusing.</td></tr><tr><td>(lights green)</td><td>Subject in focus; focus locked (focus mode AF-S).</td></tr><tr><td>(lights green)</td><td>Subject in focus (focus mode AF-C ). Focus is automatically adjusted for changes in distance to subject.</td></tr><tr><td>○ (blinks white)</td><td>Camera unable to focus.</td></tr><tr><td>MF</td><td>Manual focus (focus mode MF).</td></tr></table>\n<footer id='7' style='font-size:16px'>5</footer>\n<footer id='8' style='font-size:20px'>70</footer>",
+        "markdown": "Taking\nPhotographs\n\nThe Focus Indicator\n\n# Focus status is shown by the focus indicator.\n\n区\n\npeloper⌀\n\n# Focus indicator\n\n| Focus indicator | Focus status |\n| --- | --- |\n| ) | Camera focusing. |\n| (lights green) | Subject in focus; focus locked (focus mode AF-S). |\n| (lights green) | Subject in focus (focus mode AF-C ). Focus is automatically adjusted for changes in distance to subject. |\n| ○ (blinks white) | Camera unable to focus. |\n| MF | Manual focus (focus mode MF). |\n\n\n5\n\n70",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:22px'>Taking<br>Photographs</header>",
+                "markdown": "Taking\nPhotographs",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0162,
+                    "y": 0.5148
+                },
+                {
+                    "x": 0.0429,
+                    "y": 0.5148
+                },
+                {
+                    "x": 0.0429,
+                    "y": 0.6661
+                },
+                {
+                    "x": 0.0162,
+                    "y": 0.6661
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='1' data-category='paragraph' style='font-size:16px'>The Focus Indicator</p>",
+                "markdown": "The Focus Indicator",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0808,
+                    "y": 0.0729
+                },
+                {
+                    "x": 0.2707,
+                    "y": 0.0729
+                },
+                {
+                    "x": 0.2707,
+                    "y": 0.0921
+                },
+                {
+                    "x": 0.0808,
+                    "y": 0.0921
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='2' style='font-size:16px'>Focus status is shown by the focus indicator.</h1>",
+                "markdown": "# Focus status is shown by the focus indicator.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0838,
+                    "y": 0.0949
+                },
+                {
+                    "x": 0.5692,
+                    "y": 0.0949
+                },
+                {
+                    "x": 0.5692,
+                    "y": 0.1162
+                },
+                {
+                    "x": 0.0838,
+                    "y": 0.1162
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='3' data-category='paragraph' style='font-size:14px'>区</p>",
+                "markdown": "区",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6181,
+                    "y": 0.1277
+                },
+                {
+                    "x": 0.6281,
+                    "y": 0.1277
+                },
+                {
+                    "x": 0.6281,
+                    "y": 0.1348
+                },
+                {
+                    "x": 0.6181,
+                    "y": 0.1348
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='4' data-category='paragraph' style='font-size:20px'>peloper⌀</p>",
+                "markdown": "peloper⌀",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6207,
+                    "y": 0.134
+                },
+                {
+                    "x": 0.6266,
+                    "y": 0.134
+                },
+                {
+                    "x": 0.6266,
+                    "y": 0.1707
+                },
+                {
+                    "x": 0.6207,
+                    "y": 0.1707
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='5' style='font-size:14px'>Focus indicator</h1>",
+                "markdown": "# Focus indicator",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6136,
+                    "y": 0.2334
+                },
+                {
+                    "x": 0.7587,
+                    "y": 0.2334
+                },
+                {
+                    "x": 0.7587,
+                    "y": 0.25
+                },
+                {
+                    "x": 0.6136,
+                    "y": 0.25
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='6' style='font-size:18px'><tr><td>Focus indicator</td><td>Focus status</td></tr><tr><td>)</td><td>Camera focusing.</td></tr><tr><td>(lights green)</td><td>Subject in focus; focus locked (focus mode AF-S).</td></tr><tr><td>(lights green)</td><td>Subject in focus (focus mode AF-C ). Focus is automatically adjusted for changes in distance to subject.</td></tr><tr><td>○ (blinks white)</td><td>Camera unable to focus.</td></tr><tr><td>MF</td><td>Manual focus (focus mode MF).</td></tr></table>",
+                "markdown": "| Focus indicator | Focus status |\n| --- | --- |\n| ) | Camera focusing. |\n| (lights green) | Subject in focus; focus locked (focus mode AF-S). |\n| (lights green) | Subject in focus (focus mode AF-C ). Focus is automatically adjusted for changes in distance to subject. |\n| ○ (blinks white) | Camera unable to focus. |\n| MF | Manual focus (focus mode MF). |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.084,
+                    "y": 0.1237
+                },
+                {
+                    "x": 0.608,
+                    "y": 0.1237
+                },
+                {
+                    "x": 0.608,
+                    "y": 0.3346
+                },
+                {
+                    "x": 0.084,
+                    "y": 0.3346
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='7' style='font-size:16px'>5</footer>",
+                "markdown": "5",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0251,
+                    "y": 0.4776
+                },
+                {
+                    "x": 0.0434,
+                    "y": 0.4776
+                },
+                {
+                    "x": 0.0434,
+                    "y": 0.4983
+                },
+                {
+                    "x": 0.0251,
+                    "y": 0.4983
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='8' style='font-size:20px'>70</footer>",
+                "markdown": "70",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0819,
+                    "y": 0.9567
+                },
+                {
+                    "x": 0.1232,
+                    "y": 0.9567
+                },
+                {
+                    "x": 0.1232,
+                    "y": 0.9798
+                },
+                {
+                    "x": 0.0819,
+                    "y": 0.9798
+                }
+            ],
+            "id": 8,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

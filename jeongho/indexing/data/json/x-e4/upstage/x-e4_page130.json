@@ -1,0 +1,322 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<h1 id='0' style='font-size:16px'>STORE AF MODE BY ORIENTATION</h1>\n\n<table id='2' style='font-size:14px'><tr><td>Option</td><td>Description</td></tr><tr><td>OFF</td><td>The same settings are used in both orientations.</td></tr><tr><td>FOCUS AREA ONLY</td><td>The focus area for each orientation can be selected sep- arately.</td></tr><tr><td>ON</td><td>The focus mode and focus area can be selected separately.</td></tr><br><caption id='1' style='font-size:20px'>Choose whether the AF mode used when the camera is in por-<br>trait orientation is stored separately from that used when the<br>camera is in landscape orientation.</caption></table>\n<p id='3' data-category='paragraph' style='font-size:14px'>AF POINT DISPLAY []</p>\n\n<table id='5' style='font-size:18px'><tr><td colspan=\"2\">Options</td></tr><tr><td>ON</td><td>OFF</td></tr><br><caption id='4' style='font-size:16px'>Choose whether individual focus frames are displayed when<br>ZONE or WIDE/TRACKING is selected for AF AF/MF SETTING ><br>MF<br>AF MODE.</caption></table>\n<p id='6' data-category='paragraph' style='font-size:18px'>NUMBER OF FOCUS POINTS</p>\n<br><p id='7' data-category='paragraph' style='font-size:20px'>Choose the number of focus points available for focus-point se-<br>lection in manual focus mode or when SINGLE POINT is selected<br>for AF MODE.</p>\n<br><header id='8' style='font-size:22px'>The<br>Shooting<br>Menus</header>\n<br><table id='9' style='font-size:18px'><tr><td>Option</td><td>Description</td></tr><tr><td>117 POINTS (9x13)</td><td>Choose from 117 focus points arranged in a 9- by 13-point grid.</td></tr><tr><td>425 POINTS (17 x25)</td><td>Choose from 425 focus points arranged in a 17- by 25-point grid.</td></tr></table>\n<footer id='10' style='font-size:20px'>130</footer>",
+        "markdown": "# STORE AF MODE BY ORIENTATION\n\nChoose whether the AF mode used when the camera is in por-\ntrait orientation is stored separately from that used when the\ncamera is in landscape orientation.\n\n| Option | Description |\n| --- | --- |\n| OFF | The same settings are used in both orientations. |\n| FOCUS AREA ONLY | The focus area for each orientation can be selected sep- arately. |\n| ON | The focus mode and focus area can be selected separately. |\n\n\nAF POINT DISPLAY []\n\nChoose whether individual focus frames are displayed when\nZONE or WIDE/TRACKING is selected for AF AF/MF SETTING >\nMF\nAF MODE.\n\n| Options | Options |\n| --- | --- |\n| ON | OFF |\n\n\nNUMBER OF FOCUS POINTS\n\nChoose the number of focus points available for focus-point se-\nlection in manual focus mode or when SINGLE POINT is selected\nfor AF MODE.\n\nThe\nShooting\nMenus\n\n| Option | Description |\n| --- | --- |\n| 117 POINTS (9x13) | Choose from 117 focus points arranged in a 9- by 13-point grid. |\n| 425 POINTS (17 x25) | Choose from 425 focus points arranged in a 17- by 25-point grid. |\n\n\n130",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='0' style='font-size:16px'>STORE AF MODE BY ORIENTATION</h1>",
+                "markdown": "# STORE AF MODE BY ORIENTATION",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0823,
+                    "y": 0.0736
+                },
+                {
+                    "x": 0.5418,
+                    "y": 0.0736
+                },
+                {
+                    "x": 0.5418,
+                    "y": 0.0946
+                },
+                {
+                    "x": 0.0823,
+                    "y": 0.0946
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='1' data-category='paragraph' style='font-size:20px'>Choose whether the AF mode used when the camera is in por-<br>trait orientation is stored separately from that used when the<br>camera is in landscape orientation.</p>",
+                "markdown": "Choose whether the AF mode used when the camera is in por-\ntrait orientation is stored separately from that used when the\ncamera is in landscape orientation.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0794,
+                    "y": 0.1037
+                },
+                {
+                    "x": 0.8939,
+                    "y": 0.1037
+                },
+                {
+                    "x": 0.8939,
+                    "y": 0.1794
+                },
+                {
+                    "x": 0.0794,
+                    "y": 0.1794
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='2' style='font-size:14px'><tr><td>Option</td><td>Description</td></tr><tr><td>OFF</td><td>The same settings are used in both orientations.</td></tr><tr><td>FOCUS AREA ONLY</td><td>The focus area for each orientation can be selected sep- arately.</td></tr><tr><td>ON</td><td>The focus mode and focus area can be selected separately.</td></tr></table>",
+                "markdown": "| Option | Description |\n| --- | --- |\n| OFF | The same settings are used in both orientations. |\n| FOCUS AREA ONLY | The focus area for each orientation can be selected sep- arately. |\n| ON | The focus mode and focus area can be selected separately. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0853,
+                    "y": 0.1921
+                },
+                {
+                    "x": 0.8928,
+                    "y": 0.1921
+                },
+                {
+                    "x": 0.8928,
+                    "y": 0.3157
+                },
+                {
+                    "x": 0.0853,
+                    "y": 0.3157
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='3' data-category='paragraph' style='font-size:14px'>AF POINT DISPLAY []</p>",
+                "markdown": "AF POINT DISPLAY []",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0809,
+                    "y": 0.3302
+                },
+                {
+                    "x": 0.4115,
+                    "y": 0.3302
+                },
+                {
+                    "x": 0.4115,
+                    "y": 0.3538
+                },
+                {
+                    "x": 0.0809,
+                    "y": 0.3538
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='4' data-category='paragraph' style='font-size:16px'>Choose whether individual focus frames are displayed when<br>ZONE or WIDE/TRACKING is selected for AF AF/MF SETTING ><br>MF<br>AF MODE.</p>",
+                "markdown": "Choose whether individual focus frames are displayed when\nZONE or WIDE/TRACKING is selected for AF AF/MF SETTING >\nMF\nAF MODE.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0804,
+                    "y": 0.3612
+                },
+                {
+                    "x": 0.8921,
+                    "y": 0.3612
+                },
+                {
+                    "x": 0.8921,
+                    "y": 0.4362
+                },
+                {
+                    "x": 0.0804,
+                    "y": 0.4362
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='5' style='font-size:18px'><tr><td colspan=\"2\">Options</td></tr><tr><td>ON</td><td>OFF</td></tr></table>",
+                "markdown": "| Options | Options |\n| --- | --- |\n| ON | OFF |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0823,
+                    "y": 0.4508
+                },
+                {
+                    "x": 0.8907,
+                    "y": 0.4508
+                },
+                {
+                    "x": 0.8907,
+                    "y": 0.5026
+                },
+                {
+                    "x": 0.0823,
+                    "y": 0.5026
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='6' data-category='paragraph' style='font-size:18px'>NUMBER OF FOCUS POINTS</p>",
+                "markdown": "NUMBER OF FOCUS POINTS",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0813,
+                    "y": 0.5183
+                },
+                {
+                    "x": 0.4586,
+                    "y": 0.5183
+                },
+                {
+                    "x": 0.4586,
+                    "y": 0.5419
+                },
+                {
+                    "x": 0.0813,
+                    "y": 0.5419
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='7' data-category='paragraph' style='font-size:20px'>Choose the number of focus points available for focus-point se-<br>lection in manual focus mode or when SINGLE POINT is selected<br>for AF MODE.</p>",
+                "markdown": "Choose the number of focus points available for focus-point se-\nlection in manual focus mode or when SINGLE POINT is selected\nfor AF MODE.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0815,
+                    "y": 0.5507
+                },
+                {
+                    "x": 0.894,
+                    "y": 0.5507
+                },
+                {
+                    "x": 0.894,
+                    "y": 0.6246
+                },
+                {
+                    "x": 0.0815,
+                    "y": 0.6246
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "header",
+            "content": {
+                "html": "<br><header id='8' style='font-size:22px'>The<br>Shooting<br>Menus</header>",
+                "markdown": "The\nShooting\nMenus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0167,
+                    "y": 0.577
+                },
+                {
+                    "x": 0.0415,
+                    "y": 0.577
+                },
+                {
+                    "x": 0.0415,
+                    "y": 0.7306
+                },
+                {
+                    "x": 0.0167,
+                    "y": 0.7306
+                }
+            ],
+            "id": 8,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='9' style='font-size:18px'><tr><td>Option</td><td>Description</td></tr><tr><td>117 POINTS (9x13)</td><td>Choose from 117 focus points arranged in a 9- by 13-point grid.</td></tr><tr><td>425 POINTS (17 x25)</td><td>Choose from 425 focus points arranged in a 17- by 25-point grid.</td></tr></table>",
+                "markdown": "| Option | Description |\n| --- | --- |\n| 117 POINTS (9x13) | Choose from 117 focus points arranged in a 9- by 13-point grid. |\n| 425 POINTS (17 x25) | Choose from 425 focus points arranged in a 17- by 25-point grid. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0847,
+                    "y": 0.6376
+                },
+                {
+                    "x": 0.8959,
+                    "y": 0.6376
+                },
+                {
+                    "x": 0.8959,
+                    "y": 0.7569
+                },
+                {
+                    "x": 0.0847,
+                    "y": 0.7569
+                }
+            ],
+            "id": 9,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='10' style='font-size:20px'>130</footer>",
+                "markdown": "130",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0847,
+                    "y": 0.9563
+                },
+                {
+                    "x": 0.1405,
+                    "y": 0.9563
+                },
+                {
+                    "x": 0.1405,
+                    "y": 0.9795
+                },
+                {
+                    "x": 0.0847,
+                    "y": 0.9795
+                }
+            ],
+            "id": 10,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

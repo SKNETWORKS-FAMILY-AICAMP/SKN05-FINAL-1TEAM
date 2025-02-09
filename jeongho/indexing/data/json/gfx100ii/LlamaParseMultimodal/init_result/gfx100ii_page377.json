@@ -1,0 +1,121 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "# Screen Setting\n\n## Dual Display Setting\nChoose the content of the two windows in the dual display.\n\n| Option          | Description                                                                 |\n|-----------------|-----------------------------------------------------------------------------|\n| R:FOCUS L:FRAME | The right (small) window shows a close-up of the focus area, while the left (large) window shows the entire frame. |\n| R:FRAME L:FOCUS | The right (small) window shows the entire frame, while the left (large) window shows a close-up of the focus area. |\n\n## EVF Full Screen Magnification\nChoose the magnification of the full-screen EVF display.\n\n| Options |       |\n|---------|-------|\n| 1.00x   | 0.94x |\n| 0.89x   | 0.83x |\n\n> 💡 **Note:**  \n> The screen magnification cannot be changed when **POWER MANAGEMENT > PERFORMANCE** is either **EVF FRAME RATE PRIORITY (120P)** or **EVF FRAME RATE PRIORITY (240P EQUIV.)** With these settings, the screen magnification is set to 0.77x.\n\n## DISP. Custom Setting\nChoose the items shown in the standard indicator display (📖 25).",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "Screen Setting",
+                    "md": "# Screen Setting"
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "Dual Display Setting",
+                    "md": "## Dual Display Setting"
+                },
+                {
+                    "type": "text",
+                    "value": "Choose the content of the two windows in the dual display.",
+                    "md": "Choose the content of the two windows in the dual display."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Option",
+                            "Description"
+                        ],
+                        [
+                            "R:FOCUS L:FRAME",
+                            "The right (small) window shows a close-up of the focus area, while the left (large) window shows the entire frame."
+                        ],
+                        [
+                            "R:FRAME L:FOCUS",
+                            "The right (small) window shows the entire frame, while the left (large) window shows a close-up of the focus area."
+                        ]
+                    ],
+                    "md": "| Option          | Description                                                                 |\n|-----------------|-----------------------------------------------------------------------------|\n| R:FOCUS L:FRAME | The right (small) window shows a close-up of the focus area, while the left (large) window shows the entire frame. |\n| R:FRAME L:FOCUS | The right (small) window shows the entire frame, while the left (large) window shows a close-up of the focus area. |",
+                    "isPerfectTable": true,
+                    "csv": "\"Option\",\"Description\"\n\"R:FOCUS L:FRAME\",\"The right (small) window shows a close-up of the focus area, while the left (large) window shows the entire frame.\"\n\"R:FRAME L:FOCUS\",\"The right (small) window shows the entire frame, while the left (large) window shows a close-up of the focus area.\""
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "EVF Full Screen Magnification",
+                    "md": "## EVF Full Screen Magnification"
+                },
+                {
+                    "type": "text",
+                    "value": "Choose the magnification of the full-screen EVF display.",
+                    "md": "Choose the magnification of the full-screen EVF display."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Options",
+                            ""
+                        ],
+                        [
+                            "1.00x",
+                            "0.94x"
+                        ],
+                        [
+                            "0.89x",
+                            "0.83x"
+                        ]
+                    ],
+                    "md": "| Options |       |\n|---------|-------|\n| 1.00x   | 0.94x |\n| 0.89x   | 0.83x |",
+                    "isPerfectTable": true,
+                    "csv": "\"Options\",\"\"\n\"1.00x\",\"0.94x\"\n\"0.89x\",\"0.83x\""
+                },
+                {
+                    "type": "text",
+                    "value": "> 💡 **Note:**  \n> The screen magnification cannot be changed when **POWER MANAGEMENT > PERFORMANCE** is either **EVF FRAME RATE PRIORITY (120P)** or **EVF FRAME RATE PRIORITY (240P EQUIV.)** With these settings, the screen magnification is set to 0.77x.",
+                    "md": "> 💡 **Note:**  \n> The screen magnification cannot be changed when **POWER MANAGEMENT > PERFORMANCE** is either **EVF FRAME RATE PRIORITY (120P)** or **EVF FRAME RATE PRIORITY (240P EQUIV.)** With these settings, the screen magnification is set to 0.77x."
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "DISP. Custom Setting",
+                    "md": "## DISP. Custom Setting"
+                },
+                {
+                    "type": "text",
+                    "value": "Choose the items shown in the standard indicator display (📖 25).",
+                    "md": "Choose the items shown in the standard indicator display (📖 25)."
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 163.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "0b814d0e-445c-4fe7-8a22-9db0749f7b58",
+    "file_path": "../data/raw_data/gfx100ii/gfx100ii_split/gfx100ii_page377.pdf"
+}

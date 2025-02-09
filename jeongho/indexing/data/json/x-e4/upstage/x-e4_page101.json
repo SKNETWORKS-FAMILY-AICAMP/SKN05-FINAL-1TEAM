@@ -1,0 +1,210 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:20px'>Self-Portraits (Selfies)</header>\n\n<br><figure id='2'><img style='font-size:18px' alt=\"↑\" data-coord=\"top-left:(305,531); bottom-right:(2524,1273)\" /><br><figcaption id='1' style='font-size:14px'>To shoot a self-portrait, rotate the LCD monitor as shown.</figcaption></figure>\n<br><p id='3' data-category='paragraph' style='font-size:16px'>For effortless self-portraits, tilt the LCD monitor 180° SO that it<br>triggers the eye sensor and displays a mirror image (□ 8).</p>\n<footer id='4' style='font-size:14px'>5</footer>\n<br><footer id='5' style='font-size:22px'>Taking<br>Photographs</footer>\n<footer id='6' style='font-size:18px'>101</footer>",
+        "markdown": "Self-Portraits (Selfies)\n\nTo shoot a self-portrait, rotate the LCD monitor as shown.\n\n![image](/image/placeholder)\n↑\n\nFor effortless self-portraits, tilt the LCD monitor 180° SO that it\ntriggers the eye sensor and displays a mirror image (□ 8).\n\n5\n\nTaking\nPhotographs\n\n101",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:20px'>Self-Portraits (Selfies)</header>",
+                "markdown": "Self-Portraits (Selfies)",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1808,
+                    "y": 0.0729
+                },
+                {
+                    "x": 0.5487,
+                    "y": 0.0729
+                },
+                {
+                    "x": 0.5487,
+                    "y": 0.0994
+                },
+                {
+                    "x": 0.1808,
+                    "y": 0.0994
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='1' data-category='paragraph' style='font-size:14px'>To shoot a self-portrait, rotate the LCD monitor as shown.</p>",
+                "markdown": "To shoot a self-portrait, rotate the LCD monitor as shown.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1806,
+                    "y": 0.11
+                },
+                {
+                    "x": 0.904,
+                    "y": 0.11
+                },
+                {
+                    "x": 0.904,
+                    "y": 0.1321
+                },
+                {
+                    "x": 0.1806,
+                    "y": 0.1321
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "figure",
+            "content": {
+                "html": "<br><figure id='2'><img style='font-size:18px' alt=\"↑\" data-coord=\"top-left:(305,531); bottom-right:(2524,1273)\" /></figure>",
+                "markdown": "![image](/image/placeholder)\n↑",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1106,
+                    "y": 0.1363
+                },
+                {
+                    "x": 0.9133,
+                    "y": 0.1363
+                },
+                {
+                    "x": 0.9133,
+                    "y": 0.3267
+                },
+                {
+                    "x": 0.1106,
+                    "y": 0.3267
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='3' data-category='paragraph' style='font-size:16px'>For effortless self-portraits, tilt the LCD monitor 180° SO that it<br>triggers the eye sensor and displays a mirror image (□ 8).</p>",
+                "markdown": "For effortless self-portraits, tilt the LCD monitor 180° SO that it\ntriggers the eye sensor and displays a mirror image (□ 8).",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1054,
+                    "y": 0.336
+                },
+                {
+                    "x": 0.9227,
+                    "y": 0.336
+                },
+                {
+                    "x": 0.9227,
+                    "y": 0.3894
+                },
+                {
+                    "x": 0.1054,
+                    "y": 0.3894
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='4' style='font-size:14px'>5</footer>",
+                "markdown": "5",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9569,
+                    "y": 0.4776
+                },
+                {
+                    "x": 0.9756,
+                    "y": 0.4776
+                },
+                {
+                    "x": 0.9756,
+                    "y": 0.4975
+                },
+                {
+                    "x": 0.9569,
+                    "y": 0.4975
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<br><footer id='5' style='font-size:22px'>Taking<br>Photographs</footer>",
+                "markdown": "Taking\nPhotographs",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9557,
+                    "y": 0.5171
+                },
+                {
+                    "x": 0.9817,
+                    "y": 0.5171
+                },
+                {
+                    "x": 0.9817,
+                    "y": 0.6653
+                },
+                {
+                    "x": 0.9557,
+                    "y": 0.6653
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='6' style='font-size:18px'>101</footer>",
+                "markdown": "101",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.8617,
+                    "y": 0.956
+                },
+                {
+                    "x": 0.9157,
+                    "y": 0.956
+                },
+                {
+                    "x": 0.9157,
+                    "y": 0.9795
+                },
+                {
+                    "x": 0.8617,
+                    "y": 0.9795
+                }
+            ],
+            "id": 6,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

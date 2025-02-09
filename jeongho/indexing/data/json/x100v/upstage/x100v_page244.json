@@ -1,0 +1,210 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:22px'>Shortcuts</header>\n<br><h1 id='1' style='font-size:20px'>Shortcut Options</h1>\n<br><p id='2' data-category='paragraph' style='font-size:18px'>Customize camera controls to suit your style or situation.</p>\n\n<table id='4' style='font-size:14px'><tr><td>Shortcut Option</td><td>Description</td><td></td></tr><tr><td>\"My menu\"</td><td>Add frequently-used options to this custom menu, which can be viewed by pressing MENU/OK and se- lecting the MY (\"MY MENU\") tab.</td><td>245</td></tr><tr><td>The Q menu</td><td>The Q menu is displayed by pressing the Q button. Use the Q menu to view or change the options se- lected for frequently-used menu items.</td><td>247</td></tr><tr><td>The function buttons</td><td>Use the function buttons for direct access to select- ed features.</td><td>250</td></tr><caption id='3' style='font-size:16px'>Frequently-used options can be added to the Q menu or a cus-<br>tom \"my\" menu or assigned to an Fn (function) button for direct<br>access:</caption></table>\n<p id='5' data-category='paragraph' style='font-size:14px'>9</p>\n<footer id='6' style='font-size:18px'>244</footer>",
+        "markdown": "Shortcuts\n\n# Shortcut Options\n\nCustomize camera controls to suit your style or situation.\n\nFrequently-used options can be added to the Q menu or a cus-\ntom \"my\" menu or assigned to an Fn (function) button for direct\naccess:\n\n| Shortcut Option | Description |  |\n| --- | --- | --- |\n| \"My menu\" | Add frequently-used options to this custom menu, which can be viewed by pressing MENU/OK and se- lecting the MY (\"MY MENU\") tab. | 245 |\n| The Q menu | The Q menu is displayed by pressing the Q button. Use the Q menu to view or change the options se- lected for frequently-used menu items. | 247 |\n| The function buttons | Use the function buttons for direct access to select- ed features. | 250 |\n\n\n9\n\n244",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:22px'>Shortcuts</header>",
+                "markdown": "Shortcuts",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0199,
+                    "y": 0.6237
+                },
+                {
+                    "x": 0.0406,
+                    "y": 0.6237
+                },
+                {
+                    "x": 0.0406,
+                    "y": 0.6984
+                },
+                {
+                    "x": 0.0199,
+                    "y": 0.6984
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='1' style='font-size:20px'>Shortcut Options</h1>",
+                "markdown": "# Shortcut Options",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1521,
+                    "y": 0.073
+                },
+                {
+                    "x": 0.4491,
+                    "y": 0.073
+                },
+                {
+                    "x": 0.4491,
+                    "y": 0.1006
+                },
+                {
+                    "x": 0.1521,
+                    "y": 0.1006
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='2' data-category='paragraph' style='font-size:18px'>Customize camera controls to suit your style or situation.</p>",
+                "markdown": "Customize camera controls to suit your style or situation.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1557,
+                    "y": 0.1105
+                },
+                {
+                    "x": 0.8707,
+                    "y": 0.1105
+                },
+                {
+                    "x": 0.8707,
+                    "y": 0.1324
+                },
+                {
+                    "x": 0.1557,
+                    "y": 0.1324
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='3' data-category='paragraph' style='font-size:16px'>Frequently-used options can be added to the Q menu or a cus-<br>tom \"my\" menu or assigned to an Fn (function) button for direct<br>access:</p>",
+                "markdown": "Frequently-used options can be added to the Q menu or a cus-\ntom \"my\" menu or assigned to an Fn (function) button for direct\naccess:",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0807,
+                    "y": 0.1469
+                },
+                {
+                    "x": 0.8931,
+                    "y": 0.1469
+                },
+                {
+                    "x": 0.8931,
+                    "y": 0.2216
+                },
+                {
+                    "x": 0.0807,
+                    "y": 0.2216
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='4' style='font-size:14px'><tr><td>Shortcut Option</td><td>Description</td><td></td></tr><tr><td>\"My menu\"</td><td>Add frequently-used options to this custom menu, which can be viewed by pressing MENU/OK and se- lecting the MY (\"MY MENU\") tab.</td><td>245</td></tr><tr><td>The Q menu</td><td>The Q menu is displayed by pressing the Q button. Use the Q menu to view or change the options se- lected for frequently-used menu items.</td><td>247</td></tr><tr><td>The function buttons</td><td>Use the function buttons for direct access to select- ed features.</td><td>250</td></tr></table>",
+                "markdown": "| Shortcut Option | Description |  |\n| --- | --- | --- |\n| \"My menu\" | Add frequently-used options to this custom menu, which can be viewed by pressing MENU/OK and se- lecting the MY (\"MY MENU\") tab. | 245 |\n| The Q menu | The Q menu is displayed by pressing the Q button. Use the Q menu to view or change the options se- lected for frequently-used menu items. | 247 |\n| The function buttons | Use the function buttons for direct access to select- ed features. | 250 |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0842,
+                    "y": 0.2351
+                },
+                {
+                    "x": 0.8926,
+                    "y": 0.2351
+                },
+                {
+                    "x": 0.8926,
+                    "y": 0.4486
+                },
+                {
+                    "x": 0.0842,
+                    "y": 0.4486
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='5' data-category='paragraph' style='font-size:14px'>9</p>",
+                "markdown": "9",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0278,
+                    "y": 0.7191
+                },
+                {
+                    "x": 0.0417,
+                    "y": 0.7191
+                },
+                {
+                    "x": 0.0417,
+                    "y": 0.7348
+                },
+                {
+                    "x": 0.0278,
+                    "y": 0.7348
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='6' style='font-size:18px'>244</footer>",
+                "markdown": "244",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0824,
+                    "y": 0.9567
+                },
+                {
+                    "x": 0.1402,
+                    "y": 0.9567
+                },
+                {
+                    "x": 0.1402,
+                    "y": 0.9788
+                },
+                {
+                    "x": 0.0824,
+                    "y": 0.9788
+                }
+            ],
+            "id": 6,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

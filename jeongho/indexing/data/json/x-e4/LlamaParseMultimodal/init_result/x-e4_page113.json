@@ -1,0 +1,77 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "# BKT Bracketing\n\n## AE BKT\nUse **SHOOTING SETTING > AE BKT SETTING** to choose the bracketing amount, bracketing order, and number of shots. The camera will take the specified number of shots in sequence: one using the metered value for exposure and the others over- or under-exposed by multiples of the selected bracketing amount.\n\n> 💡 **Note:**  \n> Regardless of the bracketing amount, exposure will not exceed the limits of the exposure metering system.\n\n## FILM SIMULATION BKT\nEach time the shutter is released, the camera takes one shot and processes it to create copies with different film simulation settings, chosen using **SHOOTING SETTING > FILM SIMULATION BKT**.\n\n## DYNAMIC RANGE BKT\nEach time the shutter button is pressed, the camera takes three shots with different dynamic ranges: 100% for the first, 200% for the second, and 400% for the third.\n\n> 💡 **Note:**  \n> While dynamic range bracketing is in effect, sensitivity will be restricted to a minimum of ISO 640; the sensitivity previously in effect is restored when bracketing ends.",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "BKT Bracketing",
+                    "md": "# BKT Bracketing"
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "AE BKT",
+                    "md": "## AE BKT"
+                },
+                {
+                    "type": "text",
+                    "value": "Use **SHOOTING SETTING > AE BKT SETTING** to choose the bracketing amount, bracketing order, and number of shots. The camera will take the specified number of shots in sequence: one using the metered value for exposure and the others over- or under-exposed by multiples of the selected bracketing amount.\n\n> 💡 **Note:**  \n> Regardless of the bracketing amount, exposure will not exceed the limits of the exposure metering system.",
+                    "md": "Use **SHOOTING SETTING > AE BKT SETTING** to choose the bracketing amount, bracketing order, and number of shots. The camera will take the specified number of shots in sequence: one using the metered value for exposure and the others over- or under-exposed by multiples of the selected bracketing amount.\n\n> 💡 **Note:**  \n> Regardless of the bracketing amount, exposure will not exceed the limits of the exposure metering system."
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "FILM SIMULATION BKT",
+                    "md": "## FILM SIMULATION BKT"
+                },
+                {
+                    "type": "text",
+                    "value": "Each time the shutter is released, the camera takes one shot and processes it to create copies with different film simulation settings, chosen using **SHOOTING SETTING > FILM SIMULATION BKT**.",
+                    "md": "Each time the shutter is released, the camera takes one shot and processes it to create copies with different film simulation settings, chosen using **SHOOTING SETTING > FILM SIMULATION BKT**."
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "DYNAMIC RANGE BKT",
+                    "md": "## DYNAMIC RANGE BKT"
+                },
+                {
+                    "type": "text",
+                    "value": "Each time the shutter button is pressed, the camera takes three shots with different dynamic ranges: 100% for the first, 200% for the second, and 400% for the third.\n\n> 💡 **Note:**  \n> While dynamic range bracketing is in effect, sensitivity will be restricted to a minimum of ISO 640; the sensitivity previously in effect is restored when bracketing ends.",
+                    "md": "Each time the shutter button is pressed, the camera takes three shots with different dynamic ranges: 100% for the first, 200% for the second, and 400% for the third.\n\n> 💡 **Note:**  \n> While dynamic range bracketing is in effect, sensitivity will be restricted to a minimum of ISO 640; the sensitivity previously in effect is restored when bracketing ends."
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "parsingMode": "multimodal-openai-gpt4o",
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 225.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "e2df29f7-3d10-42f5-921f-bd1fda96aefb",
+    "file_path": "../data/raw_data/x-e4/x-e4_split/x-e4_page113.pdf"
+}

@@ -1,0 +1,139 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "# Bit Rate\n\nChoose the movie bit rate.\n\n| Options  |          |\n|----------|----------|\n| 50Mbps   | 100Mbps  | \n| 200Mbps  | 360Mbps  |\n\n> 💡 **Note:**  \n> The options available for bit rate vary with the settings chosen for high-speed movie recording and compression. The actual bit rate may be slower than the selected value depending on the subject.\n\n## HDMI OUTPUT SETTING\n\nAdjust settings for use when the shooting display is output to an HDMI device.\n\n### HDMI OUTPUT INFO DISPLAY\n\nIf **ON** is selected, HDMI devices to which the camera is connected will mirror the information in the camera display.\n\n| Options |     |\n|---------|-----|\n| ON      | OFF |\n\n### HDMI REC CONTROL\n\nChoose whether the camera sends movie start and stop signals to the HDMI device when the shutter button is pressed to start and stop movie recording.\n\n| Options |     |\n|---------|-----|\n| ON      | OFF |",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "Bit Rate",
+                    "md": "# Bit Rate"
+                },
+                {
+                    "type": "text",
+                    "value": "Choose the movie bit rate.",
+                    "md": "Choose the movie bit rate."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Options",
+                            ""
+                        ],
+                        [
+                            "50Mbps",
+                            "100Mbps"
+                        ],
+                        [
+                            "200Mbps",
+                            "360Mbps"
+                        ]
+                    ],
+                    "md": "| Options  |          |\n|----------|----------|\n| 50Mbps   | 100Mbps  | \n| 200Mbps  | 360Mbps  |",
+                    "isPerfectTable": true,
+                    "csv": "\"Options\",\"\"\n\"50Mbps\",\"100Mbps\"\n\"200Mbps\",\"360Mbps\""
+                },
+                {
+                    "type": "text",
+                    "value": "> 💡 **Note:**  \n> The options available for bit rate vary with the settings chosen for high-speed movie recording and compression. The actual bit rate may be slower than the selected value depending on the subject.",
+                    "md": "> 💡 **Note:**  \n> The options available for bit rate vary with the settings chosen for high-speed movie recording and compression. The actual bit rate may be slower than the selected value depending on the subject."
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "HDMI OUTPUT SETTING",
+                    "md": "## HDMI OUTPUT SETTING"
+                },
+                {
+                    "type": "text",
+                    "value": "Adjust settings for use when the shooting display is output to an HDMI device.",
+                    "md": "Adjust settings for use when the shooting display is output to an HDMI device."
+                },
+                {
+                    "type": "heading",
+                    "lvl": 3,
+                    "value": "HDMI OUTPUT INFO DISPLAY",
+                    "md": "### HDMI OUTPUT INFO DISPLAY"
+                },
+                {
+                    "type": "text",
+                    "value": "If **ON** is selected, HDMI devices to which the camera is connected will mirror the information in the camera display.",
+                    "md": "If **ON** is selected, HDMI devices to which the camera is connected will mirror the information in the camera display."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Options",
+                            ""
+                        ],
+                        [
+                            "ON",
+                            "OFF"
+                        ]
+                    ],
+                    "md": "| Options |     |\n|---------|-----|\n| ON      | OFF |",
+                    "isPerfectTable": true,
+                    "csv": "\"Options\",\"\"\n\"ON\",\"OFF\""
+                },
+                {
+                    "type": "heading",
+                    "lvl": 3,
+                    "value": "HDMI REC CONTROL",
+                    "md": "### HDMI REC CONTROL"
+                },
+                {
+                    "type": "text",
+                    "value": "Choose whether the camera sends movie start and stop signals to the HDMI device when the shutter button is pressed to start and stop movie recording.",
+                    "md": "Choose whether the camera sends movie start and stop signals to the HDMI device when the shutter button is pressed to start and stop movie recording."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Options",
+                            ""
+                        ],
+                        [
+                            "ON",
+                            "OFF"
+                        ]
+                    ],
+                    "md": "| Options |     |\n|---------|-----|\n| ON      | OFF |",
+                    "isPerfectTable": true,
+                    "csv": "\"Options\",\"\"\n\"ON\",\"OFF\""
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "parsingMode": "multimodal-openai-gpt4o",
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 686.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "af5bbb2f-3136-4560-9801-685ae7fe489c",
+    "file_path": "../data/raw_data/x-t5/x-t5_split/x-t5_page218.pdf"
+}

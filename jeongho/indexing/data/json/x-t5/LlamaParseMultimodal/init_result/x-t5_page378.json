@@ -1,0 +1,72 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "\n# External Flash Units\n\n| Setting            | Description                                                                                                                                                                                                 |\n|--------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| **Commander**      | Choose the group for units functioning as a commander for Fujifilm optical wireless remote flash control in **TTL**, **TTL%**, or **M** mode. This option is available only with clip-on flash units that support Fujifilm optical wireless remote flash control. <ul><li>**Gr A**: Assign the commander to group A.</li><li>**Gr B**: Assign the commander to group B.</li><li>**Gr C**: Assign the commander to group C.</li><li>**OFF**: Output from the commander is held to a level that does not affect the final picture.</li></ul> |\n| **Number of flashes** | Choose the number of times the flash fires each time the shutter is released in **MULTI** mode.                                                                                                           |\n| **Channel**        | Choose the channel used by the commander for communication with the remote flash units. Separate channels can be used for different flash systems or to prevent interference when multiple systems are operating in close proximity. |\n| **Frequency**      | Choose the frequency at which the flash fires in **MULTI** mode.                                                                                                                                             |\n",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "External Flash Units",
+                    "md": "# External Flash Units"
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Setting",
+                            "Description"
+                        ],
+                        [
+                            "**Commander**",
+                            "Choose the group for units functioning as a commander for Fujifilm optical wireless remote flash control in **TTL**, **TTL%**, or **M** mode. This option is available only with clip-on flash units that support Fujifilm optical wireless remote flash control. <ul><li>**Gr A**: Assign the commander to group A.</li><li>**Gr B**: Assign the commander to group B.</li><li>**Gr C**: Assign the commander to group C.</li><li>**OFF**: Output from the commander is held to a level that does not affect the final picture.</li></ul>"
+                        ],
+                        [
+                            "**Number of flashes**",
+                            "Choose the number of times the flash fires each time the shutter is released in **MULTI** mode."
+                        ],
+                        [
+                            "**Channel**",
+                            "Choose the channel used by the commander for communication with the remote flash units. Separate channels can be used for different flash systems or to prevent interference when multiple systems are operating in close proximity."
+                        ],
+                        [
+                            "**Frequency**",
+                            "Choose the frequency at which the flash fires in **MULTI** mode."
+                        ]
+                    ],
+                    "md": "| Setting            | Description                                                                                                                                                                                                 |\n|--------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| **Commander**      | Choose the group for units functioning as a commander for Fujifilm optical wireless remote flash control in **TTL**, **TTL%**, or **M** mode. This option is available only with clip-on flash units that support Fujifilm optical wireless remote flash control. <ul><li>**Gr A**: Assign the commander to group A.</li><li>**Gr B**: Assign the commander to group B.</li><li>**Gr C**: Assign the commander to group C.</li><li>**OFF**: Output from the commander is held to a level that does not affect the final picture.</li></ul> |\n| **Number of flashes** | Choose the number of times the flash fires each time the shutter is released in **MULTI** mode.                                                                                                           |\n| **Channel**        | Choose the channel used by the commander for communication with the remote flash units. Separate channels can be used for different flash systems or to prevent interference when multiple systems are operating in close proximity. |\n| **Frequency**      | Choose the frequency at which the flash fires in **MULTI** mode.                                                                                                                                             |",
+                    "isPerfectTable": true,
+                    "csv": "\"Setting\",\"Description\"\n\"**Commander**\",\"Choose the group for units functioning as a commander for Fujifilm optical wireless remote flash control in **TTL**, **TTL%**, or **M** mode. This option is available only with clip-on flash units that support Fujifilm optical wireless remote flash control. <ul><li>**Gr A**: Assign the commander to group A.</li><li>**Gr B**: Assign the commander to group B.</li><li>**Gr C**: Assign the commander to group C.</li><li>**OFF**: Output from the commander is held to a level that does not affect the final picture.</li></ul>\"\n\"**Number of flashes**\",\"Choose the number of times the flash fires each time the shutter is released in **MULTI** mode.\"\n\"**Channel**\",\"Choose the channel used by the commander for communication with the remote flash units. Separate channels can be used for different flash systems or to prevent interference when multiple systems are operating in close proximity.\"\n\"**Frequency**\",\"Choose the frequency at which the flash fires in **MULTI** mode.\""
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "parsingMode": "multimodal-openai-gpt4o",
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 775.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "75336f12-eae5-4ef8-9c92-a4551425f23d",
+    "file_path": "../data/raw_data/x-t5/x-t5_split/x-t5_page378.pdf"
+}

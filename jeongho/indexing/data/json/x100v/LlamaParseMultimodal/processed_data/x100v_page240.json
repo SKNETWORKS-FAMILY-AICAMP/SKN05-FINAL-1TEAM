@@ -1,0 +1,13 @@
+{
+    "parsing_result": "# USB Power Supply Setting\n\nChoose whether power is supplied to the camera when it is connected to a computer or other device via a USB cable.\n\n| Option | Description |\n|--------|-------------|\n| ON     | The camera draws power from the connected device, reducing the drain on the camera battery. |\n| OFF    | The camera does not draw power from the connected device. |\n\n> ⚠️ **Note:**\n> - The camera cannot draw power from Lightning connections or from devices that do not supply power. Select **OFF** before connecting the camera to such devices. The connection may not be available for data transfer or the like when **ON** is selected.\n\n- The term “draw power” is used when the connected device supplies power to the camera.\n- Regardless of the option chosen, the battery will charge while the camera is off.",
+    "embedding_result": [],
+    "metadata": {
+        "page": 240,
+        "model": "x100v",
+        "subsection": [
+            "USB POWER SUPPLY SETTING"
+        ],
+        "chapter": "The Setup Menus",
+        "section": "CONNECTION SETTING"
+    }
+}

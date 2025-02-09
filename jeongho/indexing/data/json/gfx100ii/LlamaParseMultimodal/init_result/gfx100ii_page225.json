@@ -1,0 +1,121 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "# IMAGE QUALITY SETTING (Movie Recording)\n\n## F-Log2 D RANGE PRIORITY\nChoose whether to make the dynamic range wider when shooting F-Log2 movies with **IMAGE FORMAT** set to GF or Premista, image size set to !DCI or !4K, and a frame rate of 30 fps or less. The rolling shutter effect may occur when this setting is enabled.\n\n| Options |   |\n|---------|---|\n| ON      |   |\n| OFF     |   |\n\n## PERIPHERAL LIGHT CORRECTION\nSelect **ON** to enable peripheral illumination correction during movie recording.\n\n| Options |   |\n|---------|---|\n| ON      |   |\n| OFF     |   |\n\n- If **ON** is selected when a lens that does not transmit data to the camera is attached, peripheral illumination will be adjusted according to the option selected for !Image Quality Setting > !Mount Adaptor Setting > **PERIPHERAL ILLUMINATION CORRECTION** in the shooting menu (📖 145).\n- Select **OFF** if you notice banding in movies recorded using this option.\n\n## MOUNT ADAPTOR SETTING\nThis item is also found in the photo menus (📖 143). Changes to one apply to the other.",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "IMAGE QUALITY SETTING (Movie Recording)",
+                    "md": "# IMAGE QUALITY SETTING (Movie Recording)"
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "F-Log2 D RANGE PRIORITY",
+                    "md": "## F-Log2 D RANGE PRIORITY"
+                },
+                {
+                    "type": "text",
+                    "value": "Choose whether to make the dynamic range wider when shooting F-Log2 movies with **IMAGE FORMAT** set to GF or Premista, image size set to !DCI or !4K, and a frame rate of 30 fps or less. The rolling shutter effect may occur when this setting is enabled.",
+                    "md": "Choose whether to make the dynamic range wider when shooting F-Log2 movies with **IMAGE FORMAT** set to GF or Premista, image size set to !DCI or !4K, and a frame rate of 30 fps or less. The rolling shutter effect may occur when this setting is enabled."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Options",
+                            ""
+                        ],
+                        [
+                            "ON",
+                            ""
+                        ],
+                        [
+                            "OFF",
+                            ""
+                        ]
+                    ],
+                    "md": "| Options |   |\n|---------|---|\n| ON      |   |\n| OFF     |   |",
+                    "isPerfectTable": true,
+                    "csv": "\"Options\",\"\"\n\"ON\",\"\"\n\"OFF\",\"\""
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "PERIPHERAL LIGHT CORRECTION",
+                    "md": "## PERIPHERAL LIGHT CORRECTION"
+                },
+                {
+                    "type": "text",
+                    "value": "Select **ON** to enable peripheral illumination correction during movie recording.",
+                    "md": "Select **ON** to enable peripheral illumination correction during movie recording."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Options",
+                            ""
+                        ],
+                        [
+                            "ON",
+                            ""
+                        ],
+                        [
+                            "OFF",
+                            ""
+                        ]
+                    ],
+                    "md": "| Options |   |\n|---------|---|\n| ON      |   |\n| OFF     |   |",
+                    "isPerfectTable": true,
+                    "csv": "\"Options\",\"\"\n\"ON\",\"\"\n\"OFF\",\"\""
+                },
+                {
+                    "type": "text",
+                    "value": "- If **ON** is selected when a lens that does not transmit data to the camera is attached, peripheral illumination will be adjusted according to the option selected for !Image Quality Setting > !Mount Adaptor Setting > **PERIPHERAL ILLUMINATION CORRECTION** in the shooting menu (📖 145).\n- Select **OFF** if you notice banding in movies recorded using this option.",
+                    "md": "- If **ON** is selected when a lens that does not transmit data to the camera is attached, peripheral illumination will be adjusted according to the option selected for !Image Quality Setting > !Mount Adaptor Setting > **PERIPHERAL ILLUMINATION CORRECTION** in the shooting menu (📖 145).\n- Select **OFF** if you notice banding in movies recorded using this option."
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "MOUNT ADAPTOR SETTING",
+                    "md": "## MOUNT ADAPTOR SETTING"
+                },
+                {
+                    "type": "text",
+                    "value": "This item is also found in the photo menus (📖 143). Changes to one apply to the other.",
+                    "md": "This item is also found in the photo menus (📖 143). Changes to one apply to the other."
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 474.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "307114a6-af8f-40f9-808e-bf40fdae8e4e",
+    "file_path": "../data/raw_data/gfx100ii/gfx100ii_split/gfx100ii_page225.pdf"
+}

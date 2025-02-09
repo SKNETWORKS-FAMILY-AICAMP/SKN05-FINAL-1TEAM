@@ -1,0 +1,266 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:14px'>IMAGE QUALITY SETTING (Still Photography)</header>\n<h1 id='1' style='font-size:16px'>COLOR CHROME FX BLUE</h1>\n<br><h1 id='2' style='font-size:20px'>Increase the range of tones available for rendering blues.</h1>\n<table id='3' style='font-size:14px'><tr><td>Option</td><td>Description</td></tr><tr><td>STRONG</td><td>Choose for a strong effect.</td></tr><tr><td>WEAK</td><td>Choose for a weak effect.</td></tr><tr><td>OFF</td><td>Turn the effect off.</td></tr></table>\n<h1 id='4' style='font-size:18px'>WHITE BALANCE</h1>\n\n<table id='6' style='font-size:16px'><tr><td>Option</td><td>Description</td></tr><tr><td>WB AUTO WHITE W PRIORITY</td><td>White balance is adjusted automatically. Choose for whiter whites in scenes lit by incandescent bulbs.</td></tr><tr><td>AUTO</td><td>White balance is adjusted automatically.</td></tr><tr><td>WB AUTO AMBIENCE PRIORITY</td><td>White balance is adjusted automatically. Choose for warmer whites in scenes lit by incandescent bulbs.</td></tr><tr><td>01 CUSTOM 1</td><td rowspan=\"3\">Measure a value for white balance.</td></tr><tr><td>O2 CUSTOM 2</td></tr><tr><td>□3 CUSTOM 3</td></tr><tr><td>K COLOR TEMPERATURE</td><td>Choose a color temperature.</td></tr><tr><td>DAYLIGHT</td><td>For subjects in direct sunlight.</td></tr><tr><td>SHADE</td><td>For subjects in the shade.</td></tr><tr><td>※ FLUORESCENT LIGHT-1</td><td>Use under\"daylight\" fluorescent lights.</td></tr><tr><td>※ FLUORESCENT LIGHT-2</td><td>Use under\"warm white\" fluorescent lights.</td></tr><tr><td>※ FLUORESCENT LIGHT-3</td><td>Use under\"cool white\"fluorescent lights.</td></tr><tr><td>INCANDESCENT</td><td>Use under incandescent lighting.</td></tr><tr><td>UNDERWATER</td><td>Reduces the blue cast typically associated with underwater lighting.</td></tr><br><caption id='5' style='font-size:20px'>For natural colors, choose a white balance option that matches<br>the light source.</caption></table>\n<br><footer id='7' style='font-size:22px'>6<br>The<br>Shooting<br>Menus</footer>\n<footer id='8' style='font-size:20px'>109</footer>",
+        "markdown": "IMAGE QUALITY SETTING (Still Photography)\n\n# COLOR CHROME FX BLUE\n\n# Increase the range of tones available for rendering blues.\n\n| Option | Description |\n| --- | --- |\n| STRONG | Choose for a strong effect. |\n| WEAK | Choose for a weak effect. |\n| OFF | Turn the effect off. |\n\n\n# WHITE BALANCE\n\nFor natural colors, choose a white balance option that matches\nthe light source.\n\n| Option | Description |\n| --- | --- |\n| WB AUTO WHITE W PRIORITY | White balance is adjusted automatically. Choose for whiter whites in scenes lit by incandescent bulbs. |\n| AUTO | White balance is adjusted automatically. |\n| WB AUTO AMBIENCE PRIORITY | White balance is adjusted automatically. Choose for warmer whites in scenes lit by incandescent bulbs. |\n| 01 CUSTOM 1 | Measure a value for white balance. |\n| O2 CUSTOM 2 | Measure a value for white balance. |\n| □3 CUSTOM 3 | Measure a value for white balance. |\n| K COLOR TEMPERATURE | Choose a color temperature. |\n| DAYLIGHT | For subjects in direct sunlight. |\n| SHADE | For subjects in the shade. |\n| ※ FLUORESCENT LIGHT-1 | Use under\"daylight\" fluorescent lights. |\n| ※ FLUORESCENT LIGHT-2 | Use under\"warm white\" fluorescent lights. |\n| ※ FLUORESCENT LIGHT-3 | Use under\"cool white\"fluorescent lights. |\n| INCANDESCENT | Use under incandescent lighting. |\n| UNDERWATER | Reduces the blue cast typically associated with underwater lighting. |\n\n\n6\nThe\nShooting\nMenus\n\n109",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:14px'>IMAGE QUALITY SETTING (Still Photography)</header>",
+                "markdown": "IMAGE QUALITY SETTING (Still Photography)",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.4864,
+                    "y": 0.0277
+                },
+                {
+                    "x": 0.9178,
+                    "y": 0.0277
+                },
+                {
+                    "x": 0.9178,
+                    "y": 0.0513
+                },
+                {
+                    "x": 0.4864,
+                    "y": 0.0513
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='1' style='font-size:16px'>COLOR CHROME FX BLUE</h1>",
+                "markdown": "# COLOR CHROME FX BLUE",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.106,
+                    "y": 0.0727
+                },
+                {
+                    "x": 0.4517,
+                    "y": 0.0727
+                },
+                {
+                    "x": 0.4517,
+                    "y": 0.0944
+                },
+                {
+                    "x": 0.106,
+                    "y": 0.0944
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='2' style='font-size:20px'>Increase the range of tones available for rendering blues.</h1>",
+                "markdown": "# Increase the range of tones available for rendering blues.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1054,
+                    "y": 0.1044
+                },
+                {
+                    "x": 0.8242,
+                    "y": 0.1044
+                },
+                {
+                    "x": 0.8242,
+                    "y": 0.1294
+                },
+                {
+                    "x": 0.1054,
+                    "y": 0.1294
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='3' style='font-size:14px'><tr><td>Option</td><td>Description</td></tr><tr><td>STRONG</td><td>Choose for a strong effect.</td></tr><tr><td>WEAK</td><td>Choose for a weak effect.</td></tr><tr><td>OFF</td><td>Turn the effect off.</td></tr></table>",
+                "markdown": "| Option | Description |\n| --- | --- |\n| STRONG | Choose for a strong effect. |\n| WEAK | Choose for a weak effect. |\n| OFF | Turn the effect off. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1089,
+                    "y": 0.1417
+                },
+                {
+                    "x": 0.917,
+                    "y": 0.1417
+                },
+                {
+                    "x": 0.917,
+                    "y": 0.2382
+                },
+                {
+                    "x": 0.1089,
+                    "y": 0.2382
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='4' style='font-size:18px'>WHITE BALANCE</h1>",
+                "markdown": "# WHITE BALANCE",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1055,
+                    "y": 0.2561
+                },
+                {
+                    "x": 0.3388,
+                    "y": 0.2561
+                },
+                {
+                    "x": 0.3388,
+                    "y": 0.2787
+                },
+                {
+                    "x": 0.1055,
+                    "y": 0.2787
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='5' data-category='paragraph' style='font-size:20px'>For natural colors, choose a white balance option that matches<br>the light source.</p>",
+                "markdown": "For natural colors, choose a white balance option that matches\nthe light source.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1057,
+                    "y": 0.2878
+                },
+                {
+                    "x": 0.9181,
+                    "y": 0.2878
+                },
+                {
+                    "x": 0.9181,
+                    "y": 0.3374
+                },
+                {
+                    "x": 0.1057,
+                    "y": 0.3374
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='6' style='font-size:16px'><tr><td>Option</td><td>Description</td></tr><tr><td>WB AUTO WHITE W PRIORITY</td><td>White balance is adjusted automatically. Choose for whiter whites in scenes lit by incandescent bulbs.</td></tr><tr><td>AUTO</td><td>White balance is adjusted automatically.</td></tr><tr><td>WB AUTO AMBIENCE PRIORITY</td><td>White balance is adjusted automatically. Choose for warmer whites in scenes lit by incandescent bulbs.</td></tr><tr><td>01 CUSTOM 1</td><td rowspan=\"3\">Measure a value for white balance.</td></tr><tr><td>O2 CUSTOM 2</td></tr><tr><td>□3 CUSTOM 3</td></tr><tr><td>K COLOR TEMPERATURE</td><td>Choose a color temperature.</td></tr><tr><td>DAYLIGHT</td><td>For subjects in direct sunlight.</td></tr><tr><td>SHADE</td><td>For subjects in the shade.</td></tr><tr><td>※ FLUORESCENT LIGHT-1</td><td>Use under\"daylight\" fluorescent lights.</td></tr><tr><td>※ FLUORESCENT LIGHT-2</td><td>Use under\"warm white\" fluorescent lights.</td></tr><tr><td>※ FLUORESCENT LIGHT-3</td><td>Use under\"cool white\"fluorescent lights.</td></tr><tr><td>INCANDESCENT</td><td>Use under incandescent lighting.</td></tr><tr><td>UNDERWATER</td><td>Reduces the blue cast typically associated with underwater lighting.</td></tr></table>",
+                "markdown": "| Option | Description |\n| --- | --- |\n| WB AUTO WHITE W PRIORITY | White balance is adjusted automatically. Choose for whiter whites in scenes lit by incandescent bulbs. |\n| AUTO | White balance is adjusted automatically. |\n| WB AUTO AMBIENCE PRIORITY | White balance is adjusted automatically. Choose for warmer whites in scenes lit by incandescent bulbs. |\n| 01 CUSTOM 1 | Measure a value for white balance. |\n| O2 CUSTOM 2 | Measure a value for white balance. |\n| □3 CUSTOM 3 | Measure a value for white balance. |\n| K COLOR TEMPERATURE | Choose a color temperature. |\n| DAYLIGHT | For subjects in direct sunlight. |\n| SHADE | For subjects in the shade. |\n| ※ FLUORESCENT LIGHT-1 | Use under\"daylight\" fluorescent lights. |\n| ※ FLUORESCENT LIGHT-2 | Use under\"warm white\" fluorescent lights. |\n| ※ FLUORESCENT LIGHT-3 | Use under\"cool white\"fluorescent lights. |\n| INCANDESCENT | Use under incandescent lighting. |\n| UNDERWATER | Reduces the blue cast typically associated with underwater lighting. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1089,
+                    "y": 0.3461
+                },
+                {
+                    "x": 0.9174,
+                    "y": 0.3461
+                },
+                {
+                    "x": 0.9174,
+                    "y": 0.8703
+                },
+                {
+                    "x": 0.1089,
+                    "y": 0.8703
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<br><footer id='7' style='font-size:22px'>6<br>The<br>Shooting<br>Menus</footer>",
+                "markdown": "6\nThe\nShooting\nMenus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9562,
+                    "y": 0.5421
+                },
+                {
+                    "x": 0.984,
+                    "y": 0.5421
+                },
+                {
+                    "x": 0.984,
+                    "y": 0.7312
+                },
+                {
+                    "x": 0.9562,
+                    "y": 0.7312
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='8' style='font-size:20px'>109</footer>",
+                "markdown": "109",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.8625,
+                    "y": 0.9568
+                },
+                {
+                    "x": 0.9175,
+                    "y": 0.9568
+                },
+                {
+                    "x": 0.9175,
+                    "y": 0.9791
+                },
+                {
+                    "x": 0.8625,
+                    "y": 0.9791
+                }
+            ],
+            "id": 8,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

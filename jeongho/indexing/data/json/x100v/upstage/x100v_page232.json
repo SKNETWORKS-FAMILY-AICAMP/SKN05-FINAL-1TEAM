@@ -1,0 +1,322 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:14px'>POWER MANAGEMENT</header>\n<h1 id='1' style='font-size:16px'>EVF PERFORMANCE</h1>\n<br><h1 id='2' style='font-size:18px'>Choose whether the EVF prioritizes BRIGHTNESS PRIORITY or<br>SMOOTHNESS PRIORITY.</h1>\n<table id='3' style='font-size:18px'><tr><td>Option</td><td>Description</td></tr><tr><td>BRIGHTNESS PRIORITY</td><td>The EVF display prioritizes brightness. Recommended in most situations.</td></tr><tr><td>SMOOTHNESS PRIORITY</td><td>Minimize ghosting in the EVF display. Choose when photo- graphing moving subjects. The brightness of the EVF may drop.</td></tr></table>\n<p id='4' data-category='paragraph' style='font-size:16px'>SMOOTHNESS PRIORITY is only available when BOOST is select-<br>ed for PERFORMANCE.</p>\n\n<br><p id='6' data-category='paragraph' style='font-size:20px'>If its temperature rises beyond a certain point, the camera will first<br>display a message and then, if the temperature rise continues, auto-<br>matically end shooting and power down. Choose the temperature<br>at which the camera turns off automatically.</p>\n<table id='7' style='font-size:16px'><tr><td>Option</td><td>Description</td></tr><tr><td>STANDARD</td><td>The camera turns off automatically when its temperature reach- es the STANDARD value.</td></tr><tr><td>HIGH</td><td>Shooting can continue at temperatures higher than the STANDARD value, extending the time available to record movies and the like. Because remaining in contact with the camera at these high temperatures could result in low-tem- perature burns, this option should only be used after mounting the camera on a tripod or taking other steps to avoid prolonged contact with the camera.</td></tr><caption id='5' style='font-size:18px'>AUTO POWER OFF TEMP.</caption></table>\n<br><header id='8' style='font-size:22px'>The<br>Setup<br>Menus</header>\n<br><header id='9' style='font-size:14px'>8</header>\n<footer id='10' style='font-size:20px'>232</footer>",
+        "markdown": "POWER MANAGEMENT\n\n# EVF PERFORMANCE\n\n# Choose whether the EVF prioritizes BRIGHTNESS PRIORITY or\nSMOOTHNESS PRIORITY.\n\n| Option | Description |\n| --- | --- |\n| BRIGHTNESS PRIORITY | The EVF display prioritizes brightness. Recommended in most situations. |\n| SMOOTHNESS PRIORITY | Minimize ghosting in the EVF display. Choose when photo- graphing moving subjects. The brightness of the EVF may drop. |\n\n\nSMOOTHNESS PRIORITY is only available when BOOST is select-\ned for PERFORMANCE.\n\nAUTO POWER OFF TEMP.\n\nIf its temperature rises beyond a certain point, the camera will first\ndisplay a message and then, if the temperature rise continues, auto-\nmatically end shooting and power down. Choose the temperature\nat which the camera turns off automatically.\n\n| Option | Description |\n| --- | --- |\n| STANDARD | The camera turns off automatically when its temperature reach- es the STANDARD value. |\n| HIGH | Shooting can continue at temperatures higher than the STANDARD value, extending the time available to record movies and the like. Because remaining in contact with the camera at these high temperatures could result in low-tem- perature burns, this option should only be used after mounting the camera on a tripod or taking other steps to avoid prolonged contact with the camera. |\n\n\nThe\nSetup\nMenus\n\n8\n\n232",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:14px'>POWER MANAGEMENT</header>",
+                "markdown": "POWER MANAGEMENT",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6616,
+                    "y": 0.028
+                },
+                {
+                    "x": 0.8921,
+                    "y": 0.028
+                },
+                {
+                    "x": 0.8921,
+                    "y": 0.0492
+                },
+                {
+                    "x": 0.6616,
+                    "y": 0.0492
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='1' style='font-size:16px'>EVF PERFORMANCE</h1>",
+                "markdown": "# EVF PERFORMANCE",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0834,
+                    "y": 0.073
+                },
+                {
+                    "x": 0.3538,
+                    "y": 0.073
+                },
+                {
+                    "x": 0.3538,
+                    "y": 0.0943
+                },
+                {
+                    "x": 0.0834,
+                    "y": 0.0943
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='2' style='font-size:18px'>Choose whether the EVF prioritizes BRIGHTNESS PRIORITY or<br>SMOOTHNESS PRIORITY.</h1>",
+                "markdown": "# Choose whether the EVF prioritizes BRIGHTNESS PRIORITY or\nSMOOTHNESS PRIORITY.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.08,
+                    "y": 0.1043
+                },
+                {
+                    "x": 0.8902,
+                    "y": 0.1043
+                },
+                {
+                    "x": 0.8902,
+                    "y": 0.153
+                },
+                {
+                    "x": 0.08,
+                    "y": 0.153
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='3' style='font-size:18px'><tr><td>Option</td><td>Description</td></tr><tr><td>BRIGHTNESS PRIORITY</td><td>The EVF display prioritizes brightness. Recommended in most situations.</td></tr><tr><td>SMOOTHNESS PRIORITY</td><td>Minimize ghosting in the EVF display. Choose when photo- graphing moving subjects. The brightness of the EVF may drop.</td></tr></table>",
+                "markdown": "| Option | Description |\n| --- | --- |\n| BRIGHTNESS PRIORITY | The EVF display prioritizes brightness. Recommended in most situations. |\n| SMOOTHNESS PRIORITY | Minimize ghosting in the EVF display. Choose when photo- graphing moving subjects. The brightness of the EVF may drop. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0849,
+                    "y": 0.1665
+                },
+                {
+                    "x": 0.8902,
+                    "y": 0.1665
+                },
+                {
+                    "x": 0.8902,
+                    "y": 0.2888
+                },
+                {
+                    "x": 0.0849,
+                    "y": 0.2888
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='4' data-category='paragraph' style='font-size:16px'>SMOOTHNESS PRIORITY is only available when BOOST is select-<br>ed for PERFORMANCE.</p>",
+                "markdown": "SMOOTHNESS PRIORITY is only available when BOOST is select-\ned for PERFORMANCE.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.085,
+                    "y": 0.3053
+                },
+                {
+                    "x": 0.8892,
+                    "y": 0.3053
+                },
+                {
+                    "x": 0.8892,
+                    "y": 0.3504
+                },
+                {
+                    "x": 0.085,
+                    "y": 0.3504
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='5' data-category='paragraph' style='font-size:18px'>AUTO POWER OFF TEMP.</p>",
+                "markdown": "AUTO POWER OFF TEMP.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0815,
+                    "y": 0.3713
+                },
+                {
+                    "x": 0.4174,
+                    "y": 0.3713
+                },
+                {
+                    "x": 0.4174,
+                    "y": 0.3943
+                },
+                {
+                    "x": 0.0815,
+                    "y": 0.3943
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='6' data-category='paragraph' style='font-size:20px'>If its temperature rises beyond a certain point, the camera will first<br>display a message and then, if the temperature rise continues, auto-<br>matically end shooting and power down. Choose the temperature<br>at which the camera turns off automatically.</p>",
+                "markdown": "If its temperature rises beyond a certain point, the camera will first\ndisplay a message and then, if the temperature rise continues, auto-\nmatically end shooting and power down. Choose the temperature\nat which the camera turns off automatically.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0793,
+                    "y": 0.4027
+                },
+                {
+                    "x": 0.8939,
+                    "y": 0.4027
+                },
+                {
+                    "x": 0.8939,
+                    "y": 0.5046
+                },
+                {
+                    "x": 0.0793,
+                    "y": 0.5046
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='7' style='font-size:16px'><tr><td>Option</td><td>Description</td></tr><tr><td>STANDARD</td><td>The camera turns off automatically when its temperature reach- es the STANDARD value.</td></tr><tr><td>HIGH</td><td>Shooting can continue at temperatures higher than the STANDARD value, extending the time available to record movies and the like. Because remaining in contact with the camera at these high temperatures could result in low-tem- perature burns, this option should only be used after mounting the camera on a tripod or taking other steps to avoid prolonged contact with the camera.</td></tr></table>",
+                "markdown": "| Option | Description |\n| --- | --- |\n| STANDARD | The camera turns off automatically when its temperature reach- es the STANDARD value. |\n| HIGH | Shooting can continue at temperatures higher than the STANDARD value, extending the time available to record movies and the like. Because remaining in contact with the camera at these high temperatures could result in low-tem- perature burns, this option should only be used after mounting the camera on a tripod or taking other steps to avoid prolonged contact with the camera. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0889,
+                    "y": 0.5169
+                },
+                {
+                    "x": 0.8914,
+                    "y": 0.5169
+                },
+                {
+                    "x": 0.8914,
+                    "y": 0.7526
+                },
+                {
+                    "x": 0.0889,
+                    "y": 0.7526
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "header",
+            "content": {
+                "html": "<br><header id='8' style='font-size:22px'>The<br>Setup<br>Menus</header>",
+                "markdown": "The\nSetup\nMenus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0177,
+                    "y": 0.5073
+                },
+                {
+                    "x": 0.0425,
+                    "y": 0.5073
+                },
+                {
+                    "x": 0.0425,
+                    "y": 0.6644
+                },
+                {
+                    "x": 0.0177,
+                    "y": 0.6644
+                }
+            ],
+            "id": 8,
+            "page": 1
+        },
+        {
+            "category": "header",
+            "content": {
+                "html": "<br><header id='9' style='font-size:14px'>8</header>",
+                "markdown": "8",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0259,
+                    "y": 0.6568
+                },
+                {
+                    "x": 0.0441,
+                    "y": 0.6568
+                },
+                {
+                    "x": 0.0441,
+                    "y": 0.6779
+                },
+                {
+                    "x": 0.0259,
+                    "y": 0.6779
+                }
+            ],
+            "id": 9,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='10' style='font-size:20px'>232</footer>",
+                "markdown": "232",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0832,
+                    "y": 0.9563
+                },
+                {
+                    "x": 0.1392,
+                    "y": 0.9563
+                },
+                {
+                    "x": 0.1392,
+                    "y": 0.9795
+                },
+                {
+                    "x": 0.0832,
+                    "y": 0.9795
+                }
+            ],
+            "id": 10,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "parsing_result": "\n# Specifications\n\n## System\n\n- **Model:** FUJIFILM GFX100 II\n- **Product Number:** FF230001\n- **Effective pixels:** Approx. 102 million\n- **Image sensor:** 43.8 mm × 32.9 mm Bayer array with primary color filter\n- **Storage media:** Fujifilm-recommended SD/SDHC/SDXC and CFexpress Type B memory cards\n\n## Memory card slots\n\n- **SD memory card slot (UHS-II compliant):** ×1\n- **CFexpress memory card slot (Type B):** ×1\n\n## File system\n\n- **Still pictures:** Compliant with DCF 2.0\n  - **Compressed:** Exif 2.32 JPEG-baseline compliant; DPOF compliant; HEIF compliant (4:2:2, 10-bit)\n  - **Uncompressed or compressed using a reversible or non-reversible algorithm:** RAW (original RAF format; special-purpose software required); RAW+JPEG available; TIFF (RGB)\n- **Movies:** Compliant with HEVC/H.265, H.264, and ProRes\n- **Audio (including voice memos):**\n  - LPCM (two channels: 24-bit, 48 kHz sampling)\n  - AAC (MP4 recordings only)\n- **Audio (via XLR microphone adapter):**\n  - LPCM (two channels: 24-bit, 48 kHz sampling; four channels: 24-bit, 48 kHz sampling)\n  - AAC (MP4 recordings only; two channels: 16-bit, 48 kHz sampling)\n",
+    "embedding_result": [],
+    "metadata": {
+        "page": 461,
+        "model": "gfx100ii"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "parsing_result": "# Image Quality Setting (Still Photography)\n\n## Tone Curve\n\nWith reference to a tone curve, adjust the appearance of highlights or shadows, making them harsher or softer. Choose higher values to make shadows and highlights harsher, lower values to make them softer.\n\n!Tone Curve Settings\n\n| Option     | Description |\n|------------|-------------|\n| HIGHLIGHTS | -2 to +4    |\n| SHADOWS    | -2 to +4    |\n\n## Color\n\nAdjust color density.\n\n**Options:** -4, -3, -2, -1, 0, +1, +2, +3, +4\n\n## Sharpness\n\nSharpen or soften outlines.\n\n**Options:** -4, -3, -2, -1, 0, +1, +2, +3, +4",
+    "metadata": {
+        "page": 131,
+        "model": "x-t5",
+        "chapter": "The Shooting Menus",
+        "section": "IMAGE QUALITY SETTING (Still Photography)",
+        "subsection": [
+            "TONE CURVE",
+            "COLOR",
+            "SHARPNESS"
+        ],
+        "embedding_model": "text-embedding-3-small",
+        "token": 170
+    }
+}

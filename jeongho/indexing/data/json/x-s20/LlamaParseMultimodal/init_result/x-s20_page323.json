@@ -1,0 +1,72 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "# ISO Button Setting\n\nChoose the role performed by the ISO button during playback.\n\n| Option                           | Description                                                                                                                                                                                                 |\n|----------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| 📱 SMARTPHONE TRANSFER ORDER     | Pressing the button marks the current picture for transfer. If the camera is not currently paired with a smartphone, Bluetooth/SMARTPHONE SETTING options will be displayed.                                |\n| 🎵 SELECT & SMARTPHONE TRANSFER ORDER | Pressing the button displays a dialog where pictures can be selected for upload to a smartphone with which the camera is paired (📖 237). If the camera is not currently paired with a smartphone, Bluetooth/SMARTPHONE SETTING options will be displayed instead (📖 262). |\n| 📶 WIRELESS COMMUNICATION        | The button can be used for wireless connections.                                                                                                                                                            |",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "ISO Button Setting",
+                    "md": "# ISO Button Setting"
+                },
+                {
+                    "type": "text",
+                    "value": "Choose the role performed by the ISO button during playback.",
+                    "md": "Choose the role performed by the ISO button during playback."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Option",
+                            "Description"
+                        ],
+                        [
+                            "📱 SMARTPHONE TRANSFER ORDER",
+                            "Pressing the button marks the current picture for transfer. If the camera is not currently paired with a smartphone, Bluetooth/SMARTPHONE SETTING options will be displayed."
+                        ],
+                        [
+                            "🎵 SELECT & SMARTPHONE TRANSFER ORDER",
+                            "Pressing the button displays a dialog where pictures can be selected for upload to a smartphone with which the camera is paired (📖 237). If the camera is not currently paired with a smartphone, Bluetooth/SMARTPHONE SETTING options will be displayed instead (📖 262)."
+                        ],
+                        [
+                            "📶 WIRELESS COMMUNICATION",
+                            "The button can be used for wireless connections."
+                        ]
+                    ],
+                    "md": "| Option                           | Description                                                                                                                                                                                                 |\n|----------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| 📱 SMARTPHONE TRANSFER ORDER     | Pressing the button marks the current picture for transfer. If the camera is not currently paired with a smartphone, Bluetooth/SMARTPHONE SETTING options will be displayed.                                |\n| 🎵 SELECT & SMARTPHONE TRANSFER ORDER | Pressing the button displays a dialog where pictures can be selected for upload to a smartphone with which the camera is paired (📖 237). If the camera is not currently paired with a smartphone, Bluetooth/SMARTPHONE SETTING options will be displayed instead (📖 262). |\n| 📶 WIRELESS COMMUNICATION        | The button can be used for wireless connections.                                                                                                                                                            |",
+                    "isPerfectTable": true,
+                    "csv": "\"Option\",\"Description\"\n\"📱 SMARTPHONE TRANSFER ORDER\",\"Pressing the button marks the current picture for transfer. If the camera is not currently paired with a smartphone, Bluetooth/SMARTPHONE SETTING options will be displayed.\"\n\"🎵 SELECT & SMARTPHONE TRANSFER ORDER\",\"Pressing the button displays a dialog where pictures can be selected for upload to a smartphone with which the camera is paired (📖 237). If the camera is not currently paired with a smartphone, Bluetooth/SMARTPHONE SETTING options will be displayed instead (📖 262).\"\n\"📶 WIRELESS COMMUNICATION\",\"The button can be used for wireless connections.\""
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 8.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "2acc642a-6996-4e4e-b269-f87a131445fd",
+    "file_path": "../data/raw_data/x-s20/x-s20_split/x-s20_page323.pdf"
+}

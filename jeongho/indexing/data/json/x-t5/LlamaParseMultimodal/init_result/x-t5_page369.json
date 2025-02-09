@@ -1,0 +1,60 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "# EF-X8\n\nThe following settings are available when an optional EF-X8 shoe-mounted flash unit is attached.\n\n!EF-X8 Flash Settings\n\n## Setting Descriptions\n\n1. **Flash Control Mode**\n   - **TTL**: TTL mode. Adjust flash compensation (②) and choose a flash mode (③).\n   - **M**: The flash fires at the selected output (②) regardless of subject brightness or camera settings. Output is expressed in fractions of full power, from 1/1 to 1/64. The desired results may not be achieved at low values if they exceed the limits of the flash control system; take a test shot and check the results.\n   - **COMMANDER**: Choose if the flash is being used to control remote synced flash units, for example as part of a studio flash system.\n   - **OFF**: The EF-X8 does not fire. Flash units connected via the sync terminal will still fire when the shutter is released, but can be disabled by lowering the EF-X8 and turning the units off in the flash settings menu.\n\n2. **Flash Compensation/Output**\n   - Adjust flash level. The options available vary with the flash control mode (①).",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "EF-X8",
+                    "md": "# EF-X8"
+                },
+                {
+                    "type": "text",
+                    "value": "The following settings are available when an optional EF-X8 shoe-mounted flash unit is attached.\n\n!EF-X8 Flash Settings",
+                    "md": "The following settings are available when an optional EF-X8 shoe-mounted flash unit is attached.\n\n!EF-X8 Flash Settings"
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "Setting Descriptions",
+                    "md": "## Setting Descriptions"
+                },
+                {
+                    "type": "text",
+                    "value": "1. **Flash Control Mode**\n   - **TTL**: TTL mode. Adjust flash compensation (②) and choose a flash mode (③).\n   - **M**: The flash fires at the selected output (②) regardless of subject brightness or camera settings. Output is expressed in fractions of full power, from 1/1 to 1/64. The desired results may not be achieved at low values if they exceed the limits of the flash control system; take a test shot and check the results.\n   - **COMMANDER**: Choose if the flash is being used to control remote synced flash units, for example as part of a studio flash system.\n   - **OFF**: The EF-X8 does not fire. Flash units connected via the sync terminal will still fire when the shutter is released, but can be disabled by lowering the EF-X8 and turning the units off in the flash settings menu.\n\n2. **Flash Compensation/Output**\n   - Adjust flash level. The options available vary with the flash control mode (①).",
+                    "md": "1. **Flash Control Mode**\n   - **TTL**: TTL mode. Adjust flash compensation (②) and choose a flash mode (③).\n   - **M**: The flash fires at the selected output (②) regardless of subject brightness or camera settings. Output is expressed in fractions of full power, from 1/1 to 1/64. The desired results may not be achieved at low values if they exceed the limits of the flash control system; take a test shot and check the results.\n   - **COMMANDER**: Choose if the flash is being used to control remote synced flash units, for example as part of a studio flash system.\n   - **OFF**: The EF-X8 does not fire. Flash units connected via the sync terminal will still fire when the shutter is released, but can be disabled by lowering the EF-X8 and turning the units off in the flash settings menu.\n\n2. **Flash Compensation/Output**\n   - Adjust flash level. The options available vary with the flash control mode (①)."
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "parsingMode": "multimodal-openai-gpt4o",
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 749.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "e5691139-1360-491d-bdf8-c182cfd4192c",
+    "file_path": "../data/raw_data/x-t5/x-t5_split/x-t5_page369.pdf"
+}

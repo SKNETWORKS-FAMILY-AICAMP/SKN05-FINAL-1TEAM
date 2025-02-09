@@ -1,0 +1,14 @@
+{
+    "parsing_result": "## Face and Eye Detection\n\n- A single face detected in or near the focus area will be marked with a white frame.\n- If multiple faces are detected in the focus area, the camera will select one automatically.\n- You can choose a different subject by tapping the display to reposition the focus area. The focus stick (focus lever) can also be used if [WIDE] is selected for **AF MODE**.\n- When **DIRECT AF POINT SELECTION** or **EDIT FOCUS AREA** is chosen for **BUTTON/DIAL SETTING > FOCUS LEVER SETTING > TILT**, you can also switch subjects using the focus stick (focus lever) or (during viewfinder photography) touch controls (📖 26).\n- When the camera is focused on an eye, you can switch from one eye to the other using a function button to which **RIGHT/LEFT EYE SWITCH** has been assigned.\n- If the selected subject leaves the frame, the camera will wait a set time for its return and consequently the white frame may sometimes appear in locations where no face is seen.\n- Depending on shooting conditions, face selection may be suspended at the close of burst shooting.\n- Faces can be detected with the camera in vertical or horizontal orientation.\n- If the camera is unable to detect the subject’s eyes because they are hidden by hair, glasses, or other objects, the camera will instead focus on faces.\n- Face/eye detection options can also be accessed via shortcuts (📖 312).",
+    "metadata": {
+        "page": 152,
+        "model": "x-t5",
+        "chapter": "The Shooting Menus",
+        "section": "AF/MF SETTING (Still Photography)",
+        "subsection": [
+            "FACE/EYE DETECTION SETTING"
+        ],
+        "embedding_model": "text-embedding-3-small",
+        "token": 306
+    }
+}

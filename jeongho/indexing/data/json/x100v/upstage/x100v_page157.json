@@ -1,0 +1,266 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:14px'>MOVIE SETTING</header>\n<h1 id='1' style='font-size:16px'>FILM SIMULATION</h1>\n<br><p id='2' data-category='paragraph' style='font-size:20px'>Choose a film simulation effect for movie recording.</p>\n<table id='3' style='font-size:16px'><tr><td>Option</td><td>Description</td></tr><tr><td>STD PROVIA/STANDARD</td><td rowspan=\"11\">See \"FILM SIMULATION\" (□ 106).</td></tr><tr><td>V Velvia/VIVID</td></tr><tr><td>S ASTIA/SOFT</td></tr><tr><td>Cc CLASSIC CHROME</td></tr><tr><td>NH PRO Neg.Hi</td></tr><tr><td>Ns PRO Neg.Std</td></tr><tr><td>Nて CLASSIC Neg.</td></tr><tr><td>E ETERNA/CINEMA</td></tr><tr><td>A ACROS</td></tr><tr><td>B MONOCHROME</td></tr><tr><td>SEPIA SEPIA</td></tr></table>\n<p id='4' data-category='paragraph' style='font-size:18px'>MONOCHROMATIC COLOR</p>\n<br><p id='5' data-category='paragraph' style='font-size:18px'>Add a reddish or bluish tinge (warm or<br>cool color cast) to the A. ACROS and<br>MONOCHROME monochrome film<br>simulations. Color can be adjusted on the<br>WARM-COOL and G (Green)-M (Magenta)<br>axes.</p>\n<br><figure id='6' data-category='chart'><img style='font-size:14px' alt=\"MONOCHROMATIC COLOR \nWARM \n- \no \n▼ \nCOOL \nWC 0 MG 0 \nM ◀ ▶ G \nOK SET \n\" data-coord=\"top-left:(1814,2030); bottom-right:(2513,2599)\" /></figure>\n<footer id='7' style='font-size:20px'>157</footer>\n<br><footer id='8' style='font-size:22px'>6<br>The<br>Shooting<br>Menus</footer>",
+        "markdown": "MOVIE SETTING\n\n# FILM SIMULATION\n\nChoose a film simulation effect for movie recording.\n\n| Option | Description |\n| --- | --- |\n| STD PROVIA/STANDARD | See \"FILM SIMULATION\" (□ 106). |\n| V Velvia/VIVID | See \"FILM SIMULATION\" (□ 106). |\n| S ASTIA/SOFT | See \"FILM SIMULATION\" (□ 106). |\n| Cc CLASSIC CHROME | See \"FILM SIMULATION\" (□ 106). |\n| NH PRO Neg.Hi | See \"FILM SIMULATION\" (□ 106). |\n| Ns PRO Neg.Std | See \"FILM SIMULATION\" (□ 106). |\n| Nて CLASSIC Neg. | See \"FILM SIMULATION\" (□ 106). |\n| E ETERNA/CINEMA | See \"FILM SIMULATION\" (□ 106). |\n| A ACROS | See \"FILM SIMULATION\" (□ 106). |\n| B MONOCHROME | See \"FILM SIMULATION\" (□ 106). |\n| SEPIA SEPIA | See \"FILM SIMULATION\" (□ 106). |\n\n\nMONOCHROMATIC COLOR\n\nAdd a reddish or bluish tinge (warm or\ncool color cast) to the A. ACROS and\nMONOCHROME monochrome film\nsimulations. Color can be adjusted on the\nWARM-COOL and G (Green)-M (Magenta)\naxes.\n\n![image](/image/placeholder)\nMONOCHROMATIC COLOR \nWARM \n- \no \n▼ \nCOOL \nWC 0 MG 0 \nM ◀ ▶ G \nOK SET \n\n\n157\n\n6\nThe\nShooting\nMenus",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:14px'>MOVIE SETTING</header>",
+                "markdown": "MOVIE SETTING",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.7584,
+                    "y": 0.0283
+                },
+                {
+                    "x": 0.9184,
+                    "y": 0.0283
+                },
+                {
+                    "x": 0.9184,
+                    "y": 0.0494
+                },
+                {
+                    "x": 0.7584,
+                    "y": 0.0494
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='1' style='font-size:16px'>FILM SIMULATION</h1>",
+                "markdown": "# FILM SIMULATION",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1083,
+                    "y": 0.0733
+                },
+                {
+                    "x": 0.3966,
+                    "y": 0.0733
+                },
+                {
+                    "x": 0.3966,
+                    "y": 0.0956
+                },
+                {
+                    "x": 0.1083,
+                    "y": 0.0956
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='2' data-category='paragraph' style='font-size:20px'>Choose a film simulation effect for movie recording.</p>",
+                "markdown": "Choose a film simulation effect for movie recording.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1061,
+                    "y": 0.1042
+                },
+                {
+                    "x": 0.76,
+                    "y": 0.1042
+                },
+                {
+                    "x": 0.76,
+                    "y": 0.1288
+                },
+                {
+                    "x": 0.1061,
+                    "y": 0.1288
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='3' style='font-size:16px'><tr><td>Option</td><td>Description</td></tr><tr><td>STD PROVIA/STANDARD</td><td rowspan=\"11\">See \"FILM SIMULATION\" (□ 106).</td></tr><tr><td>V Velvia/VIVID</td></tr><tr><td>S ASTIA/SOFT</td></tr><tr><td>Cc CLASSIC CHROME</td></tr><tr><td>NH PRO Neg.Hi</td></tr><tr><td>Ns PRO Neg.Std</td></tr><tr><td>Nて CLASSIC Neg.</td></tr><tr><td>E ETERNA/CINEMA</td></tr><tr><td>A ACROS</td></tr><tr><td>B MONOCHROME</td></tr><tr><td>SEPIA SEPIA</td></tr></table>",
+                "markdown": "| Option | Description |\n| --- | --- |\n| STD PROVIA/STANDARD | See \"FILM SIMULATION\" (□ 106). |\n| V Velvia/VIVID | See \"FILM SIMULATION\" (□ 106). |\n| S ASTIA/SOFT | See \"FILM SIMULATION\" (□ 106). |\n| Cc CLASSIC CHROME | See \"FILM SIMULATION\" (□ 106). |\n| NH PRO Neg.Hi | See \"FILM SIMULATION\" (□ 106). |\n| Ns PRO Neg.Std | See \"FILM SIMULATION\" (□ 106). |\n| Nて CLASSIC Neg. | See \"FILM SIMULATION\" (□ 106). |\n| E ETERNA/CINEMA | See \"FILM SIMULATION\" (□ 106). |\n| A ACROS | See \"FILM SIMULATION\" (□ 106). |\n| B MONOCHROME | See \"FILM SIMULATION\" (□ 106). |\n| SEPIA SEPIA | See \"FILM SIMULATION\" (□ 106). |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1071,
+                    "y": 0.1381
+                },
+                {
+                    "x": 0.9187,
+                    "y": 0.1381
+                },
+                {
+                    "x": 0.9187,
+                    "y": 0.4675
+                },
+                {
+                    "x": 0.1071,
+                    "y": 0.4675
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='4' data-category='paragraph' style='font-size:18px'>MONOCHROMATIC COLOR</p>",
+                "markdown": "MONOCHROMATIC COLOR",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1093,
+                    "y": 0.4884
+                },
+                {
+                    "x": 0.508,
+                    "y": 0.4884
+                },
+                {
+                    "x": 0.508,
+                    "y": 0.512
+                },
+                {
+                    "x": 0.1093,
+                    "y": 0.512
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='5' data-category='paragraph' style='font-size:18px'>Add a reddish or bluish tinge (warm or<br>cool color cast) to the A. ACROS and<br>MONOCHROME monochrome film<br>simulations. Color can be adjusted on the<br>WARM-COOL and G (Green)-M (Magenta)<br>axes.</p>",
+                "markdown": "Add a reddish or bluish tinge (warm or\ncool color cast) to the A. ACROS and\nMONOCHROME monochrome film\nsimulations. Color can be adjusted on the\nWARM-COOL and G (Green)-M (Magenta)\naxes.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1063,
+                    "y": 0.5199
+                },
+                {
+                    "x": 0.6278,
+                    "y": 0.5199
+                },
+                {
+                    "x": 0.6278,
+                    "y": 0.6721
+                },
+                {
+                    "x": 0.1063,
+                    "y": 0.6721
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "figure",
+            "content": {
+                "html": "<br><figure id='6' data-category='chart'><img style='font-size:14px' alt=\"MONOCHROMATIC COLOR \nWARM \n- \no \n▼ \nCOOL \nWC 0 MG 0 \nM ◀ ▶ G \nOK SET \n\" data-coord=\"top-left:(1814,2030); bottom-right:(2513,2599)\" /></figure>",
+                "markdown": "![image](/image/placeholder)\nMONOCHROMATIC COLOR \nWARM \n- \no \n▼ \nCOOL \nWC 0 MG 0 \nM ◀ ▶ G \nOK SET \n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6564,
+                    "y": 0.521
+                },
+                {
+                    "x": 0.9092,
+                    "y": 0.521
+                },
+                {
+                    "x": 0.9092,
+                    "y": 0.6668
+                },
+                {
+                    "x": 0.6564,
+                    "y": 0.6668
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='7' style='font-size:20px'>157</footer>",
+                "markdown": "157",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.8629,
+                    "y": 0.9572
+                },
+                {
+                    "x": 0.9169,
+                    "y": 0.9572
+                },
+                {
+                    "x": 0.9169,
+                    "y": 0.9786
+                },
+                {
+                    "x": 0.8629,
+                    "y": 0.9786
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<br><footer id='8' style='font-size:22px'>6<br>The<br>Shooting<br>Menus</footer>",
+                "markdown": "6\nThe\nShooting\nMenus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9568,
+                    "y": 0.5396
+                },
+                {
+                    "x": 0.9825,
+                    "y": 0.5396
+                },
+                {
+                    "x": 0.9825,
+                    "y": 0.7318
+                },
+                {
+                    "x": 0.9568,
+                    "y": 0.7318
+                }
+            ],
+            "id": 8,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

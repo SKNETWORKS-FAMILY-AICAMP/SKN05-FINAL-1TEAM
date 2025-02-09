@@ -1,0 +1,126 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<p id='0' data-category='paragraph' style='font-size:14px'>Errors</p>\n<table id='1' style='font-size:16px'><tr><td>Error</td><td>Solution</td></tr><tr><td>Frame.io DISCONNECTED</td><td>The Frame.io server may be down: Check that the Frame.io server is up or try again later. The camera clock is not set to the correct time and date: Set the camera clock. The network is not configured correctly: Check the settings of the connected network. Turn the camera off and then on again. Contact the network administrator.</td></tr><tr><td>UNEXPECTED ERROR HAS OCCURRED</td><td>Turn the camera off and then on again. Contact the network administrator.</td></tr></table>\n<footer id='2' style='font-size:20px'>Technical<br>Notes<br>12</footer>\n<footer id='3' style='font-size:18px'>459</footer>",
+        "markdown": "Errors\n\n| Error | Solution |\n| --- | --- |\n| Frame.io DISCONNECTED | The Frame.io server may be down: Check that the Frame.io server is up or try again later. The camera clock is not set to the correct time and date: Set the camera clock. The network is not configured correctly: Check the settings of the connected network. Turn the camera off and then on again. Contact the network administrator. |\n| UNEXPECTED ERROR HAS OCCURRED | Turn the camera off and then on again. Contact the network administrator. |\n\n\nTechnical\nNotes\n12\n\n459",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='0' data-category='paragraph' style='font-size:14px'>Errors</p>",
+                "markdown": "Errors",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.8559,
+                    "y": 0.0297
+                },
+                {
+                    "x": 0.9179,
+                    "y": 0.0297
+                },
+                {
+                    "x": 0.9179,
+                    "y": 0.0488
+                },
+                {
+                    "x": 0.8559,
+                    "y": 0.0488
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='1' style='font-size:16px'><tr><td>Error</td><td>Solution</td></tr><tr><td>Frame.io DISCONNECTED</td><td>The Frame.io server may be down: Check that the Frame.io server is up or try again later. The camera clock is not set to the correct time and date: Set the camera clock. The network is not configured correctly: Check the settings of the connected network. Turn the camera off and then on again. Contact the network administrator.</td></tr><tr><td>UNEXPECTED ERROR HAS OCCURRED</td><td>Turn the camera off and then on again. Contact the network administrator.</td></tr></table>",
+                "markdown": "| Error | Solution |\n| --- | --- |\n| Frame.io DISCONNECTED | The Frame.io server may be down: Check that the Frame.io server is up or try again later. The camera clock is not set to the correct time and date: Set the camera clock. The network is not configured correctly: Check the settings of the connected network. Turn the camera off and then on again. Contact the network administrator. |\n| UNEXPECTED ERROR HAS OCCURRED | Turn the camera off and then on again. Contact the network administrator. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1054,
+                    "y": 0.0744
+                },
+                {
+                    "x": 0.9205,
+                    "y": 0.0744
+                },
+                {
+                    "x": 0.9205,
+                    "y": 0.3395
+                },
+                {
+                    "x": 0.1054,
+                    "y": 0.3395
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='2' style='font-size:20px'>Technical<br>Notes<br>12</footer>",
+                "markdown": "Technical\nNotes\n12",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9576,
+                    "y": 0.7597
+                },
+                {
+                    "x": 0.9853,
+                    "y": 0.7597
+                },
+                {
+                    "x": 0.9853,
+                    "y": 0.9144
+                },
+                {
+                    "x": 0.9576,
+                    "y": 0.9144
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='3' style='font-size:18px'>459</footer>",
+                "markdown": "459",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.8606,
+                    "y": 0.9571
+                },
+                {
+                    "x": 0.9173,
+                    "y": 0.9571
+                },
+                {
+                    "x": 0.9173,
+                    "y": 0.9788
+                },
+                {
+                    "x": 0.8606,
+                    "y": 0.9788
+                }
+            ],
+            "id": 3,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

@@ -1,0 +1,80 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "# Renaming Custom Settings Banks\n\nRename selected custom settings banks.\n\n1. Select **IMAGE QUALITY SETTING > EDIT/SAVE CUSTOM SETTING** in the shooting menu and press **MENU/OK**.\n\n   !Custom Settings Menu\n\n2. Highlight the desired custom settings bank and press **MENU/OK**.\n\n   !Select Custom Bank\n\n3. Highlight **EDIT CUSTOM NAME** and press **MENU/OK**.\n\n   !Edit Custom Name\n\n4. Enter a new name for the custom settings bank and select **SET**.  \n   The selected bank will be renamed.\n\n## AUTO UPDATE CUSTOM SETTING\n\nChoose whether changes to saved custom settings apply automatically.\n\n| Option  | Description                                                                 |\n|---------|-----------------------------------------------------------------------------|\n| ENABLE  | Changes to custom settings banks CUSTOM 1 through CUSTOM 7 apply automatically. |\n| DISABLE | Changes do not apply automatically. Any changes to custom settings must be applied manually. |",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "Renaming Custom Settings Banks",
+                    "md": "# Renaming Custom Settings Banks"
+                },
+                {
+                    "type": "text",
+                    "value": "Rename selected custom settings banks.\n\n1. Select **IMAGE QUALITY SETTING > EDIT/SAVE CUSTOM SETTING** in the shooting menu and press **MENU/OK**.\n\n   !Custom Settings Menu\n\n2. Highlight the desired custom settings bank and press **MENU/OK**.\n\n   !Select Custom Bank\n\n3. Highlight **EDIT CUSTOM NAME** and press **MENU/OK**.\n\n   !Edit Custom Name\n\n4. Enter a new name for the custom settings bank and select **SET**.  \n   The selected bank will be renamed.",
+                    "md": "Rename selected custom settings banks.\n\n1. Select **IMAGE QUALITY SETTING > EDIT/SAVE CUSTOM SETTING** in the shooting menu and press **MENU/OK**.\n\n   !Custom Settings Menu\n\n2. Highlight the desired custom settings bank and press **MENU/OK**.\n\n   !Select Custom Bank\n\n3. Highlight **EDIT CUSTOM NAME** and press **MENU/OK**.\n\n   !Edit Custom Name\n\n4. Enter a new name for the custom settings bank and select **SET**.  \n   The selected bank will be renamed."
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "AUTO UPDATE CUSTOM SETTING",
+                    "md": "## AUTO UPDATE CUSTOM SETTING"
+                },
+                {
+                    "type": "text",
+                    "value": "Choose whether changes to saved custom settings apply automatically.",
+                    "md": "Choose whether changes to saved custom settings apply automatically."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Option",
+                            "Description"
+                        ],
+                        [
+                            "ENABLE",
+                            "Changes to custom settings banks CUSTOM 1 through CUSTOM 7 apply automatically."
+                        ],
+                        [
+                            "DISABLE",
+                            "Changes do not apply automatically. Any changes to custom settings must be applied manually."
+                        ]
+                    ],
+                    "md": "| Option  | Description                                                                 |\n|---------|-----------------------------------------------------------------------------|\n| ENABLE  | Changes to custom settings banks CUSTOM 1 through CUSTOM 7 apply automatically. |\n| DISABLE | Changes do not apply automatically. Any changes to custom settings must be applied manually. |",
+                    "isPerfectTable": true,
+                    "csv": "\"Option\",\"Description\"\n\"ENABLE\",\"Changes to custom settings banks CUSTOM 1 through CUSTOM 7 apply automatically.\"\n\"DISABLE\",\"Changes do not apply automatically. Any changes to custom settings must be applied manually.\""
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "parsingMode": "multimodal-openai-gpt4o",
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 22.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "4b621792-c53f-4e05-a00a-7fd2a0de65fb",
+    "file_path": "../data/raw_data/x-e4/x-e4_split/x-e4_page146.pdf"
+}

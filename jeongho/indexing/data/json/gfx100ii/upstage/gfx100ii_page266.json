@@ -1,0 +1,322 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:22px'>Network/USB<br>Setting<br>Menus</header>\n<br><p id='1' data-category='paragraph' style='font-size:18px'>Select IP ADDRESS and enter an IP<br>address.</p>\n<h1 id='2' style='font-size:18px'>Select SUBNET MASK and enter a<br>subnet mask.</h1>\n<p id='3' data-category='paragraph' style='font-size:18px'>Select GATEWAY ADDRESS and en-<br>ter a gateway address.</p>\n<p id='4' data-category='paragraph' style='font-size:18px'>Select DNS SERVER ADDRESS and<br>enter a DNS server address.</p>\n<h1 id='5' style='font-size:16px'>8</h1>\n<br><figure id='6'><img style='font-size:14px' alt=\"IP ADDRESS\n1 ■\nSET  → DEL\n1 2 3\n4 5 6\n7 8 9\n0\nOK ENTER BACK CANCEL\" data-coord=\"top-left:(1698,280); bottom-right:(2462,852)\" /></figure>\n<figure id='7'><img style='font-size:14px' alt=\"SUBNET MASK\n1 ·\nSET  → DEL\n1 2 3\n4 5 6\n7 8 9\n0\n[OK] ENTER BACK CANCEL\" data-coord=\"top-left:(1698,903); bottom-right:(2459,1470)\" /></figure>\n<figure id='8'><img style='font-size:14px' alt=\"GATEWAY ADDRESS\n1 ■\nSET DEL\n1 2 3\n4 5 6\n7 8 9\n0\nOK ENTER BACK CANCEL\" data-coord=\"top-left:(1696,1516); bottom-right:(2456,2086)\" /></figure>\n<figure id='9'><img style='font-size:14px' alt=\"DNS SERVER ADDRESS\n1 ■\nSET → DEL\n1 2 3\n4 5 6\n7 8 9\n0\nOK ENTER BACK CANCEL\" data-coord=\"top-left:(1703,2135); bottom-right:(2461,2704)\" /></figure>\n<footer id='10' style='font-size:20px'>266</footer>",
+        "markdown": "Network/USB\nSetting\nMenus\n\nSelect IP ADDRESS and enter an IP\naddress.\n\n# Select SUBNET MASK and enter a\nsubnet mask.\n\nSelect GATEWAY ADDRESS and en-\nter a gateway address.\n\nSelect DNS SERVER ADDRESS and\nenter a DNS server address.\n\n# 8\n\n![image](/image/placeholder)\nIP ADDRESS\n1 ■\nSET  → DEL\n1 2 3\n4 5 6\n7 8 9\n0\nOK ENTER BACK CANCEL\n\n![image](/image/placeholder)\nSUBNET MASK\n1 ·\nSET  → DEL\n1 2 3\n4 5 6\n7 8 9\n0\n[OK] ENTER BACK CANCEL\n\n![image](/image/placeholder)\nGATEWAY ADDRESS\n1 ■\nSET DEL\n1 2 3\n4 5 6\n7 8 9\n0\nOK ENTER BACK CANCEL\n\n![image](/image/placeholder)\nDNS SERVER ADDRESS\n1 ■\nSET → DEL\n1 2 3\n4 5 6\n7 8 9\n0\nOK ENTER BACK CANCEL\n\n266",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:22px'>Network/USB<br>Setting<br>Menus</header>",
+                "markdown": "Network/USB\nSetting\nMenus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0183,
+                    "y": 0.4298
+                },
+                {
+                    "x": 0.0407,
+                    "y": 0.4298
+                },
+                {
+                    "x": 0.0407,
+                    "y": 0.6385
+                },
+                {
+                    "x": 0.0183,
+                    "y": 0.6385
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='1' data-category='paragraph' style='font-size:18px'>Select IP ADDRESS and enter an IP<br>address.</p>",
+                "markdown": "Select IP ADDRESS and enter an IP\naddress.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1323,
+                    "y": 0.0717
+                },
+                {
+                    "x": 0.5998,
+                    "y": 0.0717
+                },
+                {
+                    "x": 0.5998,
+                    "y": 0.122
+                },
+                {
+                    "x": 0.1323,
+                    "y": 0.122
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='2' style='font-size:18px'>Select SUBNET MASK and enter a<br>subnet mask.</h1>",
+                "markdown": "# Select SUBNET MASK and enter a\nsubnet mask.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1318,
+                    "y": 0.2309
+                },
+                {
+                    "x": 0.6018,
+                    "y": 0.2309
+                },
+                {
+                    "x": 0.6018,
+                    "y": 0.2795
+                },
+                {
+                    "x": 0.1318,
+                    "y": 0.2795
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='3' data-category='paragraph' style='font-size:18px'>Select GATEWAY ADDRESS and en-<br>ter a gateway address.</p>",
+                "markdown": "Select GATEWAY ADDRESS and en-\nter a gateway address.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1318,
+                    "y": 0.3889
+                },
+                {
+                    "x": 0.602,
+                    "y": 0.3889
+                },
+                {
+                    "x": 0.602,
+                    "y": 0.4398
+                },
+                {
+                    "x": 0.1318,
+                    "y": 0.4398
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='4' data-category='paragraph' style='font-size:18px'>Select DNS SERVER ADDRESS and<br>enter a DNS server address.</p>",
+                "markdown": "Select DNS SERVER ADDRESS and\nenter a DNS server address.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1312,
+                    "y": 0.5475
+                },
+                {
+                    "x": 0.6009,
+                    "y": 0.5475
+                },
+                {
+                    "x": 0.6009,
+                    "y": 0.5966
+                },
+                {
+                    "x": 0.1312,
+                    "y": 0.5966
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='5' style='font-size:16px'>8</h1>",
+                "markdown": "# 8",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0278,
+                    "y": 0.6593
+                },
+                {
+                    "x": 0.0417,
+                    "y": 0.6593
+                },
+                {
+                    "x": 0.0417,
+                    "y": 0.6746
+                },
+                {
+                    "x": 0.0278,
+                    "y": 0.6746
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "figure",
+            "content": {
+                "html": "<br><figure id='6'><img style='font-size:14px' alt=\"IP ADDRESS\n1 ■\nSET  → DEL\n1 2 3\n4 5 6\n7 8 9\n0\nOK ENTER BACK CANCEL\" data-coord=\"top-left:(1698,280); bottom-right:(2462,852)\" /></figure>",
+                "markdown": "![image](/image/placeholder)\nIP ADDRESS\n1 ■\nSET  → DEL\n1 2 3\n4 5 6\n7 8 9\n0\nOK ENTER BACK CANCEL",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6145,
+                    "y": 0.0719
+                },
+                {
+                    "x": 0.8911,
+                    "y": 0.0719
+                },
+                {
+                    "x": 0.8911,
+                    "y": 0.2187
+                },
+                {
+                    "x": 0.6145,
+                    "y": 0.2187
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "figure",
+            "content": {
+                "html": "<figure id='7'><img style='font-size:14px' alt=\"SUBNET MASK\n1 ·\nSET  → DEL\n1 2 3\n4 5 6\n7 8 9\n0\n[OK] ENTER BACK CANCEL\" data-coord=\"top-left:(1698,903); bottom-right:(2459,1470)\" /></figure>",
+                "markdown": "![image](/image/placeholder)\nSUBNET MASK\n1 ·\nSET  → DEL\n1 2 3\n4 5 6\n7 8 9\n0\n[OK] ENTER BACK CANCEL",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6144,
+                    "y": 0.2317
+                },
+                {
+                    "x": 0.8897,
+                    "y": 0.2317
+                },
+                {
+                    "x": 0.8897,
+                    "y": 0.3773
+                },
+                {
+                    "x": 0.6144,
+                    "y": 0.3773
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "figure",
+            "content": {
+                "html": "<figure id='8'><img style='font-size:14px' alt=\"GATEWAY ADDRESS\n1 ■\nSET DEL\n1 2 3\n4 5 6\n7 8 9\n0\nOK ENTER BACK CANCEL\" data-coord=\"top-left:(1696,1516); bottom-right:(2456,2086)\" /></figure>",
+                "markdown": "![image](/image/placeholder)\nGATEWAY ADDRESS\n1 ■\nSET DEL\n1 2 3\n4 5 6\n7 8 9\n0\nOK ENTER BACK CANCEL",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6138,
+                    "y": 0.389
+                },
+                {
+                    "x": 0.8887,
+                    "y": 0.389
+                },
+                {
+                    "x": 0.8887,
+                    "y": 0.5352
+                },
+                {
+                    "x": 0.6138,
+                    "y": 0.5352
+                }
+            ],
+            "id": 8,
+            "page": 1
+        },
+        {
+            "category": "figure",
+            "content": {
+                "html": "<figure id='9'><img style='font-size:14px' alt=\"DNS SERVER ADDRESS\n1 ■\nSET → DEL\n1 2 3\n4 5 6\n7 8 9\n0\nOK ENTER BACK CANCEL\" data-coord=\"top-left:(1703,2135); bottom-right:(2461,2704)\" /></figure>",
+                "markdown": "![image](/image/placeholder)\nDNS SERVER ADDRESS\n1 ■\nSET → DEL\n1 2 3\n4 5 6\n7 8 9\n0\nOK ENTER BACK CANCEL",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6163,
+                    "y": 0.5478
+                },
+                {
+                    "x": 0.8906,
+                    "y": 0.5478
+                },
+                {
+                    "x": 0.8906,
+                    "y": 0.6937
+                },
+                {
+                    "x": 0.6163,
+                    "y": 0.6937
+                }
+            ],
+            "id": 9,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='10' style='font-size:20px'>266</footer>",
+                "markdown": "266",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0829,
+                    "y": 0.9564
+                },
+                {
+                    "x": 0.1403,
+                    "y": 0.9564
+                },
+                {
+                    "x": 0.1403,
+                    "y": 0.9801
+                },
+                {
+                    "x": 0.0829,
+                    "y": 0.9801
+                }
+            ],
+            "id": 10,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

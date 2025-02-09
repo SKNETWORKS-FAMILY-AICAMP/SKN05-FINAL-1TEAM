@@ -1,0 +1,73 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "# PC CONNECTION MODE\n\nAdjust settings for connection to a computer.\n\n| Option                        | Description                                                                                                                                                                                                 |\n|-------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| **USB CARD READER**           | Connecting the camera to a computer via USB automatically enables data transfer mode, allowing data to be copied to the computer. The camera functions normally when not connected.                         |\n| **USB RAW CONV./ BACKUP RESTORE** | Connecting the camera to a computer via USB automatically enables USB RAW conversion/backup restore mode. The camera functions normally when not connected. <br> • **USB RAW CONV.** (requires FUJIFILM X RAW STUDIO): Use the camera’s image processing engine to rapidly convert RAW files to high-quality JPEG images. <br> • **BACKUP RESTORE** (requires FUJIFILM X Acquire): Save and load camera settings. Reconfigure the camera in an instant or share settings with other cameras of the same type. |\n\n> ⚠️ **POWER MANAGEMENT > AUTO POWER OFF** settings also apply during tethered shooting. Select **OFF** to prevent the camera turning off automatically.",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "PC CONNECTION MODE",
+                    "md": "# PC CONNECTION MODE"
+                },
+                {
+                    "type": "text",
+                    "value": "Adjust settings for connection to a computer.",
+                    "md": "Adjust settings for connection to a computer."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Option",
+                            "Description"
+                        ],
+                        [
+                            "**USB CARD READER**",
+                            "Connecting the camera to a computer via USB automatically enables data transfer mode, allowing data to be copied to the computer. The camera functions normally when not connected."
+                        ],
+                        [
+                            "**USB RAW CONV./ BACKUP RESTORE**",
+                            "Connecting the camera to a computer via USB automatically enables USB RAW conversion/backup restore mode. The camera functions normally when not connected. <br> • **USB RAW CONV.** (requires FUJIFILM X RAW STUDIO): Use the camera’s image processing engine to rapidly convert RAW files to high-quality JPEG images. <br> • **BACKUP RESTORE** (requires FUJIFILM X Acquire): Save and load camera settings. Reconfigure the camera in an instant or share settings with other cameras of the same type."
+                        ]
+                    ],
+                    "md": "| Option                        | Description                                                                                                                                                                                                 |\n|-------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| **USB CARD READER**           | Connecting the camera to a computer via USB automatically enables data transfer mode, allowing data to be copied to the computer. The camera functions normally when not connected.                         |\n| **USB RAW CONV./ BACKUP RESTORE** | Connecting the camera to a computer via USB automatically enables USB RAW conversion/backup restore mode. The camera functions normally when not connected. <br> • **USB RAW CONV.** (requires FUJIFILM X RAW STUDIO): Use the camera’s image processing engine to rapidly convert RAW files to high-quality JPEG images. <br> • **BACKUP RESTORE** (requires FUJIFILM X Acquire): Save and load camera settings. Reconfigure the camera in an instant or share settings with other cameras of the same type. |",
+                    "isPerfectTable": true,
+                    "csv": "\"Option\",\"Description\"\n\"**USB CARD READER**\",\"Connecting the camera to a computer via USB automatically enables data transfer mode, allowing data to be copied to the computer. The camera functions normally when not connected.\"\n\"**USB RAW CONV./ BACKUP RESTORE**\",\"Connecting the camera to a computer via USB automatically enables USB RAW conversion/backup restore mode. The camera functions normally when not connected. <br> • **USB RAW CONV.** (requires FUJIFILM X RAW STUDIO): Use the camera’s image processing engine to rapidly convert RAW files to high-quality JPEG images. <br> • **BACKUP RESTORE** (requires FUJIFILM X Acquire): Save and load camera settings. Reconfigure the camera in an instant or share settings with other cameras of the same type.\""
+                },
+                {
+                    "type": "text",
+                    "value": "> ⚠️ **POWER MANAGEMENT > AUTO POWER OFF** settings also apply during tethered shooting. Select **OFF** to prevent the camera turning off automatically.",
+                    "md": "> ⚠️ **POWER MANAGEMENT > AUTO POWER OFF** settings also apply during tethered shooting. Select **OFF** to prevent the camera turning off automatically."
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 711.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "4412390f-50a9-4368-8129-8439e287ef26",
+    "file_path": "../data/raw_data/x100v/x100v_split/x100v_page259.pdf"
+}

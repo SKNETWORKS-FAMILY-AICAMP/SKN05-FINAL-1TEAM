@@ -1,0 +1,99 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "\n# IMAGE QUALITY SETTING (Still Photography)\n\n## Color Temperature\nColor temperature is an objective measure of the color of a light source, expressed in Kelvin (K). Light sources with a color temperature close to that of direct sunlight appear white; light sources with a lower color temperature have a yellow or red cast, while those with a higher color temperature are tinged with blue.\n\n## DYNAMIC RANGE\nAdjust dynamic range. Wide dynamic ranges reduce loss of detail in highlights for more natural results with high-contrast or backlit scenes.\n\n| Option     | Description                                |\n|------------|--------------------------------------------|\n| AUTO       | Choose for increased contrast.             |\n| !100% 100% | Reduce loss of detail in highlights. |\n| !200% 200% | Reduce loss of detail in highlights. |\n| !400% 400% | Reduce loss of detail in highlights. |\n\n> ⚠️ Mottling may appear in pictures taken at higher values. Choose a value according to the scene.\n\n- If **AUTO** is selected, the camera will automatically choose either !100% 100% or !200% 200% according to the subject and shooting conditions. Shutter speed and aperture will be displayed when the shutter button is pressed halfway.\n- !200% 200% is available at sensitivities from ISO 320 to ISO 12800.\n- !400% 400% at sensitivities from ISO 640 to 12800.\n",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "IMAGE QUALITY SETTING (Still Photography)",
+                    "md": "# IMAGE QUALITY SETTING (Still Photography)"
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "Color Temperature",
+                    "md": "## Color Temperature"
+                },
+                {
+                    "type": "text",
+                    "value": "Color temperature is an objective measure of the color of a light source, expressed in Kelvin (K). Light sources with a color temperature close to that of direct sunlight appear white; light sources with a lower color temperature have a yellow or red cast, while those with a higher color temperature are tinged with blue.",
+                    "md": "Color temperature is an objective measure of the color of a light source, expressed in Kelvin (K). Light sources with a color temperature close to that of direct sunlight appear white; light sources with a lower color temperature have a yellow or red cast, while those with a higher color temperature are tinged with blue."
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "DYNAMIC RANGE",
+                    "md": "## DYNAMIC RANGE"
+                },
+                {
+                    "type": "text",
+                    "value": "Adjust dynamic range. Wide dynamic ranges reduce loss of detail in highlights for more natural results with high-contrast or backlit scenes.",
+                    "md": "Adjust dynamic range. Wide dynamic ranges reduce loss of detail in highlights for more natural results with high-contrast or backlit scenes."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Option",
+                            "Description"
+                        ],
+                        [
+                            "AUTO",
+                            "Choose for increased contrast."
+                        ],
+                        [
+                            "!100% 100%",
+                            "Reduce loss of detail in highlights."
+                        ],
+                        [
+                            "!200% 200%",
+                            "Reduce loss of detail in highlights."
+                        ],
+                        [
+                            "!400% 400%",
+                            "Reduce loss of detail in highlights."
+                        ]
+                    ],
+                    "md": "| Option     | Description                                |\n|------------|--------------------------------------------|\n| AUTO       | Choose for increased contrast.             |\n| !100% 100% | Reduce loss of detail in highlights. |\n| !200% 200% | Reduce loss of detail in highlights. |\n| !400% 400% | Reduce loss of detail in highlights. |",
+                    "isPerfectTable": true,
+                    "csv": "\"Option\",\"Description\"\n\"AUTO\",\"Choose for increased contrast.\"\n\"!100% 100%\",\"Reduce loss of detail in highlights.\"\n\"!200% 200%\",\"Reduce loss of detail in highlights.\"\n\"!400% 400%\",\"Reduce loss of detail in highlights.\""
+                },
+                {
+                    "type": "text",
+                    "value": "> ⚠️ Mottling may appear in pictures taken at higher values. Choose a value according to the scene.\n\n- If **AUTO** is selected, the camera will automatically choose either !100% 100% or !200% 200% according to the subject and shooting conditions. Shutter speed and aperture will be displayed when the shutter button is pressed halfway.\n- !200% 200% is available at sensitivities from ISO 320 to ISO 12800.\n- !400% 400% at sensitivities from ISO 640 to 12800.",
+                    "md": "> ⚠️ Mottling may appear in pictures taken at higher values. Choose a value according to the scene.\n\n- If **AUTO** is selected, the camera will automatically choose either !100% 100% or !200% 200% according to the subject and shooting conditions. Shutter speed and aperture will be displayed when the shutter button is pressed halfway.\n- !200% 200% is available at sensitivities from ISO 320 to ISO 12800.\n- !400% 400% at sensitivities from ISO 640 to 12800."
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "parsingMode": "multimodal-openai-gpt4o",
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 83.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "452c3763-93d5-4755-8371-486748bd6ef9",
+    "file_path": "../data/raw_data/x-e4/x-e4_split/x-e4_page137.pdf"
+}

@@ -1,0 +1,87 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "# Touch-Function Gestures\n\nAssign roles to touch-function gestures (T-Fn1, T-Fn2, T-Fn3, or T-Fn4) for quick access to selected features.\n\n> 💡 **Note:**  \n> Touch-function gestures are disabled by default. To enable touch-function gestures, select **ON** for **BUTTON/DIAL SETTING > TOUCH SCREEN SETTING > TOUCH FUNCTION**.\n\n## Touch-Function Gesture Defaults\n\nThe default assignments for the different gestures are:\n\n!Touch-Function Gestures\n\n| Touch-Function Gestures | Default         |\n|-------------------------|-----------------|\n| T-Fn1 (flick up)        | HISTOGRAM       |\n| T-Fn2 (flick left)      | FILM SIMULATION |\n| T-Fn3 (flick right)     | WHITE BALANCE   |\n| T-Fn4 (flick down)      | SHUTTER TYPE    |",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "Touch-Function Gestures",
+                    "md": "# Touch-Function Gestures"
+                },
+                {
+                    "type": "text",
+                    "value": "Assign roles to touch-function gestures (T-Fn1, T-Fn2, T-Fn3, or T-Fn4) for quick access to selected features.\n\n> 💡 **Note:**  \n> Touch-function gestures are disabled by default. To enable touch-function gestures, select **ON** for **BUTTON/DIAL SETTING > TOUCH SCREEN SETTING > TOUCH FUNCTION**.",
+                    "md": "Assign roles to touch-function gestures (T-Fn1, T-Fn2, T-Fn3, or T-Fn4) for quick access to selected features.\n\n> 💡 **Note:**  \n> Touch-function gestures are disabled by default. To enable touch-function gestures, select **ON** for **BUTTON/DIAL SETTING > TOUCH SCREEN SETTING > TOUCH FUNCTION**."
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "Touch-Function Gesture Defaults",
+                    "md": "## Touch-Function Gesture Defaults"
+                },
+                {
+                    "type": "text",
+                    "value": "The default assignments for the different gestures are:\n\n!Touch-Function Gestures",
+                    "md": "The default assignments for the different gestures are:\n\n!Touch-Function Gestures"
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Touch-Function Gestures",
+                            "Default"
+                        ],
+                        [
+                            "T-Fn1 (flick up)",
+                            "HISTOGRAM"
+                        ],
+                        [
+                            "T-Fn2 (flick left)",
+                            "FILM SIMULATION"
+                        ],
+                        [
+                            "T-Fn3 (flick right)",
+                            "WHITE BALANCE"
+                        ],
+                        [
+                            "T-Fn4 (flick down)",
+                            "SHUTTER TYPE"
+                        ]
+                    ],
+                    "md": "| Touch-Function Gestures | Default         |\n|-------------------------|-----------------|\n| T-Fn1 (flick up)        | HISTOGRAM       |\n| T-Fn2 (flick left)      | FILM SIMULATION |\n| T-Fn3 (flick right)     | WHITE BALANCE   |\n| T-Fn4 (flick down)      | SHUTTER TYPE    |",
+                    "isPerfectTable": true,
+                    "csv": "\"Touch-Function Gestures\",\"Default\"\n\"T-Fn1 (flick up)\",\"HISTOGRAM\"\n\"T-Fn2 (flick left)\",\"FILM SIMULATION\"\n\"T-Fn3 (flick right)\",\"WHITE BALANCE\"\n\"T-Fn4 (flick down)\",\"SHUTTER TYPE\""
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 215.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "4f2a967b-b8ee-4a1f-b9ac-987c6f50fbec",
+    "file_path": "../data/raw_data/gfx100ii/gfx100ii_split/gfx100ii_page418.pdf"
+}

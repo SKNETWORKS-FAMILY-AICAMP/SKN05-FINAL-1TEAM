@@ -1,0 +1,322 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:16px'>AF/MF SETTING (Still Photography)</header>\n<h1 id='1' style='font-size:18px'>ZONE AREA SWITCHING</h1>\n<br><h1 id='2' style='font-size:20px'>This parameter determines the focus<br>area given priority in zone AF.</h1>\n<br><figure id='3'><img style='font-size:14px' alt=\"ZONE AREA SWITCHING\nAF\nMF\n▶\nCENTER AUTO FRONT\nSETS THE SWITCHING SENSITIVITY\nOF FOCUS FRAME IN ZONE AREA\n� ADJUST 三 SWITCH\" data-coord=\"top-left:(1783,386); bottom-right:(2524,959)\" /></figure>\n<table id='4' style='font-size:16px'><tr><td>Option</td><td>Description</td></tr><tr><td>FRONT</td><td>Zone AF assigns priority to the subjects closest to the camera.</td></tr><tr><td>AUTO</td><td>The camera locks focus on the subject at the center of the zone and then switches focus areas as necessary to track it.</td></tr><tr><td>CENTER</td><td>Zone AF assigns priority to subjects in the center of the zone.</td></tr></table>\n<p id='5' data-category='paragraph' style='font-size:16px'>This option takes effect only when [] ZONE is selected for AF mode.</p>\n<p id='6' data-category='paragraph' style='font-size:16px'>Set Values</p>\n\n<br><table id='8' style='font-size:14px'><tr><td></td><td>TRACKING SENSITIVITY</td><td>SPEED TRACKING SENSITIVITY</td><td>ZONE AREA SWITCHING</td></tr><tr><td>SET 1</td><td>2</td><td>0</td><td>AUTO</td></tr><tr><td>SET 2</td><td>3</td><td>0</td><td>CENTER</td></tr><tr><td>SET 3</td><td>2</td><td>2</td><td>AUTO</td></tr><tr><td>SET 4</td><td>0</td><td>1</td><td>FRONT</td></tr><tr><td>SET 5</td><td>3</td><td>2</td><td>AUTO</td></tr><br><caption id='7' style='font-size:16px'>Parameter values for the different sets are listed below.</caption></table>\n<br><footer id='9' style='font-size:22px'>6<br>The<br>Shooting<br>Menus</footer>\n<footer id='10' style='font-size:20px'>151</footer>",
+        "markdown": "AF/MF SETTING (Still Photography)\n\n# ZONE AREA SWITCHING\n\n# This parameter determines the focus\narea given priority in zone AF.\n\n![image](/image/placeholder)\nZONE AREA SWITCHING\nAF\nMF\n▶\nCENTER AUTO FRONT\nSETS THE SWITCHING SENSITIVITY\nOF FOCUS FRAME IN ZONE AREA\n� ADJUST 三 SWITCH\n\n| Option | Description |\n| --- | --- |\n| FRONT | Zone AF assigns priority to the subjects closest to the camera. |\n| AUTO | The camera locks focus on the subject at the center of the zone and then switches focus areas as necessary to track it. |\n| CENTER | Zone AF assigns priority to subjects in the center of the zone. |\n\n\nThis option takes effect only when [] ZONE is selected for AF mode.\n\nSet Values\n\nParameter values for the different sets are listed below.\n\n|  | TRACKING SENSITIVITY | SPEED TRACKING SENSITIVITY | ZONE AREA SWITCHING |\n| --- | --- | --- | --- |\n| SET 1 | 2 | 0 | AUTO |\n| SET 2 | 3 | 0 | CENTER |\n| SET 3 | 2 | 2 | AUTO |\n| SET 4 | 0 | 1 | FRONT |\n| SET 5 | 3 | 2 | AUTO |\n\n\n6\nThe\nShooting\nMenus\n\n151",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:16px'>AF/MF SETTING (Still Photography)</header>",
+                "markdown": "AF/MF SETTING (Still Photography)",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.5752,
+                    "y": 0.0281
+                },
+                {
+                    "x": 0.9166,
+                    "y": 0.0281
+                },
+                {
+                    "x": 0.9166,
+                    "y": 0.0514
+                },
+                {
+                    "x": 0.5752,
+                    "y": 0.0514
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='1' style='font-size:18px'>ZONE AREA SWITCHING</h1>",
+                "markdown": "# ZONE AREA SWITCHING",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1071,
+                    "y": 0.0722
+                },
+                {
+                    "x": 0.3473,
+                    "y": 0.0722
+                },
+                {
+                    "x": 0.3473,
+                    "y": 0.0938
+                },
+                {
+                    "x": 0.1071,
+                    "y": 0.0938
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='2' style='font-size:20px'>This parameter determines the focus<br>area given priority in zone AF.</h1>",
+                "markdown": "# This parameter determines the focus\narea given priority in zone AF.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1059,
+                    "y": 0.0974
+                },
+                {
+                    "x": 0.6284,
+                    "y": 0.0974
+                },
+                {
+                    "x": 0.6284,
+                    "y": 0.1462
+                },
+                {
+                    "x": 0.1059,
+                    "y": 0.1462
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "figure",
+            "content": {
+                "html": "<br><figure id='3'><img style='font-size:14px' alt=\"ZONE AREA SWITCHING\nAF\nMF\n▶\nCENTER AUTO FRONT\nSETS THE SWITCHING SENSITIVITY\nOF FOCUS FRAME IN ZONE AREA\n� ADJUST 三 SWITCH\" data-coord=\"top-left:(1783,386); bottom-right:(2524,959)\" /></figure>",
+                "markdown": "![image](/image/placeholder)\nZONE AREA SWITCHING\nAF\nMF\n▶\nCENTER AUTO FRONT\nSETS THE SWITCHING SENSITIVITY\nOF FOCUS FRAME IN ZONE AREA\n� ADJUST 三 SWITCH",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6451,
+                    "y": 0.0993
+                },
+                {
+                    "x": 0.9133,
+                    "y": 0.0993
+                },
+                {
+                    "x": 0.9133,
+                    "y": 0.2462
+                },
+                {
+                    "x": 0.6451,
+                    "y": 0.2462
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='4' style='font-size:16px'><tr><td>Option</td><td>Description</td></tr><tr><td>FRONT</td><td>Zone AF assigns priority to the subjects closest to the camera.</td></tr><tr><td>AUTO</td><td>The camera locks focus on the subject at the center of the zone and then switches focus areas as necessary to track it.</td></tr><tr><td>CENTER</td><td>Zone AF assigns priority to subjects in the center of the zone.</td></tr></table>",
+                "markdown": "| Option | Description |\n| --- | --- |\n| FRONT | Zone AF assigns priority to the subjects closest to the camera. |\n| AUTO | The camera locks focus on the subject at the center of the zone and then switches focus areas as necessary to track it. |\n| CENTER | Zone AF assigns priority to subjects in the center of the zone. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.11,
+                    "y": 0.2645
+                },
+                {
+                    "x": 0.9192,
+                    "y": 0.2645
+                },
+                {
+                    "x": 0.9192,
+                    "y": 0.3945
+                },
+                {
+                    "x": 0.11,
+                    "y": 0.3945
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='5' data-category='paragraph' style='font-size:16px'>This option takes effect only when [] ZONE is selected for AF mode.</p>",
+                "markdown": "This option takes effect only when [] ZONE is selected for AF mode.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1109,
+                    "y": 0.4058
+                },
+                {
+                    "x": 0.9045,
+                    "y": 0.4058
+                },
+                {
+                    "x": 0.9045,
+                    "y": 0.4287
+                },
+                {
+                    "x": 0.1109,
+                    "y": 0.4287
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='6' data-category='paragraph' style='font-size:16px'>Set Values</p>",
+                "markdown": "Set Values",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1121,
+                    "y": 0.4747
+                },
+                {
+                    "x": 0.2204,
+                    "y": 0.4747
+                },
+                {
+                    "x": 0.2204,
+                    "y": 0.4937
+                },
+                {
+                    "x": 0.1121,
+                    "y": 0.4937
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='7' data-category='paragraph' style='font-size:16px'>Parameter values for the different sets are listed below.</p>",
+                "markdown": "Parameter values for the different sets are listed below.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1104,
+                    "y": 0.4965
+                },
+                {
+                    "x": 0.7019,
+                    "y": 0.4965
+                },
+                {
+                    "x": 0.7019,
+                    "y": 0.5172
+                },
+                {
+                    "x": 0.1104,
+                    "y": 0.5172
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='8' style='font-size:14px'><tr><td></td><td>TRACKING SENSITIVITY</td><td>SPEED TRACKING SENSITIVITY</td><td>ZONE AREA SWITCHING</td></tr><tr><td>SET 1</td><td>2</td><td>0</td><td>AUTO</td></tr><tr><td>SET 2</td><td>3</td><td>0</td><td>CENTER</td></tr><tr><td>SET 3</td><td>2</td><td>2</td><td>AUTO</td></tr><tr><td>SET 4</td><td>0</td><td>1</td><td>FRONT</td></tr><tr><td>SET 5</td><td>3</td><td>2</td><td>AUTO</td></tr></table>",
+                "markdown": "|  | TRACKING SENSITIVITY | SPEED TRACKING SENSITIVITY | ZONE AREA SWITCHING |\n| --- | --- | --- | --- |\n| SET 1 | 2 | 0 | AUTO |\n| SET 2 | 3 | 0 | CENTER |\n| SET 3 | 2 | 2 | AUTO |\n| SET 4 | 0 | 1 | FRONT |\n| SET 5 | 3 | 2 | AUTO |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1043,
+                    "y": 0.5209
+                },
+                {
+                    "x": 0.9197,
+                    "y": 0.5209
+                },
+                {
+                    "x": 0.9197,
+                    "y": 0.7173
+                },
+                {
+                    "x": 0.1043,
+                    "y": 0.7173
+                }
+            ],
+            "id": 8,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<br><footer id='9' style='font-size:22px'>6<br>The<br>Shooting<br>Menus</footer>",
+                "markdown": "6\nThe\nShooting\nMenus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9563,
+                    "y": 0.5388
+                },
+                {
+                    "x": 0.9833,
+                    "y": 0.5388
+                },
+                {
+                    "x": 0.9833,
+                    "y": 0.7323
+                },
+                {
+                    "x": 0.9563,
+                    "y": 0.7323
+                }
+            ],
+            "id": 9,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='10' style='font-size:20px'>151</footer>",
+                "markdown": "151",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.8618,
+                    "y": 0.9564
+                },
+                {
+                    "x": 0.9154,
+                    "y": 0.9564
+                },
+                {
+                    "x": 0.9154,
+                    "y": 0.9795
+                },
+                {
+                    "x": 0.8618,
+                    "y": 0.9795
+                }
+            ],
+            "id": 10,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

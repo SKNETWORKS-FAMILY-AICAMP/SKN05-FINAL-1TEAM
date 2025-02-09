@@ -1,0 +1,66 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "\n# The Playback Menu\n\n## Viewing Photobooks\n\nHighlight a book in the photobook assist menu and press **MENU/OK** to display the book, then press the selector left or right to scroll through the pictures.\n\n## Editing and Deleting Photobooks\n\nDisplay the photobook and press **MENU/OK**. The following options will be displayed; select the desired option and follow the on-screen instructions.\n\n- **EDIT:** Edit the book as described in “Creating a Photobook”.\n- **ERASE:** Delete the book.\n",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "The Playback Menu",
+                    "md": "# The Playback Menu"
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "Viewing Photobooks",
+                    "md": "## Viewing Photobooks"
+                },
+                {
+                    "type": "text",
+                    "value": "Highlight a book in the photobook assist menu and press **MENU/OK** to display the book, then press the selector left or right to scroll through the pictures.",
+                    "md": "Highlight a book in the photobook assist menu and press **MENU/OK** to display the book, then press the selector left or right to scroll through the pictures."
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "Editing and Deleting Photobooks",
+                    "md": "## Editing and Deleting Photobooks"
+                },
+                {
+                    "type": "text",
+                    "value": "Display the photobook and press **MENU/OK**. The following options will be displayed; select the desired option and follow the on-screen instructions.\n\n- **EDIT:** Edit the book as described in “Creating a Photobook”.\n- **ERASE:** Delete the book.",
+                    "md": "Display the photobook and press **MENU/OK**. The following options will be displayed; select the desired option and follow the on-screen instructions.\n\n- **EDIT:** Edit the book as described in “Creating a Photobook”.\n- **ERASE:** Delete the book."
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "parsingMode": "multimodal-openai-gpt4o",
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 582.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "c244d54c-addc-4af5-b675-f265dea293f2",
+    "file_path": "../data/raw_data/x-t5/x-t5_split/x-t5_page269.pdf"
+}

@@ -1,0 +1,182 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:14px'>BUTTON/DIAL SETTING</header>\n<h1 id='1' style='font-size:16px'>▶ Fn1 BUTTON SETTING</h1>\n<br><h1 id='2' style='font-size:20px'>Choose the role performed by the Fn1 button during playback.</h1>\n<br><table id='3' style='font-size:14px'><tr><td>Option</td><td>Description</td></tr><tr><td>□ SMARTPHONE TRANSFER ORDER</td><td>Pressing the button marks the current picture for transfer. If the camera is not currently paired with a smartphone, Bluetooth/ SMARTPHONE SETTING options will be displayed.</td></tr><tr><td>V□ SELECT & SMARTPHONE TRANSFER ORDER</td><td>Pressing the button displays a dialog where pictures can be selected for upload to a smartphone with which the camera is paired (□□ 233). If the camera is not currently paired with a smartphone, Bluetooth/SMARTPHONE SETTING options will be displayed instead.</td></tr><tr><td>OFTP FTP TRANSFER ORDER</td><td>Pressing the button marks the current picture for upload to an FTP server.</td></tr><tr><td>⑤FTP FTP PRIORITY TRANSFER ORDER</td><td>Pressing the button marks the current picture for priority upload to an FTP server. The picture will be moved to the head of the upload queue.</td></tr><tr><td>))I·Frame.io TRANSFER ORDER</td><td>Pressing the button marks the current picture for upload to Frame.io.</td></tr><tr><td>WIRELESS COMMUNICATION</td><td>The button can be used for wireless connections.</td></tr></table>\n<br><footer id='4' style='font-size:22px'>The<br>Setup<br>Menus</footer>\n<footer id='5' style='font-size:18px'>363</footer>",
+        "markdown": "BUTTON/DIAL SETTING\n\n# ▶ Fn1 BUTTON SETTING\n\n# Choose the role performed by the Fn1 button during playback.\n\n| Option | Description |\n| --- | --- |\n| □ SMARTPHONE TRANSFER ORDER | Pressing the button marks the current picture for transfer. If the camera is not currently paired with a smartphone, Bluetooth/ SMARTPHONE SETTING options will be displayed. |\n| V□ SELECT & SMARTPHONE TRANSFER ORDER | Pressing the button displays a dialog where pictures can be selected for upload to a smartphone with which the camera is paired (□□ 233). If the camera is not currently paired with a smartphone, Bluetooth/SMARTPHONE SETTING options will be displayed instead. |\n| OFTP FTP TRANSFER ORDER | Pressing the button marks the current picture for upload to an FTP server. |\n| ⑤FTP FTP PRIORITY TRANSFER ORDER | Pressing the button marks the current picture for priority upload to an FTP server. The picture will be moved to the head of the upload queue. |\n| ))I·Frame.io TRANSFER ORDER | Pressing the button marks the current picture for upload to Frame.io. |\n| WIRELESS COMMUNICATION | The button can be used for wireless connections. |\n\n\nThe\nSetup\nMenus\n\n363",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:14px'>BUTTON/DIAL SETTING</header>",
+                "markdown": "BUTTON/DIAL SETTING",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6872,
+                    "y": 0.0284
+                },
+                {
+                    "x": 0.9182,
+                    "y": 0.0284
+                },
+                {
+                    "x": 0.9182,
+                    "y": 0.0495
+                },
+                {
+                    "x": 0.6872,
+                    "y": 0.0495
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='1' style='font-size:16px'>▶ Fn1 BUTTON SETTING</h1>",
+                "markdown": "# ▶ Fn1 BUTTON SETTING",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1075,
+                    "y": 0.0739
+                },
+                {
+                    "x": 0.4513,
+                    "y": 0.0739
+                },
+                {
+                    "x": 0.4513,
+                    "y": 0.0949
+                },
+                {
+                    "x": 0.1075,
+                    "y": 0.0949
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='2' style='font-size:20px'>Choose the role performed by the Fn1 button during playback.</h1>",
+                "markdown": "# Choose the role performed by the Fn1 button during playback.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1058,
+                    "y": 0.1043
+                },
+                {
+                    "x": 0.8925,
+                    "y": 0.1043
+                },
+                {
+                    "x": 0.8925,
+                    "y": 0.1298
+                },
+                {
+                    "x": 0.1058,
+                    "y": 0.1298
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='3' style='font-size:14px'><tr><td>Option</td><td>Description</td></tr><tr><td>□ SMARTPHONE TRANSFER ORDER</td><td>Pressing the button marks the current picture for transfer. If the camera is not currently paired with a smartphone, Bluetooth/ SMARTPHONE SETTING options will be displayed.</td></tr><tr><td>V□ SELECT & SMARTPHONE TRANSFER ORDER</td><td>Pressing the button displays a dialog where pictures can be selected for upload to a smartphone with which the camera is paired (□□ 233). If the camera is not currently paired with a smartphone, Bluetooth/SMARTPHONE SETTING options will be displayed instead.</td></tr><tr><td>OFTP FTP TRANSFER ORDER</td><td>Pressing the button marks the current picture for upload to an FTP server.</td></tr><tr><td>⑤FTP FTP PRIORITY TRANSFER ORDER</td><td>Pressing the button marks the current picture for priority upload to an FTP server. The picture will be moved to the head of the upload queue.</td></tr><tr><td>))I·Frame.io TRANSFER ORDER</td><td>Pressing the button marks the current picture for upload to Frame.io.</td></tr><tr><td>WIRELESS COMMUNICATION</td><td>The button can be used for wireless connections.</td></tr></table>",
+                "markdown": "| Option | Description |\n| --- | --- |\n| □ SMARTPHONE TRANSFER ORDER | Pressing the button marks the current picture for transfer. If the camera is not currently paired with a smartphone, Bluetooth/ SMARTPHONE SETTING options will be displayed. |\n| V□ SELECT & SMARTPHONE TRANSFER ORDER | Pressing the button displays a dialog where pictures can be selected for upload to a smartphone with which the camera is paired (□□ 233). If the camera is not currently paired with a smartphone, Bluetooth/SMARTPHONE SETTING options will be displayed instead. |\n| OFTP FTP TRANSFER ORDER | Pressing the button marks the current picture for upload to an FTP server. |\n| ⑤FTP FTP PRIORITY TRANSFER ORDER | Pressing the button marks the current picture for priority upload to an FTP server. The picture will be moved to the head of the upload queue. |\n| ))I·Frame.io TRANSFER ORDER | Pressing the button marks the current picture for upload to Frame.io. |\n| WIRELESS COMMUNICATION | The button can be used for wireless connections. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1065,
+                    "y": 0.1356
+                },
+                {
+                    "x": 0.9196,
+                    "y": 0.1356
+                },
+                {
+                    "x": 0.9196,
+                    "y": 0.5589
+                },
+                {
+                    "x": 0.1065,
+                    "y": 0.5589
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<br><footer id='4' style='font-size:22px'>The<br>Setup<br>Menus</footer>",
+                "markdown": "The\nSetup\nMenus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9578,
+                    "y": 0.5709
+                },
+                {
+                    "x": 0.9796,
+                    "y": 0.5709
+                },
+                {
+                    "x": 0.9796,
+                    "y": 0.6974
+                },
+                {
+                    "x": 0.9578,
+                    "y": 0.6974
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='5' style='font-size:18px'>363</footer>",
+                "markdown": "363",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.8609,
+                    "y": 0.9566
+                },
+                {
+                    "x": 0.9173,
+                    "y": 0.9566
+                },
+                {
+                    "x": 0.9173,
+                    "y": 0.9793
+                },
+                {
+                    "x": 0.8609,
+                    "y": 0.9793
+                }
+            ],
+            "id": 5,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

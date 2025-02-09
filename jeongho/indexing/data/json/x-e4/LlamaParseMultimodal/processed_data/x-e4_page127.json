@@ -1,0 +1,13 @@
+{
+    "parsing_result": "# AF/MF SETTING (Still Photography)\n\n## Focus Tracking Options\n\nThe individual parameters that are part of a focus tracking set are described below.\n\n### TRACKING SENSITIVITY\n\nThis parameter determines how long the camera waits to switch focus when an object enters the focus area behind or in front of the current subject. The higher the value, the longer the camera will wait.\n\n!Tracking Sensitivity\n\n| Options |   |   |   |   |   |\n|---------|---|---|---|---|---|\n| 0       | 1 | 2 | 3 | 4 |   |\n\n- The higher the value, the longer it takes the camera to refocus when you attempt to switch subjects.\n- The lower the value, the more likely the camera is to switch focus from your subject to other objects in the focus area.\n\n### SPEED TRACKING SENSITIVITY\n\nThis parameter determines how sensitive the tracking system is to changes in subject velocity. The higher the value, the greater the precision with which the system attempts to respond to sudden movement.\n\n!Speed Tracking Sensitivity\n\n| Options |   |   |\n|---------|---|---|\n| 0       | 1 | 2 |\n\n- The higher the value, the more difficulty the camera will have focusing in situations in which autofocus does not perform well, such as when the subject is highly reflective or low in contrast.",
+    "embedding_result": [],
+    "metadata": {
+        "page": 127,
+        "model": "x-e4",
+        "subsection": [
+            "AF-C CUSTOM SETTINGS"
+        ],
+        "chapter": "The Shooting Menus",
+        "section": "AF/MF SETTING (Still Photography)"
+    }
+}

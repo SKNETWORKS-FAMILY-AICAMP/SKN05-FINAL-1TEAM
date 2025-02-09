@@ -1,0 +1,13 @@
+{
+    "parsing_result": "# Camera Indicator Lamp Display\n\nThe camera indicator lamp shows the status of its connection to computers, Frame.io, FTP servers, and the like.\n\n!Camera Indicator Lamp\n\n| Indicator Lamp       | Connection Status                                                                 |\n|----------------------|-----------------------------------------------------------------------------------|\n| Blinks red           | No network connection.                                                            |\n| Glows red            | No network connection; pictures awaiting upload.                                  |\n| Blinks orange        | Connected to network but not to computer tethered photography software, Frame.io, or FTP server. |\n| Blinks orange and red| Connected to network but not to computer tethered photography software, Frame.io, or FTP server; pictures awaiting upload. |\n| Blinks green         | Ready for tethered photography, upload to Frame.io, or FTP upload.                |\n| Blinks green and red | Ready for tethered photography, upload to Frame.io, or FTP upload; pictures awaiting upload. |",
+    "embedding_result": [],
+    "metadata": {
+        "page": 244,
+        "model": "gfx100ii",
+        "chapter": "Network/USB Setting Menus",
+        "section": "Overview",
+        "subsection": [
+            "Supported Features"
+        ]
+    }
+}

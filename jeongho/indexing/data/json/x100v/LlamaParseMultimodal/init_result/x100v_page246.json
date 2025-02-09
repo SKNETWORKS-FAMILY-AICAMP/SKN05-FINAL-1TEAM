@@ -1,0 +1,96 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "# SHOOT WITHOUT CARD\n\nChoose whether the shutter can be released without a memory card inserted in the camera.\n\n| Option | Description |\n|--------|-------------|\n| ON     | When no memory card is inserted, the shutter can be released to test camera function and the shooting and setup menus can be displayed. |\n| OFF    | The shutter is disabled if no memory card is inserted, preventing accidental loss of pictures taken without a memory card. |\n\n# FOCUS RING\n\nChoose the direction in which the focus ring is rotated to increase the focus distance.\n\n| Options | \n|---------|\n| ↻ CW (clockwise) |\n| ↺ CCW (counterclockwise) |",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "SHOOT WITHOUT CARD",
+                    "md": "# SHOOT WITHOUT CARD"
+                },
+                {
+                    "type": "text",
+                    "value": "Choose whether the shutter can be released without a memory card inserted in the camera.",
+                    "md": "Choose whether the shutter can be released without a memory card inserted in the camera."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Option",
+                            "Description"
+                        ],
+                        [
+                            "ON",
+                            "When no memory card is inserted, the shutter can be released to test camera function and the shooting and setup menus can be displayed."
+                        ],
+                        [
+                            "OFF",
+                            "The shutter is disabled if no memory card is inserted, preventing accidental loss of pictures taken without a memory card."
+                        ]
+                    ],
+                    "md": "| Option | Description |\n|--------|-------------|\n| ON     | When no memory card is inserted, the shutter can be released to test camera function and the shooting and setup menus can be displayed. |\n| OFF    | The shutter is disabled if no memory card is inserted, preventing accidental loss of pictures taken without a memory card. |",
+                    "isPerfectTable": true,
+                    "csv": "\"Option\",\"Description\"\n\"ON\",\"When no memory card is inserted, the shutter can be released to test camera function and the shooting and setup menus can be displayed.\"\n\"OFF\",\"The shutter is disabled if no memory card is inserted, preventing accidental loss of pictures taken without a memory card.\""
+                },
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "FOCUS RING",
+                    "md": "# FOCUS RING"
+                },
+                {
+                    "type": "text",
+                    "value": "Choose the direction in which the focus ring is rotated to increase the focus distance.",
+                    "md": "Choose the direction in which the focus ring is rotated to increase the focus distance."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Options"
+                        ],
+                        [
+                            "↻ CW (clockwise)"
+                        ],
+                        [
+                            "↺ CCW (counterclockwise)"
+                        ]
+                    ],
+                    "md": "| Options | \n|---------|\n| ↻ CW (clockwise) |\n| ↺ CCW (counterclockwise) |",
+                    "isPerfectTable": true,
+                    "csv": "\"Options\"\n\"↻ CW (clockwise)\"\n\"↺ CCW (counterclockwise)\""
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 783.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "746e7450-0f77-449a-b02e-5d83f163297a",
+    "file_path": "../data/raw_data/x100v/x100v_split/x100v_page246.pdf"
+}

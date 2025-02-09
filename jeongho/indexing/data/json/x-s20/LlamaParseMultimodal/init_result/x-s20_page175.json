@@ -1,0 +1,84 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "# AF-C Custom Settings\n\nSelect focus-tracking options for **CONTINUOUS AF** focus mode. Choose from Sets 1 (**SET 1**) through 5 (**SET 5**) according to your subject or select **SET 6 CUSTOM** for custom focus-tracking options.\n\n!AF-C Custom Settings Menu\n\n| Option                                      | Description                                                                                                                                   |\n|---------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|\n| **SET 1 MULTI PURPOSE**                     | A standard tracking option that works well with the typical range of moving subjects.                                                         |\n| **SET 2 IGNORE OBSTACLES & CONTINUE TO TRACK SUBJECT** | The focus system attempts to track the chosen subject. Choose with subjects that are hard to keep in the focus area or if other objects are likely to enter the focus area with the subject. |\n| **SET 3 FOR ACCELERATING/DECELERATING SUBJECT** | The focus system attempts to compensate for subject acceleration or deceleration. Choose for subjects prone to rapid changes in velocity.      |\n| **SET 4 FOR SUDDENLY APPEARING SUBJECT**    | The focus system attempts to focus quickly on subjects entering the focus area. Choose for subjects that appear abruptly or when rapidly switching subjects. |\n| **SET 5 FOR ERRATICALLY MOVING & ACCEL./DECEL. SUBJECT** | Choose for hard-to-track subjects prone not only to sudden changes in velocity but also to large movements front to back and left to right.    |\n| **SET 6 CUSTOM**                            | Adjust **TRACKING SENSITIVITY**, **SPEED TRACKING SENSITIVITY**, and **ZONE AREA SWITCHING** to suit your preferences based on the values for Sets 1–5. |",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "AF-C Custom Settings",
+                    "md": "# AF-C Custom Settings"
+                },
+                {
+                    "type": "text",
+                    "value": "Select focus-tracking options for **CONTINUOUS AF** focus mode. Choose from Sets 1 (**SET 1**) through 5 (**SET 5**) according to your subject or select **SET 6 CUSTOM** for custom focus-tracking options.\n\n!AF-C Custom Settings Menu",
+                    "md": "Select focus-tracking options for **CONTINUOUS AF** focus mode. Choose from Sets 1 (**SET 1**) through 5 (**SET 5**) according to your subject or select **SET 6 CUSTOM** for custom focus-tracking options.\n\n!AF-C Custom Settings Menu"
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Option",
+                            "Description"
+                        ],
+                        [
+                            "**SET 1 MULTI PURPOSE**",
+                            "A standard tracking option that works well with the typical range of moving subjects."
+                        ],
+                        [
+                            "**SET 2 IGNORE OBSTACLES & CONTINUE TO TRACK SUBJECT**",
+                            "The focus system attempts to track the chosen subject. Choose with subjects that are hard to keep in the focus area or if other objects are likely to enter the focus area with the subject."
+                        ],
+                        [
+                            "**SET 3 FOR ACCELERATING/DECELERATING SUBJECT**",
+                            "The focus system attempts to compensate for subject acceleration or deceleration. Choose for subjects prone to rapid changes in velocity."
+                        ],
+                        [
+                            "**SET 4 FOR SUDDENLY APPEARING SUBJECT**",
+                            "The focus system attempts to focus quickly on subjects entering the focus area. Choose for subjects that appear abruptly or when rapidly switching subjects."
+                        ],
+                        [
+                            "**SET 5 FOR ERRATICALLY MOVING & ACCEL./DECEL. SUBJECT**",
+                            "Choose for hard-to-track subjects prone not only to sudden changes in velocity but also to large movements front to back and left to right."
+                        ],
+                        [
+                            "**SET 6 CUSTOM**",
+                            "Adjust **TRACKING SENSITIVITY**, **SPEED TRACKING SENSITIVITY**, and **ZONE AREA SWITCHING** to suit your preferences based on the values for Sets 1–5."
+                        ]
+                    ],
+                    "md": "| Option                                      | Description                                                                                                                                   |\n|---------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|\n| **SET 1 MULTI PURPOSE**                     | A standard tracking option that works well with the typical range of moving subjects.                                                         |\n| **SET 2 IGNORE OBSTACLES & CONTINUE TO TRACK SUBJECT** | The focus system attempts to track the chosen subject. Choose with subjects that are hard to keep in the focus area or if other objects are likely to enter the focus area with the subject. |\n| **SET 3 FOR ACCELERATING/DECELERATING SUBJECT** | The focus system attempts to compensate for subject acceleration or deceleration. Choose for subjects prone to rapid changes in velocity.      |\n| **SET 4 FOR SUDDENLY APPEARING SUBJECT**    | The focus system attempts to focus quickly on subjects entering the focus area. Choose for subjects that appear abruptly or when rapidly switching subjects. |\n| **SET 5 FOR ERRATICALLY MOVING & ACCEL./DECEL. SUBJECT** | Choose for hard-to-track subjects prone not only to sudden changes in velocity but also to large movements front to back and left to right.    |\n| **SET 6 CUSTOM**                            | Adjust **TRACKING SENSITIVITY**, **SPEED TRACKING SENSITIVITY**, and **ZONE AREA SWITCHING** to suit your preferences based on the values for Sets 1–5. |",
+                    "isPerfectTable": true,
+                    "csv": "\"Option\",\"Description\"\n\"**SET 1 MULTI PURPOSE**\",\"A standard tracking option that works well with the typical range of moving subjects.\"\n\"**SET 2 IGNORE OBSTACLES & CONTINUE TO TRACK SUBJECT**\",\"The focus system attempts to track the chosen subject. Choose with subjects that are hard to keep in the focus area or if other objects are likely to enter the focus area with the subject.\"\n\"**SET 3 FOR ACCELERATING/DECELERATING SUBJECT**\",\"The focus system attempts to compensate for subject acceleration or deceleration. Choose for subjects prone to rapid changes in velocity.\"\n\"**SET 4 FOR SUDDENLY APPEARING SUBJECT**\",\"The focus system attempts to focus quickly on subjects entering the focus area. Choose for subjects that appear abruptly or when rapidly switching subjects.\"\n\"**SET 5 FOR ERRATICALLY MOVING & ACCEL./DECEL. SUBJECT**\",\"Choose for hard-to-track subjects prone not only to sudden changes in velocity but also to large movements front to back and left to right.\"\n\"**SET 6 CUSTOM**\",\"Adjust **TRACKING SENSITIVITY**, **SPEED TRACKING SENSITIVITY**, and **ZONE AREA SWITCHING** to suit your preferences based on the values for Sets 1–5.\""
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 186.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "ee10bdd0-f783-41de-84ce-0c671fca30fc",
+    "file_path": "../data/raw_data/x-s20/x-s20_split/x-s20_page175.pdf"
+}

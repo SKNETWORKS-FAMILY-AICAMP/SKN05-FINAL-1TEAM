@@ -1,0 +1,238 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:22px'>The<br>Setup<br>Menus</header>\n<br><h1 id='1' style='font-size:16px'>DUAL DISPLAY SETTING</h1>\n\n<table id='3' style='font-size:14px'><tr><td>Option</td><td>Description</td></tr><tr><td>R:FOCUS L:FRAME</td><td>The right (small) window shows a close-up of the focus area, while the left (large) window shows the entire frame.</td></tr><tr><td>R:FRAME L:FOCUS</td><td>The right (small) window shows the entire frame, while the left (large) window shows a close-up of the focus area.</td></tr><br><caption id='2' style='font-size:18px'>Choose the content of the two windows in the dual display.</caption></table>\n<h1 id='4' style='font-size:16px'>DISP. CUSTOM SETTING</h1>\n<br><p id='5' data-category='paragraph' style='font-size:20px'>Choose the items shown in the standard indicator display<br>(□ 21).</p>\n<p id='6' data-category='paragraph' style='font-size:14px'>9</p>\n<footer id='7' style='font-size:20px'>290</footer>",
+        "markdown": "The\nSetup\nMenus\n\n# DUAL DISPLAY SETTING\n\nChoose the content of the two windows in the dual display.\n\n| Option | Description |\n| --- | --- |\n| R:FOCUS L:FRAME | The right (small) window shows a close-up of the focus area, while the left (large) window shows the entire frame. |\n| R:FRAME L:FOCUS | The right (small) window shows the entire frame, while the left (large) window shows a close-up of the focus area. |\n\n\n# DISP. CUSTOM SETTING\n\nChoose the items shown in the standard indicator display\n(□ 21).\n\n9\n\n290",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:22px'>The<br>Setup<br>Menus</header>",
+                "markdown": "The\nSetup\nMenus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0191,
+                    "y": 0.5706
+                },
+                {
+                    "x": 0.0407,
+                    "y": 0.5706
+                },
+                {
+                    "x": 0.0407,
+                    "y": 0.6989
+                },
+                {
+                    "x": 0.0191,
+                    "y": 0.6989
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='1' style='font-size:16px'>DUAL DISPLAY SETTING</h1>",
+                "markdown": "# DUAL DISPLAY SETTING",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0825,
+                    "y": 0.0725
+                },
+                {
+                    "x": 0.4082,
+                    "y": 0.0725
+                },
+                {
+                    "x": 0.4082,
+                    "y": 0.0943
+                },
+                {
+                    "x": 0.0825,
+                    "y": 0.0943
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='2' data-category='paragraph' style='font-size:18px'>Choose the content of the two windows in the dual display.</p>",
+                "markdown": "Choose the content of the two windows in the dual display.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0806,
+                    "y": 0.104
+                },
+                {
+                    "x": 0.8327,
+                    "y": 0.104
+                },
+                {
+                    "x": 0.8327,
+                    "y": 0.1295
+                },
+                {
+                    "x": 0.0806,
+                    "y": 0.1295
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='3' style='font-size:14px'><tr><td>Option</td><td>Description</td></tr><tr><td>R:FOCUS L:FRAME</td><td>The right (small) window shows a close-up of the focus area, while the left (large) window shows the entire frame.</td></tr><tr><td>R:FRAME L:FOCUS</td><td>The right (small) window shows the entire frame, while the left (large) window shows a close-up of the focus area.</td></tr></table>",
+                "markdown": "| Option | Description |\n| --- | --- |\n| R:FOCUS L:FRAME | The right (small) window shows a close-up of the focus area, while the left (large) window shows the entire frame. |\n| R:FRAME L:FOCUS | The right (small) window shows the entire frame, while the left (large) window shows a close-up of the focus area. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0841,
+                    "y": 0.1414
+                },
+                {
+                    "x": 0.8947,
+                    "y": 0.1414
+                },
+                {
+                    "x": 0.8947,
+                    "y": 0.2612
+                },
+                {
+                    "x": 0.0841,
+                    "y": 0.2612
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='4' style='font-size:16px'>DISP. CUSTOM SETTING</h1>",
+                "markdown": "# DISP. CUSTOM SETTING",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0825,
+                    "y": 0.2774
+                },
+                {
+                    "x": 0.4043,
+                    "y": 0.2774
+                },
+                {
+                    "x": 0.4043,
+                    "y": 0.3018
+                },
+                {
+                    "x": 0.0825,
+                    "y": 0.3018
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='5' data-category='paragraph' style='font-size:20px'>Choose the items shown in the standard indicator display<br>(□ 21).</p>",
+                "markdown": "Choose the items shown in the standard indicator display\n(□ 21).",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.083,
+                    "y": 0.3097
+                },
+                {
+                    "x": 0.8936,
+                    "y": 0.3097
+                },
+                {
+                    "x": 0.8936,
+                    "y": 0.3601
+                },
+                {
+                    "x": 0.083,
+                    "y": 0.3601
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='6' data-category='paragraph' style='font-size:14px'>9</p>",
+                "markdown": "9",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0278,
+                    "y": 0.7191
+                },
+                {
+                    "x": 0.0417,
+                    "y": 0.7191
+                },
+                {
+                    "x": 0.0417,
+                    "y": 0.7348
+                },
+                {
+                    "x": 0.0278,
+                    "y": 0.7348
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='7' style='font-size:20px'>290</footer>",
+                "markdown": "290",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0831,
+                    "y": 0.9562
+                },
+                {
+                    "x": 0.1402,
+                    "y": 0.9562
+                },
+                {
+                    "x": 0.1402,
+                    "y": 0.9795
+                },
+                {
+                    "x": 0.0831,
+                    "y": 0.9795
+                }
+            ],
+            "id": 7,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

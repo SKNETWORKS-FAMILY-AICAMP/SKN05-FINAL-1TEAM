@@ -1,0 +1,182 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:22px'>Network/USB<br>Setting<br>Menus</header>\n<br><h1 id='1' style='font-size:16px'>Connecting via HTTPS</h1>\n<br><p id='2' data-category='paragraph' style='font-size:14px'>If you selected HTTPS for SERVER TYPE, you will need to import a root<br>certificate into the browser on your computer or tablet. Instructions on<br>downloading and installing a root certificate are available from the follow-<br>ing website:</p>\n<h1 id='3' style='font-size:20px'>https://www//m-man.com/en/munnuxi/rootcav/</h1>\n<p id='4' data-category='paragraph' style='font-size:14px'>8</p>\n<footer id='5' style='font-size:18px'>298</footer>",
+        "markdown": "Network/USB\nSetting\nMenus\n\n# Connecting via HTTPS\n\nIf you selected HTTPS for SERVER TYPE, you will need to import a root\ncertificate into the browser on your computer or tablet. Instructions on\ndownloading and installing a root certificate are available from the follow-\ning website:\n\n# https://www//m-man.com/en/munnuxi/rootcav/\n\n8\n\n298",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:22px'>Network/USB<br>Setting<br>Menus</header>",
+                "markdown": "Network/USB\nSetting\nMenus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0183,
+                    "y": 0.4303
+                },
+                {
+                    "x": 0.0411,
+                    "y": 0.4303
+                },
+                {
+                    "x": 0.0411,
+                    "y": 0.6389
+                },
+                {
+                    "x": 0.0183,
+                    "y": 0.6389
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='1' style='font-size:16px'>Connecting via HTTPS</h1>",
+                "markdown": "# Connecting via HTTPS",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0887,
+                    "y": 0.073
+                },
+                {
+                    "x": 0.3016,
+                    "y": 0.073
+                },
+                {
+                    "x": 0.3016,
+                    "y": 0.0929
+                },
+                {
+                    "x": 0.0887,
+                    "y": 0.0929
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='2' data-category='paragraph' style='font-size:14px'>If you selected HTTPS for SERVER TYPE, you will need to import a root<br>certificate into the browser on your computer or tablet. Instructions on<br>downloading and installing a root certificate are available from the follow-<br>ing website:</p>",
+                "markdown": "If you selected HTTPS for SERVER TYPE, you will need to import a root\ncertificate into the browser on your computer or tablet. Instructions on\ndownloading and installing a root certificate are available from the follow-\ning website:",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0807,
+                    "y": 0.0938
+                },
+                {
+                    "x": 0.8942,
+                    "y": 0.0938
+                },
+                {
+                    "x": 0.8942,
+                    "y": 0.1854
+                },
+                {
+                    "x": 0.0807,
+                    "y": 0.1854
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='3' style='font-size:20px'>https://www//m-man.com/en/munnuxi/rootcav/</h1>",
+                "markdown": "# https://www//m-man.com/en/munnuxi/rootcav/",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1239,
+                    "y": 0.2191
+                },
+                {
+                    "x": 0.5946,
+                    "y": 0.2191
+                },
+                {
+                    "x": 0.5946,
+                    "y": 0.2447
+                },
+                {
+                    "x": 0.1239,
+                    "y": 0.2447
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='4' data-category='paragraph' style='font-size:14px'>8</p>",
+                "markdown": "8",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0284,
+                    "y": 0.6598
+                },
+                {
+                    "x": 0.0417,
+                    "y": 0.6598
+                },
+                {
+                    "x": 0.0417,
+                    "y": 0.6746
+                },
+                {
+                    "x": 0.0284,
+                    "y": 0.6746
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='5' style='font-size:18px'>298</footer>",
+                "markdown": "298",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0829,
+                    "y": 0.9561
+                },
+                {
+                    "x": 0.1401,
+                    "y": 0.9561
+                },
+                {
+                    "x": 0.1401,
+                    "y": 0.9796
+                },
+                {
+                    "x": 0.0829,
+                    "y": 0.9796
+                }
+            ],
+            "id": 5,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

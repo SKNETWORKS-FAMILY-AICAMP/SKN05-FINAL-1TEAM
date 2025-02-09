@@ -1,0 +1,378 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:14px'>IMAGE QUALITY SETTING (Movie Recording)</header>\n<h1 id='1' style='font-size:16px'>DYNAMIC RANGE</h1>\n<br><h1 id='2' style='font-size:22px'>Choose a dynamic range for movie recording.</h1>\n<br><table id='3' style='font-size:16px'><tr><td>Option</td><td>Description</td></tr><tr><td>R100 100%</td><td rowspan=\"3\">See \"DYNAMIC RANGE\" (□□ 134).</td></tr><tr><td>R200 200%</td></tr><tr><td>R400 400%</td></tr></table>\n<p id='4' data-category='list' style='font-size:14px'>AUTO (automatic dynamic range control) is not available during<br>movie recording.<br>● R200 200% is available at sensitivities of from ISO 200 to ISO 12800,<br>DR 400 400% at sensitivities of from ISO 400 to 12800.<br>● This item is available when HDMI is selected for 원 MOVIE<br>SETTING > F-Log/HLG RECORDING.</p>\n<p id='5' data-category='paragraph' style='font-size:18px'>WHITE BALANCE</p>\n<br><p id='6' data-category='paragraph' style='font-size:20px'>Options are the same as those for still photography, but settings<br>must be adjusted separately (□ 136).</p>\n<p id='7' data-category='paragraph' style='font-size:18px'>TONE CURVE</p>\n<br><p id='8' data-category='paragraph' style='font-size:20px'>Options are the same as those for still photography, but settings<br>must be adjusted separately ([ ≡ 140).</p>\n<p id='9' data-category='paragraph' style='font-size:18px'>COLOR</p>\n<br><p id='10' data-category='paragraph' style='font-size:20px'>Options are the same as those for still photography, but settings<br>must be adjusted separately (1 == 140).</p>\n<br><footer id='11' style='font-size:22px'>6<br>The<br>Shooting<br>Menus</footer>\n<footer id='12' style='font-size:22px'>195</footer>",
+        "markdown": "IMAGE QUALITY SETTING (Movie Recording)\n\n# DYNAMIC RANGE\n\n# Choose a dynamic range for movie recording.\n\n| Option | Description |\n| --- | --- |\n| R100 100% | See \"DYNAMIC RANGE\" (□□ 134). |\n| R200 200% | See \"DYNAMIC RANGE\" (□□ 134). |\n| R400 400% | See \"DYNAMIC RANGE\" (□□ 134). |\n\n\n- AUTO (automatic dynamic range control) is not available during\n- movie recording.\n- ● R200 200% is available at sensitivities of from ISO 200 to ISO 12800,\n- DR 400 400% at sensitivities of from ISO 400 to 12800.\n- ● This item is available when HDMI is selected for 원 MOVIE\n- SETTING > F-Log/HLG RECORDING.\n\n\nWHITE BALANCE\n\nOptions are the same as those for still photography, but settings\nmust be adjusted separately (□ 136).\n\nTONE CURVE\n\nOptions are the same as those for still photography, but settings\nmust be adjusted separately ([ ≡ 140).\n\nCOLOR\n\nOptions are the same as those for still photography, but settings\nmust be adjusted separately (1 == 140).\n\n6\nThe\nShooting\nMenus\n\n195",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:14px'>IMAGE QUALITY SETTING (Movie Recording)</header>",
+                "markdown": "IMAGE QUALITY SETTING (Movie Recording)",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.4893,
+                    "y": 0.0281
+                },
+                {
+                    "x": 0.9176,
+                    "y": 0.0281
+                },
+                {
+                    "x": 0.9176,
+                    "y": 0.0507
+                },
+                {
+                    "x": 0.4893,
+                    "y": 0.0507
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='1' style='font-size:16px'>DYNAMIC RANGE</h1>",
+                "markdown": "# DYNAMIC RANGE",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1076,
+                    "y": 0.073
+                },
+                {
+                    "x": 0.386,
+                    "y": 0.073
+                },
+                {
+                    "x": 0.386,
+                    "y": 0.0954
+                },
+                {
+                    "x": 0.1076,
+                    "y": 0.0954
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='2' style='font-size:22px'>Choose a dynamic range for movie recording.</h1>",
+                "markdown": "# Choose a dynamic range for movie recording.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1061,
+                    "y": 0.105
+                },
+                {
+                    "x": 0.685,
+                    "y": 0.105
+                },
+                {
+                    "x": 0.685,
+                    "y": 0.1297
+                },
+                {
+                    "x": 0.1061,
+                    "y": 0.1297
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='3' style='font-size:16px'><tr><td>Option</td><td>Description</td></tr><tr><td>R100 100%</td><td rowspan=\"3\">See \"DYNAMIC RANGE\" (□□ 134).</td></tr><tr><td>R200 200%</td></tr><tr><td>R400 400%</td></tr></table>",
+                "markdown": "| Option | Description |\n| --- | --- |\n| R100 100% | See \"DYNAMIC RANGE\" (□□ 134). |\n| R200 200% | See \"DYNAMIC RANGE\" (□□ 134). |\n| R400 400% | See \"DYNAMIC RANGE\" (□□ 134). |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1099,
+                    "y": 0.1404
+                },
+                {
+                    "x": 0.8951,
+                    "y": 0.1404
+                },
+                {
+                    "x": 0.8951,
+                    "y": 0.2482
+                },
+                {
+                    "x": 0.1099,
+                    "y": 0.2482
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "list",
+            "content": {
+                "html": "<p id='4' data-category='list' style='font-size:14px'>AUTO (automatic dynamic range control) is not available during<br>movie recording.<br>● R200 200% is available at sensitivities of from ISO 200 to ISO 12800,<br>DR 400 400% at sensitivities of from ISO 400 to 12800.<br>● This item is available when HDMI is selected for 원 MOVIE<br>SETTING > F-Log/HLG RECORDING.</p>",
+                "markdown": "- AUTO (automatic dynamic range control) is not available during\n- movie recording.\n- ● R200 200% is available at sensitivities of from ISO 200 to ISO 12800,\n- DR 400 400% at sensitivities of from ISO 400 to 12800.\n- ● This item is available when HDMI is selected for 원 MOVIE\n- SETTING > F-Log/HLG RECORDING.\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1358,
+                    "y": 0.2623
+                },
+                {
+                    "x": 0.916,
+                    "y": 0.2623
+                },
+                {
+                    "x": 0.916,
+                    "y": 0.3972
+                },
+                {
+                    "x": 0.1358,
+                    "y": 0.3972
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='5' data-category='paragraph' style='font-size:18px'>WHITE BALANCE</p>",
+                "markdown": "WHITE BALANCE",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1076,
+                    "y": 0.4185
+                },
+                {
+                    "x": 0.3752,
+                    "y": 0.4185
+                },
+                {
+                    "x": 0.3752,
+                    "y": 0.4407
+                },
+                {
+                    "x": 0.1076,
+                    "y": 0.4407
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='6' data-category='paragraph' style='font-size:20px'>Options are the same as those for still photography, but settings<br>must be adjusted separately (□ 136).</p>",
+                "markdown": "Options are the same as those for still photography, but settings\nmust be adjusted separately (□ 136).",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1053,
+                    "y": 0.4501
+                },
+                {
+                    "x": 0.917,
+                    "y": 0.4501
+                },
+                {
+                    "x": 0.917,
+                    "y": 0.5018
+                },
+                {
+                    "x": 0.1053,
+                    "y": 0.5018
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='7' data-category='paragraph' style='font-size:18px'>TONE CURVE</p>",
+                "markdown": "TONE CURVE",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1069,
+                    "y": 0.5206
+                },
+                {
+                    "x": 0.3268,
+                    "y": 0.5206
+                },
+                {
+                    "x": 0.3268,
+                    "y": 0.5443
+                },
+                {
+                    "x": 0.1069,
+                    "y": 0.5443
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='8' data-category='paragraph' style='font-size:20px'>Options are the same as those for still photography, but settings<br>must be adjusted separately ([ ≡ 140).</p>",
+                "markdown": "Options are the same as those for still photography, but settings\nmust be adjusted separately ([ ≡ 140).",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1058,
+                    "y": 0.5527
+                },
+                {
+                    "x": 0.9166,
+                    "y": 0.5527
+                },
+                {
+                    "x": 0.9166,
+                    "y": 0.6044
+                },
+                {
+                    "x": 0.1058,
+                    "y": 0.6044
+                }
+            ],
+            "id": 8,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='9' data-category='paragraph' style='font-size:18px'>COLOR</p>",
+                "markdown": "COLOR",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1069,
+                    "y": 0.6233
+                },
+                {
+                    "x": 0.2501,
+                    "y": 0.6233
+                },
+                {
+                    "x": 0.2501,
+                    "y": 0.6469
+                },
+                {
+                    "x": 0.1069,
+                    "y": 0.6469
+                }
+            ],
+            "id": 9,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='10' data-category='paragraph' style='font-size:20px'>Options are the same as those for still photography, but settings<br>must be adjusted separately (1 == 140).</p>",
+                "markdown": "Options are the same as those for still photography, but settings\nmust be adjusted separately (1 == 140).",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1055,
+                    "y": 0.6556
+                },
+                {
+                    "x": 0.9184,
+                    "y": 0.6556
+                },
+                {
+                    "x": 0.9184,
+                    "y": 0.7066
+                },
+                {
+                    "x": 0.1055,
+                    "y": 0.7066
+                }
+            ],
+            "id": 10,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<br><footer id='11' style='font-size:22px'>6<br>The<br>Shooting<br>Menus</footer>",
+                "markdown": "6\nThe\nShooting\nMenus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9561,
+                    "y": 0.5405
+                },
+                {
+                    "x": 0.9833,
+                    "y": 0.5405
+                },
+                {
+                    "x": 0.9833,
+                    "y": 0.7314
+                },
+                {
+                    "x": 0.9561,
+                    "y": 0.7314
+                }
+            ],
+            "id": 11,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='12' style='font-size:22px'>195</footer>",
+                "markdown": "195",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.8623,
+                    "y": 0.9568
+                },
+                {
+                    "x": 0.9173,
+                    "y": 0.9568
+                },
+                {
+                    "x": 0.9173,
+                    "y": 0.9789
+                },
+                {
+                    "x": 0.8623,
+                    "y": 0.9789
+                }
+            ],
+            "id": 12,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

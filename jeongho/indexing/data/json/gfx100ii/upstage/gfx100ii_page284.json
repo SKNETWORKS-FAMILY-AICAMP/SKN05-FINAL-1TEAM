@@ -1,0 +1,294 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:22px'>Network/USB<br>Setting<br>Menus</header>\n<br><p id='1' data-category='paragraph' style='font-size:18px'>14 Select OK to test the connection.<br>When a prompt is displayed stating<br>that the test was successful, press<br>MENU/OK.</p>\n<h1 id='2' style='font-size:16px'>If the test ends in failure, check the<br>communication setting profile and<br>network settings.</h1>\n<br><figure id='3'><img style='font-size:14px' alt=\"TEST THE CONNECTION?\nOK\nNO\" data-coord=\"top-left:(1696,270); bottom-right:(2463,853)\" /></figure>\n<p id='4' data-category='paragraph' style='font-size:18px'>15 Choose SELECT to finish creating the<br>connection setting profile.</p>\n<p id='5' data-category='paragraph' style='font-size:16px'>The connection setting profile can<br>also be selected later using SELECT<br>CONNECTION SETTING.</p>\n<br><figure id='6'><img style='font-size:14px' alt=\"SETTING COMPLETE\nPLEASE SELECT CREATED SETTING\nFROM 'SELECT CONNECTION SETTING'\nSELECT\nSKIP\" data-coord=\"top-left:(1700,1074); bottom-right:(2463,1641)\" /><br><figcaption id='7' style='font-size:18px'>16 Upload pictures to the FTP server (□□ 288).</figcaption></figure>\n\n<p id='8' data-category='paragraph' style='font-size:14px'>8</p>\n<footer id='9' style='font-size:20px'>284</footer>",
+        "markdown": "Network/USB\nSetting\nMenus\n\n14 Select OK to test the connection.\nWhen a prompt is displayed stating\nthat the test was successful, press\nMENU/OK.\n\n# If the test ends in failure, check the\ncommunication setting profile and\nnetwork settings.\n\n![image](/image/placeholder)\nTEST THE CONNECTION?\nOK\nNO\n\n15 Choose SELECT to finish creating the\nconnection setting profile.\n\nThe connection setting profile can\nalso be selected later using SELECT\nCONNECTION SETTING.\n\n![image](/image/placeholder)\nSETTING COMPLETE\nPLEASE SELECT CREATED SETTING\nFROM \"SELECT CONNECTION SETTING\"\nSELECT\nSKIP\n\n16 Upload pictures to the FTP server (□□ 288).\n\n8\n\n284",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:22px'>Network/USB<br>Setting<br>Menus</header>",
+                "markdown": "Network/USB\nSetting\nMenus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0177,
+                    "y": 0.4297
+                },
+                {
+                    "x": 0.0415,
+                    "y": 0.4297
+                },
+                {
+                    "x": 0.0415,
+                    "y": 0.6374
+                },
+                {
+                    "x": 0.0177,
+                    "y": 0.6374
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='1' data-category='paragraph' style='font-size:18px'>14 Select OK to test the connection.<br>When a prompt is displayed stating<br>that the test was successful, press<br>MENU/OK.</p>",
+                "markdown": "14 Select OK to test the connection.\nWhen a prompt is displayed stating\nthat the test was successful, press\nMENU/OK.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0837,
+                    "y": 0.0722
+                },
+                {
+                    "x": 0.603,
+                    "y": 0.0722
+                },
+                {
+                    "x": 0.603,
+                    "y": 0.1711
+                },
+                {
+                    "x": 0.0837,
+                    "y": 0.1711
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='2' style='font-size:16px'>If the test ends in failure, check the<br>communication setting profile and<br>network settings.</h1>",
+                "markdown": "# If the test ends in failure, check the\ncommunication setting profile and\nnetwork settings.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1551,
+                    "y": 0.1885
+                },
+                {
+                    "x": 0.5976,
+                    "y": 0.1885
+                },
+                {
+                    "x": 0.5976,
+                    "y": 0.2553
+                },
+                {
+                    "x": 0.1551,
+                    "y": 0.2553
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "figure",
+            "content": {
+                "html": "<br><figure id='3'><img style='font-size:14px' alt=\"TEST THE CONNECTION?\nOK\nNO\" data-coord=\"top-left:(1696,270); bottom-right:(2463,853)\" /></figure>",
+                "markdown": "![image](/image/placeholder)\nTEST THE CONNECTION?\nOK\nNO",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6138,
+                    "y": 0.0693
+                },
+                {
+                    "x": 0.8914,
+                    "y": 0.0693
+                },
+                {
+                    "x": 0.8914,
+                    "y": 0.219
+                },
+                {
+                    "x": 0.6138,
+                    "y": 0.219
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='4' data-category='paragraph' style='font-size:18px'>15 Choose SELECT to finish creating the<br>connection setting profile.</p>",
+                "markdown": "15 Choose SELECT to finish creating the\nconnection setting profile.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0834,
+                    "y": 0.2755
+                },
+                {
+                    "x": 0.6008,
+                    "y": 0.2755
+                },
+                {
+                    "x": 0.6008,
+                    "y": 0.3268
+                },
+                {
+                    "x": 0.0834,
+                    "y": 0.3268
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='5' data-category='paragraph' style='font-size:16px'>The connection setting profile can<br>also be selected later using SELECT<br>CONNECTION SETTING.</p>",
+                "markdown": "The connection setting profile can\nalso be selected later using SELECT\nCONNECTION SETTING.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1601,
+                    "y": 0.3408
+                },
+                {
+                    "x": 0.5983,
+                    "y": 0.3408
+                },
+                {
+                    "x": 0.5983,
+                    "y": 0.4085
+                },
+                {
+                    "x": 0.1601,
+                    "y": 0.4085
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "figure",
+            "content": {
+                "html": "<br><figure id='6'><img style='font-size:14px' alt=\"SETTING COMPLETE\nPLEASE SELECT CREATED SETTING\nFROM 'SELECT CONNECTION SETTING'\nSELECT\nSKIP\" data-coord=\"top-left:(1700,1074); bottom-right:(2463,1641)\" /></figure>",
+                "markdown": "![image](/image/placeholder)\nSETTING COMPLETE\nPLEASE SELECT CREATED SETTING\nFROM \"SELECT CONNECTION SETTING\"\nSELECT\nSKIP",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6154,
+                    "y": 0.2756
+                },
+                {
+                    "x": 0.8913,
+                    "y": 0.2756
+                },
+                {
+                    "x": 0.8913,
+                    "y": 0.4212
+                },
+                {
+                    "x": 0.6154,
+                    "y": 0.4212
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='7' data-category='paragraph' style='font-size:18px'>16 Upload pictures to the FTP server (□□ 288).</p>",
+                "markdown": "16 Upload pictures to the FTP server (□□ 288).",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0819,
+                    "y": 0.4342
+                },
+                {
+                    "x": 0.6688,
+                    "y": 0.4342
+                },
+                {
+                    "x": 0.6688,
+                    "y": 0.4596
+                },
+                {
+                    "x": 0.0819,
+                    "y": 0.4596
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='8' data-category='paragraph' style='font-size:14px'>8</p>",
+                "markdown": "8",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0284,
+                    "y": 0.6598
+                },
+                {
+                    "x": 0.0417,
+                    "y": 0.6598
+                },
+                {
+                    "x": 0.0417,
+                    "y": 0.6742
+                },
+                {
+                    "x": 0.0284,
+                    "y": 0.6742
+                }
+            ],
+            "id": 8,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='9' style='font-size:20px'>284</footer>",
+                "markdown": "284",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0823,
+                    "y": 0.956
+                },
+                {
+                    "x": 0.1408,
+                    "y": 0.956
+                },
+                {
+                    "x": 0.1408,
+                    "y": 0.9797
+                },
+                {
+                    "x": 0.0823,
+                    "y": 0.9797
+                }
+            ],
+            "id": 9,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

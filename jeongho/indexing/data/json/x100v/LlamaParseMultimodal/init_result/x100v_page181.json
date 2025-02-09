@@ -1,0 +1,76 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "# Movie Setting\n\n## F-Log Recording\n\nSelect **ON** to record movies using a soft gamma curve with a wide gamut suitable for further processing post-production. Sensitivity is restricted to values between ISO 640 and 12800.\n\n**Options:**\n\n- ON\n- OFF\n\n## Peripheral Light Correction\n\nSelect **ON** to enable peripheral illumination correction during movie recording.\n\n**Options:**\n\n- ON\n- OFF\n\n> 💡 **Note:** Select **OFF** if you notice banding in movies recorded using this option.\n\n## Focus Area\n\nChoose the focus area for movies shot using autofocus. You can also choose the focus area (and consequently also the focus zoom position) for movies shot using manual focus.",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "Movie Setting",
+                    "md": "# Movie Setting"
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "F-Log Recording",
+                    "md": "## F-Log Recording"
+                },
+                {
+                    "type": "text",
+                    "value": "Select **ON** to record movies using a soft gamma curve with a wide gamut suitable for further processing post-production. Sensitivity is restricted to values between ISO 640 and 12800.\n\n**Options:**\n\n- ON\n- OFF",
+                    "md": "Select **ON** to record movies using a soft gamma curve with a wide gamut suitable for further processing post-production. Sensitivity is restricted to values between ISO 640 and 12800.\n\n**Options:**\n\n- ON\n- OFF"
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "Peripheral Light Correction",
+                    "md": "## Peripheral Light Correction"
+                },
+                {
+                    "type": "text",
+                    "value": "Select **ON** to enable peripheral illumination correction during movie recording.\n\n**Options:**\n\n- ON\n- OFF\n\n> 💡 **Note:** Select **OFF** if you notice banding in movies recorded using this option.",
+                    "md": "Select **ON** to enable peripheral illumination correction during movie recording.\n\n**Options:**\n\n- ON\n- OFF\n\n> 💡 **Note:** Select **OFF** if you notice banding in movies recorded using this option."
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "Focus Area",
+                    "md": "## Focus Area"
+                },
+                {
+                    "type": "text",
+                    "value": "Choose the focus area for movies shot using autofocus. You can also choose the focus area (and consequently also the focus zoom position) for movies shot using manual focus.",
+                    "md": "Choose the focus area for movies shot using autofocus. You can also choose the focus area (and consequently also the focus zoom position) for movies shot using manual focus."
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 532.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "2b8c996a-863e-497c-984a-2fe3cb1c92f9",
+    "file_path": "../data/raw_data/x100v/x100v_split/x100v_page181.pdf"
+}

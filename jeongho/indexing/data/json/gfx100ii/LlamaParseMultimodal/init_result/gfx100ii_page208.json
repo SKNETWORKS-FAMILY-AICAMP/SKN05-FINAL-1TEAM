@@ -1,0 +1,76 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "# SELF-TIMER\n\nChoose the delay between the shutter button being pressed all the way down and the start of recording.\n\n- The display shows the number of seconds remaining before recording begins.\n- To stop the timer before recording begins, press **DISP/BACK**.\n\n!Self-Timer Display\n\n| Options |        |\n|---------|--------|\n| 3 SEC   |        |\n| 5 SEC   |        |\n| 10 SEC  |        |\n| OFF     |        |",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "SELF-TIMER",
+                    "md": "# SELF-TIMER"
+                },
+                {
+                    "type": "text",
+                    "value": "Choose the delay between the shutter button being pressed all the way down and the start of recording.\n\n- The display shows the number of seconds remaining before recording begins.\n- To stop the timer before recording begins, press **DISP/BACK**.\n\n!Self-Timer Display",
+                    "md": "Choose the delay between the shutter button being pressed all the way down and the start of recording.\n\n- The display shows the number of seconds remaining before recording begins.\n- To stop the timer before recording begins, press **DISP/BACK**.\n\n!Self-Timer Display"
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Options",
+                            ""
+                        ],
+                        [
+                            "3 SEC",
+                            ""
+                        ],
+                        [
+                            "5 SEC",
+                            ""
+                        ],
+                        [
+                            "10 SEC",
+                            ""
+                        ],
+                        [
+                            "OFF",
+                            ""
+                        ]
+                    ],
+                    "md": "| Options |        |\n|---------|--------|\n| 3 SEC   |        |\n| 5 SEC   |        |\n| 10 SEC  |        |\n| OFF     |        |",
+                    "isPerfectTable": true,
+                    "csv": "\"Options\",\"\"\n\"3 SEC\",\"\"\n\"5 SEC\",\"\"\n\"10 SEC\",\"\"\n\"OFF\",\"\""
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 467.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "f3457a4d-996d-48ef-bcbf-6222eecb3a86",
+    "file_path": "../data/raw_data/gfx100ii/gfx100ii_split/gfx100ii_page208.pdf"
+}

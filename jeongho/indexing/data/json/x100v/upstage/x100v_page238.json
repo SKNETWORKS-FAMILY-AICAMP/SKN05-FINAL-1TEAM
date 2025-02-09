@@ -1,0 +1,322 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<h1 id='0' style='font-size:18px'>PC AUTO SAVE</h1>\n<br><h1 id='1' style='font-size:20px'>Adjust settings for connection to computers via wireless LAN.</h1>\n<table id='2' style='font-size:14px'><tr><td>Option</td><td>Description</td></tr><tr><td>PC AUTO SAVE SETTING</td><td>Choose the method used for connection to computers via a wireless LAN. ● SIMPLE SETUP: Connect using WPS. ● MANUAL SETUP: Choose the network from a list (SELECT FROM NETWORK LIST) or enter the name manually (ENTER SSID).</td></tr><tr><td>DELETE REGISTERED DESTINATION PC</td><td>Remove selected destinations.</td></tr><tr><td>DETAILS OF PREVIOUS CONNECTION</td><td>View computers to which the camera has recently connected.</td></tr></table>\n<p id='3' data-category='paragraph' style='font-size:18px'>instax PRINTER CONNECTION SETTING</p>\n<br><p id='4' data-category='paragraph' style='font-size:22px'>Adjust settings for connection to optional Fujifilm instax SHARE<br>printers.</p>\n<p id='5' data-category='paragraph' style='font-size:16px'>The Printer Name (SSID) and Password</p>\n<br><p id='6' data-category='paragraph' style='font-size:16px'>The printer name (SSID) can be found on the<br>bottom of the printer; the default password is<br>\"111 1 \". If you have already chosen a different<br>password to print from a smartphone, enter<br>that password instead.</p>\n<br><header id='7' style='font-size:22px'>The<br>Setup<br>Menus</header>\n<header id='8' style='font-size:14px'>8</header>\n<br><figure id='9'><img style='font-size:18px' alt=\"XXXXXXXXXXXXXXXXX\nvvvvvvvvvvv\nSSID:INSTAX-12345678\" data-coord=\"top-left:(1764,2048); bottom-right:(2488,2695)\" /></figure>\n<footer id='10' style='font-size:20px'>238</footer>",
+        "markdown": "# PC AUTO SAVE\n\n# Adjust settings for connection to computers via wireless LAN.\n\n| Option | Description |\n| --- | --- |\n| PC AUTO SAVE SETTING | Choose the method used for connection to computers via a wireless LAN. ● SIMPLE SETUP: Connect using WPS. ● MANUAL SETUP: Choose the network from a list (SELECT FROM NETWORK LIST) or enter the name manually (ENTER SSID). |\n| DELETE REGISTERED DESTINATION PC | Remove selected destinations. |\n| DETAILS OF PREVIOUS CONNECTION | View computers to which the camera has recently connected. |\n\n\ninstax PRINTER CONNECTION SETTING\n\nAdjust settings for connection to optional Fujifilm instax SHARE\nprinters.\n\nThe Printer Name (SSID) and Password\n\nThe printer name (SSID) can be found on the\nbottom of the printer; the default password is\n\"111 1 \". If you have already chosen a different\npassword to print from a smartphone, enter\nthat password instead.\n\nThe\nSetup\nMenus\n\n8\n\n![image](/image/placeholder)\nXXXXXXXXXXXXXXXXX\nvvvvvvvvvvv\nSSID:INSTAX-12345678\n\n238",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='0' style='font-size:18px'>PC AUTO SAVE</h1>",
+                "markdown": "# PC AUTO SAVE",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0824,
+                    "y": 0.0727
+                },
+                {
+                    "x": 0.2836,
+                    "y": 0.0727
+                },
+                {
+                    "x": 0.2836,
+                    "y": 0.0948
+                },
+                {
+                    "x": 0.0824,
+                    "y": 0.0948
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='1' style='font-size:20px'>Adjust settings for connection to computers via wireless LAN.</h1>",
+                "markdown": "# Adjust settings for connection to computers via wireless LAN.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0808,
+                    "y": 0.105
+                },
+                {
+                    "x": 0.8558,
+                    "y": 0.105
+                },
+                {
+                    "x": 0.8558,
+                    "y": 0.1284
+                },
+                {
+                    "x": 0.0808,
+                    "y": 0.1284
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='2' style='font-size:14px'><tr><td>Option</td><td>Description</td></tr><tr><td>PC AUTO SAVE SETTING</td><td>Choose the method used for connection to computers via a wireless LAN. ● SIMPLE SETUP: Connect using WPS. ● MANUAL SETUP: Choose the network from a list (SELECT FROM NETWORK LIST) or enter the name manually (ENTER SSID).</td></tr><tr><td>DELETE REGISTERED DESTINATION PC</td><td>Remove selected destinations.</td></tr><tr><td>DETAILS OF PREVIOUS CONNECTION</td><td>View computers to which the camera has recently connected.</td></tr></table>",
+                "markdown": "| Option | Description |\n| --- | --- |\n| PC AUTO SAVE SETTING | Choose the method used for connection to computers via a wireless LAN. ● SIMPLE SETUP: Connect using WPS. ● MANUAL SETUP: Choose the network from a list (SELECT FROM NETWORK LIST) or enter the name manually (ENTER SSID). |\n| DELETE REGISTERED DESTINATION PC | Remove selected destinations. |\n| DETAILS OF PREVIOUS CONNECTION | View computers to which the camera has recently connected. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0831,
+                    "y": 0.1412
+                },
+                {
+                    "x": 0.8953,
+                    "y": 0.1412
+                },
+                {
+                    "x": 0.8953,
+                    "y": 0.4021
+                },
+                {
+                    "x": 0.0831,
+                    "y": 0.4021
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='3' data-category='paragraph' style='font-size:18px'>instax PRINTER CONNECTION SETTING</p>",
+                "markdown": "instax PRINTER CONNECTION SETTING",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0807,
+                    "y": 0.4181
+                },
+                {
+                    "x": 0.6026,
+                    "y": 0.4181
+                },
+                {
+                    "x": 0.6026,
+                    "y": 0.4409
+                },
+                {
+                    "x": 0.0807,
+                    "y": 0.4409
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='4' data-category='paragraph' style='font-size:22px'>Adjust settings for connection to optional Fujifilm instax SHARE<br>printers.</p>",
+                "markdown": "Adjust settings for connection to optional Fujifilm instax SHARE\nprinters.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0808,
+                    "y": 0.4494
+                },
+                {
+                    "x": 0.8917,
+                    "y": 0.4494
+                },
+                {
+                    "x": 0.8917,
+                    "y": 0.4976
+                },
+                {
+                    "x": 0.0808,
+                    "y": 0.4976
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='5' data-category='paragraph' style='font-size:16px'>The Printer Name (SSID) and Password</p>",
+                "markdown": "The Printer Name (SSID) and Password",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0776,
+                    "y": 0.5133
+                },
+                {
+                    "x": 0.4492,
+                    "y": 0.5133
+                },
+                {
+                    "x": 0.4492,
+                    "y": 0.5348
+                },
+                {
+                    "x": 0.0776,
+                    "y": 0.5348
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='6' data-category='paragraph' style='font-size:16px'>The printer name (SSID) can be found on the<br>bottom of the printer; the default password is<br>\"111 1 \". If you have already chosen a different<br>password to print from a smartphone, enter<br>that password instead.</p>",
+                "markdown": "The printer name (SSID) can be found on the\nbottom of the printer; the default password is\n\"111 1 \". If you have already chosen a different\npassword to print from a smartphone, enter\nthat password instead.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0824,
+                    "y": 0.5381
+                },
+                {
+                    "x": 0.6025,
+                    "y": 0.5381
+                },
+                {
+                    "x": 0.6025,
+                    "y": 0.6501
+                },
+                {
+                    "x": 0.0824,
+                    "y": 0.6501
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "header",
+            "content": {
+                "html": "<br><header id='7' style='font-size:22px'>The<br>Setup<br>Menus</header>",
+                "markdown": "The\nSetup\nMenus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0181,
+                    "y": 0.5085
+                },
+                {
+                    "x": 0.0402,
+                    "y": 0.5085
+                },
+                {
+                    "x": 0.0402,
+                    "y": 0.6384
+                },
+                {
+                    "x": 0.0181,
+                    "y": 0.6384
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='8' style='font-size:14px'>8</header>",
+                "markdown": "8",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0258,
+                    "y": 0.6573
+                },
+                {
+                    "x": 0.0437,
+                    "y": 0.6573
+                },
+                {
+                    "x": 0.0437,
+                    "y": 0.6777
+                },
+                {
+                    "x": 0.0258,
+                    "y": 0.6777
+                }
+            ],
+            "id": 8,
+            "page": 1
+        },
+        {
+            "category": "figure",
+            "content": {
+                "html": "<br><figure id='9'><img style='font-size:18px' alt=\"XXXXXXXXXXXXXXXXX\nvvvvvvvvvvv\nSSID:INSTAX-12345678\" data-coord=\"top-left:(1764,2048); bottom-right:(2488,2695)\" /></figure>",
+                "markdown": "![image](/image/placeholder)\nXXXXXXXXXXXXXXXXX\nvvvvvvvvvvv\nSSID:INSTAX-12345678",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6385,
+                    "y": 0.5256
+                },
+                {
+                    "x": 0.9004,
+                    "y": 0.5256
+                },
+                {
+                    "x": 0.9004,
+                    "y": 0.6914
+                },
+                {
+                    "x": 0.6385,
+                    "y": 0.6914
+                }
+            ],
+            "id": 9,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='10' style='font-size:20px'>238</footer>",
+                "markdown": "238",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0829,
+                    "y": 0.9563
+                },
+                {
+                    "x": 0.1398,
+                    "y": 0.9563
+                },
+                {
+                    "x": 0.1398,
+                    "y": 0.9794
+                },
+                {
+                    "x": 0.0829,
+                    "y": 0.9794
+                }
+            ],
+            "id": 10,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

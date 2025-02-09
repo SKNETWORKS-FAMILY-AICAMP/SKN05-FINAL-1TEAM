@@ -1,0 +1,13 @@
+{
+    "parsing_result": "# FACE/EYE DETECTION SETTING\n\nIntelligent Face Detection sets focus and exposure for human faces anywhere in the frame, preventing the camera from focusing on the background in group portraits. Choose for shots that emphasize portrait subjects. You can also choose whether the camera detects and focuses on either the left or right eye when Intelligent Face Detection is on.\n\n!Face Detection Example\n\n| Option              | Description                                                                                                                                   |\n|---------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|\n| **FACE DETECTION ON** | Adjust settings for Intelligent Face Detection. You can also adjust eye detection settings. <br> • !Eye Off Icon **EYE OFF**: Intelligent Face Detection only. <br> • !Eye Auto Icon **EYE AUTO**: The camera automatically chooses which eye to focus on when a face is detected. <br> • !Right Eye Priority Icon **RIGHT EYE PRIORITY**: The camera focuses on the right eye of subjects detected using Intelligent Face Detection. <br> • !Left Eye Priority Icon **LEFT EYE PRIORITY**: The camera focuses on the left eye of subjects detected using Intelligent Face Detection. |\n| **OFF**             | Intelligent Face Detection and eye priority off.                                                                                              |\n\n> 💡 **Note:**\n> - If the subject moves as the shutter button is pressed, the face may not be in the area indicated by the green border when the picture is taken.\n> - In some modes, the camera may set exposure for the frame as a whole rather than the portrait subject.",
+    "embedding_result": [],
+    "metadata": {
+        "page": 128,
+        "model": "x100v",
+        "subsection": [
+            "FACE/EYE DETECTION SETTING"
+        ],
+        "chapter": "The Shooting Menus",
+        "section": "AF/MF SETTING"
+    }
+}

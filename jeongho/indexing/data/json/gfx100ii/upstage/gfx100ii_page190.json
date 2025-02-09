@@ -1,0 +1,322 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<h1 id='0' style='font-size:18px'>WAVEFORM/VECTORSCOPE</h1>\n\n<br><table id='2' style='font-size:16px'><tr><td rowspan=\"2\" colspan=\"4\">Options</td></tr><tr></tr><tr><td>WAVEFORM</td><td>PARADE</td><td>VECTORSCOPE</td><td>OFF</td></tr><br><caption id='1' style='font-size:20px'>Choose whether to display chrominance and luminance signals<br>during movie recording. The position and size can be changed<br>using the focus stick (focus lever) and command dials.</caption></table>\n<p id='3' data-category='paragraph' style='font-size:16px'>WAVEFORM</p>\n<br><h1 id='4' style='font-size:18px'>A waveform is displayed.</h1>\n<br><figure id='5' data-category='chart'><img style='font-size:14px' alt=\"WAVEFORM SETTING \nOK SET SWITCH DISP. \n\" data-coord=\"top-left:(1687,1157); bottom-right:(2458,1745)\" /></figure>\n<p id='6' data-category='paragraph' style='font-size:16px'>PARADE</p>\n<br><p id='7' data-category='paragraph' style='font-size:20px'>An RGB parade is displayed. You can<br>change the display method for colors by<br>turning the front command dial.</p>\n<br><figure id='8' data-category='chart'><img style='font-size:14px' alt=\"PARADE SETTING \nOK SET COLOR SWITCH DISP. \n\" data-coord=\"top-left:(1689,1936); bottom-right:(2457,2508)\" /></figure>\n<br><header id='9' style='font-size:22px'>The<br>Shooting<br>Menus</header>\n<footer id='10' style='font-size:20px'>190</footer>",
+        "markdown": "# WAVEFORM/VECTORSCOPE\n\nChoose whether to display chrominance and luminance signals\nduring movie recording. The position and size can be changed\nusing the focus stick (focus lever) and command dials.\n\n| Options | Options | Options | Options |\n| --- | --- | --- | --- |\n| Options | Options | Options | Options |\n| WAVEFORM | PARADE | VECTORSCOPE | OFF |\n\n\nWAVEFORM\n\n# A waveform is displayed.\n\n![image](/image/placeholder)\nWAVEFORM SETTING \nOK SET SWITCH DISP. \n\n\nPARADE\n\nAn RGB parade is displayed. You can\nchange the display method for colors by\nturning the front command dial.\n\n![image](/image/placeholder)\nPARADE SETTING \nOK SET COLOR SWITCH DISP. \n\n\nThe\nShooting\nMenus\n\n190",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='0' style='font-size:18px'>WAVEFORM/VECTORSCOPE</h1>",
+                "markdown": "# WAVEFORM/VECTORSCOPE",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0817,
+                    "y": 0.0727
+                },
+                {
+                    "x": 0.4571,
+                    "y": 0.0727
+                },
+                {
+                    "x": 0.4571,
+                    "y": 0.095
+                },
+                {
+                    "x": 0.0817,
+                    "y": 0.095
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='1' data-category='paragraph' style='font-size:20px'>Choose whether to display chrominance and luminance signals<br>during movie recording. The position and size can be changed<br>using the focus stick (focus lever) and command dials.</p>",
+                "markdown": "Choose whether to display chrominance and luminance signals\nduring movie recording. The position and size can be changed\nusing the focus stick (focus lever) and command dials.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0803,
+                    "y": 0.1043
+                },
+                {
+                    "x": 0.8946,
+                    "y": 0.1043
+                },
+                {
+                    "x": 0.8946,
+                    "y": 0.1807
+                },
+                {
+                    "x": 0.0803,
+                    "y": 0.1807
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='2' style='font-size:16px'><tr><td rowspan=\"2\" colspan=\"4\">Options</td></tr><tr></tr><tr><td>WAVEFORM</td><td>PARADE</td><td>VECTORSCOPE</td><td>OFF</td></tr></table>",
+                "markdown": "| Options | Options | Options | Options |\n| --- | --- | --- | --- |\n| Options | Options | Options | Options |\n| WAVEFORM | PARADE | VECTORSCOPE | OFF |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0841,
+                    "y": 0.1937
+                },
+                {
+                    "x": 0.89,
+                    "y": 0.1937
+                },
+                {
+                    "x": 0.89,
+                    "y": 0.2496
+                },
+                {
+                    "x": 0.0841,
+                    "y": 0.2496
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='3' data-category='paragraph' style='font-size:16px'>WAVEFORM</p>",
+                "markdown": "WAVEFORM",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0944,
+                    "y": 0.2668
+                },
+                {
+                    "x": 0.2504,
+                    "y": 0.2668
+                },
+                {
+                    "x": 0.2504,
+                    "y": 0.2901
+                },
+                {
+                    "x": 0.0944,
+                    "y": 0.2901
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='4' style='font-size:18px'>A waveform is displayed.</h1>",
+                "markdown": "# A waveform is displayed.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0807,
+                    "y": 0.2978
+                },
+                {
+                    "x": 0.4009,
+                    "y": 0.2978
+                },
+                {
+                    "x": 0.4009,
+                    "y": 0.3235
+                },
+                {
+                    "x": 0.0807,
+                    "y": 0.3235
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "figure",
+            "content": {
+                "html": "<br><figure id='5' data-category='chart'><img style='font-size:14px' alt=\"WAVEFORM SETTING \nOK SET SWITCH DISP. \n\" data-coord=\"top-left:(1687,1157); bottom-right:(2458,1745)\" /></figure>",
+                "markdown": "![image](/image/placeholder)\nWAVEFORM SETTING \nOK SET SWITCH DISP. \n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6107,
+                    "y": 0.297
+                },
+                {
+                    "x": 0.8893,
+                    "y": 0.297
+                },
+                {
+                    "x": 0.8893,
+                    "y": 0.4478
+                },
+                {
+                    "x": 0.6107,
+                    "y": 0.4478
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='6' data-category='paragraph' style='font-size:16px'>PARADE</p>",
+                "markdown": "PARADE",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0958,
+                    "y": 0.4635
+                },
+                {
+                    "x": 0.2049,
+                    "y": 0.4635
+                },
+                {
+                    "x": 0.2049,
+                    "y": 0.4874
+                },
+                {
+                    "x": 0.0958,
+                    "y": 0.4874
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='7' data-category='paragraph' style='font-size:20px'>An RGB parade is displayed. You can<br>change the display method for colors by<br>turning the front command dial.</p>",
+                "markdown": "An RGB parade is displayed. You can\nchange the display method for colors by\nturning the front command dial.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0815,
+                    "y": 0.4937
+                },
+                {
+                    "x": 0.6023,
+                    "y": 0.4937
+                },
+                {
+                    "x": 0.6023,
+                    "y": 0.5712
+                },
+                {
+                    "x": 0.0815,
+                    "y": 0.5712
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "figure",
+            "content": {
+                "html": "<br><figure id='8' data-category='chart'><img style='font-size:14px' alt=\"PARADE SETTING \nOK SET COLOR SWITCH DISP. \n\" data-coord=\"top-left:(1689,1936); bottom-right:(2457,2508)\" /></figure>",
+                "markdown": "![image](/image/placeholder)\nPARADE SETTING \nOK SET COLOR SWITCH DISP. \n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6111,
+                    "y": 0.4967
+                },
+                {
+                    "x": 0.8892,
+                    "y": 0.4967
+                },
+                {
+                    "x": 0.8892,
+                    "y": 0.6436
+                },
+                {
+                    "x": 0.6111,
+                    "y": 0.6436
+                }
+            ],
+            "id": 8,
+            "page": 1
+        },
+        {
+            "category": "header",
+            "content": {
+                "html": "<br><header id='9' style='font-size:22px'>The<br>Shooting<br>Menus</header>",
+                "markdown": "The\nShooting\nMenus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0154,
+                    "y": 0.5778
+                },
+                {
+                    "x": 0.0427,
+                    "y": 0.5778
+                },
+                {
+                    "x": 0.0427,
+                    "y": 0.7313
+                },
+                {
+                    "x": 0.0154,
+                    "y": 0.7313
+                }
+            ],
+            "id": 9,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='10' style='font-size:20px'>190</footer>",
+                "markdown": "190",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0847,
+                    "y": 0.9564
+                },
+                {
+                    "x": 0.1406,
+                    "y": 0.9564
+                },
+                {
+                    "x": 0.1406,
+                    "y": 0.9795
+                },
+                {
+                    "x": 0.0847,
+                    "y": 0.9795
+                }
+            ],
+            "id": 10,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

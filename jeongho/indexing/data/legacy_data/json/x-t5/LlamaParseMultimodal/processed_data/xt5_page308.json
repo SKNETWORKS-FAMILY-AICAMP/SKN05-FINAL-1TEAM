@@ -1,0 +1,14 @@
+{
+    "parsing_result": "# Save Data Setting\n\nMake changes to file management settings.\n\nTo access file management settings, press **MENU/OK**, select the !SET UP Icon (SET UP) tab, and choose **SAVE DATA SET-UP**.\n\n!Save Data Setting Menu\n\n## Frame No.\n\nNew pictures are stored in image files named using a four-digit file number assigned by adding one to the last file number used. The file number is displayed during playback as shown. **FRAME NO.** controls whether file numbering is reset to 0001 when a new memory card is inserted or the current memory card is formatted.\n\n!Frame Number Display  \n*Frame number display with directory and file number.*\n\n### Options\n\n| Option      | Description                                                                                                                                   |\n|-------------|-----------------------------------------------------------------------------------------------------------------------------------------------|\n| CONTINUOUS  | Numbering continues from the last file number used or the first available file number, whichever is higher. Choose this option to reduce the number of pictures with duplicate file names. |\n| RENEW       | Numbering is reset to 0001 after formatting or when a new memory card is inserted.                                                            |\n\n- If the frame number reaches 999-9999, the shutter release will be disabled. Turn the camera off and insert a formatted memory card before resuming shooting.\n- Selecting !USER SETTING Icon **USER SETTING > RESET** sets **FRAME NO.** to **CONTINUOUS** but does not reset the file number.\n- Frame numbers for pictures taken with other cameras may differ.",
+    "metadata": {
+        "page": 308,
+        "model": "x-t5",
+        "chapter": "The Setup Menus",
+        "section": "SAVE DATA SETTING",
+        "subsection": [
+            "FRAME NO."
+        ],
+        "embedding_model": "text-embedding-3-small",
+        "token": 303
+    }
+}

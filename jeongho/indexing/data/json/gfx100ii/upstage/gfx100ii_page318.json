@@ -1,0 +1,182 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<h1 id='0' style='font-size:16px'>SELECT CONNECTION SETTING</h1>\n<br><h1 id='1' style='font-size:18px'>Select a connection setting profile.</h1>\n<br><table id='2' style='font-size:14px'><tr><td>Profile</td><td>Description</td></tr><tr><td>1: UNIVERSAL SETTING</td><td>Connect using the smartphone app or print pictures on instax printers.</td></tr><tr><td>2: USB CARD READER</td><td>Connect a card reader to a computer or smartphone via USB and copy pictures from memory cards.</td></tr><tr><td>3: USB TETHER SHOOTING AUTO</td><td>Control the camera and take photographs remotely. ● Select 3: USB TETHER SHOOTING AUTO to au-</td></tr><tr><td>4: USB TETHER SHOOTING FIXED</td><td>tomatically enable tethered photography when the computer to which the camera is connected is turned on. Tethered photography is disabled while the com- puter is off. If 4: USB TETHER SHOOTING FIXED is selected, the camera will continue to function in tethered pho- tography mode even when not connected to a com- puter.</td></tr><tr><td>5: USB RAW CONV./ BACKUP RESTORE</td><td>Harness the power of the camera's image processing en- gine when processing RAW pictures on a computer, or save or load camera settings.</td></tr><tr><td>6: USB WEBCAM</td><td>Connect the camera to a computer via USB for use as a webcam.</td></tr><tr><td>7-16: User-created profiles</td><td>Use network/USB settings saved using CREATE/EDIT CONNECTION SETTING.</td></tr></table>\n<br><header id='3' style='font-size:14px'>8</header>\n<br><header id='4' style='font-size:22px'>Network/USB<br>Setting<br>Menus</header>\n<footer id='5' style='font-size:20px'>318</footer>",
+        "markdown": "# SELECT CONNECTION SETTING\n\n# Select a connection setting profile.\n\n| Profile | Description |\n| --- | --- |\n| 1: UNIVERSAL SETTING | Connect using the smartphone app or print pictures on instax printers. |\n| 2: USB CARD READER | Connect a card reader to a computer or smartphone via USB and copy pictures from memory cards. |\n| 3: USB TETHER SHOOTING AUTO | Control the camera and take photographs remotely. ● Select 3: USB TETHER SHOOTING AUTO to au- |\n| 4: USB TETHER SHOOTING FIXED | tomatically enable tethered photography when the computer to which the camera is connected is turned on. Tethered photography is disabled while the com- puter is off. If 4: USB TETHER SHOOTING FIXED is selected, the camera will continue to function in tethered pho- tography mode even when not connected to a com- puter. |\n| 5: USB RAW CONV./ BACKUP RESTORE | Harness the power of the camera's image processing en- gine when processing RAW pictures on a computer, or save or load camera settings. |\n| 6: USB WEBCAM | Connect the camera to a computer via USB for use as a webcam. |\n| 7-16: User-created profiles | Use network/USB settings saved using CREATE/EDIT CONNECTION SETTING. |\n\n\n8\n\nNetwork/USB\nSetting\nMenus\n\n318",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='0' style='font-size:16px'>SELECT CONNECTION SETTING</h1>",
+                "markdown": "# SELECT CONNECTION SETTING",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0817,
+                    "y": 0.0735
+                },
+                {
+                    "x": 0.5005,
+                    "y": 0.0735
+                },
+                {
+                    "x": 0.5005,
+                    "y": 0.0952
+                },
+                {
+                    "x": 0.0817,
+                    "y": 0.0952
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='1' style='font-size:18px'>Select a connection setting profile.</h1>",
+                "markdown": "# Select a connection setting profile.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.082,
+                    "y": 0.1048
+                },
+                {
+                    "x": 0.5219,
+                    "y": 0.1048
+                },
+                {
+                    "x": 0.5219,
+                    "y": 0.1284
+                },
+                {
+                    "x": 0.082,
+                    "y": 0.1284
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='2' style='font-size:14px'><tr><td>Profile</td><td>Description</td></tr><tr><td>1: UNIVERSAL SETTING</td><td>Connect using the smartphone app or print pictures on instax printers.</td></tr><tr><td>2: USB CARD READER</td><td>Connect a card reader to a computer or smartphone via USB and copy pictures from memory cards.</td></tr><tr><td>3: USB TETHER SHOOTING AUTO</td><td>Control the camera and take photographs remotely. ● Select 3: USB TETHER SHOOTING AUTO to au-</td></tr><tr><td>4: USB TETHER SHOOTING FIXED</td><td>tomatically enable tethered photography when the computer to which the camera is connected is turned on. Tethered photography is disabled while the com- puter is off. If 4: USB TETHER SHOOTING FIXED is selected, the camera will continue to function in tethered pho- tography mode even when not connected to a com- puter.</td></tr><tr><td>5: USB RAW CONV./ BACKUP RESTORE</td><td>Harness the power of the camera's image processing en- gine when processing RAW pictures on a computer, or save or load camera settings.</td></tr><tr><td>6: USB WEBCAM</td><td>Connect the camera to a computer via USB for use as a webcam.</td></tr><tr><td>7-16: User-created profiles</td><td>Use network/USB settings saved using CREATE/EDIT CONNECTION SETTING.</td></tr></table>",
+                "markdown": "| Profile | Description |\n| --- | --- |\n| 1: UNIVERSAL SETTING | Connect using the smartphone app or print pictures on instax printers. |\n| 2: USB CARD READER | Connect a card reader to a computer or smartphone via USB and copy pictures from memory cards. |\n| 3: USB TETHER SHOOTING AUTO | Control the camera and take photographs remotely. ● Select 3: USB TETHER SHOOTING AUTO to au- |\n| 4: USB TETHER SHOOTING FIXED | tomatically enable tethered photography when the computer to which the camera is connected is turned on. Tethered photography is disabled while the com- puter is off. If 4: USB TETHER SHOOTING FIXED is selected, the camera will continue to function in tethered pho- tography mode even when not connected to a com- puter. |\n| 5: USB RAW CONV./ BACKUP RESTORE | Harness the power of the camera's image processing en- gine when processing RAW pictures on a computer, or save or load camera settings. |\n| 6: USB WEBCAM | Connect the camera to a computer via USB for use as a webcam. |\n| 7-16: User-created profiles | Use network/USB settings saved using CREATE/EDIT CONNECTION SETTING. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0837,
+                    "y": 0.1336
+                },
+                {
+                    "x": 0.8899,
+                    "y": 0.1336
+                },
+                {
+                    "x": 0.8899,
+                    "y": 0.6667
+                },
+                {
+                    "x": 0.0837,
+                    "y": 0.6667
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "header",
+            "content": {
+                "html": "<br><header id='3' style='font-size:14px'>8</header>",
+                "markdown": "8",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0255,
+                    "y": 0.6578
+                },
+                {
+                    "x": 0.0442,
+                    "y": 0.6578
+                },
+                {
+                    "x": 0.0442,
+                    "y": 0.6776
+                },
+                {
+                    "x": 0.0255,
+                    "y": 0.6776
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "header",
+            "content": {
+                "html": "<br><header id='4' style='font-size:22px'>Network/USB<br>Setting<br>Menus</header>",
+                "markdown": "Network/USB\nSetting\nMenus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0173,
+                    "y": 0.429
+                },
+                {
+                    "x": 0.042,
+                    "y": 0.429
+                },
+                {
+                    "x": 0.042,
+                    "y": 0.6452
+                },
+                {
+                    "x": 0.0173,
+                    "y": 0.6452
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='5' style='font-size:20px'>318</footer>",
+                "markdown": "318",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0826,
+                    "y": 0.9558
+                },
+                {
+                    "x": 0.1401,
+                    "y": 0.9558
+                },
+                {
+                    "x": 0.1401,
+                    "y": 0.9799
+                },
+                {
+                    "x": 0.0826,
+                    "y": 0.9799
+                }
+            ],
+            "id": 5,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

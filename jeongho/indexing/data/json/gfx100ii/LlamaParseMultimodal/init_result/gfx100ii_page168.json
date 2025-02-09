@@ -1,0 +1,106 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "# Tone Curve\n\nWith reference to a tone curve, adjust the appearance of highlights or shadows, making them harsher or softer. Choose higher values to make shadows and highlights harsher, lower values to make them softer.\n\n| Option     | Description |\n|------------|-------------|\n| HIGHLIGHTS | -2 to +4    |\n| SHADOWS    | -2 to +4    |\n\n!Tone Curve Settings\n\n# Color\n\nAdjust color density.\n\n**Options:** -4, -3, -2, -1, 0, +1, +2, +3, +4\n\n# Sharpness\n\nSharpen or soften outlines.\n\n**Options:** -4, -3, -2, -1, 0, +1, +2, +3, +4\n\n# High ISO NR\n\nReduce noise in pictures taken at high sensitivities. Choose higher values to reduce noise and smooth outlines, lower values to leave outlines visible.\n\n**Options:** -4, -3, -2, -1, 0, +1, +2, +3, +4",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "Tone Curve",
+                    "md": "# Tone Curve"
+                },
+                {
+                    "type": "text",
+                    "value": "With reference to a tone curve, adjust the appearance of highlights or shadows, making them harsher or softer. Choose higher values to make shadows and highlights harsher, lower values to make them softer.",
+                    "md": "With reference to a tone curve, adjust the appearance of highlights or shadows, making them harsher or softer. Choose higher values to make shadows and highlights harsher, lower values to make them softer."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Option",
+                            "Description"
+                        ],
+                        [
+                            "HIGHLIGHTS",
+                            "-2 to +4"
+                        ],
+                        [
+                            "SHADOWS",
+                            "-2 to +4"
+                        ]
+                    ],
+                    "md": "| Option     | Description |\n|------------|-------------|\n| HIGHLIGHTS | -2 to +4    |\n| SHADOWS    | -2 to +4    |",
+                    "isPerfectTable": true,
+                    "csv": "\"Option\",\"Description\"\n\"HIGHLIGHTS\",\"-2 to +4\"\n\"SHADOWS\",\"-2 to +4\""
+                },
+                {
+                    "type": "text",
+                    "value": "!Tone Curve Settings",
+                    "md": "!Tone Curve Settings"
+                },
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "Color",
+                    "md": "# Color"
+                },
+                {
+                    "type": "text",
+                    "value": "Adjust color density.\n\n**Options:** -4, -3, -2, -1, 0, +1, +2, +3, +4",
+                    "md": "Adjust color density.\n\n**Options:** -4, -3, -2, -1, 0, +1, +2, +3, +4"
+                },
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "Sharpness",
+                    "md": "# Sharpness"
+                },
+                {
+                    "type": "text",
+                    "value": "Sharpen or soften outlines.\n\n**Options:** -4, -3, -2, -1, 0, +1, +2, +3, +4",
+                    "md": "Sharpen or soften outlines.\n\n**Options:** -4, -3, -2, -1, 0, +1, +2, +3, +4"
+                },
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "High ISO NR",
+                    "md": "# High ISO NR"
+                },
+                {
+                    "type": "text",
+                    "value": "Reduce noise in pictures taken at high sensitivities. Choose higher values to reduce noise and smooth outlines, lower values to leave outlines visible.\n\n**Options:** -4, -3, -2, -1, 0, +1, +2, +3, +4",
+                    "md": "Reduce noise in pictures taken at high sensitivities. Choose higher values to reduce noise and smooth outlines, lower values to leave outlines visible.\n\n**Options:** -4, -3, -2, -1, 0, +1, +2, +3, +4"
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 285.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "1a490d7c-1526-48cb-be19-1327d882dd5f",
+    "file_path": "../data/raw_data/gfx100ii/gfx100ii_split/gfx100ii_page168.pdf"
+}

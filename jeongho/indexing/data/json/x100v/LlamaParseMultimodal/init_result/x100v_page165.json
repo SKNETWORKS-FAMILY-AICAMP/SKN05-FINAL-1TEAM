@@ -1,0 +1,81 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "# MULTIPLE EXPOSURE CTRL\n\nChoose how the camera combines shots to create a multiple exposure.\n\n!Multiple Exposure Example\n\n| Option   | Description                                                                                                                                  |\n|----------|----------------------------------------------------------------------------------------------------------------------------------------------|\n| ADDITIVE | The camera adds the exposures together. You may need to lower exposure compensation depending on the number of shots.                        |\n| AVERAGE  | The camera automatically optimizes exposure for the final picture. The background in series shot without changing the composition will be optimally exposed. |\n| BRIGHT   | The camera compares the exposures and chooses only the brightest pixel at each location. Colors may be mixed depending on their brightness and hue. |\n| DARK     | The camera compares the exposures and chooses only the darkest pixel at each location. Colors may be mixed depending on their brightness and hue. |\n\n> 💡 **Note:**  \n> The camera can combine up to nine exposures.",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "MULTIPLE EXPOSURE CTRL",
+                    "md": "# MULTIPLE EXPOSURE CTRL"
+                },
+                {
+                    "type": "text",
+                    "value": "Choose how the camera combines shots to create a multiple exposure.\n\n!Multiple Exposure Example",
+                    "md": "Choose how the camera combines shots to create a multiple exposure.\n\n!Multiple Exposure Example"
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Option",
+                            "Description"
+                        ],
+                        [
+                            "ADDITIVE",
+                            "The camera adds the exposures together. You may need to lower exposure compensation depending on the number of shots."
+                        ],
+                        [
+                            "AVERAGE",
+                            "The camera automatically optimizes exposure for the final picture. The background in series shot without changing the composition will be optimally exposed."
+                        ],
+                        [
+                            "BRIGHT",
+                            "The camera compares the exposures and chooses only the brightest pixel at each location. Colors may be mixed depending on their brightness and hue."
+                        ],
+                        [
+                            "DARK",
+                            "The camera compares the exposures and chooses only the darkest pixel at each location. Colors may be mixed depending on their brightness and hue."
+                        ]
+                    ],
+                    "md": "| Option   | Description                                                                                                                                  |\n|----------|----------------------------------------------------------------------------------------------------------------------------------------------|\n| ADDITIVE | The camera adds the exposures together. You may need to lower exposure compensation depending on the number of shots.                        |\n| AVERAGE  | The camera automatically optimizes exposure for the final picture. The background in series shot without changing the composition will be optimally exposed. |\n| BRIGHT   | The camera compares the exposures and chooses only the brightest pixel at each location. Colors may be mixed depending on their brightness and hue. |\n| DARK     | The camera compares the exposures and chooses only the darkest pixel at each location. Colors may be mixed depending on their brightness and hue. |",
+                    "isPerfectTable": true,
+                    "csv": "\"Option\",\"Description\"\n\"ADDITIVE\",\"The camera adds the exposures together. You may need to lower exposure compensation depending on the number of shots.\"\n\"AVERAGE\",\"The camera automatically optimizes exposure for the final picture. The background in series shot without changing the composition will be optimally exposed.\"\n\"BRIGHT\",\"The camera compares the exposures and chooses only the brightest pixel at each location. Colors may be mixed depending on their brightness and hue.\"\n\"DARK\",\"The camera compares the exposures and chooses only the darkest pixel at each location. Colors may be mixed depending on their brightness and hue.\""
+                },
+                {
+                    "type": "text",
+                    "value": "> 💡 **Note:**  \n> The camera can combine up to nine exposures.",
+                    "md": "> 💡 **Note:**  \n> The camera can combine up to nine exposures."
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 761.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "eee9ca3c-404f-4eb3-9fa2-e2d3a76047f9",
+    "file_path": "../data/raw_data/x100v/x100v_split/x100v_page165.pdf"
+}

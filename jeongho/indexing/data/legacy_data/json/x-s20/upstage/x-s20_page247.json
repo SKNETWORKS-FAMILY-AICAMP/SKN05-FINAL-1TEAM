@@ -1,0 +1,70 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<p id='0' data-category='paragraph' style='font-size:18px'>Network/USB Features and<br>Settings</p>\n<footer id='1' style='font-size:14px'>245</footer>",
+        "markdown": "Network/USB Features and\nSettings\n\n245",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='0' data-category='paragraph' style='font-size:18px'>Network/USB Features and<br>Settings</p>",
+                "markdown": "Network/USB Features and\nSettings",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1563,
+                    "y": 0.3162
+                },
+                {
+                    "x": 0.7958,
+                    "y": 0.3162
+                },
+                {
+                    "x": 0.7958,
+                    "y": 0.4021
+                },
+                {
+                    "x": 0.1563,
+                    "y": 0.4021
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='1' style='font-size:14px'>245</footer>",
+                "markdown": "245",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.8609,
+                    "y": 0.957
+                },
+                {
+                    "x": 0.917,
+                    "y": 0.957
+                },
+                {
+                    "x": 0.917,
+                    "y": 0.9785
+                },
+                {
+                    "x": 0.8609,
+                    "y": 0.9785
+                }
+            ],
+            "id": 1,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

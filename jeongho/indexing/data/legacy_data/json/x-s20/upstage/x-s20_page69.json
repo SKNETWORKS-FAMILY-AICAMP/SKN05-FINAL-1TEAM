@@ -1,0 +1,70 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<p id='0' data-category='paragraph' style='font-size:18px'>Taking Photographs</p>\n<footer id='1' style='font-size:14px'>67</footer>",
+        "markdown": "Taking Photographs\n\n67",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='0' data-category='paragraph' style='font-size:18px'>Taking Photographs</p>",
+                "markdown": "Taking Photographs",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.3133,
+                    "y": 0.3621
+                },
+                {
+                    "x": 0.7945,
+                    "y": 0.3621
+                },
+                {
+                    "x": 0.7945,
+                    "y": 0.4027
+                },
+                {
+                    "x": 0.3133,
+                    "y": 0.4027
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='1' style='font-size:14px'>67</footer>",
+                "markdown": "67",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.8777,
+                    "y": 0.957
+                },
+                {
+                    "x": 0.9166,
+                    "y": 0.957
+                },
+                {
+                    "x": 0.9166,
+                    "y": 0.9789
+                },
+                {
+                    "x": 0.8777,
+                    "y": 0.9789
+                }
+            ],
+            "id": 1,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

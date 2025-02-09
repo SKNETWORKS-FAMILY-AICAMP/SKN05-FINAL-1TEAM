@@ -1,0 +1,546 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:14px'>Remote Movie Recording Using a Web Browser</header>\n<h1 id='1' style='font-size:20px'>Remote Recording Menu</h1>\n<br><h1 id='2' style='font-size:22px'>Adjust remote recording settings.</h1>\n<br><h1 id='3' style='font-size:20px'>Show histogram</h1>\n<br><h1 id='4' style='font-size:16px'>Hide or view the histogram.</h1>\n<h1 id='5' style='font-size:20px'>Show microphone level<br>Hide or view the microphone recording level.</h1>\n<br><p id='6' data-category='paragraph' style='font-size:16px'>Show WAVEFORM/VECTORSCOPE</p>\n<br><p id='7' data-category='paragraph' style='font-size:18px'>Hide or view the waveform/vectorscope (□□ 190).</p>\n<br><p id='8' data-category='paragraph' style='font-size:18px'>Show tool bar</p>\n<br><p id='9' data-category='paragraph' style='font-size:14px'>Hide or view the browser toolbar.</p>\n<br><p id='10' data-category='paragraph' style='font-size:22px'>Display with Image quality priority/Real-time performance priority</p>\n<br><p id='11' data-category='paragraph' style='font-size:20px'>Choose how you prefer the view through the lens to be dis-<br>played, giving priority either to image quality or to ensuring that<br>the picture updates in real time.</p>\n<p id='12' data-category='list' style='font-size:16px'>Prioritizing image quality maximizes image quality but may result in<br>display lag.<br>● Prioritizing real-time display keeps display lag to a minimum regard-<br>less of such factors as connection speed.</p>\n<br><p id='13' data-category='paragraph' style='font-size:20px'>Lightmode/Dark mode</p>\n<br><p id='14' data-category='paragraph' style='font-size:18px'>Switch between the light- and dark-mode remote recording dis-<br>plays.</p>\n<p id='15' data-category='paragraph' style='font-size:16px'>Stop the camera connection</p>\n<br><p id='16' data-category='paragraph' style='font-size:14px'>Click or tap a thumbnail in the \"Choose camera\" area to end the<br>connection to the selected camera.</p>\n<footer id='17' style='font-size:18px'>309</footer>\n<br><footer id='18' style='font-size:22px'>Network/USB<br>Setting<br>Menus<br>8</footer>",
+        "markdown": "Remote Movie Recording Using a Web Browser\n\n# Remote Recording Menu\n\n# Adjust remote recording settings.\n\n# Show histogram\n\n# Hide or view the histogram.\n\n# Show microphone level\nHide or view the microphone recording level.\n\nShow WAVEFORM/VECTORSCOPE\n\nHide or view the waveform/vectorscope (□□ 190).\n\nShow tool bar\n\nHide or view the browser toolbar.\n\nDisplay with Image quality priority/Real-time performance priority\n\nChoose how you prefer the view through the lens to be dis-\nplayed, giving priority either to image quality or to ensuring that\nthe picture updates in real time.\n\n- Prioritizing image quality maximizes image quality but may result in\n- display lag.\n- ● Prioritizing real-time display keeps display lag to a minimum regard-\n- less of such factors as connection speed.\n\n\nLightmode/Dark mode\n\nSwitch between the light- and dark-mode remote recording dis-\nplays.\n\nStop the camera connection\n\nClick or tap a thumbnail in the \"Choose camera\" area to end the\nconnection to the selected camera.\n\n309\n\nNetwork/USB\nSetting\nMenus\n8",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:14px'>Remote Movie Recording Using a Web Browser</header>",
+                "markdown": "Remote Movie Recording Using a Web Browser",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.4582,
+                    "y": 0.0285
+                },
+                {
+                    "x": 0.9183,
+                    "y": 0.0285
+                },
+                {
+                    "x": 0.9183,
+                    "y": 0.0512
+                },
+                {
+                    "x": 0.4582,
+                    "y": 0.0512
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='1' style='font-size:20px'>Remote Recording Menu</h1>",
+                "markdown": "# Remote Recording Menu",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1182,
+                    "y": 0.0739
+                },
+                {
+                    "x": 0.4311,
+                    "y": 0.0739
+                },
+                {
+                    "x": 0.4311,
+                    "y": 0.0982
+                },
+                {
+                    "x": 0.1182,
+                    "y": 0.0982
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='2' style='font-size:22px'>Adjust remote recording settings.</h1>",
+                "markdown": "# Adjust remote recording settings.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1073,
+                    "y": 0.1046
+                },
+                {
+                    "x": 0.5326,
+                    "y": 0.1046
+                },
+                {
+                    "x": 0.5326,
+                    "y": 0.1297
+                },
+                {
+                    "x": 0.1073,
+                    "y": 0.1297
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='3' style='font-size:20px'>Show histogram</h1>",
+                "markdown": "# Show histogram",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.108,
+                    "y": 0.1432
+                },
+                {
+                    "x": 0.2831,
+                    "y": 0.1432
+                },
+                {
+                    "x": 0.2831,
+                    "y": 0.1648
+                },
+                {
+                    "x": 0.108,
+                    "y": 0.1648
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='4' style='font-size:16px'>Hide or view the histogram.</h1>",
+                "markdown": "# Hide or view the histogram.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1087,
+                    "y": 0.1689
+                },
+                {
+                    "x": 0.46,
+                    "y": 0.1689
+                },
+                {
+                    "x": 0.46,
+                    "y": 0.1934
+                },
+                {
+                    "x": 0.1087,
+                    "y": 0.1934
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='5' style='font-size:20px'>Show microphone level<br>Hide or view the microphone recording level.</h1>",
+                "markdown": "# Show microphone level\nHide or view the microphone recording level.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1042,
+                    "y": 0.207
+                },
+                {
+                    "x": 0.6816,
+                    "y": 0.207
+                },
+                {
+                    "x": 0.6816,
+                    "y": 0.258
+                },
+                {
+                    "x": 0.1042,
+                    "y": 0.258
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='6' data-category='paragraph' style='font-size:16px'>Show WAVEFORM/VECTORSCOPE</p>",
+                "markdown": "Show WAVEFORM/VECTORSCOPE",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1075,
+                    "y": 0.2715
+                },
+                {
+                    "x": 0.446,
+                    "y": 0.2715
+                },
+                {
+                    "x": 0.446,
+                    "y": 0.2923
+                },
+                {
+                    "x": 0.1075,
+                    "y": 0.2923
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='7' data-category='paragraph' style='font-size:18px'>Hide or view the waveform/vectorscope (□□ 190).</p>",
+                "markdown": "Hide or view the waveform/vectorscope (□□ 190).",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1063,
+                    "y": 0.2967
+                },
+                {
+                    "x": 0.733,
+                    "y": 0.2967
+                },
+                {
+                    "x": 0.733,
+                    "y": 0.3211
+                },
+                {
+                    "x": 0.1063,
+                    "y": 0.3211
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='8' data-category='paragraph' style='font-size:18px'>Show tool bar</p>",
+                "markdown": "Show tool bar",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1083,
+                    "y": 0.3355
+                },
+                {
+                    "x": 0.2593,
+                    "y": 0.3355
+                },
+                {
+                    "x": 0.2593,
+                    "y": 0.3569
+                },
+                {
+                    "x": 0.1083,
+                    "y": 0.3569
+                }
+            ],
+            "id": 8,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='9' data-category='paragraph' style='font-size:14px'>Hide or view the browser toolbar.</p>",
+                "markdown": "Hide or view the browser toolbar.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1065,
+                    "y": 0.3604
+                },
+                {
+                    "x": 0.5312,
+                    "y": 0.3604
+                },
+                {
+                    "x": 0.5312,
+                    "y": 0.3848
+                },
+                {
+                    "x": 0.1065,
+                    "y": 0.3848
+                }
+            ],
+            "id": 9,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='10' data-category='paragraph' style='font-size:22px'>Display with Image quality priority/Real-time performance priority</p>",
+                "markdown": "Display with Image quality priority/Real-time performance priority",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1071,
+                    "y": 0.3998
+                },
+                {
+                    "x": 0.8135,
+                    "y": 0.3998
+                },
+                {
+                    "x": 0.8135,
+                    "y": 0.4236
+                },
+                {
+                    "x": 0.1071,
+                    "y": 0.4236
+                }
+            ],
+            "id": 10,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='11' data-category='paragraph' style='font-size:20px'>Choose how you prefer the view through the lens to be dis-<br>played, giving priority either to image quality or to ensuring that<br>the picture updates in real time.</p>",
+                "markdown": "Choose how you prefer the view through the lens to be dis-\nplayed, giving priority either to image quality or to ensuring that\nthe picture updates in real time.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1064,
+                    "y": 0.4251
+                },
+                {
+                    "x": 0.9203,
+                    "y": 0.4251
+                },
+                {
+                    "x": 0.9203,
+                    "y": 0.501
+                },
+                {
+                    "x": 0.1064,
+                    "y": 0.501
+                }
+            ],
+            "id": 11,
+            "page": 1
+        },
+        {
+            "category": "list",
+            "content": {
+                "html": "<p id='12' data-category='list' style='font-size:16px'>Prioritizing image quality maximizes image quality but may result in<br>display lag.<br>● Prioritizing real-time display keeps display lag to a minimum regard-<br>less of such factors as connection speed.</p>",
+                "markdown": "- Prioritizing image quality maximizes image quality but may result in\n- display lag.\n- ● Prioritizing real-time display keeps display lag to a minimum regard-\n- less of such factors as connection speed.\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1293,
+                    "y": 0.5161
+                },
+                {
+                    "x": 0.913,
+                    "y": 0.5161
+                },
+                {
+                    "x": 0.913,
+                    "y": 0.6062
+                },
+                {
+                    "x": 0.1293,
+                    "y": 0.6062
+                }
+            ],
+            "id": 12,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='13' data-category='paragraph' style='font-size:20px'>Lightmode/Dark mode</p>",
+                "markdown": "Lightmode/Dark mode",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1069,
+                    "y": 0.6197
+                },
+                {
+                    "x": 0.3565,
+                    "y": 0.6197
+                },
+                {
+                    "x": 0.3565,
+                    "y": 0.6423
+                },
+                {
+                    "x": 0.1069,
+                    "y": 0.6423
+                }
+            ],
+            "id": 13,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='14' data-category='paragraph' style='font-size:18px'>Switch between the light- and dark-mode remote recording dis-<br>plays.</p>",
+                "markdown": "Switch between the light- and dark-mode remote recording dis-\nplays.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1072,
+                    "y": 0.6459
+                },
+                {
+                    "x": 0.9169,
+                    "y": 0.6459
+                },
+                {
+                    "x": 0.9169,
+                    "y": 0.6951
+                },
+                {
+                    "x": 0.1072,
+                    "y": 0.6951
+                }
+            ],
+            "id": 14,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='15' data-category='paragraph' style='font-size:16px'>Stop the camera connection</p>",
+                "markdown": "Stop the camera connection",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1072,
+                    "y": 0.7102
+                },
+                {
+                    "x": 0.4068,
+                    "y": 0.7102
+                },
+                {
+                    "x": 0.4068,
+                    "y": 0.7329
+                },
+                {
+                    "x": 0.1072,
+                    "y": 0.7329
+                }
+            ],
+            "id": 15,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='16' data-category='paragraph' style='font-size:14px'>Click or tap a thumbnail in the \"Choose camera\" area to end the<br>connection to the selected camera.</p>",
+                "markdown": "Click or tap a thumbnail in the \"Choose camera\" area to end the\nconnection to the selected camera.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1062,
+                    "y": 0.7358
+                },
+                {
+                    "x": 0.9183,
+                    "y": 0.7358
+                },
+                {
+                    "x": 0.9183,
+                    "y": 0.785
+                },
+                {
+                    "x": 0.1062,
+                    "y": 0.785
+                }
+            ],
+            "id": 16,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='17' style='font-size:18px'>309</footer>",
+                "markdown": "309",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.86,
+                    "y": 0.9557
+                },
+                {
+                    "x": 0.9184,
+                    "y": 0.9557
+                },
+                {
+                    "x": 0.9184,
+                    "y": 0.98
+                },
+                {
+                    "x": 0.86,
+                    "y": 0.98
+                }
+            ],
+            "id": 17,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<br><footer id='18' style='font-size:22px'>Network/USB<br>Setting<br>Menus<br>8</footer>",
+                "markdown": "Network/USB\nSetting\nMenus\n8",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9575,
+                    "y": 0.4274
+                },
+                {
+                    "x": 0.9981,
+                    "y": 0.4274
+                },
+                {
+                    "x": 0.9981,
+                    "y": 0.6765
+                },
+                {
+                    "x": 0.9575,
+                    "y": 0.6765
+                }
+            ],
+            "id": 18,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

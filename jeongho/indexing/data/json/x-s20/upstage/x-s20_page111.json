@@ -1,0 +1,238 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:20px'>Bracketing</header>\n<h1 id='1' style='font-size:14px'>ISO ISO BKT</h1>\n<br><p id='2' data-category='paragraph' style='font-size:18px'>Select a bracketing amount (±1/3, ±2/3, or ±1) in the drive mode<br>display. Each time the shutter is released, the camera will take<br>a picture at the current sensitivity and process it to create two<br>additional copies, one with sensitivity raised and the other with<br>sensitivity lowered by the selected amount.</p>\n<p id='3' data-category='paragraph' style='font-size:14px'>WB WHITE BALANCE BKT</p>\n<br><p id='4' data-category='paragraph' style='font-size:18px'>Select a bracketing amount (±1,±2, or ±3) in the drive mode dis-<br>play. Each time the shutter is released, the camera takes one shot<br>and processes it to create three copies: one at the current white<br>balanced setting, one with fine-tuning increased by the selected<br>amount, and another with fine-tuning decreased by the selected<br>amount.</p>\n<footer id='5' style='font-size:16px'>5</footer>\n<br><footer id='6' style='font-size:22px'>Taking<br>Photographs</footer>\n<footer id='7' style='font-size:18px'>111</footer>",
+        "markdown": "Bracketing\n\n# ISO ISO BKT\n\nSelect a bracketing amount (±1/3, ±2/3, or ±1) in the drive mode\ndisplay. Each time the shutter is released, the camera will take\na picture at the current sensitivity and process it to create two\nadditional copies, one with sensitivity raised and the other with\nsensitivity lowered by the selected amount.\n\nWB WHITE BALANCE BKT\n\nSelect a bracketing amount (±1,±2, or ±3) in the drive mode dis-\nplay. Each time the shutter is released, the camera takes one shot\nand processes it to create three copies: one at the current white\nbalanced setting, one with fine-tuning increased by the selected\namount, and another with fine-tuning decreased by the selected\namount.\n\n5\n\nTaking\nPhotographs\n\n111",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:20px'>Bracketing</header>",
+                "markdown": "Bracketing",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.809,
+                    "y": 0.0297
+                },
+                {
+                    "x": 0.9182,
+                    "y": 0.0297
+                },
+                {
+                    "x": 0.9182,
+                    "y": 0.051
+                },
+                {
+                    "x": 0.809,
+                    "y": 0.051
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='1' style='font-size:14px'>ISO ISO BKT</h1>",
+                "markdown": "# ISO ISO BKT",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1086,
+                    "y": 0.0732
+                },
+                {
+                    "x": 0.2645,
+                    "y": 0.0732
+                },
+                {
+                    "x": 0.2645,
+                    "y": 0.0947
+                },
+                {
+                    "x": 0.1086,
+                    "y": 0.0947
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='2' data-category='paragraph' style='font-size:18px'>Select a bracketing amount (±1/3, ±2/3, or ±1) in the drive mode<br>display. Each time the shutter is released, the camera will take<br>a picture at the current sensitivity and process it to create two<br>additional copies, one with sensitivity raised and the other with<br>sensitivity lowered by the selected amount.</p>",
+                "markdown": "Select a bracketing amount (±1/3, ±2/3, or ±1) in the drive mode\ndisplay. Each time the shutter is released, the camera will take\na picture at the current sensitivity and process it to create two\nadditional copies, one with sensitivity raised and the other with\nsensitivity lowered by the selected amount.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1063,
+                    "y": 0.1052
+                },
+                {
+                    "x": 0.9194,
+                    "y": 0.1052
+                },
+                {
+                    "x": 0.9194,
+                    "y": 0.2318
+                },
+                {
+                    "x": 0.1063,
+                    "y": 0.2318
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='3' data-category='paragraph' style='font-size:14px'>WB WHITE BALANCE BKT</p>",
+                "markdown": "WB WHITE BALANCE BKT",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1073,
+                    "y": 0.2525
+                },
+                {
+                    "x": 0.4418,
+                    "y": 0.2525
+                },
+                {
+                    "x": 0.4418,
+                    "y": 0.2756
+                },
+                {
+                    "x": 0.1073,
+                    "y": 0.2756
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='4' data-category='paragraph' style='font-size:18px'>Select a bracketing amount (±1,±2, or ±3) in the drive mode dis-<br>play. Each time the shutter is released, the camera takes one shot<br>and processes it to create three copies: one at the current white<br>balanced setting, one with fine-tuning increased by the selected<br>amount, and another with fine-tuning decreased by the selected<br>amount.</p>",
+                "markdown": "Select a bracketing amount (±1,±2, or ±3) in the drive mode dis-\nplay. Each time the shutter is released, the camera takes one shot\nand processes it to create three copies: one at the current white\nbalanced setting, one with fine-tuning increased by the selected\namount, and another with fine-tuning decreased by the selected\namount.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1069,
+                    "y": 0.2837
+                },
+                {
+                    "x": 0.9195,
+                    "y": 0.2837
+                },
+                {
+                    "x": 0.9195,
+                    "y": 0.4364
+                },
+                {
+                    "x": 0.1069,
+                    "y": 0.4364
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='5' style='font-size:16px'>5</footer>",
+                "markdown": "5",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9569,
+                    "y": 0.4776
+                },
+                {
+                    "x": 0.9757,
+                    "y": 0.4776
+                },
+                {
+                    "x": 0.9757,
+                    "y": 0.4978
+                },
+                {
+                    "x": 0.9569,
+                    "y": 0.4978
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<br><footer id='6' style='font-size:22px'>Taking<br>Photographs</footer>",
+                "markdown": "Taking\nPhotographs",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9557,
+                    "y": 0.5174
+                },
+                {
+                    "x": 0.9815,
+                    "y": 0.5174
+                },
+                {
+                    "x": 0.9815,
+                    "y": 0.6651
+                },
+                {
+                    "x": 0.9557,
+                    "y": 0.6651
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='7' style='font-size:18px'>111</footer>",
+                "markdown": "111",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.8624,
+                    "y": 0.9566
+                },
+                {
+                    "x": 0.9151,
+                    "y": 0.9566
+                },
+                {
+                    "x": 0.9151,
+                    "y": 0.9789
+                },
+                {
+                    "x": 0.8624,
+                    "y": 0.9789
+                }
+            ],
+            "id": 7,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

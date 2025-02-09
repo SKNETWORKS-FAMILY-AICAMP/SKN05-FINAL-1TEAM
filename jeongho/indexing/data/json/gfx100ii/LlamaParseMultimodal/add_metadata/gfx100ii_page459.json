@@ -1,0 +1,8 @@
+{
+    "parsing_result": "\n# Errors\n\n| Error                        | Solution                                                                                                                                  |\n|------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|\n| **Frame.io DISCONNECTED**    | - **The Frame.io server may be down:** Check that the Frame.io server is up or try again later.                                           |\n|                              | - **The camera clock is not set to the correct time and date:** Set the camera clock.                                                     |\n|                              | - **The network is not configured correctly:** Check the settings of the connected network.                                               |\n|                              | - Turn the camera off and then on again.                                                                                                  |\n|                              | - Contact the network administrator.                                                                                                      |\n| **UNEXPECTED ERROR HAS OCCURRED** | - Turn the camera off and then on again.                                                                                                  |\n|                              | - Contact the network administrator.                                                                                                      |\n",
+    "embedding_result": [],
+    "metadata": {
+        "page": 459,
+        "model": "gfx100ii"
+    }
+}

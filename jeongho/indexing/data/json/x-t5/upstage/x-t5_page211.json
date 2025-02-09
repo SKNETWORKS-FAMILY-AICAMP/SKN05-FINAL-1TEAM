@@ -1,0 +1,350 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:14px'>AF/MF SETTING (Movie Recording)</header>\n<h1 id='1' style='font-size:14px'>Touch Controls for Focus Zoom</h1>\n<br><p id='2' data-category='paragraph' style='font-size:16px'>Different touch controls are used during focus zoom (focus check enabled).</p>\n<br><h1 id='3' style='font-size:14px'>Central Area</h1>\n<br><h1 id='4' style='font-size:20px'>Tapping the center of the display performs the<br>operations below.</h1>\n<br><figure id='5'><img alt=\"\" data-coord=\"top-left:(1745,582); bottom-right:(2544,1180)\" /></figure>\n<br><table id='6' style='font-size:14px'><tr><td>Mode</td><td>Movie Recording</td></tr><tr><td rowspan=\"2\">AF</td><td>AF-S: AF</td></tr><tr><td>MF: Instant AF</td></tr><tr><td rowspan=\"2\">AREA</td><td>AF-S: AF</td></tr><tr><td>MF: Instant AF</td></tr><tr><td>OFF</td><td>AF-S/MF: OFF</td></tr></table>\n<br><p id='7' data-category='paragraph' style='font-size:16px'>Other Areas</p>\n<br><p id='8' data-category='paragraph' style='font-size:18px'>Tapping other areas simply scrolls the display,<br>whether during still photography or movie re-<br>cording and regardless of the option selected<br>for touch screen mode.</p>\n<br><figure id='9'><img alt=\"\" data-coord=\"top-left:(1748,1887); bottom-right:(2548,2522)\" /></figure>\n<footer id='10' style='font-size:20px'>211</footer>\n<br><footer id='11' style='font-size:22px'>6<br>The<br>Shooting<br>Menus</footer>",
+        "markdown": "AF/MF SETTING (Movie Recording)\n\n# Touch Controls for Focus Zoom\n\nDifferent touch controls are used during focus zoom (focus check enabled).\n\n# Central Area\n\n# Tapping the center of the display performs the\noperations below.\n\n![image](/image/placeholder)\n\n\n| Mode | Movie Recording |\n| --- | --- |\n| AF | AF-S: AF |\n| AF | MF: Instant AF |\n| AREA | AF-S: AF |\n| AREA | MF: Instant AF |\n| OFF | AF-S/MF: OFF |\n\n\nOther Areas\n\nTapping other areas simply scrolls the display,\nwhether during still photography or movie re-\ncording and regardless of the option selected\nfor touch screen mode.\n\n![image](/image/placeholder)\n\n\n211\n\n6\nThe\nShooting\nMenus",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:14px'>AF/MF SETTING (Movie Recording)</header>",
+                "markdown": "AF/MF SETTING (Movie Recording)",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.5768,
+                    "y": 0.0293
+                },
+                {
+                    "x": 0.9164,
+                    "y": 0.0293
+                },
+                {
+                    "x": 0.9164,
+                    "y": 0.0502
+                },
+                {
+                    "x": 0.5768,
+                    "y": 0.0502
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='1' style='font-size:14px'>Touch Controls for Focus Zoom</h1>",
+                "markdown": "# Touch Controls for Focus Zoom",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1124,
+                    "y": 0.0731
+                },
+                {
+                    "x": 0.4057,
+                    "y": 0.0731
+                },
+                {
+                    "x": 0.4057,
+                    "y": 0.0928
+                },
+                {
+                    "x": 0.1124,
+                    "y": 0.0928
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='2' data-category='paragraph' style='font-size:16px'>Different touch controls are used during focus zoom (focus check enabled).</p>",
+                "markdown": "Different touch controls are used during focus zoom (focus check enabled).",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1097,
+                    "y": 0.0941
+                },
+                {
+                    "x": 0.9176,
+                    "y": 0.0941
+                },
+                {
+                    "x": 0.9176,
+                    "y": 0.117
+                },
+                {
+                    "x": 0.1097,
+                    "y": 0.117
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='3' style='font-size:14px'>Central Area</h1>",
+                "markdown": "# Central Area",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1077,
+                    "y": 0.131
+                },
+                {
+                    "x": 0.2304,
+                    "y": 0.131
+                },
+                {
+                    "x": 0.2304,
+                    "y": 0.1503
+                },
+                {
+                    "x": 0.1077,
+                    "y": 0.1503
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='4' style='font-size:20px'>Tapping the center of the display performs the<br>operations below.</h1>",
+                "markdown": "# Tapping the center of the display performs the\noperations below.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1077,
+                    "y": 0.1532
+                },
+                {
+                    "x": 0.6272,
+                    "y": 0.1532
+                },
+                {
+                    "x": 0.6272,
+                    "y": 0.1974
+                },
+                {
+                    "x": 0.1077,
+                    "y": 0.1974
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "figure",
+            "content": {
+                "html": "<br><figure id='5'><img alt=\"\" data-coord=\"top-left:(1745,582); bottom-right:(2544,1180)\" /></figure>",
+                "markdown": "![image](/image/placeholder)\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6315,
+                    "y": 0.1493
+                },
+                {
+                    "x": 0.9206,
+                    "y": 0.1493
+                },
+                {
+                    "x": 0.9206,
+                    "y": 0.3028
+                },
+                {
+                    "x": 0.6315,
+                    "y": 0.3028
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='6' style='font-size:14px'><tr><td>Mode</td><td>Movie Recording</td></tr><tr><td rowspan=\"2\">AF</td><td>AF-S: AF</td></tr><tr><td>MF: Instant AF</td></tr><tr><td rowspan=\"2\">AREA</td><td>AF-S: AF</td></tr><tr><td>MF: Instant AF</td></tr><tr><td>OFF</td><td>AF-S/MF: OFF</td></tr></table>",
+                "markdown": "| Mode | Movie Recording |\n| --- | --- |\n| AF | AF-S: AF |\n| AF | MF: Instant AF |\n| AREA | AF-S: AF |\n| AREA | MF: Instant AF |\n| OFF | AF-S/MF: OFF |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1074,
+                    "y": 0.3107
+                },
+                {
+                    "x": 0.9209,
+                    "y": 0.3107
+                },
+                {
+                    "x": 0.9209,
+                    "y": 0.4531
+                },
+                {
+                    "x": 0.1074,
+                    "y": 0.4531
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='7' data-category='paragraph' style='font-size:16px'>Other Areas</p>",
+                "markdown": "Other Areas",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1076,
+                    "y": 0.4651
+                },
+                {
+                    "x": 0.225,
+                    "y": 0.4651
+                },
+                {
+                    "x": 0.225,
+                    "y": 0.4861
+                },
+                {
+                    "x": 0.1076,
+                    "y": 0.4861
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='8' data-category='paragraph' style='font-size:18px'>Tapping other areas simply scrolls the display,<br>whether during still photography or movie re-<br>cording and regardless of the option selected<br>for touch screen mode.</p>",
+                "markdown": "Tapping other areas simply scrolls the display,\nwhether during still photography or movie re-\ncording and regardless of the option selected\nfor touch screen mode.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1099,
+                    "y": 0.4874
+                },
+                {
+                    "x": 0.6283,
+                    "y": 0.4874
+                },
+                {
+                    "x": 0.6283,
+                    "y": 0.5785
+                },
+                {
+                    "x": 0.1099,
+                    "y": 0.5785
+                }
+            ],
+            "id": 8,
+            "page": 1
+        },
+        {
+            "category": "figure",
+            "content": {
+                "html": "<br><figure id='9'><img alt=\"\" data-coord=\"top-left:(1748,1887); bottom-right:(2548,2522)\" /></figure>",
+                "markdown": "![image](/image/placeholder)\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6327,
+                    "y": 0.4843
+                },
+                {
+                    "x": 0.922,
+                    "y": 0.4843
+                },
+                {
+                    "x": 0.922,
+                    "y": 0.6471
+                },
+                {
+                    "x": 0.6327,
+                    "y": 0.6471
+                }
+            ],
+            "id": 9,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='10' style='font-size:20px'>211</footer>",
+                "markdown": "211",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.8596,
+                    "y": 0.9555
+                },
+                {
+                    "x": 0.9161,
+                    "y": 0.9555
+                },
+                {
+                    "x": 0.9161,
+                    "y": 0.9801
+                },
+                {
+                    "x": 0.8596,
+                    "y": 0.9801
+                }
+            ],
+            "id": 10,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<br><footer id='11' style='font-size:22px'>6<br>The<br>Shooting<br>Menus</footer>",
+                "markdown": "6\nThe\nShooting\nMenus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9565,
+                    "y": 0.5411
+                },
+                {
+                    "x": 0.9826,
+                    "y": 0.5411
+                },
+                {
+                    "x": 0.9826,
+                    "y": 0.7316
+                },
+                {
+                    "x": 0.9565,
+                    "y": 0.7316
+                }
+            ],
+            "id": 11,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

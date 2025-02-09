@@ -1,0 +1,350 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:14px'>BUTTON/DIAL SETTING</header>\n<h1 id='1' style='font-size:16px'>SHUTTER AF</h1>\n\n<br><table id='3' style='font-size:16px'><tr><td>Option</td><td>Description</td></tr><tr><td>AF-S</td><td>ON: Focus locks when the shutter button is pressed halfway. OFF: No focus operation is performed when the shutter button is pressed halfway.</td></tr><tr><td>AF-C</td><td>ON: The camera focuses while the shutter button is pressed half- way. OFF: No focus operation is performed when the shutter button is pressed halfway.</td></tr><br><caption id='2' style='font-size:18px'>Choose whether the camera focuses when the shutter button is<br>pressed halfway.</caption></table>\n<p id='4' data-category='paragraph' style='font-size:16px'>SHUTTER AE</p>\n<br><p id='5' data-category='paragraph' style='font-size:20px'>If ON is selected, exposure will lock while the shutter button is<br>pressed halfway.</p>\n<p id='6' data-category='paragraph' style='font-size:14px'>Select OFF to allow the camera to adjust exposure before each shot<br>taken in burst mode.</p>\n<p id='7' data-category='paragraph' style='font-size:16px'>SHOOT WITHOUT LENS</p>\n\n<table id='9' style='font-size:18px'><tr><td colspan=\"2\">Options</td></tr><tr><td>ON</td><td>OFF</td></tr><br><caption id='8' style='font-size:16px'>Choose ON to enable the shutter release when no lens is at-<br>tached.</caption></table>\n<br><footer id='10' style='font-size:22px'>The<br>Setup<br>Menus</footer>\n<footer id='11' style='font-size:20px'>227</footer>",
+        "markdown": "BUTTON/DIAL SETTING\n\n# SHUTTER AF\n\nChoose whether the camera focuses when the shutter button is\npressed halfway.\n\n| Option | Description |\n| --- | --- |\n| AF-S | ON: Focus locks when the shutter button is pressed halfway. OFF: No focus operation is performed when the shutter button is pressed halfway. |\n| AF-C | ON: The camera focuses while the shutter button is pressed half- way. OFF: No focus operation is performed when the shutter button is pressed halfway. |\n\n\nSHUTTER AE\n\nIf ON is selected, exposure will lock while the shutter button is\npressed halfway.\n\nSelect OFF to allow the camera to adjust exposure before each shot\ntaken in burst mode.\n\nSHOOT WITHOUT LENS\n\nChoose ON to enable the shutter release when no lens is at-\ntached.\n\n| Options | Options |\n| --- | --- |\n| ON | OFF |\n\n\nThe\nSetup\nMenus\n\n227",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:14px'>BUTTON/DIAL SETTING</header>",
+                "markdown": "BUTTON/DIAL SETTING",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6868,
+                    "y": 0.0281
+                },
+                {
+                    "x": 0.9184,
+                    "y": 0.0281
+                },
+                {
+                    "x": 0.9184,
+                    "y": 0.0497
+                },
+                {
+                    "x": 0.6868,
+                    "y": 0.0497
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='1' style='font-size:16px'>SHUTTER AF</h1>",
+                "markdown": "# SHUTTER AF",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1065,
+                    "y": 0.0728
+                },
+                {
+                    "x": 0.2784,
+                    "y": 0.0728
+                },
+                {
+                    "x": 0.2784,
+                    "y": 0.0947
+                },
+                {
+                    "x": 0.1065,
+                    "y": 0.0947
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='2' data-category='paragraph' style='font-size:18px'>Choose whether the camera focuses when the shutter button is<br>pressed halfway.</p>",
+                "markdown": "Choose whether the camera focuses when the shutter button is\npressed halfway.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1055,
+                    "y": 0.1046
+                },
+                {
+                    "x": 0.9195,
+                    "y": 0.1046
+                },
+                {
+                    "x": 0.9195,
+                    "y": 0.1542
+                },
+                {
+                    "x": 0.1055,
+                    "y": 0.1542
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='3' style='font-size:16px'><tr><td>Option</td><td>Description</td></tr><tr><td>AF-S</td><td>ON: Focus locks when the shutter button is pressed halfway. OFF: No focus operation is performed when the shutter button is pressed halfway.</td></tr><tr><td>AF-C</td><td>ON: The camera focuses while the shutter button is pressed half- way. OFF: No focus operation is performed when the shutter button is pressed halfway.</td></tr></table>",
+                "markdown": "| Option | Description |\n| --- | --- |\n| AF-S | ON: Focus locks when the shutter button is pressed halfway. OFF: No focus operation is performed when the shutter button is pressed halfway. |\n| AF-C | ON: The camera focuses while the shutter button is pressed half- way. OFF: No focus operation is performed when the shutter button is pressed halfway. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1098,
+                    "y": 0.1659
+                },
+                {
+                    "x": 0.9208,
+                    "y": 0.1659
+                },
+                {
+                    "x": 0.9208,
+                    "y": 0.355
+                },
+                {
+                    "x": 0.1098,
+                    "y": 0.355
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='4' data-category='paragraph' style='font-size:16px'>SHUTTER AE</p>",
+                "markdown": "SHUTTER AE",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1054,
+                    "y": 0.3734
+                },
+                {
+                    "x": 0.2827,
+                    "y": 0.3734
+                },
+                {
+                    "x": 0.2827,
+                    "y": 0.3968
+                },
+                {
+                    "x": 0.1054,
+                    "y": 0.3968
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='5' data-category='paragraph' style='font-size:20px'>If ON is selected, exposure will lock while the shutter button is<br>pressed halfway.</p>",
+                "markdown": "If ON is selected, exposure will lock while the shutter button is\npressed halfway.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1065,
+                    "y": 0.4057
+                },
+                {
+                    "x": 0.9164,
+                    "y": 0.4057
+                },
+                {
+                    "x": 0.9164,
+                    "y": 0.4551
+                },
+                {
+                    "x": 0.1065,
+                    "y": 0.4551
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='6' data-category='paragraph' style='font-size:14px'>Select OFF to allow the camera to adjust exposure before each shot<br>taken in burst mode.</p>",
+                "markdown": "Select OFF to allow the camera to adjust exposure before each shot\ntaken in burst mode.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1144,
+                    "y": 0.4688
+                },
+                {
+                    "x": 0.9139,
+                    "y": 0.4688
+                },
+                {
+                    "x": 0.9139,
+                    "y": 0.5144
+                },
+                {
+                    "x": 0.1144,
+                    "y": 0.5144
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='7' data-category='paragraph' style='font-size:16px'>SHOOT WITHOUT LENS</p>",
+                "markdown": "SHOOT WITHOUT LENS",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1055,
+                    "y": 0.5346
+                },
+                {
+                    "x": 0.4248,
+                    "y": 0.5346
+                },
+                {
+                    "x": 0.4248,
+                    "y": 0.5587
+                },
+                {
+                    "x": 0.1055,
+                    "y": 0.5587
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='8' data-category='paragraph' style='font-size:16px'>Choose ON to enable the shutter release when no lens is at-<br>tached.</p>",
+                "markdown": "Choose ON to enable the shutter release when no lens is at-\ntached.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1057,
+                    "y": 0.5668
+                },
+                {
+                    "x": 0.9171,
+                    "y": 0.5668
+                },
+                {
+                    "x": 0.9171,
+                    "y": 0.6154
+                },
+                {
+                    "x": 0.1057,
+                    "y": 0.6154
+                }
+            ],
+            "id": 8,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='9' style='font-size:18px'><tr><td colspan=\"2\">Options</td></tr><tr><td>ON</td><td>OFF</td></tr></table>",
+                "markdown": "| Options | Options |\n| --- | --- |\n| ON | OFF |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1066,
+                    "y": 0.6311
+                },
+                {
+                    "x": 0.9169,
+                    "y": 0.6311
+                },
+                {
+                    "x": 0.9169,
+                    "y": 0.6786
+                },
+                {
+                    "x": 0.1066,
+                    "y": 0.6786
+                }
+            ],
+            "id": 9,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<br><footer id='10' style='font-size:22px'>The<br>Setup<br>Menus</footer>",
+                "markdown": "The\nSetup\nMenus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9571,
+                    "y": 0.5051
+                },
+                {
+                    "x": 0.9828,
+                    "y": 0.5051
+                },
+                {
+                    "x": 0.9828,
+                    "y": 0.6761
+                },
+                {
+                    "x": 0.9571,
+                    "y": 0.6761
+                }
+            ],
+            "id": 10,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='11' style='font-size:20px'>227</footer>",
+                "markdown": "227",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.8601,
+                    "y": 0.9565
+                },
+                {
+                    "x": 0.9175,
+                    "y": 0.9565
+                },
+                {
+                    "x": 0.9175,
+                    "y": 0.9792
+                },
+                {
+                    "x": 0.8601,
+                    "y": 0.9792
+                }
+            ],
+            "id": 11,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

@@ -1,0 +1,322 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:14px'>BUTTON/DIAL SETTING</header>\n<h1 id='1' style='font-size:16px'>EDIT/SAVE QUICK MENU</h1>\n<br><h1 id='2' style='font-size:18px'>Choose the items displayed in the quick menu.</h1>\n<p id='3' data-category='list' style='font-size:16px'>1 Select 8 BUTTON/DIAL SETTING > EDIT/SAVE QUICK MENU<br>in the (SET UP) tab.</p>\n<p id='4' data-category='list' style='font-size:20px'>2 Choose the number of items displayed in the quick menu.<br>Quick menu save/edit options will be displayed.</p>\n<p id='5' data-category='paragraph' style='font-size:18px'>3 Highlight the item you wish to change and press MENU/OK.<br>The following can be assigned to the quick menu.</p>\n<br><p id='6' data-category='list' style='font-size:14px'>● IMAGE SIZE<br>● IMAGE QUALITY<br>● FILM SIMULATION<br>● GRAIN EFFECT<br>● COLOR CHROME EFFECT<br>● COLOR CHROME FX BLUE<br>● DYNAMIC RANGE<br>● D RANGE PRIORITY<br>● WHITE BALANCE<br>● HIGHLIGHT TONE<br>● SHADOW TONE<br>● COLOR<br>● SHARPNESS<br>● CLARITY<br>● NOISE REDUCTION<br>● SELECT CUSTOM SETTING<br>● AF MODE (MOVIE AF MODE)<br>● AF-C CUSTOM SETTINGS<br>● FACE/EYE DETECTION SETTING</p>\n<br><p id='7' data-category='list' style='font-size:14px'>● MF ASSIST<br>● TOUCH SCREEN MODE<br>● SELF-TIMER<br>● PHOTOMETRY<br>● SHUTTER TYPE<br>● FLICKER REDUCTION<br>● CONVERSION LENS<br>● ND FILTER<br>● FLASH FUNCTION SETTING<br>● FLASH COMPENSATION<br>● MOVIE MODE<br>● FULL HD HIGH SPEED REC<br>● INTERNAL/EXTERNAL MIC LEVEL<br>ADJUSTMENT<br>● SOUND & FLASH<br>● EVF/LCD BRIGHTNESS<br>● EVF/LCD COLOR<br>● NONE</p>\n<p id='8' data-category='list' style='font-size:16px'>Select NONE to assign no option to the selected position.<br>● When SELECT CUSTOM SETTING is selected, current settings<br>are shown in the quick menu by the label BASE.</p>\n<footer id='9' style='font-size:20px'>219</footer>\n<br><footer id='10' style='font-size:22px'>The<br>Setup<br>Menus<br>8</footer>",
+        "markdown": "BUTTON/DIAL SETTING\n\n# EDIT/SAVE QUICK MENU\n\n# Choose the items displayed in the quick menu.\n\n- 1 Select 8 BUTTON/DIAL SETTING > EDIT/SAVE QUICK MENU\n- in the (SET UP) tab.\n\n\n- 2 Choose the number of items displayed in the quick menu.\n- Quick menu save/edit options will be displayed.\n\n\n3 Highlight the item you wish to change and press MENU/OK.\nThe following can be assigned to the quick menu.\n\n- ● IMAGE SIZE\n- ● IMAGE QUALITY\n- ● FILM SIMULATION\n- ● GRAIN EFFECT\n- ● COLOR CHROME EFFECT\n- ● COLOR CHROME FX BLUE\n- ● DYNAMIC RANGE\n- ● D RANGE PRIORITY\n- ● WHITE BALANCE\n- ● HIGHLIGHT TONE\n- ● SHADOW TONE\n- ● COLOR\n- ● SHARPNESS\n- ● CLARITY\n- ● NOISE REDUCTION\n- ● SELECT CUSTOM SETTING\n- ● AF MODE (MOVIE AF MODE)\n- ● AF-C CUSTOM SETTINGS\n- ● FACE/EYE DETECTION SETTING\n\n\n- ● MF ASSIST\n- ● TOUCH SCREEN MODE\n- ● SELF-TIMER\n- ● PHOTOMETRY\n- ● SHUTTER TYPE\n- ● FLICKER REDUCTION\n- ● CONVERSION LENS\n- ● ND FILTER\n- ● FLASH FUNCTION SETTING\n- ● FLASH COMPENSATION\n- ● MOVIE MODE\n- ● FULL HD HIGH SPEED REC\n- ● INTERNAL/EXTERNAL MIC LEVEL\n- ADJUSTMENT\n- ● SOUND & FLASH\n- ● EVF/LCD BRIGHTNESS\n- ● EVF/LCD COLOR\n- ● NONE\n\n\n- Select NONE to assign no option to the selected position.\n- ● When SELECT CUSTOM SETTING is selected, current settings\n- are shown in the quick menu by the label BASE.\n\n\n219\n\nThe\nSetup\nMenus\n8",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:14px'>BUTTON/DIAL SETTING</header>",
+                "markdown": "BUTTON/DIAL SETTING",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6871,
+                    "y": 0.0276
+                },
+                {
+                    "x": 0.9187,
+                    "y": 0.0276
+                },
+                {
+                    "x": 0.9187,
+                    "y": 0.0501
+                },
+                {
+                    "x": 0.6871,
+                    "y": 0.0501
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='1' style='font-size:16px'>EDIT/SAVE QUICK MENU</h1>",
+                "markdown": "# EDIT/SAVE QUICK MENU",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1087,
+                    "y": 0.0722
+                },
+                {
+                    "x": 0.4395,
+                    "y": 0.0722
+                },
+                {
+                    "x": 0.4395,
+                    "y": 0.0947
+                },
+                {
+                    "x": 0.1087,
+                    "y": 0.0947
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='2' style='font-size:18px'>Choose the items displayed in the quick menu.</h1>",
+                "markdown": "# Choose the items displayed in the quick menu.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.107,
+                    "y": 0.1046
+                },
+                {
+                    "x": 0.6992,
+                    "y": 0.1046
+                },
+                {
+                    "x": 0.6992,
+                    "y": 0.1288
+                },
+                {
+                    "x": 0.107,
+                    "y": 0.1288
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "list",
+            "content": {
+                "html": "<p id='3' data-category='list' style='font-size:16px'>1 Select 8 BUTTON/DIAL SETTING > EDIT/SAVE QUICK MENU<br>in the (SET UP) tab.</p>",
+                "markdown": "- 1 Select 8 BUTTON/DIAL SETTING > EDIT/SAVE QUICK MENU\n- in the (SET UP) tab.\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1194,
+                    "y": 0.1437
+                },
+                {
+                    "x": 0.9191,
+                    "y": 0.1437
+                },
+                {
+                    "x": 0.9191,
+                    "y": 0.1914
+                },
+                {
+                    "x": 0.1194,
+                    "y": 0.1914
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "list",
+            "content": {
+                "html": "<p id='4' data-category='list' style='font-size:20px'>2 Choose the number of items displayed in the quick menu.<br>Quick menu save/edit options will be displayed.</p>",
+                "markdown": "- 2 Choose the number of items displayed in the quick menu.\n- Quick menu save/edit options will be displayed.\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.122,
+                    "y": 0.2068
+                },
+                {
+                    "x": 0.8856,
+                    "y": 0.2068
+                },
+                {
+                    "x": 0.8856,
+                    "y": 0.2567
+                },
+                {
+                    "x": 0.122,
+                    "y": 0.2567
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='5' data-category='paragraph' style='font-size:18px'>3 Highlight the item you wish to change and press MENU/OK.<br>The following can be assigned to the quick menu.</p>",
+                "markdown": "3 Highlight the item you wish to change and press MENU/OK.\nThe following can be assigned to the quick menu.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1246,
+                    "y": 0.2712
+                },
+                {
+                    "x": 0.882,
+                    "y": 0.2712
+                },
+                {
+                    "x": 0.882,
+                    "y": 0.3204
+                },
+                {
+                    "x": 0.1246,
+                    "y": 0.3204
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "list",
+            "content": {
+                "html": "<br><p id='6' data-category='list' style='font-size:14px'>● IMAGE SIZE<br>● IMAGE QUALITY<br>● FILM SIMULATION<br>● GRAIN EFFECT<br>● COLOR CHROME EFFECT<br>● COLOR CHROME FX BLUE<br>● DYNAMIC RANGE<br>● D RANGE PRIORITY<br>● WHITE BALANCE<br>● HIGHLIGHT TONE<br>● SHADOW TONE<br>● COLOR<br>● SHARPNESS<br>● CLARITY<br>● NOISE REDUCTION<br>● SELECT CUSTOM SETTING<br>● AF MODE (MOVIE AF MODE)<br>● AF-C CUSTOM SETTINGS<br>● FACE/EYE DETECTION SETTING</p>",
+                "markdown": "- ● IMAGE SIZE\n- ● IMAGE QUALITY\n- ● FILM SIMULATION\n- ● GRAIN EFFECT\n- ● COLOR CHROME EFFECT\n- ● COLOR CHROME FX BLUE\n- ● DYNAMIC RANGE\n- ● D RANGE PRIORITY\n- ● WHITE BALANCE\n- ● HIGHLIGHT TONE\n- ● SHADOW TONE\n- ● COLOR\n- ● SHARPNESS\n- ● CLARITY\n- ● NOISE REDUCTION\n- ● SELECT CUSTOM SETTING\n- ● AF MODE (MOVIE AF MODE)\n- ● AF-C CUSTOM SETTINGS\n- ● FACE/EYE DETECTION SETTING\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1602,
+                    "y": 0.3236
+                },
+                {
+                    "x": 0.4847,
+                    "y": 0.3236
+                },
+                {
+                    "x": 0.4847,
+                    "y": 0.759
+                },
+                {
+                    "x": 0.1602,
+                    "y": 0.759
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "list",
+            "content": {
+                "html": "<br><p id='7' data-category='list' style='font-size:14px'>● MF ASSIST<br>● TOUCH SCREEN MODE<br>● SELF-TIMER<br>● PHOTOMETRY<br>● SHUTTER TYPE<br>● FLICKER REDUCTION<br>● CONVERSION LENS<br>● ND FILTER<br>● FLASH FUNCTION SETTING<br>● FLASH COMPENSATION<br>● MOVIE MODE<br>● FULL HD HIGH SPEED REC<br>● INTERNAL/EXTERNAL MIC LEVEL<br>ADJUSTMENT<br>● SOUND & FLASH<br>● EVF/LCD BRIGHTNESS<br>● EVF/LCD COLOR<br>● NONE</p>",
+                "markdown": "- ● MF ASSIST\n- ● TOUCH SCREEN MODE\n- ● SELF-TIMER\n- ● PHOTOMETRY\n- ● SHUTTER TYPE\n- ● FLICKER REDUCTION\n- ● CONVERSION LENS\n- ● ND FILTER\n- ● FLASH FUNCTION SETTING\n- ● FLASH COMPENSATION\n- ● MOVIE MODE\n- ● FULL HD HIGH SPEED REC\n- ● INTERNAL/EXTERNAL MIC LEVEL\n- ADJUSTMENT\n- ● SOUND & FLASH\n- ● EVF/LCD BRIGHTNESS\n- ● EVF/LCD COLOR\n- ● NONE\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.5541,
+                    "y": 0.3246
+                },
+                {
+                    "x": 0.8957,
+                    "y": 0.3246
+                },
+                {
+                    "x": 0.8957,
+                    "y": 0.7373
+                },
+                {
+                    "x": 0.5541,
+                    "y": 0.7373
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "list",
+            "content": {
+                "html": "<p id='8' data-category='list' style='font-size:16px'>Select NONE to assign no option to the selected position.<br>● When SELECT CUSTOM SETTING is selected, current settings<br>are shown in the quick menu by the label BASE.</p>",
+                "markdown": "- Select NONE to assign no option to the selected position.\n- ● When SELECT CUSTOM SETTING is selected, current settings\n- are shown in the quick menu by the label BASE.\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1666,
+                    "y": 0.7672
+                },
+                {
+                    "x": 0.9137,
+                    "y": 0.7672
+                },
+                {
+                    "x": 0.9137,
+                    "y": 0.8346
+                },
+                {
+                    "x": 0.1666,
+                    "y": 0.8346
+                }
+            ],
+            "id": 8,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='9' style='font-size:20px'>219</footer>",
+                "markdown": "219",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.86,
+                    "y": 0.9558
+                },
+                {
+                    "x": 0.9183,
+                    "y": 0.9558
+                },
+                {
+                    "x": 0.9183,
+                    "y": 0.9799
+                },
+                {
+                    "x": 0.86,
+                    "y": 0.9799
+                }
+            ],
+            "id": 9,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<br><footer id='10' style='font-size:22px'>The<br>Setup<br>Menus<br>8</footer>",
+                "markdown": "The\nSetup\nMenus\n8",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9562,
+                    "y": 0.5056
+                },
+                {
+                    "x": 0.983,
+                    "y": 0.5056
+                },
+                {
+                    "x": 0.983,
+                    "y": 0.6757
+                },
+                {
+                    "x": 0.9562,
+                    "y": 0.6757
+                }
+            ],
+            "id": 10,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

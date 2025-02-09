@@ -1,0 +1,123 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "# Flash Setting\n\n## TTL-Lock Mode\n\nInstead of adjusting flash level with each shot, TTL flash control can be locked for consistent results across a series of photographs.\n\n| Option                  | Description                                                                 |\n|-------------------------|-----------------------------------------------------------------------------|\n| LOCK WITH LAST FLASH    | Flash output is locked at the value metered for the most recent photo.      |\n| LOCK WITH METERING FLASH| The camera emits a series of pre-flashes and locks flash output at the metered value. |\n\n> 💡 **Note:**\n> - To use TTL lock, assign **TTL-LOCK** to a camera control and then use the control to enable or disable TTL lock.\n> - Flash compensation can be adjusted while TTL lock is in effect.\n> - Selecting **LOCK WITH LAST FLASH** displays an error message if no previously metered value exists.\n\n## LED Light Setting\n\nChoose whether to use the flash unit’s LED video light (if available) as a catchlight or AF-assist illuminator when taking photos.\n\n| Option                | Role of LED video light in still photography          |\n|-----------------------|--------------------------------------------------------|\n| CATCHLIGHT            | Catchlight                                             |\n| AF ASSIST             | AF-assist illuminator                                  |\n| AF ASSIST+CATCHLIGHT  | AF-assist illuminator and catchlight                   |\n| OFF                   | None                                                   |\n\n> 💡 **Note:**\n> - In some cases, this option can also be accessed via the **FLASH FUNCTION SETTING** menu.",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "Flash Setting",
+                    "md": "# Flash Setting"
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "TTL-Lock Mode",
+                    "md": "## TTL-Lock Mode"
+                },
+                {
+                    "type": "text",
+                    "value": "Instead of adjusting flash level with each shot, TTL flash control can be locked for consistent results across a series of photographs.",
+                    "md": "Instead of adjusting flash level with each shot, TTL flash control can be locked for consistent results across a series of photographs."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Option",
+                            "Description"
+                        ],
+                        [
+                            "LOCK WITH LAST FLASH",
+                            "Flash output is locked at the value metered for the most recent photo."
+                        ],
+                        [
+                            "LOCK WITH METERING FLASH",
+                            "The camera emits a series of pre-flashes and locks flash output at the metered value."
+                        ]
+                    ],
+                    "md": "| Option                  | Description                                                                 |\n|-------------------------|-----------------------------------------------------------------------------|\n| LOCK WITH LAST FLASH    | Flash output is locked at the value metered for the most recent photo.      |\n| LOCK WITH METERING FLASH| The camera emits a series of pre-flashes and locks flash output at the metered value. |",
+                    "isPerfectTable": true,
+                    "csv": "\"Option\",\"Description\"\n\"LOCK WITH LAST FLASH\",\"Flash output is locked at the value metered for the most recent photo.\"\n\"LOCK WITH METERING FLASH\",\"The camera emits a series of pre-flashes and locks flash output at the metered value.\""
+                },
+                {
+                    "type": "text",
+                    "value": "> 💡 **Note:**\n> - To use TTL lock, assign **TTL-LOCK** to a camera control and then use the control to enable or disable TTL lock.\n> - Flash compensation can be adjusted while TTL lock is in effect.\n> - Selecting **LOCK WITH LAST FLASH** displays an error message if no previously metered value exists.",
+                    "md": "> 💡 **Note:**\n> - To use TTL lock, assign **TTL-LOCK** to a camera control and then use the control to enable or disable TTL lock.\n> - Flash compensation can be adjusted while TTL lock is in effect.\n> - Selecting **LOCK WITH LAST FLASH** displays an error message if no previously metered value exists."
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "LED Light Setting",
+                    "md": "## LED Light Setting"
+                },
+                {
+                    "type": "text",
+                    "value": "Choose whether to use the flash unit’s LED video light (if available) as a catchlight or AF-assist illuminator when taking photos.",
+                    "md": "Choose whether to use the flash unit’s LED video light (if available) as a catchlight or AF-assist illuminator when taking photos."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Option",
+                            "Role of LED video light in still photography"
+                        ],
+                        [
+                            "CATCHLIGHT",
+                            "Catchlight"
+                        ],
+                        [
+                            "AF ASSIST",
+                            "AF-assist illuminator"
+                        ],
+                        [
+                            "AF ASSIST+CATCHLIGHT",
+                            "AF-assist illuminator and catchlight"
+                        ],
+                        [
+                            "OFF",
+                            "None"
+                        ]
+                    ],
+                    "md": "| Option                | Role of LED video light in still photography          |\n|-----------------------|--------------------------------------------------------|\n| CATCHLIGHT            | Catchlight                                             |\n| AF ASSIST             | AF-assist illuminator                                  |\n| AF ASSIST+CATCHLIGHT  | AF-assist illuminator and catchlight                   |\n| OFF                   | None                                                   |",
+                    "isPerfectTable": true,
+                    "csv": "\"Option\",\"Role of LED video light in still photography\"\n\"CATCHLIGHT\",\"Catchlight\"\n\"AF ASSIST\",\"AF-assist illuminator\"\n\"AF ASSIST+CATCHLIGHT\",\"AF-assist illuminator and catchlight\"\n\"OFF\",\"None\""
+                },
+                {
+                    "type": "text",
+                    "value": "> 💡 **Note:**\n> - In some cases, this option can also be accessed via the **FLASH FUNCTION SETTING** menu.",
+                    "md": "> 💡 **Note:**\n> - In some cases, this option can also be accessed via the **FLASH FUNCTION SETTING** menu."
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 797.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "fe2c83b5-2c99-4a9b-9d5a-3b76805e68a9",
+    "file_path": "../data/raw_data/x100v/x100v_split/x100v_page173.pdf"
+}

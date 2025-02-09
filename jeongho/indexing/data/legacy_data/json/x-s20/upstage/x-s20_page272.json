@@ -1,0 +1,406 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:22px'>The<br>Setup<br>Menus</header>\n<br><h1 id='1' style='font-size:22px'>USER SETTING</h1>\n<br><h1 id='2' style='font-size:20px'>Adjust basic camera settings.</h1>\n<p id='3' data-category='paragraph' style='font-size:18px'>To access basic camera settings, press<br>MENU/OK, select the 8 (SET UP) tab, and<br>choose USER SETTING.</p>\n<br><table id='4' style='font-size:14px'><tr><td></td><td>USER SETTING 1 /2</td></tr><tr><td rowspan=\"2\">AF MF</td><td>FORMAT</td></tr><tr><td>↑ AREA SETTING</td></tr><tr><td rowspan=\"6\"></td><td>DATE/TIME</td></tr><tr><td>TIME DIFFERENCE</td></tr><tr><td>周四 言語/LANG.</td></tr><tr><td>· MY MENU SETTING</td></tr><tr><td>8 MY MENU SETTING</td></tr><tr><td>2 SENSOR CLEANING BACK EXIT</td></tr></table>\n<p id='5' data-category='paragraph' style='font-size:16px'>FORMAT</p>\n<br><p id='6' data-category='paragraph' style='font-size:18px'>To format a memory card:</p>\n<p id='7' data-category='paragraph' style='font-size:18px'>1 Select 8 USER SETTING > FORMAT in the 8 (SET UP) tab.</p>\n<br><p id='8' data-category='paragraph' style='font-size:20px'>2 A confirmation dialog will be dis-<br>played. To format the memory card,<br>highlight OK and press MENU/OK.</p>\n<br><figure id='9'><img style='font-size:14px' alt=\"FORMAT\nSD FORMAT OK?\nOK\nCANCEL\" data-coord=\"top-left:(1692,1563); bottom-right:(2461,2093)\" /></figure>\n<br><p id='10' data-category='paragraph' style='font-size:16px'>To exit without formatting the memory card, select CANCEL or<br>press DISP/BACK.</p>\n<p id='11' data-category='list' style='font-size:16px'>All data-including protected pictures-will be deleted from the<br>memory card. Be sure important files have been copied to a comput-<br>er or other storage device.<br>● Do not open the battery-chamber cover during formatting.</p>\n<br><p id='12' data-category='paragraph' style='font-size:14px'>9</p>\n<footer id='13' style='font-size:20px'>270</footer>",
+        "markdown": "The\nSetup\nMenus\n\n# USER SETTING\n\n# Adjust basic camera settings.\n\nTo access basic camera settings, press\nMENU/OK, select the 8 (SET UP) tab, and\nchoose USER SETTING.\n\n|  | USER SETTING 1 /2 |\n| --- | --- |\n| AF MF | FORMAT |\n| AF MF | ↑ AREA SETTING |\n|  | DATE/TIME |\n| TIME DIFFERENCE |  |\n| 周四 言語/LANG. |  |\n| · MY MENU SETTING |  |\n| 8 MY MENU SETTING |  |\n| 2 SENSOR CLEANING BACK EXIT |  |\n\n\nFORMAT\n\nTo format a memory card:\n\n1 Select 8 USER SETTING > FORMAT in the 8 (SET UP) tab.\n\n2 A confirmation dialog will be dis-\nplayed. To format the memory card,\nhighlight OK and press MENU/OK.\n\n![image](/image/placeholder)\nFORMAT\nSD FORMAT OK?\nOK\nCANCEL\n\nTo exit without formatting the memory card, select CANCEL or\npress DISP/BACK.\n\n- All data-including protected pictures-will be deleted from the\n- memory card. Be sure important files have been copied to a comput-\n- er or other storage device.\n- ● Do not open the battery-chamber cover during formatting.\n\n\n9\n\n270",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:22px'>The<br>Setup<br>Menus</header>",
+                "markdown": "The\nSetup\nMenus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0188,
+                    "y": 0.5686
+                },
+                {
+                    "x": 0.0404,
+                    "y": 0.5686
+                },
+                {
+                    "x": 0.0404,
+                    "y": 0.6979
+                },
+                {
+                    "x": 0.0188,
+                    "y": 0.6979
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='1' style='font-size:22px'>USER SETTING</h1>",
+                "markdown": "# USER SETTING",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1549,
+                    "y": 0.0741
+                },
+                {
+                    "x": 0.403,
+                    "y": 0.0741
+                },
+                {
+                    "x": 0.403,
+                    "y": 0.098
+                },
+                {
+                    "x": 0.1549,
+                    "y": 0.098
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='2' style='font-size:20px'>Adjust basic camera settings.</h1>",
+                "markdown": "# Adjust basic camera settings.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1529,
+                    "y": 0.1094
+                },
+                {
+                    "x": 0.5211,
+                    "y": 0.1094
+                },
+                {
+                    "x": 0.5211,
+                    "y": 0.133
+                },
+                {
+                    "x": 0.1529,
+                    "y": 0.133
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='3' data-category='paragraph' style='font-size:18px'>To access basic camera settings, press<br>MENU/OK, select the 8 (SET UP) tab, and<br>choose USER SETTING.</p>",
+                "markdown": "To access basic camera settings, press\nMENU/OK, select the 8 (SET UP) tab, and\nchoose USER SETTING.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.082,
+                    "y": 0.1475
+                },
+                {
+                    "x": 0.6019,
+                    "y": 0.1475
+                },
+                {
+                    "x": 0.6019,
+                    "y": 0.2227
+                },
+                {
+                    "x": 0.082,
+                    "y": 0.2227
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='4' style='font-size:14px'><tr><td></td><td>USER SETTING 1 /2</td></tr><tr><td rowspan=\"2\">AF MF</td><td>FORMAT</td></tr><tr><td>↑ AREA SETTING</td></tr><tr><td rowspan=\"6\"></td><td>DATE/TIME</td></tr><tr><td>TIME DIFFERENCE</td></tr><tr><td>周四 言語/LANG.</td></tr><tr><td>· MY MENU SETTING</td></tr><tr><td>8 MY MENU SETTING</td></tr><tr><td>2 SENSOR CLEANING BACK EXIT</td></tr></table>",
+                "markdown": "|  | USER SETTING 1 /2 |\n| --- | --- |\n| AF MF | FORMAT |\n| AF MF | ↑ AREA SETTING |\n|  | DATE/TIME |\n| TIME DIFFERENCE |  |\n| 周四 言語/LANG. |  |\n| · MY MENU SETTING |  |\n| 8 MY MENU SETTING |  |\n| 2 SENSOR CLEANING BACK EXIT |  |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6098,
+                    "y": 0.1462
+                },
+                {
+                    "x": 0.891,
+                    "y": 0.1462
+                },
+                {
+                    "x": 0.891,
+                    "y": 0.2782
+                },
+                {
+                    "x": 0.6098,
+                    "y": 0.2782
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='5' data-category='paragraph' style='font-size:16px'>FORMAT</p>",
+                "markdown": "FORMAT",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0825,
+                    "y": 0.2961
+                },
+                {
+                    "x": 0.2032,
+                    "y": 0.2961
+                },
+                {
+                    "x": 0.2032,
+                    "y": 0.3185
+                },
+                {
+                    "x": 0.0825,
+                    "y": 0.3185
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='6' data-category='paragraph' style='font-size:18px'>To format a memory card:</p>",
+                "markdown": "To format a memory card:",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0839,
+                    "y": 0.3277
+                },
+                {
+                    "x": 0.4123,
+                    "y": 0.3277
+                },
+                {
+                    "x": 0.4123,
+                    "y": 0.3529
+                },
+                {
+                    "x": 0.0839,
+                    "y": 0.3529
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='7' data-category='paragraph' style='font-size:18px'>1 Select 8 USER SETTING > FORMAT in the 8 (SET UP) tab.</p>",
+                "markdown": "1 Select 8 USER SETTING > FORMAT in the 8 (SET UP) tab.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0927,
+                    "y": 0.3669
+                },
+                {
+                    "x": 0.867,
+                    "y": 0.3669
+                },
+                {
+                    "x": 0.867,
+                    "y": 0.3897
+                },
+                {
+                    "x": 0.0927,
+                    "y": 0.3897
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='8' data-category='paragraph' style='font-size:20px'>2 A confirmation dialog will be dis-<br>played. To format the memory card,<br>highlight OK and press MENU/OK.</p>",
+                "markdown": "2 A confirmation dialog will be dis-\nplayed. To format the memory card,\nhighlight OK and press MENU/OK.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0959,
+                    "y": 0.405
+                },
+                {
+                    "x": 0.603,
+                    "y": 0.405
+                },
+                {
+                    "x": 0.603,
+                    "y": 0.4813
+                },
+                {
+                    "x": 0.0959,
+                    "y": 0.4813
+                }
+            ],
+            "id": 8,
+            "page": 1
+        },
+        {
+            "category": "figure",
+            "content": {
+                "html": "<br><figure id='9'><img style='font-size:14px' alt=\"FORMAT\nSD FORMAT OK?\nOK\nCANCEL\" data-coord=\"top-left:(1692,1563); bottom-right:(2461,2093)\" /></figure>",
+                "markdown": "![image](/image/placeholder)\nFORMAT\nSD FORMAT OK?\nOK\nCANCEL",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6123,
+                    "y": 0.4012
+                },
+                {
+                    "x": 0.8904,
+                    "y": 0.4012
+                },
+                {
+                    "x": 0.8904,
+                    "y": 0.5371
+                },
+                {
+                    "x": 0.6123,
+                    "y": 0.5371
+                }
+            ],
+            "id": 9,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='10' data-category='paragraph' style='font-size:16px'>To exit without formatting the memory card, select CANCEL or<br>press DISP/BACK.</p>",
+                "markdown": "To exit without formatting the memory card, select CANCEL or\npress DISP/BACK.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1638,
+                    "y": 0.5472
+                },
+                {
+                    "x": 0.8881,
+                    "y": 0.5472
+                },
+                {
+                    "x": 0.8881,
+                    "y": 0.5916
+                },
+                {
+                    "x": 0.1638,
+                    "y": 0.5916
+                }
+            ],
+            "id": 10,
+            "page": 1
+        },
+        {
+            "category": "list",
+            "content": {
+                "html": "<p id='11' data-category='list' style='font-size:16px'>All data-including protected pictures-will be deleted from the<br>memory card. Be sure important files have been copied to a comput-<br>er or other storage device.<br>● Do not open the battery-chamber cover during formatting.</p>",
+                "markdown": "- All data-including protected pictures-will be deleted from the\n- memory card. Be sure important files have been copied to a comput-\n- er or other storage device.\n- ● Do not open the battery-chamber cover during formatting.\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1,
+                    "y": 0.6142
+                },
+                {
+                    "x": 0.8895,
+                    "y": 0.6142
+                },
+                {
+                    "x": 0.8895,
+                    "y": 0.7064
+                },
+                {
+                    "x": 0.1,
+                    "y": 0.7064
+                }
+            ],
+            "id": 11,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='12' data-category='paragraph' style='font-size:14px'>9</p>",
+                "markdown": "9",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0278,
+                    "y": 0.7191
+                },
+                {
+                    "x": 0.0417,
+                    "y": 0.7191
+                },
+                {
+                    "x": 0.0417,
+                    "y": 0.7348
+                },
+                {
+                    "x": 0.0278,
+                    "y": 0.7348
+                }
+            ],
+            "id": 12,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='13' style='font-size:20px'>270</footer>",
+                "markdown": "270",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0829,
+                    "y": 0.9562
+                },
+                {
+                    "x": 0.1401,
+                    "y": 0.9562
+                },
+                {
+                    "x": 0.1401,
+                    "y": 0.9788
+                },
+                {
+                    "x": 0.0829,
+                    "y": 0.9788
+                }
+            ],
+            "id": 13,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

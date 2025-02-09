@@ -1,0 +1,266 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<h1 id='0' style='font-size:16px'>ZEBRA SETTING</h1>\n\n<br><table id='2' style='font-size:18px'><tr><td>Option</td><td>Description</td></tr><tr><td>ZEBRA RIGHT</td><td>Right-slanting stripes.</td></tr><tr><td>ZEBRA LEFT</td><td>Left-slanting stripes.</td></tr><tr><td>OFF</td><td>Stripes off.</td></tr><br><caption id='1' style='font-size:20px'>Highlights that may be overexposed are shown by zebra stripes<br>in the movie mode display.</caption></table>\n<p id='3' data-category='paragraph' style='font-size:16px'>ZEBRA LEVEL</p>\n\n<br><table id='5' style='font-size:14px'><tr><td rowspan=\"2\" colspan=\"11\">Options</td></tr><tr></tr><tr><td>50</td><td>55</td><td>60</td><td>65</td><td>70</td><td>75</td><td>80</td><td>85</td><td>90</td><td>95</td><td>100</td></tr><br><caption id='4' style='font-size:18px'>Choose the brightness threshold for the zebra stripe display.</caption></table>\n<p id='6' data-category='paragraph' style='font-size:14px'>6</p>\n<br><header id='7' style='font-size:22px'>The<br>Shooting<br>Menus</header>\n<footer id='8' style='font-size:18px'>198</footer>",
+        "markdown": "# ZEBRA SETTING\n\nHighlights that may be overexposed are shown by zebra stripes\nin the movie mode display.\n\n| Option | Description |\n| --- | --- |\n| ZEBRA RIGHT | Right-slanting stripes. |\n| ZEBRA LEFT | Left-slanting stripes. |\n| OFF | Stripes off. |\n\n\nZEBRA LEVEL\n\nChoose the brightness threshold for the zebra stripe display.\n\n| Options | Options | Options | Options | Options | Options | Options | Options | Options | Options | Options |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| Options | Options | Options | Options | Options | Options | Options | Options | Options | Options | Options |\n| 50 | 55 | 60 | 65 | 70 | 75 | 80 | 85 | 90 | 95 | 100 |\n\n\n6\n\nThe\nShooting\nMenus\n\n198",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='0' style='font-size:16px'>ZEBRA SETTING</h1>",
+                "markdown": "# ZEBRA SETTING",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0815,
+                    "y": 0.0729
+                },
+                {
+                    "x": 0.3019,
+                    "y": 0.0729
+                },
+                {
+                    "x": 0.3019,
+                    "y": 0.0941
+                },
+                {
+                    "x": 0.0815,
+                    "y": 0.0941
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='1' data-category='paragraph' style='font-size:20px'>Highlights that may be overexposed are shown by zebra stripes<br>in the movie mode display.</p>",
+                "markdown": "Highlights that may be overexposed are shown by zebra stripes\nin the movie mode display.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0802,
+                    "y": 0.1044
+                },
+                {
+                    "x": 0.8925,
+                    "y": 0.1044
+                },
+                {
+                    "x": 0.8925,
+                    "y": 0.1544
+                },
+                {
+                    "x": 0.0802,
+                    "y": 0.1544
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='2' style='font-size:18px'><tr><td>Option</td><td>Description</td></tr><tr><td>ZEBRA RIGHT</td><td>Right-slanting stripes.</td></tr><tr><td>ZEBRA LEFT</td><td>Left-slanting stripes.</td></tr><tr><td>OFF</td><td>Stripes off.</td></tr></table>",
+                "markdown": "| Option | Description |\n| --- | --- |\n| ZEBRA RIGHT | Right-slanting stripes. |\n| ZEBRA LEFT | Left-slanting stripes. |\n| OFF | Stripes off. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0827,
+                    "y": 0.166
+                },
+                {
+                    "x": 0.8899,
+                    "y": 0.166
+                },
+                {
+                    "x": 0.8899,
+                    "y": 0.2767
+                },
+                {
+                    "x": 0.0827,
+                    "y": 0.2767
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='3' data-category='paragraph' style='font-size:16px'>ZEBRA LEVEL</p>",
+                "markdown": "ZEBRA LEVEL",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0811,
+                    "y": 0.2941
+                },
+                {
+                    "x": 0.2666,
+                    "y": 0.2941
+                },
+                {
+                    "x": 0.2666,
+                    "y": 0.3154
+                },
+                {
+                    "x": 0.0811,
+                    "y": 0.3154
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='4' data-category='paragraph' style='font-size:18px'>Choose the brightness threshold for the zebra stripe display.</p>",
+                "markdown": "Choose the brightness threshold for the zebra stripe display.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0801,
+                    "y": 0.3251
+                },
+                {
+                    "x": 0.8409,
+                    "y": 0.3251
+                },
+                {
+                    "x": 0.8409,
+                    "y": 0.3511
+                },
+                {
+                    "x": 0.0801,
+                    "y": 0.3511
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='5' style='font-size:14px'><tr><td rowspan=\"2\" colspan=\"11\">Options</td></tr><tr></tr><tr><td>50</td><td>55</td><td>60</td><td>65</td><td>70</td><td>75</td><td>80</td><td>85</td><td>90</td><td>95</td><td>100</td></tr></table>",
+                "markdown": "| Options | Options | Options | Options | Options | Options | Options | Options | Options | Options | Options |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| Options | Options | Options | Options | Options | Options | Options | Options | Options | Options | Options |\n| 50 | 55 | 60 | 65 | 70 | 75 | 80 | 85 | 90 | 95 | 100 |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0867,
+                    "y": 0.3628
+                },
+                {
+                    "x": 0.8894,
+                    "y": 0.3628
+                },
+                {
+                    "x": 0.8894,
+                    "y": 0.4128
+                },
+                {
+                    "x": 0.0867,
+                    "y": 0.4128
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='6' data-category='paragraph' style='font-size:14px'>6</p>",
+                "markdown": "6",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.029,
+                    "y": 0.5407
+                },
+                {
+                    "x": 0.0416,
+                    "y": 0.5407
+                },
+                {
+                    "x": 0.0416,
+                    "y": 0.5543
+                },
+                {
+                    "x": 0.029,
+                    "y": 0.5543
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "header",
+            "content": {
+                "html": "<br><header id='7' style='font-size:22px'>The<br>Shooting<br>Menus</header>",
+                "markdown": "The\nShooting\nMenus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0162,
+                    "y": 0.5788
+                },
+                {
+                    "x": 0.0429,
+                    "y": 0.5788
+                },
+                {
+                    "x": 0.0429,
+                    "y": 0.7308
+                },
+                {
+                    "x": 0.0162,
+                    "y": 0.7308
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='8' style='font-size:18px'>198</footer>",
+                "markdown": "198",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0848,
+                    "y": 0.9561
+                },
+                {
+                    "x": 0.1402,
+                    "y": 0.9561
+                },
+                {
+                    "x": 0.1402,
+                    "y": 0.98
+                },
+                {
+                    "x": 0.0848,
+                    "y": 0.98
+                }
+            ],
+            "id": 8,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

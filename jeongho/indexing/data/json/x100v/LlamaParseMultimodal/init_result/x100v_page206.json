@@ -1,0 +1,77 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "# PROTECT\n\nProtect pictures from accidental deletion. Highlight one of the following options and press **MENU/OK**.\n\n| Option   | Description                                                                                                                                   |\n|----------|-----------------------------------------------------------------------------------------------------------------------------------------------|\n| FRAME    | Protect selected pictures. Press the focus stick (focus lever) left or right to view pictures and press **MENU/OK** to select or deselect. Press **DISP/BACK** when the operation is complete. |\n| SET ALL  | Protect all pictures.                                                                                                                         |\n| RESET ALL| Remove protection from all pictures.                                                                                                          |\n\n> !Note\n> - Protected pictures will be deleted when the memory card is formatted.\n> - Protecting images currently selected for upload to paired smartphones or tablets removes upload marking.",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "PROTECT",
+                    "md": "# PROTECT"
+                },
+                {
+                    "type": "text",
+                    "value": "Protect pictures from accidental deletion. Highlight one of the following options and press **MENU/OK**.",
+                    "md": "Protect pictures from accidental deletion. Highlight one of the following options and press **MENU/OK**."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Option",
+                            "Description"
+                        ],
+                        [
+                            "FRAME",
+                            "Protect selected pictures. Press the focus stick (focus lever) left or right to view pictures and press **MENU/OK** to select or deselect. Press **DISP/BACK** when the operation is complete."
+                        ],
+                        [
+                            "SET ALL",
+                            "Protect all pictures."
+                        ],
+                        [
+                            "RESET ALL",
+                            "Remove protection from all pictures."
+                        ]
+                    ],
+                    "md": "| Option   | Description                                                                                                                                   |\n|----------|-----------------------------------------------------------------------------------------------------------------------------------------------|\n| FRAME    | Protect selected pictures. Press the focus stick (focus lever) left or right to view pictures and press **MENU/OK** to select or deselect. Press **DISP/BACK** when the operation is complete. |\n| SET ALL  | Protect all pictures.                                                                                                                         |\n| RESET ALL| Remove protection from all pictures.                                                                                                          |",
+                    "isPerfectTable": true,
+                    "csv": "\"Option\",\"Description\"\n\"FRAME\",\"Protect selected pictures. Press the focus stick (focus lever) left or right to view pictures and press **MENU/OK** to select or deselect. Press **DISP/BACK** when the operation is complete.\"\n\"SET ALL\",\"Protect all pictures.\"\n\"RESET ALL\",\"Remove protection from all pictures.\""
+                },
+                {
+                    "type": "text",
+                    "value": "> !Note\n> - Protected pictures will be deleted when the memory card is formatted.\n> - Protecting images currently selected for upload to paired smartphones or tablets removes upload marking.",
+                    "md": "> !Note\n> - Protected pictures will be deleted when the memory card is formatted.\n> - Protecting images currently selected for upload to paired smartphones or tablets removes upload marking."
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 694.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "5403cf69-8b2f-4755-aec0-b2992bd69a68",
+    "file_path": "../data/raw_data/x100v/x100v_split/x100v_page206.pdf"
+}

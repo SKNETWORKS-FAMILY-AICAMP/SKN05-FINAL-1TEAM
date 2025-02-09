@@ -1,0 +1,13 @@
+{
+    "parsing_result": "## Network/USB Setting Menus\n\n- Select **GATEWAY ADDRESS** and enter a gateway address.\n\n  !Gateway Address Menu\n\n- Select **DNS SERVER ADDRESS** and enter a DNS server address.\n\n  !DNS Server Address Menu\n\n### Connection Status\n\nThe status of the connection to Frame.io is shown by an icon in the electronic viewfinder or LCD monitor.\n\n| Icon | Connection Status |\n|------|-------------------|\n| !White Icon | Connected to Frame.io. |\n| !Amber Icon | Camera has temporarily suspended upload to Frame.io. To resume, select **Frame.io Camera to Cloud > UPLOAD SETTING > TRANSFER/SUSPEND > TRANSFER**. |\n| !Gray Icon | Not connected to Frame.io. |\n| !Red Icon | Frame.io server has set camera status to \"paused\". To restore connection, clear \"paused\" status using computer or other device. |",
+    "embedding_result": [],
+    "metadata": {
+        "page": 274,
+        "model": "gfx100ii",
+        "chapter": "Network/USB Setting Menus",
+        "section": "Uploading Files to Frame.io",
+        "subsection": [
+            "Connecting via Wired LAN (Ethernet)"
+        ]
+    }
+}

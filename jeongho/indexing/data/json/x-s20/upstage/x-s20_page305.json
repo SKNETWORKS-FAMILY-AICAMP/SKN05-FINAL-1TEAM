@@ -1,0 +1,266 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:14px'>SAVE DATA SETTING</header>\n<h1 id='1' style='font-size:16px'>COPYRIGHT INFO</h1>\n\n<br><table id='3' style='font-size:16px'><tr><td>Option</td><td>Description</td></tr><tr><td>DISP COPYRIGHT INFO</td><td>View the current copyright information.</td></tr><tr><td>ENTER AUTHOR'S INFO</td><td>Enter the creator's name.</td></tr><tr><td>ENTER COPYRIGHT INFO</td><td>Enter the name of the copyright holder.</td></tr><tr><td>DELETE COPYRIGHT INFO</td><td>Delete the current copyright information. This change applies only to images taken after this option is selected; copyright information recorded with existing images is not affected.</td></tr><br><caption id='2' style='font-size:20px'>Copyright information, in the form of Exif tags, can be added to<br>new images as they are taken. Changes to copyright information<br>are reflected only in images taken after the changes are made.</caption></table>\n<p id='4' data-category='paragraph' style='font-size:16px'>GEOTAGGING</p>\n\n<br><table id='6' style='font-size:14px'><tr><td colspan=\"2\">Options</td></tr><tr><td>ON</td><td>OFF</td></tr><br><caption id='5' style='font-size:18px'>If ON is selected, location data downloaded from a smartphone<br>will be embedded in pictures as they are taken.</caption></table>\n<footer id='7' style='font-size:22px'>The<br>Setup<br>Menus</footer>\n<footer id='8' style='font-size:20px'>305</footer>",
+        "markdown": "SAVE DATA SETTING\n\n# COPYRIGHT INFO\n\nCopyright information, in the form of Exif tags, can be added to\nnew images as they are taken. Changes to copyright information\nare reflected only in images taken after the changes are made.\n\n| Option | Description |\n| --- | --- |\n| DISP COPYRIGHT INFO | View the current copyright information. |\n| ENTER AUTHOR'S INFO | Enter the creator's name. |\n| ENTER COPYRIGHT INFO | Enter the name of the copyright holder. |\n| DELETE COPYRIGHT INFO | Delete the current copyright information. This change applies only to images taken after this option is selected; copyright information recorded with existing images is not affected. |\n\n\nGEOTAGGING\n\nIf ON is selected, location data downloaded from a smartphone\nwill be embedded in pictures as they are taken.\n\n| Options | Options |\n| --- | --- |\n| ON | OFF |\n\n\nThe\nSetup\nMenus\n\n305",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:14px'>SAVE DATA SETTING</header>",
+                "markdown": "SAVE DATA SETTING",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.7189,
+                    "y": 0.0288
+                },
+                {
+                    "x": 0.9182,
+                    "y": 0.0288
+                },
+                {
+                    "x": 0.9182,
+                    "y": 0.0492
+                },
+                {
+                    "x": 0.7189,
+                    "y": 0.0492
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='1' style='font-size:16px'>COPYRIGHT INFO</h1>",
+                "markdown": "# COPYRIGHT INFO",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1063,
+                    "y": 0.0729
+                },
+                {
+                    "x": 0.3483,
+                    "y": 0.0729
+                },
+                {
+                    "x": 0.3483,
+                    "y": 0.0948
+                },
+                {
+                    "x": 0.1063,
+                    "y": 0.0948
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='2' data-category='paragraph' style='font-size:20px'>Copyright information, in the form of Exif tags, can be added to<br>new images as they are taken. Changes to copyright information<br>are reflected only in images taken after the changes are made.</p>",
+                "markdown": "Copyright information, in the form of Exif tags, can be added to\nnew images as they are taken. Changes to copyright information\nare reflected only in images taken after the changes are made.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1054,
+                    "y": 0.1035
+                },
+                {
+                    "x": 0.9196,
+                    "y": 0.1035
+                },
+                {
+                    "x": 0.9196,
+                    "y": 0.1803
+                },
+                {
+                    "x": 0.1054,
+                    "y": 0.1803
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='3' style='font-size:16px'><tr><td>Option</td><td>Description</td></tr><tr><td>DISP COPYRIGHT INFO</td><td>View the current copyright information.</td></tr><tr><td>ENTER AUTHOR'S INFO</td><td>Enter the creator's name.</td></tr><tr><td>ENTER COPYRIGHT INFO</td><td>Enter the name of the copyright holder.</td></tr><tr><td>DELETE COPYRIGHT INFO</td><td>Delete the current copyright information. This change applies only to images taken after this option is selected; copyright information recorded with existing images is not affected.</td></tr></table>",
+                "markdown": "| Option | Description |\n| --- | --- |\n| DISP COPYRIGHT INFO | View the current copyright information. |\n| ENTER AUTHOR'S INFO | Enter the creator's name. |\n| ENTER COPYRIGHT INFO | Enter the name of the copyright holder. |\n| DELETE COPYRIGHT INFO | Delete the current copyright information. This change applies only to images taken after this option is selected; copyright information recorded with existing images is not affected. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1088,
+                    "y": 0.1914
+                },
+                {
+                    "x": 0.9187,
+                    "y": 0.1914
+                },
+                {
+                    "x": 0.9187,
+                    "y": 0.361
+                },
+                {
+                    "x": 0.1088,
+                    "y": 0.361
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='4' data-category='paragraph' style='font-size:16px'>GEOTAGGING</p>",
+                "markdown": "GEOTAGGING",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1072,
+                    "y": 0.3776
+                },
+                {
+                    "x": 0.2983,
+                    "y": 0.3776
+                },
+                {
+                    "x": 0.2983,
+                    "y": 0.3992
+                },
+                {
+                    "x": 0.1072,
+                    "y": 0.3992
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='5' data-category='paragraph' style='font-size:18px'>If ON is selected, location data downloaded from a smartphone<br>will be embedded in pictures as they are taken.</p>",
+                "markdown": "If ON is selected, location data downloaded from a smartphone\nwill be embedded in pictures as they are taken.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1058,
+                    "y": 0.4086
+                },
+                {
+                    "x": 0.918,
+                    "y": 0.4086
+                },
+                {
+                    "x": 0.918,
+                    "y": 0.4599
+                },
+                {
+                    "x": 0.1058,
+                    "y": 0.4599
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='6' style='font-size:14px'><tr><td colspan=\"2\">Options</td></tr><tr><td>ON</td><td>OFF</td></tr></table>",
+                "markdown": "| Options | Options |\n| --- | --- |\n| ON | OFF |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.107,
+                    "y": 0.4725
+                },
+                {
+                    "x": 0.9146,
+                    "y": 0.4725
+                },
+                {
+                    "x": 0.9146,
+                    "y": 0.5215
+                },
+                {
+                    "x": 0.107,
+                    "y": 0.5215
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='7' style='font-size:22px'>The<br>Setup<br>Menus</footer>",
+                "markdown": "The\nSetup\nMenus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9576,
+                    "y": 0.57
+                },
+                {
+                    "x": 0.9801,
+                    "y": 0.57
+                },
+                {
+                    "x": 0.9801,
+                    "y": 0.6972
+                },
+                {
+                    "x": 0.9576,
+                    "y": 0.6972
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='8' style='font-size:20px'>305</footer>",
+                "markdown": "305",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.8603,
+                    "y": 0.9562
+                },
+                {
+                    "x": 0.9175,
+                    "y": 0.9562
+                },
+                {
+                    "x": 0.9175,
+                    "y": 0.9795
+                },
+                {
+                    "x": 0.8603,
+                    "y": 0.9795
+                }
+            ],
+            "id": 8,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

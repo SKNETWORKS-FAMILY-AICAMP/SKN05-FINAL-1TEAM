@@ -1,0 +1,182 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:22px'>The<br>Shooting<br>Menus</header>\n<br><h1 id='1' style='font-size:16px'>WHITE BALANCE</h1>\n<br><h1 id='2' style='font-size:18px'>For natural colors, choose a white balance option that matches<br>the light source.</h1>\n<table id='3' style='font-size:14px'><tr><td>Option</td><td>Description</td></tr><tr><td>AUTO</td><td>White balance is adjusted automatically.</td></tr><tr><td>01/02/03</td><td>Measure a value for white balance.</td></tr><tr><td>K</td><td>Choose a color temperature.</td></tr><tr><td></td><td>For subjects in direct sunlight.</td></tr><tr><td></td><td>For subjects in the shade.</td></tr><tr><td>※</td><td>Use under\"daylight\" fluorescent lights.</td></tr><tr><td>※</td><td>Use under\"warm white\"fluorescent lights.</td></tr><tr><td>※</td><td>Use under\"cool white\"fluorescent lights.</td></tr><tr><td></td><td>Use under incandescent lighting.</td></tr><tr><td></td><td>Reduces the blue cast typically associated with underwater light- ing.</td></tr></table>\n<p id='4' data-category='list' style='font-size:14px'>In conditions in which AUTO fails to produce the desired results�for<br>example, under certain types of lighting or in close-ups of portrait<br>subjects�use custom white balance or choose a white balance op-<br>tion suited to the light source.<br>● White balance is adjusted for flash lighting only in AUTO and<br>modes. Turn the flash off using other white balance options.<br>● White balance options can also be accessed via shortcuts (目目 244).</p>\n<footer id='5' style='font-size:20px'>110</footer>",
+        "markdown": "The\nShooting\nMenus\n\n# WHITE BALANCE\n\n# For natural colors, choose a white balance option that matches\nthe light source.\n\n| Option | Description |\n| --- | --- |\n| AUTO | White balance is adjusted automatically. |\n| 01/02/03 | Measure a value for white balance. |\n| K | Choose a color temperature. |\n|  | For subjects in direct sunlight. |\n|  | For subjects in the shade. |\n| ※ | Use under\"daylight\" fluorescent lights. |\n| ※ | Use under\"warm white\"fluorescent lights. |\n| ※ | Use under\"cool white\"fluorescent lights. |\n|  | Use under incandescent lighting. |\n|  | Reduces the blue cast typically associated with underwater light- ing. |\n\n\n- In conditions in which AUTO fails to produce the desired results�for\n- example, under certain types of lighting or in close-ups of portrait\n- subjects�use custom white balance or choose a white balance op-\n- tion suited to the light source.\n- ● White balance is adjusted for flash lighting only in AUTO and\n- modes. Turn the flash off using other white balance options.\n- ● White balance options can also be accessed via shortcuts (目目 244).\n\n\n110",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:22px'>The<br>Shooting<br>Menus</header>",
+                "markdown": "The\nShooting\nMenus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0164,
+                    "y": 0.5789
+                },
+                {
+                    "x": 0.0421,
+                    "y": 0.5789
+                },
+                {
+                    "x": 0.0421,
+                    "y": 0.7311
+                },
+                {
+                    "x": 0.0164,
+                    "y": 0.7311
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='1' style='font-size:16px'>WHITE BALANCE</h1>",
+                "markdown": "# WHITE BALANCE",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0818,
+                    "y": 0.073
+                },
+                {
+                    "x": 0.3146,
+                    "y": 0.073
+                },
+                {
+                    "x": 0.3146,
+                    "y": 0.0942
+                },
+                {
+                    "x": 0.0818,
+                    "y": 0.0942
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='2' style='font-size:18px'>For natural colors, choose a white balance option that matches<br>the light source.</h1>",
+                "markdown": "# For natural colors, choose a white balance option that matches\nthe light source.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0806,
+                    "y": 0.1053
+                },
+                {
+                    "x": 0.8926,
+                    "y": 0.1053
+                },
+                {
+                    "x": 0.8926,
+                    "y": 0.1539
+                },
+                {
+                    "x": 0.0806,
+                    "y": 0.1539
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='3' style='font-size:14px'><tr><td>Option</td><td>Description</td></tr><tr><td>AUTO</td><td>White balance is adjusted automatically.</td></tr><tr><td>01/02/03</td><td>Measure a value for white balance.</td></tr><tr><td>K</td><td>Choose a color temperature.</td></tr><tr><td></td><td>For subjects in direct sunlight.</td></tr><tr><td></td><td>For subjects in the shade.</td></tr><tr><td>※</td><td>Use under\"daylight\" fluorescent lights.</td></tr><tr><td>※</td><td>Use under\"warm white\"fluorescent lights.</td></tr><tr><td>※</td><td>Use under\"cool white\"fluorescent lights.</td></tr><tr><td></td><td>Use under incandescent lighting.</td></tr><tr><td></td><td>Reduces the blue cast typically associated with underwater light- ing.</td></tr></table>",
+                "markdown": "| Option | Description |\n| --- | --- |\n| AUTO | White balance is adjusted automatically. |\n| 01/02/03 | Measure a value for white balance. |\n| K | Choose a color temperature. |\n|  | For subjects in direct sunlight. |\n|  | For subjects in the shade. |\n| ※ | Use under\"daylight\" fluorescent lights. |\n| ※ | Use under\"warm white\"fluorescent lights. |\n| ※ | Use under\"cool white\"fluorescent lights. |\n|  | Use under incandescent lighting. |\n|  | Reduces the blue cast typically associated with underwater light- ing. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0856,
+                    "y": 0.1678
+                },
+                {
+                    "x": 0.8897,
+                    "y": 0.1678
+                },
+                {
+                    "x": 0.8897,
+                    "y": 0.4545
+                },
+                {
+                    "x": 0.0856,
+                    "y": 0.4545
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "list",
+            "content": {
+                "html": "<p id='4' data-category='list' style='font-size:14px'>In conditions in which AUTO fails to produce the desired results�for<br>example, under certain types of lighting or in close-ups of portrait<br>subjects�use custom white balance or choose a white balance op-<br>tion suited to the light source.<br>● White balance is adjusted for flash lighting only in AUTO and<br>modes. Turn the flash off using other white balance options.<br>● White balance options can also be accessed via shortcuts (目目 244).</p>",
+                "markdown": "- In conditions in which AUTO fails to produce the desired results�for\n- example, under certain types of lighting or in close-ups of portrait\n- subjects�use custom white balance or choose a white balance op-\n- tion suited to the light source.\n- ● White balance is adjusted for flash lighting only in AUTO and\n- modes. Turn the flash off using other white balance options.\n- ● White balance options can also be accessed via shortcuts (目目 244).\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1089,
+                    "y": 0.4656
+                },
+                {
+                    "x": 0.8894,
+                    "y": 0.4656
+                },
+                {
+                    "x": 0.8894,
+                    "y": 0.627
+                },
+                {
+                    "x": 0.1089,
+                    "y": 0.627
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='5' style='font-size:20px'>110</footer>",
+                "markdown": "110",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0844,
+                    "y": 0.9562
+                },
+                {
+                    "x": 0.1408,
+                    "y": 0.9562
+                },
+                {
+                    "x": 0.1408,
+                    "y": 0.98
+                },
+                {
+                    "x": 0.0844,
+                    "y": 0.98
+                }
+            ],
+            "id": 5,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

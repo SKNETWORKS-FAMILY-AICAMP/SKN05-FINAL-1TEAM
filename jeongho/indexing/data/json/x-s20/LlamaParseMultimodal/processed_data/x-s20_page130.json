@@ -1,0 +1,13 @@
+{
+    "parsing_result": "# RAW RECORDING\n\nChoose whether to compress RAW images.\n\n| Option                | Description                                                                                                                                                                                                                                                                                                                                 |\n|-----------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| **UNCOMPRESSED**      | RAW images are not compressed.                                                                                                                                                                                                                                                                                                              |\n| **LOSSLESS COMPRESSED** | RAW images are compressed using a reversible algorithm that reduces file size with no loss of image data. The images can be viewed in Capture One Express for Fujifilm¹, Capture One for Fujifilm¹, Capture One¹, RAW FILE CONVERTER EX powered by SILKYPIX², FUJIFILM X RAW STUDIO, or other software that supports \"lossless\" RAW compression. Quality is the same as UNCOMPRESSED, but the resulting files are anywhere from about 30 to 90 percent of their uncompressed size. |\n| **COMPRESSED**        | RAW images are compressed using a \"lossy\", non-reversible algorithm. Quality is about the same as UNCOMPRESSED, but the resulting files are anywhere from about 25 to 35 percent of their uncompressed size.                                                                                                                                 |\n\n¹ For information on when support will be available, visit: https://www.captureone.com/\n\n² For information on when support will be available, visit: https://fujifilm-x.com/support/compatibility/software/raw-file-converter-ex-powered-by-silkypix/",
+    "embedding_result": [],
+    "metadata": {
+        "page": 130,
+        "model": "x-s20",
+        "subsection": [
+            "RAW RECORDING"
+        ],
+        "chapter": "The Shooting Menus",
+        "section": "IMAGE QUALITY SETTING (Still Photography)"
+    }
+}

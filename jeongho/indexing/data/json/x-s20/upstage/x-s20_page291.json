@@ -1,0 +1,378 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:14px'>BUTTON/DIAL SETTING</header>\n<h1 id='1' style='font-size:18px'>COMMAND DIAL SETTING</h1>\n\n<br><table id='3' style='font-size:16px'><tr><td>Option</td><td>Description</td></tr><tr><td>P</td><td>Reverse the dials used for program shift and exposure compen- sation in mode P (program AE).</td></tr><tr><td>S</td><td>Reverse the dials used for shutter-speed selection and exposure compensation in mode S (shutter-priority AE).</td></tr><tr><td>A</td><td>Reverse the dials used for aperture selection and exposure compensation in mode A (aperture-priority AE).</td></tr><tr><td>M</td><td>Reverse the dials used for shutter-speed and aperture selection in mode M (manual).</td></tr><br><caption id='2' style='font-size:20px'>Choose whether to reverse the roles played by the front and rear<br>command dials in each of the following modes.</caption></table>\n<p id='4' data-category='paragraph' style='font-size:16px'>S.S OPERATION</p>\n\n<br><table id='6' style='font-size:18px'><tr><td colspan=\"2\">Options</td></tr><tr><td>ON</td><td>OFF</td></tr><br><caption id='5' style='font-size:20px'>Select OFF to disable shutter-speed fine-tuning using the com-<br>mand dials.</caption></table>\n<p id='7' data-category='paragraph' style='font-size:16px'>COMMAND DIAL DIRECTION</p>\n\n<table id='9' style='font-size:14px'><tr><td>Option</td><td>Description</td></tr><tr><td>- +</td><td>Rotate the dial right for higher values or to move to the next item.</td></tr><tr><td>+</td><td>Rotate the dial left for higher values or to move to the next item.</td></tr><br><caption id='8' style='font-size:18px'>Choose the direction in which the command dials are rotated to<br>choose values. Settings for the front and rear command dials can<br>be adjusted separately.</caption></table>\n<br><footer id='10' style='font-size:22px'>The<br>Setup<br>Menus</footer>\n<footer id='11' style='font-size:14px'>9</footer>\n<footer id='12' style='font-size:22px'>291</footer>",
+        "markdown": "BUTTON/DIAL SETTING\n\n# COMMAND DIAL SETTING\n\nChoose whether to reverse the roles played by the front and rear\ncommand dials in each of the following modes.\n\n| Option | Description |\n| --- | --- |\n| P | Reverse the dials used for program shift and exposure compen- sation in mode P (program AE). |\n| S | Reverse the dials used for shutter-speed selection and exposure compensation in mode S (shutter-priority AE). |\n| A | Reverse the dials used for aperture selection and exposure compensation in mode A (aperture-priority AE). |\n| M | Reverse the dials used for shutter-speed and aperture selection in mode M (manual). |\n\n\nS.S OPERATION\n\nSelect OFF to disable shutter-speed fine-tuning using the com-\nmand dials.\n\n| Options | Options |\n| --- | --- |\n| ON | OFF |\n\n\nCOMMAND DIAL DIRECTION\n\nChoose the direction in which the command dials are rotated to\nchoose values. Settings for the front and rear command dials can\nbe adjusted separately.\n\n| Option | Description |\n| --- | --- |\n| - + | Rotate the dial right for higher values or to move to the next item. |\n| + | Rotate the dial left for higher values or to move to the next item. |\n\n\nThe\nSetup\nMenus\n\n9\n\n291",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:14px'>BUTTON/DIAL SETTING</header>",
+                "markdown": "BUTTON/DIAL SETTING",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6872,
+                    "y": 0.0285
+                },
+                {
+                    "x": 0.9182,
+                    "y": 0.0285
+                },
+                {
+                    "x": 0.9182,
+                    "y": 0.0495
+                },
+                {
+                    "x": 0.6872,
+                    "y": 0.0495
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='1' style='font-size:18px'>COMMAND DIAL SETTING</h1>",
+                "markdown": "# COMMAND DIAL SETTING",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.106,
+                    "y": 0.0731
+                },
+                {
+                    "x": 0.4629,
+                    "y": 0.0731
+                },
+                {
+                    "x": 0.4629,
+                    "y": 0.0952
+                },
+                {
+                    "x": 0.106,
+                    "y": 0.0952
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='2' data-category='paragraph' style='font-size:20px'>Choose whether to reverse the roles played by the front and rear<br>command dials in each of the following modes.</p>",
+                "markdown": "Choose whether to reverse the roles played by the front and rear\ncommand dials in each of the following modes.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1057,
+                    "y": 0.1039
+                },
+                {
+                    "x": 0.917,
+                    "y": 0.1039
+                },
+                {
+                    "x": 0.917,
+                    "y": 0.1543
+                },
+                {
+                    "x": 0.1057,
+                    "y": 0.1543
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='3' style='font-size:16px'><tr><td>Option</td><td>Description</td></tr><tr><td>P</td><td>Reverse the dials used for program shift and exposure compen- sation in mode P (program AE).</td></tr><tr><td>S</td><td>Reverse the dials used for shutter-speed selection and exposure compensation in mode S (shutter-priority AE).</td></tr><tr><td>A</td><td>Reverse the dials used for aperture selection and exposure compensation in mode A (aperture-priority AE).</td></tr><tr><td>M</td><td>Reverse the dials used for shutter-speed and aperture selection in mode M (manual).</td></tr></table>",
+                "markdown": "| Option | Description |\n| --- | --- |\n| P | Reverse the dials used for program shift and exposure compen- sation in mode P (program AE). |\n| S | Reverse the dials used for shutter-speed selection and exposure compensation in mode S (shutter-priority AE). |\n| A | Reverse the dials used for aperture selection and exposure compensation in mode A (aperture-priority AE). |\n| M | Reverse the dials used for shutter-speed and aperture selection in mode M (manual). |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1057,
+                    "y": 0.1655
+                },
+                {
+                    "x": 0.9181,
+                    "y": 0.1655
+                },
+                {
+                    "x": 0.9181,
+                    "y": 0.38
+                },
+                {
+                    "x": 0.1057,
+                    "y": 0.38
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='4' data-category='paragraph' style='font-size:16px'>S.S OPERATION</p>",
+                "markdown": "S.S OPERATION",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1098,
+                    "y": 0.3981
+                },
+                {
+                    "x": 0.3649,
+                    "y": 0.3981
+                },
+                {
+                    "x": 0.3649,
+                    "y": 0.4201
+                },
+                {
+                    "x": 0.1098,
+                    "y": 0.4201
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='5' data-category='paragraph' style='font-size:20px'>Select OFF to disable shutter-speed fine-tuning using the com-<br>mand dials.</p>",
+                "markdown": "Select OFF to disable shutter-speed fine-tuning using the com-\nmand dials.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1076,
+                    "y": 0.4293
+                },
+                {
+                    "x": 0.9164,
+                    "y": 0.4293
+                },
+                {
+                    "x": 0.9164,
+                    "y": 0.4789
+                },
+                {
+                    "x": 0.1076,
+                    "y": 0.4789
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='6' style='font-size:18px'><tr><td colspan=\"2\">Options</td></tr><tr><td>ON</td><td>OFF</td></tr></table>",
+                "markdown": "| Options | Options |\n| --- | --- |\n| ON | OFF |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1193,
+                    "y": 0.4925
+                },
+                {
+                    "x": 0.9138,
+                    "y": 0.4925
+                },
+                {
+                    "x": 0.9138,
+                    "y": 0.5434
+                },
+                {
+                    "x": 0.1193,
+                    "y": 0.5434
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='7' data-category='paragraph' style='font-size:16px'>COMMAND DIAL DIRECTION</p>",
+                "markdown": "COMMAND DIAL DIRECTION",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.106,
+                    "y": 0.5596
+                },
+                {
+                    "x": 0.4894,
+                    "y": 0.5596
+                },
+                {
+                    "x": 0.4894,
+                    "y": 0.5837
+                },
+                {
+                    "x": 0.106,
+                    "y": 0.5837
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='8' data-category='paragraph' style='font-size:18px'>Choose the direction in which the command dials are rotated to<br>choose values. Settings for the front and rear command dials can<br>be adjusted separately.</p>",
+                "markdown": "Choose the direction in which the command dials are rotated to\nchoose values. Settings for the front and rear command dials can\nbe adjusted separately.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1064,
+                    "y": 0.5918
+                },
+                {
+                    "x": 0.9188,
+                    "y": 0.5918
+                },
+                {
+                    "x": 0.9188,
+                    "y": 0.668
+                },
+                {
+                    "x": 0.1064,
+                    "y": 0.668
+                }
+            ],
+            "id": 8,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='9' style='font-size:14px'><tr><td>Option</td><td>Description</td></tr><tr><td>- +</td><td>Rotate the dial right for higher values or to move to the next item.</td></tr><tr><td>+</td><td>Rotate the dial left for higher values or to move to the next item.</td></tr></table>",
+                "markdown": "| Option | Description |\n| --- | --- |\n| - + | Rotate the dial right for higher values or to move to the next item. |\n| + | Rotate the dial left for higher values or to move to the next item. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1105,
+                    "y": 0.6794
+                },
+                {
+                    "x": 0.92,
+                    "y": 0.6794
+                },
+                {
+                    "x": 0.92,
+                    "y": 0.7789
+                },
+                {
+                    "x": 0.1105,
+                    "y": 0.7789
+                }
+            ],
+            "id": 9,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<br><footer id='10' style='font-size:22px'>The<br>Setup<br>Menus</footer>",
+                "markdown": "The\nSetup\nMenus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9577,
+                    "y": 0.5688
+                },
+                {
+                    "x": 0.9799,
+                    "y": 0.5688
+                },
+                {
+                    "x": 0.9799,
+                    "y": 0.6972
+                },
+                {
+                    "x": 0.9577,
+                    "y": 0.6972
+                }
+            ],
+            "id": 10,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='11' style='font-size:14px'>9</footer>",
+                "markdown": "9",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9576,
+                    "y": 0.7175
+                },
+                {
+                    "x": 0.9751,
+                    "y": 0.7175
+                },
+                {
+                    "x": 0.9751,
+                    "y": 0.737
+                },
+                {
+                    "x": 0.9576,
+                    "y": 0.737
+                }
+            ],
+            "id": 11,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='12' style='font-size:22px'>291</footer>",
+                "markdown": "291",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.8607,
+                    "y": 0.9565
+                },
+                {
+                    "x": 0.9154,
+                    "y": 0.9565
+                },
+                {
+                    "x": 0.9154,
+                    "y": 0.9794
+                },
+                {
+                    "x": 0.8607,
+                    "y": 0.9794
+                }
+            ],
+            "id": 12,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

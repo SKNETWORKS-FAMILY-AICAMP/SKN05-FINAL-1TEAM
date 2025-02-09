@@ -1,0 +1,182 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:22px'>The<br>Shooting<br>Menus</header>\n<br><h1 id='1' style='font-size:16px'>RAW RECORDING</h1>\n<br><h1 id='2' style='font-size:18px'>Choose whether to compress RAW images.</h1>\n<table id='3' style='font-size:14px'><tr><td>Option</td><td>Description</td></tr><tr><td>UNCOMPRESSED</td><td>RAW images are not compressed.</td></tr><tr><td>LOSSLESS COMPRESSED</td><td>RAW images are compressed using a reversible algorithm that reduces file size with no loss of image data. The im- ages can be viewed in Capture One Express for Fujifilm1, Capture One for Fujifilm1, Capture One1, RAW FILE CONVERTER EX powered by SILKYPIX2, FUJIFILM X RAW STUDIO, or other software that supports \"lossless\" RAW compression. Quality is the same as UNCOMPRESSED, but the resulting files are anywhere from about 30 to 90 percent of their uncompressed size.</td></tr><tr><td>COMPRESSED</td><td>RAW images are compressed using a \"lossy\", non-reversible algorithm. Quality is about the same as UNCOMPRESSED, but the resulting files are anywhere from about 25 to 35 per- cent of their uncompressed size.</td></tr></table>\n<br><p id='4' data-category='list' style='font-size:14px'>1 For information on when support will be available, visit:<br>https://www.coptureone.com/<br>2 For information on when support will be available, visit:<br>http://www.maucuity.fiiyoutwert/Wectoratervextal/<br>by-silkypix/</p>\n<footer id='5' style='font-size:20px'>120</footer>",
+        "markdown": "The\nShooting\nMenus\n\n# RAW RECORDING\n\n# Choose whether to compress RAW images.\n\n| Option | Description |\n| --- | --- |\n| UNCOMPRESSED | RAW images are not compressed. |\n| LOSSLESS COMPRESSED | RAW images are compressed using a reversible algorithm that reduces file size with no loss of image data. The im- ages can be viewed in Capture One Express for Fujifilm1, Capture One for Fujifilm1, Capture One1, RAW FILE CONVERTER EX powered by SILKYPIX2, FUJIFILM X RAW STUDIO, or other software that supports \"lossless\" RAW compression. Quality is the same as UNCOMPRESSED, but the resulting files are anywhere from about 30 to 90 percent of their uncompressed size. |\n| COMPRESSED | RAW images are compressed using a \"lossy\", non-reversible algorithm. Quality is about the same as UNCOMPRESSED, but the resulting files are anywhere from about 25 to 35 per- cent of their uncompressed size. |\n\n\n- 1 For information on when support will be available, visit:\n- https://www.coptureone.com/\n- 2 For information on when support will be available, visit:\n- http://www.maucuity.fiiyoutwert/Wectoratervextal/\n- by-silkypix/\n\n\n120",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:22px'>The<br>Shooting<br>Menus</header>",
+                "markdown": "The\nShooting\nMenus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.017,
+                    "y": 0.5793
+                },
+                {
+                    "x": 0.042,
+                    "y": 0.5793
+                },
+                {
+                    "x": 0.042,
+                    "y": 0.7312
+                },
+                {
+                    "x": 0.017,
+                    "y": 0.7312
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='1' style='font-size:16px'>RAW RECORDING</h1>",
+                "markdown": "# RAW RECORDING",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0824,
+                    "y": 0.073
+                },
+                {
+                    "x": 0.3194,
+                    "y": 0.073
+                },
+                {
+                    "x": 0.3194,
+                    "y": 0.0945
+                },
+                {
+                    "x": 0.0824,
+                    "y": 0.0945
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='2' style='font-size:18px'>Choose whether to compress RAW images.</h1>",
+                "markdown": "# Choose whether to compress RAW images.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0819,
+                    "y": 0.1047
+                },
+                {
+                    "x": 0.6211,
+                    "y": 0.1047
+                },
+                {
+                    "x": 0.6211,
+                    "y": 0.1287
+                },
+                {
+                    "x": 0.0819,
+                    "y": 0.1287
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='3' style='font-size:14px'><tr><td>Option</td><td>Description</td></tr><tr><td>UNCOMPRESSED</td><td>RAW images are not compressed.</td></tr><tr><td>LOSSLESS COMPRESSED</td><td>RAW images are compressed using a reversible algorithm that reduces file size with no loss of image data. The im- ages can be viewed in Capture One Express for Fujifilm1, Capture One for Fujifilm1, Capture One1, RAW FILE CONVERTER EX powered by SILKYPIX2, FUJIFILM X RAW STUDIO, or other software that supports \"lossless\" RAW compression. Quality is the same as UNCOMPRESSED, but the resulting files are anywhere from about 30 to 90 percent of their uncompressed size.</td></tr><tr><td>COMPRESSED</td><td>RAW images are compressed using a \"lossy\", non-reversible algorithm. Quality is about the same as UNCOMPRESSED, but the resulting files are anywhere from about 25 to 35 per- cent of their uncompressed size.</td></tr></table>",
+                "markdown": "| Option | Description |\n| --- | --- |\n| UNCOMPRESSED | RAW images are not compressed. |\n| LOSSLESS COMPRESSED | RAW images are compressed using a reversible algorithm that reduces file size with no loss of image data. The im- ages can be viewed in Capture One Express for Fujifilm1, Capture One for Fujifilm1, Capture One1, RAW FILE CONVERTER EX powered by SILKYPIX2, FUJIFILM X RAW STUDIO, or other software that supports \"lossless\" RAW compression. Quality is the same as UNCOMPRESSED, but the resulting files are anywhere from about 30 to 90 percent of their uncompressed size. |\n| COMPRESSED | RAW images are compressed using a \"lossy\", non-reversible algorithm. Quality is about the same as UNCOMPRESSED, but the resulting files are anywhere from about 25 to 35 per- cent of their uncompressed size. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0809,
+                    "y": 0.1424
+                },
+                {
+                    "x": 0.8938,
+                    "y": 0.1424
+                },
+                {
+                    "x": 0.8938,
+                    "y": 0.4998
+                },
+                {
+                    "x": 0.0809,
+                    "y": 0.4998
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "list",
+            "content": {
+                "html": "<br><p id='4' data-category='list' style='font-size:14px'>1 For information on when support will be available, visit:<br>https://www.coptureone.com/<br>2 For information on when support will be available, visit:<br>http://www.maucuity.fiiyoutwert/Wectoratervextal/<br>by-silkypix/</p>",
+                "markdown": "- 1 For information on when support will be available, visit:\n- https://www.coptureone.com/\n- 2 For information on when support will be available, visit:\n- http://www.maucuity.fiiyoutwert/Wectoratervextal/\n- by-silkypix/\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.079,
+                    "y": 0.5054
+                },
+                {
+                    "x": 0.888,
+                    "y": 0.5054
+                },
+                {
+                    "x": 0.888,
+                    "y": 0.6094
+                },
+                {
+                    "x": 0.079,
+                    "y": 0.6094
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='5' style='font-size:20px'>120</footer>",
+                "markdown": "120",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0846,
+                    "y": 0.9559
+                },
+                {
+                    "x": 0.1405,
+                    "y": 0.9559
+                },
+                {
+                    "x": 0.1405,
+                    "y": 0.9792
+                },
+                {
+                    "x": 0.0846,
+                    "y": 0.9792
+                }
+            ],
+            "id": 5,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

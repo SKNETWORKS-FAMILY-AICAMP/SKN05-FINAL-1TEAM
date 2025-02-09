@@ -1,0 +1,89 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "# AUTO\n\nChoose the base sensitivity, maximum sensitivity, and minimum shutter speed for AUTO1, AUTO2, and AUTO3.\n\n| Item                | Options       | AUTO1 | AUTO2 | AUTO3 |\n|---------------------|---------------|-------|-------|-------|\n| DEFAULT SENSITIVITY | 160–12800     | 160   | 160   | 160   |\n| MAX. SENSITIVITY    | 400–12800     | 800   | 3200  | 12800 |\n| MIN. SHUTTER SPEED  | 1/4000–30 SEC, AUTO | AUTO  | AUTO  | AUTO  |\n\nThe camera automatically chooses a sensitivity between the default and maximum values; sensitivity is only raised above the default value if the shutter speed required for optimal exposure would be slower than the value selected for MIN. SHUTTER SPEED.\n\n> - If the value selected for **DEFAULT SENSITIVITY** is higher than that selected for **MAX. SENSITIVITY**, **DEFAULT SENSITIVITY** will be set to the value selected for **MAX. SENSITIVITY**.\n> - The camera may select shutter speeds slower than **MIN. SHUTTER SPEED** if pictures would still be underexposed at the value selected for **MAX. SENSITIVITY**.\n> - If **AUTO** is selected for **MIN. SHUTTER SPEED**, the camera will choose the minimum shutter speed automatically. The minimum shutter speed is not affected by the option selected for image stabilization.",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "AUTO",
+                    "md": "# AUTO"
+                },
+                {
+                    "type": "text",
+                    "value": "Choose the base sensitivity, maximum sensitivity, and minimum shutter speed for AUTO1, AUTO2, and AUTO3.",
+                    "md": "Choose the base sensitivity, maximum sensitivity, and minimum shutter speed for AUTO1, AUTO2, and AUTO3."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Item",
+                            "Options",
+                            "AUTO1",
+                            "AUTO2",
+                            "AUTO3"
+                        ],
+                        [
+                            "DEFAULT SENSITIVITY",
+                            "160–12800",
+                            "160",
+                            "160",
+                            "160"
+                        ],
+                        [
+                            "MAX. SENSITIVITY",
+                            "400–12800",
+                            "800",
+                            "3200",
+                            "12800"
+                        ],
+                        [
+                            "MIN. SHUTTER SPEED",
+                            "1/4000–30 SEC, AUTO",
+                            "AUTO",
+                            "AUTO",
+                            "AUTO"
+                        ]
+                    ],
+                    "md": "| Item                | Options       | AUTO1 | AUTO2 | AUTO3 |\n|---------------------|---------------|-------|-------|-------|\n| DEFAULT SENSITIVITY | 160–12800     | 160   | 160   | 160   |\n| MAX. SENSITIVITY    | 400–12800     | 800   | 3200  | 12800 |\n| MIN. SHUTTER SPEED  | 1/4000–30 SEC, AUTO | AUTO  | AUTO  | AUTO  |",
+                    "isPerfectTable": true,
+                    "csv": "\"Item\",\"Options\",\"AUTO1\",\"AUTO2\",\"AUTO3\"\n\"DEFAULT SENSITIVITY\",\"160–12800\",\"160\",\"160\",\"160\"\n\"MAX. SENSITIVITY\",\"400–12800\",\"800\",\"3200\",\"12800\"\n\"MIN. SHUTTER SPEED\",\"1/4000–30 SEC, AUTO\",\"AUTO\",\"AUTO\",\"AUTO\""
+                },
+                {
+                    "type": "text",
+                    "value": "The camera automatically chooses a sensitivity between the default and maximum values; sensitivity is only raised above the default value if the shutter speed required for optimal exposure would be slower than the value selected for MIN. SHUTTER SPEED.\n\n> - If the value selected for **DEFAULT SENSITIVITY** is higher than that selected for **MAX. SENSITIVITY**, **DEFAULT SENSITIVITY** will be set to the value selected for **MAX. SENSITIVITY**.\n> - The camera may select shutter speeds slower than **MIN. SHUTTER SPEED** if pictures would still be underexposed at the value selected for **MAX. SENSITIVITY**.\n> - If **AUTO** is selected for **MIN. SHUTTER SPEED**, the camera will choose the minimum shutter speed automatically. The minimum shutter speed is not affected by the option selected for image stabilization.",
+                    "md": "The camera automatically chooses a sensitivity between the default and maximum values; sensitivity is only raised above the default value if the shutter speed required for optimal exposure would be slower than the value selected for MIN. SHUTTER SPEED.\n\n> - If the value selected for **DEFAULT SENSITIVITY** is higher than that selected for **MAX. SENSITIVITY**, **DEFAULT SENSITIVITY** will be set to the value selected for **MAX. SENSITIVITY**.\n> - The camera may select shutter speeds slower than **MIN. SHUTTER SPEED** if pictures would still be underexposed at the value selected for **MAX. SENSITIVITY**.\n> - If **AUTO** is selected for **MIN. SHUTTER SPEED**, the camera will choose the minimum shutter speed automatically. The minimum shutter speed is not affected by the option selected for image stabilization."
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 257.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "40855ff0-b970-4dd1-be7f-f8feeee9e9c7",
+    "file_path": "../data/raw_data/x-s20/x-s20_split/x-s20_page131.pdf"
+}

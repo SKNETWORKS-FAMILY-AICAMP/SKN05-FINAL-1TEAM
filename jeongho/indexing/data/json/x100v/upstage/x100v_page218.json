@@ -1,0 +1,266 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<h1 id='0' style='font-size:20px'>BUTTON/DIAL SETTING</h1>\n<br><h1 id='1' style='font-size:16px'>Access options for camera controls.</h1>\n<h1 id='2' style='font-size:18px'>To access control options, press MENU/OK,<br>select the 8 (SET UP) tab, and choose<br>BUTTON/DIAL SETTING.</h1>\n<br><table id='3' style='font-size:14px'><tr><td>BUTTON/DIAL</td><td>SETTING 1 /2</td></tr><tr><td>FOCUS LEVER SETTING I.Q.</td><td>▶</td></tr><tr><td>AF</td><td>EDIT/SAVE QUICK MENU</td></tr><tr><td>MF</td><td>Q MENU BACKGROUND</td></tr><tr><td></td><td>FUNCTION (Fn) SETTING</td></tr><tr><td>COMMAND DIAL</td><td>SETTING</td></tr><tr><td>SHUTTER</td><td>AF</td></tr><tr><td></td><td>SHUTTER AE</td></tr><tr><td></td><td>SHOOT WITHOUT CARD</td></tr><tr><td></td><td>BACK EXIT</td></tr></table>\n<p id='4' data-category='paragraph' style='font-size:16px'>FOCUS LEVER SETTING</p>\n\n<table id='6' style='font-size:14px'><tr><td>Option</td><td>Description</td></tr><tr><td>LOCK (OFF)</td><td>The focus stick cannot be used during shooting.</td></tr><tr><td>PUSH TO UNLOCK</td><td>Press the stick to view the focus-point display and tilt the stick to select a focus point.</td></tr><tr><td>ON</td><td>Tilt the stick to view the focus-point display and select a focus point.</td></tr><br><caption id='5' style='font-size:20px'>Choose the functions performed by the focus stick (focus lever).</caption></table>\n<footer id='7' style='font-size:18px'>218</footer>\n<br><header id='8' style='font-size:22px'>The<br>Setup<br>Menus</header>",
+        "markdown": "# BUTTON/DIAL SETTING\n\n# Access options for camera controls.\n\n# To access control options, press MENU/OK,\nselect the 8 (SET UP) tab, and choose\nBUTTON/DIAL SETTING.\n\n| BUTTON/DIAL | SETTING 1 /2 |\n| --- | --- |\n| FOCUS LEVER SETTING I.Q. | ▶ |\n| AF | EDIT/SAVE QUICK MENU |\n| MF | Q MENU BACKGROUND |\n|  | FUNCTION (Fn) SETTING |\n| COMMAND DIAL | SETTING |\n| SHUTTER | AF |\n|  | SHUTTER AE |\n|  | SHOOT WITHOUT CARD |\n|  | BACK EXIT |\n\n\nFOCUS LEVER SETTING\n\nChoose the functions performed by the focus stick (focus lever).\n\n| Option | Description |\n| --- | --- |\n| LOCK (OFF) | The focus stick cannot be used during shooting. |\n| PUSH TO UNLOCK | Press the stick to view the focus-point display and tilt the stick to select a focus point. |\n| ON | Tilt the stick to view the focus-point display and select a focus point. |\n\n\n218\n\nThe\nSetup\nMenus",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='0' style='font-size:20px'>BUTTON/DIAL SETTING</h1>",
+                "markdown": "# BUTTON/DIAL SETTING",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1549,
+                    "y": 0.0745
+                },
+                {
+                    "x": 0.5495,
+                    "y": 0.0745
+                },
+                {
+                    "x": 0.5495,
+                    "y": 0.0981
+                },
+                {
+                    "x": 0.1549,
+                    "y": 0.0981
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='1' style='font-size:16px'>Access options for camera controls.</h1>",
+                "markdown": "# Access options for camera controls.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1531,
+                    "y": 0.1107
+                },
+                {
+                    "x": 0.5999,
+                    "y": 0.1107
+                },
+                {
+                    "x": 0.5999,
+                    "y": 0.1321
+                },
+                {
+                    "x": 0.1531,
+                    "y": 0.1321
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='2' style='font-size:18px'>To access control options, press MENU/OK,<br>select the 8 (SET UP) tab, and choose<br>BUTTON/DIAL SETTING.</h1>",
+                "markdown": "# To access control options, press MENU/OK,\nselect the 8 (SET UP) tab, and choose\nBUTTON/DIAL SETTING.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0822,
+                    "y": 0.1481
+                },
+                {
+                    "x": 0.6014,
+                    "y": 0.1481
+                },
+                {
+                    "x": 0.6014,
+                    "y": 0.2223
+                },
+                {
+                    "x": 0.0822,
+                    "y": 0.2223
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='3' style='font-size:14px'><tr><td>BUTTON/DIAL</td><td>SETTING 1 /2</td></tr><tr><td>FOCUS LEVER SETTING I.Q.</td><td>▶</td></tr><tr><td>AF</td><td>EDIT/SAVE QUICK MENU</td></tr><tr><td>MF</td><td>Q MENU BACKGROUND</td></tr><tr><td></td><td>FUNCTION (Fn) SETTING</td></tr><tr><td>COMMAND DIAL</td><td>SETTING</td></tr><tr><td>SHUTTER</td><td>AF</td></tr><tr><td></td><td>SHUTTER AE</td></tr><tr><td></td><td>SHOOT WITHOUT CARD</td></tr><tr><td></td><td>BACK EXIT</td></tr></table>",
+                "markdown": "| BUTTON/DIAL | SETTING 1 /2 |\n| --- | --- |\n| FOCUS LEVER SETTING I.Q. | ▶ |\n| AF | EDIT/SAVE QUICK MENU |\n| MF | Q MENU BACKGROUND |\n|  | FUNCTION (Fn) SETTING |\n| COMMAND DIAL | SETTING |\n| SHUTTER | AF |\n|  | SHUTTER AE |\n|  | SHOOT WITHOUT CARD |\n|  | BACK EXIT |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6017,
+                    "y": 0.1466
+                },
+                {
+                    "x": 0.8904,
+                    "y": 0.1466
+                },
+                {
+                    "x": 0.8904,
+                    "y": 0.2779
+                },
+                {
+                    "x": 0.6017,
+                    "y": 0.2779
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='4' data-category='paragraph' style='font-size:16px'>FOCUS LEVER SETTING</p>",
+                "markdown": "FOCUS LEVER SETTING",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0822,
+                    "y": 0.2956
+                },
+                {
+                    "x": 0.3971,
+                    "y": 0.2956
+                },
+                {
+                    "x": 0.3971,
+                    "y": 0.3189
+                },
+                {
+                    "x": 0.0822,
+                    "y": 0.3189
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='5' data-category='paragraph' style='font-size:20px'>Choose the functions performed by the focus stick (focus lever).</p>",
+                "markdown": "Choose the functions performed by the focus stick (focus lever).",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0798,
+                    "y": 0.3275
+                },
+                {
+                    "x": 0.885,
+                    "y": 0.3275
+                },
+                {
+                    "x": 0.885,
+                    "y": 0.3529
+                },
+                {
+                    "x": 0.0798,
+                    "y": 0.3529
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='6' style='font-size:14px'><tr><td>Option</td><td>Description</td></tr><tr><td>LOCK (OFF)</td><td>The focus stick cannot be used during shooting.</td></tr><tr><td>PUSH TO UNLOCK</td><td>Press the stick to view the focus-point display and tilt the stick to select a focus point.</td></tr><tr><td>ON</td><td>Tilt the stick to view the focus-point display and select a focus point.</td></tr></table>",
+                "markdown": "| Option | Description |\n| --- | --- |\n| LOCK (OFF) | The focus stick cannot be used during shooting. |\n| PUSH TO UNLOCK | Press the stick to view the focus-point display and tilt the stick to select a focus point. |\n| ON | Tilt the stick to view the focus-point display and select a focus point. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0827,
+                    "y": 0.3649
+                },
+                {
+                    "x": 0.8953,
+                    "y": 0.3649
+                },
+                {
+                    "x": 0.8953,
+                    "y": 0.5052
+                },
+                {
+                    "x": 0.0827,
+                    "y": 0.5052
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='7' style='font-size:18px'>218</footer>",
+                "markdown": "218",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0823,
+                    "y": 0.9562
+                },
+                {
+                    "x": 0.1403,
+                    "y": 0.9562
+                },
+                {
+                    "x": 0.1403,
+                    "y": 0.9797
+                },
+                {
+                    "x": 0.0823,
+                    "y": 0.9797
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "header",
+            "content": {
+                "html": "<br><header id='8' style='font-size:22px'>The<br>Setup<br>Menus</header>",
+                "markdown": "The\nSetup\nMenus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0184,
+                    "y": 0.5089
+                },
+                {
+                    "x": 0.0406,
+                    "y": 0.5089
+                },
+                {
+                    "x": 0.0406,
+                    "y": 0.6378
+                },
+                {
+                    "x": 0.0184,
+                    "y": 0.6378
+                }
+            ],
+            "id": 8,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

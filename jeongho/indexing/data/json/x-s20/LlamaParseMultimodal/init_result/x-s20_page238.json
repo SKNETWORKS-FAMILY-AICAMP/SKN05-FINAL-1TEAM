@@ -1,0 +1,102 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "# Touch Controls for Focus Zoom\n\nDifferent touch controls are used during focus zoom (focus check enabled).\n\n## Central Area\n\nTapping the center of the display performs the operations below.\n\n!Touch Controls for Focus Zoom - Central Area\n\n| Mode | Operation performed          |\n|------|------------------------------|\n| AF   | SINGLE AF: AF                |\n|      | MANUAL FOCUS: Instant AF     |\n| AREA | SINGLE AF: AF                |\n|      | MANUAL FOCUS: Instant AF     |\n| OFF  | SINGLE AF/MANUAL FOCUS: OFF  |\n\n## Other Areas\n\nTapping other areas simply scrolls the display, whether during still photography or movie recording and regardless of the option selected for touch screen mode.\n\n!Touch Controls for Focus Zoom - Other Areas",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "Touch Controls for Focus Zoom",
+                    "md": "# Touch Controls for Focus Zoom"
+                },
+                {
+                    "type": "text",
+                    "value": "Different touch controls are used during focus zoom (focus check enabled).",
+                    "md": "Different touch controls are used during focus zoom (focus check enabled)."
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "Central Area",
+                    "md": "## Central Area"
+                },
+                {
+                    "type": "text",
+                    "value": "Tapping the center of the display performs the operations below.\n\n!Touch Controls for Focus Zoom - Central Area",
+                    "md": "Tapping the center of the display performs the operations below.\n\n!Touch Controls for Focus Zoom - Central Area"
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Mode",
+                            "Operation performed"
+                        ],
+                        [
+                            "AF",
+                            "SINGLE AF: AF"
+                        ],
+                        [
+                            "",
+                            "MANUAL FOCUS: Instant AF"
+                        ],
+                        [
+                            "AREA",
+                            "SINGLE AF: AF"
+                        ],
+                        [
+                            "",
+                            "MANUAL FOCUS: Instant AF"
+                        ],
+                        [
+                            "OFF",
+                            "SINGLE AF/MANUAL FOCUS: OFF"
+                        ]
+                    ],
+                    "md": "| Mode | Operation performed          |\n|------|------------------------------|\n| AF   | SINGLE AF: AF                |\n|      | MANUAL FOCUS: Instant AF     |\n| AREA | SINGLE AF: AF                |\n|      | MANUAL FOCUS: Instant AF     |\n| OFF  | SINGLE AF/MANUAL FOCUS: OFF  |",
+                    "isPerfectTable": true,
+                    "csv": "\"Mode\",\"Operation performed\"\n\"AF\",\"SINGLE AF: AF\"\n\"\",\"MANUAL FOCUS: Instant AF\"\n\"AREA\",\"SINGLE AF: AF\"\n\"\",\"MANUAL FOCUS: Instant AF\"\n\"OFF\",\"SINGLE AF/MANUAL FOCUS: OFF\""
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "Other Areas",
+                    "md": "## Other Areas"
+                },
+                {
+                    "type": "text",
+                    "value": "Tapping other areas simply scrolls the display, whether during still photography or movie recording and regardless of the option selected for touch screen mode.\n\n!Touch Controls for Focus Zoom - Other Areas",
+                    "md": "Tapping other areas simply scrolls the display, whether during still photography or movie recording and regardless of the option selected for touch screen mode.\n\n!Touch Controls for Focus Zoom - Other Areas"
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 409.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "5a8d4d44-d3bf-41ca-a99b-0d79b7bb7629",
+    "file_path": "../data/raw_data/x-s20/x-s20_split/x-s20_page238.pdf"
+}

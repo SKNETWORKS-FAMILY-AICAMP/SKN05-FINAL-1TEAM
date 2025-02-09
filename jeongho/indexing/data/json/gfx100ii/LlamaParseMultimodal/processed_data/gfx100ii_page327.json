@@ -1,0 +1,13 @@
+{
+    "parsing_result": "\n# Network/USB Setting Menus\n\n## IMAGE TRANSFER WHILE POWER OFF\nIf **ON** is selected, upload of pictures to the FTP server will continue while the camera is off.\n\n| Options |        |\n|---------|--------|\n| ON      | OFF    |\n\n## FTP POWER SAVING\nIf **ON** is selected, the network feature will turn off to save power when the upload of all pictures currently marked for transfer is complete. Marking additional pictures for upload turns the network feature on again.\n\n| Options |        |\n|---------|--------|\n| ON      | OFF    |\n\n## ROOT CERTIFICATE\nCopy a unique root certificate to the camera for use when FTPS is selected for FTP SERVER TYPE.\n\n| Option                  | Description                                           |\n|-------------------------|-------------------------------------------------------|\n| LOAD FROM MEMORY CARD   | Copy the root certificate from the camera memory card.|\n| DELETE                  | Delete the current root certificate.                  |\n\n> 💡 **Note:**  \n> FTP upload and Frame.io Camera to Cloud > UPLOAD SETTING > ROOT CERTIFICATE use the same root certificate. Changing one changes the other.\n\n## RESET FTP TRANSFER ORDER\nRemove upload marking from all pictures selected for upload to the FTP server in the current connection setting profile.\n",
+    "embedding_result": [],
+    "metadata": {
+        "page": 327,
+        "model": "gfx100ii",
+        "chapter": "Network/USB Setting Menus",
+        "section": "Network/USB Setting Menus Summary",
+        "subsection": [
+            "FTP OPTIONAL SETTING"
+        ]
+    }
+}

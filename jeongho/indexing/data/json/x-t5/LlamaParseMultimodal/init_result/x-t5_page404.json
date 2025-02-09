@@ -1,0 +1,94 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "\n| Problem                              | Solution                                                                                                                                                                                                 |\n|--------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| **Charging does not start.**         | - Make sure that the AC power adapter is correctly plugged in (📖 42).                                                                                                                                   |\n|                                      | - Ensure that the plug adapter is correctly connected to the AC power adapter (📖 42).                                                                                                                   |\n|                                      | - **The battery has not been recharged for an extended period:** If the battery has not been charged for an extended period, charging will be disabled to ensure safety. Replace it with a new battery.  |\n| **Charging does not start (USB).**   | - Insert the camera battery (📖 36).                                                                                                                                                                     |\n|                                      | - Reinsert the camera battery in the correct orientation (📖 36).                                                                                                                                        |\n|                                      | - Confirm that the camera is connected to the computer (📖 45).                                                                                                                                          |\n|                                      | - If the computer is off or in sleep mode, turn on or wake the computer and disconnect and reconnect the USB cable (📖 45).                                                                              |\n| **Charging does not start (battery charger).** | - Insert the battery.                                                                                                                                                                                    |\n|                                      | - Reinsert the battery in the correct orientation.                                                                                                                                                       |\n|                                      | - **The AC adapter is not correctly connected to the charger:** Check that adapter is correctly connected to the charger.                                                                                |\n| **Charging is slow.**                | Charge the battery at room temperature.                                                                                                                                                                  |\n",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Problem",
+                            "Solution"
+                        ],
+                        [
+                            "**Charging does not start.**",
+                            "- Make sure that the AC power adapter is correctly plugged in (📖 42)."
+                        ],
+                        [
+                            "",
+                            "- Ensure that the plug adapter is correctly connected to the AC power adapter (📖 42)."
+                        ],
+                        [
+                            "",
+                            "- **The battery has not been recharged for an extended period:** If the battery has not been charged for an extended period, charging will be disabled to ensure safety. Replace it with a new battery."
+                        ],
+                        [
+                            "**Charging does not start (USB).**",
+                            "- Insert the camera battery (📖 36)."
+                        ],
+                        [
+                            "",
+                            "- Reinsert the camera battery in the correct orientation (📖 36)."
+                        ],
+                        [
+                            "",
+                            "- Confirm that the camera is connected to the computer (📖 45)."
+                        ],
+                        [
+                            "",
+                            "- If the computer is off or in sleep mode, turn on or wake the computer and disconnect and reconnect the USB cable (📖 45)."
+                        ],
+                        [
+                            "**Charging does not start (battery charger).**",
+                            "- Insert the battery."
+                        ],
+                        [
+                            "",
+                            "- Reinsert the battery in the correct orientation."
+                        ],
+                        [
+                            "",
+                            "- **The AC adapter is not correctly connected to the charger:** Check that adapter is correctly connected to the charger."
+                        ],
+                        [
+                            "**Charging is slow.**",
+                            "Charge the battery at room temperature."
+                        ]
+                    ],
+                    "md": "| Problem                              | Solution                                                                                                                                                                                                 |\n|--------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| **Charging does not start.**         | - Make sure that the AC power adapter is correctly plugged in (📖 42).                                                                                                                                   |\n|                                      | - Ensure that the plug adapter is correctly connected to the AC power adapter (📖 42).                                                                                                                   |\n|                                      | - **The battery has not been recharged for an extended period:** If the battery has not been charged for an extended period, charging will be disabled to ensure safety. Replace it with a new battery.  |\n| **Charging does not start (USB).**   | - Insert the camera battery (📖 36).                                                                                                                                                                     |\n|                                      | - Reinsert the camera battery in the correct orientation (📖 36).                                                                                                                                        |\n|                                      | - Confirm that the camera is connected to the computer (📖 45).                                                                                                                                          |\n|                                      | - If the computer is off or in sleep mode, turn on or wake the computer and disconnect and reconnect the USB cable (📖 45).                                                                              |\n| **Charging does not start (battery charger).** | - Insert the battery.                                                                                                                                                                                    |\n|                                      | - Reinsert the battery in the correct orientation.                                                                                                                                                       |\n|                                      | - **The AC adapter is not correctly connected to the charger:** Check that adapter is correctly connected to the charger.                                                                                |\n| **Charging is slow.**                | Charge the battery at room temperature.                                                                                                                                                                  |",
+                    "isPerfectTable": true,
+                    "csv": "\"Problem\",\"Solution\"\n\"**Charging does not start.**\",\"- Make sure that the AC power adapter is correctly plugged in (📖 42).\"\n\"\",\"- Ensure that the plug adapter is correctly connected to the AC power adapter (📖 42).\"\n\"\",\"- **The battery has not been recharged for an extended period:** If the battery has not been charged for an extended period, charging will be disabled to ensure safety. Replace it with a new battery.\"\n\"**Charging does not start (USB).**\",\"- Insert the camera battery (📖 36).\"\n\"\",\"- Reinsert the camera battery in the correct orientation (📖 36).\"\n\"\",\"- Confirm that the camera is connected to the computer (📖 45).\"\n\"\",\"- If the computer is off or in sleep mode, turn on or wake the computer and disconnect and reconnect the USB cable (📖 45).\"\n\"**Charging does not start (battery charger).**\",\"- Insert the battery.\"\n\"\",\"- Reinsert the battery in the correct orientation.\"\n\"\",\"- **The AC adapter is not correctly connected to the charger:** Check that adapter is correctly connected to the charger.\"\n\"**Charging is slow.**\",\"Charge the battery at room temperature.\""
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "parsingMode": "multimodal-openai-gpt4o",
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 696.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "3fd86e68-8338-4215-abda-9bc552f16a7c",
+    "file_path": "../data/raw_data/x-t5/x-t5_split/x-t5_page404.pdf"
+}

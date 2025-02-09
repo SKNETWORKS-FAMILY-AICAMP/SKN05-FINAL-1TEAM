@@ -1,0 +1,141 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "\n# BUTTON/DIAL SETTING\n\n## COMMAND DIAL SETTING\nChoose whether to reverse the roles played by the front and rear command dials in each of the following modes.\n\n| Option | Description                                                                 |\n|--------|-----------------------------------------------------------------------------|\n| P      | Reverse the dials used for program shift and exposure compensation in mode **P** (program AE). |\n| S      | Reverse the dials used for shutter-speed selection and exposure compensation in mode **S** (shutter-priority AE). |\n| A      | Reverse the dials used for aperture selection and exposure compensation in mode **A** (aperture-priority AE). |\n| M      | Reverse the dials used for shutter-speed and aperture selection in mode **M** (manual). |\n\n## S.S OPERATION\nSelect **OFF** to disable shutter-speed fine-tuning using the command dials.\n\n| Options |\n|---------|\n| ON      |\n| OFF     |\n\n## COMMAND DIAL DIRECTION\nChoose the direction in which the command dials are rotated to choose values. Settings for the front and rear command dials can be adjusted separately.\n\n| Option | Description                                                                 |\n|--------|-----------------------------------------------------------------------------|\n| - ➔ +  | Rotate the dial right for higher values or to move to the next item.        |\n| + ➔ -  | Rotate the dial left for higher values or to move to the next item.         |\n",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "BUTTON/DIAL SETTING",
+                    "md": "# BUTTON/DIAL SETTING"
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "COMMAND DIAL SETTING",
+                    "md": "## COMMAND DIAL SETTING"
+                },
+                {
+                    "type": "text",
+                    "value": "Choose whether to reverse the roles played by the front and rear command dials in each of the following modes.",
+                    "md": "Choose whether to reverse the roles played by the front and rear command dials in each of the following modes."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Option",
+                            "Description"
+                        ],
+                        [
+                            "P",
+                            "Reverse the dials used for program shift and exposure compensation in mode **P** (program AE)."
+                        ],
+                        [
+                            "S",
+                            "Reverse the dials used for shutter-speed selection and exposure compensation in mode **S** (shutter-priority AE)."
+                        ],
+                        [
+                            "A",
+                            "Reverse the dials used for aperture selection and exposure compensation in mode **A** (aperture-priority AE)."
+                        ],
+                        [
+                            "M",
+                            "Reverse the dials used for shutter-speed and aperture selection in mode **M** (manual)."
+                        ]
+                    ],
+                    "md": "| Option | Description                                                                 |\n|--------|-----------------------------------------------------------------------------|\n| P      | Reverse the dials used for program shift and exposure compensation in mode **P** (program AE). |\n| S      | Reverse the dials used for shutter-speed selection and exposure compensation in mode **S** (shutter-priority AE). |\n| A      | Reverse the dials used for aperture selection and exposure compensation in mode **A** (aperture-priority AE). |\n| M      | Reverse the dials used for shutter-speed and aperture selection in mode **M** (manual). |",
+                    "isPerfectTable": true,
+                    "csv": "\"Option\",\"Description\"\n\"P\",\"Reverse the dials used for program shift and exposure compensation in mode **P** (program AE).\"\n\"S\",\"Reverse the dials used for shutter-speed selection and exposure compensation in mode **S** (shutter-priority AE).\"\n\"A\",\"Reverse the dials used for aperture selection and exposure compensation in mode **A** (aperture-priority AE).\"\n\"M\",\"Reverse the dials used for shutter-speed and aperture selection in mode **M** (manual).\""
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "S.S OPERATION",
+                    "md": "## S.S OPERATION"
+                },
+                {
+                    "type": "text",
+                    "value": "Select **OFF** to disable shutter-speed fine-tuning using the command dials.",
+                    "md": "Select **OFF** to disable shutter-speed fine-tuning using the command dials."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Options"
+                        ],
+                        [
+                            "ON"
+                        ],
+                        [
+                            "OFF"
+                        ]
+                    ],
+                    "md": "| Options |\n|---------|\n| ON      |\n| OFF     |",
+                    "isPerfectTable": true,
+                    "csv": "\"Options\"\n\"ON\"\n\"OFF\""
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "COMMAND DIAL DIRECTION",
+                    "md": "## COMMAND DIAL DIRECTION"
+                },
+                {
+                    "type": "text",
+                    "value": "Choose the direction in which the command dials are rotated to choose values. Settings for the front and rear command dials can be adjusted separately.",
+                    "md": "Choose the direction in which the command dials are rotated to choose values. Settings for the front and rear command dials can be adjusted separately."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Option",
+                            "Description"
+                        ],
+                        [
+                            "- ➔ +",
+                            "Rotate the dial right for higher values or to move to the next item."
+                        ],
+                        [
+                            "+ ➔ -",
+                            "Rotate the dial left for higher values or to move to the next item."
+                        ]
+                    ],
+                    "md": "| Option | Description                                                                 |\n|--------|-----------------------------------------------------------------------------|\n| - ➔ +  | Rotate the dial right for higher values or to move to the next item.        |\n| + ➔ -  | Rotate the dial left for higher values or to move to the next item.         |",
+                    "isPerfectTable": true,
+                    "csv": "\"Option\",\"Description\"\n\"- ➔ +\",\"Rotate the dial right for higher values or to move to the next item.\"\n\"+ ➔ -\",\"Rotate the dial left for higher values or to move to the next item.\""
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 261.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "c7552419-bfee-421c-9edc-4a58abd4239c",
+    "file_path": "../data/raw_data/x-s20/x-s20_split/x-s20_page317.pdf"
+}

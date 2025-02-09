@@ -1,0 +1,378 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<h1 id='0' style='font-size:16px'>The Serial Number Plate</h1>\n<header id='1' style='font-size:22px'>Before<br>You<br>Begin</header>\n<br><p id='2' data-category='paragraph' style='font-size:20px'>Do not remove the serial number plate,<br>which provides the CMIIT ID, serial num-<br>ber, and other important information.</p>\n<header id='3' style='font-size:14px'>1</header>\n<br><figure id='4'><img style='font-size:14px' alt=\"00\nSerial number plate\" data-coord=\"top-left:(1707,396); bottom-right:(2471,1095)\" /></figure>\n<p id='5' data-category='paragraph' style='font-size:20px'>The Focus Stick (Focus Lever)</p>\n<br><p id='6' data-category='paragraph' style='font-size:16px'>Tilt or press the focus stick to select the fo-<br>cus area. The focus stick can also be used<br>to navigate the menus.</p>\n<br><figure id='7'><img alt=\"\" data-coord=\"top-left:(1672,1297); bottom-right:(2465,1883)\" /></figure>\n<p id='8' data-category='paragraph' style='font-size:14px'>To choose the role played by the focus stick, press and hold the cen-<br>ter of the stick or use  BUTTON/DIAL SETTING > FOCUS LEVER<br>SETTING.</p>\n<p id='9' data-category='paragraph' style='font-size:16px'>The Selector</p>\n<br><p id='10' data-category='paragraph' style='font-size:20px'>Press the selector up, right, down, or left<br>to highlight items. The up, right, down,<br>and left buttons also double as function<br>buttons Fn3 through Fn6 ( == 295, 321).</p>\n<br><figure id='11'><img alt=\"\" data-coord=\"top-left:(1697,2390); bottom-right:(2389,2991)\" /></figure>\n<footer id='12' style='font-size:18px'>4</footer>",
+        "markdown": "# The Serial Number Plate\n\nBefore\nYou\nBegin\n\nDo not remove the serial number plate,\nwhich provides the CMIIT ID, serial num-\nber, and other important information.\n\n1\n\n![image](/image/placeholder)\n00\nSerial number plate\n\nThe Focus Stick (Focus Lever)\n\nTilt or press the focus stick to select the fo-\ncus area. The focus stick can also be used\nto navigate the menus.\n\n![image](/image/placeholder)\n\n\nTo choose the role played by the focus stick, press and hold the cen-\nter of the stick or use  BUTTON/DIAL SETTING > FOCUS LEVER\nSETTING.\n\nThe Selector\n\nPress the selector up, right, down, or left\nto highlight items. The up, right, down,\nand left buttons also double as function\nbuttons Fn3 through Fn6 ( == 295, 321).\n\n![image](/image/placeholder)\n\n\n4",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='0' style='font-size:16px'>The Serial Number Plate</h1>",
+                "markdown": "# The Serial Number Plate",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0826,
+                    "y": 0.0727
+                },
+                {
+                    "x": 0.4142,
+                    "y": 0.0727
+                },
+                {
+                    "x": 0.4142,
+                    "y": 0.0953
+                },
+                {
+                    "x": 0.0826,
+                    "y": 0.0953
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='1' style='font-size:22px'>Before<br>You<br>Begin</header>",
+                "markdown": "Before\nYou\nBegin",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0176,
+                    "y": 0.2766
+                },
+                {
+                    "x": 0.0421,
+                    "y": 0.2766
+                },
+                {
+                    "x": 0.0421,
+                    "y": 0.4037
+                },
+                {
+                    "x": 0.0176,
+                    "y": 0.4037
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='2' data-category='paragraph' style='font-size:20px'>Do not remove the serial number plate,<br>which provides the CMIIT ID, serial num-<br>ber, and other important information.</p>",
+                "markdown": "Do not remove the serial number plate,\nwhich provides the CMIIT ID, serial num-\nber, and other important information.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0817,
+                    "y": 0.1038
+                },
+                {
+                    "x": 0.6042,
+                    "y": 0.1038
+                },
+                {
+                    "x": 0.6042,
+                    "y": 0.18
+                },
+                {
+                    "x": 0.0817,
+                    "y": 0.18
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='3' style='font-size:14px'>1</header>",
+                "markdown": "1",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0258,
+                    "y": 0.2381
+                },
+                {
+                    "x": 0.0437,
+                    "y": 0.2381
+                },
+                {
+                    "x": 0.0437,
+                    "y": 0.2591
+                },
+                {
+                    "x": 0.0258,
+                    "y": 0.2591
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "figure",
+            "content": {
+                "html": "<br><figure id='4'><img style='font-size:14px' alt=\"00\nSerial number plate\" data-coord=\"top-left:(1707,396); bottom-right:(2471,1095)\" /></figure>",
+                "markdown": "![image](/image/placeholder)\n00\nSerial number plate",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6176,
+                    "y": 0.1017
+                },
+                {
+                    "x": 0.8941,
+                    "y": 0.1017
+                },
+                {
+                    "x": 0.8941,
+                    "y": 0.281
+                },
+                {
+                    "x": 0.6176,
+                    "y": 0.281
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='5' data-category='paragraph' style='font-size:20px'>The Focus Stick (Focus Lever)</p>",
+                "markdown": "The Focus Stick (Focus Lever)",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0809,
+                    "y": 0.3059
+                },
+                {
+                    "x": 0.4732,
+                    "y": 0.3059
+                },
+                {
+                    "x": 0.4732,
+                    "y": 0.3277
+                },
+                {
+                    "x": 0.0809,
+                    "y": 0.3277
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='6' data-category='paragraph' style='font-size:16px'>Tilt or press the focus stick to select the fo-<br>cus area. The focus stick can also be used<br>to navigate the menus.</p>",
+                "markdown": "Tilt or press the focus stick to select the fo-\ncus area. The focus stick can also be used\nto navigate the menus.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0827,
+                    "y": 0.3358
+                },
+                {
+                    "x": 0.602,
+                    "y": 0.3358
+                },
+                {
+                    "x": 0.602,
+                    "y": 0.4124
+                },
+                {
+                    "x": 0.0827,
+                    "y": 0.4124
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "figure",
+            "content": {
+                "html": "<br><figure id='7'><img alt=\"\" data-coord=\"top-left:(1672,1297); bottom-right:(2465,1883)\" /></figure>",
+                "markdown": "![image](/image/placeholder)\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6052,
+                    "y": 0.333
+                },
+                {
+                    "x": 0.892,
+                    "y": 0.333
+                },
+                {
+                    "x": 0.892,
+                    "y": 0.4832
+                },
+                {
+                    "x": 0.6052,
+                    "y": 0.4832
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='8' data-category='paragraph' style='font-size:14px'>To choose the role played by the focus stick, press and hold the cen-<br>ter of the stick or use  BUTTON/DIAL SETTING > FOCUS LEVER<br>SETTING.</p>",
+                "markdown": "To choose the role played by the focus stick, press and hold the cen-\nter of the stick or use  BUTTON/DIAL SETTING > FOCUS LEVER\nSETTING.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0948,
+                    "y": 0.4953
+                },
+                {
+                    "x": 0.8897,
+                    "y": 0.4953
+                },
+                {
+                    "x": 0.8897,
+                    "y": 0.5635
+                },
+                {
+                    "x": 0.0948,
+                    "y": 0.5635
+                }
+            ],
+            "id": 8,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='9' data-category='paragraph' style='font-size:16px'>The Selector</p>",
+                "markdown": "The Selector",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0824,
+                    "y": 0.5846
+                },
+                {
+                    "x": 0.2549,
+                    "y": 0.5846
+                },
+                {
+                    "x": 0.2549,
+                    "y": 0.6073
+                },
+                {
+                    "x": 0.0824,
+                    "y": 0.6073
+                }
+            ],
+            "id": 9,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='10' data-category='paragraph' style='font-size:20px'>Press the selector up, right, down, or left<br>to highlight items. The up, right, down,<br>and left buttons also double as function<br>buttons Fn3 through Fn6 ( == 295, 321).</p>",
+                "markdown": "Press the selector up, right, down, or left\nto highlight items. The up, right, down,\nand left buttons also double as function\nbuttons Fn3 through Fn6 ( == 295, 321).",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0809,
+                    "y": 0.6163
+                },
+                {
+                    "x": 0.6116,
+                    "y": 0.6163
+                },
+                {
+                    "x": 0.6116,
+                    "y": 0.7187
+                },
+                {
+                    "x": 0.0809,
+                    "y": 0.7187
+                }
+            ],
+            "id": 10,
+            "page": 1
+        },
+        {
+            "category": "figure",
+            "content": {
+                "html": "<br><figure id='11'><img alt=\"\" data-coord=\"top-left:(1697,2390); bottom-right:(2389,2991)\" /></figure>",
+                "markdown": "![image](/image/placeholder)\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6142,
+                    "y": 0.6132
+                },
+                {
+                    "x": 0.8646,
+                    "y": 0.6132
+                },
+                {
+                    "x": 0.8646,
+                    "y": 0.7674
+                },
+                {
+                    "x": 0.6142,
+                    "y": 0.7674
+                }
+            ],
+            "id": 11,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='12' style='font-size:18px'>4</footer>",
+                "markdown": "4",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0814,
+                    "y": 0.958
+                },
+                {
+                    "x": 0.1068,
+                    "y": 0.958
+                },
+                {
+                    "x": 0.1068,
+                    "y": 0.978
+                },
+                {
+                    "x": 0.0814,
+                    "y": 0.978
+                }
+            ],
+            "id": 12,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

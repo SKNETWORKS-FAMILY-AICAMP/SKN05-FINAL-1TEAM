@@ -1,0 +1,73 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "\n# Wireless Transfer\n\nFor additional information on troubleshooting wireless connections, visit:  \nhttps://digitalcamera-support-en.fujifilm.com/\n\n| Problem                                      | Solution                                                                                                                                                                                                 |\n|----------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Cannot connect to smartphone. The camera is slow to connect or upload pictures to the smartphone. Upload fails or is interrupted. | - **The smartphone is too far away:** Move the devices closer (📖 284).  - **Nearby devices are causing radio interference:** Move the camera and smartphone away from microwave ovens or cordless phones (📖 284). |\n| Cannot upload images.                        | - **The smartphone is connected to another device:** The smartphone and camera can connect to only one device at a time. End the connection and try again (📖 284).  - **There are several smartphones in the vicinity:** Try connecting again. The presence of multiple smartphones can make connection difficult (📖 284).  - **The image was created on another device:** The camera may not be able to upload images created on other devices.  - **The image is a movie:** Uploading movies takes some time. In addition, smartphones may not accept upload of movies in formats they do not support. |\n| Smartphone will not display pictures.        | Select **ON** for **GENERAL SETTINGS > RESIZE IMAGE FOR SMARTPHONE**. Selecting **OFF** increases upload times for larger images; in addition, some phones may not display images over a certain size (📖 242). |\n",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "Wireless Transfer",
+                    "md": "# Wireless Transfer"
+                },
+                {
+                    "type": "text",
+                    "value": "For additional information on troubleshooting wireless connections, visit:  \nhttps://digitalcamera-support-en.fujifilm.com/",
+                    "md": "For additional information on troubleshooting wireless connections, visit:  \nhttps://digitalcamera-support-en.fujifilm.com/"
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Problem",
+                            "Solution"
+                        ],
+                        [
+                            "Cannot connect to smartphone. The camera is slow to connect or upload pictures to the smartphone. Upload fails or is interrupted.",
+                            "- **The smartphone is too far away:** Move the devices closer (📖 284).  - **Nearby devices are causing radio interference:** Move the camera and smartphone away from microwave ovens or cordless phones (📖 284)."
+                        ],
+                        [
+                            "Cannot upload images.",
+                            "- **The smartphone is connected to another device:** The smartphone and camera can connect to only one device at a time. End the connection and try again (📖 284).  - **There are several smartphones in the vicinity:** Try connecting again. The presence of multiple smartphones can make connection difficult (📖 284).  - **The image was created on another device:** The camera may not be able to upload images created on other devices.  - **The image is a movie:** Uploading movies takes some time. In addition, smartphones may not accept upload of movies in formats they do not support."
+                        ],
+                        [
+                            "Smartphone will not display pictures.",
+                            "Select **ON** for **GENERAL SETTINGS > RESIZE IMAGE FOR SMARTPHONE**. Selecting **OFF** increases upload times for larger images; in addition, some phones may not display images over a certain size (📖 242)."
+                        ]
+                    ],
+                    "md": "| Problem                                      | Solution                                                                                                                                                                                                 |\n|----------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Cannot connect to smartphone. The camera is slow to connect or upload pictures to the smartphone. Upload fails or is interrupted. | - **The smartphone is too far away:** Move the devices closer (📖 284).  - **Nearby devices are causing radio interference:** Move the camera and smartphone away from microwave ovens or cordless phones (📖 284). |\n| Cannot upload images.                        | - **The smartphone is connected to another device:** The smartphone and camera can connect to only one device at a time. End the connection and try again (📖 284).  - **There are several smartphones in the vicinity:** Try connecting again. The presence of multiple smartphones can make connection difficult (📖 284).  - **The image was created on another device:** The camera may not be able to upload images created on other devices.  - **The image is a movie:** Uploading movies takes some time. In addition, smartphones may not accept upload of movies in formats they do not support. |\n| Smartphone will not display pictures.        | Select **ON** for **GENERAL SETTINGS > RESIZE IMAGE FOR SMARTPHONE**. Selecting **OFF** increases upload times for larger images; in addition, some phones may not display images over a certain size (📖 242). |",
+                    "isPerfectTable": true,
+                    "csv": "\"Problem\",\"Solution\"\n\"Cannot connect to smartphone. The camera is slow to connect or upload pictures to the smartphone. Upload fails or is interrupted.\",\"- **The smartphone is too far away:** Move the devices closer (📖 284).  - **Nearby devices are causing radio interference:** Move the camera and smartphone away from microwave ovens or cordless phones (📖 284).\"\n\"Cannot upload images.\",\"- **The smartphone is connected to another device:** The smartphone and camera can connect to only one device at a time. End the connection and try again (📖 284).  - **There are several smartphones in the vicinity:** Try connecting again. The presence of multiple smartphones can make connection difficult (📖 284).  - **The image was created on another device:** The camera may not be able to upload images created on other devices.  - **The image is a movie:** Uploading movies takes some time. In addition, smartphones may not accept upload of movies in formats they do not support.\"\n\"Smartphone will not display pictures.\",\"Select **ON** for **GENERAL SETTINGS > RESIZE IMAGE FOR SMARTPHONE**. Selecting **OFF** increases upload times for larger images; in addition, some phones may not display images over a certain size (📖 242).\""
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "parsingMode": "multimodal-openai-gpt4o",
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 306.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "b35d4fe9-7bc0-4281-9575-c49d5ae88fbe",
+    "file_path": "../data/raw_data/x-e4/x-e4_split/x-e4_page346.pdf"
+}

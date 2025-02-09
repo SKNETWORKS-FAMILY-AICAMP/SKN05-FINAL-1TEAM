@@ -1,0 +1,81 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "# Dynamic Range\n\nAdjust dynamic range. Wide dynamic ranges reduce loss of detail in highlights for more natural results with high-contrast or backlit scenes.\n\n| Option | Description |\n|--------|-------------|\n| AUTO   | Choose for increased contrast. |\n| !100% 100% | Reduce loss of detail in highlights. |\n| !200% 200% | Reduce loss of detail in highlights. |\n| !400% 400% | Reduce loss of detail in highlights. |\n\n> ⚠️ Mottling may appear in pictures taken at higher values. Choose a value according to the scene.\n\n- If **AUTO** is selected, the camera will automatically choose either !100% 100% or !200% 200% according to the subject and shooting conditions. Shutter speed and aperture will be displayed when the shutter button is pressed halfway.\n- !200% 200% is available at sensitivities from ISO 160 to ISO 12800.\n- !400% 400% at sensitivities from ISO 320 to 12800.",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "Dynamic Range",
+                    "md": "# Dynamic Range"
+                },
+                {
+                    "type": "text",
+                    "value": "Adjust dynamic range. Wide dynamic ranges reduce loss of detail in highlights for more natural results with high-contrast or backlit scenes.",
+                    "md": "Adjust dynamic range. Wide dynamic ranges reduce loss of detail in highlights for more natural results with high-contrast or backlit scenes."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Option",
+                            "Description"
+                        ],
+                        [
+                            "AUTO",
+                            "Choose for increased contrast."
+                        ],
+                        [
+                            "!100% 100%",
+                            "Reduce loss of detail in highlights."
+                        ],
+                        [
+                            "!200% 200%",
+                            "Reduce loss of detail in highlights."
+                        ],
+                        [
+                            "!400% 400%",
+                            "Reduce loss of detail in highlights."
+                        ]
+                    ],
+                    "md": "| Option | Description |\n|--------|-------------|\n| AUTO   | Choose for increased contrast. |\n| !100% 100% | Reduce loss of detail in highlights. |\n| !200% 200% | Reduce loss of detail in highlights. |\n| !400% 400% | Reduce loss of detail in highlights. |",
+                    "isPerfectTable": true,
+                    "csv": "\"Option\",\"Description\"\n\"AUTO\",\"Choose for increased contrast.\"\n\"!100% 100%\",\"Reduce loss of detail in highlights.\"\n\"!200% 200%\",\"Reduce loss of detail in highlights.\"\n\"!400% 400%\",\"Reduce loss of detail in highlights.\""
+                },
+                {
+                    "type": "text",
+                    "value": "> ⚠️ Mottling may appear in pictures taken at higher values. Choose a value according to the scene.\n\n- If **AUTO** is selected, the camera will automatically choose either !100% 100% or !200% 200% according to the subject and shooting conditions. Shutter speed and aperture will be displayed when the shutter button is pressed halfway.\n- !200% 200% is available at sensitivities from ISO 160 to ISO 12800.\n- !400% 400% at sensitivities from ISO 320 to 12800.",
+                    "md": "> ⚠️ Mottling may appear in pictures taken at higher values. Choose a value according to the scene.\n\n- If **AUTO** is selected, the camera will automatically choose either !100% 100% or !200% 200% according to the subject and shooting conditions. Shutter speed and aperture will be displayed when the shutter button is pressed halfway.\n- !200% 200% is available at sensitivities from ISO 160 to ISO 12800.\n- !400% 400% at sensitivities from ISO 320 to 12800."
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 242.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "dc268ead-e14b-4877-8ff1-f44c0e761942",
+    "file_path": "../data/raw_data/gfx100ii/gfx100ii_split/gfx100ii_page162.pdf"
+}

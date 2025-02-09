@@ -1,0 +1,322 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:14px'>MOVIE SETTING (Movie Recording)</header>\n<h1 id='1' style='font-size:14px'>MEDIA REC SETTING</h1>\n<br><h1 id='2' style='font-size:18px'>Choose movie file settings, including destination, file type, bit<br>rate, and proxy video.</h1>\n<p id='3' data-category='paragraph' style='font-size:16px'>MEDIA REC SETTING</p>\n<br><p id='4' data-category='paragraph' style='font-size:20px'>Choose movie file settings, including destination, file type, and<br>compression.</p>\n<br><h1 id='5' style='font-size:18px'>Destination</h1>\n\n<table id='7' style='font-size:14px'><tr><td>Option</td><td>Description</td></tr><tr><td>1</td><td>Movies are recorded only to the memory card in Slot 1.</td></tr><tr><td>2</td><td>Movies are recorded only to the memory card in Slot 2.</td></tr><tr><td>1→2</td><td>Footage is recorded to the memory card in Slot 1 until the card fills. Any additional footage will then automatically be record- ed to the card in Slot 2.</td></tr><tr><td>1+2</td><td>Each movie is recorded twice, once to each card.</td></tr><tr><td>SSD</td><td>Movies are recorded only to an SSD connected to the USB con- nector.</td></tr><tr><td>HDMI</td><td>Movies are recorded only to devices connected via HDMI.</td></tr><br><caption id='6' style='font-size:18px'>Choose save options and save and output destinations for mov-<br>ies.</caption></table>\n<br><p id='8' data-category='paragraph' style='font-size:18px'>The current movie mode applies to both copies; settings for backup<br>copies cannot be adjusted separately.</p>\n<br><footer id='9' style='font-size:22px'>6<br>The<br>Shooting<br>Menus</footer>\n<footer id='10' style='font-size:20px'>181</footer>",
+        "markdown": "MOVIE SETTING (Movie Recording)\n\n# MEDIA REC SETTING\n\n# Choose movie file settings, including destination, file type, bit\nrate, and proxy video.\n\nMEDIA REC SETTING\n\nChoose movie file settings, including destination, file type, and\ncompression.\n\n# Destination\n\nChoose save options and save and output destinations for mov-\nies.\n\n| Option | Description |\n| --- | --- |\n| 1 | Movies are recorded only to the memory card in Slot 1. |\n| 2 | Movies are recorded only to the memory card in Slot 2. |\n| 1→2 | Footage is recorded to the memory card in Slot 1 until the card fills. Any additional footage will then automatically be record- ed to the card in Slot 2. |\n| 1+2 | Each movie is recorded twice, once to each card. |\n| SSD | Movies are recorded only to an SSD connected to the USB con- nector. |\n| HDMI | Movies are recorded only to devices connected via HDMI. |\n\n\nThe current movie mode applies to both copies; settings for backup\ncopies cannot be adjusted separately.\n\n6\nThe\nShooting\nMenus\n\n181",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:14px'>MOVIE SETTING (Movie Recording)</header>",
+                "markdown": "MOVIE SETTING (Movie Recording)",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.5763,
+                    "y": 0.0282
+                },
+                {
+                    "x": 0.9175,
+                    "y": 0.0282
+                },
+                {
+                    "x": 0.9175,
+                    "y": 0.051
+                },
+                {
+                    "x": 0.5763,
+                    "y": 0.051
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='1' style='font-size:14px'>MEDIA REC SETTING</h1>",
+                "markdown": "# MEDIA REC SETTING",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1069,
+                    "y": 0.0717
+                },
+                {
+                    "x": 0.3869,
+                    "y": 0.0717
+                },
+                {
+                    "x": 0.3869,
+                    "y": 0.0954
+                },
+                {
+                    "x": 0.1069,
+                    "y": 0.0954
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='2' style='font-size:18px'>Choose movie file settings, including destination, file type, bit<br>rate, and proxy video.</h1>",
+                "markdown": "# Choose movie file settings, including destination, file type, bit\nrate, and proxy video.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1064,
+                    "y": 0.1042
+                },
+                {
+                    "x": 0.92,
+                    "y": 0.1042
+                },
+                {
+                    "x": 0.92,
+                    "y": 0.1556
+                },
+                {
+                    "x": 0.1064,
+                    "y": 0.1556
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='3' data-category='paragraph' style='font-size:16px'>MEDIA REC SETTING</p>",
+                "markdown": "MEDIA REC SETTING",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.121,
+                    "y": 0.1765
+                },
+                {
+                    "x": 0.3735,
+                    "y": 0.1765
+                },
+                {
+                    "x": 0.3735,
+                    "y": 0.199
+                },
+                {
+                    "x": 0.121,
+                    "y": 0.199
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='4' data-category='paragraph' style='font-size:20px'>Choose movie file settings, including destination, file type, and<br>compression.</p>",
+                "markdown": "Choose movie file settings, including destination, file type, and\ncompression.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1071,
+                    "y": 0.2062
+                },
+                {
+                    "x": 0.9186,
+                    "y": 0.2062
+                },
+                {
+                    "x": 0.9186,
+                    "y": 0.2572
+                },
+                {
+                    "x": 0.1071,
+                    "y": 0.2572
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='5' style='font-size:18px'>Destination</h1>",
+                "markdown": "# Destination",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1074,
+                    "y": 0.2715
+                },
+                {
+                    "x": 0.2368,
+                    "y": 0.2715
+                },
+                {
+                    "x": 0.2368,
+                    "y": 0.2934
+                },
+                {
+                    "x": 0.1074,
+                    "y": 0.2934
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='6' data-category='paragraph' style='font-size:18px'>Choose save options and save and output destinations for mov-<br>ies.</p>",
+                "markdown": "Choose save options and save and output destinations for mov-\nies.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1061,
+                    "y": 0.2976
+                },
+                {
+                    "x": 0.9192,
+                    "y": 0.2976
+                },
+                {
+                    "x": 0.9192,
+                    "y": 0.3449
+                },
+                {
+                    "x": 0.1061,
+                    "y": 0.3449
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='7' style='font-size:14px'><tr><td>Option</td><td>Description</td></tr><tr><td>1</td><td>Movies are recorded only to the memory card in Slot 1.</td></tr><tr><td>2</td><td>Movies are recorded only to the memory card in Slot 2.</td></tr><tr><td>1→2</td><td>Footage is recorded to the memory card in Slot 1 until the card fills. Any additional footage will then automatically be record- ed to the card in Slot 2.</td></tr><tr><td>1+2</td><td>Each movie is recorded twice, once to each card.</td></tr><tr><td>SSD</td><td>Movies are recorded only to an SSD connected to the USB con- nector.</td></tr><tr><td>HDMI</td><td>Movies are recorded only to devices connected via HDMI.</td></tr></table>",
+                "markdown": "| Option | Description |\n| --- | --- |\n| 1 | Movies are recorded only to the memory card in Slot 1. |\n| 2 | Movies are recorded only to the memory card in Slot 2. |\n| 1→2 | Footage is recorded to the memory card in Slot 1 until the card fills. Any additional footage will then automatically be record- ed to the card in Slot 2. |\n| 1+2 | Each movie is recorded twice, once to each card. |\n| SSD | Movies are recorded only to an SSD connected to the USB con- nector. |\n| HDMI | Movies are recorded only to devices connected via HDMI. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1073,
+                    "y": 0.3605
+                },
+                {
+                    "x": 0.9192,
+                    "y": 0.3605
+                },
+                {
+                    "x": 0.9192,
+                    "y": 0.6019
+                },
+                {
+                    "x": 0.1073,
+                    "y": 0.6019
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='8' data-category='paragraph' style='font-size:18px'>The current movie mode applies to both copies; settings for backup<br>copies cannot be adjusted separately.</p>",
+                "markdown": "The current movie mode applies to both copies; settings for backup\ncopies cannot be adjusted separately.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1065,
+                    "y": 0.6087
+                },
+                {
+                    "x": 0.9147,
+                    "y": 0.6087
+                },
+                {
+                    "x": 0.9147,
+                    "y": 0.6552
+                },
+                {
+                    "x": 0.1065,
+                    "y": 0.6552
+                }
+            ],
+            "id": 8,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<br><footer id='9' style='font-size:22px'>6<br>The<br>Shooting<br>Menus</footer>",
+                "markdown": "6\nThe\nShooting\nMenus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9562,
+                    "y": 0.5415
+                },
+                {
+                    "x": 0.9832,
+                    "y": 0.5415
+                },
+                {
+                    "x": 0.9832,
+                    "y": 0.7312
+                },
+                {
+                    "x": 0.9562,
+                    "y": 0.7312
+                }
+            ],
+            "id": 9,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='10' style='font-size:20px'>181</footer>",
+                "markdown": "181",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.8624,
+                    "y": 0.9565
+                },
+                {
+                    "x": 0.915,
+                    "y": 0.9565
+                },
+                {
+                    "x": 0.915,
+                    "y": 0.9793
+                },
+                {
+                    "x": 0.8624,
+                    "y": 0.9793
+                }
+            ],
+            "id": 10,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

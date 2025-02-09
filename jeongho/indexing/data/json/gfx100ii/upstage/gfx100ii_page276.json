@@ -1,0 +1,322 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:22px'>Network/USB<br>Setting<br>Menus</header>\n<br><h1 id='1' style='font-size:20px'>4 Press DISP/BACK and select START<br>TRANSFER.<br>The selected items will be uploaded<br>to Frame.io.</h1>\n<br><table id='2' style='font-size:14px'><tr><td colspan=\"2\">SELECT IMAGE & TRANSFER</td></tr><tr><td colspan=\"2\">START TRANSFER</td></tr><tr><td colspan=\"2\">FILTERING</td></tr><tr><td colspan=\"2\">SWITCH MEMORY CARD SLOT IMAGE SELECT AND</td></tr><tr><td colspan=\"2\">FINISH START TRANSFER</td></tr><tr><td>BACK</td><td>BACK</td></tr></table>\n<br><p id='3' data-category='paragraph' style='font-size:18px'>Filtering Items/Choosing a Slot</p>\n\n<p id='5' data-category='list' style='font-size:16px'>● To display only items that meet selected crite-<br>ria, choose FILTERING.<br>● To switch to the memory card in the other slot,<br>choose SWITCH MEMORY CARD SLOT.</p>\n<br><table id='6' style='font-size:14px'><tr><td colspan=\"2\">SELECT IMAGE & TRANSFER</td></tr><tr><td colspan=\"2\">START TRANSFER</td></tr><tr><td colspan=\"2\">FILTERING</td></tr><tr><td colspan=\"2\">SWITCH MEMORY CARD SLOT</td></tr><tr><td colspan=\"2\">FILTERING THE IMAGE WITH CONDITIONS BACK BACK</td></tr><br><caption id='4' style='font-size:18px'>To switch to the memory card in the other slot or display only items that<br>meet selected criteria, press DISP/BACK in the selection dialog.</caption></table>\n<br><p id='7' data-category='paragraph' style='font-size:20px'>Switching slots or changing the filter criteria removes any existing up-<br>load marking.</p>\n<p id='8' data-category='list' style='font-size:16px'>Image transfer orders can contain a maximum of 9999 items.<br>● If ON is selected for Frame.io Camera to Cloud > IMAGE TRANSFER<br>WHILE POWER OFF, upload will continue even while the camera is<br>off.</p>\n<header id='9' style='font-size:14px'>8</header>\n<footer id='10' style='font-size:22px'>276</footer>",
+        "markdown": "Network/USB\nSetting\nMenus\n\n# 4 Press DISP/BACK and select START\nTRANSFER.\nThe selected items will be uploaded\nto Frame.io.\n\n| SELECT IMAGE & TRANSFER | SELECT IMAGE & TRANSFER |\n| --- | --- |\n| START TRANSFER | START TRANSFER |\n| FILTERING | FILTERING |\n| SWITCH MEMORY CARD SLOT IMAGE SELECT AND | SWITCH MEMORY CARD SLOT IMAGE SELECT AND |\n| FINISH START TRANSFER | FINISH START TRANSFER |\n| BACK | BACK |\n\n\nFiltering Items/Choosing a Slot\n\nTo switch to the memory card in the other slot or display only items that\nmeet selected criteria, press DISP/BACK in the selection dialog.\n\n- ● To display only items that meet selected crite-\n- ria, choose FILTERING.\n- ● To switch to the memory card in the other slot,\n- choose SWITCH MEMORY CARD SLOT.\n\n\n| SELECT IMAGE & TRANSFER | SELECT IMAGE & TRANSFER |\n| --- | --- |\n| START TRANSFER | START TRANSFER |\n| FILTERING | FILTERING |\n| SWITCH MEMORY CARD SLOT | SWITCH MEMORY CARD SLOT |\n| FILTERING THE IMAGE WITH CONDITIONS BACK BACK | FILTERING THE IMAGE WITH CONDITIONS BACK BACK |\n\n\nSwitching slots or changing the filter criteria removes any existing up-\nload marking.\n\n- Image transfer orders can contain a maximum of 9999 items.\n- ● If ON is selected for Frame.io Camera to Cloud > IMAGE TRANSFER\n- WHILE POWER OFF, upload will continue even while the camera is\n- off.\n\n\n8\n\n276",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:22px'>Network/USB<br>Setting<br>Menus</header>",
+                "markdown": "Network/USB\nSetting\nMenus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0178,
+                    "y": 0.4283
+                },
+                {
+                    "x": 0.0408,
+                    "y": 0.4283
+                },
+                {
+                    "x": 0.0408,
+                    "y": 0.6381
+                },
+                {
+                    "x": 0.0178,
+                    "y": 0.6381
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='1' style='font-size:20px'>4 Press DISP/BACK and select START<br>TRANSFER.<br>The selected items will be uploaded<br>to Frame.io.</h1>",
+                "markdown": "# 4 Press DISP/BACK and select START\nTRANSFER.\nThe selected items will be uploaded\nto Frame.io.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0974,
+                    "y": 0.0728
+                },
+                {
+                    "x": 0.604,
+                    "y": 0.0728
+                },
+                {
+                    "x": 0.604,
+                    "y": 0.173
+                },
+                {
+                    "x": 0.0974,
+                    "y": 0.173
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='2' style='font-size:14px'><tr><td colspan=\"2\">SELECT IMAGE & TRANSFER</td></tr><tr><td colspan=\"2\">START TRANSFER</td></tr><tr><td colspan=\"2\">FILTERING</td></tr><tr><td colspan=\"2\">SWITCH MEMORY CARD SLOT IMAGE SELECT AND</td></tr><tr><td colspan=\"2\">FINISH START TRANSFER</td></tr><tr><td>BACK</td><td>BACK</td></tr></table>",
+                "markdown": "| SELECT IMAGE & TRANSFER | SELECT IMAGE & TRANSFER |\n| --- | --- |\n| START TRANSFER | START TRANSFER |\n| FILTERING | FILTERING |\n| SWITCH MEMORY CARD SLOT IMAGE SELECT AND | SWITCH MEMORY CARD SLOT IMAGE SELECT AND |\n| FINISH START TRANSFER | FINISH START TRANSFER |\n| BACK | BACK |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6139,
+                    "y": 0.0717
+                },
+                {
+                    "x": 0.8897,
+                    "y": 0.0717
+                },
+                {
+                    "x": 0.8897,
+                    "y": 0.2197
+                },
+                {
+                    "x": 0.6139,
+                    "y": 0.2197
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='3' data-category='paragraph' style='font-size:18px'>Filtering Items/Choosing a Slot</p>",
+                "markdown": "Filtering Items/Choosing a Slot",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0823,
+                    "y": 0.2255
+                },
+                {
+                    "x": 0.3896,
+                    "y": 0.2255
+                },
+                {
+                    "x": 0.3896,
+                    "y": 0.2472
+                },
+                {
+                    "x": 0.0823,
+                    "y": 0.2472
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='4' data-category='paragraph' style='font-size:18px'>To switch to the memory card in the other slot or display only items that<br>meet selected criteria, press DISP/BACK in the selection dialog.</p>",
+                "markdown": "To switch to the memory card in the other slot or display only items that\nmeet selected criteria, press DISP/BACK in the selection dialog.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0798,
+                    "y": 0.2481
+                },
+                {
+                    "x": 0.8908,
+                    "y": 0.2481
+                },
+                {
+                    "x": 0.8908,
+                    "y": 0.2933
+                },
+                {
+                    "x": 0.0798,
+                    "y": 0.2933
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "list",
+            "content": {
+                "html": "<p id='5' data-category='list' style='font-size:16px'>● To display only items that meet selected crite-<br>ria, choose FILTERING.<br>● To switch to the memory card in the other slot,<br>choose SWITCH MEMORY CARD SLOT.</p>",
+                "markdown": "- ● To display only items that meet selected crite-\n- ria, choose FILTERING.\n- ● To switch to the memory card in the other slot,\n- choose SWITCH MEMORY CARD SLOT.\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0848,
+                    "y": 0.3048
+                },
+                {
+                    "x": 0.6015,
+                    "y": 0.3048
+                },
+                {
+                    "x": 0.6015,
+                    "y": 0.3965
+                },
+                {
+                    "x": 0.0848,
+                    "y": 0.3965
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='6' style='font-size:14px'><tr><td colspan=\"2\">SELECT IMAGE & TRANSFER</td></tr><tr><td colspan=\"2\">START TRANSFER</td></tr><tr><td colspan=\"2\">FILTERING</td></tr><tr><td colspan=\"2\">SWITCH MEMORY CARD SLOT</td></tr><tr><td colspan=\"2\">FILTERING THE IMAGE WITH CONDITIONS BACK BACK</td></tr></table>",
+                "markdown": "| SELECT IMAGE & TRANSFER | SELECT IMAGE & TRANSFER |\n| --- | --- |\n| START TRANSFER | START TRANSFER |\n| FILTERING | FILTERING |\n| SWITCH MEMORY CARD SLOT | SWITCH MEMORY CARD SLOT |\n| FILTERING THE IMAGE WITH CONDITIONS BACK BACK | FILTERING THE IMAGE WITH CONDITIONS BACK BACK |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6142,
+                    "y": 0.3037
+                },
+                {
+                    "x": 0.8902,
+                    "y": 0.3037
+                },
+                {
+                    "x": 0.8902,
+                    "y": 0.4544
+                },
+                {
+                    "x": 0.6142,
+                    "y": 0.4544
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='7' data-category='paragraph' style='font-size:20px'>Switching slots or changing the filter criteria removes any existing up-<br>load marking.</p>",
+                "markdown": "Switching slots or changing the filter criteria removes any existing up-\nload marking.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0896,
+                    "y": 0.4636
+                },
+                {
+                    "x": 0.8881,
+                    "y": 0.4636
+                },
+                {
+                    "x": 0.8881,
+                    "y": 0.5085
+                },
+                {
+                    "x": 0.0896,
+                    "y": 0.5085
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "list",
+            "content": {
+                "html": "<p id='8' data-category='list' style='font-size:16px'>Image transfer orders can contain a maximum of 9999 items.<br>● If ON is selected for Frame.io Camera to Cloud > IMAGE TRANSFER<br>WHILE POWER OFF, upload will continue even while the camera is<br>off.</p>",
+                "markdown": "- Image transfer orders can contain a maximum of 9999 items.\n- ● If ON is selected for Frame.io Camera to Cloud > IMAGE TRANSFER\n- WHILE POWER OFF, upload will continue even while the camera is\n- off.\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1016,
+                    "y": 0.5554
+                },
+                {
+                    "x": 0.8895,
+                    "y": 0.5554
+                },
+                {
+                    "x": 0.8895,
+                    "y": 0.6431
+                },
+                {
+                    "x": 0.1016,
+                    "y": 0.6431
+                }
+            ],
+            "id": 8,
+            "page": 1
+        },
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='9' style='font-size:14px'>8</header>",
+                "markdown": "8",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.026,
+                    "y": 0.6571
+                },
+                {
+                    "x": 0.0437,
+                    "y": 0.6571
+                },
+                {
+                    "x": 0.0437,
+                    "y": 0.6775
+                },
+                {
+                    "x": 0.026,
+                    "y": 0.6775
+                }
+            ],
+            "id": 9,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='10' style='font-size:22px'>276</footer>",
+                "markdown": "276",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.082,
+                    "y": 0.9564
+                },
+                {
+                    "x": 0.1407,
+                    "y": 0.9564
+                },
+                {
+                    "x": 0.1407,
+                    "y": 0.9799
+                },
+                {
+                    "x": 0.082,
+                    "y": 0.9799
+                }
+            ],
+            "id": 10,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

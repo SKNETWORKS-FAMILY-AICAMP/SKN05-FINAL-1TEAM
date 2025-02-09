@@ -1,0 +1,78 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "\n# COMMAND DIAL SETTING\n\nChoose the roles played by the front command dial. You can press the center of the dial to cycle through roles in the order **FRONT COMMAND DIAL 1**, **FRONT COMMAND DIAL 2**, and **FRONT COMMAND DIAL 3**.\n\n| Option                  | Description                                                                                                                                  |\n|-------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|\n| FRONT COMMAND DIAL 1    | Assign shutter speed (**S.S. (PROGRAM SHIFT)**) or aperture (**APERTURE**)<sup>1</sup> to FRONT COMMAND DIAL 1.                             |\n| FRONT COMMAND DIAL 2    | Assign shutter speed (**S.S. (PROGRAM SHIFT)**), aperture (**APERTURE**)<sup>1</sup>, exposure compensation (**EXPOSURE COMPENSATION**)<sup>2</sup>, sensitivity (**ISO**), or no role (**NONE**) to FRONT COMMAND DIAL 2 or FRONT COMMAND DIAL 3. |\n| FRONT COMMAND DIAL 3    |                                                                                                                                              |\n\n<sup>1</sup> Aperture set to **A** (auto) and lens equipped with aperture ring or COMMAND selected for !Button/Dial Setting > APERTURE RING SETTING (A).\n\n<sup>2</sup> Exposure compensation dial rotated to **C**.\n\n> 💡 **Note:**  \n> COMMAND DIAL SETTING can also be accessed by pressing and holding the center of the front command dial.\n",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "COMMAND DIAL SETTING",
+                    "md": "# COMMAND DIAL SETTING"
+                },
+                {
+                    "type": "text",
+                    "value": "Choose the roles played by the front command dial. You can press the center of the dial to cycle through roles in the order **FRONT COMMAND DIAL 1**, **FRONT COMMAND DIAL 2**, and **FRONT COMMAND DIAL 3**.",
+                    "md": "Choose the roles played by the front command dial. You can press the center of the dial to cycle through roles in the order **FRONT COMMAND DIAL 1**, **FRONT COMMAND DIAL 2**, and **FRONT COMMAND DIAL 3**."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Option",
+                            "Description"
+                        ],
+                        [
+                            "FRONT COMMAND DIAL 1",
+                            "Assign shutter speed (**S.S. (PROGRAM SHIFT)**) or aperture (**APERTURE**)<sup>1</sup> to FRONT COMMAND DIAL 1."
+                        ],
+                        [
+                            "FRONT COMMAND DIAL 2",
+                            "Assign shutter speed (**S.S. (PROGRAM SHIFT)**), aperture (**APERTURE**)<sup>1</sup>, exposure compensation (**EXPOSURE COMPENSATION**)<sup>2</sup>, sensitivity (**ISO**), or no role (**NONE**) to FRONT COMMAND DIAL 2 or FRONT COMMAND DIAL 3."
+                        ],
+                        [
+                            "FRONT COMMAND DIAL 3",
+                            ""
+                        ]
+                    ],
+                    "md": "| Option                  | Description                                                                                                                                  |\n|-------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|\n| FRONT COMMAND DIAL 1    | Assign shutter speed (**S.S. (PROGRAM SHIFT)**) or aperture (**APERTURE**)<sup>1</sup> to FRONT COMMAND DIAL 1.                             |\n| FRONT COMMAND DIAL 2    | Assign shutter speed (**S.S. (PROGRAM SHIFT)**), aperture (**APERTURE**)<sup>1</sup>, exposure compensation (**EXPOSURE COMPENSATION**)<sup>2</sup>, sensitivity (**ISO**), or no role (**NONE**) to FRONT COMMAND DIAL 2 or FRONT COMMAND DIAL 3. |\n| FRONT COMMAND DIAL 3    |                                                                                                                                              |",
+                    "isPerfectTable": true,
+                    "csv": "\"Option\",\"Description\"\n\"FRONT COMMAND DIAL 1\",\"Assign shutter speed (**S.S. (PROGRAM SHIFT)**) or aperture (**APERTURE**)<sup>1</sup> to FRONT COMMAND DIAL 1.\"\n\"FRONT COMMAND DIAL 2\",\"Assign shutter speed (**S.S. (PROGRAM SHIFT)**), aperture (**APERTURE**)<sup>1</sup>, exposure compensation (**EXPOSURE COMPENSATION**)<sup>2</sup>, sensitivity (**ISO**), or no role (**NONE**) to FRONT COMMAND DIAL 2 or FRONT COMMAND DIAL 3.\"\n\"FRONT COMMAND DIAL 3\",\"\""
+                },
+                {
+                    "type": "text",
+                    "value": "<sup>1</sup> Aperture set to **A** (auto) and lens equipped with aperture ring or COMMAND selected for !Button/Dial Setting > APERTURE RING SETTING (A).\n\n<sup>2</sup> Exposure compensation dial rotated to **C**.\n\n> 💡 **Note:**  \n> COMMAND DIAL SETTING can also be accessed by pressing and holding the center of the front command dial.",
+                    "md": "<sup>1</sup> Aperture set to **A** (auto) and lens equipped with aperture ring or COMMAND selected for !Button/Dial Setting > APERTURE RING SETTING (A).\n\n<sup>2</sup> Exposure compensation dial rotated to **C**.\n\n> 💡 **Note:**  \n> COMMAND DIAL SETTING can also be accessed by pressing and holding the center of the front command dial."
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "parsingMode": "multimodal-openai-gpt4o",
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 276.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "31df473f-11b3-4f66-9dee-8385ca24a851",
+    "file_path": "../data/raw_data/x-e4/x-e4_split/x-e4_page250.pdf"
+}

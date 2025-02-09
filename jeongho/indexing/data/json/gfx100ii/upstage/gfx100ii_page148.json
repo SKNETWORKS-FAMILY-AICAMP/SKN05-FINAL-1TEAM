@@ -1,0 +1,434 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<h1 id='0' style='font-size:22px'>Focus Tracking Options</h1>\n<br><h1 id='1' style='font-size:18px'>The individual parameters that are part of a focus tracking set are<br>described below.</h1>\n<br><h1 id='2' style='font-size:18px'>TRACKING SENSITIVITY</h1>\n<br><p id='3' data-category='paragraph' style='font-size:20px'>This parameter determines how long the<br>camera waits to switch focus when an<br>object enters the focus area behind or in<br>front of the current subject. The higher<br>the value, the longer the camera will wait.</p>\n<br><figure id='4'><img style='font-size:14px' alt=\"TRACKING SENSITIVITY\nAF\nMF\n0 1 2 3 4\n◀\nQUICK LOCKED ON\nSETS THE TRACKING\nSENSITIVITY ON THE SUBJECT\n� ADJUST � SWITCH\" data-coord=\"top-left:(1688,765); bottom-right:(2460,1343)\" /></figure>\n<table id='5' style='font-size:16px'><tr><td colspan=\"5\">Options</td></tr><tr><td>0</td><td>1</td><td>2</td><td>3</td><td>4</td></tr></table>\n<p id='6' data-category='list' style='font-size:16px'>● The higher the value, the longer it takes the camera to refocus when<br>you attempt to switch subjects.<br>● The lower the value, the more likely the camera is to switch focus<br>from your subject to other objects in the focus area.</p>\n<h1 id='7' style='font-size:18px'>SPEED TRACKING SENSITIVITY</h1>\n<br><p id='8' data-category='paragraph' style='font-size:20px'>This parameter determines how sensi-<br>tive the tracking system is to changes in<br>subject velocity. The higher the value,<br>the greater the precision with which the<br>system attempts to respond to sudden<br>movement.</p>\n<br><figure id='9'><img style='font-size:14px' alt=\"SPEED TRACKING SENSITIVITY\nAF\nMF\n0 1 2\nSTEADY ACCEL./DECEL.\nSETS THE SPEED TRACKING\nSENSITIVITY FOR MOVING SUBJECT\n� ADJUST ミ SWITCH\" data-coord=\"top-left:(1689,2173); bottom-right:(2463,2760)\" /></figure>\n<br><header id='10' style='font-size:22px'>The<br>Shooting<br>Menus</header>\n<br><p id='11' data-category='paragraph' style='font-size:22px'>Options</p>\n<br><p id='12' data-category='paragraph' style='font-size:14px'>0 1 2</p>\n<p id='13' data-category='paragraph' style='font-size:16px'>The higher the value, the more difficulty the camera will have focusing<br>in situations in which autofocus does not perform well, such as when<br>the subject is highly reflective or low in contrast.</p>\n<footer id='14' style='font-size:20px'>148</footer>",
+        "markdown": "# Focus Tracking Options\n\n# The individual parameters that are part of a focus tracking set are\ndescribed below.\n\n# TRACKING SENSITIVITY\n\nThis parameter determines how long the\ncamera waits to switch focus when an\nobject enters the focus area behind or in\nfront of the current subject. The higher\nthe value, the longer the camera will wait.\n\n![image](/image/placeholder)\nTRACKING SENSITIVITY\nAF\nMF\n0 1 2 3 4\n◀\nQUICK LOCKED ON\nSETS THE TRACKING\nSENSITIVITY ON THE SUBJECT\n� ADJUST � SWITCH\n\n| Options | Options | Options | Options | Options |\n| --- | --- | --- | --- | --- |\n| 0 | 1 | 2 | 3 | 4 |\n\n\n- ● The higher the value, the longer it takes the camera to refocus when\n- you attempt to switch subjects.\n- ● The lower the value, the more likely the camera is to switch focus\n- from your subject to other objects in the focus area.\n\n\n# SPEED TRACKING SENSITIVITY\n\nThis parameter determines how sensi-\ntive the tracking system is to changes in\nsubject velocity. The higher the value,\nthe greater the precision with which the\nsystem attempts to respond to sudden\nmovement.\n\n![image](/image/placeholder)\nSPEED TRACKING SENSITIVITY\nAF\nMF\n0 1 2\nSTEADY ACCEL./DECEL.\nSETS THE SPEED TRACKING\nSENSITIVITY FOR MOVING SUBJECT\n� ADJUST ミ SWITCH\n\nThe\nShooting\nMenus\n\nOptions\n\n0 1 2\n\nThe higher the value, the more difficulty the camera will have focusing\nin situations in which autofocus does not perform well, such as when\nthe subject is highly reflective or low in contrast.\n\n148",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='0' style='font-size:22px'>Focus Tracking Options</h1>",
+                "markdown": "# Focus Tracking Options",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0946,
+                    "y": 0.0738
+                },
+                {
+                    "x": 0.3847,
+                    "y": 0.0738
+                },
+                {
+                    "x": 0.3847,
+                    "y": 0.0984
+                },
+                {
+                    "x": 0.0946,
+                    "y": 0.0984
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='1' style='font-size:18px'>The individual parameters that are part of a focus tracking set are<br>described below.</h1>",
+                "markdown": "# The individual parameters that are part of a focus tracking set are\ndescribed below.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0814,
+                    "y": 0.1052
+                },
+                {
+                    "x": 0.8928,
+                    "y": 0.1052
+                },
+                {
+                    "x": 0.8928,
+                    "y": 0.154
+                },
+                {
+                    "x": 0.0814,
+                    "y": 0.154
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='2' style='font-size:18px'>TRACKING SENSITIVITY</h1>",
+                "markdown": "# TRACKING SENSITIVITY",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0817,
+                    "y": 0.1685
+                },
+                {
+                    "x": 0.321,
+                    "y": 0.1685
+                },
+                {
+                    "x": 0.321,
+                    "y": 0.1901
+                },
+                {
+                    "x": 0.0817,
+                    "y": 0.1901
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='3' data-category='paragraph' style='font-size:20px'>This parameter determines how long the<br>camera waits to switch focus when an<br>object enters the focus area behind or in<br>front of the current subject. The higher<br>the value, the longer the camera will wait.</p>",
+                "markdown": "This parameter determines how long the\ncamera waits to switch focus when an\nobject enters the focus area behind or in\nfront of the current subject. The higher\nthe value, the longer the camera will wait.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0816,
+                    "y": 0.1944
+                },
+                {
+                    "x": 0.6025,
+                    "y": 0.1944
+                },
+                {
+                    "x": 0.6025,
+                    "y": 0.3224
+                },
+                {
+                    "x": 0.0816,
+                    "y": 0.3224
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "figure",
+            "content": {
+                "html": "<br><figure id='4'><img style='font-size:14px' alt=\"TRACKING SENSITIVITY\nAF\nMF\n0 1 2 3 4\n◀\nQUICK LOCKED ON\nSETS THE TRACKING\nSENSITIVITY ON THE SUBJECT\n� ADJUST � SWITCH\" data-coord=\"top-left:(1688,765); bottom-right:(2460,1343)\" /></figure>",
+                "markdown": "![image](/image/placeholder)\nTRACKING SENSITIVITY\nAF\nMF\n0 1 2 3 4\n◀\nQUICK LOCKED ON\nSETS THE TRACKING\nSENSITIVITY ON THE SUBJECT\n� ADJUST � SWITCH",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6111,
+                    "y": 0.1964
+                },
+                {
+                    "x": 0.8903,
+                    "y": 0.1964
+                },
+                {
+                    "x": 0.8903,
+                    "y": 0.3448
+                },
+                {
+                    "x": 0.6111,
+                    "y": 0.3448
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='5' style='font-size:16px'><tr><td colspan=\"5\">Options</td></tr><tr><td>0</td><td>1</td><td>2</td><td>3</td><td>4</td></tr></table>",
+                "markdown": "| Options | Options | Options | Options | Options |\n| --- | --- | --- | --- | --- |\n| 0 | 1 | 2 | 3 | 4 |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0868,
+                    "y": 0.3612
+                },
+                {
+                    "x": 0.8909,
+                    "y": 0.3612
+                },
+                {
+                    "x": 0.8909,
+                    "y": 0.4172
+                },
+                {
+                    "x": 0.0868,
+                    "y": 0.4172
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "list",
+            "content": {
+                "html": "<p id='6' data-category='list' style='font-size:16px'>● The higher the value, the longer it takes the camera to refocus when<br>you attempt to switch subjects.<br>● The lower the value, the more likely the camera is to switch focus<br>from your subject to other objects in the focus area.</p>",
+                "markdown": "- ● The higher the value, the longer it takes the camera to refocus when\n- you attempt to switch subjects.\n- ● The lower the value, the more likely the camera is to switch focus\n- from your subject to other objects in the focus area.\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0961,
+                    "y": 0.4273
+                },
+                {
+                    "x": 0.8885,
+                    "y": 0.4273
+                },
+                {
+                    "x": 0.8885,
+                    "y": 0.5176
+                },
+                {
+                    "x": 0.0961,
+                    "y": 0.5176
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='7' style='font-size:18px'>SPEED TRACKING SENSITIVITY</h1>",
+                "markdown": "# SPEED TRACKING SENSITIVITY",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0808,
+                    "y": 0.5332
+                },
+                {
+                    "x": 0.3878,
+                    "y": 0.5332
+                },
+                {
+                    "x": 0.3878,
+                    "y": 0.5531
+                },
+                {
+                    "x": 0.0808,
+                    "y": 0.5531
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='8' data-category='paragraph' style='font-size:20px'>This parameter determines how sensi-<br>tive the tracking system is to changes in<br>subject velocity. The higher the value,<br>the greater the precision with which the<br>system attempts to respond to sudden<br>movement.</p>",
+                "markdown": "This parameter determines how sensi-\ntive the tracking system is to changes in\nsubject velocity. The higher the value,\nthe greater the precision with which the\nsystem attempts to respond to sudden\nmovement.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0825,
+                    "y": 0.5585
+                },
+                {
+                    "x": 0.602,
+                    "y": 0.5585
+                },
+                {
+                    "x": 0.602,
+                    "y": 0.7082
+                },
+                {
+                    "x": 0.0825,
+                    "y": 0.7082
+                }
+            ],
+            "id": 8,
+            "page": 1
+        },
+        {
+            "category": "figure",
+            "content": {
+                "html": "<br><figure id='9'><img style='font-size:14px' alt=\"SPEED TRACKING SENSITIVITY\nAF\nMF\n0 1 2\nSTEADY ACCEL./DECEL.\nSETS THE SPEED TRACKING\nSENSITIVITY FOR MOVING SUBJECT\n� ADJUST ミ SWITCH\" data-coord=\"top-left:(1689,2173); bottom-right:(2463,2760)\" /></figure>",
+                "markdown": "![image](/image/placeholder)\nSPEED TRACKING SENSITIVITY\nAF\nMF\n0 1 2\nSTEADY ACCEL./DECEL.\nSETS THE SPEED TRACKING\nSENSITIVITY FOR MOVING SUBJECT\n� ADJUST ミ SWITCH",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6113,
+                    "y": 0.5576
+                },
+                {
+                    "x": 0.8915,
+                    "y": 0.5576
+                },
+                {
+                    "x": 0.8915,
+                    "y": 0.7083
+                },
+                {
+                    "x": 0.6113,
+                    "y": 0.7083
+                }
+            ],
+            "id": 9,
+            "page": 1
+        },
+        {
+            "category": "header",
+            "content": {
+                "html": "<br><header id='10' style='font-size:22px'>The<br>Shooting<br>Menus</header>",
+                "markdown": "The\nShooting\nMenus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0164,
+                    "y": 0.5771
+                },
+                {
+                    "x": 0.0417,
+                    "y": 0.5771
+                },
+                {
+                    "x": 0.0417,
+                    "y": 0.7317
+                },
+                {
+                    "x": 0.0164,
+                    "y": 0.7317
+                }
+            ],
+            "id": 10,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='11' data-category='paragraph' style='font-size:22px'>Options</p>",
+                "markdown": "Options",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.4472,
+                    "y": 0.72
+                },
+                {
+                    "x": 0.5285,
+                    "y": 0.72
+                },
+                {
+                    "x": 0.5285,
+                    "y": 0.7425
+                },
+                {
+                    "x": 0.4472,
+                    "y": 0.7425
+                }
+            ],
+            "id": 11,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='12' data-category='paragraph' style='font-size:14px'>0 1 2</p>",
+                "markdown": "0 1 2",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.2117,
+                    "y": 0.7483
+                },
+                {
+                    "x": 0.7629,
+                    "y": 0.7483
+                },
+                {
+                    "x": 0.7629,
+                    "y": 0.7638
+                },
+                {
+                    "x": 0.2117,
+                    "y": 0.7638
+                }
+            ],
+            "id": 12,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='13' data-category='paragraph' style='font-size:16px'>The higher the value, the more difficulty the camera will have focusing<br>in situations in which autofocus does not perform well, such as when<br>the subject is highly reflective or low in contrast.</p>",
+                "markdown": "The higher the value, the more difficulty the camera will have focusing\nin situations in which autofocus does not perform well, such as when\nthe subject is highly reflective or low in contrast.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0855,
+                    "y": 0.7814
+                },
+                {
+                    "x": 0.8882,
+                    "y": 0.7814
+                },
+                {
+                    "x": 0.8882,
+                    "y": 0.8506
+                },
+                {
+                    "x": 0.0855,
+                    "y": 0.8506
+                }
+            ],
+            "id": 13,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='14' style='font-size:20px'>148</footer>",
+                "markdown": "148",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0851,
+                    "y": 0.9573
+                },
+                {
+                    "x": 0.1395,
+                    "y": 0.9573
+                },
+                {
+                    "x": 0.1395,
+                    "y": 0.9788
+                },
+                {
+                    "x": 0.0851,
+                    "y": 0.9788
+                }
+            ],
+            "id": 14,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

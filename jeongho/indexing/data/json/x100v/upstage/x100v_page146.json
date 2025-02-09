@@ -1,0 +1,182 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<h1 id='0' style='font-size:18px'>PHOTOMETRY</h1>\n<br><h1 id='1' style='font-size:16px'>Choose how the camera meters exposure.</h1>\n<p id='2' data-category='paragraph' style='font-size:14px'>The selected option will only take effect when AF AF/MF SETTING<br>MF<br>FACE/EYE DETECTION SETTING is OFF.</p>\n<table id='3' style='font-size:16px'><tr><td>Mode</td><td>Description</td></tr><tr><td>[○] (multi)</td><td>The camera instantly determines exposure based on an analysis of composition, color, and brightness distribution. Recommend- ed in most situations.</td></tr><tr><td>[○] (center-weighted)</td><td>The camera meters the entire frame but assigns the greatest weight to the area at the center.</td></tr><tr><td>[●] (spot)</td><td>The camera meters lighting conditions in an area at the center of the frame equivalent to 2% of the total. Recommended with backlit subjects and in other cases in which the background is much brighter or darker than the main subject.</td></tr><tr><td>[ ] (average)</td><td>Exposure is set to the average for the entire frame. Provides con- sistent exposure across multiple shots with the same lighting, and is particularly effective for landscapes and portraits of sub- jects dressed in black or white.</td></tr></table>\n<footer id='4' style='font-size:20px'>146</footer>\n<br><header id='5' style='font-size:22px'>The<br>Shooting<br>Menus</header>",
+        "markdown": "# PHOTOMETRY\n\n# Choose how the camera meters exposure.\n\nThe selected option will only take effect when AF AF/MF SETTING\nMF\nFACE/EYE DETECTION SETTING is OFF.\n\n| Mode | Description |\n| --- | --- |\n| [○] (multi) | The camera instantly determines exposure based on an analysis of composition, color, and brightness distribution. Recommend- ed in most situations. |\n| [○] (center-weighted) | The camera meters the entire frame but assigns the greatest weight to the area at the center. |\n| [●] (spot) | The camera meters lighting conditions in an area at the center of the frame equivalent to 2% of the total. Recommended with backlit subjects and in other cases in which the background is much brighter or darker than the main subject. |\n| [ ] (average) | Exposure is set to the average for the entire frame. Provides con- sistent exposure across multiple shots with the same lighting, and is particularly effective for landscapes and portraits of sub- jects dressed in black or white. |\n\n\n146\n\nThe\nShooting\nMenus",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='0' style='font-size:18px'>PHOTOMETRY</h1>",
+                "markdown": "# PHOTOMETRY",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0827,
+                    "y": 0.0728
+                },
+                {
+                    "x": 0.2789,
+                    "y": 0.0728
+                },
+                {
+                    "x": 0.2789,
+                    "y": 0.0942
+                },
+                {
+                    "x": 0.0827,
+                    "y": 0.0942
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='1' style='font-size:16px'>Choose how the camera meters exposure.</h1>",
+                "markdown": "# Choose how the camera meters exposure.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0816,
+                    "y": 0.1048
+                },
+                {
+                    "x": 0.6146,
+                    "y": 0.1048
+                },
+                {
+                    "x": 0.6146,
+                    "y": 0.1287
+                },
+                {
+                    "x": 0.0816,
+                    "y": 0.1287
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='2' data-category='paragraph' style='font-size:14px'>The selected option will only take effect when AF AF/MF SETTING<br>MF<br>FACE/EYE DETECTION SETTING is OFF.</p>",
+                "markdown": "The selected option will only take effect when AF AF/MF SETTING\nMF\nFACE/EYE DETECTION SETTING is OFF.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0862,
+                    "y": 0.1431
+                },
+                {
+                    "x": 0.8845,
+                    "y": 0.1431
+                },
+                {
+                    "x": 0.8845,
+                    "y": 0.1871
+                },
+                {
+                    "x": 0.0862,
+                    "y": 0.1871
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='3' style='font-size:16px'><tr><td>Mode</td><td>Description</td></tr><tr><td>[○] (multi)</td><td>The camera instantly determines exposure based on an analysis of composition, color, and brightness distribution. Recommend- ed in most situations.</td></tr><tr><td>[○] (center-weighted)</td><td>The camera meters the entire frame but assigns the greatest weight to the area at the center.</td></tr><tr><td>[●] (spot)</td><td>The camera meters lighting conditions in an area at the center of the frame equivalent to 2% of the total. Recommended with backlit subjects and in other cases in which the background is much brighter or darker than the main subject.</td></tr><tr><td>[ ] (average)</td><td>Exposure is set to the average for the entire frame. Provides con- sistent exposure across multiple shots with the same lighting, and is particularly effective for landscapes and portraits of sub- jects dressed in black or white.</td></tr></table>",
+                "markdown": "| Mode | Description |\n| --- | --- |\n| [○] (multi) | The camera instantly determines exposure based on an analysis of composition, color, and brightness distribution. Recommend- ed in most situations. |\n| [○] (center-weighted) | The camera meters the entire frame but assigns the greatest weight to the area at the center. |\n| [●] (spot) | The camera meters lighting conditions in an area at the center of the frame equivalent to 2% of the total. Recommended with backlit subjects and in other cases in which the background is much brighter or darker than the main subject. |\n| [ ] (average) | Exposure is set to the average for the entire frame. Provides con- sistent exposure across multiple shots with the same lighting, and is particularly effective for landscapes and portraits of sub- jects dressed in black or white. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0872,
+                    "y": 0.2012
+                },
+                {
+                    "x": 0.8939,
+                    "y": 0.2012
+                },
+                {
+                    "x": 0.8939,
+                    "y": 0.537
+                },
+                {
+                    "x": 0.0872,
+                    "y": 0.537
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='4' style='font-size:20px'>146</footer>",
+                "markdown": "146",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0848,
+                    "y": 0.9569
+                },
+                {
+                    "x": 0.1404,
+                    "y": 0.9569
+                },
+                {
+                    "x": 0.1404,
+                    "y": 0.9788
+                },
+                {
+                    "x": 0.0848,
+                    "y": 0.9788
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "header",
+            "content": {
+                "html": "<br><header id='5' style='font-size:22px'>The<br>Shooting<br>Menus</header>",
+                "markdown": "The\nShooting\nMenus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0161,
+                    "y": 0.5798
+                },
+                {
+                    "x": 0.0428,
+                    "y": 0.5798
+                },
+                {
+                    "x": 0.0428,
+                    "y": 0.731
+                },
+                {
+                    "x": 0.0161,
+                    "y": 0.731
+                }
+            ],
+            "id": 5,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

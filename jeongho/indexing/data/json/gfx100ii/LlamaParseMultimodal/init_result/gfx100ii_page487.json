@@ -1,0 +1,83 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "\n# Errors\n\n| Error                        | Solution                                                                                                                                  |\n|------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|\n| **Frame.io DISCONNECTED**    | - **The Frame.io server may be down:** Check that the Frame.io server is up or try again later.                                           |\n|                              | - **The camera clock is not set to the correct time and date:** Set the camera clock.                                                     |\n|                              | - **The network is not configured correctly:** Check the settings of the connected network.                                               |\n|                              | - Turn the camera off and then on again.                                                                                                  |\n|                              | - Contact the network administrator.                                                                                                      |\n| **UNEXPECTED ERROR HAS OCCURRED** | - Turn the camera off and then on again.                                                                                                  |\n|                              | - Contact the network administrator.                                                                                                      |\n",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "Errors",
+                    "md": "# Errors"
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Error",
+                            "Solution"
+                        ],
+                        [
+                            "**Frame.io DISCONNECTED**",
+                            "- **The Frame.io server may be down:** Check that the Frame.io server is up or try again later."
+                        ],
+                        [
+                            "",
+                            "- **The camera clock is not set to the correct time and date:** Set the camera clock."
+                        ],
+                        [
+                            "",
+                            "- **The network is not configured correctly:** Check the settings of the connected network."
+                        ],
+                        [
+                            "",
+                            "- Turn the camera off and then on again."
+                        ],
+                        [
+                            "",
+                            "- Contact the network administrator."
+                        ],
+                        [
+                            "**UNEXPECTED ERROR HAS OCCURRED**",
+                            "- Turn the camera off and then on again."
+                        ],
+                        [
+                            "",
+                            "- Contact the network administrator."
+                        ]
+                    ],
+                    "md": "| Error                        | Solution                                                                                                                                  |\n|------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|\n| **Frame.io DISCONNECTED**    | - **The Frame.io server may be down:** Check that the Frame.io server is up or try again later.                                           |\n|                              | - **The camera clock is not set to the correct time and date:** Set the camera clock.                                                     |\n|                              | - **The network is not configured correctly:** Check the settings of the connected network.                                               |\n|                              | - Turn the camera off and then on again.                                                                                                  |\n|                              | - Contact the network administrator.                                                                                                      |\n| **UNEXPECTED ERROR HAS OCCURRED** | - Turn the camera off and then on again.                                                                                                  |\n|                              | - Contact the network administrator.                                                                                                      |",
+                    "isPerfectTable": true,
+                    "csv": "\"Error\",\"Solution\"\n\"**Frame.io DISCONNECTED**\",\"- **The Frame.io server may be down:** Check that the Frame.io server is up or try again later.\"\n\"\",\"- **The camera clock is not set to the correct time and date:** Set the camera clock.\"\n\"\",\"- **The network is not configured correctly:** Check the settings of the connected network.\"\n\"\",\"- Turn the camera off and then on again.\"\n\"\",\"- Contact the network administrator.\"\n\"**UNEXPECTED ERROR HAS OCCURRED**\",\"- Turn the camera off and then on again.\"\n\"\",\"- Contact the network administrator.\""
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 382.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "c35de5e4-dbaa-454a-8070-6e9002c4b719",
+    "file_path": "../data/raw_data/gfx100ii/gfx100ii_split/gfx100ii_page487.pdf"
+}

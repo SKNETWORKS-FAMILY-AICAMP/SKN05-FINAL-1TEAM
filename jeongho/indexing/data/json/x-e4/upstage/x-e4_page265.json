@@ -1,0 +1,182 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<p id='0' data-category='paragraph' style='font-size:14px'>Lenses</p>\n<p id='1' data-category='paragraph' style='font-size:14px'>Lens Care</p>\n<p id='2' data-category='list' style='font-size:18px'>● Use a blower to remove dust, then gently wipe with a soft, dry<br>cloth. Any remaining stains can be removed by wiping gently<br>with a piece of Fujifilm lens-cleaning paper to which a small<br>amount of lens-cleaning fluid has been applied.<br>● Replace the front and rear caps when the lens is not in use.</p>\n<footer id='3' style='font-size:22px'>Peripherals<br>and<br>Optional<br>Accessories</footer>\n<footer id='4' style='font-size:16px'>10</footer>\n<footer id='5' style='font-size:20px'>265</footer>",
+        "markdown": "Lenses\n\nLens Care\n\n- ● Use a blower to remove dust, then gently wipe with a soft, dry\n- cloth. Any remaining stains can be removed by wiping gently\n- with a piece of Fujifilm lens-cleaning paper to which a small\n- amount of lens-cleaning fluid has been applied.\n- ● Replace the front and rear caps when the lens is not in use.\n\n\nPeripherals\nand\nOptional\nAccessories\n\n10\n\n265",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='0' data-category='paragraph' style='font-size:14px'>Lenses</p>",
+                "markdown": "Lenses",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.8478,
+                    "y": 0.0301
+                },
+                {
+                    "x": 0.9176,
+                    "y": 0.0301
+                },
+                {
+                    "x": 0.9176,
+                    "y": 0.0489
+                },
+                {
+                    "x": 0.8478,
+                    "y": 0.0489
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='1' data-category='paragraph' style='font-size:14px'>Lens Care</p>",
+                "markdown": "Lens Care",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1122,
+                    "y": 0.0746
+                },
+                {
+                    "x": 0.2458,
+                    "y": 0.0746
+                },
+                {
+                    "x": 0.2458,
+                    "y": 0.0953
+                },
+                {
+                    "x": 0.1122,
+                    "y": 0.0953
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "list",
+            "content": {
+                "html": "<p id='2' data-category='list' style='font-size:18px'>● Use a blower to remove dust, then gently wipe with a soft, dry<br>cloth. Any remaining stains can be removed by wiping gently<br>with a piece of Fujifilm lens-cleaning paper to which a small<br>amount of lens-cleaning fluid has been applied.<br>● Replace the front and rear caps when the lens is not in use.</p>",
+                "markdown": "- ● Use a blower to remove dust, then gently wipe with a soft, dry\n- cloth. Any remaining stains can be removed by wiping gently\n- with a piece of Fujifilm lens-cleaning paper to which a small\n- amount of lens-cleaning fluid has been applied.\n- ● Replace the front and rear caps when the lens is not in use.\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1078,
+                    "y": 0.1054
+                },
+                {
+                    "x": 0.9194,
+                    "y": 0.1054
+                },
+                {
+                    "x": 0.9194,
+                    "y": 0.233
+                },
+                {
+                    "x": 0.1078,
+                    "y": 0.233
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='3' style='font-size:22px'>Peripherals<br>and<br>Optional<br>Accessories</footer>",
+                "markdown": "Peripherals\nand\nOptional\nAccessories",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9566,
+                    "y": 0.4875
+                },
+                {
+                    "x": 0.9817,
+                    "y": 0.4875
+                },
+                {
+                    "x": 0.9817,
+                    "y": 0.757
+                },
+                {
+                    "x": 0.9566,
+                    "y": 0.757
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='4' style='font-size:16px'>10</footer>",
+                "markdown": "10",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9603,
+                    "y": 0.7765
+                },
+                {
+                    "x": 0.9843,
+                    "y": 0.7765
+                },
+                {
+                    "x": 0.9843,
+                    "y": 0.7972
+                },
+                {
+                    "x": 0.9603,
+                    "y": 0.7972
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='5' style='font-size:20px'>265</footer>",
+                "markdown": "265",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.8609,
+                    "y": 0.9561
+                },
+                {
+                    "x": 0.917,
+                    "y": 0.9561
+                },
+                {
+                    "x": 0.917,
+                    "y": 0.9794
+                },
+                {
+                    "x": 0.8609,
+                    "y": 0.9794
+                }
+            ],
+            "id": 5,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

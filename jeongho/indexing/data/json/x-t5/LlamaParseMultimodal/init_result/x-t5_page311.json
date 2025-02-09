@@ -1,0 +1,115 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "\n# SCREEN SETTING\n\n## IMAGE DISP.\nChoose how long images are displayed after shooting.\n\n| Option      | Description                                                                                                                                          |\n|-------------|------------------------------------------------------------------------------------------------------------------------------------------------------|\n| CONTINUOUS  | Pictures are displayed until the **MENU/OK** button is pressed or the shutter button is pressed halfway. To zoom in on the active focus point, press the center of the rear command dial; press again to cancel zoom. |\n| 1.5 SEC     | Pictures are displayed for the selected time or until the shutter button is pressed halfway.                                                         |\n| 0.5 SEC     | Pictures are displayed for the selected time or until the shutter button is pressed halfway.                                                         |\n| OFF         | Pictures are not displayed after shooting.                                                                                                           |\n\n> 💡 **Note:**\n> - Colors may differ slightly from those in the final image.\n> - \"Noise\" mottling may be visible at high sensitivities.\n\n## AUTOROTATE DISPLAYS\nChoose whether the indicators in the viewfinder and LCD monitor rotate to match camera orientation.\n\n| Options |      |\n|---------|------|\n| ON      | OFF  |\n",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "SCREEN SETTING",
+                    "md": "# SCREEN SETTING"
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "IMAGE DISP.",
+                    "md": "## IMAGE DISP."
+                },
+                {
+                    "type": "text",
+                    "value": "Choose how long images are displayed after shooting.",
+                    "md": "Choose how long images are displayed after shooting."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Option",
+                            "Description"
+                        ],
+                        [
+                            "CONTINUOUS",
+                            "Pictures are displayed until the **MENU/OK** button is pressed or the shutter button is pressed halfway. To zoom in on the active focus point, press the center of the rear command dial; press again to cancel zoom."
+                        ],
+                        [
+                            "1.5 SEC",
+                            "Pictures are displayed for the selected time or until the shutter button is pressed halfway."
+                        ],
+                        [
+                            "0.5 SEC",
+                            "Pictures are displayed for the selected time or until the shutter button is pressed halfway."
+                        ],
+                        [
+                            "OFF",
+                            "Pictures are not displayed after shooting."
+                        ]
+                    ],
+                    "md": "| Option      | Description                                                                                                                                          |\n|-------------|------------------------------------------------------------------------------------------------------------------------------------------------------|\n| CONTINUOUS  | Pictures are displayed until the **MENU/OK** button is pressed or the shutter button is pressed halfway. To zoom in on the active focus point, press the center of the rear command dial; press again to cancel zoom. |\n| 1.5 SEC     | Pictures are displayed for the selected time or until the shutter button is pressed halfway.                                                         |\n| 0.5 SEC     | Pictures are displayed for the selected time or until the shutter button is pressed halfway.                                                         |\n| OFF         | Pictures are not displayed after shooting.                                                                                                           |",
+                    "isPerfectTable": true,
+                    "csv": "\"Option\",\"Description\"\n\"CONTINUOUS\",\"Pictures are displayed until the **MENU/OK** button is pressed or the shutter button is pressed halfway. To zoom in on the active focus point, press the center of the rear command dial; press again to cancel zoom.\"\n\"1.5 SEC\",\"Pictures are displayed for the selected time or until the shutter button is pressed halfway.\"\n\"0.5 SEC\",\"Pictures are displayed for the selected time or until the shutter button is pressed halfway.\"\n\"OFF\",\"Pictures are not displayed after shooting.\""
+                },
+                {
+                    "type": "text",
+                    "value": "> 💡 **Note:**\n> - Colors may differ slightly from those in the final image.\n> - \"Noise\" mottling may be visible at high sensitivities.",
+                    "md": "> 💡 **Note:**\n> - Colors may differ slightly from those in the final image.\n> - \"Noise\" mottling may be visible at high sensitivities."
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "AUTOROTATE DISPLAYS",
+                    "md": "## AUTOROTATE DISPLAYS"
+                },
+                {
+                    "type": "text",
+                    "value": "Choose whether the indicators in the viewfinder and LCD monitor rotate to match camera orientation.",
+                    "md": "Choose whether the indicators in the viewfinder and LCD monitor rotate to match camera orientation."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Options",
+                            ""
+                        ],
+                        [
+                            "ON",
+                            "OFF"
+                        ]
+                    ],
+                    "md": "| Options |      |\n|---------|------|\n| ON      | OFF  |",
+                    "isPerfectTable": true,
+                    "csv": "\"Options\",\"\"\n\"ON\",\"OFF\""
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "parsingMode": "multimodal-openai-gpt4o",
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 662.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "c30d7e21-99ad-4fe9-9c4a-e8cc5056017e",
+    "file_path": "../data/raw_data/x-t5/x-t5_split/x-t5_page311.pdf"
+}

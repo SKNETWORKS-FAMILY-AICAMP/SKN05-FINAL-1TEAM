@@ -1,0 +1,406 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<p id='0' data-category='paragraph' style='font-size:16px'>Function Controls</p>\n<p id='1' data-category='list' style='font-size:14px'>● AF-ON<br>● AWB LOCK ONLY<br>● APERTURE SETTING<br>● LOCK SETTING<br>● PERFORMANCE</p>\n<br><p id='2' data-category='list' style='font-size:14px'>● AUTO IMAGE TRANSFER ORDER<br>● Bluetooth ON/OFF<br>● QUICK MENU<br>● PLAYBACK<br>● NONE</p>\n<p id='3' data-category='paragraph' style='font-size:16px'>● The selector cannot be assigned more than one role at a time.<br>● To disable the function button, choose NONE.</p>\n<p id='4' data-category='paragraph' style='font-size:18px'>AF-ON</p>\n<br><p id='5' data-category='paragraph' style='font-size:20px'>Controls to which AF-ON is assigned can be used for autofocus.</p>\n<p id='6' data-category='paragraph' style='font-size:18px'>MODELING FLASH</p>\n<br><p id='7' data-category='paragraph' style='font-size:18px'>If MODELING FLASH is selected when a compatible shoe-mount-<br>ed flash unit is attached, you can press the control to test-fire the<br>flash and check for shadows and the like (modeling flash).</p>\n<p id='8' data-category='paragraph' style='font-size:18px'>TTL-LOCK</p>\n<br><p id='9' data-category='paragraph' style='font-size:18px'>If TTL-LOCK is selected, you can press the control to lock flash<br>output according to the option selected for ↓ FLASH SETTING ><br>TTL-LOCK MODE (� 181).</p>\n<p id='10' data-category='paragraph' style='font-size:16px'>RECALL CUSTOM 1 SETTING</p>\n<br><p id='11' data-category='paragraph' style='font-size:18px'>Controls to which RECALL CUSTOM 1 SETTING has been as-<br>signed can be pressed to temporarily recall the settings saved to<br>C1 (CUSTOM 1). Pressing the button a second time restores the<br>previous settings.</p>\n<br><footer id='12' style='font-size:22px'>Shortcuts<br>10</footer>\n<footer id='13' style='font-size:20px'>325</footer>",
+        "markdown": "Function Controls\n\n- ● AF-ON\n- ● AWB LOCK ONLY\n- ● APERTURE SETTING\n- ● LOCK SETTING\n- ● PERFORMANCE\n\n\n- ● AUTO IMAGE TRANSFER ORDER\n- ● Bluetooth ON/OFF\n- ● QUICK MENU\n- ● PLAYBACK\n- ● NONE\n\n\n● The selector cannot be assigned more than one role at a time.\n● To disable the function button, choose NONE.\n\nAF-ON\n\nControls to which AF-ON is assigned can be used for autofocus.\n\nMODELING FLASH\n\nIf MODELING FLASH is selected when a compatible shoe-mount-\ned flash unit is attached, you can press the control to test-fire the\nflash and check for shadows and the like (modeling flash).\n\nTTL-LOCK\n\nIf TTL-LOCK is selected, you can press the control to lock flash\noutput according to the option selected for ↓ FLASH SETTING >\nTTL-LOCK MODE (� 181).\n\nRECALL CUSTOM 1 SETTING\n\nControls to which RECALL CUSTOM 1 SETTING has been as-\nsigned can be pressed to temporarily recall the settings saved to\nC1 (CUSTOM 1). Pressing the button a second time restores the\nprevious settings.\n\nShortcuts\n10\n\n325",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='0' data-category='paragraph' style='font-size:16px'>Function Controls</p>",
+                "markdown": "Function Controls",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.739,
+                    "y": 0.0299
+                },
+                {
+                    "x": 0.9181,
+                    "y": 0.0299
+                },
+                {
+                    "x": 0.9181,
+                    "y": 0.0497
+                },
+                {
+                    "x": 0.739,
+                    "y": 0.0497
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "list",
+            "content": {
+                "html": "<p id='1' data-category='list' style='font-size:14px'>● AF-ON<br>● AWB LOCK ONLY<br>● APERTURE SETTING<br>● LOCK SETTING<br>● PERFORMANCE</p>",
+                "markdown": "- ● AF-ON\n- ● AWB LOCK ONLY\n- ● APERTURE SETTING\n- ● LOCK SETTING\n- ● PERFORMANCE\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1064,
+                    "y": 0.0731
+                },
+                {
+                    "x": 0.3235,
+                    "y": 0.0731
+                },
+                {
+                    "x": 0.3235,
+                    "y": 0.1857
+                },
+                {
+                    "x": 0.1064,
+                    "y": 0.1857
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "list",
+            "content": {
+                "html": "<br><p id='2' data-category='list' style='font-size:14px'>● AUTO IMAGE TRANSFER ORDER<br>● Bluetooth ON/OFF<br>● QUICK MENU<br>● PLAYBACK<br>● NONE</p>",
+                "markdown": "- ● AUTO IMAGE TRANSFER ORDER\n- ● Bluetooth ON/OFF\n- ● QUICK MENU\n- ● PLAYBACK\n- ● NONE\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.5172,
+                    "y": 0.0722
+                },
+                {
+                    "x": 0.85,
+                    "y": 0.0722
+                },
+                {
+                    "x": 0.85,
+                    "y": 0.1852
+                },
+                {
+                    "x": 0.5172,
+                    "y": 0.1852
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='3' data-category='paragraph' style='font-size:16px'>● The selector cannot be assigned more than one role at a time.<br>● To disable the function button, choose NONE.</p>",
+                "markdown": "● The selector cannot be assigned more than one role at a time.\n● To disable the function button, choose NONE.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1244,
+                    "y": 0.2011
+                },
+                {
+                    "x": 0.8448,
+                    "y": 0.2011
+                },
+                {
+                    "x": 0.8448,
+                    "y": 0.2461
+                },
+                {
+                    "x": 0.1244,
+                    "y": 0.2461
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='4' data-category='paragraph' style='font-size:18px'>AF-ON</p>",
+                "markdown": "AF-ON",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1226,
+                    "y": 0.2675
+                },
+                {
+                    "x": 0.2117,
+                    "y": 0.2675
+                },
+                {
+                    "x": 0.2117,
+                    "y": 0.2912
+                },
+                {
+                    "x": 0.1226,
+                    "y": 0.2912
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='5' data-category='paragraph' style='font-size:20px'>Controls to which AF-ON is assigned can be used for autofocus.</p>",
+                "markdown": "Controls to which AF-ON is assigned can be used for autofocus.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1065,
+                    "y": 0.2986
+                },
+                {
+                    "x": 0.9083,
+                    "y": 0.2986
+                },
+                {
+                    "x": 0.9083,
+                    "y": 0.3237
+                },
+                {
+                    "x": 0.1065,
+                    "y": 0.3237
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='6' data-category='paragraph' style='font-size:18px'>MODELING FLASH</p>",
+                "markdown": "MODELING FLASH",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.12,
+                    "y": 0.345
+                },
+                {
+                    "x": 0.3505,
+                    "y": 0.345
+                },
+                {
+                    "x": 0.3505,
+                    "y": 0.3687
+                },
+                {
+                    "x": 0.12,
+                    "y": 0.3687
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='7' data-category='paragraph' style='font-size:18px'>If MODELING FLASH is selected when a compatible shoe-mount-<br>ed flash unit is attached, you can press the control to test-fire the<br>flash and check for shadows and the like (modeling flash).</p>",
+                "markdown": "If MODELING FLASH is selected when a compatible shoe-mount-\ned flash unit is attached, you can press the control to test-fire the\nflash and check for shadows and the like (modeling flash).",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1054,
+                    "y": 0.3761
+                },
+                {
+                    "x": 0.9192,
+                    "y": 0.3761
+                },
+                {
+                    "x": 0.9192,
+                    "y": 0.4533
+                },
+                {
+                    "x": 0.1054,
+                    "y": 0.4533
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='8' data-category='paragraph' style='font-size:18px'>TTL-LOCK</p>",
+                "markdown": "TTL-LOCK",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1202,
+                    "y": 0.4723
+                },
+                {
+                    "x": 0.2492,
+                    "y": 0.4723
+                },
+                {
+                    "x": 0.2492,
+                    "y": 0.4966
+                },
+                {
+                    "x": 0.1202,
+                    "y": 0.4966
+                }
+            ],
+            "id": 8,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='9' data-category='paragraph' style='font-size:18px'>If TTL-LOCK is selected, you can press the control to lock flash<br>output according to the option selected for ↓ FLASH SETTING ><br>TTL-LOCK MODE (� 181).</p>",
+                "markdown": "If TTL-LOCK is selected, you can press the control to lock flash\noutput according to the option selected for ↓ FLASH SETTING >\nTTL-LOCK MODE (� 181).",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1069,
+                    "y": 0.5033
+                },
+                {
+                    "x": 0.9186,
+                    "y": 0.5033
+                },
+                {
+                    "x": 0.9186,
+                    "y": 0.5784
+                },
+                {
+                    "x": 0.1069,
+                    "y": 0.5784
+                }
+            ],
+            "id": 9,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='10' data-category='paragraph' style='font-size:16px'>RECALL CUSTOM 1 SETTING</p>",
+                "markdown": "RECALL CUSTOM 1 SETTING",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1168,
+                    "y": 0.5996
+                },
+                {
+                    "x": 0.4657,
+                    "y": 0.5996
+                },
+                {
+                    "x": 0.4657,
+                    "y": 0.6258
+                },
+                {
+                    "x": 0.1168,
+                    "y": 0.6258
+                }
+            ],
+            "id": 10,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='11' data-category='paragraph' style='font-size:18px'>Controls to which RECALL CUSTOM 1 SETTING has been as-<br>signed can be pressed to temporarily recall the settings saved to<br>C1 (CUSTOM 1). Pressing the button a second time restores the<br>previous settings.</p>",
+                "markdown": "Controls to which RECALL CUSTOM 1 SETTING has been as-\nsigned can be pressed to temporarily recall the settings saved to\nC1 (CUSTOM 1). Pressing the button a second time restores the\nprevious settings.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1065,
+                    "y": 0.6329
+                },
+                {
+                    "x": 0.9206,
+                    "y": 0.6329
+                },
+                {
+                    "x": 0.9206,
+                    "y": 0.734
+                },
+                {
+                    "x": 0.1065,
+                    "y": 0.734
+                }
+            ],
+            "id": 11,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<br><footer id='12' style='font-size:22px'>Shortcuts<br>10</footer>",
+                "markdown": "Shortcuts\n10",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9569,
+                    "y": 0.68
+                },
+                {
+                    "x": 0.9845,
+                    "y": 0.68
+                },
+                {
+                    "x": 0.9845,
+                    "y": 0.8006
+                },
+                {
+                    "x": 0.9569,
+                    "y": 0.8006
+                }
+            ],
+            "id": 12,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='13' style='font-size:20px'>325</footer>",
+                "markdown": "325",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.8606,
+                    "y": 0.9567
+                },
+                {
+                    "x": 0.9173,
+                    "y": 0.9567
+                },
+                {
+                    "x": 0.9173,
+                    "y": 0.9793
+                },
+                {
+                    "x": 0.8606,
+                    "y": 0.9793
+                }
+            ],
+            "id": 13,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

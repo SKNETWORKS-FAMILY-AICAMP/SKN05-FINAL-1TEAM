@@ -1,0 +1,8 @@
+{
+    "parsing_result": "# MEDIA REC SETTING\n\nChoose movie file settings, including destination, file type, bit rate, and proxy video.\n\n## MEDIA REC SETTING\n\nChoose movie file settings, including destination, file type, and compression.\n\n### Destination\n\nChoose save options and save and output destinations for movies.\n\n| Option | Description |\n|--------|-------------|\n| 1      | Movies are recorded only to the memory card in Slot 1. |\n| 2      | Movies are recorded only to the memory card in Slot 2. |\n| 1 ➔ 2  | Footage is recorded to the memory card in Slot 1 until the card fills. Any additional footage will then automatically be recorded to the card in Slot 2. |\n| 1 + 2  | Each movie is recorded twice, once to each card. |\n| SSD    | Movies are recorded only to an SSD connected to the USB connector. |\n| HDMI   | Movies are recorded only to devices connected via HDMI. |\n\n> !Note  \n> The current movie mode applies to both copies; settings for backup copies cannot be adjusted separately.",
+    "embedding_result": [],
+    "metadata": {
+        "page": 181,
+        "model": "gfx100ii"
+    }
+}

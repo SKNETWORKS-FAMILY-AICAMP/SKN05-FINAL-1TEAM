@@ -1,0 +1,75 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "# CORRECTED AF FRAME\n\nView a guide to the actual focus position when framing shots in the OVF with the subject close to the camera. When **ON** is selected, the camera will display the focus position for objects approximately 50 cm from the camera (②) in addition to the standard AF frame (①). Pressing the shutter button halfway displays a green AF frame (③) at the actual focus position.\n\n!AF Frame Display\n\n## Options\n\n| ON | OFF |\n|----|-----|\n\n- The guide will not be displayed when the camera focuses at distances of less than 50 cm.\n- You can temporarily select **OFF** for the guide display by pressing the center of the focus stick (focus lever).",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "CORRECTED AF FRAME",
+                    "md": "# CORRECTED AF FRAME"
+                },
+                {
+                    "type": "text",
+                    "value": "View a guide to the actual focus position when framing shots in the OVF with the subject close to the camera. When **ON** is selected, the camera will display the focus position for objects approximately 50 cm from the camera (②) in addition to the standard AF frame (①). Pressing the shutter button halfway displays a green AF frame (③) at the actual focus position.\n\n!AF Frame Display",
+                    "md": "View a guide to the actual focus position when framing shots in the OVF with the subject close to the camera. When **ON** is selected, the camera will display the focus position for objects approximately 50 cm from the camera (②) in addition to the standard AF frame (①). Pressing the shutter button halfway displays a green AF frame (③) at the actual focus position.\n\n!AF Frame Display"
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "Options",
+                    "md": "## Options"
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "ON",
+                            "OFF"
+                        ],
+                        [
+                            "----",
+                            "-----"
+                        ]
+                    ],
+                    "md": "| ON | OFF |\n|----|-----|",
+                    "isPerfectTable": true,
+                    "csv": "\"ON\",\"OFF\"\n\"----\",\"-----\""
+                },
+                {
+                    "type": "text",
+                    "value": "- The guide will not be displayed when the camera focuses at distances of less than 50 cm.\n- You can temporarily select **OFF** for the guide display by pressing the center of the focus stick (focus lever).",
+                    "md": "- The guide will not be displayed when the camera focuses at distances of less than 50 cm.\n- You can temporarily select **OFF** for the guide display by pressing the center of the focus stick (focus lever)."
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 547.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "c48ccacf-ebe6-427a-9ea7-d2258d0c80c5",
+    "file_path": "../data/raw_data/x100v/x100v_split/x100v_page157.pdf"
+}

@@ -1,0 +1,83 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "# Sensitivity\n\nAdjust the camera’s sensitivity to light.\n\nSensitivity can be set by lifting and rotating the sensitivity dial.\n\n!Sensitivity Dial\n\n| Option       | Description                                                                                                                                                      |\n|--------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| **A (auto)** | Sensitivity is automatically adjusted in response to shooting conditions according to option chosen for **SHOOTING SETTING > ISO AUTO SETTING**. Choose from AUTO1, AUTO2, and AUTO3. |\n| **C (command)** | Rotate the front command dial to choose from values of 80 to 51200. This range includes \"extended\" values of 80 to 125, 25600, and 51200. Note that \"extended\" values may reduce dynamic range or increase mottling. |\n| **160–12800** | Adjust sensitivity manually. Selected value is shown in display.                                                                                                 |\n\n## Adjusting Sensitivity\n\nHigh values can be used to reduce blur when lighting is poor, while lower values allow slower shutter speeds or wider apertures in bright light; note, however, that mottling may appear in pictures taken at high sensitivities.",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "Sensitivity",
+                    "md": "# Sensitivity"
+                },
+                {
+                    "type": "text",
+                    "value": "Adjust the camera’s sensitivity to light.\n\nSensitivity can be set by lifting and rotating the sensitivity dial.\n\n!Sensitivity Dial",
+                    "md": "Adjust the camera’s sensitivity to light.\n\nSensitivity can be set by lifting and rotating the sensitivity dial.\n\n!Sensitivity Dial"
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Option",
+                            "Description"
+                        ],
+                        [
+                            "**A (auto)**",
+                            "Sensitivity is automatically adjusted in response to shooting conditions according to option chosen for **SHOOTING SETTING > ISO AUTO SETTING**. Choose from AUTO1, AUTO2, and AUTO3."
+                        ],
+                        [
+                            "**C (command)**",
+                            "Rotate the front command dial to choose from values of 80 to 51200. This range includes \"extended\" values of 80 to 125, 25600, and 51200. Note that \"extended\" values may reduce dynamic range or increase mottling."
+                        ],
+                        [
+                            "**160–12800**",
+                            "Adjust sensitivity manually. Selected value is shown in display."
+                        ]
+                    ],
+                    "md": "| Option       | Description                                                                                                                                                      |\n|--------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| **A (auto)** | Sensitivity is automatically adjusted in response to shooting conditions according to option chosen for **SHOOTING SETTING > ISO AUTO SETTING**. Choose from AUTO1, AUTO2, and AUTO3. |\n| **C (command)** | Rotate the front command dial to choose from values of 80 to 51200. This range includes \"extended\" values of 80 to 125, 25600, and 51200. Note that \"extended\" values may reduce dynamic range or increase mottling. |\n| **160–12800** | Adjust sensitivity manually. Selected value is shown in display.                                                                                                 |",
+                    "isPerfectTable": true,
+                    "csv": "\"Option\",\"Description\"\n\"**A (auto)**\",\"Sensitivity is automatically adjusted in response to shooting conditions according to option chosen for **SHOOTING SETTING > ISO AUTO SETTING**. Choose from AUTO1, AUTO2, and AUTO3.\"\n\"**C (command)**\",\"Rotate the front command dial to choose from values of 80 to 51200. This range includes \"\"extended\"\" values of 80 to 125, 25600, and 51200. Note that \"\"extended\"\" values may reduce dynamic range or increase mottling.\"\n\"**160–12800**\",\"Adjust sensitivity manually. Selected value is shown in display.\""
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "Adjusting Sensitivity",
+                    "md": "## Adjusting Sensitivity"
+                },
+                {
+                    "type": "text",
+                    "value": "High values can be used to reduce blur when lighting is poor, while lower values allow slower shutter speeds or wider apertures in bright light; note, however, that mottling may appear in pictures taken at high sensitivities.",
+                    "md": "High values can be used to reduce blur when lighting is poor, while lower values allow slower shutter speeds or wider apertures in bright light; note, however, that mottling may appear in pictures taken at high sensitivities."
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 833.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "1858d388-d52d-49d1-8be5-e336de4d8db9",
+    "file_path": "../data/raw_data/x100v/x100v_split/x100v_page97.pdf"
+}

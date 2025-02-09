@@ -1,0 +1,110 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "\n# Function Controls\n\nAssign a role to each function button or touch-function gesture for quick access to the selected feature.\n\n## The Function Buttons\n\nAssign a role to the function buttons for quick access to the selected feature.\n\n### Function Button Defaults\n\nThe default assignments are:\n\n#### Back-of-Camera Function Buttons\n\n!Back-of-Camera Function Buttons\n\n| Function buttons                      | Default         |\n|---------------------------------------|-----------------|\n| 1. AFON button                        | AF-ON           |\n| 2. Center of rear command dial        | FOCUS CHECK     |\n| 3. Q (quick menu) button              | QUICK MENU      |\n| 4. AEL (exposure lock) button         | AE LOCK ONLY    |\n",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "Function Controls",
+                    "md": "# Function Controls"
+                },
+                {
+                    "type": "text",
+                    "value": "Assign a role to each function button or touch-function gesture for quick access to the selected feature.",
+                    "md": "Assign a role to each function button or touch-function gesture for quick access to the selected feature."
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "The Function Buttons",
+                    "md": "## The Function Buttons"
+                },
+                {
+                    "type": "text",
+                    "value": "Assign a role to the function buttons for quick access to the selected feature.",
+                    "md": "Assign a role to the function buttons for quick access to the selected feature."
+                },
+                {
+                    "type": "heading",
+                    "lvl": 3,
+                    "value": "Function Button Defaults",
+                    "md": "### Function Button Defaults"
+                },
+                {
+                    "type": "text",
+                    "value": "The default assignments are:",
+                    "md": "The default assignments are:"
+                },
+                {
+                    "type": "heading",
+                    "lvl": 4,
+                    "value": "Back-of-Camera Function Buttons",
+                    "md": "#### Back-of-Camera Function Buttons"
+                },
+                {
+                    "type": "text",
+                    "value": "!Back-of-Camera Function Buttons",
+                    "md": "!Back-of-Camera Function Buttons"
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Function buttons",
+                            "Default"
+                        ],
+                        [
+                            "1. AFON button",
+                            "AF-ON"
+                        ],
+                        [
+                            "2. Center of rear command dial",
+                            "FOCUS CHECK"
+                        ],
+                        [
+                            "3. Q (quick menu) button",
+                            "QUICK MENU"
+                        ],
+                        [
+                            "4. AEL (exposure lock) button",
+                            "AE LOCK ONLY"
+                        ]
+                    ],
+                    "md": "| Function buttons                      | Default         |\n|---------------------------------------|-----------------|\n| 1. AFON button                        | AF-ON           |\n| 2. Center of rear command dial        | FOCUS CHECK     |\n| 3. Q (quick menu) button              | QUICK MENU      |\n| 4. AEL (exposure lock) button         | AE LOCK ONLY    |",
+                    "isPerfectTable": true,
+                    "csv": "\"Function buttons\",\"Default\"\n\"1. AFON button\",\"AF-ON\"\n\"2. Center of rear command dial\",\"FOCUS CHECK\"\n\"3. Q (quick menu) button\",\"QUICK MENU\"\n\"4. AEL (exposure lock) button\",\"AE LOCK ONLY\""
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "parsingMode": "multimodal-openai-gpt4o",
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 676.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "5c2da644-46be-4065-b1d1-c3d7f279f4ae",
+    "file_path": "../data/raw_data/x-t5/x-t5_split/x-t5_page347.pdf"
+}

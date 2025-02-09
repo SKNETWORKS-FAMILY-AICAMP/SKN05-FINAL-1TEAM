@@ -1,0 +1,182 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<h1 id='0' style='font-size:14px'>DEFAULT CAPTION</h1>\n<br><h1 id='1' style='font-size:18px'>Choose the caption applied to new photos and movies.</h1>\n<table id='2' style='font-size:16px'><tr><td colspan=\"2\">DISPLAY</td></tr><tr><td colspan=\"2\">View the current caption.</td></tr><tr><td colspan=\"2\">EDIT</td></tr><tr><td colspan=\"2\">Enter a caption.</td></tr><tr><td colspan=\"2\">ERASE</td></tr><tr><td colspan=\"2\">Delete the current caption.</td></tr><tr><td colspan=\"2\">IPTC</td></tr><tr><td colspan=\"2\">Choose IPTC metadata applied to new photos.</td></tr><tr><td colspan=\"2\">EMBED IPTC</td></tr><tr><td colspan=\"2\">If ON is selected, IPTC metadata is embedded in new photos.</td></tr><tr><td colspan=\"2\">Options</td></tr><tr><td>ON</td><td>OFF</td></tr><tr><td colspan=\"2\">EDIT/CHECK</td></tr><tr><td colspan=\"2\">Enter IPTC metadata or check IPTC metadata that is currently reg- istered.</td></tr><tr><td>RESET</td><td></td></tr><tr><td colspan=\"2\">Delete metadata that is currently registered.</td></tr></table>\n<br><header id='3' style='font-size:22px'>The<br>Setup<br>Menus</header>\n<header id='4' style='font-size:14px'>9</header>\n<footer id='5' style='font-size:20px'>372</footer>",
+        "markdown": "# DEFAULT CAPTION\n\n# Choose the caption applied to new photos and movies.\n\n| DISPLAY | DISPLAY |\n| --- | --- |\n| View the current caption. | View the current caption. |\n| EDIT | EDIT |\n| Enter a caption. | Enter a caption. |\n| ERASE | ERASE |\n| Delete the current caption. | Delete the current caption. |\n| IPTC | IPTC |\n| Choose IPTC metadata applied to new photos. | Choose IPTC metadata applied to new photos. |\n| EMBED IPTC | EMBED IPTC |\n| If ON is selected, IPTC metadata is embedded in new photos. | If ON is selected, IPTC metadata is embedded in new photos. |\n| Options | Options |\n| ON | OFF |\n| EDIT/CHECK | EDIT/CHECK |\n| Enter IPTC metadata or check IPTC metadata that is currently reg- istered. | Enter IPTC metadata or check IPTC metadata that is currently reg- istered. |\n| RESET |  |\n| Delete metadata that is currently registered. | Delete metadata that is currently registered. |\n\n\nThe\nSetup\nMenus\n\n9\n\n372",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='0' style='font-size:14px'>DEFAULT CAPTION</h1>",
+                "markdown": "# DEFAULT CAPTION",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0826,
+                    "y": 0.0729
+                },
+                {
+                    "x": 0.3377,
+                    "y": 0.0729
+                },
+                {
+                    "x": 0.3377,
+                    "y": 0.0948
+                },
+                {
+                    "x": 0.0826,
+                    "y": 0.0948
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='1' style='font-size:18px'>Choose the caption applied to new photos and movies.</h1>",
+                "markdown": "# Choose the caption applied to new photos and movies.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.082,
+                    "y": 0.1042
+                },
+                {
+                    "x": 0.7807,
+                    "y": 0.1042
+                },
+                {
+                    "x": 0.7807,
+                    "y": 0.1293
+                },
+                {
+                    "x": 0.082,
+                    "y": 0.1293
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='2' style='font-size:16px'><tr><td colspan=\"2\">DISPLAY</td></tr><tr><td colspan=\"2\">View the current caption.</td></tr><tr><td colspan=\"2\">EDIT</td></tr><tr><td colspan=\"2\">Enter a caption.</td></tr><tr><td colspan=\"2\">ERASE</td></tr><tr><td colspan=\"2\">Delete the current caption.</td></tr><tr><td colspan=\"2\">IPTC</td></tr><tr><td colspan=\"2\">Choose IPTC metadata applied to new photos.</td></tr><tr><td colspan=\"2\">EMBED IPTC</td></tr><tr><td colspan=\"2\">If ON is selected, IPTC metadata is embedded in new photos.</td></tr><tr><td colspan=\"2\">Options</td></tr><tr><td>ON</td><td>OFF</td></tr><tr><td colspan=\"2\">EDIT/CHECK</td></tr><tr><td colspan=\"2\">Enter IPTC metadata or check IPTC metadata that is currently reg- istered.</td></tr><tr><td>RESET</td><td></td></tr><tr><td colspan=\"2\">Delete metadata that is currently registered.</td></tr></table>",
+                "markdown": "| DISPLAY | DISPLAY |\n| --- | --- |\n| View the current caption. | View the current caption. |\n| EDIT | EDIT |\n| Enter a caption. | Enter a caption. |\n| ERASE | ERASE |\n| Delete the current caption. | Delete the current caption. |\n| IPTC | IPTC |\n| Choose IPTC metadata applied to new photos. | Choose IPTC metadata applied to new photos. |\n| EMBED IPTC | EMBED IPTC |\n| If ON is selected, IPTC metadata is embedded in new photos. | If ON is selected, IPTC metadata is embedded in new photos. |\n| Options | Options |\n| ON | OFF |\n| EDIT/CHECK | EDIT/CHECK |\n| Enter IPTC metadata or check IPTC metadata that is currently reg- istered. | Enter IPTC metadata or check IPTC metadata that is currently reg- istered. |\n| RESET |  |\n| Delete metadata that is currently registered. | Delete metadata that is currently registered. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0777,
+                    "y": 0.1442
+                },
+                {
+                    "x": 0.8958,
+                    "y": 0.1442
+                },
+                {
+                    "x": 0.8958,
+                    "y": 0.7606
+                },
+                {
+                    "x": 0.0777,
+                    "y": 0.7606
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "header",
+            "content": {
+                "html": "<br><header id='3' style='font-size:22px'>The<br>Setup<br>Menus</header>",
+                "markdown": "The\nSetup\nMenus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0177,
+                    "y": 0.5675
+                },
+                {
+                    "x": 0.0416,
+                    "y": 0.5675
+                },
+                {
+                    "x": 0.0416,
+                    "y": 0.698
+                },
+                {
+                    "x": 0.0177,
+                    "y": 0.698
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='4' style='font-size:14px'>9</header>",
+                "markdown": "9",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.025,
+                    "y": 0.7168
+                },
+                {
+                    "x": 0.0438,
+                    "y": 0.7168
+                },
+                {
+                    "x": 0.0438,
+                    "y": 0.7379
+                },
+                {
+                    "x": 0.025,
+                    "y": 0.7379
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='5' style='font-size:20px'>372</footer>",
+                "markdown": "372",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.083,
+                    "y": 0.9563
+                },
+                {
+                    "x": 0.1395,
+                    "y": 0.9563
+                },
+                {
+                    "x": 0.1395,
+                    "y": 0.9794
+                },
+                {
+                    "x": 0.083,
+                    "y": 0.9794
+                }
+            ],
+            "id": 5,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

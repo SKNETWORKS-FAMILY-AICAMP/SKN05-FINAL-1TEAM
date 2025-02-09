@@ -1,0 +1,80 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "\n# Errors\n\nIf a !Error Icon or !Error Icon icon appears in the display, select **INFORMATION > ERROR DESCRIPTION** in the network/USB setting menu to view the error and then take the appropriate action.\n\n| Error                                                                 | Solution                                                                                                                                                                                                 |\n|-----------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| **NOT CONNECTED TO NETWORK VIA ETHERNET CABLE**                       | The wired LAN (Ethernet) cable is not connected: Connect the wired LAN (Ethernet) cable.                                                                                                                                                        |\n| **NOT CONNECTED TO NETWORK VIA WIRELESS LAN**                         | - **No connection to access point:** Confirm that the access point is on, verify its settings and IP address, and check that there are no obstructions blocking its signal. If necessary, move the camera closer to the access point.            |\n|                                                                       | - **Camera settings have not been correctly adjusted for connection to the access point:** Check that the password, encryption type, and SSID match those chosen for the access point.                                                          |\n| **IP ADDRESS CANNOT BE ASSIGNED BY DHCP SERVER OR THERE IS AN ISSUE WITH IP ADDRESS SETTING PLEASE CHECK SETTINGS** | - **No DHCP server:** If there is no DHCP server on the network, enter the IP address and other information manually.                                                                                                                           |\n|                                                                       | - **The DHCP server is down:** Contact the network administrator.                                                                                                                                                                              |\n",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "Errors",
+                    "md": "# Errors"
+                },
+                {
+                    "type": "text",
+                    "value": "If a !Error Icon or !Error Icon icon appears in the display, select **INFORMATION > ERROR DESCRIPTION** in the network/USB setting menu to view the error and then take the appropriate action.",
+                    "md": "If a !Error Icon or !Error Icon icon appears in the display, select **INFORMATION > ERROR DESCRIPTION** in the network/USB setting menu to view the error and then take the appropriate action."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Error",
+                            "Solution"
+                        ],
+                        [
+                            "**NOT CONNECTED TO NETWORK VIA ETHERNET CABLE**",
+                            "The wired LAN (Ethernet) cable is not connected: Connect the wired LAN (Ethernet) cable."
+                        ],
+                        [
+                            "**NOT CONNECTED TO NETWORK VIA WIRELESS LAN**",
+                            "- **No connection to access point:** Confirm that the access point is on, verify its settings and IP address, and check that there are no obstructions blocking its signal. If necessary, move the camera closer to the access point."
+                        ],
+                        [
+                            "",
+                            "- **Camera settings have not been correctly adjusted for connection to the access point:** Check that the password, encryption type, and SSID match those chosen for the access point."
+                        ],
+                        [
+                            "**IP ADDRESS CANNOT BE ASSIGNED BY DHCP SERVER OR THERE IS AN ISSUE WITH IP ADDRESS SETTING PLEASE CHECK SETTINGS**",
+                            "- **No DHCP server:** If there is no DHCP server on the network, enter the IP address and other information manually."
+                        ],
+                        [
+                            "",
+                            "- **The DHCP server is down:** Contact the network administrator."
+                        ]
+                    ],
+                    "md": "| Error                                                                 | Solution                                                                                                                                                                                                 |\n|-----------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| **NOT CONNECTED TO NETWORK VIA ETHERNET CABLE**                       | The wired LAN (Ethernet) cable is not connected: Connect the wired LAN (Ethernet) cable.                                                                                                                                                        |\n| **NOT CONNECTED TO NETWORK VIA WIRELESS LAN**                         | - **No connection to access point:** Confirm that the access point is on, verify its settings and IP address, and check that there are no obstructions blocking its signal. If necessary, move the camera closer to the access point.            |\n|                                                                       | - **Camera settings have not been correctly adjusted for connection to the access point:** Check that the password, encryption type, and SSID match those chosen for the access point.                                                          |\n| **IP ADDRESS CANNOT BE ASSIGNED BY DHCP SERVER OR THERE IS AN ISSUE WITH IP ADDRESS SETTING PLEASE CHECK SETTINGS** | - **No DHCP server:** If there is no DHCP server on the network, enter the IP address and other information manually.                                                                                                                           |\n|                                                                       | - **The DHCP server is down:** Contact the network administrator.                                                                                                                                                                              |",
+                    "isPerfectTable": true,
+                    "csv": "\"Error\",\"Solution\"\n\"**NOT CONNECTED TO NETWORK VIA ETHERNET CABLE**\",\"The wired LAN (Ethernet) cable is not connected: Connect the wired LAN (Ethernet) cable.\"\n\"**NOT CONNECTED TO NETWORK VIA WIRELESS LAN**\",\"- **No connection to access point:** Confirm that the access point is on, verify its settings and IP address, and check that there are no obstructions blocking its signal. If necessary, move the camera closer to the access point.\"\n\"\",\"- **Camera settings have not been correctly adjusted for connection to the access point:** Check that the password, encryption type, and SSID match those chosen for the access point.\"\n\"**IP ADDRESS CANNOT BE ASSIGNED BY DHCP SERVER OR THERE IS AN ISSUE WITH IP ADDRESS SETTING PLEASE CHECK SETTINGS**\",\"- **No DHCP server:** If there is no DHCP server on the network, enter the IP address and other information manually.\"\n\"\",\"- **The DHCP server is down:** Contact the network administrator.\""
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 240.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "3044ec7d-267d-4c8f-8856-622abde8b221",
+    "file_path": "../data/raw_data/gfx100ii/gfx100ii_split/gfx100ii_page485.pdf"
+}

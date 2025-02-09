@@ -1,0 +1,90 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "# SOUND SETTING\n\n## PLAYBACK VOLUME\nAdjust the volume for movie playback.\n\n```\nOptions: 0 1 2 3 4 5 6 7 8 9 10\n```\n\n## 4ch AUDIO PLAYBACK\nAdjust audio settings for use when viewing 4ch movies.\n\n| Option | Description |\n|--------|-------------|\n| XLR    | The camera plays audio recorded via external microphones connected via the XLR microphone adapter. |\n| CAMERA | The camera plays audio recorded via the camera’s built-in microphone or external microphones connected via the microphone jack. |\n\n> 💡 **Note:**  \n> You can also switch sources while viewing the playback display by pressing the center of the focus stick (focus lever).",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "SOUND SETTING",
+                    "md": "# SOUND SETTING"
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "PLAYBACK VOLUME",
+                    "md": "## PLAYBACK VOLUME"
+                },
+                {
+                    "type": "text",
+                    "value": "Adjust the volume for movie playback.\n\n```\nOptions: 0 1 2 3 4 5 6 7 8 9 10\n```",
+                    "md": "Adjust the volume for movie playback.\n\n```\nOptions: 0 1 2 3 4 5 6 7 8 9 10\n```"
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "4ch AUDIO PLAYBACK",
+                    "md": "## 4ch AUDIO PLAYBACK"
+                },
+                {
+                    "type": "text",
+                    "value": "Adjust audio settings for use when viewing 4ch movies.",
+                    "md": "Adjust audio settings for use when viewing 4ch movies."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Option",
+                            "Description"
+                        ],
+                        [
+                            "XLR",
+                            "The camera plays audio recorded via external microphones connected via the XLR microphone adapter."
+                        ],
+                        [
+                            "CAMERA",
+                            "The camera plays audio recorded via the camera’s built-in microphone or external microphones connected via the microphone jack."
+                        ]
+                    ],
+                    "md": "| Option | Description |\n|--------|-------------|\n| XLR    | The camera plays audio recorded via external microphones connected via the XLR microphone adapter. |\n| CAMERA | The camera plays audio recorded via the camera’s built-in microphone or external microphones connected via the microphone jack. |",
+                    "isPerfectTable": true,
+                    "csv": "\"Option\",\"Description\"\n\"XLR\",\"The camera plays audio recorded via external microphones connected via the XLR microphone adapter.\"\n\"CAMERA\",\"The camera plays audio recorded via the camera’s built-in microphone or external microphones connected via the microphone jack.\""
+                },
+                {
+                    "type": "text",
+                    "value": "> 💡 **Note:**  \n> You can also switch sources while viewing the playback display by pressing the center of the focus stick (focus lever).",
+                    "md": "> 💡 **Note:**  \n> You can also switch sources while viewing the playback display by pressing the center of the focus stick (focus lever)."
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 450.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "5d976279-8a7d-46f8-a9f6-1e6c04b315cb",
+    "file_path": "../data/raw_data/gfx100ii/gfx100ii_split/gfx100ii_page369.pdf"
+}

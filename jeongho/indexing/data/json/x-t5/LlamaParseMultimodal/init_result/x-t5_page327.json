@@ -1,0 +1,137 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "\n# BUTTON/DIAL SETTING\n\n## CONSTANT SPEED ZOOM/FOCUS (Fn) OPERATION\n\nChoose whether the function buttons on compatible power zoom lenses need only be pressed once to start and stop power focus or power zoom.\n\n| Option              | Description                                                                 |\n|---------------------|-----------------------------------------------------------------------------|\n| START/STOP SWITCH   | The operation starts when the button is pressed and stops when it is pressed a second time. |\n| ACTIVE WHILE PRESSING | The operation continues while the button is pressed and stops when the button is released. |\n\n## ZOOM RING ROTATE\n\nChoose whether to reverse the rotation of the zoom ring on compatible power zoom lenses.\n\n| Options |                                                                 |\n|---------|-----------------------------------------------------------------|\n| ↻ CW (clockwise) |                                                         |\n| ↺ CCW (counterclockwise) |                                                 |\n\n## ZOOM/FOCUS CONTROL RING\n\nChoose role played by the zoom/focus control ring on compatible power zoom lenses.\n\n| Options |       |\n|---------|-------|\n| ZOOM    |       |\n| FOCUS   |       |\n",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "BUTTON/DIAL SETTING",
+                    "md": "# BUTTON/DIAL SETTING"
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "CONSTANT SPEED ZOOM/FOCUS (Fn) OPERATION",
+                    "md": "## CONSTANT SPEED ZOOM/FOCUS (Fn) OPERATION"
+                },
+                {
+                    "type": "text",
+                    "value": "Choose whether the function buttons on compatible power zoom lenses need only be pressed once to start and stop power focus or power zoom.",
+                    "md": "Choose whether the function buttons on compatible power zoom lenses need only be pressed once to start and stop power focus or power zoom."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Option",
+                            "Description"
+                        ],
+                        [
+                            "START/STOP SWITCH",
+                            "The operation starts when the button is pressed and stops when it is pressed a second time."
+                        ],
+                        [
+                            "ACTIVE WHILE PRESSING",
+                            "The operation continues while the button is pressed and stops when the button is released."
+                        ]
+                    ],
+                    "md": "| Option              | Description                                                                 |\n|---------------------|-----------------------------------------------------------------------------|\n| START/STOP SWITCH   | The operation starts when the button is pressed and stops when it is pressed a second time. |\n| ACTIVE WHILE PRESSING | The operation continues while the button is pressed and stops when the button is released. |",
+                    "isPerfectTable": true,
+                    "csv": "\"Option\",\"Description\"\n\"START/STOP SWITCH\",\"The operation starts when the button is pressed and stops when it is pressed a second time.\"\n\"ACTIVE WHILE PRESSING\",\"The operation continues while the button is pressed and stops when the button is released.\""
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "ZOOM RING ROTATE",
+                    "md": "## ZOOM RING ROTATE"
+                },
+                {
+                    "type": "text",
+                    "value": "Choose whether to reverse the rotation of the zoom ring on compatible power zoom lenses.",
+                    "md": "Choose whether to reverse the rotation of the zoom ring on compatible power zoom lenses."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Options",
+                            ""
+                        ],
+                        [
+                            "↻ CW (clockwise)",
+                            ""
+                        ],
+                        [
+                            "↺ CCW (counterclockwise)",
+                            ""
+                        ]
+                    ],
+                    "md": "| Options |                                                                 |\n|---------|-----------------------------------------------------------------|\n| ↻ CW (clockwise) |                                                         |\n| ↺ CCW (counterclockwise) |                                                 |",
+                    "isPerfectTable": true,
+                    "csv": "\"Options\",\"\"\n\"↻ CW (clockwise)\",\"\"\n\"↺ CCW (counterclockwise)\",\"\""
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "ZOOM/FOCUS CONTROL RING",
+                    "md": "## ZOOM/FOCUS CONTROL RING"
+                },
+                {
+                    "type": "text",
+                    "value": "Choose role played by the zoom/focus control ring on compatible power zoom lenses.",
+                    "md": "Choose role played by the zoom/focus control ring on compatible power zoom lenses."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Options",
+                            ""
+                        ],
+                        [
+                            "ZOOM",
+                            ""
+                        ],
+                        [
+                            "FOCUS",
+                            ""
+                        ]
+                    ],
+                    "md": "| Options |       |\n|---------|-------|\n| ZOOM    |       |\n| FOCUS   |       |",
+                    "isPerfectTable": true,
+                    "csv": "\"Options\",\"\"\n\"ZOOM\",\"\"\n\"FOCUS\",\"\""
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "parsingMode": "multimodal-openai-gpt4o",
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 602.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "e299cbe2-24ab-4195-a933-f3fc912bc05f",
+    "file_path": "../data/raw_data/x-t5/x-t5_split/x-t5_page327.pdf"
+}

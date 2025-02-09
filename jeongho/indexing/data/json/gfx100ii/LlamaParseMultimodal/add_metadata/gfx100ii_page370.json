@@ -1,0 +1,8 @@
+{
+    "parsing_result": "# EDIT FILE NAME\n\nChange the file name prefix. sRGB images use a four-letter prefix (default “DSCF”), Adobe RGB images a three-letter prefix (“DSF”) preceded by an underscore.\n\n| Option    | Default prefix | Sample file name |\n|-----------|----------------|------------------|\n| sRGB      | DSCF           | ABCD0001         |\n| AdobeRGB  | _DSF           | _ABC0001         |\n\n# CARD SLOT SETTING\n\nChoose the role played by the card in the second slot.\n\n| Option     | Description                                                                 |\n|------------|-----------------------------------------------------------------------------|\n| SEQUENTIAL | The card in the second slot is used only when the card in the first slot is full. |\n| BACKUP     | Each picture is recorded twice, once to each card.                           |\n| SEPARATE   | RAW pictures will be saved to the card in the first slot and JPEG or HEIF pictures to the card in the second slot. This option only takes effect when SUPER FINE+RAW, FINE+RAW or NORMAL+RAW is selected for IMAGE QUALITY SETTING > IMAGE QUALITY. |\n\n# SELECT SLOT (SEQUENTIAL)\n\nChoose the card that is recorded to first when SEQUENTIAL is selected for CARD SLOT SETTING.\n\n| Options |\n|---------|\n| SLOT 1  |\n| SLOT 2  |",
+    "embedding_result": [],
+    "metadata": {
+        "page": 370,
+        "model": "gfx100ii"
+    }
+}

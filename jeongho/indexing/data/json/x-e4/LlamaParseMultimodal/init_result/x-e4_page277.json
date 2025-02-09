@@ -1,0 +1,95 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "# Function Controls\n\nEach of the function (Fn, Q, and AEL/AFL) buttons and touch-function (T-Fn1, T-Fn2, T-Fn3, and T-Fn4) button flick gestures can be assigned its own role.\n\n## The Function Buttons\n\nAssign roles to the function (Fn, Q, and AEL/AFL) buttons for quick access.\n\n### Function Button Defaults\n\nThe default assignments are:\n\n!Camera Function Buttons\n\n| Function Buttons          | Default        |\n|---------------------------|----------------|\n| ① Q (quick menu) button   | QUICK MENU     |\n| ② Fn button               | WHITE BALANCE  |\n| ③ AEL/AFL button          | AE/AF LOCK     |",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "Function Controls",
+                    "md": "# Function Controls"
+                },
+                {
+                    "type": "text",
+                    "value": "Each of the function (Fn, Q, and AEL/AFL) buttons and touch-function (T-Fn1, T-Fn2, T-Fn3, and T-Fn4) button flick gestures can be assigned its own role.",
+                    "md": "Each of the function (Fn, Q, and AEL/AFL) buttons and touch-function (T-Fn1, T-Fn2, T-Fn3, and T-Fn4) button flick gestures can be assigned its own role."
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "The Function Buttons",
+                    "md": "## The Function Buttons"
+                },
+                {
+                    "type": "text",
+                    "value": "Assign roles to the function (Fn, Q, and AEL/AFL) buttons for quick access.",
+                    "md": "Assign roles to the function (Fn, Q, and AEL/AFL) buttons for quick access."
+                },
+                {
+                    "type": "heading",
+                    "lvl": 3,
+                    "value": "Function Button Defaults",
+                    "md": "### Function Button Defaults"
+                },
+                {
+                    "type": "text",
+                    "value": "The default assignments are:\n\n!Camera Function Buttons",
+                    "md": "The default assignments are:\n\n!Camera Function Buttons"
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Function Buttons",
+                            "Default"
+                        ],
+                        [
+                            "① Q (quick menu) button",
+                            "QUICK MENU"
+                        ],
+                        [
+                            "② Fn button",
+                            "WHITE BALANCE"
+                        ],
+                        [
+                            "③ AEL/AFL button",
+                            "AE/AF LOCK"
+                        ]
+                    ],
+                    "md": "| Function Buttons          | Default        |\n|---------------------------|----------------|\n| ① Q (quick menu) button   | QUICK MENU     |\n| ② Fn button               | WHITE BALANCE  |\n| ③ AEL/AFL button          | AE/AF LOCK     |",
+                    "isPerfectTable": true,
+                    "csv": "\"Function Buttons\",\"Default\"\n\"① Q (quick menu) button\",\"QUICK MENU\"\n\"② Fn button\",\"WHITE BALANCE\"\n\"③ AEL/AFL button\",\"AE/AF LOCK\""
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "parsingMode": "multimodal-openai-gpt4o",
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 200.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "373d2b5e-4f14-4baa-93fc-c3fce0cdfc11",
+    "file_path": "../data/raw_data/x-e4/x-e4_split/x-e4_page277.pdf"
+}

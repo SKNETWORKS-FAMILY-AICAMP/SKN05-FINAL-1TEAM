@@ -1,0 +1,7 @@
+{
+    "parsing_result": "# USB Power Supply/Comm Setting\n\nChoose whether USB connections to computers, smartphones, or other devices are used for power delivery or data transfer.\n\n| Option                     | Description                                                                 |\n|----------------------------|-----------------------------------------------------------------------------|\n| **AUTO**                   | The camera switches between power delivery and data transfer automatically. |\n| **POWER SUPPLY ON/COMM OFF** | The camera draws power from the connected device, reducing the drain on the battery. Data transfer is disabled. |\n| **POWER SUPPLY OFF/COMM ON** | The camera can exchange data with, but not draw power from, the connected device. |\n\n- The camera cannot draw power from Lightning connections or from devices that do not supply power. Select **POWER SUPPLY OFF/COMM ON** before connecting the camera to such devices. The connection may not be available for data transfer or the like when **POWER SUPPLY ON/COMM OFF** is selected.\n\n- Regardless of the option selected, the battery will charge while the camera is off.\n\n## Information\n\nView the camera’s MAC, Bluetooth, and wireless network IP addresses.\n\n## Reset Wireless Setting\n\nRestore wireless settings to their default values.",
+    "metadata": {
+        "page": 296,
+        "model": "x-t5"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "parsing_result": "# Network/USB Setting Menus\n\n## Options and Descriptions\n\n### USB Tether Shooting Fixed\n- **Description:**  \n  As for USB TETHER SHOOTING AUTO, except that the camera remains in \"tethered shooting\" (remote-control) mode when the external device is off or not connected, allowing the device to resume control when the connection is re-established after an accidental disconnection or other disruption. At default settings, pictures are not recorded to the memory card.\n\n### Wireless Tether Shooting Fixed\n- **Description:**  \n  Choose this option for wireless remote photography. Select an access point using NETWORK SETTING in the network/USB setting menu.\n\n### USB RAW Conv./Backup Restore\n- **Description:**  \n  Connecting the camera to a computer via USB automatically enables USB RAW conversion/backup restore mode. The camera functions normally when not connected.\n  - **USB RAW CONV. (requires FUJIFILM X RAW STUDIO):** Use the camera’s image processing engine to rapidly convert RAW files to other formats while maintaining image quality.\n  - **BACKUP RESTORE (requires FUJIFILM X Acquire):** Save and load camera settings. Reconfigure the camera in an instant or share settings with other cameras of the same type.\n\n### Power Management\n- **Note:**  \n  AUTO POWER OFF settings also apply during tethered shooting. To prevent the camera turning off automatically, select OFF for AUTO POWER OFF.\n\n### Additional Information\n- For information on compatible computer software, see “Software for Use with Your Camera” (page 359).",
+    "metadata": {
+        "page": 269,
+        "model": "x-t5",
+        "chapter": "Network/USB Features and Settings",
+        "section": "Network/USB Setting Menus",
+        "subsection": [
+            "CONNECTION MODE"
+        ],
+        "embedding_model": "text-embedding-3-small",
+        "token": 321
+    }
+}

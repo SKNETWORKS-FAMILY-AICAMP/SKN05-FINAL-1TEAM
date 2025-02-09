@@ -1,0 +1,145 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "# IMAGE QUALITY SETTING (Still Photography)\n\n## IMAGE QUALITY\n\nChoose a file format and compression ratio.\n\n| Option          | Description                                                                 |\n|-----------------|-----------------------------------------------------------------------------|\n| SUPER FINE      | Very low compression ratios are used for maximum image quality.             |\n| FINE            | Low compression ratios are used for higher-quality images.                  |\n| NORMAL          | Higher compression ratios are used to increase the number of images that can be stored. |\n| SUPER FINE + RAW| Record both RAW and super-fine quality JPEG or HEIF images.                 |\n| FINE + RAW      | Record both RAW and fine-quality JPEG or HEIF images.                       |\n| NORMAL + RAW    | Record both RAW and normal-quality JPEG or HEIF images.                     |\n| RAW             | Record RAW images only.                                                     |\n\n## The Function Buttons\n\nTo toggle RAW image quality on or off for a single shot, assign RAW to a function button. Press the button once to select the option in the right column, again to return to the original setting (left column).\n\n| Option currently selected for IMAGE QUALITY | Option selected by pressing function button to which RAW is assigned |\n|---------------------------------------------|---------------------------------------------------------------------|\n| SUPER FINE                                  | SUPER FINE + RAW                                                    |\n| FINE                                        | FINE + RAW                                                          |\n| NORMAL                                      | NORMAL + RAW                                                        |\n| SUPER FINE + RAW                            | SUPER FINE                                                          |\n| FINE + RAW                                  | FINE                                                                |\n| NORMAL + RAW                                | NORMAL                                                              |\n| RAW                                         | FINE                                                                |",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "IMAGE QUALITY SETTING (Still Photography)",
+                    "md": "# IMAGE QUALITY SETTING (Still Photography)"
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "IMAGE QUALITY",
+                    "md": "## IMAGE QUALITY"
+                },
+                {
+                    "type": "text",
+                    "value": "Choose a file format and compression ratio.",
+                    "md": "Choose a file format and compression ratio."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Option",
+                            "Description"
+                        ],
+                        [
+                            "SUPER FINE",
+                            "Very low compression ratios are used for maximum image quality."
+                        ],
+                        [
+                            "FINE",
+                            "Low compression ratios are used for higher-quality images."
+                        ],
+                        [
+                            "NORMAL",
+                            "Higher compression ratios are used to increase the number of images that can be stored."
+                        ],
+                        [
+                            "SUPER FINE + RAW",
+                            "Record both RAW and super-fine quality JPEG or HEIF images."
+                        ],
+                        [
+                            "FINE + RAW",
+                            "Record both RAW and fine-quality JPEG or HEIF images."
+                        ],
+                        [
+                            "NORMAL + RAW",
+                            "Record both RAW and normal-quality JPEG or HEIF images."
+                        ],
+                        [
+                            "RAW",
+                            "Record RAW images only."
+                        ]
+                    ],
+                    "md": "| Option          | Description                                                                 |\n|-----------------|-----------------------------------------------------------------------------|\n| SUPER FINE      | Very low compression ratios are used for maximum image quality.             |\n| FINE            | Low compression ratios are used for higher-quality images.                  |\n| NORMAL          | Higher compression ratios are used to increase the number of images that can be stored. |\n| SUPER FINE + RAW| Record both RAW and super-fine quality JPEG or HEIF images.                 |\n| FINE + RAW      | Record both RAW and fine-quality JPEG or HEIF images.                       |\n| NORMAL + RAW    | Record both RAW and normal-quality JPEG or HEIF images.                     |\n| RAW             | Record RAW images only.                                                     |",
+                    "isPerfectTable": true,
+                    "csv": "\"Option\",\"Description\"\n\"SUPER FINE\",\"Very low compression ratios are used for maximum image quality.\"\n\"FINE\",\"Low compression ratios are used for higher-quality images.\"\n\"NORMAL\",\"Higher compression ratios are used to increase the number of images that can be stored.\"\n\"SUPER FINE + RAW\",\"Record both RAW and super-fine quality JPEG or HEIF images.\"\n\"FINE + RAW\",\"Record both RAW and fine-quality JPEG or HEIF images.\"\n\"NORMAL + RAW\",\"Record both RAW and normal-quality JPEG or HEIF images.\"\n\"RAW\",\"Record RAW images only.\""
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "The Function Buttons",
+                    "md": "## The Function Buttons"
+                },
+                {
+                    "type": "text",
+                    "value": "To toggle RAW image quality on or off for a single shot, assign RAW to a function button. Press the button once to select the option in the right column, again to return to the original setting (left column).",
+                    "md": "To toggle RAW image quality on or off for a single shot, assign RAW to a function button. Press the button once to select the option in the right column, again to return to the original setting (left column)."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Option currently selected for IMAGE QUALITY",
+                            "Option selected by pressing function button to which RAW is assigned"
+                        ],
+                        [
+                            "SUPER FINE",
+                            "SUPER FINE + RAW"
+                        ],
+                        [
+                            "FINE",
+                            "FINE + RAW"
+                        ],
+                        [
+                            "NORMAL",
+                            "NORMAL + RAW"
+                        ],
+                        [
+                            "SUPER FINE + RAW",
+                            "SUPER FINE"
+                        ],
+                        [
+                            "FINE + RAW",
+                            "FINE"
+                        ],
+                        [
+                            "NORMAL + RAW",
+                            "NORMAL"
+                        ],
+                        [
+                            "RAW",
+                            "FINE"
+                        ]
+                    ],
+                    "md": "| Option currently selected for IMAGE QUALITY | Option selected by pressing function button to which RAW is assigned |\n|---------------------------------------------|---------------------------------------------------------------------|\n| SUPER FINE                                  | SUPER FINE + RAW                                                    |\n| FINE                                        | FINE + RAW                                                          |\n| NORMAL                                      | NORMAL + RAW                                                        |\n| SUPER FINE + RAW                            | SUPER FINE                                                          |\n| FINE + RAW                                  | FINE                                                                |\n| NORMAL + RAW                                | NORMAL                                                              |\n| RAW                                         | FINE                                                                |",
+                    "isPerfectTable": true,
+                    "csv": "\"Option currently selected for IMAGE QUALITY\",\"Option selected by pressing function button to which RAW is assigned\"\n\"SUPER FINE\",\"SUPER FINE + RAW\"\n\"FINE\",\"FINE + RAW\"\n\"NORMAL\",\"NORMAL + RAW\"\n\"SUPER FINE + RAW\",\"SUPER FINE\"\n\"FINE + RAW\",\"FINE\"\n\"NORMAL + RAW\",\"NORMAL\"\n\"RAW\",\"FINE\""
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 333.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "d1b48b72-91a7-421f-af80-ca1b4dc553d6",
+    "file_path": "../data/raw_data/gfx100ii/gfx100ii_split/gfx100ii_page155.pdf"
+}

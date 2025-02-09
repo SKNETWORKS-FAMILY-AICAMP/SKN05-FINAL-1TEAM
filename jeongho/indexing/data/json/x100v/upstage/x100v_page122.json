@@ -1,0 +1,210 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<h1 id='0' style='font-size:18px'>AF-C CUSTOM SETTINGS</h1>\n<br><p id='1' data-category='paragraph' style='font-size:18px'>Select focus-tracking options for focus<br>mode C. Choose from Sets 1-5 according<br>to your subject or select Set 6 for custom<br>focus-tracking options.</p>\n\n<br><figure id='3'><img style='font-size:14px' alt=\"1\n2\n143 3\n4\n5\nTRACKING SENSITIVITY I-T\nSPEED TRACKING SENSITIVITY T ⌀6\nZONE AREA SWITCHING AUTO\nOK OK\" data-coord=\"top-left:(1728,469); bottom-right:(2455,973)\" /><br><figcaption id='2' style='font-size:14px'>AF-C CUSTOM SETTINGS<br>SET 1 MULTI PURPOSE</figcaption></figure>\n<table id='4' style='font-size:16px'><tr><td>Option</td><td>Description</td></tr><tr><td>SET 1 MULTI PURPOSE</td><td>A standard tracking option that works well with the typical range of moving subjects.</td></tr><tr><td>SET 2 IGNORE OBSTACLES & CONTINUE TO TRACK SUBJECT</td><td>The focus system attempts to track the chosen subject. Choose with subjects that are hard to keep in the focus area or if other objects are likely to enter the focus area with the subject.</td></tr><tr><td>SET 3 FOR ACCELERATING/ DECELERATING SUBJECT</td><td>The focus system attempts to compensate for subject acceleration or deceleration. Choose for subjects prone to rapid changes in velocity.</td></tr><tr><td>SET 4 FOR SUDDENLY APPEARING SUBJECT</td><td>The focus system attempts to focus quickly on subjects entering the focus area. Choose for subjects that appear abruptly or when rapidly switching subjects.</td></tr><tr><td>SET 5 FOR ERRATICALLY MOVING & ACCEL./DECEL. SUBJECT</td><td>Choose for hard-to-track subjects prone not only to sudden changes in velocity but also to large movements front to back and left to right.</td></tr><tr><td>SET 6 CUSTOM</td><td>Adjust TRACKING SENSITIVITY, SPEED TRACKING SENSITIVITY, and ZONE AREA SWITCHING to suit your preferences based on the values for Sets 1-5 (□□ 123, 125).</td></tr><br><caption id='2' style='font-size:14px'>AF-C CUSTOM SETTINGS<br>SET 1 MULTI PURPOSE</caption></table>\n<br><header id='5' style='font-size:22px'>The<br>Shooting<br>Menus</header>\n<footer id='6' style='font-size:20px'>122</footer>",
+        "markdown": "# AF-C CUSTOM SETTINGS\n\nSelect focus-tracking options for focus\nmode C. Choose from Sets 1-5 according\nto your subject or select Set 6 for custom\nfocus-tracking options.\n\nAF-C CUSTOM SETTINGS\nSET 1 MULTI PURPOSE\n\n![image](/image/placeholder)\n1\n2\n143 3\n4\n5\nTRACKING SENSITIVITY I-T\nSPEED TRACKING SENSITIVITY T ⌀6\nZONE AREA SWITCHING AUTO\nOK OK\n\n| Option | Description |\n| --- | --- |\n| SET 1 MULTI PURPOSE | A standard tracking option that works well with the typical range of moving subjects. |\n| SET 2 IGNORE OBSTACLES & CONTINUE TO TRACK SUBJECT | The focus system attempts to track the chosen subject. Choose with subjects that are hard to keep in the focus area or if other objects are likely to enter the focus area with the subject. |\n| SET 3 FOR ACCELERATING/ DECELERATING SUBJECT | The focus system attempts to compensate for subject acceleration or deceleration. Choose for subjects prone to rapid changes in velocity. |\n| SET 4 FOR SUDDENLY APPEARING SUBJECT | The focus system attempts to focus quickly on subjects entering the focus area. Choose for subjects that appear abruptly or when rapidly switching subjects. |\n| SET 5 FOR ERRATICALLY MOVING & ACCEL./DECEL. SUBJECT | Choose for hard-to-track subjects prone not only to sudden changes in velocity but also to large movements front to back and left to right. |\n| SET 6 CUSTOM | Adjust TRACKING SENSITIVITY, SPEED TRACKING SENSITIVITY, and ZONE AREA SWITCHING to suit your preferences based on the values for Sets 1-5 (□□ 123, 125). |\n\n\nThe\nShooting\nMenus\n\n122",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='0' style='font-size:18px'>AF-C CUSTOM SETTINGS</h1>",
+                "markdown": "# AF-C CUSTOM SETTINGS",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0815,
+                    "y": 0.0728
+                },
+                {
+                    "x": 0.4165,
+                    "y": 0.0728
+                },
+                {
+                    "x": 0.4165,
+                    "y": 0.0951
+                },
+                {
+                    "x": 0.0815,
+                    "y": 0.0951
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='1' data-category='paragraph' style='font-size:18px'>Select focus-tracking options for focus<br>mode C. Choose from Sets 1-5 according<br>to your subject or select Set 6 for custom<br>focus-tracking options.</p>",
+                "markdown": "Select focus-tracking options for focus\nmode C. Choose from Sets 1-5 according\nto your subject or select Set 6 for custom\nfocus-tracking options.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0814,
+                    "y": 0.1039
+                },
+                {
+                    "x": 0.602,
+                    "y": 0.1039
+                },
+                {
+                    "x": 0.602,
+                    "y": 0.2065
+                },
+                {
+                    "x": 0.0814,
+                    "y": 0.2065
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='2' data-category='paragraph' style='font-size:14px'>AF-C CUSTOM SETTINGS<br>SET 1 MULTI PURPOSE</p>",
+                "markdown": "AF-C CUSTOM SETTINGS\nSET 1 MULTI PURPOSE",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6485,
+                    "y": 0.1077
+                },
+                {
+                    "x": 0.7866,
+                    "y": 0.1077
+                },
+                {
+                    "x": 0.7866,
+                    "y": 0.1371
+                },
+                {
+                    "x": 0.6485,
+                    "y": 0.1371
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "figure",
+            "content": {
+                "html": "<br><figure id='3'><img style='font-size:14px' alt=\"1\n2\n143 3\n4\n5\nTRACKING SENSITIVITY I-T\nSPEED TRACKING SENSITIVITY T ⌀6\nZONE AREA SWITCHING AUTO\nOK OK\" data-coord=\"top-left:(1728,469); bottom-right:(2455,973)\" /></figure>",
+                "markdown": "![image](/image/placeholder)\n1\n2\n143 3\n4\n5\nTRACKING SENSITIVITY I-T\nSPEED TRACKING SENSITIVITY T ⌀6\nZONE AREA SWITCHING AUTO\nOK OK",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6255,
+                    "y": 0.1205
+                },
+                {
+                    "x": 0.8885,
+                    "y": 0.1205
+                },
+                {
+                    "x": 0.8885,
+                    "y": 0.2498
+                },
+                {
+                    "x": 0.6255,
+                    "y": 0.2498
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='4' style='font-size:16px'><tr><td>Option</td><td>Description</td></tr><tr><td>SET 1 MULTI PURPOSE</td><td>A standard tracking option that works well with the typical range of moving subjects.</td></tr><tr><td>SET 2 IGNORE OBSTACLES & CONTINUE TO TRACK SUBJECT</td><td>The focus system attempts to track the chosen subject. Choose with subjects that are hard to keep in the focus area or if other objects are likely to enter the focus area with the subject.</td></tr><tr><td>SET 3 FOR ACCELERATING/ DECELERATING SUBJECT</td><td>The focus system attempts to compensate for subject acceleration or deceleration. Choose for subjects prone to rapid changes in velocity.</td></tr><tr><td>SET 4 FOR SUDDENLY APPEARING SUBJECT</td><td>The focus system attempts to focus quickly on subjects entering the focus area. Choose for subjects that appear abruptly or when rapidly switching subjects.</td></tr><tr><td>SET 5 FOR ERRATICALLY MOVING & ACCEL./DECEL. SUBJECT</td><td>Choose for hard-to-track subjects prone not only to sudden changes in velocity but also to large movements front to back and left to right.</td></tr><tr><td>SET 6 CUSTOM</td><td>Adjust TRACKING SENSITIVITY, SPEED TRACKING SENSITIVITY, and ZONE AREA SWITCHING to suit your preferences based on the values for Sets 1-5 (□□ 123, 125).</td></tr></table>",
+                "markdown": "| Option | Description |\n| --- | --- |\n| SET 1 MULTI PURPOSE | A standard tracking option that works well with the typical range of moving subjects. |\n| SET 2 IGNORE OBSTACLES & CONTINUE TO TRACK SUBJECT | The focus system attempts to track the chosen subject. Choose with subjects that are hard to keep in the focus area or if other objects are likely to enter the focus area with the subject. |\n| SET 3 FOR ACCELERATING/ DECELERATING SUBJECT | The focus system attempts to compensate for subject acceleration or deceleration. Choose for subjects prone to rapid changes in velocity. |\n| SET 4 FOR SUDDENLY APPEARING SUBJECT | The focus system attempts to focus quickly on subjects entering the focus area. Choose for subjects that appear abruptly or when rapidly switching subjects. |\n| SET 5 FOR ERRATICALLY MOVING & ACCEL./DECEL. SUBJECT | Choose for hard-to-track subjects prone not only to sudden changes in velocity but also to large movements front to back and left to right. |\n| SET 6 CUSTOM | Adjust TRACKING SENSITIVITY, SPEED TRACKING SENSITIVITY, and ZONE AREA SWITCHING to suit your preferences based on the values for Sets 1-5 (□□ 123, 125). |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0799,
+                    "y": 0.261
+                },
+                {
+                    "x": 0.8916,
+                    "y": 0.261
+                },
+                {
+                    "x": 0.8916,
+                    "y": 0.7527
+                },
+                {
+                    "x": 0.0799,
+                    "y": 0.7527
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "header",
+            "content": {
+                "html": "<br><header id='5' style='font-size:22px'>The<br>Shooting<br>Menus</header>",
+                "markdown": "The\nShooting\nMenus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0159,
+                    "y": 0.5759
+                },
+                {
+                    "x": 0.0421,
+                    "y": 0.5759
+                },
+                {
+                    "x": 0.0421,
+                    "y": 0.7311
+                },
+                {
+                    "x": 0.0159,
+                    "y": 0.7311
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='6' style='font-size:20px'>122</footer>",
+                "markdown": "122",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.085,
+                    "y": 0.9565
+                },
+                {
+                    "x": 0.1391,
+                    "y": 0.9565
+                },
+                {
+                    "x": 0.1391,
+                    "y": 0.9787
+                },
+                {
+                    "x": 0.085,
+                    "y": 0.9787
+                }
+            ],
+            "id": 6,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

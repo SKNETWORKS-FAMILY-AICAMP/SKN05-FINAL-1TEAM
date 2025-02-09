@@ -1,0 +1,238 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:14px'>The Quick Menu</header>\n<h1 id='1' style='font-size:20px'>Available Items (Still Photography)</h1>\n<br><h1 id='2' style='font-size:18px'>Choose from:</h1>\n<br><p id='3' data-category='list' style='font-size:14px'>● IMAGE SIZE<br>● IMAGE QUALITY<br>● FILM SIMULATION<br>● GRAIN EFFECT<br>● COLOR CHROME EFFECT<br>● COLOR CHROME FX BLUE<br>● SMOOTH SKIN EFFECT<br>● DYNAMIC RANGE<br>● D RANGE PRIORITY<br>● WHITE BALANCE<br>● WHITE BALANCE COLOR TEMP.<br>(WHEN K SELECTED)<br>● HIGHLIGHT TONE<br>● SHADOW TONE<br>● COLOR<br>● SHARPNESS<br>● CLARITY<br>● HIGH ISO NR<br>● AF MODE<br>● AF-C CUSTOM SETTINGS<br>● FACE/EYE DETECTION SETTING</p>\n<br><p id='4' data-category='list' style='font-size:14px'>● SUBJECT DETECTION SETTING<br>● MF ASSIST<br>● TOUCH SCREEN MODE<br>● SELF-TIMER<br>● PHOTOMETRY<br>● SHUTTER TYPE<br>● FLICKER REDUCTION<br>● FLASH FUNCTION SETTING<br>● FLASH COMPENSATION<br>● MOVIE MODE RESOLUTION/ASPECT<br>RATIO<br>● MOVIE MODE FRAME RATE<br>● BIT RATE<br>● HIGH SPEED REC<br>● IS MODE<br>● IS MODE BOOST<br>● INTERNAL/EXTERNAL MIC LEVEL<br>ADJUSTMENT<br>● EVF/LCD BRIGHTNESS<br>● EVF/LCD COLOR<br>● NONE</p>\n<p id='5' data-category='paragraph' style='font-size:16px'>To disable the function button, choose NONE.</p>\n<footer id='6' style='font-size:22px'>Shortcuts<br>10</footer>\n<footer id='7' style='font-size:18px'>319</footer>",
+        "markdown": "The Quick Menu\n\n# Available Items (Still Photography)\n\n# Choose from:\n\n- ● IMAGE SIZE\n- ● IMAGE QUALITY\n- ● FILM SIMULATION\n- ● GRAIN EFFECT\n- ● COLOR CHROME EFFECT\n- ● COLOR CHROME FX BLUE\n- ● SMOOTH SKIN EFFECT\n- ● DYNAMIC RANGE\n- ● D RANGE PRIORITY\n- ● WHITE BALANCE\n- ● WHITE BALANCE COLOR TEMP.\n- (WHEN K SELECTED)\n- ● HIGHLIGHT TONE\n- ● SHADOW TONE\n- ● COLOR\n- ● SHARPNESS\n- ● CLARITY\n- ● HIGH ISO NR\n- ● AF MODE\n- ● AF-C CUSTOM SETTINGS\n- ● FACE/EYE DETECTION SETTING\n\n\n- ● SUBJECT DETECTION SETTING\n- ● MF ASSIST\n- ● TOUCH SCREEN MODE\n- ● SELF-TIMER\n- ● PHOTOMETRY\n- ● SHUTTER TYPE\n- ● FLICKER REDUCTION\n- ● FLASH FUNCTION SETTING\n- ● FLASH COMPENSATION\n- ● MOVIE MODE RESOLUTION/ASPECT\n- RATIO\n- ● MOVIE MODE FRAME RATE\n- ● BIT RATE\n- ● HIGH SPEED REC\n- ● IS MODE\n- ● IS MODE BOOST\n- ● INTERNAL/EXTERNAL MIC LEVEL\n- ADJUSTMENT\n- ● EVF/LCD BRIGHTNESS\n- ● EVF/LCD COLOR\n- ● NONE\n\n\nTo disable the function button, choose NONE.\n\nShortcuts\n10\n\n319",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:14px'>The Quick Menu</header>",
+                "markdown": "The Quick Menu",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.7515,
+                    "y": 0.0289
+                },
+                {
+                    "x": 0.9186,
+                    "y": 0.0289
+                },
+                {
+                    "x": 0.9186,
+                    "y": 0.05
+                },
+                {
+                    "x": 0.7515,
+                    "y": 0.05
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='1' style='font-size:20px'>Available Items (Still Photography)</h1>",
+                "markdown": "# Available Items (Still Photography)",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1167,
+                    "y": 0.0742
+                },
+                {
+                    "x": 0.5486,
+                    "y": 0.0742
+                },
+                {
+                    "x": 0.5486,
+                    "y": 0.098
+                },
+                {
+                    "x": 0.1167,
+                    "y": 0.098
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='2' style='font-size:18px'>Choose from:</h1>",
+                "markdown": "# Choose from:",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1084,
+                    "y": 0.1059
+                },
+                {
+                    "x": 0.2814,
+                    "y": 0.1059
+                },
+                {
+                    "x": 0.2814,
+                    "y": 0.1264
+                },
+                {
+                    "x": 0.1084,
+                    "y": 0.1264
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "list",
+            "content": {
+                "html": "<br><p id='3' data-category='list' style='font-size:14px'>● IMAGE SIZE<br>● IMAGE QUALITY<br>● FILM SIMULATION<br>● GRAIN EFFECT<br>● COLOR CHROME EFFECT<br>● COLOR CHROME FX BLUE<br>● SMOOTH SKIN EFFECT<br>● DYNAMIC RANGE<br>● D RANGE PRIORITY<br>● WHITE BALANCE<br>● WHITE BALANCE COLOR TEMP.<br>(WHEN K SELECTED)<br>● HIGHLIGHT TONE<br>● SHADOW TONE<br>● COLOR<br>● SHARPNESS<br>● CLARITY<br>● HIGH ISO NR<br>● AF MODE<br>● AF-C CUSTOM SETTINGS<br>● FACE/EYE DETECTION SETTING</p>",
+                "markdown": "- ● IMAGE SIZE\n- ● IMAGE QUALITY\n- ● FILM SIMULATION\n- ● GRAIN EFFECT\n- ● COLOR CHROME EFFECT\n- ● COLOR CHROME FX BLUE\n- ● SMOOTH SKIN EFFECT\n- ● DYNAMIC RANGE\n- ● D RANGE PRIORITY\n- ● WHITE BALANCE\n- ● WHITE BALANCE COLOR TEMP.\n- (WHEN K SELECTED)\n- ● HIGHLIGHT TONE\n- ● SHADOW TONE\n- ● COLOR\n- ● SHARPNESS\n- ● CLARITY\n- ● HIGH ISO NR\n- ● AF MODE\n- ● AF-C CUSTOM SETTINGS\n- ● FACE/EYE DETECTION SETTING\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1078,
+                    "y": 0.1308
+                },
+                {
+                    "x": 0.4491,
+                    "y": 0.1308
+                },
+                {
+                    "x": 0.4491,
+                    "y": 0.6069
+                },
+                {
+                    "x": 0.1078,
+                    "y": 0.6069
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "list",
+            "content": {
+                "html": "<br><p id='4' data-category='list' style='font-size:14px'>● SUBJECT DETECTION SETTING<br>● MF ASSIST<br>● TOUCH SCREEN MODE<br>● SELF-TIMER<br>● PHOTOMETRY<br>● SHUTTER TYPE<br>● FLICKER REDUCTION<br>● FLASH FUNCTION SETTING<br>● FLASH COMPENSATION<br>● MOVIE MODE RESOLUTION/ASPECT<br>RATIO<br>● MOVIE MODE FRAME RATE<br>● BIT RATE<br>● HIGH SPEED REC<br>● IS MODE<br>● IS MODE BOOST<br>● INTERNAL/EXTERNAL MIC LEVEL<br>ADJUSTMENT<br>● EVF/LCD BRIGHTNESS<br>● EVF/LCD COLOR<br>● NONE</p>",
+                "markdown": "- ● SUBJECT DETECTION SETTING\n- ● MF ASSIST\n- ● TOUCH SCREEN MODE\n- ● SELF-TIMER\n- ● PHOTOMETRY\n- ● SHUTTER TYPE\n- ● FLICKER REDUCTION\n- ● FLASH FUNCTION SETTING\n- ● FLASH COMPENSATION\n- ● MOVIE MODE RESOLUTION/ASPECT\n- RATIO\n- ● MOVIE MODE FRAME RATE\n- ● BIT RATE\n- ● HIGH SPEED REC\n- ● IS MODE\n- ● IS MODE BOOST\n- ● INTERNAL/EXTERNAL MIC LEVEL\n- ADJUSTMENT\n- ● EVF/LCD BRIGHTNESS\n- ● EVF/LCD COLOR\n- ● NONE\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.5046,
+                    "y": 0.1279
+                },
+                {
+                    "x": 0.8821,
+                    "y": 0.1279
+                },
+                {
+                    "x": 0.8821,
+                    "y": 0.6032
+                },
+                {
+                    "x": 0.5046,
+                    "y": 0.6032
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='5' data-category='paragraph' style='font-size:16px'>To disable the function button, choose NONE.</p>",
+                "markdown": "To disable the function button, choose NONE.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1486,
+                    "y": 0.6208
+                },
+                {
+                    "x": 0.6558,
+                    "y": 0.6208
+                },
+                {
+                    "x": 0.6558,
+                    "y": 0.6417
+                },
+                {
+                    "x": 0.1486,
+                    "y": 0.6417
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='6' style='font-size:22px'>Shortcuts<br>10</footer>",
+                "markdown": "Shortcuts\n10",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9564,
+                    "y": 0.6799
+                },
+                {
+                    "x": 0.9849,
+                    "y": 0.6799
+                },
+                {
+                    "x": 0.9849,
+                    "y": 0.8003
+                },
+                {
+                    "x": 0.9564,
+                    "y": 0.8003
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='7' style='font-size:18px'>319</footer>",
+                "markdown": "319",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.8602,
+                    "y": 0.956
+                },
+                {
+                    "x": 0.9186,
+                    "y": 0.956
+                },
+                {
+                    "x": 0.9186,
+                    "y": 0.9797
+                },
+                {
+                    "x": 0.8602,
+                    "y": 0.9797
+                }
+            ],
+            "id": 7,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

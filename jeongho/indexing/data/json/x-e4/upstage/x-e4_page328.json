@@ -1,0 +1,210 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<h1 id='0' style='font-size:20px'>Memory Card Capacity</h1>\n<br><p id='1' data-category='paragraph' style='font-size:16px'>The following table shows the recording time or number<br>of pictures available at different image sizes. All figures are<br>approximate; file size varies with the scene recorded, pro-<br>ducing wide variations in the number of files that can be<br>stored. The number of exposures or length remaining may<br>not diminish at an even rate.</p>\n<table id='2' style='font-size:14px'><tr><td rowspan=\"2\" colspan=\"2\">Capacity</td><td colspan=\"2\">16 GB</td><td colspan=\"2\">32 GB</td></tr><tr><td>H FINE</td><td>NORMAL</td><td>FINE</td><td>NORMAL</td></tr><tr><td rowspan=\"4\">Photos</td><td> 3:2</td><td>1030</td><td>1540</td><td>2060</td><td>3090</td></tr><tr><td>RAW (UNCOMPRESSED)</td><td colspan=\"2\">270</td><td colspan=\"2\">550</td></tr><tr><td>RAW (LOSSLESS COMPRESSED)</td><td colspan=\"2\">500</td><td colspan=\"2\">1010</td></tr><tr><td>RAW (COMPRESSED)</td><td colspan=\"2\">690</td><td colspan=\"2\">1400</td></tr><tr><td rowspan=\"2\">Movies 1,2</td><td>4K 2160</td><td colspan=\"2\">20 minutes</td><td colspan=\"2\">40 minutes</td></tr><tr><td>FHD 1080</td><td colspan=\"2\">20 minutes</td><td colspan=\"2\">40 minutes</td></tr></table>\n<br><p id='3' data-category='paragraph' style='font-size:14px'>1 Use a UHS speed class 3 card or better.<br>2 Assumes default bit rate.</p>\n<br><p id='4' data-category='paragraph' style='font-size:14px'>If the memory card has a capacity of over 32 GB, movies will be recorded<br>in single files, regardless of size. If the card has a capacity of 32 GB or less,<br>movies over 4 GB in size will be recorded uninterrupted across multiple files.</p>\n<header id='5' style='font-size:22px'>Technical<br>Notes<br>12</header>\n<footer id='6' style='font-size:18px'>328</footer>",
+        "markdown": "# Memory Card Capacity\n\nThe following table shows the recording time or number\nof pictures available at different image sizes. All figures are\napproximate; file size varies with the scene recorded, pro-\nducing wide variations in the number of files that can be\nstored. The number of exposures or length remaining may\nnot diminish at an even rate.\n\n| Capacity | Capacity | 16 GB | 16 GB | 32 GB | 32 GB |\n| --- | --- | --- | --- | --- | --- |\n| Capacity | Capacity | H FINE | NORMAL | FINE | NORMAL |\n| Photos |  3:2 | 1030 | 1540 | 2060 | 3090 |\n| Photos | RAW (UNCOMPRESSED) | 270 | 270 | 550 | 550 |\n| Photos | RAW (LOSSLESS COMPRESSED) | 500 | 500 | 1010 | 1010 |\n| Photos | RAW (COMPRESSED) | 690 | 690 | 1400 | 1400 |\n| Movies 1,2 | 4K 2160 | 20 minutes | 20 minutes | 40 minutes | 40 minutes |\n| Movies 1,2 | FHD 1080 | 20 minutes | 20 minutes | 40 minutes | 40 minutes |\n\n\n1 Use a UHS speed class 3 card or better.\n2 Assumes default bit rate.\n\nIf the memory card has a capacity of over 32 GB, movies will be recorded\nin single files, regardless of size. If the card has a capacity of 32 GB or less,\nmovies over 4 GB in size will be recorded uninterrupted across multiple files.\n\nTechnical\nNotes\n12\n\n328",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='0' style='font-size:20px'>Memory Card Capacity</h1>",
+                "markdown": "# Memory Card Capacity",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1561,
+                    "y": 0.0727
+                },
+                {
+                    "x": 0.5408,
+                    "y": 0.0727
+                },
+                {
+                    "x": 0.5408,
+                    "y": 0.1009
+                },
+                {
+                    "x": 0.1561,
+                    "y": 0.1009
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='1' data-category='paragraph' style='font-size:16px'>The following table shows the recording time or number<br>of pictures available at different image sizes. All figures are<br>approximate; file size varies with the scene recorded, pro-<br>ducing wide variations in the number of files that can be<br>stored. The number of exposures or length remaining may<br>not diminish at an even rate.</p>",
+                "markdown": "The following table shows the recording time or number\nof pictures available at different image sizes. All figures are\napproximate; file size varies with the scene recorded, pro-\nducing wide variations in the number of files that can be\nstored. The number of exposures or length remaining may\nnot diminish at an even rate.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1547,
+                    "y": 0.1083
+                },
+                {
+                    "x": 0.8953,
+                    "y": 0.1083
+                },
+                {
+                    "x": 0.8953,
+                    "y": 0.261
+                },
+                {
+                    "x": 0.1547,
+                    "y": 0.261
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='2' style='font-size:14px'><tr><td rowspan=\"2\" colspan=\"2\">Capacity</td><td colspan=\"2\">16 GB</td><td colspan=\"2\">32 GB</td></tr><tr><td>H FINE</td><td>NORMAL</td><td>FINE</td><td>NORMAL</td></tr><tr><td rowspan=\"4\">Photos</td><td> 3:2</td><td>1030</td><td>1540</td><td>2060</td><td>3090</td></tr><tr><td>RAW (UNCOMPRESSED)</td><td colspan=\"2\">270</td><td colspan=\"2\">550</td></tr><tr><td>RAW (LOSSLESS COMPRESSED)</td><td colspan=\"2\">500</td><td colspan=\"2\">1010</td></tr><tr><td>RAW (COMPRESSED)</td><td colspan=\"2\">690</td><td colspan=\"2\">1400</td></tr><tr><td rowspan=\"2\">Movies 1,2</td><td>4K 2160</td><td colspan=\"2\">20 minutes</td><td colspan=\"2\">40 minutes</td></tr><tr><td>FHD 1080</td><td colspan=\"2\">20 minutes</td><td colspan=\"2\">40 minutes</td></tr></table>",
+                "markdown": "| Capacity | Capacity | 16 GB | 16 GB | 32 GB | 32 GB |\n| --- | --- | --- | --- | --- | --- |\n| Capacity | Capacity | H FINE | NORMAL | FINE | NORMAL |\n| Photos |  3:2 | 1030 | 1540 | 2060 | 3090 |\n| Photos | RAW (UNCOMPRESSED) | 270 | 270 | 550 | 550 |\n| Photos | RAW (LOSSLESS COMPRESSED) | 500 | 500 | 1010 | 1010 |\n| Photos | RAW (COMPRESSED) | 690 | 690 | 1400 | 1400 |\n| Movies 1,2 | 4K 2160 | 20 minutes | 20 minutes | 40 minutes | 40 minutes |\n| Movies 1,2 | FHD 1080 | 20 minutes | 20 minutes | 40 minutes | 40 minutes |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0866,
+                    "y": 0.2731
+                },
+                {
+                    "x": 0.8917,
+                    "y": 0.2731
+                },
+                {
+                    "x": 0.8917,
+                    "y": 0.4925
+                },
+                {
+                    "x": 0.0866,
+                    "y": 0.4925
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='3' data-category='paragraph' style='font-size:14px'>1 Use a UHS speed class 3 card or better.<br>2 Assumes default bit rate.</p>",
+                "markdown": "1 Use a UHS speed class 3 card or better.\n2 Assumes default bit rate.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0789,
+                    "y": 0.5001
+                },
+                {
+                    "x": 0.4837,
+                    "y": 0.5001
+                },
+                {
+                    "x": 0.4837,
+                    "y": 0.5446
+                },
+                {
+                    "x": 0.0789,
+                    "y": 0.5446
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='4' data-category='paragraph' style='font-size:14px'>If the memory card has a capacity of over 32 GB, movies will be recorded<br>in single files, regardless of size. If the card has a capacity of 32 GB or less,<br>movies over 4 GB in size will be recorded uninterrupted across multiple files.</p>",
+                "markdown": "If the memory card has a capacity of over 32 GB, movies will be recorded\nin single files, regardless of size. If the card has a capacity of 32 GB or less,\nmovies over 4 GB in size will be recorded uninterrupted across multiple files.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0922,
+                    "y": 0.5529
+                },
+                {
+                    "x": 0.8891,
+                    "y": 0.5529
+                },
+                {
+                    "x": 0.8891,
+                    "y": 0.6186
+                },
+                {
+                    "x": 0.0922,
+                    "y": 0.6186
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='5' style='font-size:22px'>Technical<br>Notes<br>12</header>",
+                "markdown": "Technical\nNotes\n12",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0152,
+                    "y": 0.7604
+                },
+                {
+                    "x": 0.0447,
+                    "y": 0.7604
+                },
+                {
+                    "x": 0.0447,
+                    "y": 0.9226
+                },
+                {
+                    "x": 0.0152,
+                    "y": 0.9226
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='6' style='font-size:18px'>328</footer>",
+                "markdown": "328",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0839,
+                    "y": 0.9565
+                },
+                {
+                    "x": 0.1392,
+                    "y": 0.9565
+                },
+                {
+                    "x": 0.1392,
+                    "y": 0.9791
+                },
+                {
+                    "x": 0.0839,
+                    "y": 0.9791
+                }
+            ],
+            "id": 6,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

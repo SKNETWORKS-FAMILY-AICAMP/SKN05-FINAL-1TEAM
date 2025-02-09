@@ -1,0 +1,115 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "# AF/MF SETTING (Still Photography)\n\n## MF ASSIST\nChoose how focus is displayed in manual focus mode.\n\n| Option                | Description                                                                                                                                                  |\n|-----------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| **STANDARD**          | Focus is displayed normally (focus peaking, digital split image, and digital microprism are not available).                                                  |\n| **DIGITAL SPLIT IMAGE** | Displays a black-and-white (MONOCHROME) or color (COLOR) split image in the center of the frame. Frame the subject in the split-image area and rotate the focus ring until the four parts of the split image are correctly aligned. |\n| **DIGITAL MICROPRISM** | A grid pattern that emphasizes blur is displayed when the subject is out of focus, disappearing to be replaced by a sharp image when the subject is in focus. |\n| **FOCUS PEAK HIGHLIGHT** | The camera heightens high-contrast outlines. Choose a color and peaking level.                                                                             |\n\n## FOCUS CHECK\nIf **ON** is selected, the display will automatically zoom in on the selected focus area when the focus ring is rotated in manual focus mode.\n\n| Options |        |\n|---------|--------|\n| ON      | OFF    |\n\n- Press the focus stick (focus lever) to cancel focus zoom.\n- The zoom position is centered on the current focus area and changes when the focus area is changed.",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "AF/MF SETTING (Still Photography)",
+                    "md": "# AF/MF SETTING (Still Photography)"
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "MF ASSIST",
+                    "md": "## MF ASSIST"
+                },
+                {
+                    "type": "text",
+                    "value": "Choose how focus is displayed in manual focus mode.",
+                    "md": "Choose how focus is displayed in manual focus mode."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Option",
+                            "Description"
+                        ],
+                        [
+                            "**STANDARD**",
+                            "Focus is displayed normally (focus peaking, digital split image, and digital microprism are not available)."
+                        ],
+                        [
+                            "**DIGITAL SPLIT IMAGE**",
+                            "Displays a black-and-white (MONOCHROME) or color (COLOR) split image in the center of the frame. Frame the subject in the split-image area and rotate the focus ring until the four parts of the split image are correctly aligned."
+                        ],
+                        [
+                            "**DIGITAL MICROPRISM**",
+                            "A grid pattern that emphasizes blur is displayed when the subject is out of focus, disappearing to be replaced by a sharp image when the subject is in focus."
+                        ],
+                        [
+                            "**FOCUS PEAK HIGHLIGHT**",
+                            "The camera heightens high-contrast outlines. Choose a color and peaking level."
+                        ]
+                    ],
+                    "md": "| Option                | Description                                                                                                                                                  |\n|-----------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| **STANDARD**          | Focus is displayed normally (focus peaking, digital split image, and digital microprism are not available).                                                  |\n| **DIGITAL SPLIT IMAGE** | Displays a black-and-white (MONOCHROME) or color (COLOR) split image in the center of the frame. Frame the subject in the split-image area and rotate the focus ring until the four parts of the split image are correctly aligned. |\n| **DIGITAL MICROPRISM** | A grid pattern that emphasizes blur is displayed when the subject is out of focus, disappearing to be replaced by a sharp image when the subject is in focus. |\n| **FOCUS PEAK HIGHLIGHT** | The camera heightens high-contrast outlines. Choose a color and peaking level.                                                                             |",
+                    "isPerfectTable": true,
+                    "csv": "\"Option\",\"Description\"\n\"**STANDARD**\",\"Focus is displayed normally (focus peaking, digital split image, and digital microprism are not available).\"\n\"**DIGITAL SPLIT IMAGE**\",\"Displays a black-and-white (MONOCHROME) or color (COLOR) split image in the center of the frame. Frame the subject in the split-image area and rotate the focus ring until the four parts of the split image are correctly aligned.\"\n\"**DIGITAL MICROPRISM**\",\"A grid pattern that emphasizes blur is displayed when the subject is out of focus, disappearing to be replaced by a sharp image when the subject is in focus.\"\n\"**FOCUS PEAK HIGHLIGHT**\",\"The camera heightens high-contrast outlines. Choose a color and peaking level.\""
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "FOCUS CHECK",
+                    "md": "## FOCUS CHECK"
+                },
+                {
+                    "type": "text",
+                    "value": "If **ON** is selected, the display will automatically zoom in on the selected focus area when the focus ring is rotated in manual focus mode.",
+                    "md": "If **ON** is selected, the display will automatically zoom in on the selected focus area when the focus ring is rotated in manual focus mode."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Options",
+                            ""
+                        ],
+                        [
+                            "ON",
+                            "OFF"
+                        ]
+                    ],
+                    "md": "| Options |        |\n|---------|--------|\n| ON      | OFF    |",
+                    "isPerfectTable": true,
+                    "csv": "\"Options\",\"\"\n\"ON\",\"OFF\""
+                },
+                {
+                    "type": "text",
+                    "value": "- Press the focus stick (focus lever) to cancel focus zoom.\n- The zoom position is centered on the current focus area and changes when the focus area is changed.",
+                    "md": "- Press the focus stick (focus lever) to cancel focus zoom.\n- The zoom position is centered on the current focus area and changes when the focus area is changed."
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "parsingMode": "multimodal-openai-gpt4o",
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 286.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "f58759c0-f3a6-41e3-b37c-5a3db8e49792",
+    "file_path": "../data/raw_data/x-e4/x-e4_split/x-e4_page159.pdf"
+}

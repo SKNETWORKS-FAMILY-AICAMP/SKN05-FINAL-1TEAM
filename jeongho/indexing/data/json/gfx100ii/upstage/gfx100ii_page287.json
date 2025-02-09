@@ -1,0 +1,266 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<p id='0' data-category='paragraph' style='font-size:18px'>Uploading Files via FTP</p>\n<p id='1' data-category='paragraph' style='font-size:18px'>9 Choose the procedure used when<br>the destination contains files with<br>the same names as the pictures se-<br>lected for upload.</p>\n<br><p id='2' data-category='list' style='font-size:18px'>● Select YES to overwrite the existing<br>files.<br>● Select NO to rename the uploaded<br>files by adding numbers at the ends<br>of the file names (e.g., \"DSCF0001<br>(0).JPG\").</p>\n<br><p id='3' data-category='paragraph' style='font-size:18px'>10 Name the FTP server settings.<br>The chosen name will appear in the<br>FTP server list.</p>\n<br><table id='4' style='font-size:14px'><tr><td>OVERWRITE SAME YES</td><td>FILE NAME</td><td>▶</td></tr><tr><td>NO</td><td></td><td></td></tr></table>\n<p id='5' data-category='paragraph' style='font-size:14px'>FTP SERVER NAME</p>\n<br><table id='6' style='font-size:16px'><tr><td></td><td>F TP</td><td></td><td>MEDIACENTER</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>SET</td><td></td><td>←</td><td></td><td>f</td><td>DEL g</td><td>h</td><td>A→a </td><td>「</td></tr><tr><td>a k</td><td>b </td><td>C</td><td>d</td><td>e O</td><td>p</td><td>q</td><td>r</td><td>S</td><td>t</td></tr><tr><td>u</td><td>V</td><td>m w</td><td>n X</td><td>y</td><td>Z</td><td></td><td>-</td><td>·</td><td></td></tr><tr><td>0</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td></tr></table>\n<br><footer id='7' style='font-size:22px'>Network/USB<br>Setting<br>Menus</footer>\n<footer id='8' style='font-size:20px'>287</footer>",
+        "markdown": "Uploading Files via FTP\n\n9 Choose the procedure used when\nthe destination contains files with\nthe same names as the pictures se-\nlected for upload.\n\n- ● Select YES to overwrite the existing\n- files.\n- ● Select NO to rename the uploaded\n- files by adding numbers at the ends\n- of the file names (e.g., \"DSCF0001\n- (0).JPG\").\n\n\n10 Name the FTP server settings.\nThe chosen name will appear in the\nFTP server list.\n\n| OVERWRITE SAME YES | FILE NAME | ▶ |\n| --- | --- | --- |\n| NO |  |  |\n\n\nFTP SERVER NAME\n\n|  | F TP |  | MEDIACENTER |  |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n|  | SET |  | ← |  | f | DEL g | h | A→a  | 「 |\n| a k | b  | C | d | e O | p | q | r | S | t |\n| u | V | m w | n X | y | Z |  | - | · |  |\n| 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |\n\n\nNetwork/USB\nSetting\nMenus\n\n287",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='0' data-category='paragraph' style='font-size:18px'>Uploading Files via FTP</p>",
+                "markdown": "Uploading Files via FTP",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6925,
+                    "y": 0.0291
+                },
+                {
+                    "x": 0.9178,
+                    "y": 0.0291
+                },
+                {
+                    "x": 0.9178,
+                    "y": 0.0495
+                },
+                {
+                    "x": 0.6925,
+                    "y": 0.0495
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='1' data-category='paragraph' style='font-size:18px'>9 Choose the procedure used when<br>the destination contains files with<br>the same names as the pictures se-<br>lected for upload.</p>",
+                "markdown": "9 Choose the procedure used when\nthe destination contains files with\nthe same names as the pictures se-\nlected for upload.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.127,
+                    "y": 0.0717
+                },
+                {
+                    "x": 0.6287,
+                    "y": 0.0717
+                },
+                {
+                    "x": 0.6287,
+                    "y": 0.1721
+                },
+                {
+                    "x": 0.127,
+                    "y": 0.1721
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "list",
+            "content": {
+                "html": "<br><p id='2' data-category='list' style='font-size:18px'>● Select YES to overwrite the existing<br>files.<br>● Select NO to rename the uploaded<br>files by adding numbers at the ends<br>of the file names (e.g., \"DSCF0001<br>(0).JPG\").</p>",
+                "markdown": "- ● Select YES to overwrite the existing\n- files.\n- ● Select NO to rename the uploaded\n- files by adding numbers at the ends\n- of the file names (e.g., \"DSCF0001\n- (0).JPG\").\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1582,
+                    "y": 0.175
+                },
+                {
+                    "x": 0.6311,
+                    "y": 0.175
+                },
+                {
+                    "x": 0.6311,
+                    "y": 0.327
+                },
+                {
+                    "x": 0.1582,
+                    "y": 0.327
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='3' data-category='paragraph' style='font-size:18px'>10 Name the FTP server settings.<br>The chosen name will appear in the<br>FTP server list.</p>",
+                "markdown": "10 Name the FTP server settings.\nThe chosen name will appear in the\nFTP server list.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1078,
+                    "y": 0.3396
+                },
+                {
+                    "x": 0.6282,
+                    "y": 0.3396
+                },
+                {
+                    "x": 0.6282,
+                    "y": 0.4156
+                },
+                {
+                    "x": 0.1078,
+                    "y": 0.4156
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='4' style='font-size:14px'><tr><td>OVERWRITE SAME YES</td><td>FILE NAME</td><td>▶</td></tr><tr><td>NO</td><td></td><td></td></tr></table>",
+                "markdown": "| OVERWRITE SAME YES | FILE NAME | ▶ |\n| --- | --- | --- |\n| NO |  |  |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6512,
+                    "y": 0.0711
+                },
+                {
+                    "x": 0.917,
+                    "y": 0.0711
+                },
+                {
+                    "x": 0.917,
+                    "y": 0.2187
+                },
+                {
+                    "x": 0.6512,
+                    "y": 0.2187
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='5' data-category='paragraph' style='font-size:14px'>FTP SERVER NAME</p>",
+                "markdown": "FTP SERVER NAME",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6788,
+                    "y": 0.344
+                },
+                {
+                    "x": 0.7715,
+                    "y": 0.344
+                },
+                {
+                    "x": 0.7715,
+                    "y": 0.3552
+                },
+                {
+                    "x": 0.6788,
+                    "y": 0.3552
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='6' style='font-size:16px'><tr><td></td><td>F TP</td><td></td><td>MEDIACENTER</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>SET</td><td></td><td>←</td><td></td><td>f</td><td>DEL g</td><td>h</td><td>A→a </td><td>「</td></tr><tr><td>a k</td><td>b </td><td>C</td><td>d</td><td>e O</td><td>p</td><td>q</td><td>r</td><td>S</td><td>t</td></tr><tr><td>u</td><td>V</td><td>m w</td><td>n X</td><td>y</td><td>Z</td><td></td><td>-</td><td>·</td><td></td></tr><tr><td>0</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td></tr></table>",
+                "markdown": "|  | F TP |  | MEDIACENTER |  |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n|  | SET |  | ← |  | f | DEL g | h | A→a  | 「 |\n| a k | b  | C | d | e O | p | q | r | S | t |\n| u | V | m w | n X | y | Z |  | - | · |  |\n| 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.665,
+                    "y": 0.3538
+                },
+                {
+                    "x": 0.9122,
+                    "y": 0.3538
+                },
+                {
+                    "x": 0.9122,
+                    "y": 0.4786
+                },
+                {
+                    "x": 0.665,
+                    "y": 0.4786
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<br><footer id='7' style='font-size:22px'>Network/USB<br>Setting<br>Menus</footer>",
+                "markdown": "Network/USB\nSetting\nMenus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9578,
+                    "y": 0.4303
+                },
+                {
+                    "x": 0.9795,
+                    "y": 0.4303
+                },
+                {
+                    "x": 0.9795,
+                    "y": 0.636
+                },
+                {
+                    "x": 0.9578,
+                    "y": 0.636
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='8' style='font-size:20px'>287</footer>",
+                "markdown": "287",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.8603,
+                    "y": 0.9559
+                },
+                {
+                    "x": 0.9174,
+                    "y": 0.9559
+                },
+                {
+                    "x": 0.9174,
+                    "y": 0.9792
+                },
+                {
+                    "x": 0.8603,
+                    "y": 0.9792
+                }
+            ],
+            "id": 8,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

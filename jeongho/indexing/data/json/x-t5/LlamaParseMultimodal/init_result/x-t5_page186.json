@@ -1,0 +1,86 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "\n# TOUCH SCREEN MODE\n\nChoose the shooting operations performed using touch controls.\n\n| Mode           | Description                                                                                                                                                                                                 |\n|----------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| !Touch Shooting Icon **TOUCH SHOOTING** | Tap your subject in the display to focus and release the shutter. In burst mode, pictures will be taken while you keep your finger on the display.                                                                 |\n| !AF Icon **AF**               | - In focus mode S (AF-S), the camera focuses when you tap your subject in the display. Focus locks at the current distance until you tap the **AF OFF** icon. <br> - In focus mode C (AF-C), the camera initiates focus when you tap your subject display. The camera will continue to adjust focus for changes in the distance to the subject until you tap the **AF OFF** icon. <br> - In manual focus mode (MF), you can tap the display to focus on the selected subject using autofocus. |\n| !AF OFF Icon **AF OFF**       |                                                                                                                                                                                                                             |\n| !Area Icon **AREA**           | Tap to select a point for focus or zoom. The focus frame will move to the selected point.                                                                                                                                    |\n| !Off Icon **OFF**             | Touch screen mode off.                                                                                                                                                                                                       |\n\n> 💡 **Note:**\n> - The behavior of the touch screen varies with the AF mode.\n> - To disable touch controls and hide the touch screen mode indicator, select **OFF** for **BUTTON/DIAL SETTING > TOUCH SCREEN SETTING > TOUCH SCREEN SETTING**.\n",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "TOUCH SCREEN MODE",
+                    "md": "# TOUCH SCREEN MODE"
+                },
+                {
+                    "type": "text",
+                    "value": "Choose the shooting operations performed using touch controls.",
+                    "md": "Choose the shooting operations performed using touch controls."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Mode",
+                            "Description"
+                        ],
+                        [
+                            "!Touch Shooting Icon **TOUCH SHOOTING**",
+                            "Tap your subject in the display to focus and release the shutter. In burst mode, pictures will be taken while you keep your finger on the display."
+                        ],
+                        [
+                            "!AF Icon **AF**",
+                            "- In focus mode S (AF-S), the camera focuses when you tap your subject in the display. Focus locks at the current distance until you tap the **AF OFF** icon. <br> - In focus mode C (AF-C), the camera initiates focus when you tap your subject display. The camera will continue to adjust focus for changes in the distance to the subject until you tap the **AF OFF** icon. <br> - In manual focus mode (MF), you can tap the display to focus on the selected subject using autofocus."
+                        ],
+                        [
+                            "!AF OFF Icon **AF OFF**",
+                            ""
+                        ],
+                        [
+                            "!Area Icon **AREA**",
+                            "Tap to select a point for focus or zoom. The focus frame will move to the selected point."
+                        ],
+                        [
+                            "!Off Icon **OFF**",
+                            "Touch screen mode off."
+                        ]
+                    ],
+                    "md": "| Mode           | Description                                                                                                                                                                                                 |\n|----------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| !Touch Shooting Icon **TOUCH SHOOTING** | Tap your subject in the display to focus and release the shutter. In burst mode, pictures will be taken while you keep your finger on the display.                                                                 |\n| !AF Icon **AF**               | - In focus mode S (AF-S), the camera focuses when you tap your subject in the display. Focus locks at the current distance until you tap the **AF OFF** icon. <br> - In focus mode C (AF-C), the camera initiates focus when you tap your subject display. The camera will continue to adjust focus for changes in the distance to the subject until you tap the **AF OFF** icon. <br> - In manual focus mode (MF), you can tap the display to focus on the selected subject using autofocus. |\n| !AF OFF Icon **AF OFF**       |                                                                                                                                                                                                                             |\n| !Area Icon **AREA**           | Tap to select a point for focus or zoom. The focus frame will move to the selected point.                                                                                                                                    |\n| !Off Icon **OFF**             | Touch screen mode off.                                                                                                                                                                                                       |",
+                    "isPerfectTable": true,
+                    "csv": "\"Mode\",\"Description\"\n\"!Touch Shooting Icon **TOUCH SHOOTING**\",\"Tap your subject in the display to focus and release the shutter. In burst mode, pictures will be taken while you keep your finger on the display.\"\n\"!AF Icon **AF**\",\"- In focus mode S (AF-S), the camera focuses when you tap your subject in the display. Focus locks at the current distance until you tap the **AF OFF** icon. <br> - In focus mode C (AF-C), the camera initiates focus when you tap your subject display. The camera will continue to adjust focus for changes in the distance to the subject until you tap the **AF OFF** icon. <br> - In manual focus mode (MF), you can tap the display to focus on the selected subject using autofocus.\"\n\"!AF OFF Icon **AF OFF**\",\"\"\n\"!Area Icon **AREA**\",\"Tap to select a point for focus or zoom. The focus frame will move to the selected point.\"\n\"!Off Icon **OFF**\",\"Touch screen mode off.\""
+                },
+                {
+                    "type": "text",
+                    "value": "> 💡 **Note:**\n> - The behavior of the touch screen varies with the AF mode.\n> - To disable touch controls and hide the touch screen mode indicator, select **OFF** for **BUTTON/DIAL SETTING > TOUCH SCREEN SETTING > TOUCH SCREEN SETTING**.",
+                    "md": "> 💡 **Note:**\n> - The behavior of the touch screen varies with the AF mode.\n> - To disable touch controls and hide the touch screen mode indicator, select **OFF** for **BUTTON/DIAL SETTING > TOUCH SCREEN SETTING > TOUCH SCREEN SETTING**."
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "parsingMode": "multimodal-openai-gpt4o",
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 412.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "d60bcd57-8419-48f3-a062-2682420e9871",
+    "file_path": "../data/raw_data/x-t5/x-t5_split/x-t5_page186.pdf"
+}

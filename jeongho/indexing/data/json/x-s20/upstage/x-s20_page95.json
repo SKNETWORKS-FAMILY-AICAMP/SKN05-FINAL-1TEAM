@@ -1,0 +1,182 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:14px'>Autofocus</header>\n<h1 id='1' style='font-size:18px'>Focus Mode AF-C (CONTINUOUS AF)</h1>\n<br><table id='2' style='font-size:16px'><tr><td>Option</td><td>Description</td><td>Sample image</td></tr><tr><td>SINGLE POINT</td><td>Focus tracks subject at selected fo- cus point. Use for subjects moving toward or away from camera.</td><td></td></tr><tr><td>[] ZONE</td><td>Camera tracks focus in selected fo- cus zone. Use for subjects that are moving fairly predictably.</td><td>■</td></tr><tr><td>TRACKING</td><td>Focus tracks subjects moving through wide area of frame.</td><td></td></tr><tr><td>ALL ALL</td><td colspan=\"2\">Rotate the rear command dial in the focus-point selection dis- play (1 �� 97, 98) to cycle through AF modes in the following order: SINGLE POINT, [] ZONE, and TRACKING.</td></tr></table>\n<br><footer id='3' style='font-size:16px'>5</footer>\n<br><footer id='4' style='font-size:22px'>Taking<br>Photographs</footer>\n<footer id='5' style='font-size:20px'>95</footer>",
+        "markdown": "Autofocus\n\n# Focus Mode AF-C (CONTINUOUS AF)\n\n| Option | Description | Sample image |\n| --- | --- | --- |\n| SINGLE POINT | Focus tracks subject at selected fo- cus point. Use for subjects moving toward or away from camera. |  |\n| [] ZONE | Camera tracks focus in selected fo- cus zone. Use for subjects that are moving fairly predictably. | ■ |\n| TRACKING | Focus tracks subjects moving through wide area of frame. |  |\n| ALL ALL | Rotate the rear command dial in the focus-point selection dis- play (1 �� 97, 98) to cycle through AF modes in the following order: SINGLE POINT, [] ZONE, and TRACKING. | Rotate the rear command dial in the focus-point selection dis- play (1 �� 97, 98) to cycle through AF modes in the following order: SINGLE POINT, [] ZONE, and TRACKING. |\n\n\n5\n\nTaking\nPhotographs\n\n95",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:14px'>Autofocus</header>",
+                "markdown": "Autofocus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.8122,
+                    "y": 0.029
+                },
+                {
+                    "x": 0.9187,
+                    "y": 0.029
+                },
+                {
+                    "x": 0.9187,
+                    "y": 0.0496
+                },
+                {
+                    "x": 0.8122,
+                    "y": 0.0496
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='1' style='font-size:18px'>Focus Mode AF-C (CONTINUOUS AF)</h1>",
+                "markdown": "# Focus Mode AF-C (CONTINUOUS AF)",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1056,
+                    "y": 0.0714
+                },
+                {
+                    "x": 0.4603,
+                    "y": 0.0714
+                },
+                {
+                    "x": 0.4603,
+                    "y": 0.0942
+                },
+                {
+                    "x": 0.1056,
+                    "y": 0.0942
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='2' style='font-size:16px'><tr><td>Option</td><td>Description</td><td>Sample image</td></tr><tr><td>SINGLE POINT</td><td>Focus tracks subject at selected fo- cus point. Use for subjects moving toward or away from camera.</td><td></td></tr><tr><td>[] ZONE</td><td>Camera tracks focus in selected fo- cus zone. Use for subjects that are moving fairly predictably.</td><td>■</td></tr><tr><td>TRACKING</td><td>Focus tracks subjects moving through wide area of frame.</td><td></td></tr><tr><td>ALL ALL</td><td colspan=\"2\">Rotate the rear command dial in the focus-point selection dis- play (1 �� 97, 98) to cycle through AF modes in the following order: SINGLE POINT, [] ZONE, and TRACKING.</td></tr></table>",
+                "markdown": "| Option | Description | Sample image |\n| --- | --- | --- |\n| SINGLE POINT | Focus tracks subject at selected fo- cus point. Use for subjects moving toward or away from camera. |  |\n| [] ZONE | Camera tracks focus in selected fo- cus zone. Use for subjects that are moving fairly predictably. | ■ |\n| TRACKING | Focus tracks subjects moving through wide area of frame. |  |\n| ALL ALL | Rotate the rear command dial in the focus-point selection dis- play (1 �� 97, 98) to cycle through AF modes in the following order: SINGLE POINT, [] ZONE, and TRACKING. | Rotate the rear command dial in the focus-point selection dis- play (1 �� 97, 98) to cycle through AF modes in the following order: SINGLE POINT, [] ZONE, and TRACKING. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1045,
+                    "y": 0.0917
+                },
+                {
+                    "x": 0.9159,
+                    "y": 0.0917
+                },
+                {
+                    "x": 0.9159,
+                    "y": 0.6001
+                },
+                {
+                    "x": 0.1045,
+                    "y": 0.6001
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<br><footer id='3' style='font-size:16px'>5</footer>",
+                "markdown": "5",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9577,
+                    "y": 0.4776
+                },
+                {
+                    "x": 0.9746,
+                    "y": 0.4776
+                },
+                {
+                    "x": 0.9746,
+                    "y": 0.4975
+                },
+                {
+                    "x": 0.9577,
+                    "y": 0.4975
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<br><footer id='4' style='font-size:22px'>Taking<br>Photographs</footer>",
+                "markdown": "Taking\nPhotographs",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9562,
+                    "y": 0.518
+                },
+                {
+                    "x": 0.9813,
+                    "y": 0.518
+                },
+                {
+                    "x": 0.9813,
+                    "y": 0.6654
+                },
+                {
+                    "x": 0.9562,
+                    "y": 0.6654
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='5' style='font-size:20px'>95</footer>",
+                "markdown": "95",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.8783,
+                    "y": 0.9572
+                },
+                {
+                    "x": 0.9168,
+                    "y": 0.9572
+                },
+                {
+                    "x": 0.9168,
+                    "y": 0.9793
+                },
+                {
+                    "x": 0.8783,
+                    "y": 0.9793
+                }
+            ],
+            "id": 5,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

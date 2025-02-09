@@ -1,0 +1,238 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:14px'>AF/MF SETTING (Still Photography)</header>\n<h1 id='1' style='font-size:16px'>[●] FACE/EYE DETECTION SETTING</h1>\n<br><p id='2' data-category='paragraph' style='font-size:18px'>If the camera detects human faces, it will<br>assign them priority over the background<br>and adjust settings appropriately for por-<br>traits when setting focus and exposure.<br>You can also choose whether the camera<br>focuses on the left or right eye when face<br>detection is on.</p>\n<br><figure id='3'><img style='font-size:14px' alt=\"인\" data-coord=\"top-left:(1763,404); bottom-right:(2531,909)\" /></figure>\n<table id='4' style='font-size:18px'><tr><td>Option</td><td>Description</td></tr><tr><td>FACE DETECTION ON</td><td>Adjust settings for Intelligent Face Detection. You can also adjust eye detection settings. EYE OFF: Intelligent Face Detection only. EYE AUTO: The camera automatically chooses which eye to focus on when a face is detected. OR RIGHT EYE PRIORITY: The camera focuses preferential- ly on the right eye of subjects detected using Intelligent Face Detection.  LEFT EYE PRIORITY: The camera focuses preferential- ly on the left eye of subjects detected using Intelligent Face Detection.</td></tr><tr><td>OFF</td><td>Intelligent Face Detection and eye priority off.</td></tr></table>\n<p id='5' data-category='list' style='font-size:14px'>If the subject moves as the shutter button is pressed, the face may<br>not be in the area indicated by the green border when the picture<br>is taken.<br>● In some modes, the camera may set exposure for the frame as a<br>whole rather than the portrait subject.<br>● Enabling Intelligent Face Detection via FACE DETECTION ON auto-<br>matically selects OFF for SUBJECT DETECTION SETTING.</p>\n<br><footer id='6' style='font-size:22px'>6<br>The<br>Shooting<br>Menus</footer>\n<footer id='7' style='font-size:20px'>151</footer>",
+        "markdown": "AF/MF SETTING (Still Photography)\n\n# [●] FACE/EYE DETECTION SETTING\n\nIf the camera detects human faces, it will\nassign them priority over the background\nand adjust settings appropriately for por-\ntraits when setting focus and exposure.\nYou can also choose whether the camera\nfocuses on the left or right eye when face\ndetection is on.\n\n![image](/image/placeholder)\n인\n\n| Option | Description |\n| --- | --- |\n| FACE DETECTION ON | Adjust settings for Intelligent Face Detection. You can also adjust eye detection settings. EYE OFF: Intelligent Face Detection only. EYE AUTO: The camera automatically chooses which eye to focus on when a face is detected. OR RIGHT EYE PRIORITY: The camera focuses preferential- ly on the right eye of subjects detected using Intelligent Face Detection.  LEFT EYE PRIORITY: The camera focuses preferential- ly on the left eye of subjects detected using Intelligent Face Detection. |\n| OFF | Intelligent Face Detection and eye priority off. |\n\n\n- If the subject moves as the shutter button is pressed, the face may\n- not be in the area indicated by the green border when the picture\n- is taken.\n- ● In some modes, the camera may set exposure for the frame as a\n- whole rather than the portrait subject.\n- ● Enabling Intelligent Face Detection via FACE DETECTION ON auto-\n- matically selects OFF for SUBJECT DETECTION SETTING.\n\n\n6\nThe\nShooting\nMenus\n\n151",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:14px'>AF/MF SETTING (Still Photography)</header>",
+                "markdown": "AF/MF SETTING (Still Photography)",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.5749,
+                    "y": 0.0284
+                },
+                {
+                    "x": 0.9167,
+                    "y": 0.0284
+                },
+                {
+                    "x": 0.9167,
+                    "y": 0.0515
+                },
+                {
+                    "x": 0.5749,
+                    "y": 0.0515
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='1' style='font-size:16px'>[●] FACE/EYE DETECTION SETTING</h1>",
+                "markdown": "# [●] FACE/EYE DETECTION SETTING",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1079,
+                    "y": 0.0736
+                },
+                {
+                    "x": 0.5653,
+                    "y": 0.0736
+                },
+                {
+                    "x": 0.5653,
+                    "y": 0.0949
+                },
+                {
+                    "x": 0.1079,
+                    "y": 0.0949
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='2' data-category='paragraph' style='font-size:18px'>If the camera detects human faces, it will<br>assign them priority over the background<br>and adjust settings appropriately for por-<br>traits when setting focus and exposure.<br>You can also choose whether the camera<br>focuses on the left or right eye when face<br>detection is on.</p>",
+                "markdown": "If the camera detects human faces, it will\nassign them priority over the background\nand adjust settings appropriately for por-\ntraits when setting focus and exposure.\nYou can also choose whether the camera\nfocuses on the left or right eye when face\ndetection is on.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1059,
+                    "y": 0.1037
+                },
+                {
+                    "x": 0.6298,
+                    "y": 0.1037
+                },
+                {
+                    "x": 0.6298,
+                    "y": 0.2822
+                },
+                {
+                    "x": 0.1059,
+                    "y": 0.2822
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "figure",
+            "content": {
+                "html": "<br><figure id='3'><img style='font-size:14px' alt=\"인\" data-coord=\"top-left:(1763,404); bottom-right:(2531,909)\" /></figure>",
+                "markdown": "![image](/image/placeholder)\n인",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6379,
+                    "y": 0.1038
+                },
+                {
+                    "x": 0.916,
+                    "y": 0.1038
+                },
+                {
+                    "x": 0.916,
+                    "y": 0.2332
+                },
+                {
+                    "x": 0.6379,
+                    "y": 0.2332
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='4' style='font-size:18px'><tr><td>Option</td><td>Description</td></tr><tr><td>FACE DETECTION ON</td><td>Adjust settings for Intelligent Face Detection. You can also adjust eye detection settings. EYE OFF: Intelligent Face Detection only. EYE AUTO: The camera automatically chooses which eye to focus on when a face is detected. OR RIGHT EYE PRIORITY: The camera focuses preferential- ly on the right eye of subjects detected using Intelligent Face Detection.  LEFT EYE PRIORITY: The camera focuses preferential- ly on the left eye of subjects detected using Intelligent Face Detection.</td></tr><tr><td>OFF</td><td>Intelligent Face Detection and eye priority off.</td></tr></table>",
+                "markdown": "| Option | Description |\n| --- | --- |\n| FACE DETECTION ON | Adjust settings for Intelligent Face Detection. You can also adjust eye detection settings. EYE OFF: Intelligent Face Detection only. EYE AUTO: The camera automatically chooses which eye to focus on when a face is detected. OR RIGHT EYE PRIORITY: The camera focuses preferential- ly on the right eye of subjects detected using Intelligent Face Detection.  LEFT EYE PRIORITY: The camera focuses preferential- ly on the left eye of subjects detected using Intelligent Face Detection. |\n| OFF | Intelligent Face Detection and eye priority off. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1069,
+                    "y": 0.2973
+                },
+                {
+                    "x": 0.9215,
+                    "y": 0.2973
+                },
+                {
+                    "x": 0.9215,
+                    "y": 0.6041
+                },
+                {
+                    "x": 0.1069,
+                    "y": 0.6041
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "list",
+            "content": {
+                "html": "<p id='5' data-category='list' style='font-size:14px'>If the subject moves as the shutter button is pressed, the face may<br>not be in the area indicated by the green border when the picture<br>is taken.<br>● In some modes, the camera may set exposure for the frame as a<br>whole rather than the portrait subject.<br>● Enabling Intelligent Face Detection via FACE DETECTION ON auto-<br>matically selects OFF for SUBJECT DETECTION SETTING.</p>",
+                "markdown": "- If the subject moves as the shutter button is pressed, the face may\n- not be in the area indicated by the green border when the picture\n- is taken.\n- ● In some modes, the camera may set exposure for the frame as a\n- whole rather than the portrait subject.\n- ● Enabling Intelligent Face Detection via FACE DETECTION ON auto-\n- matically selects OFF for SUBJECT DETECTION SETTING.\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.132,
+                    "y": 0.6119
+                },
+                {
+                    "x": 0.9161,
+                    "y": 0.6119
+                },
+                {
+                    "x": 0.9161,
+                    "y": 0.7716
+                },
+                {
+                    "x": 0.132,
+                    "y": 0.7716
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<br><footer id='6' style='font-size:22px'>6<br>The<br>Shooting<br>Menus</footer>",
+                "markdown": "6\nThe\nShooting\nMenus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9565,
+                    "y": 0.5432
+                },
+                {
+                    "x": 0.9831,
+                    "y": 0.5432
+                },
+                {
+                    "x": 0.9831,
+                    "y": 0.731
+                },
+                {
+                    "x": 0.9565,
+                    "y": 0.731
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='7' style='font-size:20px'>151</footer>",
+                "markdown": "151",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.8624,
+                    "y": 0.9567
+                },
+                {
+                    "x": 0.9151,
+                    "y": 0.9567
+                },
+                {
+                    "x": 0.9151,
+                    "y": 0.979
+                },
+                {
+                    "x": 0.8624,
+                    "y": 0.979
+                }
+            ],
+            "id": 7,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

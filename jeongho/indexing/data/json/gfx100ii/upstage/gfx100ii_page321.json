@@ -1,0 +1,434 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:14px'>Network/USB Setting Menus</header>\n<h1 id='1' style='font-size:18px'>Bluetooth ON/OFF</h1>\n<br><p id='2' data-category='paragraph' style='font-size:20px'>If ON is selected, the camera will automatically connect with<br>paired smartphones or tablets running the smartphone app.</p>\n<br><table id='3' style='font-size:16px'><tr><td colspan=\"2\">Options</td></tr><tr><td>ON</td><td>OFF</td></tr></table>\n<h1 id='4' style='font-size:16px'>AUTO IMAGE TRANSFER ORDER</h1>\n\n<br><table id='6' style='font-size:16px'><tr><td colspan=\"2\">Options</td></tr><tr><td>ON</td><td>OFF</td></tr><br><caption id='5' style='font-size:20px'>Select ON to upload pictures automatically as they are taken.</caption></table>\n<p id='7' data-category='paragraph' style='font-size:18px'>SMARTPHONE LOCATION SYNC.</p>\n\n<table id='9' style='font-size:14px'><tr><td rowspan=\"2\" colspan=\"2\">Options</td></tr><tr></tr><tr><td>ON</td><td>OFF</td></tr><br><caption id='8' style='font-size:20px'>Select ON to enable ongoing download of location data from<br>paired smartphones or tablets.</caption></table>\n<p id='10' data-category='paragraph' style='font-size:14px'>Location data will only be downloaded while the smartphone app is<br>running. Download will be interrupted if pairing is ended. The camera<br>location data icon will be displayed in red if location data have not<br>been updated for over 30 minutes.</p>\n<p id='11' data-category='paragraph' style='font-size:16px'>NAME</p>\n<br><p id='12' data-category='paragraph' style='font-size:18px'>Choose a name (NAME) to identify the camera on the wireless<br>network (the camera is assigned a unique name by default).</p>\n<br><footer id='13' style='font-size:22px'>Network/USB<br>Setting<br>Menus</footer>\n<footer id='14' style='font-size:22px'>321</footer>",
+        "markdown": "Network/USB Setting Menus\n\n# Bluetooth ON/OFF\n\nIf ON is selected, the camera will automatically connect with\npaired smartphones or tablets running the smartphone app.\n\n| Options | Options |\n| --- | --- |\n| ON | OFF |\n\n\n# AUTO IMAGE TRANSFER ORDER\n\nSelect ON to upload pictures automatically as they are taken.\n\n| Options | Options |\n| --- | --- |\n| ON | OFF |\n\n\nSMARTPHONE LOCATION SYNC.\n\nSelect ON to enable ongoing download of location data from\npaired smartphones or tablets.\n\n| Options | Options |\n| --- | --- |\n| Options | Options |\n| ON | OFF |\n\n\nLocation data will only be downloaded while the smartphone app is\nrunning. Download will be interrupted if pairing is ended. The camera\nlocation data icon will be displayed in red if location data have not\nbeen updated for over 30 minutes.\n\nNAME\n\nChoose a name (NAME) to identify the camera on the wireless\nnetwork (the camera is assigned a unique name by default).\n\nNetwork/USB\nSetting\nMenus\n\n321",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:14px'>Network/USB Setting Menus</header>",
+                "markdown": "Network/USB Setting Menus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6349,
+                    "y": 0.0283
+                },
+                {
+                    "x": 0.9186,
+                    "y": 0.0283
+                },
+                {
+                    "x": 0.9186,
+                    "y": 0.0508
+                },
+                {
+                    "x": 0.6349,
+                    "y": 0.0508
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='1' style='font-size:18px'>Bluetooth ON/OFF</h1>",
+                "markdown": "# Bluetooth ON/OFF",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1182,
+                    "y": 0.074
+                },
+                {
+                    "x": 0.3548,
+                    "y": 0.074
+                },
+                {
+                    "x": 0.3548,
+                    "y": 0.0973
+                },
+                {
+                    "x": 0.1182,
+                    "y": 0.0973
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='2' data-category='paragraph' style='font-size:20px'>If ON is selected, the camera will automatically connect with<br>paired smartphones or tablets running the smartphone app.</p>",
+                "markdown": "If ON is selected, the camera will automatically connect with\npaired smartphones or tablets running the smartphone app.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1062,
+                    "y": 0.1036
+                },
+                {
+                    "x": 0.9174,
+                    "y": 0.1036
+                },
+                {
+                    "x": 0.9174,
+                    "y": 0.1559
+                },
+                {
+                    "x": 0.1062,
+                    "y": 0.1559
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='3' style='font-size:16px'><tr><td colspan=\"2\">Options</td></tr><tr><td>ON</td><td>OFF</td></tr></table>",
+                "markdown": "| Options | Options |\n| --- | --- |\n| ON | OFF |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1079,
+                    "y": 0.169
+                },
+                {
+                    "x": 0.9164,
+                    "y": 0.169
+                },
+                {
+                    "x": 0.9164,
+                    "y": 0.2224
+                },
+                {
+                    "x": 0.1079,
+                    "y": 0.2224
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='4' style='font-size:16px'>AUTO IMAGE TRANSFER ORDER</h1>",
+                "markdown": "# AUTO IMAGE TRANSFER ORDER",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1152,
+                    "y": 0.2409
+                },
+                {
+                    "x": 0.5062,
+                    "y": 0.2409
+                },
+                {
+                    "x": 0.5062,
+                    "y": 0.2655
+                },
+                {
+                    "x": 0.1152,
+                    "y": 0.2655
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='5' data-category='paragraph' style='font-size:20px'>Select ON to upload pictures automatically as they are taken.</p>",
+                "markdown": "Select ON to upload pictures automatically as they are taken.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1055,
+                    "y": 0.2721
+                },
+                {
+                    "x": 0.8758,
+                    "y": 0.2721
+                },
+                {
+                    "x": 0.8758,
+                    "y": 0.2965
+                },
+                {
+                    "x": 0.1055,
+                    "y": 0.2965
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='6' style='font-size:16px'><tr><td colspan=\"2\">Options</td></tr><tr><td>ON</td><td>OFF</td></tr></table>",
+                "markdown": "| Options | Options |\n| --- | --- |\n| ON | OFF |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.108,
+                    "y": 0.3102
+                },
+                {
+                    "x": 0.9165,
+                    "y": 0.3102
+                },
+                {
+                    "x": 0.9165,
+                    "y": 0.3646
+                },
+                {
+                    "x": 0.108,
+                    "y": 0.3646
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='7' data-category='paragraph' style='font-size:18px'>SMARTPHONE LOCATION SYNC.</p>",
+                "markdown": "SMARTPHONE LOCATION SYNC.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1133,
+                    "y": 0.3819
+                },
+                {
+                    "x": 0.5082,
+                    "y": 0.3819
+                },
+                {
+                    "x": 0.5082,
+                    "y": 0.4071
+                },
+                {
+                    "x": 0.1133,
+                    "y": 0.4071
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='8' data-category='paragraph' style='font-size:20px'>Select ON to enable ongoing download of location data from<br>paired smartphones or tablets.</p>",
+                "markdown": "Select ON to enable ongoing download of location data from\npaired smartphones or tablets.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1065,
+                    "y": 0.4139
+                },
+                {
+                    "x": 0.916,
+                    "y": 0.4139
+                },
+                {
+                    "x": 0.916,
+                    "y": 0.4635
+                },
+                {
+                    "x": 0.1065,
+                    "y": 0.4635
+                }
+            ],
+            "id": 8,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='9' style='font-size:14px'><tr><td rowspan=\"2\" colspan=\"2\">Options</td></tr><tr></tr><tr><td>ON</td><td>OFF</td></tr></table>",
+                "markdown": "| Options | Options |\n| --- | --- |\n| Options | Options |\n| ON | OFF |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1191,
+                    "y": 0.4777
+                },
+                {
+                    "x": 0.9142,
+                    "y": 0.4777
+                },
+                {
+                    "x": 0.9142,
+                    "y": 0.5312
+                },
+                {
+                    "x": 0.1191,
+                    "y": 0.5312
+                }
+            ],
+            "id": 9,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='10' data-category='paragraph' style='font-size:14px'>Location data will only be downloaded while the smartphone app is<br>running. Download will be interrupted if pairing is ended. The camera<br>location data icon will be displayed in red if location data have not<br>been updated for over 30 minutes.</p>",
+                "markdown": "Location data will only be downloaded while the smartphone app is\nrunning. Download will be interrupted if pairing is ended. The camera\nlocation data icon will be displayed in red if location data have not\nbeen updated for over 30 minutes.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1133,
+                    "y": 0.5515
+                },
+                {
+                    "x": 0.9157,
+                    "y": 0.5515
+                },
+                {
+                    "x": 0.9157,
+                    "y": 0.6421
+                },
+                {
+                    "x": 0.1133,
+                    "y": 0.6421
+                }
+            ],
+            "id": 10,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='11' data-category='paragraph' style='font-size:16px'>NAME</p>",
+                "markdown": "NAME",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1258,
+                    "y": 0.6648
+                },
+                {
+                    "x": 0.2059,
+                    "y": 0.6648
+                },
+                {
+                    "x": 0.2059,
+                    "y": 0.6863
+                },
+                {
+                    "x": 0.1258,
+                    "y": 0.6863
+                }
+            ],
+            "id": 11,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='12' data-category='paragraph' style='font-size:18px'>Choose a name (NAME) to identify the camera on the wireless<br>network (the camera is assigned a unique name by default).</p>",
+                "markdown": "Choose a name (NAME) to identify the camera on the wireless\nnetwork (the camera is assigned a unique name by default).",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1067,
+                    "y": 0.6955
+                },
+                {
+                    "x": 0.917,
+                    "y": 0.6955
+                },
+                {
+                    "x": 0.917,
+                    "y": 0.7461
+                },
+                {
+                    "x": 0.1067,
+                    "y": 0.7461
+                }
+            ],
+            "id": 12,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<br><footer id='13' style='font-size:22px'>Network/USB<br>Setting<br>Menus</footer>",
+                "markdown": "Network/USB\nSetting\nMenus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9567,
+                    "y": 0.4288
+                },
+                {
+                    "x": 0.9804,
+                    "y": 0.4288
+                },
+                {
+                    "x": 0.9804,
+                    "y": 0.6367
+                },
+                {
+                    "x": 0.9567,
+                    "y": 0.6367
+                }
+            ],
+            "id": 13,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='14' style='font-size:22px'>321</footer>",
+                "markdown": "321",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.8606,
+                    "y": 0.9565
+                },
+                {
+                    "x": 0.9149,
+                    "y": 0.9565
+                },
+                {
+                    "x": 0.9149,
+                    "y": 0.9792
+                },
+                {
+                    "x": 0.8606,
+                    "y": 0.9792
+                }
+            ],
+            "id": 14,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

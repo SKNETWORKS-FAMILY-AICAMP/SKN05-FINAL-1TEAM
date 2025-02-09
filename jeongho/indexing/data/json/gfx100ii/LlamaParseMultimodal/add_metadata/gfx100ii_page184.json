@@ -1,0 +1,8 @@
+{
+    "parsing_result": "\n## PROXY SETTING (ONLY WHEN REC ProRes)\n\nChoose whether the camera simultaneously records a duplicate “proxy” video with movies shot in ProRes format.\n\n| Option            | Description                                |\n|-------------------|--------------------------------------------|\n| ON (H.264)        | Record proxy videos in H.264 format.       |\n| ON (ProRes Proxy) | Record proxy videos in ProRes Proxy format.|\n| OFF               | Proxy recording disabled.                  |\n\n> 💡 **Note:**\n> - Proxy recording is not available at a frame size of 8K if the frame rate is either 29.97P or 25P.\n> - Deleting the original footage from the camera also deletes the proxy video. The original and proxy videos cannot be deleted separately.\n> - When deleting movies from camera memory cards using a computer, be sure to delete both the originals and the proxies.\n\n## HDMI OUTPUT SETTING\n\nAdjust settings for use when the shooting display is output to an HDMI device.\n\n### HDMI OUTPUT INFO DISPLAY\n\nIf **ON** is selected, HDMI devices to which the camera is connected will mirror the information in the camera display.\n\n| Options |        |\n|---------|--------|\n| ON      | OFF    |\n\n### HDMI REC CONTROL\n\nChoose whether the camera sends movie start and stop signals to the HDMI device when the shutter button is pressed to start and stop movie recording.\n\n| Options |        |\n|---------|--------|\n| ON      | OFF    |\n",
+    "embedding_result": [],
+    "metadata": {
+        "page": 184,
+        "model": "gfx100ii"
+    }
+}

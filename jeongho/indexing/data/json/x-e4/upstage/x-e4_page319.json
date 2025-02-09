@@ -1,0 +1,126 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<p id='0' data-category='paragraph' style='font-size:18px'>Troubleshooting</p>\n<table id='1' style='font-size:14px'><tr><td>Problem</td><td>Solution</td></tr><tr><td>Pictures are mottled.</td><td>Shutter speed is slow and the ambient temperature is high: This is normal and does not indicate a malfunction. Use pixel mapping ( ≡ 117). * X-rays, cosmic rays, and other forms of radiation interacting with the image sensor may cause bright spots of various col- ors such as white, red, and blue. Pixel mapping helps reduce the occurrence of such bright spots. The camera has been used continuously at high temperatures: Turn the camera off and wait for it to cool down (□□ 35, 327). A temperature warning is displayed: Turn the camera off and wait for it to cool down (□□ 35, 327).</td></tr></table>\n<footer id='2' style='font-size:20px'>Technical<br>Notes<br>12</footer>\n<footer id='3' style='font-size:16px'>3 19</footer>",
+        "markdown": "Troubleshooting\n\n| Problem | Solution |\n| --- | --- |\n| Pictures are mottled. | Shutter speed is slow and the ambient temperature is high: This is normal and does not indicate a malfunction. Use pixel mapping ( ≡ 117). * X-rays, cosmic rays, and other forms of radiation interacting with the image sensor may cause bright spots of various col- ors such as white, red, and blue. Pixel mapping helps reduce the occurrence of such bright spots. The camera has been used continuously at high temperatures: Turn the camera off and wait for it to cool down (□□ 35, 327). A temperature warning is displayed: Turn the camera off and wait for it to cool down (□□ 35, 327). |\n\n\nTechnical\nNotes\n12\n\n3 19",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='0' data-category='paragraph' style='font-size:18px'>Troubleshooting</p>",
+                "markdown": "Troubleshooting",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.7509,
+                    "y": 0.0288
+                },
+                {
+                    "x": 0.9177,
+                    "y": 0.0288
+                },
+                {
+                    "x": 0.9177,
+                    "y": 0.0509
+                },
+                {
+                    "x": 0.7509,
+                    "y": 0.0509
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='1' style='font-size:14px'><tr><td>Problem</td><td>Solution</td></tr><tr><td>Pictures are mottled.</td><td>Shutter speed is slow and the ambient temperature is high: This is normal and does not indicate a malfunction. Use pixel mapping ( ≡ 117). * X-rays, cosmic rays, and other forms of radiation interacting with the image sensor may cause bright spots of various col- ors such as white, red, and blue. Pixel mapping helps reduce the occurrence of such bright spots. The camera has been used continuously at high temperatures: Turn the camera off and wait for it to cool down (□□ 35, 327). A temperature warning is displayed: Turn the camera off and wait for it to cool down (□□ 35, 327).</td></tr></table>",
+                "markdown": "| Problem | Solution |\n| --- | --- |\n| Pictures are mottled. | Shutter speed is slow and the ambient temperature is high: This is normal and does not indicate a malfunction. Use pixel mapping ( ≡ 117). * X-rays, cosmic rays, and other forms of radiation interacting with the image sensor may cause bright spots of various col- ors such as white, red, and blue. Pixel mapping helps reduce the occurrence of such bright spots. The camera has been used continuously at high temperatures: Turn the camera off and wait for it to cool down (□□ 35, 327). A temperature warning is displayed: Turn the camera off and wait for it to cool down (□□ 35, 327). |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1054,
+                    "y": 0.0701
+                },
+                {
+                    "x": 0.9229,
+                    "y": 0.0701
+                },
+                {
+                    "x": 0.9229,
+                    "y": 0.3872
+                },
+                {
+                    "x": 0.1054,
+                    "y": 0.3872
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='2' style='font-size:20px'>Technical<br>Notes<br>12</footer>",
+                "markdown": "Technical\nNotes\n12",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9574,
+                    "y": 0.7597
+                },
+                {
+                    "x": 0.9855,
+                    "y": 0.7597
+                },
+                {
+                    "x": 0.9855,
+                    "y": 0.9148
+                },
+                {
+                    "x": 0.9574,
+                    "y": 0.9148
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='3' style='font-size:16px'>3 19</footer>",
+                "markdown": "3 19",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.8614,
+                    "y": 0.9566
+                },
+                {
+                    "x": 0.9174,
+                    "y": 0.9566
+                },
+                {
+                    "x": 0.9174,
+                    "y": 0.979
+                },
+                {
+                    "x": 0.8614,
+                    "y": 0.979
+                }
+            ],
+            "id": 3,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

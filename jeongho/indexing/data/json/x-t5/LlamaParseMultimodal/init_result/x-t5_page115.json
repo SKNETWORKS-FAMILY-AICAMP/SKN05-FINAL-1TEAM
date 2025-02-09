@@ -1,0 +1,49 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "# Autofocus\n\nAlthough the camera boasts a high-precision autofocus system, it may be unable to focus on the subjects listed below.\n\n- Very shiny subjects such as mirrors or car bodies.\n- Subjects photographed through a window or other reflective object.\n- Dark subjects and subjects that absorb rather than reflect light, such as hair or fur.\n- Insubstantial subjects, such as smoke or flame.\n- Subjects that show little contrast with the background.\n- Subjects positioned in front of or behind a high-contrast object that is also in the focus frame (for example, a subject photographed against a backdrop of highly contrasting elements).",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "Autofocus",
+                    "md": "# Autofocus"
+                },
+                {
+                    "type": "text",
+                    "value": "Although the camera boasts a high-precision autofocus system, it may be unable to focus on the subjects listed below.\n\n- Very shiny subjects such as mirrors or car bodies.\n- Subjects photographed through a window or other reflective object.\n- Dark subjects and subjects that absorb rather than reflect light, such as hair or fur.\n- Insubstantial subjects, such as smoke or flame.\n- Subjects that show little contrast with the background.\n- Subjects positioned in front of or behind a high-contrast object that is also in the focus frame (for example, a subject photographed against a backdrop of highly contrasting elements).",
+                    "md": "Although the camera boasts a high-precision autofocus system, it may be unable to focus on the subjects listed below.\n\n- Very shiny subjects such as mirrors or car bodies.\n- Subjects photographed through a window or other reflective object.\n- Dark subjects and subjects that absorb rather than reflect light, such as hair or fur.\n- Insubstantial subjects, such as smoke or flame.\n- Subjects that show little contrast with the background.\n- Subjects positioned in front of or behind a high-contrast object that is also in the focus frame (for example, a subject photographed against a backdrop of highly contrasting elements)."
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "parsingMode": "multimodal-openai-gpt4o",
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 735.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "ff6f3aa3-54eb-474d-8e02-002b7d51a9b9",
+    "file_path": "../data/raw_data/x-t5/x-t5_split/x-t5_page115.pdf"
+}

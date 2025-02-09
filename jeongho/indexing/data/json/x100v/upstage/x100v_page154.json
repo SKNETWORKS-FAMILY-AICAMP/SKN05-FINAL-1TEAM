@@ -1,0 +1,378 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:14px'>FLASH SETTING</header>\n<h1 id='1' style='font-size:18px'>MASTER SETTING</h1>\n\n<table id='3' style='font-size:14px'><tr><td colspan=\"4\">Options</td></tr><tr><td>GrA</td><td>Gr B</td><td>Gr C</td><td>OFF</td></tr><br><caption id='2' style='font-size:18px'>Choose a flash group (A, B, or C) for the flash mounted on the<br>camera hot shoe when it functions as a master flash controlling<br>remote flash units via Fujifilm wireless optical flash control, or<br>choose OFF to limit master flash output to a level that does not<br>affect the final picture.</caption></table>\n<br><p id='4' data-category='paragraph' style='font-size:14px'>In some cases, this option can also be accessed via the FLASH FUNCTION<br>SETTING menu.</p>\n<p id='5' data-category='paragraph' style='font-size:18px'>CH SETTING</p>\n<br><p id='6' data-category='paragraph' style='font-size:20px'>Choose the channel used for communication between the mas-<br>ter flash and remote flash units when using Fujifilm optical wire-<br>less flash control. Separate channels can be used for different<br>flash systems or to prevent interference when multiple systems<br>are operating in close proximity.</p>\n<br><table id='7' style='font-size:16px'><tr><td colspan=\"4\">Options</td></tr><tr><td>CH1</td><td>CH2</td><td>CH3</td><td>CH4</td></tr></table>\n\n<br><p id='9' data-category='paragraph' style='font-size:18px'>Enable or disable the built-in flash.</p>\n<br><header id='10' style='font-size:22px'>The<br>Shooting<br>Menus</header>\n<br><table id='11' style='font-size:16px'><tr><td>Option</td><td>Description</td></tr><tr><td>ON</td><td>Enable the built-in flash.</td></tr><tr><td>OFF</td><td>Disable the built-in flash. Choose this option when using op- tional flash units mounted on the camera hot shoe or con- nected via sync cable.</td></tr><br><caption id='8' style='font-size:20px'>Built-In Flash</caption></table>\n<footer id='12' style='font-size:22px'>154</footer>",
+        "markdown": "FLASH SETTING\n\n# MASTER SETTING\n\nChoose a flash group (A, B, or C) for the flash mounted on the\ncamera hot shoe when it functions as a master flash controlling\nremote flash units via Fujifilm wireless optical flash control, or\nchoose OFF to limit master flash output to a level that does not\naffect the final picture.\n\n| Options | Options | Options | Options |\n| --- | --- | --- | --- |\n| GrA | Gr B | Gr C | OFF |\n\n\nIn some cases, this option can also be accessed via the FLASH FUNCTION\nSETTING menu.\n\nCH SETTING\n\nChoose the channel used for communication between the mas-\nter flash and remote flash units when using Fujifilm optical wire-\nless flash control. Separate channels can be used for different\nflash systems or to prevent interference when multiple systems\nare operating in close proximity.\n\n| Options | Options | Options | Options |\n| --- | --- | --- | --- |\n| CH1 | CH2 | CH3 | CH4 |\n\n\nBuilt-In Flash\n\nEnable or disable the built-in flash.\n\nThe\nShooting\nMenus\n\n| Option | Description |\n| --- | --- |\n| ON | Enable the built-in flash. |\n| OFF | Disable the built-in flash. Choose this option when using op- tional flash units mounted on the camera hot shoe or con- nected via sync cable. |\n\n\n154",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:14px'>FLASH SETTING</header>",
+                "markdown": "FLASH SETTING",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.7339,
+                    "y": 0.0287
+                },
+                {
+                    "x": 0.8925,
+                    "y": 0.0287
+                },
+                {
+                    "x": 0.8925,
+                    "y": 0.0492
+                },
+                {
+                    "x": 0.7339,
+                    "y": 0.0492
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='1' style='font-size:18px'>MASTER SETTING</h1>",
+                "markdown": "# MASTER SETTING",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0818,
+                    "y": 0.073
+                },
+                {
+                    "x": 0.3239,
+                    "y": 0.073
+                },
+                {
+                    "x": 0.3239,
+                    "y": 0.0946
+                },
+                {
+                    "x": 0.0818,
+                    "y": 0.0946
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='2' data-category='paragraph' style='font-size:18px'>Choose a flash group (A, B, or C) for the flash mounted on the<br>camera hot shoe when it functions as a master flash controlling<br>remote flash units via Fujifilm wireless optical flash control, or<br>choose OFF to limit master flash output to a level that does not<br>affect the final picture.</p>",
+                "markdown": "Choose a flash group (A, B, or C) for the flash mounted on the\ncamera hot shoe when it functions as a master flash controlling\nremote flash units via Fujifilm wireless optical flash control, or\nchoose OFF to limit master flash output to a level that does not\naffect the final picture.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0809,
+                    "y": 0.1043
+                },
+                {
+                    "x": 0.8944,
+                    "y": 0.1043
+                },
+                {
+                    "x": 0.8944,
+                    "y": 0.2305
+                },
+                {
+                    "x": 0.0809,
+                    "y": 0.2305
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='3' style='font-size:14px'><tr><td colspan=\"4\">Options</td></tr><tr><td>GrA</td><td>Gr B</td><td>Gr C</td><td>OFF</td></tr></table>",
+                "markdown": "| Options | Options | Options | Options |\n| --- | --- | --- | --- |\n| GrA | Gr B | Gr C | OFF |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1134,
+                    "y": 0.2438
+                },
+                {
+                    "x": 0.8835,
+                    "y": 0.2438
+                },
+                {
+                    "x": 0.8835,
+                    "y": 0.2958
+                },
+                {
+                    "x": 0.1134,
+                    "y": 0.2958
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='4' data-category='paragraph' style='font-size:14px'>In some cases, this option can also be accessed via the FLASH FUNCTION<br>SETTING menu.</p>",
+                "markdown": "In some cases, this option can also be accessed via the FLASH FUNCTION\nSETTING menu.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0871,
+                    "y": 0.3056
+                },
+                {
+                    "x": 0.8895,
+                    "y": 0.3056
+                },
+                {
+                    "x": 0.8895,
+                    "y": 0.3498
+                },
+                {
+                    "x": 0.0871,
+                    "y": 0.3498
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='5' data-category='paragraph' style='font-size:18px'>CH SETTING</p>",
+                "markdown": "CH SETTING",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0823,
+                    "y": 0.3706
+                },
+                {
+                    "x": 0.2507,
+                    "y": 0.3706
+                },
+                {
+                    "x": 0.2507,
+                    "y": 0.3931
+                },
+                {
+                    "x": 0.0823,
+                    "y": 0.3931
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='6' data-category='paragraph' style='font-size:20px'>Choose the channel used for communication between the mas-<br>ter flash and remote flash units when using Fujifilm optical wire-<br>less flash control. Separate channels can be used for different<br>flash systems or to prevent interference when multiple systems<br>are operating in close proximity.</p>",
+                "markdown": "Choose the channel used for communication between the mas-\nter flash and remote flash units when using Fujifilm optical wire-\nless flash control. Separate channels can be used for different\nflash systems or to prevent interference when multiple systems\nare operating in close proximity.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.08,
+                    "y": 0.4019
+                },
+                {
+                    "x": 0.8933,
+                    "y": 0.4019
+                },
+                {
+                    "x": 0.8933,
+                    "y": 0.5304
+                },
+                {
+                    "x": 0.08,
+                    "y": 0.5304
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='7' style='font-size:16px'><tr><td colspan=\"4\">Options</td></tr><tr><td>CH1</td><td>CH2</td><td>CH3</td><td>CH4</td></tr></table>",
+                "markdown": "| Options | Options | Options | Options |\n| --- | --- | --- | --- |\n| CH1 | CH2 | CH3 | CH4 |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0911,
+                    "y": 0.5413
+                },
+                {
+                    "x": 0.8916,
+                    "y": 0.5413
+                },
+                {
+                    "x": 0.8916,
+                    "y": 0.5944
+                },
+                {
+                    "x": 0.0911,
+                    "y": 0.5944
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='8' data-category='paragraph' style='font-size:20px'>Built-In Flash</p>",
+                "markdown": "Built-In Flash",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.082,
+                    "y": 0.6099
+                },
+                {
+                    "x": 0.2657,
+                    "y": 0.6099
+                },
+                {
+                    "x": 0.2657,
+                    "y": 0.6321
+                },
+                {
+                    "x": 0.082,
+                    "y": 0.6321
+                }
+            ],
+            "id": 8,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='9' data-category='paragraph' style='font-size:18px'>Enable or disable the built-in flash.</p>",
+                "markdown": "Enable or disable the built-in flash.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.081,
+                    "y": 0.6397
+                },
+                {
+                    "x": 0.5192,
+                    "y": 0.6397
+                },
+                {
+                    "x": 0.5192,
+                    "y": 0.6655
+                },
+                {
+                    "x": 0.081,
+                    "y": 0.6655
+                }
+            ],
+            "id": 9,
+            "page": 1
+        },
+        {
+            "category": "header",
+            "content": {
+                "html": "<br><header id='10' style='font-size:22px'>The<br>Shooting<br>Menus</header>",
+                "markdown": "The\nShooting\nMenus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0157,
+                    "y": 0.5754
+                },
+                {
+                    "x": 0.0421,
+                    "y": 0.5754
+                },
+                {
+                    "x": 0.0421,
+                    "y": 0.7302
+                },
+                {
+                    "x": 0.0157,
+                    "y": 0.7302
+                }
+            ],
+            "id": 10,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='11' style='font-size:16px'><tr><td>Option</td><td>Description</td></tr><tr><td>ON</td><td>Enable the built-in flash.</td></tr><tr><td>OFF</td><td>Disable the built-in flash. Choose this option when using op- tional flash units mounted on the camera hot shoe or con- nected via sync cable.</td></tr></table>",
+                "markdown": "| Option | Description |\n| --- | --- |\n| ON | Enable the built-in flash. |\n| OFF | Disable the built-in flash. Choose this option when using op- tional flash units mounted on the camera hot shoe or con- nected via sync cable. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0881,
+                    "y": 0.6782
+                },
+                {
+                    "x": 0.8949,
+                    "y": 0.6782
+                },
+                {
+                    "x": 0.8949,
+                    "y": 0.7994
+                },
+                {
+                    "x": 0.0881,
+                    "y": 0.7994
+                }
+            ],
+            "id": 11,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='12' style='font-size:22px'>154</footer>",
+                "markdown": "154",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0849,
+                    "y": 0.957
+                },
+                {
+                    "x": 0.1402,
+                    "y": 0.957
+                },
+                {
+                    "x": 0.1402,
+                    "y": 0.9793
+                },
+                {
+                    "x": 0.0849,
+                    "y": 0.9793
+                }
+            ],
+            "id": 12,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

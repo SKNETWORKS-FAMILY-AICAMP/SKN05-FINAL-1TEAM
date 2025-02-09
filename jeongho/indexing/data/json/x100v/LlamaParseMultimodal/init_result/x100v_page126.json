@@ -1,0 +1,123 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "# RAW RECORDING\n\nChoose whether to compress RAW images.\n\n| Option             | Description                                                                                                                                          |\n|--------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|\n| UNCOMPRESSED       | RAW images are not compressed.                                                                                                                       |\n| LOSSLESS COMPRESSED| RAW images are compressed using a reversible algorithm that reduces file size with no loss of image data. The images can be viewed in Capture One Express Fujifilm, RAW FILE CONVERTER EX, FUJIFILM X RAW STUDIO, or other software that supports \"lossless\" RAW compression. |\n\n# FILM SIMULATION\n\nSimulate the effects of different kinds of film, including black-and-white (with or without color filters). Choose a palette according to your subject and creative intent.\n\n| Option          | Description                                                             |\n|-----------------|-------------------------------------------------------------------------|\n| PROVIA/STANDARD | Ideal for a wide range of subjects.                                     |\n| Velvia/VIVID    | Vibrant reproduction, ideal for landscape and nature.                   |\n| ASTIA/SOFT      | Softer color and contrast for a more subdued look.                      |\n| CLASSIC CHROME  | Soft color and enhanced shadow contrast for a calm look.                |\n| PRO Neg. Hi     | Ideal for portrait with slightly enhanced contrast.                     |\n| PRO Neg. Std    | Ideal for portrait with soft gradations and skin tones.                 |\n| CLASSIC Neg.    | Enhanced color with hard tonality to increase image depth.              |\n| ETERNA/CINEMA   | Soft color and rich shadow tone suitable for film look movie.           |",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "RAW RECORDING",
+                    "md": "# RAW RECORDING"
+                },
+                {
+                    "type": "text",
+                    "value": "Choose whether to compress RAW images.",
+                    "md": "Choose whether to compress RAW images."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Option",
+                            "Description"
+                        ],
+                        [
+                            "UNCOMPRESSED",
+                            "RAW images are not compressed."
+                        ],
+                        [
+                            "LOSSLESS COMPRESSED",
+                            "RAW images are compressed using a reversible algorithm that reduces file size with no loss of image data. The images can be viewed in Capture One Express Fujifilm, RAW FILE CONVERTER EX, FUJIFILM X RAW STUDIO, or other software that supports \"lossless\" RAW compression."
+                        ]
+                    ],
+                    "md": "| Option             | Description                                                                                                                                          |\n|--------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|\n| UNCOMPRESSED       | RAW images are not compressed.                                                                                                                       |\n| LOSSLESS COMPRESSED| RAW images are compressed using a reversible algorithm that reduces file size with no loss of image data. The images can be viewed in Capture One Express Fujifilm, RAW FILE CONVERTER EX, FUJIFILM X RAW STUDIO, or other software that supports \"lossless\" RAW compression. |",
+                    "isPerfectTable": true,
+                    "csv": "\"Option\",\"Description\"\n\"UNCOMPRESSED\",\"RAW images are not compressed.\"\n\"LOSSLESS COMPRESSED\",\"RAW images are compressed using a reversible algorithm that reduces file size with no loss of image data. The images can be viewed in Capture One Express Fujifilm, RAW FILE CONVERTER EX, FUJIFILM X RAW STUDIO, or other software that supports \"\"lossless\"\" RAW compression.\""
+                },
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "FILM SIMULATION",
+                    "md": "# FILM SIMULATION"
+                },
+                {
+                    "type": "text",
+                    "value": "Simulate the effects of different kinds of film, including black-and-white (with or without color filters). Choose a palette according to your subject and creative intent.",
+                    "md": "Simulate the effects of different kinds of film, including black-and-white (with or without color filters). Choose a palette according to your subject and creative intent."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Option",
+                            "Description"
+                        ],
+                        [
+                            "PROVIA/STANDARD",
+                            "Ideal for a wide range of subjects."
+                        ],
+                        [
+                            "Velvia/VIVID",
+                            "Vibrant reproduction, ideal for landscape and nature."
+                        ],
+                        [
+                            "ASTIA/SOFT",
+                            "Softer color and contrast for a more subdued look."
+                        ],
+                        [
+                            "CLASSIC CHROME",
+                            "Soft color and enhanced shadow contrast for a calm look."
+                        ],
+                        [
+                            "PRO Neg. Hi",
+                            "Ideal for portrait with slightly enhanced contrast."
+                        ],
+                        [
+                            "PRO Neg. Std",
+                            "Ideal for portrait with soft gradations and skin tones."
+                        ],
+                        [
+                            "CLASSIC Neg.",
+                            "Enhanced color with hard tonality to increase image depth."
+                        ],
+                        [
+                            "ETERNA/CINEMA",
+                            "Soft color and rich shadow tone suitable for film look movie."
+                        ]
+                    ],
+                    "md": "| Option          | Description                                                             |\n|-----------------|-------------------------------------------------------------------------|\n| PROVIA/STANDARD | Ideal for a wide range of subjects.                                     |\n| Velvia/VIVID    | Vibrant reproduction, ideal for landscape and nature.                   |\n| ASTIA/SOFT      | Softer color and contrast for a more subdued look.                      |\n| CLASSIC CHROME  | Soft color and enhanced shadow contrast for a calm look.                |\n| PRO Neg. Hi     | Ideal for portrait with slightly enhanced contrast.                     |\n| PRO Neg. Std    | Ideal for portrait with soft gradations and skin tones.                 |\n| CLASSIC Neg.    | Enhanced color with hard tonality to increase image depth.              |\n| ETERNA/CINEMA   | Soft color and rich shadow tone suitable for film look movie.           |",
+                    "isPerfectTable": true,
+                    "csv": "\"Option\",\"Description\"\n\"PROVIA/STANDARD\",\"Ideal for a wide range of subjects.\"\n\"Velvia/VIVID\",\"Vibrant reproduction, ideal for landscape and nature.\"\n\"ASTIA/SOFT\",\"Softer color and contrast for a more subdued look.\"\n\"CLASSIC CHROME\",\"Soft color and enhanced shadow contrast for a calm look.\"\n\"PRO Neg. Hi\",\"Ideal for portrait with slightly enhanced contrast.\"\n\"PRO Neg. Std\",\"Ideal for portrait with soft gradations and skin tones.\"\n\"CLASSIC Neg.\",\"Enhanced color with hard tonality to increase image depth.\"\n\"ETERNA/CINEMA\",\"Soft color and rich shadow tone suitable for film look movie.\""
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 619.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "d771fc8c-7c5b-4d3b-83cf-9362467c0238",
+    "file_path": "../data/raw_data/x100v/x100v_split/x100v_page126.pdf"
+}

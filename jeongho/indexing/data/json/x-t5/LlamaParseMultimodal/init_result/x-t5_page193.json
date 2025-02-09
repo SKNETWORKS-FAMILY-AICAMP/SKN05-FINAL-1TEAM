@@ -1,0 +1,80 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "# SHOOTING SETTING (Still Photography)\n\n## SPORTS FINDER MODE\n\nTake pictures using the crop in the center of the display. Choose this option for pictures of athletes, birds, and other moving subjects.\n\n!Sports Finder Mode Display\n\n| Option | Description |\n|--------|-------------|\n| ON     | Pictures are taken using a 1.29× crop, reducing the picture angle by an amount equivalent to increasing lens focal length by 1.29×; the crop is shown by a frame in the display. |\n| OFF    | The 1.29× crop is disabled. |\n\n> 💡 **Note:**\n> - The **IMAGE QUALITY SETTING > IMAGE SIZE** item in the shooting menu is fixed at **M**.\n> - The sports finder is not available in modes that offer an electronic shutter.",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "SHOOTING SETTING (Still Photography)",
+                    "md": "# SHOOTING SETTING (Still Photography)"
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "SPORTS FINDER MODE",
+                    "md": "## SPORTS FINDER MODE"
+                },
+                {
+                    "type": "text",
+                    "value": "Take pictures using the crop in the center of the display. Choose this option for pictures of athletes, birds, and other moving subjects.\n\n!Sports Finder Mode Display",
+                    "md": "Take pictures using the crop in the center of the display. Choose this option for pictures of athletes, birds, and other moving subjects.\n\n!Sports Finder Mode Display"
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Option",
+                            "Description"
+                        ],
+                        [
+                            "ON",
+                            "Pictures are taken using a 1.29× crop, reducing the picture angle by an amount equivalent to increasing lens focal length by 1.29×; the crop is shown by a frame in the display."
+                        ],
+                        [
+                            "OFF",
+                            "The 1.29× crop is disabled."
+                        ]
+                    ],
+                    "md": "| Option | Description |\n|--------|-------------|\n| ON     | Pictures are taken using a 1.29× crop, reducing the picture angle by an amount equivalent to increasing lens focal length by 1.29×; the crop is shown by a frame in the display. |\n| OFF    | The 1.29× crop is disabled. |",
+                    "isPerfectTable": true,
+                    "csv": "\"Option\",\"Description\"\n\"ON\",\"Pictures are taken using a 1.29× crop, reducing the picture angle by an amount equivalent to increasing lens focal length by 1.29×; the crop is shown by a frame in the display.\"\n\"OFF\",\"The 1.29× crop is disabled.\""
+                },
+                {
+                    "type": "text",
+                    "value": "> 💡 **Note:**\n> - The **IMAGE QUALITY SETTING > IMAGE SIZE** item in the shooting menu is fixed at **M**.\n> - The sports finder is not available in modes that offer an electronic shutter.",
+                    "md": "> 💡 **Note:**\n> - The **IMAGE QUALITY SETTING > IMAGE SIZE** item in the shooting menu is fixed at **M**.\n> - The sports finder is not available in modes that offer an electronic shutter."
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "parsingMode": "multimodal-openai-gpt4o",
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 576.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "5f7658f8-7486-49af-acb8-064e3fad9caf",
+    "file_path": "../data/raw_data/x-t5/x-t5_split/x-t5_page193.pdf"
+}

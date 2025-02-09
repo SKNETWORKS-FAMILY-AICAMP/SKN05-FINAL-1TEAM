@@ -1,0 +1,238 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:14px'>Autofocus</header>\n<h1 id='1' style='font-size:20px'>The Focus-Point Display</h1>\n\n<p id='3' data-category='paragraph' style='font-size:16px'>Focus frames are shown by small squares (□), focus zones by the large<br>squares.</p>\n<table id='4' style='font-size:14px'><tr><td colspan=\"3\">AF mode</td></tr><tr><td>SINGLE POINT</td><td>[] ZONE</td><td>TRACKING</td></tr><tr><td>□ □ □ □ □ □ □ □ □ . □ □ □ □ . . □</td><td>□ □ □ □ . □ □ □ . □ □ . □ ■ □ □ □ □ □ □ □ □ □ □ □ □</td><td>■ ▣ ■ □ □ . □ □ . ■ □ □ □ □ □ □</td></tr><tr><td>Number of points avail- able can be selected using AMF AF/MF SETTING > NUMBER OF FOCUS POINTS.</td><td>Choose from zones with 7 X 7, 5 X 5, or 3 X 3 focus points.</td><td>Position focus frame over subject you want to track.</td></tr><br><caption id='2' style='font-size:18px'>The focus-point display varies with the option selected for AF<br>mode.</caption></table>\n<br><footer id='5' style='font-size:16px'>5</footer>\n<br><footer id='6' style='font-size:22px'>Taking<br>Photographs</footer>\n<footer id='7' style='font-size:20px'>75</footer>",
+        "markdown": "Autofocus\n\n# The Focus-Point Display\n\nThe focus-point display varies with the option selected for AF\nmode.\n\nFocus frames are shown by small squares (□), focus zones by the large\nsquares.\n\n| AF mode | AF mode | AF mode |\n| --- | --- | --- |\n| SINGLE POINT | [] ZONE | TRACKING |\n| □ □ □ □ □ □ □ □ □ . □ □ □ □ . . □ | □ □ □ □ . □ □ □ . □ □ . □ ■ □ □ □ □ □ □ □ □ □ □ □ □ | ■ ▣ ■ □ □ . □ □ . ■ □ □ □ □ □ □ |\n| Number of points avail- able can be selected using AMF AF/MF SETTING > NUMBER OF FOCUS POINTS. | Choose from zones with 7 X 7, 5 X 5, or 3 X 3 focus points. | Position focus frame over subject you want to track. |\n\n\n5\n\nTaking\nPhotographs\n\n75",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:14px'>Autofocus</header>",
+                "markdown": "Autofocus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.8113,
+                    "y": 0.0285
+                },
+                {
+                    "x": 0.9191,
+                    "y": 0.0285
+                },
+                {
+                    "x": 0.9191,
+                    "y": 0.0497
+                },
+                {
+                    "x": 0.8113,
+                    "y": 0.0497
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='1' style='font-size:20px'>The Focus-Point Display</h1>",
+                "markdown": "# The Focus-Point Display",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1151,
+                    "y": 0.0724
+                },
+                {
+                    "x": 0.4192,
+                    "y": 0.0724
+                },
+                {
+                    "x": 0.4192,
+                    "y": 0.0986
+                },
+                {
+                    "x": 0.1151,
+                    "y": 0.0986
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='2' data-category='paragraph' style='font-size:18px'>The focus-point display varies with the option selected for AF<br>mode.</p>",
+                "markdown": "The focus-point display varies with the option selected for AF\nmode.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1072,
+                    "y": 0.1047
+                },
+                {
+                    "x": 0.9169,
+                    "y": 0.1047
+                },
+                {
+                    "x": 0.9169,
+                    "y": 0.1526
+                },
+                {
+                    "x": 0.1072,
+                    "y": 0.1526
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='3' data-category='paragraph' style='font-size:16px'>Focus frames are shown by small squares (□), focus zones by the large<br>squares.</p>",
+                "markdown": "Focus frames are shown by small squares (□), focus zones by the large\nsquares.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1174,
+                    "y": 0.1678
+                },
+                {
+                    "x": 0.9166,
+                    "y": 0.1678
+                },
+                {
+                    "x": 0.9166,
+                    "y": 0.2131
+                },
+                {
+                    "x": 0.1174,
+                    "y": 0.2131
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='4' style='font-size:14px'><tr><td colspan=\"3\">AF mode</td></tr><tr><td>SINGLE POINT</td><td>[] ZONE</td><td>TRACKING</td></tr><tr><td>□ □ □ □ □ □ □ □ □ . □ □ □ □ . . □</td><td>□ □ □ □ . □ □ □ . □ □ . □ ■ □ □ □ □ □ □ □ □ □ □ □ □</td><td>■ ▣ ■ □ □ . □ □ . ■ □ □ □ □ □ □</td></tr><tr><td>Number of points avail- able can be selected using AMF AF/MF SETTING > NUMBER OF FOCUS POINTS.</td><td>Choose from zones with 7 X 7, 5 X 5, or 3 X 3 focus points.</td><td>Position focus frame over subject you want to track.</td></tr></table>",
+                "markdown": "| AF mode | AF mode | AF mode |\n| --- | --- | --- |\n| SINGLE POINT | [] ZONE | TRACKING |\n| □ □ □ □ □ □ □ □ □ . □ □ □ □ . . □ | □ □ □ □ . □ □ □ . □ □ . □ ■ □ □ □ □ □ □ □ □ □ □ □ □ | ■ ▣ ■ □ □ . □ □ . ■ □ □ □ □ □ □ |\n| Number of points avail- able can be selected using AMF AF/MF SETTING > NUMBER OF FOCUS POINTS. | Choose from zones with 7 X 7, 5 X 5, or 3 X 3 focus points. | Position focus frame over subject you want to track. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.107,
+                    "y": 0.2308
+                },
+                {
+                    "x": 0.9112,
+                    "y": 0.2308
+                },
+                {
+                    "x": 0.9112,
+                    "y": 0.5286
+                },
+                {
+                    "x": 0.107,
+                    "y": 0.5286
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<br><footer id='5' style='font-size:16px'>5</footer>",
+                "markdown": "5",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9571,
+                    "y": 0.4777
+                },
+                {
+                    "x": 0.9757,
+                    "y": 0.4777
+                },
+                {
+                    "x": 0.9757,
+                    "y": 0.4974
+                },
+                {
+                    "x": 0.9571,
+                    "y": 0.4974
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<br><footer id='6' style='font-size:22px'>Taking<br>Photographs</footer>",
+                "markdown": "Taking\nPhotographs",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9558,
+                    "y": 0.5178
+                },
+                {
+                    "x": 0.9813,
+                    "y": 0.5178
+                },
+                {
+                    "x": 0.9813,
+                    "y": 0.6651
+                },
+                {
+                    "x": 0.9558,
+                    "y": 0.6651
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='7' style='font-size:20px'>75</footer>",
+                "markdown": "75",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.8787,
+                    "y": 0.9576
+                },
+                {
+                    "x": 0.9165,
+                    "y": 0.9576
+                },
+                {
+                    "x": 0.9165,
+                    "y": 0.979
+                },
+                {
+                    "x": 0.8787,
+                    "y": 0.979
+                }
+            ],
+            "id": 7,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

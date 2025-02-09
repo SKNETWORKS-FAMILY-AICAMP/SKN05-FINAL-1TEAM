@@ -1,0 +1,76 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "# PHOTOMETRY\n\nChoose how the camera meters exposure.\n\n> 💡 **Note:**  \n> The selected option will only take effect when **AF/MF SETTING > FACE/EYE DETECTION SETTING** is OFF.\n\n| Mode             | Description                                                                                                                                       |\n|------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|\n| !Multi (multi)            | The camera instantly determines exposure based on an analysis of composition, color, and brightness distribution. Recommended in most situations. |\n| !Center-Weighted (center-weighted) | The camera meters the entire frame but assigns the greatest weight to the area at the center.                                                              |\n| !Spot (spot)             | The camera meters lighting conditions in an area at the center of the frame equivalent to 2% of the total. Recommended with backlit subjects and in other cases in which the background is much brighter or darker than the main subject. |\n| !Average (average)         | Exposure is set to the average for the entire frame. Provides consistent exposure across multiple shots with the same lighting, and is particularly effective for landscapes and portraits of subjects dressed in black or white. |",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "PHOTOMETRY",
+                    "md": "# PHOTOMETRY"
+                },
+                {
+                    "type": "text",
+                    "value": "Choose how the camera meters exposure.\n\n> 💡 **Note:**  \n> The selected option will only take effect when **AF/MF SETTING > FACE/EYE DETECTION SETTING** is OFF.",
+                    "md": "Choose how the camera meters exposure.\n\n> 💡 **Note:**  \n> The selected option will only take effect when **AF/MF SETTING > FACE/EYE DETECTION SETTING** is OFF."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Mode",
+                            "Description"
+                        ],
+                        [
+                            "!Multi (multi)",
+                            "The camera instantly determines exposure based on an analysis of composition, color, and brightness distribution. Recommended in most situations."
+                        ],
+                        [
+                            "!Center-Weighted (center-weighted)",
+                            "The camera meters the entire frame but assigns the greatest weight to the area at the center."
+                        ],
+                        [
+                            "!Spot (spot)",
+                            "The camera meters lighting conditions in an area at the center of the frame equivalent to 2% of the total. Recommended with backlit subjects and in other cases in which the background is much brighter or darker than the main subject."
+                        ],
+                        [
+                            "!Average (average)",
+                            "Exposure is set to the average for the entire frame. Provides consistent exposure across multiple shots with the same lighting, and is particularly effective for landscapes and portraits of subjects dressed in black or white."
+                        ]
+                    ],
+                    "md": "| Mode             | Description                                                                                                                                       |\n|------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|\n| !Multi (multi)            | The camera instantly determines exposure based on an analysis of composition, color, and brightness distribution. Recommended in most situations. |\n| !Center-Weighted (center-weighted) | The camera meters the entire frame but assigns the greatest weight to the area at the center.                                                              |\n| !Spot (spot)             | The camera meters lighting conditions in an area at the center of the frame equivalent to 2% of the total. Recommended with backlit subjects and in other cases in which the background is much brighter or darker than the main subject. |\n| !Average (average)         | Exposure is set to the average for the entire frame. Provides consistent exposure across multiple shots with the same lighting, and is particularly effective for landscapes and portraits of subjects dressed in black or white. |",
+                    "isPerfectTable": true,
+                    "csv": "\"Mode\",\"Description\"\n\"!Multi (multi)\",\"The camera instantly determines exposure based on an analysis of composition, color, and brightness distribution. Recommended in most situations.\"\n\"!Center-Weighted (center-weighted)\",\"The camera meters the entire frame but assigns the greatest weight to the area at the center.\"\n\"!Spot (spot)\",\"The camera meters lighting conditions in an area at the center of the frame equivalent to 2% of the total. Recommended with backlit subjects and in other cases in which the background is much brighter or darker than the main subject.\"\n\"!Average (average)\",\"Exposure is set to the average for the entire frame. Provides consistent exposure across multiple shots with the same lighting, and is particularly effective for landscapes and portraits of subjects dressed in black or white.\""
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 540.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "bf6898ce-4f71-4b2a-8c54-bdb2c4b04713",
+    "file_path": "../data/raw_data/x100v/x100v_split/x100v_page166.pdf"
+}

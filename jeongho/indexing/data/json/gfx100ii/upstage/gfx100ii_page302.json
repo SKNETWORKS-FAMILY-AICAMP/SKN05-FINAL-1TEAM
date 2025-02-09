@@ -1,0 +1,378 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:22px'>Network/USB<br>Setting<br>Menus</header>\n<br><h1 id='1' style='font-size:20px'>16 Name the connection setting profile.</h1>\n<br><p id='2' data-category='paragraph' style='font-size:14px'>SELECT CONNECTION SETTING</p>\n<br><p id='3' data-category='paragraph' style='font-size:16px'>8: WIFI_ ODAIBA</p>\n<br><table id='4' style='font-size:18px'><tr><td></td><td>SET</td><td></td><td></td><td>→</td><td></td><td>DEL</td><td></td><td>A→a</td><td></td></tr><tr><td>a</td><td></td><td>b C</td><td></td><td>d e</td><td>f</td><td>g</td><td></td><td>h</td><td>[</td></tr><tr><td>k</td><td></td><td> m</td><td>n</td><td>O</td><td>p</td><td>q</td><td>r</td><td>S</td><td>t</td></tr><tr><td>u</td><td>V</td><td>w</td><td>X</td><td>y</td><td>Z</td><td></td><td>■</td><td></td><td>■</td></tr><tr><td>0</td><td></td><td>1 2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td></tr></table>\n<h1 id='5' style='font-size:22px'>17 Choose SELECT.</h1>\n<br><h1 id='6' style='font-size:14px'>SETTING COMPLETE</h1>\n<p id='7' data-category='paragraph' style='font-size:14px'>PLEASE SELECT CREATED SETTING<br>FROM \"SELECT CONNECTION SETTING\"</p>\n<br><p id='8' data-category='paragraph' style='font-size:18px'>The connection setting profile can<br>also be selected later using SELECT<br>CONNECTION SETTING.</p>\n<br><p id='9' data-category='paragraph' style='font-size:16px'>SELECT<br>SKIP</p>\n<p id='10' data-category='paragraph' style='font-size:20px'>18 Connect to the camera from a computer or tablet (□ 303).</p>\n<h1 id='11' style='font-size:18px'>8</h1>\n<footer id='12' style='font-size:22px'>302</footer>",
+        "markdown": "Network/USB\nSetting\nMenus\n\n# 16 Name the connection setting profile.\n\nSELECT CONNECTION SETTING\n\n8: WIFI_ ODAIBA\n\n|  | SET |  |  | → |  | DEL |  | A→a |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| a |  | b C |  | d e | f | g |  | h | [ |\n| k |  |  m | n | O | p | q | r | S | t |\n| u | V | w | X | y | Z |  | ■ |  | ■ |\n| 0 |  | 1 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |\n\n\n# 17 Choose SELECT.\n\n# SETTING COMPLETE\n\nPLEASE SELECT CREATED SETTING\nFROM \"SELECT CONNECTION SETTING\"\n\nThe connection setting profile can\nalso be selected later using SELECT\nCONNECTION SETTING.\n\nSELECT\nSKIP\n\n18 Connect to the camera from a computer or tablet (□ 303).\n\n# 8\n\n302",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:22px'>Network/USB<br>Setting<br>Menus</header>",
+                "markdown": "Network/USB\nSetting\nMenus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0183,
+                    "y": 0.4298
+                },
+                {
+                    "x": 0.0408,
+                    "y": 0.4298
+                },
+                {
+                    "x": 0.0408,
+                    "y": 0.6376
+                },
+                {
+                    "x": 0.0183,
+                    "y": 0.6376
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='1' style='font-size:20px'>16 Name the connection setting profile.</h1>",
+                "markdown": "# 16 Name the connection setting profile.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0822,
+                    "y": 0.0718
+                },
+                {
+                    "x": 0.5997,
+                    "y": 0.0718
+                },
+                {
+                    "x": 0.5997,
+                    "y": 0.0982
+                },
+                {
+                    "x": 0.0822,
+                    "y": 0.0982
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='2' data-category='paragraph' style='font-size:14px'>SELECT CONNECTION SETTING</p>",
+                "markdown": "SELECT CONNECTION SETTING",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6525,
+                    "y": 0.0757
+                },
+                {
+                    "x": 0.8043,
+                    "y": 0.0757
+                },
+                {
+                    "x": 0.8043,
+                    "y": 0.0882
+                },
+                {
+                    "x": 0.6525,
+                    "y": 0.0882
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='3' data-category='paragraph' style='font-size:16px'>8: WIFI_ ODAIBA</p>",
+                "markdown": "8: WIFI_ ODAIBA",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6554,
+                    "y": 0.0927
+                },
+                {
+                    "x": 0.7472,
+                    "y": 0.0927
+                },
+                {
+                    "x": 0.7472,
+                    "y": 0.1058
+                },
+                {
+                    "x": 0.6554,
+                    "y": 0.1058
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='4' style='font-size:18px'><tr><td></td><td>SET</td><td></td><td></td><td>→</td><td></td><td>DEL</td><td></td><td>A→a</td><td></td></tr><tr><td>a</td><td></td><td>b C</td><td></td><td>d e</td><td>f</td><td>g</td><td></td><td>h</td><td>[</td></tr><tr><td>k</td><td></td><td> m</td><td>n</td><td>O</td><td>p</td><td>q</td><td>r</td><td>S</td><td>t</td></tr><tr><td>u</td><td>V</td><td>w</td><td>X</td><td>y</td><td>Z</td><td></td><td>■</td><td></td><td>■</td></tr><tr><td>0</td><td></td><td>1 2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td></tr></table>",
+                "markdown": "|  | SET |  |  | → |  | DEL |  | A→a |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| a |  | b C |  | d e | f | g |  | h | [ |\n| k |  |  m | n | O | p | q | r | S | t |\n| u | V | w | X | y | Z |  | ■ |  | ■ |\n| 0 |  | 1 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6392,
+                    "y": 0.1038
+                },
+                {
+                    "x": 0.8854,
+                    "y": 0.1038
+                },
+                {
+                    "x": 0.8854,
+                    "y": 0.2069
+                },
+                {
+                    "x": 0.6392,
+                    "y": 0.2069
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='5' style='font-size:22px'>17 Choose SELECT.</h1>",
+                "markdown": "# 17 Choose SELECT.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0806,
+                    "y": 0.2306
+                },
+                {
+                    "x": 0.3397,
+                    "y": 0.2306
+                },
+                {
+                    "x": 0.3397,
+                    "y": 0.2538
+                },
+                {
+                    "x": 0.0806,
+                    "y": 0.2538
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='6' style='font-size:14px'>SETTING COMPLETE</h1>",
+                "markdown": "# SETTING COMPLETE",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6564,
+                    "y": 0.2347
+                },
+                {
+                    "x": 0.7667,
+                    "y": 0.2347
+                },
+                {
+                    "x": 0.7667,
+                    "y": 0.2459
+                },
+                {
+                    "x": 0.6564,
+                    "y": 0.2459
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='7' data-category='paragraph' style='font-size:14px'>PLEASE SELECT CREATED SETTING<br>FROM \"SELECT CONNECTION SETTING\"</p>",
+                "markdown": "PLEASE SELECT CREATED SETTING\nFROM \"SELECT CONNECTION SETTING\"",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6531,
+                    "y": 0.2583
+                },
+                {
+                    "x": 0.8611,
+                    "y": 0.2583
+                },
+                {
+                    "x": 0.8611,
+                    "y": 0.2816
+                },
+                {
+                    "x": 0.6531,
+                    "y": 0.2816
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='8' data-category='paragraph' style='font-size:18px'>The connection setting profile can<br>also be selected later using SELECT<br>CONNECTION SETTING.</p>",
+                "markdown": "The connection setting profile can\nalso be selected later using SELECT\nCONNECTION SETTING.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1677,
+                    "y": 0.2697
+                },
+                {
+                    "x": 0.5975,
+                    "y": 0.2697
+                },
+                {
+                    "x": 0.5975,
+                    "y": 0.3371
+                },
+                {
+                    "x": 0.1677,
+                    "y": 0.3371
+                }
+            ],
+            "id": 8,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='9' data-category='paragraph' style='font-size:16px'>SELECT<br>SKIP</p>",
+                "markdown": "SELECT\nSKIP",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.7316,
+                    "y": 0.3282
+                },
+                {
+                    "x": 0.7782,
+                    "y": 0.3282
+                },
+                {
+                    "x": 0.7782,
+                    "y": 0.3521
+                },
+                {
+                    "x": 0.7316,
+                    "y": 0.3521
+                }
+            ],
+            "id": 9,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='10' data-category='paragraph' style='font-size:20px'>18 Connect to the camera from a computer or tablet (□ 303).</p>",
+                "markdown": "18 Connect to the camera from a computer or tablet (□ 303).",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0809,
+                    "y": 0.3894
+                },
+                {
+                    "x": 0.87,
+                    "y": 0.3894
+                },
+                {
+                    "x": 0.87,
+                    "y": 0.4139
+                },
+                {
+                    "x": 0.0809,
+                    "y": 0.4139
+                }
+            ],
+            "id": 10,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='11' style='font-size:18px'>8</h1>",
+                "markdown": "# 8",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0278,
+                    "y": 0.6593
+                },
+                {
+                    "x": 0.0417,
+                    "y": 0.6593
+                },
+                {
+                    "x": 0.0417,
+                    "y": 0.675
+                },
+                {
+                    "x": 0.0278,
+                    "y": 0.675
+                }
+            ],
+            "id": 11,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='12' style='font-size:22px'>302</footer>",
+                "markdown": "302",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0833,
+                    "y": 0.9563
+                },
+                {
+                    "x": 0.1392,
+                    "y": 0.9563
+                },
+                {
+                    "x": 0.1392,
+                    "y": 0.98
+                },
+                {
+                    "x": 0.0833,
+                    "y": 0.98
+                }
+            ],
+            "id": 12,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

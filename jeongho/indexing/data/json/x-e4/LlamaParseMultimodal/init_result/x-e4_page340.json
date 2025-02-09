@@ -1,0 +1,82 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "\n| Problem                                      | Solution                                                                                                                                                      |\n|----------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Charging does not start (battery charger).   | - Insert the battery.                                                                                                                                         |\n|                                              | - Reinsert the battery in the correct orientation.                                                                                                            |\n|                                              | - Make sure that the charger is correctly plugged in.                                                                                                         |\n|                                              | - Ensure that the plug adapter is correctly connected to the charger.                                                                                         |\n| Charging is slow.                            | Charge the battery at room temperature.                                                                                                                       |\n| The indicator lamp blinks, but the battery   | - **There is dirt on the battery terminals:** Clean the terminals with a soft, dry cloth (📖 30).                                                              |\n| does not charge.                             | - **The battery has been charged many times:** The battery has reached the end of its charging life. Purchase a new battery. If the battery still fails to charge, contact your Fujifilm dealer (📖 298). |\n| The power supply icon is not displayed.      | Confirm that **ON** is selected for **USB POWER SUPPLY SETTING** (📖 241).                                                                                    |\n",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Problem",
+                            "Solution"
+                        ],
+                        [
+                            "Charging does not start (battery charger).",
+                            "- Insert the battery."
+                        ],
+                        [
+                            "",
+                            "- Reinsert the battery in the correct orientation."
+                        ],
+                        [
+                            "",
+                            "- Make sure that the charger is correctly plugged in."
+                        ],
+                        [
+                            "",
+                            "- Ensure that the plug adapter is correctly connected to the charger."
+                        ],
+                        [
+                            "Charging is slow.",
+                            "Charge the battery at room temperature."
+                        ],
+                        [
+                            "The indicator lamp blinks, but the battery",
+                            "- **There is dirt on the battery terminals:** Clean the terminals with a soft, dry cloth (📖 30)."
+                        ],
+                        [
+                            "does not charge.",
+                            "- **The battery has been charged many times:** The battery has reached the end of its charging life. Purchase a new battery. If the battery still fails to charge, contact your Fujifilm dealer (📖 298)."
+                        ],
+                        [
+                            "The power supply icon is not displayed.",
+                            "Confirm that **ON** is selected for **USB POWER SUPPLY SETTING** (📖 241)."
+                        ]
+                    ],
+                    "md": "| Problem                                      | Solution                                                                                                                                                      |\n|----------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Charging does not start (battery charger).   | - Insert the battery.                                                                                                                                         |\n|                                              | - Reinsert the battery in the correct orientation.                                                                                                            |\n|                                              | - Make sure that the charger is correctly plugged in.                                                                                                         |\n|                                              | - Ensure that the plug adapter is correctly connected to the charger.                                                                                         |\n| Charging is slow.                            | Charge the battery at room temperature.                                                                                                                       |\n| The indicator lamp blinks, but the battery   | - **There is dirt on the battery terminals:** Clean the terminals with a soft, dry cloth (📖 30).                                                              |\n| does not charge.                             | - **The battery has been charged many times:** The battery has reached the end of its charging life. Purchase a new battery. If the battery still fails to charge, contact your Fujifilm dealer (📖 298). |\n| The power supply icon is not displayed.      | Confirm that **ON** is selected for **USB POWER SUPPLY SETTING** (📖 241).                                                                                    |",
+                    "isPerfectTable": true,
+                    "csv": "\"Problem\",\"Solution\"\n\"Charging does not start (battery charger).\",\"- Insert the battery.\"\n\"\",\"- Reinsert the battery in the correct orientation.\"\n\"\",\"- Make sure that the charger is correctly plugged in.\"\n\"\",\"- Ensure that the plug adapter is correctly connected to the charger.\"\n\"Charging is slow.\",\"Charge the battery at room temperature.\"\n\"The indicator lamp blinks, but the battery\",\"- **There is dirt on the battery terminals:** Clean the terminals with a soft, dry cloth (📖 30).\"\n\"does not charge.\",\"- **The battery has been charged many times:** The battery has reached the end of its charging life. Purchase a new battery. If the battery still fails to charge, contact your Fujifilm dealer (📖 298).\"\n\"The power supply icon is not displayed.\",\"Confirm that **ON** is selected for **USB POWER SUPPLY SETTING** (📖 241).\""
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "parsingMode": "multimodal-openai-gpt4o",
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 159.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "05660c93-ed56-4706-bf62-76c8cf6469a6",
+    "file_path": "../data/raw_data/x-e4/x-e4_split/x-e4_page340.pdf"
+}

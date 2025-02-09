@@ -1,0 +1,83 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "\n# BUTTON/DIAL SETTING\nAccess options for camera controls.\n\nTo access control options, press **MENU/OK**, select the !SET UP tab, and choose BUTTON/DIAL SETTING.\n\n!Button/Dial Setting Menu\n\n## FOCUS LEVER SETTING\nChoose the functions performed by the focus stick (focus lever).\n\n| Option          | Description                                                                 |\n|-----------------|-----------------------------------------------------------------------------|\n| LOCK (OFF)      | The focus stick cannot be used during shooting.                             |\n| PUSH TO UNLOCK  | Press the stick to view the focus-point display and tilt the stick to select a focus point. |\n| ON              | Tilt the stick to view the focus-point display and select a focus point.    |\n",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "BUTTON/DIAL SETTING",
+                    "md": "# BUTTON/DIAL SETTING"
+                },
+                {
+                    "type": "text",
+                    "value": "Access options for camera controls.\n\nTo access control options, press **MENU/OK**, select the !SET UP tab, and choose BUTTON/DIAL SETTING.\n\n!Button/Dial Setting Menu",
+                    "md": "Access options for camera controls.\n\nTo access control options, press **MENU/OK**, select the !SET UP tab, and choose BUTTON/DIAL SETTING.\n\n!Button/Dial Setting Menu"
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "FOCUS LEVER SETTING",
+                    "md": "## FOCUS LEVER SETTING"
+                },
+                {
+                    "type": "text",
+                    "value": "Choose the functions performed by the focus stick (focus lever).",
+                    "md": "Choose the functions performed by the focus stick (focus lever)."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Option",
+                            "Description"
+                        ],
+                        [
+                            "LOCK (OFF)",
+                            "The focus stick cannot be used during shooting."
+                        ],
+                        [
+                            "PUSH TO UNLOCK",
+                            "Press the stick to view the focus-point display and tilt the stick to select a focus point."
+                        ],
+                        [
+                            "ON",
+                            "Tilt the stick to view the focus-point display and select a focus point."
+                        ]
+                    ],
+                    "md": "| Option          | Description                                                                 |\n|-----------------|-----------------------------------------------------------------------------|\n| LOCK (OFF)      | The focus stick cannot be used during shooting.                             |\n| PUSH TO UNLOCK  | Press the stick to view the focus-point display and tilt the stick to select a focus point. |\n| ON              | Tilt the stick to view the focus-point display and select a focus point.    |",
+                    "isPerfectTable": true,
+                    "csv": "\"Option\",\"Description\"\n\"LOCK (OFF)\",\"The focus stick cannot be used during shooting.\"\n\"PUSH TO UNLOCK\",\"Press the stick to view the focus-point display and tilt the stick to select a focus point.\"\n\"ON\",\"Tilt the stick to view the focus-point display and select a focus point.\""
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 826.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "e6dec466-4e03-4f27-8efd-1e7f2e1ccd22",
+    "file_path": "../data/raw_data/x100v/x100v_split/x100v_page238.pdf"
+}

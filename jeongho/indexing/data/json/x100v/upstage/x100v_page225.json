@@ -1,0 +1,294 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:14px'>BUTTON/DIAL SETTING</header>\n<h1 id='1' style='font-size:16px'>SHUTTER AF</h1>\n<br><h1 id='2' style='font-size:20px'>Choose whether the camera focuses when the shutter button is<br>pressed halfway.</h1>\n<br><table id='3' style='font-size:16px'><tr><td>Option</td><td>Description</td></tr><tr><td>AF-S</td><td>ON: Focus locks when the shutter button is pressed halfway. OFF: No focus operation is performed when the shutter button is pressed halfway.</td></tr><tr><td>AF-C</td><td>ON: The camera focuses while the shutter button is pressed half- way. OFF: No focus operation is performed when the shutter button is pressed halfway.</td></tr></table>\n<p id='4' data-category='paragraph' style='font-size:18px'>SHUTTER AE</p>\n\n<br><table id='6' style='font-size:18px'><tr><td>Option</td><td>Description</td></tr><tr><td>AF-S/MF</td><td>ON: Exposure locks when the shutter button is pressed halfway. OFF: Exposure does not lock when the shutter button is pressed halfway.</td></tr><tr><td>AF-C</td><td>ON: Exposure locks while the shutter button is pressed halfway. OFF: Exposure does not lock when the shutter button is pressed halfway.</td></tr><br><caption id='5' style='font-size:20px'>If ON is selected, exposure will lock while the shutter button is<br>pressed halfway.</caption></table>\n<br><p id='7' data-category='paragraph' style='font-size:14px'>Select OFF to allow the camera to adjust exposure before each shot<br>taken in burst mode.</p>\n<br><footer id='8' style='font-size:22px'>The<br>Setup<br>Menus<br>8</footer>\n<footer id='9' style='font-size:22px'>225</footer>",
+        "markdown": "BUTTON/DIAL SETTING\n\n# SHUTTER AF\n\n# Choose whether the camera focuses when the shutter button is\npressed halfway.\n\n| Option | Description |\n| --- | --- |\n| AF-S | ON: Focus locks when the shutter button is pressed halfway. OFF: No focus operation is performed when the shutter button is pressed halfway. |\n| AF-C | ON: The camera focuses while the shutter button is pressed half- way. OFF: No focus operation is performed when the shutter button is pressed halfway. |\n\n\nSHUTTER AE\n\nIf ON is selected, exposure will lock while the shutter button is\npressed halfway.\n\n| Option | Description |\n| --- | --- |\n| AF-S/MF | ON: Exposure locks when the shutter button is pressed halfway. OFF: Exposure does not lock when the shutter button is pressed halfway. |\n| AF-C | ON: Exposure locks while the shutter button is pressed halfway. OFF: Exposure does not lock when the shutter button is pressed halfway. |\n\n\nSelect OFF to allow the camera to adjust exposure before each shot\ntaken in burst mode.\n\nThe\nSetup\nMenus\n8\n\n225",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:14px'>BUTTON/DIAL SETTING</header>",
+                "markdown": "BUTTON/DIAL SETTING",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6869,
+                    "y": 0.0281
+                },
+                {
+                    "x": 0.9184,
+                    "y": 0.0281
+                },
+                {
+                    "x": 0.9184,
+                    "y": 0.0497
+                },
+                {
+                    "x": 0.6869,
+                    "y": 0.0497
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='1' style='font-size:16px'>SHUTTER AF</h1>",
+                "markdown": "# SHUTTER AF",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1065,
+                    "y": 0.0728
+                },
+                {
+                    "x": 0.2784,
+                    "y": 0.0728
+                },
+                {
+                    "x": 0.2784,
+                    "y": 0.0947
+                },
+                {
+                    "x": 0.1065,
+                    "y": 0.0947
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='2' style='font-size:20px'>Choose whether the camera focuses when the shutter button is<br>pressed halfway.</h1>",
+                "markdown": "# Choose whether the camera focuses when the shutter button is\npressed halfway.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1055,
+                    "y": 0.1046
+                },
+                {
+                    "x": 0.9196,
+                    "y": 0.1046
+                },
+                {
+                    "x": 0.9196,
+                    "y": 0.1542
+                },
+                {
+                    "x": 0.1055,
+                    "y": 0.1542
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='3' style='font-size:16px'><tr><td>Option</td><td>Description</td></tr><tr><td>AF-S</td><td>ON: Focus locks when the shutter button is pressed halfway. OFF: No focus operation is performed when the shutter button is pressed halfway.</td></tr><tr><td>AF-C</td><td>ON: The camera focuses while the shutter button is pressed half- way. OFF: No focus operation is performed when the shutter button is pressed halfway.</td></tr></table>",
+                "markdown": "| Option | Description |\n| --- | --- |\n| AF-S | ON: Focus locks when the shutter button is pressed halfway. OFF: No focus operation is performed when the shutter button is pressed halfway. |\n| AF-C | ON: The camera focuses while the shutter button is pressed half- way. OFF: No focus operation is performed when the shutter button is pressed halfway. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1098,
+                    "y": 0.1659
+                },
+                {
+                    "x": 0.921,
+                    "y": 0.1659
+                },
+                {
+                    "x": 0.921,
+                    "y": 0.355
+                },
+                {
+                    "x": 0.1098,
+                    "y": 0.355
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='4' data-category='paragraph' style='font-size:18px'>SHUTTER AE</p>",
+                "markdown": "SHUTTER AE",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1054,
+                    "y": 0.3734
+                },
+                {
+                    "x": 0.283,
+                    "y": 0.3734
+                },
+                {
+                    "x": 0.283,
+                    "y": 0.3967
+                },
+                {
+                    "x": 0.1054,
+                    "y": 0.3967
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='5' data-category='paragraph' style='font-size:20px'>If ON is selected, exposure will lock while the shutter button is<br>pressed halfway.</p>",
+                "markdown": "If ON is selected, exposure will lock while the shutter button is\npressed halfway.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1056,
+                    "y": 0.4049
+                },
+                {
+                    "x": 0.9168,
+                    "y": 0.4049
+                },
+                {
+                    "x": 0.9168,
+                    "y": 0.455
+                },
+                {
+                    "x": 0.1056,
+                    "y": 0.455
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='6' style='font-size:18px'><tr><td>Option</td><td>Description</td></tr><tr><td>AF-S/MF</td><td>ON: Exposure locks when the shutter button is pressed halfway. OFF: Exposure does not lock when the shutter button is pressed halfway.</td></tr><tr><td>AF-C</td><td>ON: Exposure locks while the shutter button is pressed halfway. OFF: Exposure does not lock when the shutter button is pressed halfway.</td></tr></table>",
+                "markdown": "| Option | Description |\n| --- | --- |\n| AF-S/MF | ON: Exposure locks when the shutter button is pressed halfway. OFF: Exposure does not lock when the shutter button is pressed halfway. |\n| AF-C | ON: Exposure locks while the shutter button is pressed halfway. OFF: Exposure does not lock when the shutter button is pressed halfway. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1084,
+                    "y": 0.4674
+                },
+                {
+                    "x": 0.9195,
+                    "y": 0.4674
+                },
+                {
+                    "x": 0.9195,
+                    "y": 0.6332
+                },
+                {
+                    "x": 0.1084,
+                    "y": 0.6332
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='7' data-category='paragraph' style='font-size:14px'>Select OFF to allow the camera to adjust exposure before each shot<br>taken in burst mode.</p>",
+                "markdown": "Select OFF to allow the camera to adjust exposure before each shot\ntaken in burst mode.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1192,
+                    "y": 0.6445
+                },
+                {
+                    "x": 0.9168,
+                    "y": 0.6445
+                },
+                {
+                    "x": 0.9168,
+                    "y": 0.6909
+                },
+                {
+                    "x": 0.1192,
+                    "y": 0.6909
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<br><footer id='8' style='font-size:22px'>The<br>Setup<br>Menus<br>8</footer>",
+                "markdown": "The\nSetup\nMenus\n8",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9568,
+                    "y": 0.5059
+                },
+                {
+                    "x": 0.9823,
+                    "y": 0.5059
+                },
+                {
+                    "x": 0.9823,
+                    "y": 0.6763
+                },
+                {
+                    "x": 0.9568,
+                    "y": 0.6763
+                }
+            ],
+            "id": 8,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='9' style='font-size:22px'>225</footer>",
+                "markdown": "225",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.8607,
+                    "y": 0.9567
+                },
+                {
+                    "x": 0.9172,
+                    "y": 0.9567
+                },
+                {
+                    "x": 0.9172,
+                    "y": 0.9792
+                },
+                {
+                    "x": 0.8607,
+                    "y": 0.9792
+                }
+            ],
+            "id": 9,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

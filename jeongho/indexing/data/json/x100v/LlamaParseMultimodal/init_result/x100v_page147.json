@@ -1,0 +1,107 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "# AF/MF Setting\n\n## PRE-AF\n\nIf **ON** is selected, the camera will continue to adjust focus even when the shutter button is not pressed halfway. The camera adjusts focus continuously, allowing it to focus faster when the shutter button is pressed halfway. Choosing this option helps prevent missed shots.\n\n| Options |     |\n|---------|-----|\n| ON      | OFF |\n\n> ⚠️ Choosing **ON** increases the drain on the battery.\n\n## AF ILLUMINATOR\n\nIf **ON** is selected, the AF-assist illuminator will light to assist autofocus.\n\n| Options |     |\n|---------|-----|\n| ON      | OFF |\n\n- The camera may be unable to focus using the AF-assist illuminator in some cases.\n- If the camera is unable to focus, try increasing the distance to the subject.\n- Avoid shining the AF-assist illuminator directly into your subject’s eyes.",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "AF/MF Setting",
+                    "md": "# AF/MF Setting"
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "PRE-AF",
+                    "md": "## PRE-AF"
+                },
+                {
+                    "type": "text",
+                    "value": "If **ON** is selected, the camera will continue to adjust focus even when the shutter button is not pressed halfway. The camera adjusts focus continuously, allowing it to focus faster when the shutter button is pressed halfway. Choosing this option helps prevent missed shots.",
+                    "md": "If **ON** is selected, the camera will continue to adjust focus even when the shutter button is not pressed halfway. The camera adjusts focus continuously, allowing it to focus faster when the shutter button is pressed halfway. Choosing this option helps prevent missed shots."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Options",
+                            ""
+                        ],
+                        [
+                            "ON",
+                            "OFF"
+                        ]
+                    ],
+                    "md": "| Options |     |\n|---------|-----|\n| ON      | OFF |",
+                    "isPerfectTable": true,
+                    "csv": "\"Options\",\"\"\n\"ON\",\"OFF\""
+                },
+                {
+                    "type": "text",
+                    "value": "> ⚠️ Choosing **ON** increases the drain on the battery.",
+                    "md": "> ⚠️ Choosing **ON** increases the drain on the battery."
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "AF ILLUMINATOR",
+                    "md": "## AF ILLUMINATOR"
+                },
+                {
+                    "type": "text",
+                    "value": "If **ON** is selected, the AF-assist illuminator will light to assist autofocus.",
+                    "md": "If **ON** is selected, the AF-assist illuminator will light to assist autofocus."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Options",
+                            ""
+                        ],
+                        [
+                            "ON",
+                            "OFF"
+                        ]
+                    ],
+                    "md": "| Options |     |\n|---------|-----|\n| ON      | OFF |",
+                    "isPerfectTable": true,
+                    "csv": "\"Options\",\"\"\n\"ON\",\"OFF\""
+                },
+                {
+                    "type": "text",
+                    "value": "- The camera may be unable to focus using the AF-assist illuminator in some cases.\n- If the camera is unable to focus, try increasing the distance to the subject.\n- Avoid shining the AF-assist illuminator directly into your subject’s eyes.",
+                    "md": "- The camera may be unable to focus using the AF-assist illuminator in some cases.\n- If the camera is unable to focus, try increasing the distance to the subject.\n- Avoid shining the AF-assist illuminator directly into your subject’s eyes."
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 653.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "236d0966-5213-415e-90db-88a6d8b69f91",
+    "file_path": "../data/raw_data/x100v/x100v_split/x100v_page147.pdf"
+}

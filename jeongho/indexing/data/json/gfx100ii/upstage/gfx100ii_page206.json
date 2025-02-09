@@ -1,0 +1,266 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<h1 id='0' style='font-size:16px'>MIC JACK SETTING</h1>\n<br><h1 id='1' style='font-size:20px'>Specify the type of hardware connected to the microphone jack.</h1>\n<table id='2' style='font-size:14px'><tr><td>Option</td><td>Description</td></tr><tr><td>MIC</td><td>Choose this option for direct connection to an external micro- phone.</td></tr><tr><td>LINE</td><td>Choose this option for external audio devices connected via line output.</td></tr></table>\n<p id='3' data-category='paragraph' style='font-size:16px'>MIC LEVEL LIMITER</p>\n\n<br><table id='5' style='font-size:18px'><tr><td colspan=\"2\">Options</td></tr><tr><td>ON</td><td>OFF</td></tr><tr><td colspan=\"2\">WIND FILTER</td></tr><tr><td colspan=\"2\">Choose whether to enable wind noise reduction during movie recording.</td></tr><tr><td colspan=\"2\">Options</td></tr><br><caption id='4' style='font-size:18px'>Reduces distortion caused by input that exceeds the limits of the<br>microphone's audio circuits.</caption></table>\n<br><table id='6' style='font-size:14px'><tr><td>ON</td><td>OFF</td></tr><br><caption id='4' style='font-size:18px'>Reduces distortion caused by input that exceeds the limits of the<br>microphone's audio circuits.</caption></table>\n<br><header id='7' style='font-size:22px'>The<br>Shooting<br>Menus</header>\n<footer id='8' style='font-size:20px'>206</footer>",
+        "markdown": "# MIC JACK SETTING\n\n# Specify the type of hardware connected to the microphone jack.\n\n| Option | Description |\n| --- | --- |\n| MIC | Choose this option for direct connection to an external micro- phone. |\n| LINE | Choose this option for external audio devices connected via line output. |\n\n\nMIC LEVEL LIMITER\n\nReduces distortion caused by input that exceeds the limits of the\nmicrophone's audio circuits.\n\n| Options | Options |\n| --- | --- |\n| ON | OFF |\n| WIND FILTER | WIND FILTER |\n| Choose whether to enable wind noise reduction during movie recording. | Choose whether to enable wind noise reduction during movie recording. |\n| Options | Options |\n\n\n| ON | OFF |\n| --- | --- |\n\n\nThe\nShooting\nMenus\n\n206",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='0' style='font-size:16px'>MIC JACK SETTING</h1>",
+                "markdown": "# MIC JACK SETTING",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0818,
+                    "y": 0.073
+                },
+                {
+                    "x": 0.3389,
+                    "y": 0.073
+                },
+                {
+                    "x": 0.3389,
+                    "y": 0.0945
+                },
+                {
+                    "x": 0.0818,
+                    "y": 0.0945
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='1' style='font-size:20px'>Specify the type of hardware connected to the microphone jack.</h1>",
+                "markdown": "# Specify the type of hardware connected to the microphone jack.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0801,
+                    "y": 0.1042
+                },
+                {
+                    "x": 0.8909,
+                    "y": 0.1042
+                },
+                {
+                    "x": 0.8909,
+                    "y": 0.1295
+                },
+                {
+                    "x": 0.0801,
+                    "y": 0.1295
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='2' style='font-size:14px'><tr><td>Option</td><td>Description</td></tr><tr><td>MIC</td><td>Choose this option for direct connection to an external micro- phone.</td></tr><tr><td>LINE</td><td>Choose this option for external audio devices connected via line output.</td></tr></table>",
+                "markdown": "| Option | Description |\n| --- | --- |\n| MIC | Choose this option for direct connection to an external micro- phone. |\n| LINE | Choose this option for external audio devices connected via line output. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0863,
+                    "y": 0.1415
+                },
+                {
+                    "x": 0.8941,
+                    "y": 0.1415
+                },
+                {
+                    "x": 0.8941,
+                    "y": 0.2606
+                },
+                {
+                    "x": 0.0863,
+                    "y": 0.2606
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='3' data-category='paragraph' style='font-size:16px'>MIC LEVEL LIMITER</p>",
+                "markdown": "MIC LEVEL LIMITER",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0814,
+                    "y": 0.2787
+                },
+                {
+                    "x": 0.3458,
+                    "y": 0.2787
+                },
+                {
+                    "x": 0.3458,
+                    "y": 0.3011
+                },
+                {
+                    "x": 0.0814,
+                    "y": 0.3011
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='4' data-category='paragraph' style='font-size:18px'>Reduces distortion caused by input that exceeds the limits of the<br>microphone's audio circuits.</p>",
+                "markdown": "Reduces distortion caused by input that exceeds the limits of the\nmicrophone's audio circuits.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0809,
+                    "y": 0.31
+                },
+                {
+                    "x": 0.8925,
+                    "y": 0.31
+                },
+                {
+                    "x": 0.8925,
+                    "y": 0.3607
+                },
+                {
+                    "x": 0.0809,
+                    "y": 0.3607
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='5' style='font-size:18px'><tr><td colspan=\"2\">Options</td></tr><tr><td>ON</td><td>OFF</td></tr><tr><td colspan=\"2\">WIND FILTER</td></tr><tr><td colspan=\"2\">Choose whether to enable wind noise reduction during movie recording.</td></tr><tr><td colspan=\"2\">Options</td></tr></table>",
+                "markdown": "| Options | Options |\n| --- | --- |\n| ON | OFF |\n| WIND FILTER | WIND FILTER |\n| Choose whether to enable wind noise reduction during movie recording. | Choose whether to enable wind noise reduction during movie recording. |\n| Options | Options |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0794,
+                    "y": 0.3718
+                },
+                {
+                    "x": 0.8956,
+                    "y": 0.3718
+                },
+                {
+                    "x": 0.8956,
+                    "y": 0.551
+                },
+                {
+                    "x": 0.0794,
+                    "y": 0.551
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='6' style='font-size:14px'><tr><td>ON</td><td>OFF</td></tr></table>",
+                "markdown": "| ON | OFF |\n| --- | --- |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0954,
+                    "y": 0.5348
+                },
+                {
+                    "x": 0.894,
+                    "y": 0.5348
+                },
+                {
+                    "x": 0.894,
+                    "y": 0.5857
+                },
+                {
+                    "x": 0.0954,
+                    "y": 0.5857
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "header",
+            "content": {
+                "html": "<br><header id='7' style='font-size:22px'>The<br>Shooting<br>Menus</header>",
+                "markdown": "The\nShooting\nMenus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0157,
+                    "y": 0.5785
+                },
+                {
+                    "x": 0.0426,
+                    "y": 0.5785
+                },
+                {
+                    "x": 0.0426,
+                    "y": 0.7316
+                },
+                {
+                    "x": 0.0157,
+                    "y": 0.7316
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='8' style='font-size:20px'>206</footer>",
+                "markdown": "206",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0821,
+                    "y": 0.9559
+                },
+                {
+                    "x": 0.1408,
+                    "y": 0.9559
+                },
+                {
+                    "x": 0.1408,
+                    "y": 0.9801
+                },
+                {
+                    "x": 0.0821,
+                    "y": 0.9801
+                }
+            ],
+            "id": 8,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

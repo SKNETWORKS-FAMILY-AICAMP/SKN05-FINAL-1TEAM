@@ -1,0 +1,350 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:14px'>IMAGE QUALITY SETTING (Still Photography)</header>\n<h1 id='1' style='font-size:16px'>COLOR</h1>\n<br><h1 id='2' style='font-size:20px'>Adjust color density. Choose higher values to increase saturation,<br>lower values to reduce it.</h1>\n<table id='3' style='font-size:14px'><tr><td colspan=\"9\">Options</td></tr><tr><td>-4</td><td>-3</td><td>-2</td><td>-1</td><td>0</td><td>+1</td><td>+2</td><td>+3</td><td>+4</td></tr></table>\n<br><h1 id='4' style='font-size:16px'>SHARPNESS</h1>\n\n<br><table id='6' style='font-size:14px'><tr><td rowspan=\"2\" colspan=\"9\">Options</td></tr><tr></tr><tr><td>-4</td><td>-3</td><td>-2</td><td>-1</td><td>0</td><td>+1</td><td>+2</td><td>+3</td><td>+4</td></tr><br><caption id='5' style='font-size:20px'>Sharpen or soften outlines. Choose higher values for sharper out-<br>lines, lower values for softer outlines.</caption></table>\n<br><p id='7' data-category='paragraph' style='font-size:16px'>HIGH ISO NR</p>\n\n<table id='9' style='font-size:14px'><tr><td rowspan=\"2\" colspan=\"9\">Options</td></tr><tr></tr><tr><td>-4</td><td>-3</td><td>-2</td><td>-1</td><td>0</td><td>+1</td><td>+2</td><td>+3</td><td>+4</td></tr><br><caption id='8' style='font-size:18px'>Reduce noise in pictures taken at high sensitivities. Choose high-<br>er values to reduce noise and smooth outlines, lower values to<br>leave outlines visible.</caption></table>\n<footer id='10' style='font-size:18px'>1 15</footer>\n<br><footer id='11' style='font-size:22px'>6<br>The<br>Shooting<br>Menus</footer>",
+        "markdown": "IMAGE QUALITY SETTING (Still Photography)\n\n# COLOR\n\n# Adjust color density. Choose higher values to increase saturation,\nlower values to reduce it.\n\n| Options | Options | Options | Options | Options | Options | Options | Options | Options |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| -4 | -3 | -2 | -1 | 0 | +1 | +2 | +3 | +4 |\n\n\n# SHARPNESS\n\nSharpen or soften outlines. Choose higher values for sharper out-\nlines, lower values for softer outlines.\n\n| Options | Options | Options | Options | Options | Options | Options | Options | Options |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| Options | Options | Options | Options | Options | Options | Options | Options | Options |\n| -4 | -3 | -2 | -1 | 0 | +1 | +2 | +3 | +4 |\n\n\nHIGH ISO NR\n\nReduce noise in pictures taken at high sensitivities. Choose high-\ner values to reduce noise and smooth outlines, lower values to\nleave outlines visible.\n\n| Options | Options | Options | Options | Options | Options | Options | Options | Options |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| Options | Options | Options | Options | Options | Options | Options | Options | Options |\n| -4 | -3 | -2 | -1 | 0 | +1 | +2 | +3 | +4 |\n\n\n1 15\n\n6\nThe\nShooting\nMenus",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:14px'>IMAGE QUALITY SETTING (Still Photography)</header>",
+                "markdown": "IMAGE QUALITY SETTING (Still Photography)",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.4855,
+                    "y": 0.0275
+                },
+                {
+                    "x": 0.9182,
+                    "y": 0.0275
+                },
+                {
+                    "x": 0.9182,
+                    "y": 0.0515
+                },
+                {
+                    "x": 0.4855,
+                    "y": 0.0515
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='1' style='font-size:16px'>COLOR</h1>",
+                "markdown": "# COLOR",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1062,
+                    "y": 0.072
+                },
+                {
+                    "x": 0.2088,
+                    "y": 0.072
+                },
+                {
+                    "x": 0.2088,
+                    "y": 0.0959
+                },
+                {
+                    "x": 0.1062,
+                    "y": 0.0959
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='2' style='font-size:20px'>Adjust color density. Choose higher values to increase saturation,<br>lower values to reduce it.</h1>",
+                "markdown": "# Adjust color density. Choose higher values to increase saturation,\nlower values to reduce it.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1064,
+                    "y": 0.1045
+                },
+                {
+                    "x": 0.9179,
+                    "y": 0.1045
+                },
+                {
+                    "x": 0.9179,
+                    "y": 0.1536
+                },
+                {
+                    "x": 0.1064,
+                    "y": 0.1536
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='3' style='font-size:14px'><tr><td colspan=\"9\">Options</td></tr><tr><td>-4</td><td>-3</td><td>-2</td><td>-1</td><td>0</td><td>+1</td><td>+2</td><td>+3</td><td>+4</td></tr></table>",
+                "markdown": "| Options | Options | Options | Options | Options | Options | Options | Options | Options |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| -4 | -3 | -2 | -1 | 0 | +1 | +2 | +3 | +4 |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1153,
+                    "y": 0.1669
+                },
+                {
+                    "x": 0.9185,
+                    "y": 0.1669
+                },
+                {
+                    "x": 0.9185,
+                    "y": 0.2197
+                },
+                {
+                    "x": 0.1153,
+                    "y": 0.2197
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='4' style='font-size:16px'>SHARPNESS</h1>",
+                "markdown": "# SHARPNESS",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1065,
+                    "y": 0.2344
+                },
+                {
+                    "x": 0.2787,
+                    "y": 0.2344
+                },
+                {
+                    "x": 0.2787,
+                    "y": 0.2569
+                },
+                {
+                    "x": 0.1065,
+                    "y": 0.2569
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='5' data-category='paragraph' style='font-size:20px'>Sharpen or soften outlines. Choose higher values for sharper out-<br>lines, lower values for softer outlines.</p>",
+                "markdown": "Sharpen or soften outlines. Choose higher values for sharper out-\nlines, lower values for softer outlines.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1073,
+                    "y": 0.2657
+                },
+                {
+                    "x": 0.9161,
+                    "y": 0.2657
+                },
+                {
+                    "x": 0.9161,
+                    "y": 0.3165
+                },
+                {
+                    "x": 0.1073,
+                    "y": 0.3165
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='6' style='font-size:14px'><tr><td rowspan=\"2\" colspan=\"9\">Options</td></tr><tr></tr><tr><td>-4</td><td>-3</td><td>-2</td><td>-1</td><td>0</td><td>+1</td><td>+2</td><td>+3</td><td>+4</td></tr></table>",
+                "markdown": "| Options | Options | Options | Options | Options | Options | Options | Options | Options |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| Options | Options | Options | Options | Options | Options | Options | Options | Options |\n| -4 | -3 | -2 | -1 | 0 | +1 | +2 | +3 | +4 |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1093,
+                    "y": 0.3287
+                },
+                {
+                    "x": 0.9175,
+                    "y": 0.3287
+                },
+                {
+                    "x": 0.9175,
+                    "y": 0.3825
+                },
+                {
+                    "x": 0.1093,
+                    "y": 0.3825
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='7' data-category='paragraph' style='font-size:16px'>HIGH ISO NR</p>",
+                "markdown": "HIGH ISO NR",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1086,
+                    "y": 0.3968
+                },
+                {
+                    "x": 0.2851,
+                    "y": 0.3968
+                },
+                {
+                    "x": 0.2851,
+                    "y": 0.4192
+                },
+                {
+                    "x": 0.1086,
+                    "y": 0.4192
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='8' data-category='paragraph' style='font-size:18px'>Reduce noise in pictures taken at high sensitivities. Choose high-<br>er values to reduce noise and smooth outlines, lower values to<br>leave outlines visible.</p>",
+                "markdown": "Reduce noise in pictures taken at high sensitivities. Choose high-\ner values to reduce noise and smooth outlines, lower values to\nleave outlines visible.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1068,
+                    "y": 0.4275
+                },
+                {
+                    "x": 0.9186,
+                    "y": 0.4275
+                },
+                {
+                    "x": 0.9186,
+                    "y": 0.5033
+                },
+                {
+                    "x": 0.1068,
+                    "y": 0.5033
+                }
+            ],
+            "id": 8,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='9' style='font-size:14px'><tr><td rowspan=\"2\" colspan=\"9\">Options</td></tr><tr></tr><tr><td>-4</td><td>-3</td><td>-2</td><td>-1</td><td>0</td><td>+1</td><td>+2</td><td>+3</td><td>+4</td></tr></table>",
+                "markdown": "| Options | Options | Options | Options | Options | Options | Options | Options | Options |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| Options | Options | Options | Options | Options | Options | Options | Options | Options |\n| -4 | -3 | -2 | -1 | 0 | +1 | +2 | +3 | +4 |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1073,
+                    "y": 0.5168
+                },
+                {
+                    "x": 0.9171,
+                    "y": 0.5168
+                },
+                {
+                    "x": 0.9171,
+                    "y": 0.5683
+                },
+                {
+                    "x": 0.1073,
+                    "y": 0.5683
+                }
+            ],
+            "id": 9,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='10' style='font-size:18px'>1 15</footer>",
+                "markdown": "1 15",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.8622,
+                    "y": 0.9566
+                },
+                {
+                    "x": 0.9174,
+                    "y": 0.9566
+                },
+                {
+                    "x": 0.9174,
+                    "y": 0.9794
+                },
+                {
+                    "x": 0.8622,
+                    "y": 0.9794
+                }
+            ],
+            "id": 10,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<br><footer id='11' style='font-size:22px'>6<br>The<br>Shooting<br>Menus</footer>",
+                "markdown": "6\nThe\nShooting\nMenus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.956,
+                    "y": 0.5404
+                },
+                {
+                    "x": 0.9826,
+                    "y": 0.5404
+                },
+                {
+                    "x": 0.9826,
+                    "y": 0.7314
+                },
+                {
+                    "x": 0.956,
+                    "y": 0.7314
+                }
+            ],
+            "id": 11,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

@@ -1,0 +1,406 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<h1 id='0' style='font-size:16px'>MONOCHROMATIC COLOR</h1>\n<br><p id='1' data-category='paragraph' style='font-size:16px'>Add a reddish or bluish tinge (warm or<br>cool color cast) to the A ACROS and<br>MONOCHROME monochrome film<br>simulations. Color can be adjusted on the<br>WARM-COOL and G (Green)-M (Magenta)<br>axes.</p>\n<br><figure id='2' data-category='chart'><img style='font-size:14px' alt=\"MONOCHROMATIC COLOR \nWARM \nCOOL \nWC 0 MG 0 \nM ◀ G \nOK SET \n\" data-coord=\"top-left:(1719,403); bottom-right:(2451,976)\" /></figure>\n<p id='3' data-category='paragraph' style='font-size:16px'>GRAIN EFFECT</p>\n\n<p id='5' data-category='paragraph' style='font-size:18px'>ROUGHNESS</p>\n<table id='6' style='font-size:16px'><tr><td>Option</td><td>Description</td></tr><tr><td>STRONG</td><td>Choose for rougher grains.</td></tr><tr><td>WEAK</td><td>Choose for smoother grains.</td></tr><tr><td>OFF</td><td>Turn the effect off.</td></tr><br><caption id='4' style='font-size:18px'>Add a film grain effect.</caption></table>\n\n<table id='8' style='font-size:16px'><tr><td>Option</td><td>Description</td></tr><tr><td>LARGE</td><td>Choose for coarser grains.</td></tr><tr><td>SMALL</td><td>Choose for finer grains.</td></tr><caption id='7' style='font-size:16px'>SIZE</caption></table>\n<p id='9' data-category='paragraph' style='font-size:16px'>COLOR CHROME EFFECT</p>\n<br><header id='10' style='font-size:22px'>The<br>Shooting<br>Menus</header>\n\n<table id='12' style='font-size:14px'><tr><td>Option</td><td>Description</td></tr><tr><td>STRONG</td><td>Choose for a strong effect.</td></tr><tr><td>WEAK</td><td>Choose for a weak effect.</td></tr><tr><td>OFF</td><td>Turn the effect off.</td></tr><br><caption id='11' style='font-size:20px'>Increase the range of tones available for rendering colors that<br>tend to be highly saturated, such as reds, yellows, and greens.</caption></table>\n<footer id='13' style='font-size:20px'>108</footer>",
+        "markdown": "# MONOCHROMATIC COLOR\n\nAdd a reddish or bluish tinge (warm or\ncool color cast) to the A ACROS and\nMONOCHROME monochrome film\nsimulations. Color can be adjusted on the\nWARM-COOL and G (Green)-M (Magenta)\naxes.\n\n![image](/image/placeholder)\nMONOCHROMATIC COLOR \nWARM \nCOOL \nWC 0 MG 0 \nM ◀ G \nOK SET \n\n\nGRAIN EFFECT\n\nAdd a film grain effect.\n\nROUGHNESS\n\n| Option | Description |\n| --- | --- |\n| STRONG | Choose for rougher grains. |\n| WEAK | Choose for smoother grains. |\n| OFF | Turn the effect off. |\n\n\nSIZE\n\n| Option | Description |\n| --- | --- |\n| LARGE | Choose for coarser grains. |\n| SMALL | Choose for finer grains. |\n\n\nCOLOR CHROME EFFECT\n\nThe\nShooting\nMenus\n\nIncrease the range of tones available for rendering colors that\ntend to be highly saturated, such as reds, yellows, and greens.\n\n| Option | Description |\n| --- | --- |\n| STRONG | Choose for a strong effect. |\n| WEAK | Choose for a weak effect. |\n| OFF | Turn the effect off. |\n\n\n108",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='0' style='font-size:16px'>MONOCHROMATIC COLOR</h1>",
+                "markdown": "# MONOCHROMATIC COLOR",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0822,
+                    "y": 0.0731
+                },
+                {
+                    "x": 0.4446,
+                    "y": 0.0731
+                },
+                {
+                    "x": 0.4446,
+                    "y": 0.0952
+                },
+                {
+                    "x": 0.0822,
+                    "y": 0.0952
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='1' data-category='paragraph' style='font-size:16px'>Add a reddish or bluish tinge (warm or<br>cool color cast) to the A ACROS and<br>MONOCHROME monochrome film<br>simulations. Color can be adjusted on the<br>WARM-COOL and G (Green)-M (Magenta)<br>axes.</p>",
+                "markdown": "Add a reddish or bluish tinge (warm or\ncool color cast) to the A ACROS and\nMONOCHROME monochrome film\nsimulations. Color can be adjusted on the\nWARM-COOL and G (Green)-M (Magenta)\naxes.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0822,
+                    "y": 0.1042
+                },
+                {
+                    "x": 0.6018,
+                    "y": 0.1042
+                },
+                {
+                    "x": 0.6018,
+                    "y": 0.256
+                },
+                {
+                    "x": 0.0822,
+                    "y": 0.256
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "figure",
+            "content": {
+                "html": "<br><figure id='2' data-category='chart'><img style='font-size:14px' alt=\"MONOCHROMATIC COLOR \nWARM \nCOOL \nWC 0 MG 0 \nM ◀ G \nOK SET \n\" data-coord=\"top-left:(1719,403); bottom-right:(2451,976)\" /></figure>",
+                "markdown": "![image](/image/placeholder)\nMONOCHROMATIC COLOR \nWARM \nCOOL \nWC 0 MG 0 \nM ◀ G \nOK SET \n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6219,
+                    "y": 0.1036
+                },
+                {
+                    "x": 0.8871,
+                    "y": 0.1036
+                },
+                {
+                    "x": 0.8871,
+                    "y": 0.2505
+                },
+                {
+                    "x": 0.6219,
+                    "y": 0.2505
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='3' data-category='paragraph' style='font-size:16px'>GRAIN EFFECT</p>",
+                "markdown": "GRAIN EFFECT",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0821,
+                    "y": 0.2779
+                },
+                {
+                    "x": 0.2831,
+                    "y": 0.2779
+                },
+                {
+                    "x": 0.2831,
+                    "y": 0.2996
+                },
+                {
+                    "x": 0.0821,
+                    "y": 0.2996
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='4' data-category='paragraph' style='font-size:18px'>Add a film grain effect.</p>",
+                "markdown": "Add a film grain effect.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0818,
+                    "y": 0.3089
+                },
+                {
+                    "x": 0.3697,
+                    "y": 0.3089
+                },
+                {
+                    "x": 0.3697,
+                    "y": 0.3346
+                },
+                {
+                    "x": 0.0818,
+                    "y": 0.3346
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='5' data-category='paragraph' style='font-size:18px'>ROUGHNESS</p>",
+                "markdown": "ROUGHNESS",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0953,
+                    "y": 0.3565
+                },
+                {
+                    "x": 0.2587,
+                    "y": 0.3565
+                },
+                {
+                    "x": 0.2587,
+                    "y": 0.378
+                },
+                {
+                    "x": 0.0953,
+                    "y": 0.378
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='6' style='font-size:16px'><tr><td>Option</td><td>Description</td></tr><tr><td>STRONG</td><td>Choose for rougher grains.</td></tr><tr><td>WEAK</td><td>Choose for smoother grains.</td></tr><tr><td>OFF</td><td>Turn the effect off.</td></tr></table>",
+                "markdown": "| Option | Description |\n| --- | --- |\n| STRONG | Choose for rougher grains. |\n| WEAK | Choose for smoother grains. |\n| OFF | Turn the effect off. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0821,
+                    "y": 0.3965
+                },
+                {
+                    "x": 0.8911,
+                    "y": 0.3965
+                },
+                {
+                    "x": 0.8911,
+                    "y": 0.4941
+                },
+                {
+                    "x": 0.0821,
+                    "y": 0.4941
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='7' data-category='paragraph' style='font-size:16px'>SIZE</p>",
+                "markdown": "SIZE",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0983,
+                    "y": 0.5147
+                },
+                {
+                    "x": 0.1577,
+                    "y": 0.5147
+                },
+                {
+                    "x": 0.1577,
+                    "y": 0.5365
+                },
+                {
+                    "x": 0.0983,
+                    "y": 0.5365
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='8' style='font-size:16px'><tr><td>Option</td><td>Description</td></tr><tr><td>LARGE</td><td>Choose for coarser grains.</td></tr><tr><td>SMALL</td><td>Choose for finer grains.</td></tr></table>",
+                "markdown": "| Option | Description |\n| --- | --- |\n| LARGE | Choose for coarser grains. |\n| SMALL | Choose for finer grains. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.085,
+                    "y": 0.5551
+                },
+                {
+                    "x": 0.8906,
+                    "y": 0.5551
+                },
+                {
+                    "x": 0.8906,
+                    "y": 0.6294
+                },
+                {
+                    "x": 0.085,
+                    "y": 0.6294
+                }
+            ],
+            "id": 8,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='9' data-category='paragraph' style='font-size:16px'>COLOR CHROME EFFECT</p>",
+                "markdown": "COLOR CHROME EFFECT",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0799,
+                    "y": 0.6472
+                },
+                {
+                    "x": 0.4076,
+                    "y": 0.6472
+                },
+                {
+                    "x": 0.4076,
+                    "y": 0.6707
+                },
+                {
+                    "x": 0.0799,
+                    "y": 0.6707
+                }
+            ],
+            "id": 9,
+            "page": 1
+        },
+        {
+            "category": "header",
+            "content": {
+                "html": "<br><header id='10' style='font-size:22px'>The<br>Shooting<br>Menus</header>",
+                "markdown": "The\nShooting\nMenus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0161,
+                    "y": 0.5751
+                },
+                {
+                    "x": 0.042,
+                    "y": 0.5751
+                },
+                {
+                    "x": 0.042,
+                    "y": 0.7298
+                },
+                {
+                    "x": 0.0161,
+                    "y": 0.7298
+                }
+            ],
+            "id": 10,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='11' data-category='paragraph' style='font-size:20px'>Increase the range of tones available for rendering colors that<br>tend to be highly saturated, such as reds, yellows, and greens.</p>",
+                "markdown": "Increase the range of tones available for rendering colors that\ntend to be highly saturated, such as reds, yellows, and greens.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0812,
+                    "y": 0.6788
+                },
+                {
+                    "x": 0.8927,
+                    "y": 0.6788
+                },
+                {
+                    "x": 0.8927,
+                    "y": 0.7303
+                },
+                {
+                    "x": 0.0812,
+                    "y": 0.7303
+                }
+            ],
+            "id": 11,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='12' style='font-size:14px'><tr><td>Option</td><td>Description</td></tr><tr><td>STRONG</td><td>Choose for a strong effect.</td></tr><tr><td>WEAK</td><td>Choose for a weak effect.</td></tr><tr><td>OFF</td><td>Turn the effect off.</td></tr></table>",
+                "markdown": "| Option | Description |\n| --- | --- |\n| STRONG | Choose for a strong effect. |\n| WEAK | Choose for a weak effect. |\n| OFF | Turn the effect off. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0831,
+                    "y": 0.7418
+                },
+                {
+                    "x": 0.8899,
+                    "y": 0.7418
+                },
+                {
+                    "x": 0.8899,
+                    "y": 0.8381
+                },
+                {
+                    "x": 0.0831,
+                    "y": 0.8381
+                }
+            ],
+            "id": 12,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='13' style='font-size:20px'>108</footer>",
+                "markdown": "108",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.085,
+                    "y": 0.957
+                },
+                {
+                    "x": 0.14,
+                    "y": 0.957
+                },
+                {
+                    "x": 0.14,
+                    "y": 0.9794
+                },
+                {
+                    "x": 0.085,
+                    "y": 0.9794
+                }
+            ],
+            "id": 13,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

@@ -1,0 +1,266 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:14px'>USER SETTING</header>\n<h1 id='1' style='font-size:16px'>SHUTTER COUNT</h1>\n<br><p id='2' data-category='paragraph' style='font-size:18px'>View the approximate number of times the shutter has been re-<br>leased.</p>\n<br><p id='3' data-category='paragraph' style='font-size:16px'>Other actions may also increment the counter, for example turning<br>the camera off, changing the viewfinder display selection, or choosing<br>playback mode.</p>\n<h1 id='4' style='font-size:14px'>SOUND & FLASH</h1>\n\n<br><table id='6' style='font-size:14px'><tr><td colspan=\"2\">Options</td></tr><tr><td>ON</td><td>OFF</td></tr><br><caption id='5' style='font-size:18px'>Select OFF to disable the speaker, flash, illuminator, and self-tim-<br>er lamp in situations in which camera sounds and lights may be<br>unwelcome.</caption></table>\n<footer id='7' style='font-size:22px'>The<br>Setup<br>Menus</footer>\n<footer id='8' style='font-size:20px'>203</footer>",
+        "markdown": "USER SETTING\n\n# SHUTTER COUNT\n\nView the approximate number of times the shutter has been re-\nleased.\n\nOther actions may also increment the counter, for example turning\nthe camera off, changing the viewfinder display selection, or choosing\nplayback mode.\n\n# SOUND & FLASH\n\nSelect OFF to disable the speaker, flash, illuminator, and self-tim-\ner lamp in situations in which camera sounds and lights may be\nunwelcome.\n\n| Options | Options |\n| --- | --- |\n| ON | OFF |\n\n\nThe\nSetup\nMenus\n\n203",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:14px'>USER SETTING</header>",
+                "markdown": "USER SETTING",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.7749,
+                    "y": 0.0286
+                },
+                {
+                    "x": 0.9183,
+                    "y": 0.0286
+                },
+                {
+                    "x": 0.9183,
+                    "y": 0.0488
+                },
+                {
+                    "x": 0.7749,
+                    "y": 0.0488
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='1' style='font-size:16px'>SHUTTER COUNT</h1>",
+                "markdown": "# SHUTTER COUNT",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1062,
+                    "y": 0.0722
+                },
+                {
+                    "x": 0.3425,
+                    "y": 0.0722
+                },
+                {
+                    "x": 0.3425,
+                    "y": 0.095
+                },
+                {
+                    "x": 0.1062,
+                    "y": 0.095
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='2' data-category='paragraph' style='font-size:18px'>View the approximate number of times the shutter has been re-<br>leased.</p>",
+                "markdown": "View the approximate number of times the shutter has been re-\nleased.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1068,
+                    "y": 0.1041
+                },
+                {
+                    "x": 0.9159,
+                    "y": 0.1041
+                },
+                {
+                    "x": 0.9159,
+                    "y": 0.1524
+                },
+                {
+                    "x": 0.1068,
+                    "y": 0.1524
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='3' data-category='paragraph' style='font-size:16px'>Other actions may also increment the counter, for example turning<br>the camera off, changing the viewfinder display selection, or choosing<br>playback mode.</p>",
+                "markdown": "Other actions may also increment the counter, for example turning\nthe camera off, changing the viewfinder display selection, or choosing\nplayback mode.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1201,
+                    "y": 0.1617
+                },
+                {
+                    "x": 0.9147,
+                    "y": 0.1617
+                },
+                {
+                    "x": 0.9147,
+                    "y": 0.2281
+                },
+                {
+                    "x": 0.1201,
+                    "y": 0.2281
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='4' style='font-size:14px'>SOUND & FLASH</h1>",
+                "markdown": "# SOUND & FLASH",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1051,
+                    "y": 0.2493
+                },
+                {
+                    "x": 0.336,
+                    "y": 0.2493
+                },
+                {
+                    "x": 0.336,
+                    "y": 0.2717
+                },
+                {
+                    "x": 0.1051,
+                    "y": 0.2717
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='5' data-category='paragraph' style='font-size:18px'>Select OFF to disable the speaker, flash, illuminator, and self-tim-<br>er lamp in situations in which camera sounds and lights may be<br>unwelcome.</p>",
+                "markdown": "Select OFF to disable the speaker, flash, illuminator, and self-tim-\ner lamp in situations in which camera sounds and lights may be\nunwelcome.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1061,
+                    "y": 0.281
+                },
+                {
+                    "x": 0.919,
+                    "y": 0.281
+                },
+                {
+                    "x": 0.919,
+                    "y": 0.3566
+                },
+                {
+                    "x": 0.1061,
+                    "y": 0.3566
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='6' style='font-size:14px'><tr><td colspan=\"2\">Options</td></tr><tr><td>ON</td><td>OFF</td></tr></table>",
+                "markdown": "| Options | Options |\n| --- | --- |\n| ON | OFF |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1061,
+                    "y": 0.369
+                },
+                {
+                    "x": 0.9183,
+                    "y": 0.369
+                },
+                {
+                    "x": 0.9183,
+                    "y": 0.4194
+                },
+                {
+                    "x": 0.1061,
+                    "y": 0.4194
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='7' style='font-size:22px'>The<br>Setup<br>Menus</footer>",
+                "markdown": "The\nSetup\nMenus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9557,
+                    "y": 0.5045
+                },
+                {
+                    "x": 0.9877,
+                    "y": 0.5045
+                },
+                {
+                    "x": 0.9877,
+                    "y": 0.6785
+                },
+                {
+                    "x": 0.9557,
+                    "y": 0.6785
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='8' style='font-size:20px'>203</footer>",
+                "markdown": "203",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.8604,
+                    "y": 0.956
+                },
+                {
+                    "x": 0.9174,
+                    "y": 0.956
+                },
+                {
+                    "x": 0.9174,
+                    "y": 0.9795
+                },
+                {
+                    "x": 0.8604,
+                    "y": 0.9795
+                }
+            ],
+            "id": 8,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

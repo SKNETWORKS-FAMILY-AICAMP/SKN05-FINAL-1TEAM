@@ -1,0 +1,378 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:14px'>TIME CODE SETTING (Movie Recording)</header>\n<h1 id='1' style='font-size:18px'>DROP FRAME</h1>\n<br><p id='2' data-category='paragraph' style='font-size:20px'>At frame rates of 59.94P, and 29.97P, a discrepancy will gradu-<br>ally develop between the time code (measured in seconds) and<br>the actual recording time (measured in fractions of a second).<br>Choose whether the camera drops frames as necessary to match<br>the recording time to the time code.</p>\n<table id='3' style='font-size:16px'><tr><td>Option</td><td>Description</td></tr><tr><td>ON</td><td>The camera drops frames as necessary to maintain a strict match between the time code and the actual recording time.</td></tr><tr><td>OFF</td><td>Frames are not dropped.</td></tr></table>\n<br><p id='4' data-category='paragraph' style='font-size:16px'>The time code display varies with the option selected.</p>\n<figure id='5'><img style='font-size:14px' alt=\"FHD 12h12m36s\n29 97\n12h 12m36s\n図\npeloper⌀\nTC:00:00:00. 00\nLR\" data-coord=\"top-left:(620,1495); bottom-right:(1383,2008)\" /></figure>\n<br><p id='6' data-category='paragraph' style='font-size:22px'>TC:00:00:00 ◐<br>ON<br>TC:00:00:000<br>OFF</p>\n<p id='7' data-category='paragraph' style='font-size:14px'>● Selecting a frame rate of 23.98P disables frame drop.</p>\n<p id='8' data-category='paragraph' style='font-size:18px'>HDMI TIME CODE OUTPUT</p>\n\n<br><table id='10' style='font-size:18px'><tr><td colspan=\"2\">Options</td></tr><tr><td>ON</td><td>OFF</td></tr><br><caption id='9' style='font-size:18px'>Choose whether time codes are output to HDMI devices.</caption></table>\n<br><header id='11' style='font-size:22px'>The<br>Shooting<br>Menus</header>\n<footer id='12' style='font-size:20px'>218</footer>",
+        "markdown": "TIME CODE SETTING (Movie Recording)\n\n# DROP FRAME\n\nAt frame rates of 59.94P, and 29.97P, a discrepancy will gradu-\nally develop between the time code (measured in seconds) and\nthe actual recording time (measured in fractions of a second).\nChoose whether the camera drops frames as necessary to match\nthe recording time to the time code.\n\n| Option | Description |\n| --- | --- |\n| ON | The camera drops frames as necessary to maintain a strict match between the time code and the actual recording time. |\n| OFF | Frames are not dropped. |\n\n\nThe time code display varies with the option selected.\n\n![image](/image/placeholder)\nFHD 12h12m36s\n29 97\n12h 12m36s\n図\npeloper⌀\nTC:00:00:00. 00\nLR\n\nTC:00:00:00 ◐\nON\nTC:00:00:000\nOFF\n\n● Selecting a frame rate of 23.98P disables frame drop.\n\nHDMI TIME CODE OUTPUT\n\nChoose whether time codes are output to HDMI devices.\n\n| Options | Options |\n| --- | --- |\n| ON | OFF |\n\n\nThe\nShooting\nMenus\n\n218",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:14px'>TIME CODE SETTING (Movie Recording)</header>",
+                "markdown": "TIME CODE SETTING (Movie Recording)",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.5066,
+                    "y": 0.0279
+                },
+                {
+                    "x": 0.8927,
+                    "y": 0.0279
+                },
+                {
+                    "x": 0.8927,
+                    "y": 0.051
+                },
+                {
+                    "x": 0.5066,
+                    "y": 0.051
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='1' style='font-size:18px'>DROP FRAME</h1>",
+                "markdown": "# DROP FRAME",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0819,
+                    "y": 0.0728
+                },
+                {
+                    "x": 0.2687,
+                    "y": 0.0728
+                },
+                {
+                    "x": 0.2687,
+                    "y": 0.0942
+                },
+                {
+                    "x": 0.0819,
+                    "y": 0.0942
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='2' data-category='paragraph' style='font-size:20px'>At frame rates of 59.94P, and 29.97P, a discrepancy will gradu-<br>ally develop between the time code (measured in seconds) and<br>the actual recording time (measured in fractions of a second).<br>Choose whether the camera drops frames as necessary to match<br>the recording time to the time code.</p>",
+                "markdown": "At frame rates of 59.94P, and 29.97P, a discrepancy will gradu-\nally develop between the time code (measured in seconds) and\nthe actual recording time (measured in fractions of a second).\nChoose whether the camera drops frames as necessary to match\nthe recording time to the time code.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0797,
+                    "y": 0.1042
+                },
+                {
+                    "x": 0.8937,
+                    "y": 0.1042
+                },
+                {
+                    "x": 0.8937,
+                    "y": 0.2308
+                },
+                {
+                    "x": 0.0797,
+                    "y": 0.2308
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='3' style='font-size:16px'><tr><td>Option</td><td>Description</td></tr><tr><td>ON</td><td>The camera drops frames as necessary to maintain a strict match between the time code and the actual recording time.</td></tr><tr><td>OFF</td><td>Frames are not dropped.</td></tr></table>",
+                "markdown": "| Option | Description |\n| --- | --- |\n| ON | The camera drops frames as necessary to maintain a strict match between the time code and the actual recording time. |\n| OFF | Frames are not dropped. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0873,
+                    "y": 0.2439
+                },
+                {
+                    "x": 0.8914,
+                    "y": 0.2439
+                },
+                {
+                    "x": 0.8914,
+                    "y": 0.3408
+                },
+                {
+                    "x": 0.0873,
+                    "y": 0.3408
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='4' data-category='paragraph' style='font-size:16px'>The time code display varies with the option selected.</p>",
+                "markdown": "The time code display varies with the option selected.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0883,
+                    "y": 0.3522
+                },
+                {
+                    "x": 0.729,
+                    "y": 0.3522
+                },
+                {
+                    "x": 0.729,
+                    "y": 0.3734
+                },
+                {
+                    "x": 0.0883,
+                    "y": 0.3734
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "figure",
+            "content": {
+                "html": "<figure id='5'><img style='font-size:14px' alt=\"FHD 12h12m36s\n29 97\n12h 12m36s\n図\npeloper⌀\nTC:00:00:00. 00\nLR\" data-coord=\"top-left:(620,1495); bottom-right:(1383,2008)\" /></figure>",
+                "markdown": "![image](/image/placeholder)\nFHD 12h12m36s\n29 97\n12h 12m36s\n図\npeloper⌀\nTC:00:00:00. 00\nLR",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.2244,
+                    "y": 0.3836
+                },
+                {
+                    "x": 0.5004,
+                    "y": 0.3836
+                },
+                {
+                    "x": 0.5004,
+                    "y": 0.5151
+                },
+                {
+                    "x": 0.2244,
+                    "y": 0.5151
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='6' data-category='paragraph' style='font-size:22px'>TC:00:00:00 ◐<br>ON<br>TC:00:00:000<br>OFF</p>",
+                "markdown": "TC:00:00:00 ◐\nON\nTC:00:00:000\nOFF",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.5187,
+                    "y": 0.3869
+                },
+                {
+                    "x": 0.7878,
+                    "y": 0.3869
+                },
+                {
+                    "x": 0.7878,
+                    "y": 0.5322
+                },
+                {
+                    "x": 0.5187,
+                    "y": 0.5322
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='7' data-category='paragraph' style='font-size:14px'>● Selecting a frame rate of 23.98P disables frame drop.</p>",
+                "markdown": "● Selecting a frame rate of 23.98P disables frame drop.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.115,
+                    "y": 0.5425
+                },
+                {
+                    "x": 0.7184,
+                    "y": 0.5425
+                },
+                {
+                    "x": 0.7184,
+                    "y": 0.5653
+                },
+                {
+                    "x": 0.115,
+                    "y": 0.5653
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='8' data-category='paragraph' style='font-size:18px'>HDMI TIME CODE OUTPUT</p>",
+                "markdown": "HDMI TIME CODE OUTPUT",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0821,
+                    "y": 0.5852
+                },
+                {
+                    "x": 0.436,
+                    "y": 0.5852
+                },
+                {
+                    "x": 0.436,
+                    "y": 0.6083
+                },
+                {
+                    "x": 0.0821,
+                    "y": 0.6083
+                }
+            ],
+            "id": 8,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='9' data-category='paragraph' style='font-size:18px'>Choose whether time codes are output to HDMI devices.</p>",
+                "markdown": "Choose whether time codes are output to HDMI devices.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.08,
+                    "y": 0.6177
+                },
+                {
+                    "x": 0.7928,
+                    "y": 0.6177
+                },
+                {
+                    "x": 0.7928,
+                    "y": 0.6412
+                },
+                {
+                    "x": 0.08,
+                    "y": 0.6412
+                }
+            ],
+            "id": 9,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='10' style='font-size:18px'><tr><td colspan=\"2\">Options</td></tr><tr><td>ON</td><td>OFF</td></tr></table>",
+                "markdown": "| Options | Options |\n| --- | --- |\n| ON | OFF |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1359,
+                    "y": 0.6539
+                },
+                {
+                    "x": 0.8891,
+                    "y": 0.6539
+                },
+                {
+                    "x": 0.8891,
+                    "y": 0.7052
+                },
+                {
+                    "x": 0.1359,
+                    "y": 0.7052
+                }
+            ],
+            "id": 10,
+            "page": 1
+        },
+        {
+            "category": "header",
+            "content": {
+                "html": "<br><header id='11' style='font-size:22px'>The<br>Shooting<br>Menus</header>",
+                "markdown": "The\nShooting\nMenus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0158,
+                    "y": 0.5744
+                },
+                {
+                    "x": 0.0424,
+                    "y": 0.5744
+                },
+                {
+                    "x": 0.0424,
+                    "y": 0.7309
+                },
+                {
+                    "x": 0.0158,
+                    "y": 0.7309
+                }
+            ],
+            "id": 11,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='12' style='font-size:20px'>218</footer>",
+                "markdown": "218",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0822,
+                    "y": 0.956
+                },
+                {
+                    "x": 0.1405,
+                    "y": 0.956
+                },
+                {
+                    "x": 0.1405,
+                    "y": 0.9798
+                },
+                {
+                    "x": 0.0822,
+                    "y": 0.9798
+                }
+            ],
+            "id": 12,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

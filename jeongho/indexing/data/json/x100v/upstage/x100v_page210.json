@@ -1,0 +1,294 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:22px'>The<br>Setup<br>Menus</header>\n<br><h1 id='1' style='font-size:16px'>IMAGE DISP.</h1>\n<br><h1 id='2' style='font-size:20px'>Choose how long images are displayed after shooting.</h1>\n<table id='3' style='font-size:14px'><tr><td>Option</td><td>Description</td></tr><tr><td>CONTINUOUS</td><td>Pictures are displayed until the MENU/OK button is pressed or the shutter button is pressed halfway. To zoom in on the active focus point, press the center of the rear command dial; press again to cancel zoom.</td></tr><tr><td>1.5 SEC</td><td rowspan=\"2\">Pictures are displayed for the selected time or until the shutter button is pressed halfway.</td></tr><tr><td>0.5 SEC</td></tr><tr><td>OFF</td><td>Pictures are not displayed after shooting.</td></tr></table>\n<br><p id='4' data-category='list' style='font-size:16px'>Colors may differ slightly from those in the final image.<br>● \"Noise\" mottling may be visible at high sensitivities.</p>\n<p id='5' data-category='paragraph' style='font-size:18px'>AUTOROTATE DISPLAYS</p>\n\n<br><table id='7' style='font-size:16px'><tr><td colspan=\"2\">Options</td></tr><tr><td>ON</td><td>OFF</td></tr><br><caption id='6' style='font-size:16px'>Choose whether the indicators in the viewfinder and LCD monitor<br>rotate to match camera orientation.</caption></table>\n<p id='8' data-category='paragraph' style='font-size:14px'>8</p>\n<footer id='9' style='font-size:20px'>210</footer>",
+        "markdown": "The\nSetup\nMenus\n\n# IMAGE DISP.\n\n# Choose how long images are displayed after shooting.\n\n| Option | Description |\n| --- | --- |\n| CONTINUOUS | Pictures are displayed until the MENU/OK button is pressed or the shutter button is pressed halfway. To zoom in on the active focus point, press the center of the rear command dial; press again to cancel zoom. |\n| 1.5 SEC | Pictures are displayed for the selected time or until the shutter button is pressed halfway. |\n| 0.5 SEC | Pictures are displayed for the selected time or until the shutter button is pressed halfway. |\n| OFF | Pictures are not displayed after shooting. |\n\n\n- Colors may differ slightly from those in the final image.\n- ● \"Noise\" mottling may be visible at high sensitivities.\n\n\nAUTOROTATE DISPLAYS\n\nChoose whether the indicators in the viewfinder and LCD monitor\nrotate to match camera orientation.\n\n| Options | Options |\n| --- | --- |\n| ON | OFF |\n\n\n8\n\n210",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:22px'>The<br>Setup<br>Menus</header>",
+                "markdown": "The\nSetup\nMenus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0184,
+                    "y": 0.5085
+                },
+                {
+                    "x": 0.0403,
+                    "y": 0.5085
+                },
+                {
+                    "x": 0.0403,
+                    "y": 0.6372
+                },
+                {
+                    "x": 0.0184,
+                    "y": 0.6372
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='1' style='font-size:16px'>IMAGE DISP.</h1>",
+                "markdown": "# IMAGE DISP.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0833,
+                    "y": 0.0728
+                },
+                {
+                    "x": 0.25,
+                    "y": 0.0728
+                },
+                {
+                    "x": 0.25,
+                    "y": 0.0944
+                },
+                {
+                    "x": 0.0833,
+                    "y": 0.0944
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='2' style='font-size:20px'>Choose how long images are displayed after shooting.</h1>",
+                "markdown": "# Choose how long images are displayed after shooting.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0804,
+                    "y": 0.1038
+                },
+                {
+                    "x": 0.7649,
+                    "y": 0.1038
+                },
+                {
+                    "x": 0.7649,
+                    "y": 0.1299
+                },
+                {
+                    "x": 0.0804,
+                    "y": 0.1299
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='3' style='font-size:14px'><tr><td>Option</td><td>Description</td></tr><tr><td>CONTINUOUS</td><td>Pictures are displayed until the MENU/OK button is pressed or the shutter button is pressed halfway. To zoom in on the active focus point, press the center of the rear command dial; press again to cancel zoom.</td></tr><tr><td>1.5 SEC</td><td rowspan=\"2\">Pictures are displayed for the selected time or until the shutter button is pressed halfway.</td></tr><tr><td>0.5 SEC</td></tr><tr><td>OFF</td><td>Pictures are not displayed after shooting.</td></tr></table>",
+                "markdown": "| Option | Description |\n| --- | --- |\n| CONTINUOUS | Pictures are displayed until the MENU/OK button is pressed or the shutter button is pressed halfway. To zoom in on the active focus point, press the center of the rear command dial; press again to cancel zoom. |\n| 1.5 SEC | Pictures are displayed for the selected time or until the shutter button is pressed halfway. |\n| 0.5 SEC | Pictures are displayed for the selected time or until the shutter button is pressed halfway. |\n| OFF | Pictures are not displayed after shooting. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0825,
+                    "y": 0.1416
+                },
+                {
+                    "x": 0.8955,
+                    "y": 0.1416
+                },
+                {
+                    "x": 0.8955,
+                    "y": 0.3364
+                },
+                {
+                    "x": 0.0825,
+                    "y": 0.3364
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "list",
+            "content": {
+                "html": "<br><p id='4' data-category='list' style='font-size:16px'>Colors may differ slightly from those in the final image.<br>● \"Noise\" mottling may be visible at high sensitivities.</p>",
+                "markdown": "- Colors may differ slightly from those in the final image.\n- ● \"Noise\" mottling may be visible at high sensitivities.\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0924,
+                    "y": 0.3427
+                },
+                {
+                    "x": 0.7362,
+                    "y": 0.3427
+                },
+                {
+                    "x": 0.7362,
+                    "y": 0.3874
+                },
+                {
+                    "x": 0.0924,
+                    "y": 0.3874
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='5' data-category='paragraph' style='font-size:18px'>AUTOROTATE DISPLAYS</p>",
+                "markdown": "AUTOROTATE DISPLAYS",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0818,
+                    "y": 0.4091
+                },
+                {
+                    "x": 0.4061,
+                    "y": 0.4091
+                },
+                {
+                    "x": 0.4061,
+                    "y": 0.43
+                },
+                {
+                    "x": 0.0818,
+                    "y": 0.43
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='6' data-category='paragraph' style='font-size:16px'>Choose whether the indicators in the viewfinder and LCD monitor<br>rotate to match camera orientation.</p>",
+                "markdown": "Choose whether the indicators in the viewfinder and LCD monitor\nrotate to match camera orientation.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0818,
+                    "y": 0.4394
+                },
+                {
+                    "x": 0.891,
+                    "y": 0.4394
+                },
+                {
+                    "x": 0.891,
+                    "y": 0.4898
+                },
+                {
+                    "x": 0.0818,
+                    "y": 0.4898
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='7' style='font-size:16px'><tr><td colspan=\"2\">Options</td></tr><tr><td>ON</td><td>OFF</td></tr></table>",
+                "markdown": "| Options | Options |\n| --- | --- |\n| ON | OFF |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1174,
+                    "y": 0.5022
+                },
+                {
+                    "x": 0.8902,
+                    "y": 0.5022
+                },
+                {
+                    "x": 0.8902,
+                    "y": 0.5527
+                },
+                {
+                    "x": 0.1174,
+                    "y": 0.5527
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='8' data-category='paragraph' style='font-size:14px'>8</p>",
+                "markdown": "8",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0284,
+                    "y": 0.6598
+                },
+                {
+                    "x": 0.0417,
+                    "y": 0.6598
+                },
+                {
+                    "x": 0.0417,
+                    "y": 0.6746
+                },
+                {
+                    "x": 0.0284,
+                    "y": 0.6746
+                }
+            ],
+            "id": 8,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='9' style='font-size:20px'>210</footer>",
+                "markdown": "210",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0823,
+                    "y": 0.956
+                },
+                {
+                    "x": 0.141,
+                    "y": 0.956
+                },
+                {
+                    "x": 0.141,
+                    "y": 0.9799
+                },
+                {
+                    "x": 0.0823,
+                    "y": 0.9799
+                }
+            ],
+            "id": 9,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

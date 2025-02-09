@@ -1,0 +1,59 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "# Noise Reduction\n\nReduce noise in movies shot at high sensitivities. Choose higher values to reduce noise and smooth outlines, lower values to leave outlines visible.\n\n**Options:**\n\n- -4\n- -3\n- -2\n- -1\n- 0\n- +1\n- +2\n- +3\n- +4\n\n# 4K Interframe NR\n\nSelect **ON** to enable interframe noise reduction.\n\n**Options:**\n\n- ON\n- OFF\n\n> - Interframe noise reduction is available only when frame rates of 29.97P or slower are selected at a frame size of 4K or DCI.\n> - “Ghosting” may occur with moving subjects or if the camera is moved during shooting.",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "Noise Reduction",
+                    "md": "# Noise Reduction"
+                },
+                {
+                    "type": "text",
+                    "value": "Reduce noise in movies shot at high sensitivities. Choose higher values to reduce noise and smooth outlines, lower values to leave outlines visible.\n\n**Options:**\n\n- -4\n- -3\n- -2\n- -1\n- 0\n- +1\n- +2\n- +3\n- +4",
+                    "md": "Reduce noise in movies shot at high sensitivities. Choose higher values to reduce noise and smooth outlines, lower values to leave outlines visible.\n\n**Options:**\n\n- -4\n- -3\n- -2\n- -1\n- 0\n- +1\n- +2\n- +3\n- +4"
+                },
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "4K Interframe NR",
+                    "md": "# 4K Interframe NR"
+                },
+                {
+                    "type": "text",
+                    "value": "Select **ON** to enable interframe noise reduction.\n\n**Options:**\n\n- ON\n- OFF\n\n> - Interframe noise reduction is available only when frame rates of 29.97P or slower are selected at a frame size of 4K or DCI.\n> - “Ghosting” may occur with moving subjects or if the camera is moved during shooting.",
+                    "md": "Select **ON** to enable interframe noise reduction.\n\n**Options:**\n\n- ON\n- OFF\n\n> - Interframe noise reduction is available only when frame rates of 29.97P or slower are selected at a frame size of 4K or DCI.\n> - “Ghosting” may occur with moving subjects or if the camera is moved during shooting."
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 549.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "fae83ae6-ffca-472a-b86a-4492ace633ea",
+    "file_path": "../data/raw_data/x100v/x100v_split/x100v_page180.pdf"
+}

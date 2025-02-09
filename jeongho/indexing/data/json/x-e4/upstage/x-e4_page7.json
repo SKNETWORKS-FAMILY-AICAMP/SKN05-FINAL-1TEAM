@@ -1,0 +1,294 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:14px'>Parts of the Camera</header>\n<h1 id='1' style='font-size:20px'>The Indicator Lamp</h1>\n<br><h1 id='2' style='font-size:18px'>Camera status is shown by the indicator<br>lamp.</h1>\n<br><figure id='3'><img alt=\"\" data-coord=\"top-left:(1753,477); bottom-right:(2487,988)\" /></figure>\n\n<br><table id='5' style='font-size:14px'><tr><td>Indicator lamp</td><td>Camera status</td></tr><tr><td>Glows green</td><td>Focus locked.</td></tr><tr><td>Blinks green</td><td>Focus or slow shutter speed warning. Pictures can be taken.</td></tr><tr><td>Blinks green and orange</td><td>● Camera on: Recording pictures. Additional pictures can be taken. * Camera off: Uploading pictures to a smartphone or tablet.</td></tr><tr><td>Glows orange</td><td>Recording pictures. No additional pictures can be taken at this time.</td></tr><tr><td>Blinks orange</td><td>Flash charging; flash will not fire when picture is taken.</td></tr><tr><td>Blinks red</td><td>Lens or memory error.</td></tr><br><caption id='4' style='font-size:14px'>1</caption></table>\n<br><p id='6' data-category='paragraph' style='font-size:14px'>* Displayed only if pictures are selected for upload.</p>\n<br><p id='7' data-category='list' style='font-size:16px'>Warnings may also appear in the display.<br>● The indicator lamp remains off while your eye is to the viewfinder.<br>● The □ MOVIE SETTING > TALLY LIGHT option can be used to<br>choose the lamp (indicator or AF-assist) that lights during movie re-<br>cording and whether the lamp blinks or remains steady.</p>\n<br><footer id='8' style='font-size:22px'>Before<br>You<br>Begin</footer>\n<footer id='9' style='font-size:18px'>7</footer>",
+        "markdown": "Parts of the Camera\n\n# The Indicator Lamp\n\n# Camera status is shown by the indicator\nlamp.\n\n![image](/image/placeholder)\n\n\n1\n\n| Indicator lamp | Camera status |\n| --- | --- |\n| Glows green | Focus locked. |\n| Blinks green | Focus or slow shutter speed warning. Pictures can be taken. |\n| Blinks green and orange | ● Camera on: Recording pictures. Additional pictures can be taken. * Camera off: Uploading pictures to a smartphone or tablet. |\n| Glows orange | Recording pictures. No additional pictures can be taken at this time. |\n| Blinks orange | Flash charging; flash will not fire when picture is taken. |\n| Blinks red | Lens or memory error. |\n\n\n* Displayed only if pictures are selected for upload.\n\n- Warnings may also appear in the display.\n- ● The indicator lamp remains off while your eye is to the viewfinder.\n- ● The □ MOVIE SETTING > TALLY LIGHT option can be used to\n- choose the lamp (indicator or AF-assist) that lights during movie re-\n- cording and whether the lamp blinks or remains steady.\n\n\nBefore\nYou\nBegin\n\n7",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:14px'>Parts of the Camera</header>",
+                "markdown": "Parts of the Camera",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.7228,
+                    "y": 0.0297
+                },
+                {
+                    "x": 0.9184,
+                    "y": 0.0297
+                },
+                {
+                    "x": 0.9184,
+                    "y": 0.0494
+                },
+                {
+                    "x": 0.7228,
+                    "y": 0.0494
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='1' style='font-size:20px'>The Indicator Lamp</h1>",
+                "markdown": "# The Indicator Lamp",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1089,
+                    "y": 0.0728
+                },
+                {
+                    "x": 0.3747,
+                    "y": 0.0728
+                },
+                {
+                    "x": 0.3747,
+                    "y": 0.0966
+                },
+                {
+                    "x": 0.1089,
+                    "y": 0.0966
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='2' style='font-size:18px'>Camera status is shown by the indicator<br>lamp.</h1>",
+                "markdown": "# Camera status is shown by the indicator\nlamp.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1061,
+                    "y": 0.1048
+                },
+                {
+                    "x": 0.6283,
+                    "y": 0.1048
+                },
+                {
+                    "x": 0.6283,
+                    "y": 0.1542
+                },
+                {
+                    "x": 0.1061,
+                    "y": 0.1542
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "figure",
+            "content": {
+                "html": "<br><figure id='3'><img alt=\"\" data-coord=\"top-left:(1753,477); bottom-right:(2487,988)\" /></figure>",
+                "markdown": "![image](/image/placeholder)\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6344,
+                    "y": 0.1225
+                },
+                {
+                    "x": 0.9001,
+                    "y": 0.1225
+                },
+                {
+                    "x": 0.9001,
+                    "y": 0.2536
+                },
+                {
+                    "x": 0.6344,
+                    "y": 0.2536
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='4' data-category='paragraph' style='font-size:14px'>1</p>",
+                "markdown": "1",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9595,
+                    "y": 0.2403
+                },
+                {
+                    "x": 0.9721,
+                    "y": 0.2403
+                },
+                {
+                    "x": 0.9721,
+                    "y": 0.2562
+                },
+                {
+                    "x": 0.9595,
+                    "y": 0.2562
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='5' style='font-size:14px'><tr><td>Indicator lamp</td><td>Camera status</td></tr><tr><td>Glows green</td><td>Focus locked.</td></tr><tr><td>Blinks green</td><td>Focus or slow shutter speed warning. Pictures can be taken.</td></tr><tr><td>Blinks green and orange</td><td>● Camera on: Recording pictures. Additional pictures can be taken. * Camera off: Uploading pictures to a smartphone or tablet.</td></tr><tr><td>Glows orange</td><td>Recording pictures. No additional pictures can be taken at this time.</td></tr><tr><td>Blinks orange</td><td>Flash charging; flash will not fire when picture is taken.</td></tr><tr><td>Blinks red</td><td>Lens or memory error.</td></tr></table>",
+                "markdown": "| Indicator lamp | Camera status |\n| --- | --- |\n| Glows green | Focus locked. |\n| Blinks green | Focus or slow shutter speed warning. Pictures can be taken. |\n| Blinks green and orange | ● Camera on: Recording pictures. Additional pictures can be taken. * Camera off: Uploading pictures to a smartphone or tablet. |\n| Glows orange | Recording pictures. No additional pictures can be taken at this time. |\n| Blinks orange | Flash charging; flash will not fire when picture is taken. |\n| Blinks red | Lens or memory error. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1058,
+                    "y": 0.2621
+                },
+                {
+                    "x": 0.9214,
+                    "y": 0.2621
+                },
+                {
+                    "x": 0.9214,
+                    "y": 0.5014
+                },
+                {
+                    "x": 0.1058,
+                    "y": 0.5014
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='6' data-category='paragraph' style='font-size:14px'>* Displayed only if pictures are selected for upload.</p>",
+                "markdown": "* Displayed only if pictures are selected for upload.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1043,
+                    "y": 0.5017
+                },
+                {
+                    "x": 0.5549,
+                    "y": 0.5017
+                },
+                {
+                    "x": 0.5549,
+                    "y": 0.5229
+                },
+                {
+                    "x": 0.1043,
+                    "y": 0.5229
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "list",
+            "content": {
+                "html": "<br><p id='7' data-category='list' style='font-size:16px'>Warnings may also appear in the display.<br>● The indicator lamp remains off while your eye is to the viewfinder.<br>● The □ MOVIE SETTING > TALLY LIGHT option can be used to<br>choose the lamp (indicator or AF-assist) that lights during movie re-<br>cording and whether the lamp blinks or remains steady.</p>",
+                "markdown": "- Warnings may also appear in the display.\n- ● The indicator lamp remains off while your eye is to the viewfinder.\n- ● The □ MOVIE SETTING > TALLY LIGHT option can be used to\n- choose the lamp (indicator or AF-assist) that lights during movie re-\n- cording and whether the lamp blinks or remains steady.\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1373,
+                    "y": 0.5298
+                },
+                {
+                    "x": 0.9142,
+                    "y": 0.5298
+                },
+                {
+                    "x": 0.9142,
+                    "y": 0.6441
+                },
+                {
+                    "x": 0.1373,
+                    "y": 0.6441
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<br><footer id='8' style='font-size:22px'>Before<br>You<br>Begin</footer>",
+                "markdown": "Before\nYou\nBegin",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.957,
+                    "y": 0.2777
+                },
+                {
+                    "x": 0.9809,
+                    "y": 0.2777
+                },
+                {
+                    "x": 0.9809,
+                    "y": 0.4017
+                },
+                {
+                    "x": 0.957,
+                    "y": 0.4017
+                }
+            ],
+            "id": 8,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='9' style='font-size:18px'>7</footer>",
+                "markdown": "7",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.8944,
+                    "y": 0.9565
+                },
+                {
+                    "x": 0.9168,
+                    "y": 0.9565
+                },
+                {
+                    "x": 0.9168,
+                    "y": 0.9786
+                },
+                {
+                    "x": 0.8944,
+                    "y": 0.9786
+                }
+            ],
+            "id": 9,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

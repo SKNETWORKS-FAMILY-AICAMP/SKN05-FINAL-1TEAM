@@ -1,0 +1,266 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:14px'>SCREEN SETTING</header>\n<h1 id='1' style='font-size:14px'>IMFORMATION CONTRAST ADJ.</h1>\n<br><h1 id='2' style='font-size:20px'>Adjust display contrast.</h1>\n<table id='3' style='font-size:14px'><tr><td>Option</td><td>Description</td></tr><tr><td>HIGH CONTRAST</td><td>High contrast.</td></tr><tr><td>STANDARD</td><td>Normal contrast.</td></tr><tr><td>LOW CONTRAST</td><td>Low contrast.</td></tr><tr><td>DARK AMBIENT LIGHTING</td><td>Contrast adjusted for dim ambient lighting.</td></tr></table>\n<p id='4' data-category='paragraph' style='font-size:14px'>LOCATION INFO</p>\n\n<table id='6' style='font-size:16px'><tr><td colspan=\"2\">Options</td></tr><tr><td>ON</td><td>OFF</td></tr><br><caption id='5' style='font-size:18px'>Select ON to display location info downloaded from a smart-<br>phone.</caption></table>\n<footer id='7' style='font-size:22px'>The<br>Setup<br>Menus<br>9</footer>\n<footer id='8' style='font-size:18px'>287</footer>",
+        "markdown": "SCREEN SETTING\n\n# IMFORMATION CONTRAST ADJ.\n\n# Adjust display contrast.\n\n| Option | Description |\n| --- | --- |\n| HIGH CONTRAST | High contrast. |\n| STANDARD | Normal contrast. |\n| LOW CONTRAST | Low contrast. |\n| DARK AMBIENT LIGHTING | Contrast adjusted for dim ambient lighting. |\n\n\nLOCATION INFO\n\nSelect ON to display location info downloaded from a smart-\nphone.\n\n| Options | Options |\n| --- | --- |\n| ON | OFF |\n\n\nThe\nSetup\nMenus\n9\n\n287",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:14px'>SCREEN SETTING</header>",
+                "markdown": "SCREEN SETTING",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.7477,
+                    "y": 0.0286
+                },
+                {
+                    "x": 0.9184,
+                    "y": 0.0286
+                },
+                {
+                    "x": 0.9184,
+                    "y": 0.049
+                },
+                {
+                    "x": 0.7477,
+                    "y": 0.049
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='1' style='font-size:14px'>IMFORMATION CONTRAST ADJ.</h1>",
+                "markdown": "# IMFORMATION CONTRAST ADJ.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1101,
+                    "y": 0.0733
+                },
+                {
+                    "x": 0.5276,
+                    "y": 0.0733
+                },
+                {
+                    "x": 0.5276,
+                    "y": 0.0947
+                },
+                {
+                    "x": 0.1101,
+                    "y": 0.0947
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='2' style='font-size:20px'>Adjust display contrast.</h1>",
+                "markdown": "# Adjust display contrast.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1066,
+                    "y": 0.105
+                },
+                {
+                    "x": 0.4051,
+                    "y": 0.105
+                },
+                {
+                    "x": 0.4051,
+                    "y": 0.1285
+                },
+                {
+                    "x": 0.1066,
+                    "y": 0.1285
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='3' style='font-size:14px'><tr><td>Option</td><td>Description</td></tr><tr><td>HIGH CONTRAST</td><td>High contrast.</td></tr><tr><td>STANDARD</td><td>Normal contrast.</td></tr><tr><td>LOW CONTRAST</td><td>Low contrast.</td></tr><tr><td>DARK AMBIENT LIGHTING</td><td>Contrast adjusted for dim ambient lighting.</td></tr></table>",
+                "markdown": "| Option | Description |\n| --- | --- |\n| HIGH CONTRAST | High contrast. |\n| STANDARD | Normal contrast. |\n| LOW CONTRAST | Low contrast. |\n| DARK AMBIENT LIGHTING | Contrast adjusted for dim ambient lighting. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1093,
+                    "y": 0.1421
+                },
+                {
+                    "x": 0.9171,
+                    "y": 0.1421
+                },
+                {
+                    "x": 0.9171,
+                    "y": 0.2618
+                },
+                {
+                    "x": 0.1093,
+                    "y": 0.2618
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='4' data-category='paragraph' style='font-size:14px'>LOCATION INFO</p>",
+                "markdown": "LOCATION INFO",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1102,
+                    "y": 0.2797
+                },
+                {
+                    "x": 0.3289,
+                    "y": 0.2797
+                },
+                {
+                    "x": 0.3289,
+                    "y": 0.3025
+                },
+                {
+                    "x": 0.1102,
+                    "y": 0.3025
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='5' data-category='paragraph' style='font-size:18px'>Select ON to display location info downloaded from a smart-<br>phone.</p>",
+                "markdown": "Select ON to display location info downloaded from a smart-\nphone.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1071,
+                    "y": 0.3113
+                },
+                {
+                    "x": 0.9166,
+                    "y": 0.3113
+                },
+                {
+                    "x": 0.9166,
+                    "y": 0.3614
+                },
+                {
+                    "x": 0.1071,
+                    "y": 0.3614
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='6' style='font-size:16px'><tr><td colspan=\"2\">Options</td></tr><tr><td>ON</td><td>OFF</td></tr></table>",
+                "markdown": "| Options | Options |\n| --- | --- |\n| ON | OFF |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1068,
+                    "y": 0.3754
+                },
+                {
+                    "x": 0.9178,
+                    "y": 0.3754
+                },
+                {
+                    "x": 0.9178,
+                    "y": 0.4234
+                },
+                {
+                    "x": 0.1068,
+                    "y": 0.4234
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='7' style='font-size:22px'>The<br>Setup<br>Menus<br>9</footer>",
+                "markdown": "The\nSetup\nMenus\n9",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9547,
+                    "y": 0.5668
+                },
+                {
+                    "x": 0.9905,
+                    "y": 0.5668
+                },
+                {
+                    "x": 0.9905,
+                    "y": 0.7399
+                },
+                {
+                    "x": 0.9547,
+                    "y": 0.7399
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='8' style='font-size:18px'>287</footer>",
+                "markdown": "287",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.8606,
+                    "y": 0.9566
+                },
+                {
+                    "x": 0.9168,
+                    "y": 0.9566
+                },
+                {
+                    "x": 0.9168,
+                    "y": 0.9787
+                },
+                {
+                    "x": 0.8606,
+                    "y": 0.9787
+                }
+            ],
+            "id": 8,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

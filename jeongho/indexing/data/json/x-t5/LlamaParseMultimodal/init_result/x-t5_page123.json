@@ -1,0 +1,95 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "\n# AUTO\n\nUse **SHOOTING SETTING > ISO AUTO SETTING** to choose the base sensitivity, maximum sensitivity, and minimum shutter speed for the A position on the sensitivity dial. Settings for **AUTO1, AUTO2,** and **AUTO3** can be stored separately; the defaults are shown below.\n\n| Item                | Options       | Default       |\n|---------------------|---------------|---------------|\n|                     |               | AUTO1 | AUTO2 | AUTO3 |\n| DEFAULT SENSITIVITY | 125–12800     | 125   |       |       |\n| MAX. SENSITIVITY    | 400–12800     | 800   | 3200  | 12800 |\n| MIN. SHUTTER SPEED  | 1/8000–30 SEC, AUTO | AUTO  |       |       |\n\nThe camera automatically chooses a sensitivity between the default and maximum values; sensitivity is only raised above the default value if the shutter speed required for optimal exposure would be slower than the value selected for **MIN. SHUTTER SPEED**.\n\n> 💡 **Note:**\n> - If the value selected for **DEFAULT SENSITIVITY** is higher than that selected for **MAX. SENSITIVITY**, **DEFAULT SENSITIVITY** will be set to the value selected for **MAX. SENSITIVITY**.\n> - The camera may select shutter speeds slower than **MIN. SHUTTER SPEED** if pictures would still be underexposed at the value selected for **MAX. SENSITIVITY**.\n> - If **AUTO** is selected for **MIN. SHUTTER SPEED**, the camera will choose the minimum shutter speed automatically. The minimum shutter speed is not affected by the option selected for image stabilization.\n",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "AUTO",
+                    "md": "# AUTO"
+                },
+                {
+                    "type": "text",
+                    "value": "Use **SHOOTING SETTING > ISO AUTO SETTING** to choose the base sensitivity, maximum sensitivity, and minimum shutter speed for the A position on the sensitivity dial. Settings for **AUTO1, AUTO2,** and **AUTO3** can be stored separately; the defaults are shown below.",
+                    "md": "Use **SHOOTING SETTING > ISO AUTO SETTING** to choose the base sensitivity, maximum sensitivity, and minimum shutter speed for the A position on the sensitivity dial. Settings for **AUTO1, AUTO2,** and **AUTO3** can be stored separately; the defaults are shown below."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Item",
+                            "Options",
+                            "Default"
+                        ],
+                        [
+                            "",
+                            "",
+                            "AUTO1",
+                            "AUTO2",
+                            "AUTO3"
+                        ],
+                        [
+                            "DEFAULT SENSITIVITY",
+                            "125–12800",
+                            "125",
+                            "",
+                            ""
+                        ],
+                        [
+                            "MAX. SENSITIVITY",
+                            "400–12800",
+                            "800",
+                            "3200",
+                            "12800"
+                        ],
+                        [
+                            "MIN. SHUTTER SPEED",
+                            "1/8000–30 SEC, AUTO",
+                            "AUTO",
+                            "",
+                            ""
+                        ]
+                    ],
+                    "md": "| Item                | Options       | Default       |\n|---------------------|---------------|---------------|\n|                     |               | AUTO1 | AUTO2 | AUTO3 |\n| DEFAULT SENSITIVITY | 125–12800     | 125   |       |       |\n| MAX. SENSITIVITY    | 400–12800     | 800   | 3200  | 12800 |\n| MIN. SHUTTER SPEED  | 1/8000–30 SEC, AUTO | AUTO  |       |       |",
+                    "isPerfectTable": false,
+                    "csv": "\"Item\",\"Options\",\"Default\"\n\"\",\"\",\"AUTO1\",\"AUTO2\",\"AUTO3\"\n\"DEFAULT SENSITIVITY\",\"125–12800\",\"125\",\"\",\"\"\n\"MAX. SENSITIVITY\",\"400–12800\",\"800\",\"3200\",\"12800\"\n\"MIN. SHUTTER SPEED\",\"1/8000–30 SEC, AUTO\",\"AUTO\",\"\",\"\""
+                },
+                {
+                    "type": "text",
+                    "value": "The camera automatically chooses a sensitivity between the default and maximum values; sensitivity is only raised above the default value if the shutter speed required for optimal exposure would be slower than the value selected for **MIN. SHUTTER SPEED**.\n\n> 💡 **Note:**\n> - If the value selected for **DEFAULT SENSITIVITY** is higher than that selected for **MAX. SENSITIVITY**, **DEFAULT SENSITIVITY** will be set to the value selected for **MAX. SENSITIVITY**.\n> - The camera may select shutter speeds slower than **MIN. SHUTTER SPEED** if pictures would still be underexposed at the value selected for **MAX. SENSITIVITY**.\n> - If **AUTO** is selected for **MIN. SHUTTER SPEED**, the camera will choose the minimum shutter speed automatically. The minimum shutter speed is not affected by the option selected for image stabilization.",
+                    "md": "The camera automatically chooses a sensitivity between the default and maximum values; sensitivity is only raised above the default value if the shutter speed required for optimal exposure would be slower than the value selected for **MIN. SHUTTER SPEED**.\n\n> 💡 **Note:**\n> - If the value selected for **DEFAULT SENSITIVITY** is higher than that selected for **MAX. SENSITIVITY**, **DEFAULT SENSITIVITY** will be set to the value selected for **MAX. SENSITIVITY**.\n> - The camera may select shutter speeds slower than **MIN. SHUTTER SPEED** if pictures would still be underexposed at the value selected for **MAX. SENSITIVITY**.\n> - If **AUTO** is selected for **MIN. SHUTTER SPEED**, the camera will choose the minimum shutter speed automatically. The minimum shutter speed is not affected by the option selected for image stabilization."
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "parsingMode": "multimodal-openai-gpt4o",
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 719.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "30f52162-36e9-4150-bbae-43c7d9a4fe8c",
+    "file_path": "../data/raw_data/x-t5/x-t5_split/x-t5_page123.pdf"
+}

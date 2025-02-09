@@ -1,0 +1,294 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:16px'>The Playback Display</header>\n<header id='1' style='font-size:22px'>Playback<br>and<br>the<br>Playback<br>Menu</header>\n<br><h1 id='2' style='font-size:20px'>Viewing Photo Information</h1>\n<br><p id='3' data-category='paragraph' style='font-size:18px'>The photo information display changes each<br>time the focus stick (focus lever) is pressed up.</p>\n<figure id='4'><img style='font-size:14px' alt=\"Basic data Info display 1\n12/31/2023 1/999 100-0001 12/31/2023 1/999 100-0001\n★★★★ ★★★\nNEXT\n⌀fhd ▶ 1/1000 F5.6 図+ 1.0 ISO 12800 ⌀of ⑤ 59.94\nFHD\n▶ 1/ 1000 F5.6 ⌀+1.0 ISO 12800 �� ⌀= ⑤ 59.94\n↑\n■\n100-0001 1/999\n← 12/31/2023 12:10 AM\nS.S.1/1000 F 5.6 ISO 12800 +1.0\ns.s1/1000 F5.6 ISO 12800 ⌀+ 1.0\n2/2 BACK 1/2 ▲ NEXT\nInfo display 3 Info display 2\" data-coord=\"top-left:(508,990); bottom-right:(2283,2262)\" /></figure>\n<br><p id='5' data-category='paragraph' style='font-size:14px'>Zooming in on the Focus Point</p>\n<br><header id='6' style='font-size:16px'>7</header>\n<br><p id='7' data-category='paragraph' style='font-size:14px'>Press the center of the focus stick (focus lever) to zoom in on the focus<br>point. Press again to return to full-frame playback.</p>\n<figure id='8'><img alt=\"\" data-coord=\"top-left:(478,2640); bottom-right:(2208,3165)\" /></figure>\n<footer id='9' style='font-size:20px'>222</footer>",
+        "markdown": "The Playback Display\n\nPlayback\nand\nthe\nPlayback\nMenu\n\n# Viewing Photo Information\n\nThe photo information display changes each\ntime the focus stick (focus lever) is pressed up.\n\n![image](/image/placeholder)\nBasic data Info display 1\n12/31/2023 1/999 100-0001 12/31/2023 1/999 100-0001\n★★★★ ★★★\nNEXT\n⌀fhd ▶ 1/1000 F5.6 図+ 1.0 ISO 12800 ⌀of ⑤ 59.94\nFHD\n▶ 1/ 1000 F5.6 ⌀+1.0 ISO 12800 �� ⌀= ⑤ 59.94\n↑\n■\n100-0001 1/999\n← 12/31/2023 12:10 AM\nS.S.1/1000 F 5.6 ISO 12800 +1.0\ns.s1/1000 F5.6 ISO 12800 ⌀+ 1.0\n2/2 BACK 1/2 ▲ NEXT\nInfo display 3 Info display 2\n\nZooming in on the Focus Point\n\n7\n\nPress the center of the focus stick (focus lever) to zoom in on the focus\npoint. Press again to return to full-frame playback.\n\n![image](/image/placeholder)\n\n\n222",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:16px'>The Playback Display</header>",
+                "markdown": "The Playback Display",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6852,
+                    "y": 0.0288
+                },
+                {
+                    "x": 0.8932,
+                    "y": 0.0288
+                },
+                {
+                    "x": 0.8932,
+                    "y": 0.051
+                },
+                {
+                    "x": 0.6852,
+                    "y": 0.051
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='1' style='font-size:22px'>Playback<br>and<br>the<br>Playback<br>Menu</header>",
+                "markdown": "Playback\nand\nthe\nPlayback\nMenu",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0179,
+                    "y": 0.3388
+                },
+                {
+                    "x": 0.0425,
+                    "y": 0.3388
+                },
+                {
+                    "x": 0.0425,
+                    "y": 0.5802
+                },
+                {
+                    "x": 0.0179,
+                    "y": 0.5802
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='2' style='font-size:20px'>Viewing Photo Information</h1>",
+                "markdown": "# Viewing Photo Information",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0867,
+                    "y": 0.0725
+                },
+                {
+                    "x": 0.3534,
+                    "y": 0.0725
+                },
+                {
+                    "x": 0.3534,
+                    "y": 0.0934
+                },
+                {
+                    "x": 0.0867,
+                    "y": 0.0934
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='3' data-category='paragraph' style='font-size:18px'>The photo information display changes each<br>time the focus stick (focus lever) is pressed up.</p>",
+                "markdown": "The photo information display changes each\ntime the focus stick (focus lever) is pressed up.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0818,
+                    "y": 0.0952
+                },
+                {
+                    "x": 0.5998,
+                    "y": 0.0952
+                },
+                {
+                    "x": 0.5998,
+                    "y": 0.1401
+                },
+                {
+                    "x": 0.0818,
+                    "y": 0.1401
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "figure",
+            "content": {
+                "html": "<figure id='4'><img style='font-size:14px' alt=\"Basic data Info display 1\n12/31/2023 1/999 100-0001 12/31/2023 1/999 100-0001\n★★★★ ★★★\nNEXT\n⌀fhd ▶ 1/1000 F5.6 図+ 1.0 ISO 12800 ⌀of ⑤ 59.94\nFHD\n▶ 1/ 1000 F5.6 ⌀+1.0 ISO 12800 �� ⌀= ⑤ 59.94\n↑\n■\n100-0001 1/999\n← 12/31/2023 12:10 AM\nS.S.1/1000 F 5.6 ISO 12800 +1.0\ns.s1/1000 F5.6 ISO 12800 ⌀+ 1.0\n2/2 BACK 1/2 ▲ NEXT\nInfo display 3 Info display 2\" data-coord=\"top-left:(508,990); bottom-right:(2283,2262)\" /></figure>",
+                "markdown": "![image](/image/placeholder)\nBasic data Info display 1\n12/31/2023 1/999 100-0001 12/31/2023 1/999 100-0001\n★★★★ ★★★\nNEXT\n⌀fhd ▶ 1/1000 F5.6 図+ 1.0 ISO 12800 ⌀of ⑤ 59.94\nFHD\n▶ 1/ 1000 F5.6 ⌀+1.0 ISO 12800 �� ⌀= ⑤ 59.94\n↑\n■\n100-0001 1/999\n← 12/31/2023 12:10 AM\nS.S.1/1000 F 5.6 ISO 12800 +1.0\ns.s1/1000 F5.6 ISO 12800 ⌀+ 1.0\n2/2 BACK 1/2 ▲ NEXT\nInfo display 3 Info display 2",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1841,
+                    "y": 0.254
+                },
+                {
+                    "x": 0.8261,
+                    "y": 0.254
+                },
+                {
+                    "x": 0.8261,
+                    "y": 0.5805
+                },
+                {
+                    "x": 0.1841,
+                    "y": 0.5805
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='5' data-category='paragraph' style='font-size:14px'>Zooming in on the Focus Point</p>",
+                "markdown": "Zooming in on the Focus Point",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0768,
+                    "y": 0.5901
+                },
+                {
+                    "x": 0.3817,
+                    "y": 0.5901
+                },
+                {
+                    "x": 0.3817,
+                    "y": 0.6116
+                },
+                {
+                    "x": 0.0768,
+                    "y": 0.6116
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "header",
+            "content": {
+                "html": "<br><header id='6' style='font-size:16px'>7</header>",
+                "markdown": "7",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0255,
+                    "y": 0.5968
+                },
+                {
+                    "x": 0.0441,
+                    "y": 0.5968
+                },
+                {
+                    "x": 0.0441,
+                    "y": 0.6179
+                },
+                {
+                    "x": 0.0255,
+                    "y": 0.6179
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='7' data-category='paragraph' style='font-size:14px'>Press the center of the focus stick (focus lever) to zoom in on the focus<br>point. Press again to return to full-frame playback.</p>",
+                "markdown": "Press the center of the focus stick (focus lever) to zoom in on the focus\npoint. Press again to return to full-frame playback.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0809,
+                    "y": 0.6127
+                },
+                {
+                    "x": 0.8918,
+                    "y": 0.6127
+                },
+                {
+                    "x": 0.8918,
+                    "y": 0.6599
+                },
+                {
+                    "x": 0.0809,
+                    "y": 0.6599
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "figure",
+            "content": {
+                "html": "<figure id='8'><img alt=\"\" data-coord=\"top-left:(478,2640); bottom-right:(2208,3165)\" /></figure>",
+                "markdown": "![image](/image/placeholder)\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1731,
+                    "y": 0.6774
+                },
+                {
+                    "x": 0.799,
+                    "y": 0.6774
+                },
+                {
+                    "x": 0.799,
+                    "y": 0.812
+                },
+                {
+                    "x": 0.1731,
+                    "y": 0.812
+                }
+            ],
+            "id": 8,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='9' style='font-size:20px'>222</footer>",
+                "markdown": "222",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0827,
+                    "y": 0.9564
+                },
+                {
+                    "x": 0.1394,
+                    "y": 0.9564
+                },
+                {
+                    "x": 0.1394,
+                    "y": 0.9787
+                },
+                {
+                    "x": 0.0827,
+                    "y": 0.9787
+                }
+            ],
+            "id": 9,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

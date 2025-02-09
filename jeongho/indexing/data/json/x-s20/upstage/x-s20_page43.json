@@ -1,0 +1,434 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<h1 id='0' style='font-size:22px'>Basic Setup</h1>\n<br><p id='1' data-category='paragraph' style='font-size:18px'>When you turn the camera on for the first time, you can<br>choose a language and set the camera clock. Follow the<br>steps below when turning the camera on for the first time.</p>\n<h1 id='2' style='font-size:16px'>1 Turn the camera on.</h1>\n<br><h1 id='3' style='font-size:20px'>A language-selection dialog will be<br>displayed.</h1>\n<br><figure id='4'><img style='font-size:14px' alt=\"OFF\n· ON\" data-coord=\"top-left:(1745,897); bottom-right:(2540,1401)\" /></figure>\n<p id='5' data-category='paragraph' style='font-size:18px'>2 Choose a language.</p>\n<br><p id='6' data-category='paragraph' style='font-size:18px'>Highlight a language and press<br>MENU/OK.</p>\n<br><figure id='7'><img style='font-size:20px' alt=\"↑\n↓\" data-coord=\"top-left:(1746,1693); bottom-right:(2533,2179)\" /></figure>\n<p id='8' data-category='paragraph' style='font-size:14px'>3 Choose a time zone.</p>\n<br><p id='9' data-category='paragraph' style='font-size:18px'>When prompted, choose a time zone<br>and turn daylight savings time on<br>or off using the focus stick (focus le-<br>ver), then highlight SET and press<br>MENU/OK.</p>\n<br><figure id='10' data-category='chart'><img style='font-size:14px' alt=\"AREA SETTING \nBERLIN/PARIS \nAREA SETTING ◀ GMT ±0:00 \nDAYLIGHT SAVINGS OFF \nSET \nBACK NO \n\" data-coord=\"top-left:(1785,2420); bottom-right:(2531,3004)\" /></figure>\n<p id='11' data-category='paragraph' style='font-size:16px'>To skip this step, press DISP/BACK.</p>\n<br><footer id='12' style='font-size:16px'>2</footer>\n<br><footer id='13' style='font-size:22px'>First<br>Steps</footer>\n<footer id='14' style='font-size:20px'>43</footer>",
+        "markdown": "# Basic Setup\n\nWhen you turn the camera on for the first time, you can\nchoose a language and set the camera clock. Follow the\nsteps below when turning the camera on for the first time.\n\n# 1 Turn the camera on.\n\n# A language-selection dialog will be\ndisplayed.\n\n![image](/image/placeholder)\nOFF\n· ON\n\n2 Choose a language.\n\nHighlight a language and press\nMENU/OK.\n\n![image](/image/placeholder)\n↑\n↓\n\n3 Choose a time zone.\n\nWhen prompted, choose a time zone\nand turn daylight savings time on\nor off using the focus stick (focus le-\nver), then highlight SET and press\nMENU/OK.\n\n![image](/image/placeholder)\nAREA SETTING \nBERLIN/PARIS \nAREA SETTING ◀ GMT ±0:00 \nDAYLIGHT SAVINGS OFF \nSET \nBACK NO \n\n\nTo skip this step, press DISP/BACK.\n\n2\n\nFirst\nSteps\n\n43",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='0' style='font-size:22px'>Basic Setup</h1>",
+                "markdown": "# Basic Setup",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.182,
+                    "y": 0.0734
+                },
+                {
+                    "x": 0.379,
+                    "y": 0.0734
+                },
+                {
+                    "x": 0.379,
+                    "y": 0.1012
+                },
+                {
+                    "x": 0.182,
+                    "y": 0.1012
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='1' data-category='paragraph' style='font-size:18px'>When you turn the camera on for the first time, you can<br>choose a language and set the camera clock. Follow the<br>steps below when turning the camera on for the first time.</p>",
+                "markdown": "When you turn the camera on for the first time, you can\nchoose a language and set the camera clock. Follow the\nsteps below when turning the camera on for the first time.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1758,
+                    "y": 0.1091
+                },
+                {
+                    "x": 0.918,
+                    "y": 0.1091
+                },
+                {
+                    "x": 0.918,
+                    "y": 0.1859
+                },
+                {
+                    "x": 0.1758,
+                    "y": 0.1859
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='2' style='font-size:16px'>1 Turn the camera on.</h1>",
+                "markdown": "# 1 Turn the camera on.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1175,
+                    "y": 0.1991
+                },
+                {
+                    "x": 0.4058,
+                    "y": 0.1991
+                },
+                {
+                    "x": 0.4058,
+                    "y": 0.2238
+                },
+                {
+                    "x": 0.1175,
+                    "y": 0.2238
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='3' style='font-size:20px'>A language-selection dialog will be<br>displayed.</h1>",
+                "markdown": "# A language-selection dialog will be\ndisplayed.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1504,
+                    "y": 0.2287
+                },
+                {
+                    "x": 0.6317,
+                    "y": 0.2287
+                },
+                {
+                    "x": 0.6317,
+                    "y": 0.28
+                },
+                {
+                    "x": 0.1504,
+                    "y": 0.28
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "figure",
+            "content": {
+                "html": "<br><figure id='4'><img style='font-size:14px' alt=\"OFF\n· ON\" data-coord=\"top-left:(1745,897); bottom-right:(2540,1401)\" /></figure>",
+                "markdown": "![image](/image/placeholder)\nOFF\n· ON",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6314,
+                    "y": 0.2302
+                },
+                {
+                    "x": 0.919,
+                    "y": 0.2302
+                },
+                {
+                    "x": 0.919,
+                    "y": 0.3595
+                },
+                {
+                    "x": 0.6314,
+                    "y": 0.3595
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='5' data-category='paragraph' style='font-size:18px'>2 Choose a language.</p>",
+                "markdown": "2 Choose a language.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.122,
+                    "y": 0.3946
+                },
+                {
+                    "x": 0.4004,
+                    "y": 0.3946
+                },
+                {
+                    "x": 0.4004,
+                    "y": 0.4213
+                },
+                {
+                    "x": 0.122,
+                    "y": 0.4213
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='6' data-category='paragraph' style='font-size:18px'>Highlight a language and press<br>MENU/OK.</p>",
+                "markdown": "Highlight a language and press\nMENU/OK.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1499,
+                    "y": 0.4249
+                },
+                {
+                    "x": 0.6304,
+                    "y": 0.4249
+                },
+                {
+                    "x": 0.6304,
+                    "y": 0.4747
+                },
+                {
+                    "x": 0.1499,
+                    "y": 0.4747
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "figure",
+            "content": {
+                "html": "<br><figure id='7'><img style='font-size:20px' alt=\"↑\n↓\" data-coord=\"top-left:(1746,1693); bottom-right:(2533,2179)\" /></figure>",
+                "markdown": "![image](/image/placeholder)\n↑\n↓",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6317,
+                    "y": 0.4344
+                },
+                {
+                    "x": 0.9167,
+                    "y": 0.4344
+                },
+                {
+                    "x": 0.9167,
+                    "y": 0.5592
+                },
+                {
+                    "x": 0.6317,
+                    "y": 0.5592
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='8' data-category='paragraph' style='font-size:14px'>3 Choose a time zone.</p>",
+                "markdown": "3 Choose a time zone.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1226,
+                    "y": 0.5919
+                },
+                {
+                    "x": 0.4074,
+                    "y": 0.5919
+                },
+                {
+                    "x": 0.4074,
+                    "y": 0.6177
+                },
+                {
+                    "x": 0.1226,
+                    "y": 0.6177
+                }
+            ],
+            "id": 8,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='9' data-category='paragraph' style='font-size:18px'>When prompted, choose a time zone<br>and turn daylight savings time on<br>or off using the focus stick (focus le-<br>ver), then highlight SET and press<br>MENU/OK.</p>",
+                "markdown": "When prompted, choose a time zone\nand turn daylight savings time on\nor off using the focus stick (focus le-\nver), then highlight SET and press\nMENU/OK.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1563,
+                    "y": 0.6218
+                },
+                {
+                    "x": 0.6298,
+                    "y": 0.6218
+                },
+                {
+                    "x": 0.6298,
+                    "y": 0.7479
+                },
+                {
+                    "x": 0.1563,
+                    "y": 0.7479
+                }
+            ],
+            "id": 9,
+            "page": 1
+        },
+        {
+            "category": "figure",
+            "content": {
+                "html": "<br><figure id='10' data-category='chart'><img style='font-size:14px' alt=\"AREA SETTING \nBERLIN/PARIS \nAREA SETTING ◀ GMT ±0:00 \nDAYLIGHT SAVINGS OFF \nSET \nBACK NO \n\" data-coord=\"top-left:(1785,2420); bottom-right:(2531,3004)\" /></figure>",
+                "markdown": "![image](/image/placeholder)\nAREA SETTING \nBERLIN/PARIS \nAREA SETTING ◀ GMT ±0:00 \nDAYLIGHT SAVINGS OFF \nSET \nBACK NO \n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.646,
+                    "y": 0.621
+                },
+                {
+                    "x": 0.9158,
+                    "y": 0.621
+                },
+                {
+                    "x": 0.9158,
+                    "y": 0.7708
+                },
+                {
+                    "x": 0.646,
+                    "y": 0.7708
+                }
+            ],
+            "id": 10,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='11' data-category='paragraph' style='font-size:16px'>To skip this step, press DISP/BACK.</p>",
+                "markdown": "To skip this step, press DISP/BACK.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1813,
+                    "y": 0.7901
+                },
+                {
+                    "x": 0.5536,
+                    "y": 0.7901
+                },
+                {
+                    "x": 0.5536,
+                    "y": 0.811
+                },
+                {
+                    "x": 0.1813,
+                    "y": 0.811
+                }
+            ],
+            "id": 11,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<br><footer id='12' style='font-size:16px'>2</footer>",
+                "markdown": "2",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9572,
+                    "y": 0.2974
+                },
+                {
+                    "x": 0.9757,
+                    "y": 0.2974
+                },
+                {
+                    "x": 0.9757,
+                    "y": 0.3169
+                },
+                {
+                    "x": 0.9572,
+                    "y": 0.3169
+                }
+            ],
+            "id": 12,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<br><footer id='13' style='font-size:22px'>First<br>Steps</footer>",
+                "markdown": "First\nSteps",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.957,
+                    "y": 0.3396
+                },
+                {
+                    "x": 0.9805,
+                    "y": 0.3396
+                },
+                {
+                    "x": 0.9805,
+                    "y": 0.4151
+                },
+                {
+                    "x": 0.957,
+                    "y": 0.4151
+                }
+            ],
+            "id": 13,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='14' style='font-size:20px'>43</footer>",
+                "markdown": "43",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.8778,
+                    "y": 0.9572
+                },
+                {
+                    "x": 0.917,
+                    "y": 0.9572
+                },
+                {
+                    "x": 0.917,
+                    "y": 0.979
+                },
+                {
+                    "x": 0.8778,
+                    "y": 0.979
+                }
+            ],
+            "id": 14,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

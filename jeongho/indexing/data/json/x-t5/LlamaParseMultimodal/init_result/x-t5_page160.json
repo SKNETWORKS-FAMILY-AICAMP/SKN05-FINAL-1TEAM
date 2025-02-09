@@ -1,0 +1,111 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "\n## SELECT CUSTOM SETTING\n\nRecall settings saved to custom settings banks 1 through 7 (**CUSTOM 1** through **CUSTOM 7**) using !Edit/Save Custom Setting Icon **EDIT/SAVE CUSTOM SETTING**.\n\n| Banks            |\n|------------------|\n| NOTHING SELECTED |\n| CUSTOM 1         |\n| CUSTOM 2         |\n| CUSTOM 3         |\n| CUSTOM 4         |\n| CUSTOM 5         |\n| CUSTOM 6         |\n| CUSTOM 7         |\n\n> If you would prefer not to recall saved settings, select **NOTHING SELECTED**.\n\n## EDIT/SAVE CUSTOM SETTING\n\nAdjust settings as desired and save them to a custom settings bank. Saved settings can be recalled using !Image Quality Setting Icon **IMAGE QUALITY SETTING** > !Select Custom Setting Icon **SELECT CUSTOM SETTING**.\n\n> Photo menu settings can be adjusted when the **STILL/MOVIE** mode dial is rotated to **STILL**.\n\n### Saving Custom Settings\n\nCreate a new custom settings bank.\n\n1. Select !Image Quality Setting Icon **IMAGE QUALITY SETTING** > !Edit/Save Custom Setting Icon **EDIT/SAVE CUSTOM SETTING** in the shooting menu and press **MENU/OK**.\n\n2. Highlight a destination bank for the new settings (**CREATE NEW C1** through **C7**) and press **MENU/OK**. A confirmation dialog will be displayed.\n\n   !Edit/Save Custom Setting Menu\n\n3. Highlight **OK** and press **MENU/OK**. Current camera settings will be saved to the selected bank.\n\n   !Create New Confirmation\n",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "SELECT CUSTOM SETTING",
+                    "md": "## SELECT CUSTOM SETTING"
+                },
+                {
+                    "type": "text",
+                    "value": "Recall settings saved to custom settings banks 1 through 7 (**CUSTOM 1** through **CUSTOM 7**) using !Edit/Save Custom Setting Icon **EDIT/SAVE CUSTOM SETTING**.",
+                    "md": "Recall settings saved to custom settings banks 1 through 7 (**CUSTOM 1** through **CUSTOM 7**) using !Edit/Save Custom Setting Icon **EDIT/SAVE CUSTOM SETTING**."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Banks"
+                        ],
+                        [
+                            "NOTHING SELECTED"
+                        ],
+                        [
+                            "CUSTOM 1"
+                        ],
+                        [
+                            "CUSTOM 2"
+                        ],
+                        [
+                            "CUSTOM 3"
+                        ],
+                        [
+                            "CUSTOM 4"
+                        ],
+                        [
+                            "CUSTOM 5"
+                        ],
+                        [
+                            "CUSTOM 6"
+                        ],
+                        [
+                            "CUSTOM 7"
+                        ]
+                    ],
+                    "md": "| Banks            |\n|------------------|\n| NOTHING SELECTED |\n| CUSTOM 1         |\n| CUSTOM 2         |\n| CUSTOM 3         |\n| CUSTOM 4         |\n| CUSTOM 5         |\n| CUSTOM 6         |\n| CUSTOM 7         |",
+                    "isPerfectTable": true,
+                    "csv": "\"Banks\"\n\"NOTHING SELECTED\"\n\"CUSTOM 1\"\n\"CUSTOM 2\"\n\"CUSTOM 3\"\n\"CUSTOM 4\"\n\"CUSTOM 5\"\n\"CUSTOM 6\"\n\"CUSTOM 7\""
+                },
+                {
+                    "type": "text",
+                    "value": "> If you would prefer not to recall saved settings, select **NOTHING SELECTED**.",
+                    "md": "> If you would prefer not to recall saved settings, select **NOTHING SELECTED**."
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "EDIT/SAVE CUSTOM SETTING",
+                    "md": "## EDIT/SAVE CUSTOM SETTING"
+                },
+                {
+                    "type": "text",
+                    "value": "Adjust settings as desired and save them to a custom settings bank. Saved settings can be recalled using !Image Quality Setting Icon **IMAGE QUALITY SETTING** > !Select Custom Setting Icon **SELECT CUSTOM SETTING**.\n\n> Photo menu settings can be adjusted when the **STILL/MOVIE** mode dial is rotated to **STILL**.",
+                    "md": "Adjust settings as desired and save them to a custom settings bank. Saved settings can be recalled using !Image Quality Setting Icon **IMAGE QUALITY SETTING** > !Select Custom Setting Icon **SELECT CUSTOM SETTING**.\n\n> Photo menu settings can be adjusted when the **STILL/MOVIE** mode dial is rotated to **STILL**."
+                },
+                {
+                    "type": "heading",
+                    "lvl": 3,
+                    "value": "Saving Custom Settings",
+                    "md": "### Saving Custom Settings"
+                },
+                {
+                    "type": "text",
+                    "value": "Create a new custom settings bank.\n\n1. Select !Image Quality Setting Icon **IMAGE QUALITY SETTING** > !Edit/Save Custom Setting Icon **EDIT/SAVE CUSTOM SETTING** in the shooting menu and press **MENU/OK**.\n\n2. Highlight a destination bank for the new settings (**CREATE NEW C1** through **C7**) and press **MENU/OK**. A confirmation dialog will be displayed.\n\n   !Edit/Save Custom Setting Menu\n\n3. Highlight **OK** and press **MENU/OK**. Current camera settings will be saved to the selected bank.\n\n   !Create New Confirmation",
+                    "md": "Create a new custom settings bank.\n\n1. Select !Image Quality Setting Icon **IMAGE QUALITY SETTING** > !Edit/Save Custom Setting Icon **EDIT/SAVE CUSTOM SETTING** in the shooting menu and press **MENU/OK**.\n\n2. Highlight a destination bank for the new settings (**CREATE NEW C1** through **C7**) and press **MENU/OK**. A confirmation dialog will be displayed.\n\n   !Edit/Save Custom Setting Menu\n\n3. Highlight **OK** and press **MENU/OK**. Current camera settings will be saved to the selected bank.\n\n   !Create New Confirmation"
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "parsingMode": "multimodal-openai-gpt4o",
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 773.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "887cb306-f554-439b-9206-1c0d5df7d099",
+    "file_path": "../data/raw_data/x-t5/x-t5_split/x-t5_page160.pdf"
+}

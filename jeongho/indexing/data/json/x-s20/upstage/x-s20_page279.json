@@ -1,0 +1,350 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:16px'>SCREEN SETTING</header>\n<h1 id='1' style='font-size:16px'>EVF COLOR ADJUSTMENT</h1>\n<br><p id='2' data-category='paragraph' style='font-size:18px'>Adjust the color of the display in the electronic viewfinder.</p>\n<h1 id='3' style='font-size:20px'>1 Adjust colors using the focus stick<br>(focus lever).</h1>\n<br><figure id='4' data-category='chart'><img style='font-size:14px' alt=\"EVF COLOR ADJUSTMENT \n+ \nB 3 \nR ▶ \nOK SET BAC CANCEL \n\" data-coord=\"top-left:(1767,600); bottom-right:(2522,1174)\" /></figure>\n<br><p id='5' data-category='paragraph' style='font-size:18px'>2 Press MENU/OK.</p>\n<p id='6' data-category='paragraph' style='font-size:16px'>LCD BRIGHTNESS</p>\n\n<br><table id='8' style='font-size:16px'><tr><td colspan=\"11\">Options</td></tr><tr><td>-5</td><td>-4</td><td>-3</td><td>-2</td><td>-1</td><td>0</td><td>+1</td><td>+2</td><td>+3</td><td>+4</td><td>+5</td></tr><tr><td colspan=\"11\">LCD COLOR</td></tr><tr><td colspan=\"11\">Adjust monitor saturation.</td></tr><tr><td colspan=\"11\">Options</td></tr><tr><td>-5</td><td>-4</td><td>-3</td><td>-2</td><td>-1</td><td>0</td><td>+1</td><td>+2</td><td>+3</td><td>+4</td><td>+5</td></tr><tr><td colspan=\"11\">LCD COLOR ADJUSTMENT</td></tr><tr><td colspan=\"11\">Adjust the color of the display in the LCD monitor.</td></tr><tr><td colspan=\"11\">1 Adjust colors using the focus stick (focus lever).</td></tr><tr><td colspan=\"11\"></td></tr><tr><td colspan=\"11\">2 Press MENU/OK.</td></tr><br><caption id='7' style='font-size:20px'>Adjust monitor brightness.</caption></table>\n<br><footer id='9' style='font-size:14px'>9</footer>\n<br><footer id='10' style='font-size:22px'>The<br>Setup<br>Menus</footer>\n<footer id='11' style='font-size:18px'>279</footer>",
+        "markdown": "SCREEN SETTING\n\n# EVF COLOR ADJUSTMENT\n\nAdjust the color of the display in the electronic viewfinder.\n\n# 1 Adjust colors using the focus stick\n(focus lever).\n\n![image](/image/placeholder)\nEVF COLOR ADJUSTMENT \n+ \nB 3 \nR ▶ \nOK SET BAC CANCEL \n\n\n2 Press MENU/OK.\n\nLCD BRIGHTNESS\n\nAdjust monitor brightness.\n\n| Options | Options | Options | Options | Options | Options | Options | Options | Options | Options | Options |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| -5 | -4 | -3 | -2 | -1 | 0 | +1 | +2 | +3 | +4 | +5 |\n| LCD COLOR | LCD COLOR | LCD COLOR | LCD COLOR | LCD COLOR | LCD COLOR | LCD COLOR | LCD COLOR | LCD COLOR | LCD COLOR | LCD COLOR |\n| Adjust monitor saturation. | Adjust monitor saturation. | Adjust monitor saturation. | Adjust monitor saturation. | Adjust monitor saturation. | Adjust monitor saturation. | Adjust monitor saturation. | Adjust monitor saturation. | Adjust monitor saturation. | Adjust monitor saturation. | Adjust monitor saturation. |\n| Options | Options | Options | Options | Options | Options | Options | Options | Options | Options | Options |\n| -5 | -4 | -3 | -2 | -1 | 0 | +1 | +2 | +3 | +4 | +5 |\n| LCD COLOR ADJUSTMENT | LCD COLOR ADJUSTMENT | LCD COLOR ADJUSTMENT | LCD COLOR ADJUSTMENT | LCD COLOR ADJUSTMENT | LCD COLOR ADJUSTMENT | LCD COLOR ADJUSTMENT | LCD COLOR ADJUSTMENT | LCD COLOR ADJUSTMENT | LCD COLOR ADJUSTMENT | LCD COLOR ADJUSTMENT |\n| Adjust the color of the display in the LCD monitor. | Adjust the color of the display in the LCD monitor. | Adjust the color of the display in the LCD monitor. | Adjust the color of the display in the LCD monitor. | Adjust the color of the display in the LCD monitor. | Adjust the color of the display in the LCD monitor. | Adjust the color of the display in the LCD monitor. | Adjust the color of the display in the LCD monitor. | Adjust the color of the display in the LCD monitor. | Adjust the color of the display in the LCD monitor. | Adjust the color of the display in the LCD monitor. |\n| 1 Adjust colors using the focus stick (focus lever). | 1 Adjust colors using the focus stick (focus lever). | 1 Adjust colors using the focus stick (focus lever). | 1 Adjust colors using the focus stick (focus lever). | 1 Adjust colors using the focus stick (focus lever). | 1 Adjust colors using the focus stick (focus lever). | 1 Adjust colors using the focus stick (focus lever). | 1 Adjust colors using the focus stick (focus lever). | 1 Adjust colors using the focus stick (focus lever). | 1 Adjust colors using the focus stick (focus lever). | 1 Adjust colors using the focus stick (focus lever). |\n|  |  |  |  |  |  |  |  |  |  |  |\n| 2 Press MENU/OK. | 2 Press MENU/OK. | 2 Press MENU/OK. | 2 Press MENU/OK. | 2 Press MENU/OK. | 2 Press MENU/OK. | 2 Press MENU/OK. | 2 Press MENU/OK. | 2 Press MENU/OK. | 2 Press MENU/OK. | 2 Press MENU/OK. |\n\n\n9\n\nThe\nSetup\nMenus\n\n279",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:16px'>SCREEN SETTING</header>",
+                "markdown": "SCREEN SETTING",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.747,
+                    "y": 0.0285
+                },
+                {
+                    "x": 0.9182,
+                    "y": 0.0285
+                },
+                {
+                    "x": 0.9182,
+                    "y": 0.0491
+                },
+                {
+                    "x": 0.747,
+                    "y": 0.0491
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='1' style='font-size:16px'>EVF COLOR ADJUSTMENT</h1>",
+                "markdown": "# EVF COLOR ADJUSTMENT",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1082,
+                    "y": 0.0724
+                },
+                {
+                    "x": 0.4564,
+                    "y": 0.0724
+                },
+                {
+                    "x": 0.4564,
+                    "y": 0.0949
+                },
+                {
+                    "x": 0.1082,
+                    "y": 0.0949
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='2' data-category='paragraph' style='font-size:18px'>Adjust the color of the display in the electronic viewfinder.</p>",
+                "markdown": "Adjust the color of the display in the electronic viewfinder.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1061,
+                    "y": 0.1043
+                },
+                {
+                    "x": 0.8441,
+                    "y": 0.1043
+                },
+                {
+                    "x": 0.8441,
+                    "y": 0.1292
+                },
+                {
+                    "x": 0.1061,
+                    "y": 0.1292
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='3' style='font-size:20px'>1 Adjust colors using the focus stick<br>(focus lever).</h1>",
+                "markdown": "# 1 Adjust colors using the focus stick\n(focus lever).",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1268,
+                    "y": 0.1502
+                },
+                {
+                    "x": 0.6319,
+                    "y": 0.1502
+                },
+                {
+                    "x": 0.6319,
+                    "y": 0.1988
+                },
+                {
+                    "x": 0.1268,
+                    "y": 0.1988
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "figure",
+            "content": {
+                "html": "<br><figure id='4' data-category='chart'><img style='font-size:14px' alt=\"EVF COLOR ADJUSTMENT \n+ \nB 3 \nR ▶ \nOK SET BAC CANCEL \n\" data-coord=\"top-left:(1767,600); bottom-right:(2522,1174)\" /></figure>",
+                "markdown": "![image](/image/placeholder)\nEVF COLOR ADJUSTMENT \n+ \nB 3 \nR ▶ \nOK SET BAC CANCEL \n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6396,
+                    "y": 0.154
+                },
+                {
+                    "x": 0.9127,
+                    "y": 0.154
+                },
+                {
+                    "x": 0.9127,
+                    "y": 0.3012
+                },
+                {
+                    "x": 0.6396,
+                    "y": 0.3012
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='5' data-category='paragraph' style='font-size:18px'>2 Press MENU/OK.</p>",
+                "markdown": "2 Press MENU/OK.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.12,
+                    "y": 0.3086
+                },
+                {
+                    "x": 0.3406,
+                    "y": 0.3086
+                },
+                {
+                    "x": 0.3406,
+                    "y": 0.336
+                },
+                {
+                    "x": 0.12,
+                    "y": 0.336
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='6' data-category='paragraph' style='font-size:16px'>LCD BRIGHTNESS</p>",
+                "markdown": "LCD BRIGHTNESS",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1095,
+                    "y": 0.3544
+                },
+                {
+                    "x": 0.348,
+                    "y": 0.3544
+                },
+                {
+                    "x": 0.348,
+                    "y": 0.3774
+                },
+                {
+                    "x": 0.1095,
+                    "y": 0.3774
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='7' data-category='paragraph' style='font-size:20px'>Adjust monitor brightness.</p>",
+                "markdown": "Adjust monitor brightness.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1063,
+                    "y": 0.3867
+                },
+                {
+                    "x": 0.4505,
+                    "y": 0.3867
+                },
+                {
+                    "x": 0.4505,
+                    "y": 0.4121
+                },
+                {
+                    "x": 0.1063,
+                    "y": 0.4121
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='8' style='font-size:16px'><tr><td colspan=\"11\">Options</td></tr><tr><td>-5</td><td>-4</td><td>-3</td><td>-2</td><td>-1</td><td>0</td><td>+1</td><td>+2</td><td>+3</td><td>+4</td><td>+5</td></tr><tr><td colspan=\"11\">LCD COLOR</td></tr><tr><td colspan=\"11\">Adjust monitor saturation.</td></tr><tr><td colspan=\"11\">Options</td></tr><tr><td>-5</td><td>-4</td><td>-3</td><td>-2</td><td>-1</td><td>0</td><td>+1</td><td>+2</td><td>+3</td><td>+4</td><td>+5</td></tr><tr><td colspan=\"11\">LCD COLOR ADJUSTMENT</td></tr><tr><td colspan=\"11\">Adjust the color of the display in the LCD monitor.</td></tr><tr><td colspan=\"11\">1 Adjust colors using the focus stick (focus lever).</td></tr><tr><td colspan=\"11\"></td></tr><tr><td colspan=\"11\">2 Press MENU/OK.</td></tr></table>",
+                "markdown": "| Options | Options | Options | Options | Options | Options | Options | Options | Options | Options | Options |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| -5 | -4 | -3 | -2 | -1 | 0 | +1 | +2 | +3 | +4 | +5 |\n| LCD COLOR | LCD COLOR | LCD COLOR | LCD COLOR | LCD COLOR | LCD COLOR | LCD COLOR | LCD COLOR | LCD COLOR | LCD COLOR | LCD COLOR |\n| Adjust monitor saturation. | Adjust monitor saturation. | Adjust monitor saturation. | Adjust monitor saturation. | Adjust monitor saturation. | Adjust monitor saturation. | Adjust monitor saturation. | Adjust monitor saturation. | Adjust monitor saturation. | Adjust monitor saturation. | Adjust monitor saturation. |\n| Options | Options | Options | Options | Options | Options | Options | Options | Options | Options | Options |\n| -5 | -4 | -3 | -2 | -1 | 0 | +1 | +2 | +3 | +4 | +5 |\n| LCD COLOR ADJUSTMENT | LCD COLOR ADJUSTMENT | LCD COLOR ADJUSTMENT | LCD COLOR ADJUSTMENT | LCD COLOR ADJUSTMENT | LCD COLOR ADJUSTMENT | LCD COLOR ADJUSTMENT | LCD COLOR ADJUSTMENT | LCD COLOR ADJUSTMENT | LCD COLOR ADJUSTMENT | LCD COLOR ADJUSTMENT |\n| Adjust the color of the display in the LCD monitor. | Adjust the color of the display in the LCD monitor. | Adjust the color of the display in the LCD monitor. | Adjust the color of the display in the LCD monitor. | Adjust the color of the display in the LCD monitor. | Adjust the color of the display in the LCD monitor. | Adjust the color of the display in the LCD monitor. | Adjust the color of the display in the LCD monitor. | Adjust the color of the display in the LCD monitor. | Adjust the color of the display in the LCD monitor. | Adjust the color of the display in the LCD monitor. |\n| 1 Adjust colors using the focus stick (focus lever). | 1 Adjust colors using the focus stick (focus lever). | 1 Adjust colors using the focus stick (focus lever). | 1 Adjust colors using the focus stick (focus lever). | 1 Adjust colors using the focus stick (focus lever). | 1 Adjust colors using the focus stick (focus lever). | 1 Adjust colors using the focus stick (focus lever). | 1 Adjust colors using the focus stick (focus lever). | 1 Adjust colors using the focus stick (focus lever). | 1 Adjust colors using the focus stick (focus lever). | 1 Adjust colors using the focus stick (focus lever). |\n|  |  |  |  |  |  |  |  |  |  |  |\n| 2 Press MENU/OK. | 2 Press MENU/OK. | 2 Press MENU/OK. | 2 Press MENU/OK. | 2 Press MENU/OK. | 2 Press MENU/OK. | 2 Press MENU/OK. | 2 Press MENU/OK. | 2 Press MENU/OK. | 2 Press MENU/OK. | 2 Press MENU/OK. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1031,
+                    "y": 0.4197
+                },
+                {
+                    "x": 0.9152,
+                    "y": 0.4197
+                },
+                {
+                    "x": 0.9152,
+                    "y": 0.77
+                },
+                {
+                    "x": 0.1031,
+                    "y": 0.77
+                }
+            ],
+            "id": 8,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<br><footer id='9' style='font-size:14px'>9</footer>",
+                "markdown": "9",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9578,
+                    "y": 0.7171
+                },
+                {
+                    "x": 0.9759,
+                    "y": 0.7171
+                },
+                {
+                    "x": 0.9759,
+                    "y": 0.737
+                },
+                {
+                    "x": 0.9578,
+                    "y": 0.737
+                }
+            ],
+            "id": 9,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<br><footer id='10' style='font-size:22px'>The<br>Setup<br>Menus</footer>",
+                "markdown": "The\nSetup\nMenus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9569,
+                    "y": 0.568
+                },
+                {
+                    "x": 0.9833,
+                    "y": 0.568
+                },
+                {
+                    "x": 0.9833,
+                    "y": 0.7304
+                },
+                {
+                    "x": 0.9569,
+                    "y": 0.7304
+                }
+            ],
+            "id": 10,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='11' style='font-size:18px'>279</footer>",
+                "markdown": "279",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.8604,
+                    "y": 0.9561
+                },
+                {
+                    "x": 0.9178,
+                    "y": 0.9561
+                },
+                {
+                    "x": 0.9178,
+                    "y": 0.9793
+                },
+                {
+                    "x": 0.8604,
+                    "y": 0.9793
+                }
+            ],
+            "id": 11,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

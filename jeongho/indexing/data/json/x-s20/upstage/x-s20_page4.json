@@ -1,0 +1,210 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:22px'>Before<br>You<br>Begin</header>\n<br><h1 id='1' style='font-size:18px'>The Mode Dial</h1>\n<br><p id='2' data-category='paragraph' style='font-size:20px'>To select a shooting mode, rotate the dial until<br>the icon for the desired mode aligns with the<br>index.</p>\n\n<br><figure id='4'><img style='font-size:14px' alt=\"V\nS 2 ~\n�\nAUTO C2\nVlog C3\nFILTER 5\" data-coord=\"top-left:(1869,381); bottom-right:(2460,1061)\" /></figure>\n<table id='5' style='font-size:16px'><tr><td>Mode</td><td>Description</td><td></td></tr><tr><td>1 AUTO (AUTO)</td><td>The camera automatically optimizes settings to the scene. You also have the option of choosing the desired scene mode yourself.</td><td>48</td></tr><tr><td>2 P (PROGRAM AE)</td><td>Aperture and shutter speed can be ad- justed using program shift.</td><td>71</td></tr><tr><td>3 S (SHUTTER PRIORITY AE) A (APERTURE PRIORITY AE) M (MANUAL)</td><td>Select for full control over camera set- tings, including aperture (M and A) and/or shutter speed (M and S).</td><td>73 75 77</td></tr><tr><td>4 C1/C2/C3/C4 (CUSTOM 1/2/3/4)</td><td>Take pictures using previously-stored settings.</td><td>82</td></tr><tr><td>5 FILTER (FILTER)</td><td>Take photos with filter effects.</td><td>81</td></tr><tr><td>6 (MOVIE)</td><td>Record movies.</td><td>57</td></tr><tr><td>7 Vlog (Video blog)</td><td>Record movies at settings suitable for vlogs (video blogs).</td><td>58</td></tr><caption id='3' style='font-size:14px'>1</caption></table>\n<footer id='6' style='font-size:18px'>4</footer>",
+        "markdown": "Before\nYou\nBegin\n\n# The Mode Dial\n\nTo select a shooting mode, rotate the dial until\nthe icon for the desired mode aligns with the\nindex.\n\n1\n\n![image](/image/placeholder)\nV\nS 2 ~\n�\nAUTO C2\nVlog C3\nFILTER 5\n\n| Mode | Description |  |\n| --- | --- | --- |\n| 1 AUTO (AUTO) | The camera automatically optimizes settings to the scene. You also have the option of choosing the desired scene mode yourself. | 48 |\n| 2 P (PROGRAM AE) | Aperture and shutter speed can be ad- justed using program shift. | 71 |\n| 3 S (SHUTTER PRIORITY AE) A (APERTURE PRIORITY AE) M (MANUAL) | Select for full control over camera set- tings, including aperture (M and A) and/or shutter speed (M and S). | 73 75 77 |\n| 4 C1/C2/C3/C4 (CUSTOM 1/2/3/4) | Take pictures using previously-stored settings. | 82 |\n| 5 FILTER (FILTER) | Take photos with filter effects. | 81 |\n| 6 (MOVIE) | Record movies. | 57 |\n| 7 Vlog (Video blog) | Record movies at settings suitable for vlogs (video blogs). | 58 |\n\n\n4",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:22px'>Before<br>You<br>Begin</header>",
+                "markdown": "Before\nYou\nBegin",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0176,
+                    "y": 0.2768
+                },
+                {
+                    "x": 0.0422,
+                    "y": 0.2768
+                },
+                {
+                    "x": 0.0422,
+                    "y": 0.4033
+                },
+                {
+                    "x": 0.0176,
+                    "y": 0.4033
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='1' style='font-size:18px'>The Mode Dial</h1>",
+                "markdown": "# The Mode Dial",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0823,
+                    "y": 0.0732
+                },
+                {
+                    "x": 0.2805,
+                    "y": 0.0732
+                },
+                {
+                    "x": 0.2805,
+                    "y": 0.0948
+                },
+                {
+                    "x": 0.0823,
+                    "y": 0.0948
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='2' data-category='paragraph' style='font-size:20px'>To select a shooting mode, rotate the dial until<br>the icon for the desired mode aligns with the<br>index.</p>",
+                "markdown": "To select a shooting mode, rotate the dial until\nthe icon for the desired mode aligns with the\nindex.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0803,
+                    "y": 0.1038
+                },
+                {
+                    "x": 0.6702,
+                    "y": 0.1038
+                },
+                {
+                    "x": 0.6702,
+                    "y": 0.1799
+                },
+                {
+                    "x": 0.0803,
+                    "y": 0.1799
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='3' data-category='paragraph' style='font-size:14px'>1</p>",
+                "markdown": "1",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0286,
+                    "y": 0.2404
+                },
+                {
+                    "x": 0.0398,
+                    "y": 0.2404
+                },
+                {
+                    "x": 0.0398,
+                    "y": 0.2557
+                },
+                {
+                    "x": 0.0286,
+                    "y": 0.2557
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "figure",
+            "content": {
+                "html": "<br><figure id='4'><img style='font-size:14px' alt=\"V\nS 2 ~\n�\nAUTO C2\nVlog C3\nFILTER 5\" data-coord=\"top-left:(1869,381); bottom-right:(2460,1061)\" /></figure>",
+                "markdown": "![image](/image/placeholder)\nV\nS 2 ~\n�\nAUTO C2\nVlog C3\nFILTER 5",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6763,
+                    "y": 0.0979
+                },
+                {
+                    "x": 0.8903,
+                    "y": 0.0979
+                },
+                {
+                    "x": 0.8903,
+                    "y": 0.2724
+                },
+                {
+                    "x": 0.6763,
+                    "y": 0.2724
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='5' style='font-size:16px'><tr><td>Mode</td><td>Description</td><td></td></tr><tr><td>1 AUTO (AUTO)</td><td>The camera automatically optimizes settings to the scene. You also have the option of choosing the desired scene mode yourself.</td><td>48</td></tr><tr><td>2 P (PROGRAM AE)</td><td>Aperture and shutter speed can be ad- justed using program shift.</td><td>71</td></tr><tr><td>3 S (SHUTTER PRIORITY AE) A (APERTURE PRIORITY AE) M (MANUAL)</td><td>Select for full control over camera set- tings, including aperture (M and A) and/or shutter speed (M and S).</td><td>73 75 77</td></tr><tr><td>4 C1/C2/C3/C4 (CUSTOM 1/2/3/4)</td><td>Take pictures using previously-stored settings.</td><td>82</td></tr><tr><td>5 FILTER (FILTER)</td><td>Take photos with filter effects.</td><td>81</td></tr><tr><td>6 (MOVIE)</td><td>Record movies.</td><td>57</td></tr><tr><td>7 Vlog (Video blog)</td><td>Record movies at settings suitable for vlogs (video blogs).</td><td>58</td></tr></table>",
+                "markdown": "| Mode | Description |  |\n| --- | --- | --- |\n| 1 AUTO (AUTO) | The camera automatically optimizes settings to the scene. You also have the option of choosing the desired scene mode yourself. | 48 |\n| 2 P (PROGRAM AE) | Aperture and shutter speed can be ad- justed using program shift. | 71 |\n| 3 S (SHUTTER PRIORITY AE) A (APERTURE PRIORITY AE) M (MANUAL) | Select for full control over camera set- tings, including aperture (M and A) and/or shutter speed (M and S). | 73 75 77 |\n| 4 C1/C2/C3/C4 (CUSTOM 1/2/3/4) | Take pictures using previously-stored settings. | 82 |\n| 5 FILTER (FILTER) | Take photos with filter effects. | 81 |\n| 6 (MOVIE) | Record movies. | 57 |\n| 7 Vlog (Video blog) | Record movies at settings suitable for vlogs (video blogs). | 58 |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0816,
+                    "y": 0.287
+                },
+                {
+                    "x": 0.8911,
+                    "y": 0.287
+                },
+                {
+                    "x": 0.8911,
+                    "y": 0.7058
+                },
+                {
+                    "x": 0.0816,
+                    "y": 0.7058
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='6' style='font-size:18px'>4</footer>",
+                "markdown": "4",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0814,
+                    "y": 0.958
+                },
+                {
+                    "x": 0.1063,
+                    "y": 0.958
+                },
+                {
+                    "x": 0.1063,
+                    "y": 0.9774
+                },
+                {
+                    "x": 0.0814,
+                    "y": 0.9774
+                }
+            ],
+            "id": 6,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

@@ -1,0 +1,378 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:22px'>Playback<br>and<br>the<br>Playback<br>Menu</header>\n<br><header id='1' style='font-size:18px'>The Playback Display</header>\n<h1 id='2' style='font-size:20px'>Viewing Photo Information</h1>\n<br><h1 id='3' style='font-size:20px'>The photo information display changes each<br>time the selector is pressed up.</h1>\n<br><figure id='4'><img style='font-size:14px' alt=\"MENU\nOK\" data-coord=\"top-left:(1659,342); bottom-right:(2482,863)\" /></figure>\n<figure id='5'><img style='font-size:14px' alt=\"Basic data Info display 1\n12/31/2022 1/999 1 ② 100-0001 12/31/2022 1/999 D ② 100-0001\n★★★★★ ★★★★★\nNEXT\n▶ 1/ 1000 F5.6 ⌀+1.0 ISO 12800 ⌀of S F HEIF ▶ 1/1000 F5.6 ⓩ+ 1.0 ISO 12800 ( ⌀@-f heif\n↑\n□\n① ② 100-0001 1/999\n← 12/31/2022 12:10 AM\nS.S.1/1000 F 5.6 ISO12800 +1.0\ns.s1/1000 F5.6 ISO 12800 ⌀+ 1.0\n2/2 BACK 1/2 ▲ NEXT\nInfo Info\" data-coord=\"top-left:(510,971); bottom-right:(2274,2230)\" /></figure>\n<br><p id='6' data-category='paragraph' style='font-size:18px'>display 3</p>\n<br><p id='7' data-category='paragraph' style='font-size:18px'>display 2</p>\n<br><p id='8' data-category='paragraph' style='font-size:16px'>Zooming in on the Focus Point</p>\n<br><header id='9' style='font-size:16px'>7</header>\n\n<figure id='11'><img style='font-size:14px' alt=\"mmu\" data-coord=\"top-left:(479,2616); bottom-right:(2206,3140)\" /><br><figcaption id='10' style='font-size:16px'>Press the center of the rear command dial to zoom in on the focus point.<br>Press again to return to full-frame playback.</figcaption></figure>\n<footer id='12' style='font-size:22px'>222</footer>",
+        "markdown": "Playback\nand\nthe\nPlayback\nMenu\n\nThe Playback Display\n\n# Viewing Photo Information\n\n# The photo information display changes each\ntime the selector is pressed up.\n\n![image](/image/placeholder)\nMENU\nOK\n\n![image](/image/placeholder)\nBasic data Info display 1\n12/31/2022 1/999 1 ② 100-0001 12/31/2022 1/999 D ② 100-0001\n★★★★★ ★★★★★\nNEXT\n▶ 1/ 1000 F5.6 ⌀+1.0 ISO 12800 ⌀of S F HEIF ▶ 1/1000 F5.6 ⓩ+ 1.0 ISO 12800 ( ⌀@-f heif\n↑\n□\n① ② 100-0001 1/999\n← 12/31/2022 12:10 AM\nS.S.1/1000 F 5.6 ISO12800 +1.0\ns.s1/1000 F5.6 ISO 12800 ⌀+ 1.0\n2/2 BACK 1/2 ▲ NEXT\nInfo Info\n\ndisplay 3\n\ndisplay 2\n\nZooming in on the Focus Point\n\n7\n\nPress the center of the rear command dial to zoom in on the focus point.\nPress again to return to full-frame playback.\n\n![image](/image/placeholder)\nmmu\n\n222",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:22px'>Playback<br>and<br>the<br>Playback<br>Menu</header>",
+                "markdown": "Playback\nand\nthe\nPlayback\nMenu",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0182,
+                    "y": 0.3387
+                },
+                {
+                    "x": 0.0419,
+                    "y": 0.3387
+                },
+                {
+                    "x": 0.0419,
+                    "y": 0.5792
+                },
+                {
+                    "x": 0.0182,
+                    "y": 0.5792
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "header",
+            "content": {
+                "html": "<br><header id='1' style='font-size:18px'>The Playback Display</header>",
+                "markdown": "The Playback Display",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6855,
+                    "y": 0.0289
+                },
+                {
+                    "x": 0.893,
+                    "y": 0.0289
+                },
+                {
+                    "x": 0.893,
+                    "y": 0.051
+                },
+                {
+                    "x": 0.6855,
+                    "y": 0.051
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='2' style='font-size:20px'>Viewing Photo Information</h1>",
+                "markdown": "# Viewing Photo Information",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0869,
+                    "y": 0.073
+                },
+                {
+                    "x": 0.3532,
+                    "y": 0.073
+                },
+                {
+                    "x": 0.3532,
+                    "y": 0.0932
+                },
+                {
+                    "x": 0.0869,
+                    "y": 0.0932
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='3' style='font-size:20px'>The photo information display changes each<br>time the selector is pressed up.</h1>",
+                "markdown": "# The photo information display changes each\ntime the selector is pressed up.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0822,
+                    "y": 0.0946
+                },
+                {
+                    "x": 0.6,
+                    "y": 0.0946
+                },
+                {
+                    "x": 0.6,
+                    "y": 0.1406
+                },
+                {
+                    "x": 0.0822,
+                    "y": 0.1406
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "figure",
+            "content": {
+                "html": "<br><figure id='4'><img style='font-size:14px' alt=\"MENU\nOK\" data-coord=\"top-left:(1659,342); bottom-right:(2482,863)\" /></figure>",
+                "markdown": "![image](/image/placeholder)\nMENU\nOK",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6006,
+                    "y": 0.0877
+                },
+                {
+                    "x": 0.8982,
+                    "y": 0.0877
+                },
+                {
+                    "x": 0.8982,
+                    "y": 0.2216
+                },
+                {
+                    "x": 0.6006,
+                    "y": 0.2216
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "figure",
+            "content": {
+                "html": "<figure id='5'><img style='font-size:14px' alt=\"Basic data Info display 1\n12/31/2022 1/999 1 ② 100-0001 12/31/2022 1/999 D ② 100-0001\n★★★★★ ★★★★★\nNEXT\n▶ 1/ 1000 F5.6 ⌀+1.0 ISO 12800 ⌀of S F HEIF ▶ 1/1000 F5.6 ⓩ+ 1.0 ISO 12800 ( ⌀@-f heif\n↑\n□\n① ② 100-0001 1/999\n← 12/31/2022 12:10 AM\nS.S.1/1000 F 5.6 ISO12800 +1.0\ns.s1/1000 F5.6 ISO 12800 ⌀+ 1.0\n2/2 BACK 1/2 ▲ NEXT\nInfo Info\" data-coord=\"top-left:(510,971); bottom-right:(2274,2230)\" /></figure>",
+                "markdown": "![image](/image/placeholder)\nBasic data Info display 1\n12/31/2022 1/999 1 ② 100-0001 12/31/2022 1/999 D ② 100-0001\n★★★★★ ★★★★★\nNEXT\n▶ 1/ 1000 F5.6 ⌀+1.0 ISO 12800 ⌀of S F HEIF ▶ 1/1000 F5.6 ⓩ+ 1.0 ISO 12800 ( ⌀@-f heif\n↑\n□\n① ② 100-0001 1/999\n← 12/31/2022 12:10 AM\nS.S.1/1000 F 5.6 ISO12800 +1.0\ns.s1/1000 F5.6 ISO 12800 ⌀+ 1.0\n2/2 BACK 1/2 ▲ NEXT\nInfo Info",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1845,
+                    "y": 0.2491
+                },
+                {
+                    "x": 0.8228,
+                    "y": 0.2491
+                },
+                {
+                    "x": 0.8228,
+                    "y": 0.5722
+                },
+                {
+                    "x": 0.1845,
+                    "y": 0.5722
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='6' data-category='paragraph' style='font-size:18px'>display 3</p>",
+                "markdown": "display 3",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.2641,
+                    "y": 0.5645
+                },
+                {
+                    "x": 0.3891,
+                    "y": 0.5645
+                },
+                {
+                    "x": 0.3891,
+                    "y": 0.5813
+                },
+                {
+                    "x": 0.2641,
+                    "y": 0.5813
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='7' data-category='paragraph' style='font-size:18px'>display 2</p>",
+                "markdown": "display 2",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.5857,
+                    "y": 0.5641
+                },
+                {
+                    "x": 0.7128,
+                    "y": 0.5641
+                },
+                {
+                    "x": 0.7128,
+                    "y": 0.5816
+                },
+                {
+                    "x": 0.5857,
+                    "y": 0.5816
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='8' data-category='paragraph' style='font-size:16px'>Zooming in on the Focus Point</p>",
+                "markdown": "Zooming in on the Focus Point",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0824,
+                    "y": 0.5845
+                },
+                {
+                    "x": 0.3818,
+                    "y": 0.5845
+                },
+                {
+                    "x": 0.3818,
+                    "y": 0.6047
+                },
+                {
+                    "x": 0.0824,
+                    "y": 0.6047
+                }
+            ],
+            "id": 8,
+            "page": 1
+        },
+        {
+            "category": "header",
+            "content": {
+                "html": "<br><header id='9' style='font-size:16px'>7</header>",
+                "markdown": "7",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0258,
+                    "y": 0.5965
+                },
+                {
+                    "x": 0.0439,
+                    "y": 0.5965
+                },
+                {
+                    "x": 0.0439,
+                    "y": 0.6182
+                },
+                {
+                    "x": 0.0258,
+                    "y": 0.6182
+                }
+            ],
+            "id": 9,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='10' data-category='paragraph' style='font-size:16px'>Press the center of the rear command dial to zoom in on the focus point.<br>Press again to return to full-frame playback.</p>",
+                "markdown": "Press the center of the rear command dial to zoom in on the focus point.\nPress again to return to full-frame playback.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0814,
+                    "y": 0.6072
+                },
+                {
+                    "x": 0.8926,
+                    "y": 0.6072
+                },
+                {
+                    "x": 0.8926,
+                    "y": 0.6528
+                },
+                {
+                    "x": 0.0814,
+                    "y": 0.6528
+                }
+            ],
+            "id": 10,
+            "page": 1
+        },
+        {
+            "category": "figure",
+            "content": {
+                "html": "<figure id='11'><img style='font-size:14px' alt=\"mmu\" data-coord=\"top-left:(479,2616); bottom-right:(2206,3140)\" /></figure>",
+                "markdown": "![image](/image/placeholder)\nmmu",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1736,
+                    "y": 0.6712
+                },
+                {
+                    "x": 0.7982,
+                    "y": 0.6712
+                },
+                {
+                    "x": 0.7982,
+                    "y": 0.8056
+                },
+                {
+                    "x": 0.1736,
+                    "y": 0.8056
+                }
+            ],
+            "id": 11,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='12' style='font-size:22px'>222</footer>",
+                "markdown": "222",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0833,
+                    "y": 0.9565
+                },
+                {
+                    "x": 0.1391,
+                    "y": 0.9565
+                },
+                {
+                    "x": 0.1391,
+                    "y": 0.9788
+                },
+                {
+                    "x": 0.0833,
+                    "y": 0.9788
+                }
+            ],
+            "id": 12,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

@@ -1,0 +1,210 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:14px'>Parts of the Camera</header>\n<h1 id='1' style='font-size:20px'>Focusing the Viewfinder</h1>\n<br><p id='2' data-category='paragraph' style='font-size:18px'>If the indicators displayed in the view-<br>finder are blurred, put your eye to the<br>viewfinder and rotate the diopter adjust-<br>ment control until the display is in sharp<br>focus.</p>\n<br><figure id='3'><img alt=\"\" data-coord=\"top-left:(1747,421); bottom-right:(2547,1003)\" /></figure>\n<br><p id='4' data-category='paragraph' style='font-size:14px'>1</p>\n<br><footer id='5' style='font-size:22px'>Before<br>You<br>Begin</footer>\n<footer id='6' style='font-size:16px'>9</footer>",
+        "markdown": "Parts of the Camera\n\n# Focusing the Viewfinder\n\nIf the indicators displayed in the view-\nfinder are blurred, put your eye to the\nviewfinder and rotate the diopter adjust-\nment control until the display is in sharp\nfocus.\n\n![image](/image/placeholder)\n\n\n1\n\nBefore\nYou\nBegin\n\n9",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:14px'>Parts of the Camera</header>",
+                "markdown": "Parts of the Camera",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.7225,
+                    "y": 0.0294
+                },
+                {
+                    "x": 0.9184,
+                    "y": 0.0294
+                },
+                {
+                    "x": 0.9184,
+                    "y": 0.0496
+                },
+                {
+                    "x": 0.7225,
+                    "y": 0.0496
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='1' style='font-size:20px'>Focusing the Viewfinder</h1>",
+                "markdown": "# Focusing the Viewfinder",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.109,
+                    "y": 0.073
+                },
+                {
+                    "x": 0.4385,
+                    "y": 0.073
+                },
+                {
+                    "x": 0.4385,
+                    "y": 0.0958
+                },
+                {
+                    "x": 0.109,
+                    "y": 0.0958
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='2' data-category='paragraph' style='font-size:18px'>If the indicators displayed in the view-<br>finder are blurred, put your eye to the<br>viewfinder and rotate the diopter adjust-<br>ment control until the display is in sharp<br>focus.</p>",
+                "markdown": "If the indicators displayed in the view-\nfinder are blurred, put your eye to the\nviewfinder and rotate the diopter adjust-\nment control until the display is in sharp\nfocus.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1059,
+                    "y": 0.1035
+                },
+                {
+                    "x": 0.629,
+                    "y": 0.1035
+                },
+                {
+                    "x": 0.629,
+                    "y": 0.2308
+                },
+                {
+                    "x": 0.1059,
+                    "y": 0.2308
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "figure",
+            "content": {
+                "html": "<br><figure id='3'><img alt=\"\" data-coord=\"top-left:(1747,421); bottom-right:(2547,1003)\" /></figure>",
+                "markdown": "![image](/image/placeholder)\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6322,
+                    "y": 0.1083
+                },
+                {
+                    "x": 0.9216,
+                    "y": 0.1083
+                },
+                {
+                    "x": 0.9216,
+                    "y": 0.2574
+                },
+                {
+                    "x": 0.6322,
+                    "y": 0.2574
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='4' data-category='paragraph' style='font-size:14px'>1</p>",
+                "markdown": "1",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9595,
+                    "y": 0.2403
+                },
+                {
+                    "x": 0.9721,
+                    "y": 0.2403
+                },
+                {
+                    "x": 0.9721,
+                    "y": 0.2562
+                },
+                {
+                    "x": 0.9595,
+                    "y": 0.2562
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<br><footer id='5' style='font-size:22px'>Before<br>You<br>Begin</footer>",
+                "markdown": "Before\nYou\nBegin",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9565,
+                    "y": 0.2784
+                },
+                {
+                    "x": 0.9808,
+                    "y": 0.2784
+                },
+                {
+                    "x": 0.9808,
+                    "y": 0.4018
+                },
+                {
+                    "x": 0.9565,
+                    "y": 0.4018
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='6' style='font-size:16px'>9</footer>",
+                "markdown": "9",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.8954,
+                    "y": 0.9573
+                },
+                {
+                    "x": 0.917,
+                    "y": 0.9573
+                },
+                {
+                    "x": 0.917,
+                    "y": 0.9782
+                },
+                {
+                    "x": 0.8954,
+                    "y": 0.9782
+                }
+            ],
+            "id": 6,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

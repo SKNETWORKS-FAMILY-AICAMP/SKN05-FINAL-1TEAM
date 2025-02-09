@@ -1,0 +1,126 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<table id='1' style='font-size:14px'><tr><td>Problem</td><td>Solution</td></tr><tr><td>Cannot connect to iPhones or iPads.</td><td>POWER SUPPLY ON/COMM OFF is selected for USB POWER SUPPLY/COMM SETTING. Select POWER SUPPLY OFF/COMM ON when the camera is connected via a Lightning connection to a device that do not supply power (□□ 268).</td></tr><tr><td>Cannot connect to smartphone.</td><td>Confirm that the camera is correctly connected: The procedure for connecting the camera varies with the type of connec- tor with which the smartphone is equipped (□□ 250).</td></tr><caption id='0' style='font-size:16px'>Troubleshooting</caption></table>\n<footer id='2' style='font-size:20px'>Technical<br>Notes<br>12</footer>\n<footer id='3' style='font-size:18px'>379</footer>",
+        "markdown": "Troubleshooting\n\n| Problem | Solution |\n| --- | --- |\n| Cannot connect to iPhones or iPads. | POWER SUPPLY ON/COMM OFF is selected for USB POWER SUPPLY/COMM SETTING. Select POWER SUPPLY OFF/COMM ON when the camera is connected via a Lightning connection to a device that do not supply power (□□ 268). |\n| Cannot connect to smartphone. | Confirm that the camera is correctly connected: The procedure for connecting the camera varies with the type of connec- tor with which the smartphone is equipped (□□ 250). |\n\n\nTechnical\nNotes\n12\n\n379",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='0' data-category='paragraph' style='font-size:16px'>Troubleshooting</p>",
+                "markdown": "Troubleshooting",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.7512,
+                    "y": 0.0293
+                },
+                {
+                    "x": 0.918,
+                    "y": 0.0293
+                },
+                {
+                    "x": 0.918,
+                    "y": 0.0506
+                },
+                {
+                    "x": 0.7512,
+                    "y": 0.0506
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='1' style='font-size:14px'><tr><td>Problem</td><td>Solution</td></tr><tr><td>Cannot connect to iPhones or iPads.</td><td>POWER SUPPLY ON/COMM OFF is selected for USB POWER SUPPLY/COMM SETTING. Select POWER SUPPLY OFF/COMM ON when the camera is connected via a Lightning connection to a device that do not supply power (□□ 268).</td></tr><tr><td>Cannot connect to smartphone.</td><td>Confirm that the camera is correctly connected: The procedure for connecting the camera varies with the type of connec- tor with which the smartphone is equipped (□□ 250).</td></tr></table>",
+                "markdown": "| Problem | Solution |\n| --- | --- |\n| Cannot connect to iPhones or iPads. | POWER SUPPLY ON/COMM OFF is selected for USB POWER SUPPLY/COMM SETTING. Select POWER SUPPLY OFF/COMM ON when the camera is connected via a Lightning connection to a device that do not supply power (□□ 268). |\n| Cannot connect to smartphone. | Confirm that the camera is correctly connected: The procedure for connecting the camera varies with the type of connec- tor with which the smartphone is equipped (□□ 250). |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1025,
+                    "y": 0.0719
+                },
+                {
+                    "x": 0.923,
+                    "y": 0.0719
+                },
+                {
+                    "x": 0.923,
+                    "y": 0.2871
+                },
+                {
+                    "x": 0.1025,
+                    "y": 0.2871
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='2' style='font-size:20px'>Technical<br>Notes<br>12</footer>",
+                "markdown": "Technical\nNotes\n12",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9574,
+                    "y": 0.7598
+                },
+                {
+                    "x": 0.9853,
+                    "y": 0.7598
+                },
+                {
+                    "x": 0.9853,
+                    "y": 0.915
+                },
+                {
+                    "x": 0.9574,
+                    "y": 0.915
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='3' style='font-size:18px'>379</footer>",
+                "markdown": "379",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.8609,
+                    "y": 0.9567
+                },
+                {
+                    "x": 0.9173,
+                    "y": 0.9567
+                },
+                {
+                    "x": 0.9173,
+                    "y": 0.9791
+                },
+                {
+                    "x": 0.8609,
+                    "y": 0.9791
+                }
+            ],
+            "id": 3,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

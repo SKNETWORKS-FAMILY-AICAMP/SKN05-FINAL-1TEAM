@@ -1,0 +1,406 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<h1 id='0' style='font-size:22px'>Viewing Movies</h1>\n<br><p id='1' data-category='paragraph' style='font-size:14px'>View movies on the camera.</p>\n<h1 id='2' style='font-size:20px'>Viewing Movies During Playback</h1>\n<p id='3' data-category='paragraph' style='font-size:18px'>Any movie selected after the button is<br>pressed to begin playback will be indicat-<br>ed by a ye icon. Press the focus stick (fo-<br>cus lever) down to start movie playback.</p>\n<br><figure id='4' data-category='chart'><img style='font-size:14px' alt=\"PLAY AUDIO SET. \nFHD \n⌀+1.0 isol 2800 29.97 \n\" data-coord=\"top-left:(1759,780); bottom-right:(2523,1299)\" /></figure>\n<br><p id='5' data-category='paragraph' style='font-size:18px'>The following operations can be per-<br>formed while a movie is displayed:</p>\n<br><figure id='6'><img alt=\"\" data-coord=\"top-left:(1745,1376); bottom-right:(2535,1866)\" /></figure>\n\n<table id='8' style='font-size:16px'><tr><td>Focus stick (focus lever)</td><td>Full-frame playback</td><td>Playback in progress (</td><td>Playback paused ( \" )</td></tr><tr><td>Up</td><td>View photo information</td><td colspan=\"2\">End playback</td></tr><tr><td>Down</td><td>Start playback</td><td>Pause playback</td><td>Start/resume playback</td></tr><tr><td>Left/right</td><td>View other pictures</td><td>Adjust speed</td><td>Single frame rewind/ advance</td></tr><br><caption id='7' style='font-size:16px'>4</caption></table>\n<br><p id='9' data-category='paragraph' style='font-size:20px'>Progress is shown in the display during<br>playback.</p>\n<p id='10' data-category='paragraph' style='font-size:16px'>Do not cover the speaker during playback.</p>\n<br><figure id='11' data-category='chart'><img style='font-size:14px' alt=\"m23s \nTC:00:00:00:00 \n▲ STOP PAUSE ◀▶ ◀◀ ▶▶ (D) \n\" data-coord=\"top-left:(1740,2623); bottom-right:(2534,3233)\" /></figure>\n<br><footer id='12' style='font-size:22px'>Movie<br>Recording<br>and<br>Playback</footer>\n<footer id='13' style='font-size:20px'>63</footer>",
+        "markdown": "# Viewing Movies\n\nView movies on the camera.\n\n# Viewing Movies During Playback\n\nAny movie selected after the button is\npressed to begin playback will be indicat-\ned by a ye icon. Press the focus stick (fo-\ncus lever) down to start movie playback.\n\n![image](/image/placeholder)\nPLAY AUDIO SET. \nFHD \n⌀+1.0 isol 2800 29.97 \n\n\nThe following operations can be per-\nformed while a movie is displayed:\n\n![image](/image/placeholder)\n\n\n4\n\n| Focus stick (focus lever) | Full-frame playback | Playback in progress ( | Playback paused ( \" ) |\n| --- | --- | --- | --- |\n| Up | View photo information | End playback | End playback |\n| Down | Start playback | Pause playback | Start/resume playback |\n| Left/right | View other pictures | Adjust speed | Single frame rewind/ advance |\n\n\nProgress is shown in the display during\nplayback.\n\nDo not cover the speaker during playback.\n\n![image](/image/placeholder)\nm23s \nTC:00:00:00:00 \n▲ STOP PAUSE ◀▶ ◀◀ ▶▶ (D) \n\n\nMovie\nRecording\nand\nPlayback\n\n63",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='0' style='font-size:22px'>Viewing Movies</h1>",
+                "markdown": "# Viewing Movies",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1808,
+                    "y": 0.0734
+                },
+                {
+                    "x": 0.4504,
+                    "y": 0.0734
+                },
+                {
+                    "x": 0.4504,
+                    "y": 0.0999
+                },
+                {
+                    "x": 0.1808,
+                    "y": 0.0999
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='1' data-category='paragraph' style='font-size:14px'>View movies on the camera.</p>",
+                "markdown": "View movies on the camera.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1795,
+                    "y": 0.1112
+                },
+                {
+                    "x": 0.5362,
+                    "y": 0.1112
+                },
+                {
+                    "x": 0.5362,
+                    "y": 0.132
+                },
+                {
+                    "x": 0.1795,
+                    "y": 0.132
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='2' style='font-size:20px'>Viewing Movies During Playback</h1>",
+                "markdown": "# Viewing Movies During Playback",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1071,
+                    "y": 0.1547
+                },
+                {
+                    "x": 0.555,
+                    "y": 0.1547
+                },
+                {
+                    "x": 0.555,
+                    "y": 0.1774
+                },
+                {
+                    "x": 0.1071,
+                    "y": 0.1774
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='3' data-category='paragraph' style='font-size:18px'>Any movie selected after the button is<br>pressed to begin playback will be indicat-<br>ed by a ye icon. Press the focus stick (fo-<br>cus lever) down to start movie playback.</p>",
+                "markdown": "Any movie selected after the button is\npressed to begin playback will be indicat-\ned by a ye icon. Press the focus stick (fo-\ncus lever) down to start movie playback.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1063,
+                    "y": 0.1978
+                },
+                {
+                    "x": 0.627,
+                    "y": 0.1978
+                },
+                {
+                    "x": 0.627,
+                    "y": 0.3012
+                },
+                {
+                    "x": 0.1063,
+                    "y": 0.3012
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "figure",
+            "content": {
+                "html": "<br><figure id='4' data-category='chart'><img style='font-size:14px' alt=\"PLAY AUDIO SET. \nFHD \n⌀+1.0 isol 2800 29.97 \n\" data-coord=\"top-left:(1759,780); bottom-right:(2523,1299)\" /></figure>",
+                "markdown": "![image](/image/placeholder)\nPLAY AUDIO SET. \nFHD \n⌀+1.0 isol 2800 29.97 \n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6366,
+                    "y": 0.2002
+                },
+                {
+                    "x": 0.913,
+                    "y": 0.2002
+                },
+                {
+                    "x": 0.913,
+                    "y": 0.3333
+                },
+                {
+                    "x": 0.6366,
+                    "y": 0.3333
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='5' data-category='paragraph' style='font-size:18px'>The following operations can be per-<br>formed while a movie is displayed:</p>",
+                "markdown": "The following operations can be per-\nformed while a movie is displayed:",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1055,
+                    "y": 0.3446
+                },
+                {
+                    "x": 0.6271,
+                    "y": 0.3446
+                },
+                {
+                    "x": 0.6271,
+                    "y": 0.3976
+                },
+                {
+                    "x": 0.1055,
+                    "y": 0.3976
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "figure",
+            "content": {
+                "html": "<br><figure id='6'><img alt=\"\" data-coord=\"top-left:(1745,1376); bottom-right:(2535,1866)\" /></figure>",
+                "markdown": "![image](/image/placeholder)\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6314,
+                    "y": 0.353
+                },
+                {
+                    "x": 0.9175,
+                    "y": 0.353
+                },
+                {
+                    "x": 0.9175,
+                    "y": 0.4789
+                },
+                {
+                    "x": 0.6314,
+                    "y": 0.4789
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='7' data-category='paragraph' style='font-size:16px'>4</p>",
+                "markdown": "4",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9587,
+                    "y": 0.419
+                },
+                {
+                    "x": 0.9739,
+                    "y": 0.419
+                },
+                {
+                    "x": 0.9739,
+                    "y": 0.4364
+                },
+                {
+                    "x": 0.9587,
+                    "y": 0.4364
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='8' style='font-size:16px'><tr><td>Focus stick (focus lever)</td><td>Full-frame playback</td><td>Playback in progress (</td><td>Playback paused ( \" )</td></tr><tr><td>Up</td><td>View photo information</td><td colspan=\"2\">End playback</td></tr><tr><td>Down</td><td>Start playback</td><td>Pause playback</td><td>Start/resume playback</td></tr><tr><td>Left/right</td><td>View other pictures</td><td>Adjust speed</td><td>Single frame rewind/ advance</td></tr></table>",
+                "markdown": "| Focus stick (focus lever) | Full-frame playback | Playback in progress ( | Playback paused ( \" ) |\n| --- | --- | --- | --- |\n| Up | View photo information | End playback | End playback |\n| Down | Start playback | Pause playback | Start/resume playback |\n| Left/right | View other pictures | Adjust speed | Single frame rewind/ advance |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1068,
+                    "y": 0.4955
+                },
+                {
+                    "x": 0.9209,
+                    "y": 0.4955
+                },
+                {
+                    "x": 0.9209,
+                    "y": 0.6632
+                },
+                {
+                    "x": 0.1068,
+                    "y": 0.6632
+                }
+            ],
+            "id": 8,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='9' data-category='paragraph' style='font-size:20px'>Progress is shown in the display during<br>playback.</p>",
+                "markdown": "Progress is shown in the display during\nplayback.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1046,
+                    "y": 0.6759
+                },
+                {
+                    "x": 0.6253,
+                    "y": 0.6759
+                },
+                {
+                    "x": 0.6253,
+                    "y": 0.7266
+                },
+                {
+                    "x": 0.1046,
+                    "y": 0.7266
+                }
+            ],
+            "id": 9,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='10' data-category='paragraph' style='font-size:16px'>Do not cover the speaker during playback.</p>",
+                "markdown": "Do not cover the speaker during playback.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1096,
+                    "y": 0.7397
+                },
+                {
+                    "x": 0.6199,
+                    "y": 0.7397
+                },
+                {
+                    "x": 0.6199,
+                    "y": 0.7647
+                },
+                {
+                    "x": 0.1096,
+                    "y": 0.7647
+                }
+            ],
+            "id": 10,
+            "page": 1
+        },
+        {
+            "category": "figure",
+            "content": {
+                "html": "<br><figure id='11' data-category='chart'><img style='font-size:14px' alt=\"m23s \nTC:00:00:00:00 \n▲ STOP PAUSE ◀▶ ◀◀ ▶▶ (D) \n\" data-coord=\"top-left:(1740,2623); bottom-right:(2534,3233)\" /></figure>",
+                "markdown": "![image](/image/placeholder)\nm23s \nTC:00:00:00:00 \n▲ STOP PAUSE ◀▶ ◀◀ ▶▶ (D) \n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6298,
+                    "y": 0.6729
+                },
+                {
+                    "x": 0.917,
+                    "y": 0.6729
+                },
+                {
+                    "x": 0.917,
+                    "y": 0.8295
+                },
+                {
+                    "x": 0.6298,
+                    "y": 0.8295
+                }
+            ],
+            "id": 11,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<br><footer id='12' style='font-size:22px'>Movie<br>Recording<br>and<br>Playback</footer>",
+                "markdown": "Movie\nRecording\nand\nPlayback",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9569,
+                    "y": 0.4538
+                },
+                {
+                    "x": 0.9817,
+                    "y": 0.4538
+                },
+                {
+                    "x": 0.9817,
+                    "y": 0.6821
+                },
+                {
+                    "x": 0.9569,
+                    "y": 0.6821
+                }
+            ],
+            "id": 12,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='13' style='font-size:20px'>63</footer>",
+                "markdown": "63",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.878,
+                    "y": 0.9575
+                },
+                {
+                    "x": 0.9164,
+                    "y": 0.9575
+                },
+                {
+                    "x": 0.9164,
+                    "y": 0.9795
+                },
+                {
+                    "x": 0.878,
+                    "y": 0.9795
+                }
+            ],
+            "id": 13,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "# PLAYBACK\n\n| Option     | Description                                                                                                                                  |\n|------------|----------------------------------------------------------------------------------------------------------------------------------------------|\n| 👁️ EYE SENSOR | Putting your eye to the viewfinder turns the viewfinder on and the LCD monitor off; taking your eye away turns the viewfinder off and LCD monitor on. |\n| LCD ONLY   | LCD monitor on, viewfinder off.                                                                                                              |\n| EVF ONLY   | Viewfinder on, LCD monitor off.                                                                                                              |\n\n## The Eye Sensor\n\n- The eye sensor may respond to objects other than your eye or to light shining directly on the sensor.\n- The eye sensor is not available when the LCD monitor is tilted.\n\n!Eye Sensor",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "PLAYBACK",
+                    "md": "# PLAYBACK"
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Option",
+                            "Description"
+                        ],
+                        [
+                            "👁️ EYE SENSOR",
+                            "Putting your eye to the viewfinder turns the viewfinder on and the LCD monitor off; taking your eye away turns the viewfinder off and LCD monitor on."
+                        ],
+                        [
+                            "LCD ONLY",
+                            "LCD monitor on, viewfinder off."
+                        ],
+                        [
+                            "EVF ONLY",
+                            "Viewfinder on, LCD monitor off."
+                        ]
+                    ],
+                    "md": "| Option     | Description                                                                                                                                  |\n|------------|----------------------------------------------------------------------------------------------------------------------------------------------|\n| 👁️ EYE SENSOR | Putting your eye to the viewfinder turns the viewfinder on and the LCD monitor off; taking your eye away turns the viewfinder off and LCD monitor on. |\n| LCD ONLY   | LCD monitor on, viewfinder off.                                                                                                              |\n| EVF ONLY   | Viewfinder on, LCD monitor off.                                                                                                              |",
+                    "isPerfectTable": true,
+                    "csv": "\"Option\",\"Description\"\n\"👁️ EYE SENSOR\",\"Putting your eye to the viewfinder turns the viewfinder on and the LCD monitor off; taking your eye away turns the viewfinder off and LCD monitor on.\"\n\"LCD ONLY\",\"LCD monitor on, viewfinder off.\"\n\"EVF ONLY\",\"Viewfinder on, LCD monitor off.\""
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "The Eye Sensor",
+                    "md": "## The Eye Sensor"
+                },
+                {
+                    "type": "text",
+                    "value": "- The eye sensor may respond to objects other than your eye or to light shining directly on the sensor.\n- The eye sensor is not available when the LCD monitor is tilted.\n\n!Eye Sensor",
+                    "md": "- The eye sensor may respond to objects other than your eye or to light shining directly on the sensor.\n- The eye sensor is not available when the LCD monitor is tilted.\n\n!Eye Sensor"
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 433.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "03a487ff-01fd-4042-a5fe-5c3088ddc5fd",
+    "file_path": "../data/raw_data/gfx100ii/gfx100ii_split/gfx100ii_page49.pdf"
+}

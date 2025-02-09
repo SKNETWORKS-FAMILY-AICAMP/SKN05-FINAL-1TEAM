@@ -1,0 +1,115 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "# Interval Timer Shooting\n\n## Exposure Smoothing\n\nSelect **ON** to automatically adjust exposure during interval-timer photography to prevent it from changing dramatically between shots.\n\n| Options |   |\n|---------|---|\n| ON      |   |\n| OFF     |   |\n\n> 💡 **Note:**\n> - Large changes in subject brightness may make exposure appear erratic. We recommend choosing shorter values for **INTERVAL TIMER SHOOTING > INTERVAL** with subjects that brighten or dim dramatically during shooting.\n> - In manual mode (mode **M**), exposure smoothing is only available if an **AUTO** option is selected for **ISO**.\n\n## Interval Priority Mode\n\nIf **ON** is selected, the camera will adjust shutter speed during interval-timer photography to ensure that exposures are not longer than the interval between photographs.\n\n| Options |   |\n|---------|---|\n| ON      |   |\n| OFF     |   |\n\n> 💡 **Note:**\n> - This option takes effect only when shutter speed is set to **A** (auto).",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "Interval Timer Shooting",
+                    "md": "# Interval Timer Shooting"
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "Exposure Smoothing",
+                    "md": "## Exposure Smoothing"
+                },
+                {
+                    "type": "text",
+                    "value": "Select **ON** to automatically adjust exposure during interval-timer photography to prevent it from changing dramatically between shots.",
+                    "md": "Select **ON** to automatically adjust exposure during interval-timer photography to prevent it from changing dramatically between shots."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Options",
+                            ""
+                        ],
+                        [
+                            "ON",
+                            ""
+                        ],
+                        [
+                            "OFF",
+                            ""
+                        ]
+                    ],
+                    "md": "| Options |   |\n|---------|---|\n| ON      |   |\n| OFF     |   |",
+                    "isPerfectTable": true,
+                    "csv": "\"Options\",\"\"\n\"ON\",\"\"\n\"OFF\",\"\""
+                },
+                {
+                    "type": "text",
+                    "value": "> 💡 **Note:**\n> - Large changes in subject brightness may make exposure appear erratic. We recommend choosing shorter values for **INTERVAL TIMER SHOOTING > INTERVAL** with subjects that brighten or dim dramatically during shooting.\n> - In manual mode (mode **M**), exposure smoothing is only available if an **AUTO** option is selected for **ISO**.",
+                    "md": "> 💡 **Note:**\n> - Large changes in subject brightness may make exposure appear erratic. We recommend choosing shorter values for **INTERVAL TIMER SHOOTING > INTERVAL** with subjects that brighten or dim dramatically during shooting.\n> - In manual mode (mode **M**), exposure smoothing is only available if an **AUTO** option is selected for **ISO**."
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "Interval Priority Mode",
+                    "md": "## Interval Priority Mode"
+                },
+                {
+                    "type": "text",
+                    "value": "If **ON** is selected, the camera will adjust shutter speed during interval-timer photography to ensure that exposures are not longer than the interval between photographs.",
+                    "md": "If **ON** is selected, the camera will adjust shutter speed during interval-timer photography to ensure that exposures are not longer than the interval between photographs."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Options",
+                            ""
+                        ],
+                        [
+                            "ON",
+                            ""
+                        ],
+                        [
+                            "OFF",
+                            ""
+                        ]
+                    ],
+                    "md": "| Options |   |\n|---------|---|\n| ON      |   |\n| OFF     |   |",
+                    "isPerfectTable": true,
+                    "csv": "\"Options\",\"\"\n\"ON\",\"\"\n\"OFF\",\"\""
+                },
+                {
+                    "type": "text",
+                    "value": "> 💡 **Note:**\n> - This option takes effect only when shutter speed is set to **A** (auto).",
+                    "md": "> 💡 **Note:**\n> - This option takes effect only when shutter speed is set to **A** (auto)."
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 389.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "16a04131-2e77-4ade-b1f0-db50039c2451",
+    "file_path": "../data/raw_data/gfx100ii/gfx100ii_split/gfx100ii_page196.pdf"
+}

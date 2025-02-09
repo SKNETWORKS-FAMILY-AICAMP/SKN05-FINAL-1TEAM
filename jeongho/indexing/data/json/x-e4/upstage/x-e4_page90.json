@@ -1,0 +1,378 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<p id='0' data-category='paragraph' style='font-size:14px'>FOCUS FOCUS BKT</p>\n<br><p id='1' data-category='paragraph' style='font-size:20px'>Each time the shutter button is pressed, the camera takes a se-<br>ries of photos, varying focus with each shot. The □ SHOOTING<br>SETTING > FOCUS BKT SETTING item offers a choice of MANUAL<br>and AUTO bracketing.</p>\n<p id='2' data-category='list' style='font-size:14px'>● Do not adjust zoom during shooting.<br>● Use of a tripod is recommended.</p>\n<br><p id='3' data-category='paragraph' style='font-size:18px'>MANUAL</p>\n\n<br><table id='5' style='font-size:18px'><tr><td>Option</td><td>Description</td></tr><tr><td>FRAMES</td><td>Choose the number of shots.</td></tr><tr><td>STEP</td><td>Choose the amount focus changes with each shot.</td></tr><tr><td>INTERVAL</td><td>Choose the interval between shots.</td></tr><br><caption id='4' style='font-size:20px'>In MANUAL mode, you choose the following.</caption></table>\n<p id='6' data-category='paragraph' style='font-size:16px'>Focus and FRAMES/STEP</p>\n<br><h1 id='7' style='font-size:18px'>5</h1>\n<br><p id='8' data-category='paragraph' style='font-size:16px'>The relation between focus and the options chosen for FRAMES and<br>STEP is shown in the illustration.</p>\n<br><header id='9' style='font-size:22px'>Taking<br>Photographs</header>\n<br><figure id='10'><img style='font-size:14px' alt=\": Step\nFrames 1 2 3 4 5 ···\n↑\nStarting focus position\" data-coord=\"top-left:(685,2085); bottom-right:(2022,2895)\" /></figure>\n<p id='11' data-category='list' style='font-size:18px'>● Focus proceeds from the starting position toward infinity.<br>● Small STEP values translate to small changes in focus, larger values to larger<br>changes.<br>● Regardless of the option chosen for FRAMES, shooting ends when focus<br>reaches infinity.</p>\n<footer id='12' style='font-size:22px'>90</footer>",
+        "markdown": "FOCUS FOCUS BKT\n\nEach time the shutter button is pressed, the camera takes a se-\nries of photos, varying focus with each shot. The □ SHOOTING\nSETTING > FOCUS BKT SETTING item offers a choice of MANUAL\nand AUTO bracketing.\n\n- ● Do not adjust zoom during shooting.\n- ● Use of a tripod is recommended.\n\n\nMANUAL\n\nIn MANUAL mode, you choose the following.\n\n| Option | Description |\n| --- | --- |\n| FRAMES | Choose the number of shots. |\n| STEP | Choose the amount focus changes with each shot. |\n| INTERVAL | Choose the interval between shots. |\n\n\nFocus and FRAMES/STEP\n\n# 5\n\nThe relation between focus and the options chosen for FRAMES and\nSTEP is shown in the illustration.\n\nTaking\nPhotographs\n\n![image](/image/placeholder)\n: Step\nFrames 1 2 3 4 5 ···\n↑\nStarting focus position\n\n- ● Focus proceeds from the starting position toward infinity.\n- ● Small STEP values translate to small changes in focus, larger values to larger\n- changes.\n- ● Regardless of the option chosen for FRAMES, shooting ends when focus\n- reaches infinity.\n\n\n90",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='0' data-category='paragraph' style='font-size:14px'>FOCUS FOCUS BKT</p>",
+                "markdown": "FOCUS FOCUS BKT",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0992,
+                    "y": 0.0751
+                },
+                {
+                    "x": 0.2855,
+                    "y": 0.0751
+                },
+                {
+                    "x": 0.2855,
+                    "y": 0.0969
+                },
+                {
+                    "x": 0.0992,
+                    "y": 0.0969
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='1' data-category='paragraph' style='font-size:20px'>Each time the shutter button is pressed, the camera takes a se-<br>ries of photos, varying focus with each shot. The □ SHOOTING<br>SETTING > FOCUS BKT SETTING item offers a choice of MANUAL<br>and AUTO bracketing.</p>",
+                "markdown": "Each time the shutter button is pressed, the camera takes a se-\nries of photos, varying focus with each shot. The □ SHOOTING\nSETTING > FOCUS BKT SETTING item offers a choice of MANUAL\nand AUTO bracketing.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0813,
+                    "y": 0.1045
+                },
+                {
+                    "x": 0.8927,
+                    "y": 0.1045
+                },
+                {
+                    "x": 0.8927,
+                    "y": 0.2053
+                },
+                {
+                    "x": 0.0813,
+                    "y": 0.2053
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "list",
+            "content": {
+                "html": "<p id='2' data-category='list' style='font-size:14px'>● Do not adjust zoom during shooting.<br>● Use of a tripod is recommended.</p>",
+                "markdown": "- ● Do not adjust zoom during shooting.\n- ● Use of a tripod is recommended.\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0979,
+                    "y": 0.2157
+                },
+                {
+                    "x": 0.5442,
+                    "y": 0.2157
+                },
+                {
+                    "x": 0.5442,
+                    "y": 0.2604
+                },
+                {
+                    "x": 0.0979,
+                    "y": 0.2604
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='3' data-category='paragraph' style='font-size:18px'>MANUAL</p>",
+                "markdown": "MANUAL",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0823,
+                    "y": 0.275
+                },
+                {
+                    "x": 0.1786,
+                    "y": 0.275
+                },
+                {
+                    "x": 0.1786,
+                    "y": 0.2959
+                },
+                {
+                    "x": 0.0823,
+                    "y": 0.2959
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='4' data-category='paragraph' style='font-size:20px'>In MANUAL mode, you choose the following.</p>",
+                "markdown": "In MANUAL mode, you choose the following.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0813,
+                    "y": 0.2998
+                },
+                {
+                    "x": 0.6524,
+                    "y": 0.2998
+                },
+                {
+                    "x": 0.6524,
+                    "y": 0.3245
+                },
+                {
+                    "x": 0.0813,
+                    "y": 0.3245
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='5' style='font-size:18px'><tr><td>Option</td><td>Description</td></tr><tr><td>FRAMES</td><td>Choose the number of shots.</td></tr><tr><td>STEP</td><td>Choose the amount focus changes with each shot.</td></tr><tr><td>INTERVAL</td><td>Choose the interval between shots.</td></tr></table>",
+                "markdown": "| Option | Description |\n| --- | --- |\n| FRAMES | Choose the number of shots. |\n| STEP | Choose the amount focus changes with each shot. |\n| INTERVAL | Choose the interval between shots. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0821,
+                    "y": 0.3377
+                },
+                {
+                    "x": 0.892,
+                    "y": 0.3377
+                },
+                {
+                    "x": 0.892,
+                    "y": 0.4455
+                },
+                {
+                    "x": 0.0821,
+                    "y": 0.4455
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='6' data-category='paragraph' style='font-size:16px'>Focus and FRAMES/STEP</p>",
+                "markdown": "Focus and FRAMES/STEP",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0895,
+                    "y": 0.464
+                },
+                {
+                    "x": 0.3245,
+                    "y": 0.464
+                },
+                {
+                    "x": 0.3245,
+                    "y": 0.4834
+                },
+                {
+                    "x": 0.0895,
+                    "y": 0.4834
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='7' style='font-size:18px'>5</h1>",
+                "markdown": "# 5",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0278,
+                    "y": 0.4793
+                },
+                {
+                    "x": 0.0417,
+                    "y": 0.4793
+                },
+                {
+                    "x": 0.0417,
+                    "y": 0.4961
+                },
+                {
+                    "x": 0.0278,
+                    "y": 0.4961
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='8' data-category='paragraph' style='font-size:16px'>The relation between focus and the options chosen for FRAMES and<br>STEP is shown in the illustration.</p>",
+                "markdown": "The relation between focus and the options chosen for FRAMES and\nSTEP is shown in the illustration.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0914,
+                    "y": 0.4865
+                },
+                {
+                    "x": 0.8858,
+                    "y": 0.4865
+                },
+                {
+                    "x": 0.8858,
+                    "y": 0.5315
+                },
+                {
+                    "x": 0.0914,
+                    "y": 0.5315
+                }
+            ],
+            "id": 8,
+            "page": 1
+        },
+        {
+            "category": "header",
+            "content": {
+                "html": "<br><header id='9' style='font-size:22px'>Taking<br>Photographs</header>",
+                "markdown": "Taking\nPhotographs",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.016,
+                    "y": 0.5146
+                },
+                {
+                    "x": 0.0426,
+                    "y": 0.5146
+                },
+                {
+                    "x": 0.0426,
+                    "y": 0.6664
+                },
+                {
+                    "x": 0.016,
+                    "y": 0.6664
+                }
+            ],
+            "id": 9,
+            "page": 1
+        },
+        {
+            "category": "figure",
+            "content": {
+                "html": "<br><figure id='10'><img style='font-size:14px' alt=\": Step\nFrames 1 2 3 4 5 ···\n↑\nStarting focus position\" data-coord=\"top-left:(685,2085); bottom-right:(2022,2895)\" /></figure>",
+                "markdown": "![image](/image/placeholder)\n: Step\nFrames 1 2 3 4 5 ···\n↑\nStarting focus position",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.2479,
+                    "y": 0.535
+                },
+                {
+                    "x": 0.7319,
+                    "y": 0.535
+                },
+                {
+                    "x": 0.7319,
+                    "y": 0.7429
+                },
+                {
+                    "x": 0.2479,
+                    "y": 0.7429
+                }
+            ],
+            "id": 10,
+            "page": 1
+        },
+        {
+            "category": "list",
+            "content": {
+                "html": "<p id='11' data-category='list' style='font-size:18px'>● Focus proceeds from the starting position toward infinity.<br>● Small STEP values translate to small changes in focus, larger values to larger<br>changes.<br>● Regardless of the option chosen for FRAMES, shooting ends when focus<br>reaches infinity.</p>",
+                "markdown": "- ● Focus proceeds from the starting position toward infinity.\n- ● Small STEP values translate to small changes in focus, larger values to larger\n- changes.\n- ● Regardless of the option chosen for FRAMES, shooting ends when focus\n- reaches infinity.\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0942,
+                    "y": 0.7568
+                },
+                {
+                    "x": 0.891,
+                    "y": 0.7568
+                },
+                {
+                    "x": 0.891,
+                    "y": 0.8738
+                },
+                {
+                    "x": 0.0942,
+                    "y": 0.8738
+                }
+            ],
+            "id": 11,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='12' style='font-size:22px'>90</footer>",
+                "markdown": "90",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0823,
+                    "y": 0.9568
+                },
+                {
+                    "x": 0.1229,
+                    "y": 0.9568
+                },
+                {
+                    "x": 0.1229,
+                    "y": 0.9794
+                },
+                {
+                    "x": 0.0823,
+                    "y": 0.9794
+                }
+            ],
+            "id": 12,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

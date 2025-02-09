@@ -1,0 +1,294 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<h1 id='0' style='font-size:20px'>Function Controls</h1>\n<br><p id='1' data-category='paragraph' style='font-size:18px'>Each of the function (Fn, Q, and AEL/AFL) buttons and<br>touch-function (T-Fn1, T-Fn2, T-Fn3, and T-Fn4) button flick<br>gestures can be assigned its own role.</p>\n<h1 id='2' style='font-size:16px'>The Function Buttons</h1>\n\n<p id='4' data-category='paragraph' style='font-size:16px'>Function Button Defaults</p>\n<br><p id='5' data-category='paragraph' style='font-size:16px'>The default assignments are:</p>\n<br><figure id='6'><img style='font-size:14px' alt=\"AEL\nAFL\" data-coord=\"top-left:(503,1420); bottom-right:(2381,2684)\" /><br><figcaption id='3' style='font-size:18px'>Assign roles to the function (Fn, Q, and AEL/AFL) buttons for quick<br>access.</figcaption></figure>\n<br><table id='7' style='font-size:14px'><tr><td colspan=\"2\">Function buttons</td><td>Default</td></tr><tr><td>1</td><td>Q(quick menu) button</td><td>QUICK MENU</td></tr><tr><td>2</td><td>Fn button</td><td>WHITE BALANCE</td></tr><tr><td>3</td><td>AEL/AFL button</td><td>AE/AF LOCK</td></tr></table>\n<br><footer id='8' style='font-size:22px'>Shortcuts</footer>\n<footer id='9' style='font-size:20px'>253</footer>",
+        "markdown": "# Function Controls\n\nEach of the function (Fn, Q, and AEL/AFL) buttons and\ntouch-function (T-Fn1, T-Fn2, T-Fn3, and T-Fn4) button flick\ngestures can be assigned its own role.\n\n# The Function Buttons\n\nAssign roles to the function (Fn, Q, and AEL/AFL) buttons for quick\naccess.\n\nFunction Button Defaults\n\nThe default assignments are:\n\n![image](/image/placeholder)\nAEL\nAFL\n\n| Function buttons | Function buttons | Default |\n| --- | --- | --- |\n| 1 | Q(quick menu) button | QUICK MENU |\n| 2 | Fn button | WHITE BALANCE |\n| 3 | AEL/AFL button | AE/AF LOCK |\n\n\nShortcuts\n\n253",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='0' style='font-size:20px'>Function Controls</h1>",
+                "markdown": "# Function Controls",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1815,
+                    "y": 0.0735
+                },
+                {
+                    "x": 0.4849,
+                    "y": 0.0735
+                },
+                {
+                    "x": 0.4849,
+                    "y": 0.0995
+                },
+                {
+                    "x": 0.1815,
+                    "y": 0.0995
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='1' data-category='paragraph' style='font-size:18px'>Each of the function (Fn, Q, and AEL/AFL) buttons and<br>touch-function (T-Fn1, T-Fn2, T-Fn3, and T-Fn4) button flick<br>gestures can be assigned its own role.</p>",
+                "markdown": "Each of the function (Fn, Q, and AEL/AFL) buttons and\ntouch-function (T-Fn1, T-Fn2, T-Fn3, and T-Fn4) button flick\ngestures can be assigned its own role.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1771,
+                    "y": 0.1079
+                },
+                {
+                    "x": 0.9197,
+                    "y": 0.1079
+                },
+                {
+                    "x": 0.9197,
+                    "y": 0.1854
+                },
+                {
+                    "x": 0.1771,
+                    "y": 0.1854
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='2' style='font-size:16px'>The Function Buttons</h1>",
+                "markdown": "# The Function Buttons",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1082,
+                    "y": 0.2067
+                },
+                {
+                    "x": 0.4034,
+                    "y": 0.2067
+                },
+                {
+                    "x": 0.4034,
+                    "y": 0.228
+                },
+                {
+                    "x": 0.1082,
+                    "y": 0.228
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='3' data-category='paragraph' style='font-size:18px'>Assign roles to the function (Fn, Q, and AEL/AFL) buttons for quick<br>access.</p>",
+                "markdown": "Assign roles to the function (Fn, Q, and AEL/AFL) buttons for quick\naccess.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1063,
+                    "y": 0.2363
+                },
+                {
+                    "x": 0.9198,
+                    "y": 0.2363
+                },
+                {
+                    "x": 0.9198,
+                    "y": 0.2861
+                },
+                {
+                    "x": 0.1063,
+                    "y": 0.2861
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='4' data-category='paragraph' style='font-size:16px'>Function Button Defaults</p>",
+                "markdown": "Function Button Defaults",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1167,
+                    "y": 0.3079
+                },
+                {
+                    "x": 0.4376,
+                    "y": 0.3079
+                },
+                {
+                    "x": 0.4376,
+                    "y": 0.3331
+                },
+                {
+                    "x": 0.1167,
+                    "y": 0.3331
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='5' data-category='paragraph' style='font-size:16px'>The default assignments are:</p>",
+                "markdown": "The default assignments are:",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1077,
+                    "y": 0.3397
+                },
+                {
+                    "x": 0.4753,
+                    "y": 0.3397
+                },
+                {
+                    "x": 0.4753,
+                    "y": 0.3646
+                },
+                {
+                    "x": 0.1077,
+                    "y": 0.3646
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "figure",
+            "content": {
+                "html": "<br><figure id='6'><img style='font-size:14px' alt=\"AEL\nAFL\" data-coord=\"top-left:(503,1420); bottom-right:(2381,2684)\" /></figure>",
+                "markdown": "![image](/image/placeholder)\nAEL\nAFL",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.182,
+                    "y": 0.3645
+                },
+                {
+                    "x": 0.8616,
+                    "y": 0.3645
+                },
+                {
+                    "x": 0.8616,
+                    "y": 0.6888
+                },
+                {
+                    "x": 0.182,
+                    "y": 0.6888
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='7' style='font-size:14px'><tr><td colspan=\"2\">Function buttons</td><td>Default</td></tr><tr><td>1</td><td>Q(quick menu) button</td><td>QUICK MENU</td></tr><tr><td>2</td><td>Fn button</td><td>WHITE BALANCE</td></tr><tr><td>3</td><td>AEL/AFL button</td><td>AE/AF LOCK</td></tr></table>",
+                "markdown": "| Function buttons | Function buttons | Default |\n| --- | --- | --- |\n| 1 | Q(quick menu) button | QUICK MENU |\n| 2 | Fn button | WHITE BALANCE |\n| 3 | AEL/AFL button | AE/AF LOCK |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1046,
+                    "y": 0.6958
+                },
+                {
+                    "x": 0.9147,
+                    "y": 0.6958
+                },
+                {
+                    "x": 0.9147,
+                    "y": 0.8015
+                },
+                {
+                    "x": 0.1046,
+                    "y": 0.8015
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<br><footer id='8' style='font-size:22px'>Shortcuts</footer>",
+                "markdown": "Shortcuts",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9559,
+                    "y": 0.6215
+                },
+                {
+                    "x": 0.9829,
+                    "y": 0.6215
+                },
+                {
+                    "x": 0.9829,
+                    "y": 0.7398
+                },
+                {
+                    "x": 0.9559,
+                    "y": 0.7398
+                }
+            ],
+            "id": 8,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='9' style='font-size:20px'>253</footer>",
+                "markdown": "253",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.8598,
+                    "y": 0.956
+                },
+                {
+                    "x": 0.9177,
+                    "y": 0.956
+                },
+                {
+                    "x": 0.9177,
+                    "y": 0.98
+                },
+                {
+                    "x": 0.8598,
+                    "y": 0.98
+                }
+            ],
+            "id": 9,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

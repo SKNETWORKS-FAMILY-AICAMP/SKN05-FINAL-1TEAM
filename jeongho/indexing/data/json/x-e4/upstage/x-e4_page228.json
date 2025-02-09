@@ -1,0 +1,350 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<h1 id='0' style='font-size:18px'>SHOOT WITHOUT CARD</h1>\n\n<table id='2' style='font-size:14px'><tr><td>Option</td><td>Description</td></tr><tr><td>ON</td><td>When no memory card is inserted, the shutter can be released to test camera function and the shooting and setup menus can be displayed.</td></tr><tr><td>OFF</td><td>The shutter is disabled if no memory card is inserted, preventing accidental loss of pictures taken without a memory card.</td></tr><br><caption id='1' style='font-size:18px'>Choose whether the shutter can be released without a memory<br>card inserted in the camera.</caption></table>\n<p id='3' data-category='paragraph' style='font-size:16px'>FOCUS RING</p>\n\n<br><table id='5' style='font-size:18px'><tr><td colspan=\"2\">Options</td></tr><tr><td>C CW (clockwise)</td><td>� CCW (counterclockwise)</td></tr><br><caption id='4' style='font-size:18px'>Choose the direction in which the focus ring is rotated to in-<br>crease the focus distance.</caption></table>\n<p id='6' data-category='paragraph' style='font-size:16px'>FOCUS RING OPERATION</p>\n<br><p id='7' data-category='paragraph' style='font-size:20px'>Choose how the camera adjusts focus in response to the move-<br>ment of the focus ring.</p>\n<table id='8' style='font-size:16px'><tr><td>Option</td><td>Description</td></tr><tr><td>NONLINEAR</td><td>Focus is adjusted at the same rate as the ring is rotated.</td></tr><tr><td>LINEAR</td><td>Focus is adjusted linearly according to the amount the ring is ro- tated, but the focusing speed is unaffected by the speed the ring is rotated.</td></tr></table>\n<br><header id='9' style='font-size:22px'>The<br>Setup<br>Menus</header>\n<header id='10' style='font-size:14px'>8</header>\n<footer id='11' style='font-size:20px'>228</footer>",
+        "markdown": "# SHOOT WITHOUT CARD\n\nChoose whether the shutter can be released without a memory\ncard inserted in the camera.\n\n| Option | Description |\n| --- | --- |\n| ON | When no memory card is inserted, the shutter can be released to test camera function and the shooting and setup menus can be displayed. |\n| OFF | The shutter is disabled if no memory card is inserted, preventing accidental loss of pictures taken without a memory card. |\n\n\nFOCUS RING\n\nChoose the direction in which the focus ring is rotated to in-\ncrease the focus distance.\n\n| Options | Options |\n| --- | --- |\n| C CW (clockwise) | � CCW (counterclockwise) |\n\n\nFOCUS RING OPERATION\n\nChoose how the camera adjusts focus in response to the move-\nment of the focus ring.\n\n| Option | Description |\n| --- | --- |\n| NONLINEAR | Focus is adjusted at the same rate as the ring is rotated. |\n| LINEAR | Focus is adjusted linearly according to the amount the ring is ro- tated, but the focusing speed is unaffected by the speed the ring is rotated. |\n\n\nThe\nSetup\nMenus\n\n8\n\n228",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='0' style='font-size:18px'>SHOOT WITHOUT CARD</h1>",
+                "markdown": "# SHOOT WITHOUT CARD",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0814,
+                    "y": 0.0723
+                },
+                {
+                    "x": 0.406,
+                    "y": 0.0723
+                },
+                {
+                    "x": 0.406,
+                    "y": 0.0952
+                },
+                {
+                    "x": 0.0814,
+                    "y": 0.0952
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='1' data-category='paragraph' style='font-size:18px'>Choose whether the shutter can be released without a memory<br>card inserted in the camera.</p>",
+                "markdown": "Choose whether the shutter can be released without a memory\ncard inserted in the camera.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.081,
+                    "y": 0.1045
+                },
+                {
+                    "x": 0.893,
+                    "y": 0.1045
+                },
+                {
+                    "x": 0.893,
+                    "y": 0.1534
+                },
+                {
+                    "x": 0.081,
+                    "y": 0.1534
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='2' style='font-size:14px'><tr><td>Option</td><td>Description</td></tr><tr><td>ON</td><td>When no memory card is inserted, the shutter can be released to test camera function and the shooting and setup menus can be displayed.</td></tr><tr><td>OFF</td><td>The shutter is disabled if no memory card is inserted, preventing accidental loss of pictures taken without a memory card.</td></tr></table>",
+                "markdown": "| Option | Description |\n| --- | --- |\n| ON | When no memory card is inserted, the shutter can be released to test camera function and the shooting and setup menus can be displayed. |\n| OFF | The shutter is disabled if no memory card is inserted, preventing accidental loss of pictures taken without a memory card. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0878,
+                    "y": 0.1671
+                },
+                {
+                    "x": 0.8934,
+                    "y": 0.1671
+                },
+                {
+                    "x": 0.8934,
+                    "y": 0.3092
+                },
+                {
+                    "x": 0.0878,
+                    "y": 0.3092
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='3' data-category='paragraph' style='font-size:16px'>FOCUS RING</p>",
+                "markdown": "FOCUS RING",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0827,
+                    "y": 0.3269
+                },
+                {
+                    "x": 0.2578,
+                    "y": 0.3269
+                },
+                {
+                    "x": 0.2578,
+                    "y": 0.3499
+                },
+                {
+                    "x": 0.0827,
+                    "y": 0.3499
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='4' data-category='paragraph' style='font-size:18px'>Choose the direction in which the focus ring is rotated to in-<br>crease the focus distance.</p>",
+                "markdown": "Choose the direction in which the focus ring is rotated to in-\ncrease the focus distance.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0815,
+                    "y": 0.359
+                },
+                {
+                    "x": 0.892,
+                    "y": 0.359
+                },
+                {
+                    "x": 0.892,
+                    "y": 0.4085
+                },
+                {
+                    "x": 0.0815,
+                    "y": 0.4085
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='5' style='font-size:18px'><tr><td colspan=\"2\">Options</td></tr><tr><td>C CW (clockwise)</td><td>� CCW (counterclockwise)</td></tr></table>",
+                "markdown": "| Options | Options |\n| --- | --- |\n| C CW (clockwise) | � CCW (counterclockwise) |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1746,
+                    "y": 0.4223
+                },
+                {
+                    "x": 0.8739,
+                    "y": 0.4223
+                },
+                {
+                    "x": 0.8739,
+                    "y": 0.474
+                },
+                {
+                    "x": 0.1746,
+                    "y": 0.474
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='6' data-category='paragraph' style='font-size:16px'>FOCUS RING OPERATION</p>",
+                "markdown": "FOCUS RING OPERATION",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.084,
+                    "y": 0.4894
+                },
+                {
+                    "x": 0.4243,
+                    "y": 0.4894
+                },
+                {
+                    "x": 0.4243,
+                    "y": 0.5135
+                },
+                {
+                    "x": 0.084,
+                    "y": 0.5135
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='7' data-category='paragraph' style='font-size:20px'>Choose how the camera adjusts focus in response to the move-<br>ment of the focus ring.</p>",
+                "markdown": "Choose how the camera adjusts focus in response to the move-\nment of the focus ring.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0811,
+                    "y": 0.5211
+                },
+                {
+                    "x": 0.8916,
+                    "y": 0.5211
+                },
+                {
+                    "x": 0.8916,
+                    "y": 0.572
+                },
+                {
+                    "x": 0.0811,
+                    "y": 0.572
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='8' style='font-size:16px'><tr><td>Option</td><td>Description</td></tr><tr><td>NONLINEAR</td><td>Focus is adjusted at the same rate as the ring is rotated.</td></tr><tr><td>LINEAR</td><td>Focus is adjusted linearly according to the amount the ring is ro- tated, but the focusing speed is unaffected by the speed the ring is rotated.</td></tr></table>",
+                "markdown": "| Option | Description |\n| --- | --- |\n| NONLINEAR | Focus is adjusted at the same rate as the ring is rotated. |\n| LINEAR | Focus is adjusted linearly according to the amount the ring is ro- tated, but the focusing speed is unaffected by the speed the ring is rotated. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0859,
+                    "y": 0.5847
+                },
+                {
+                    "x": 0.8954,
+                    "y": 0.5847
+                },
+                {
+                    "x": 0.8954,
+                    "y": 0.7035
+                },
+                {
+                    "x": 0.0859,
+                    "y": 0.7035
+                }
+            ],
+            "id": 8,
+            "page": 1
+        },
+        {
+            "category": "header",
+            "content": {
+                "html": "<br><header id='9' style='font-size:22px'>The<br>Setup<br>Menus</header>",
+                "markdown": "The\nSetup\nMenus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0181,
+                    "y": 0.5076
+                },
+                {
+                    "x": 0.0402,
+                    "y": 0.5076
+                },
+                {
+                    "x": 0.0402,
+                    "y": 0.6379
+                },
+                {
+                    "x": 0.0181,
+                    "y": 0.6379
+                }
+            ],
+            "id": 9,
+            "page": 1
+        },
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='10' style='font-size:14px'>8</header>",
+                "markdown": "8",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0254,
+                    "y": 0.6573
+                },
+                {
+                    "x": 0.0441,
+                    "y": 0.6573
+                },
+                {
+                    "x": 0.0441,
+                    "y": 0.6775
+                },
+                {
+                    "x": 0.0254,
+                    "y": 0.6775
+                }
+            ],
+            "id": 10,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='11' style='font-size:20px'>228</footer>",
+                "markdown": "228",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0829,
+                    "y": 0.9559
+                },
+                {
+                    "x": 0.1398,
+                    "y": 0.9559
+                },
+                {
+                    "x": 0.1398,
+                    "y": 0.9787
+                },
+                {
+                    "x": 0.0829,
+                    "y": 0.9787
+                }
+            ],
+            "id": 11,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

@@ -1,0 +1,106 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "# IMAGE QUALITY SETTING (Movie Recording)\n\n## DYNAMIC RANGE\nChoose a dynamic range for movie recording.\n\n| Option  | Description |\n|---------|-------------|\n| 100%    | See “DYNAMIC RANGE” (p. 113). |\n| 200%    | See “DYNAMIC RANGE” (p. 113). |\n| 400%    | See “DYNAMIC RANGE” (p. 113). |\n\n- **AUTO** (automatic dynamic range control) is not available during movie recording.\n  - **200%** is available at sensitivities from ISO 320 to ISO 12800.\n  - **400%** at sensitivities from ISO 640 to 12800.\n  - The **MOVIE SETTING > DYNAMIC RANGE** option is available when **OFF** is selected for **MOVIE SETTING > F-Log RECORDING**.\n\n## TONE CURVE\nOptions are the same as those for still photography, but settings must be adjusted separately (p. 114).\n\n## COLOR\nOptions are the same as those for still photography, but settings must be adjusted separately (p. 115).",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "IMAGE QUALITY SETTING (Movie Recording)",
+                    "md": "# IMAGE QUALITY SETTING (Movie Recording)"
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "DYNAMIC RANGE",
+                    "md": "## DYNAMIC RANGE"
+                },
+                {
+                    "type": "text",
+                    "value": "Choose a dynamic range for movie recording.",
+                    "md": "Choose a dynamic range for movie recording."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Option",
+                            "Description"
+                        ],
+                        [
+                            "100%",
+                            "See “DYNAMIC RANGE” (p. 113)."
+                        ],
+                        [
+                            "200%",
+                            "See “DYNAMIC RANGE” (p. 113)."
+                        ],
+                        [
+                            "400%",
+                            "See “DYNAMIC RANGE” (p. 113)."
+                        ]
+                    ],
+                    "md": "| Option  | Description |\n|---------|-------------|\n| 100%    | See “DYNAMIC RANGE” (p. 113). |\n| 200%    | See “DYNAMIC RANGE” (p. 113). |\n| 400%    | See “DYNAMIC RANGE” (p. 113). |",
+                    "isPerfectTable": true,
+                    "csv": "\"Option\",\"Description\"\n\"100%\",\"See “DYNAMIC RANGE” (p. 113).\"\n\"200%\",\"See “DYNAMIC RANGE” (p. 113).\"\n\"400%\",\"See “DYNAMIC RANGE” (p. 113).\""
+                },
+                {
+                    "type": "text",
+                    "value": "- **AUTO** (automatic dynamic range control) is not available during movie recording.\n  - **200%** is available at sensitivities from ISO 320 to ISO 12800.\n  - **400%** at sensitivities from ISO 640 to 12800.\n  - The **MOVIE SETTING > DYNAMIC RANGE** option is available when **OFF** is selected for **MOVIE SETTING > F-Log RECORDING**.",
+                    "md": "- **AUTO** (automatic dynamic range control) is not available during movie recording.\n  - **200%** is available at sensitivities from ISO 320 to ISO 12800.\n  - **400%** at sensitivities from ISO 640 to 12800.\n  - The **MOVIE SETTING > DYNAMIC RANGE** option is available when **OFF** is selected for **MOVIE SETTING > F-Log RECORDING**."
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "TONE CURVE",
+                    "md": "## TONE CURVE"
+                },
+                {
+                    "type": "text",
+                    "value": "Options are the same as those for still photography, but settings must be adjusted separately (p. 114).",
+                    "md": "Options are the same as those for still photography, but settings must be adjusted separately (p. 114)."
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "COLOR",
+                    "md": "## COLOR"
+                },
+                {
+                    "type": "text",
+                    "value": "Options are the same as those for still photography, but settings must be adjusted separately (p. 115).",
+                    "md": "Options are the same as those for still photography, but settings must be adjusted separately (p. 115)."
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "parsingMode": "multimodal-openai-gpt4o",
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 172.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "b17ff0a6-5bf0-47c6-8f72-4fcdb49f1277",
+    "file_path": "../data/raw_data/x-e4/x-e4_split/x-e4_page189.pdf"
+}

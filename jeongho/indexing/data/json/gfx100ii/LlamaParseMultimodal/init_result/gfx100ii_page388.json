@@ -1,0 +1,127 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "# SHUTTER AE\n\nIf **ON** is selected, exposure will lock while the shutter button is pressed halfway. The setting for focus mode C (AF-C) can be adjusted separately from that for modes S (AF-S) and M (manual focus).\n\n| Options |     |\n|---------|-----|\n| ON      | OFF |\n\n> 💡 **Tip:** Select **OFF** to allow the camera to adjust exposure before each shot taken in burst mode.\n\n# SHOOT WITHOUT LENS\n\nChoose **ON** to enable the shutter release when no lens is attached.\n\n| Options |     |\n|---------|-----|\n| ON      | OFF |\n\n# SHOOT WITHOUT CARD\n\nChoose whether the shutter can be released without a memory card inserted in the camera.\n\n| Option | Description |\n|--------|-------------|\n| ON     | When no memory card is inserted, the shutter can be released to test camera function and the shooting and setup menus can be displayed. |\n| OFF    | The shutter is disabled if no memory card is inserted, preventing accidental loss of pictures taken without a memory card. |",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "SHUTTER AE",
+                    "md": "# SHUTTER AE"
+                },
+                {
+                    "type": "text",
+                    "value": "If **ON** is selected, exposure will lock while the shutter button is pressed halfway. The setting for focus mode C (AF-C) can be adjusted separately from that for modes S (AF-S) and M (manual focus).",
+                    "md": "If **ON** is selected, exposure will lock while the shutter button is pressed halfway. The setting for focus mode C (AF-C) can be adjusted separately from that for modes S (AF-S) and M (manual focus)."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Options",
+                            ""
+                        ],
+                        [
+                            "ON",
+                            "OFF"
+                        ]
+                    ],
+                    "md": "| Options |     |\n|---------|-----|\n| ON      | OFF |",
+                    "isPerfectTable": true,
+                    "csv": "\"Options\",\"\"\n\"ON\",\"OFF\""
+                },
+                {
+                    "type": "text",
+                    "value": "> 💡 **Tip:** Select **OFF** to allow the camera to adjust exposure before each shot taken in burst mode.",
+                    "md": "> 💡 **Tip:** Select **OFF** to allow the camera to adjust exposure before each shot taken in burst mode."
+                },
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "SHOOT WITHOUT LENS",
+                    "md": "# SHOOT WITHOUT LENS"
+                },
+                {
+                    "type": "text",
+                    "value": "Choose **ON** to enable the shutter release when no lens is attached.",
+                    "md": "Choose **ON** to enable the shutter release when no lens is attached."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Options",
+                            ""
+                        ],
+                        [
+                            "ON",
+                            "OFF"
+                        ]
+                    ],
+                    "md": "| Options |     |\n|---------|-----|\n| ON      | OFF |",
+                    "isPerfectTable": true,
+                    "csv": "\"Options\",\"\"\n\"ON\",\"OFF\""
+                },
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "SHOOT WITHOUT CARD",
+                    "md": "# SHOOT WITHOUT CARD"
+                },
+                {
+                    "type": "text",
+                    "value": "Choose whether the shutter can be released without a memory card inserted in the camera.",
+                    "md": "Choose whether the shutter can be released without a memory card inserted in the camera."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Option",
+                            "Description"
+                        ],
+                        [
+                            "ON",
+                            "When no memory card is inserted, the shutter can be released to test camera function and the shooting and setup menus can be displayed."
+                        ],
+                        [
+                            "OFF",
+                            "The shutter is disabled if no memory card is inserted, preventing accidental loss of pictures taken without a memory card."
+                        ]
+                    ],
+                    "md": "| Option | Description |\n|--------|-------------|\n| ON     | When no memory card is inserted, the shutter can be released to test camera function and the shooting and setup menus can be displayed. |\n| OFF    | The shutter is disabled if no memory card is inserted, preventing accidental loss of pictures taken without a memory card. |",
+                    "isPerfectTable": true,
+                    "csv": "\"Option\",\"Description\"\n\"ON\",\"When no memory card is inserted, the shutter can be released to test camera function and the shooting and setup menus can be displayed.\"\n\"OFF\",\"The shutter is disabled if no memory card is inserted, preventing accidental loss of pictures taken without a memory card.\""
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 414.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "479145e2-2b05-48a6-b4d5-c56eff8d5698",
+    "file_path": "../data/raw_data/gfx100ii/gfx100ii_split/gfx100ii_page388.pdf"
+}

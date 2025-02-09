@@ -1,0 +1,266 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:14px'>Vertical Battery Grips</header>\n<h1 id='1' style='font-size:20px'>Charging the Batteries</h1>\n<br><p id='2' data-category='paragraph' style='font-size:16px'>The batteries in the vertical battery grip<br>will charge when the grip is attached to<br>a camera that is connected to an AC-5VJ<br>AC adapter via a USB cable.</p>\n<p id='3' data-category='paragraph' style='font-size:18px'>The indicator lamps will light green while<br>the battery charges; the lamp on the left<br>shows the status of the left battery, the<br>lamp on the right the status of the right<br>battery.</p>\n<br><figure id='4'><img alt=\"\" data-coord=\"top-left:(1768,369); bottom-right:(2541,1523)\" /></figure>\n<table id='5' style='font-size:18px'><tr><td>Indicator lamp</td><td>Battery status</td></tr><tr><td>On</td><td>Battery charging</td></tr><tr><td>Off</td><td>Charging complete</td></tr><tr><td>Blinks</td><td>Battery fault</td></tr></table>\n<p id='6' data-category='list' style='font-size:14px'>All three batteries charge simultaneously; charging takes about<br>330 minutes.<br>● Using a device that supplies power with an outputs of 45 W or above<br>reduces charging times to as little as 180 minutes.<br>● The batteries will not charge while the camera is on.<br>● For more information, see \"Charging the Battery\" (目目 50) and \"The<br>Battery and Power Supply\" ( 430).</p>\n<br><footer id='7' style='font-size:22px'>Peripherals<br>and<br>Optional<br>Accessories<br>11</footer>\n<footer id='8' style='font-size:18px'>415</footer>",
+        "markdown": "Vertical Battery Grips\n\n# Charging the Batteries\n\nThe batteries in the vertical battery grip\nwill charge when the grip is attached to\na camera that is connected to an AC-5VJ\nAC adapter via a USB cable.\n\nThe indicator lamps will light green while\nthe battery charges; the lamp on the left\nshows the status of the left battery, the\nlamp on the right the status of the right\nbattery.\n\n![image](/image/placeholder)\n\n\n| Indicator lamp | Battery status |\n| --- | --- |\n| On | Battery charging |\n| Off | Charging complete |\n| Blinks | Battery fault |\n\n\n- All three batteries charge simultaneously; charging takes about\n- 330 minutes.\n- ● Using a device that supplies power with an outputs of 45 W or above\n- reduces charging times to as little as 180 minutes.\n- ● The batteries will not charge while the camera is on.\n- ● For more information, see \"Charging the Battery\" (目目 50) and \"The\n- Battery and Power Supply\" ( 430).\n\n\nPeripherals\nand\nOptional\nAccessories\n11\n\n415",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:14px'>Vertical Battery Grips</header>",
+                "markdown": "Vertical Battery Grips",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.7095,
+                    "y": 0.0293
+                },
+                {
+                    "x": 0.9185,
+                    "y": 0.0293
+                },
+                {
+                    "x": 0.9185,
+                    "y": 0.0506
+                },
+                {
+                    "x": 0.7095,
+                    "y": 0.0506
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='1' style='font-size:20px'>Charging the Batteries</h1>",
+                "markdown": "# Charging the Batteries",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1074,
+                    "y": 0.0723
+                },
+                {
+                    "x": 0.4172,
+                    "y": 0.0723
+                },
+                {
+                    "x": 0.4172,
+                    "y": 0.0961
+                },
+                {
+                    "x": 0.1074,
+                    "y": 0.0961
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='2' data-category='paragraph' style='font-size:16px'>The batteries in the vertical battery grip<br>will charge when the grip is attached to<br>a camera that is connected to an AC-5VJ<br>AC adapter via a USB cable.</p>",
+                "markdown": "The batteries in the vertical battery grip\nwill charge when the grip is attached to\na camera that is connected to an AC-5VJ\nAC adapter via a USB cable.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1056,
+                    "y": 0.1038
+                },
+                {
+                    "x": 0.6289,
+                    "y": 0.1038
+                },
+                {
+                    "x": 0.6289,
+                    "y": 0.2051
+                },
+                {
+                    "x": 0.1056,
+                    "y": 0.2051
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='3' data-category='paragraph' style='font-size:18px'>The indicator lamps will light green while<br>the battery charges; the lamp on the left<br>shows the status of the left battery, the<br>lamp on the right the status of the right<br>battery.</p>",
+                "markdown": "The indicator lamps will light green while\nthe battery charges; the lamp on the left\nshows the status of the left battery, the\nlamp on the right the status of the right\nbattery.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1058,
+                    "y": 0.218
+                },
+                {
+                    "x": 0.6286,
+                    "y": 0.218
+                },
+                {
+                    "x": 0.6286,
+                    "y": 0.3484
+                },
+                {
+                    "x": 0.1058,
+                    "y": 0.3484
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "figure",
+            "content": {
+                "html": "<br><figure id='4'><img alt=\"\" data-coord=\"top-left:(1768,369); bottom-right:(2541,1523)\" /></figure>",
+                "markdown": "![image](/image/placeholder)\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.64,
+                    "y": 0.0947
+                },
+                {
+                    "x": 0.9194,
+                    "y": 0.0947
+                },
+                {
+                    "x": 0.9194,
+                    "y": 0.3909
+                },
+                {
+                    "x": 0.64,
+                    "y": 0.3909
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='5' style='font-size:18px'><tr><td>Indicator lamp</td><td>Battery status</td></tr><tr><td>On</td><td>Battery charging</td></tr><tr><td>Off</td><td>Charging complete</td></tr><tr><td>Blinks</td><td>Battery fault</td></tr></table>",
+                "markdown": "| Indicator lamp | Battery status |\n| --- | --- |\n| On | Battery charging |\n| Off | Charging complete |\n| Blinks | Battery fault |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1072,
+                    "y": 0.4087
+                },
+                {
+                    "x": 0.9173,
+                    "y": 0.4087
+                },
+                {
+                    "x": 0.9173,
+                    "y": 0.5066
+                },
+                {
+                    "x": 0.1072,
+                    "y": 0.5066
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "list",
+            "content": {
+                "html": "<p id='6' data-category='list' style='font-size:14px'>All three batteries charge simultaneously; charging takes about<br>330 minutes.<br>● Using a device that supplies power with an outputs of 45 W or above<br>reduces charging times to as little as 180 minutes.<br>● The batteries will not charge while the camera is on.<br>● For more information, see \"Charging the Battery\" (目目 50) and \"The<br>Battery and Power Supply\" ( 430).</p>",
+                "markdown": "- All three batteries charge simultaneously; charging takes about\n- 330 minutes.\n- ● Using a device that supplies power with an outputs of 45 W or above\n- reduces charging times to as little as 180 minutes.\n- ● The batteries will not charge while the camera is on.\n- ● For more information, see \"Charging the Battery\" (目目 50) and \"The\n- Battery and Power Supply\" ( 430).\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1363,
+                    "y": 0.5225
+                },
+                {
+                    "x": 0.9149,
+                    "y": 0.5225
+                },
+                {
+                    "x": 0.9149,
+                    "y": 0.6836
+                },
+                {
+                    "x": 0.1363,
+                    "y": 0.6836
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<br><footer id='7' style='font-size:22px'>Peripherals<br>and<br>Optional<br>Accessories<br>11</footer>",
+                "markdown": "Peripherals\nand\nOptional\nAccessories\n11",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9574,
+                    "y": 0.5447
+                },
+                {
+                    "x": 0.9965,
+                    "y": 0.5447
+                },
+                {
+                    "x": 0.9965,
+                    "y": 0.8593
+                },
+                {
+                    "x": 0.9574,
+                    "y": 0.8593
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='8' style='font-size:18px'>415</footer>",
+                "markdown": "415",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.8599,
+                    "y": 0.9573
+                },
+                {
+                    "x": 0.9174,
+                    "y": 0.9573
+                },
+                {
+                    "x": 0.9174,
+                    "y": 0.9788
+                },
+                {
+                    "x": 0.8599,
+                    "y": 0.9788
+                }
+            ],
+            "id": 8,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

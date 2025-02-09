@@ -1,0 +1,266 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<h1 id='0' style='font-size:18px'>Front-of-Camera Function Buttons</h1>\n<header id='1' style='font-size:22px'>Shortcuts</header>\n<header id='2' style='font-size:18px'>10</header>\n<br><figure id='3'><img alt=\"\" data-coord=\"top-left:(392,430); bottom-right:(2336,1266)\" /></figure>\n<table id='4' style='font-size:16px'><tr><td>Function buttons</td><td>Default</td></tr><tr><td>VIEW MODE button</td><td>VIEW MODE SETTING</td></tr><tr><td>2 Fn1 button</td><td>FACE DETECTION ON/OFF</td></tr><tr><td>3 Fn2 button</td><td>DRIVE SETTING</td></tr></table>\n<br><p id='5' data-category='paragraph' style='font-size:18px'>The Selector</p>\n<figure id='6'><img style='font-size:14px' alt=\"MENU\nOK\n00\" data-coord=\"top-left:(683,1936); bottom-right:(2079,2597)\" /></figure>\n<br><table id='7' style='font-size:14px'><tr><td>Function buttons</td><td>Default</td></tr><tr><td>Fn3 button</td><td>PHOTOMETRY</td></tr><tr><td>2 Fn5 button</td><td>WHITE BALANCE</td></tr><tr><td>3 Fn6 button</td><td>PERFORMANCE</td></tr><tr><td>4 Fn4 button</td><td>FILM SIMULATION</td></tr></table>\n<footer id='8' style='font-size:20px'>322</footer>",
+        "markdown": "# Front-of-Camera Function Buttons\n\nShortcuts\n\n10\n\n![image](/image/placeholder)\n\n\n| Function buttons | Default |\n| --- | --- |\n| VIEW MODE button | VIEW MODE SETTING |\n| 2 Fn1 button | FACE DETECTION ON/OFF |\n| 3 Fn2 button | DRIVE SETTING |\n\n\nThe Selector\n\n![image](/image/placeholder)\nMENU\nOK\n00\n\n| Function buttons | Default |\n| --- | --- |\n| Fn3 button | PHOTOMETRY |\n| 2 Fn5 button | WHITE BALANCE |\n| 3 Fn6 button | PERFORMANCE |\n| 4 Fn4 button | FILM SIMULATION |\n\n\n322",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='0' style='font-size:18px'>Front-of-Camera Function Buttons</h1>",
+                "markdown": "# Front-of-Camera Function Buttons",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0823,
+                    "y": 0.0725
+                },
+                {
+                    "x": 0.4481,
+                    "y": 0.0725
+                },
+                {
+                    "x": 0.4481,
+                    "y": 0.095
+                },
+                {
+                    "x": 0.0823,
+                    "y": 0.095
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='1' style='font-size:22px'>Shortcuts</header>",
+                "markdown": "Shortcuts",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0191,
+                    "y": 0.6825
+                },
+                {
+                    "x": 0.0406,
+                    "y": 0.6825
+                },
+                {
+                    "x": 0.0406,
+                    "y": 0.7572
+                },
+                {
+                    "x": 0.0191,
+                    "y": 0.7572
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='2' style='font-size:18px'>10</header>",
+                "markdown": "10",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0165,
+                    "y": 0.7759
+                },
+                {
+                    "x": 0.0452,
+                    "y": 0.7759
+                },
+                {
+                    "x": 0.0452,
+                    "y": 0.7985
+                },
+                {
+                    "x": 0.0165,
+                    "y": 0.7985
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "figure",
+            "content": {
+                "html": "<br><figure id='3'><img alt=\"\" data-coord=\"top-left:(392,430); bottom-right:(2336,1266)\" /></figure>",
+                "markdown": "![image](/image/placeholder)\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1421,
+                    "y": 0.1105
+                },
+                {
+                    "x": 0.8454,
+                    "y": 0.1105
+                },
+                {
+                    "x": 0.8454,
+                    "y": 0.3249
+                },
+                {
+                    "x": 0.1421,
+                    "y": 0.3249
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='4' style='font-size:16px'><tr><td>Function buttons</td><td>Default</td></tr><tr><td>VIEW MODE button</td><td>VIEW MODE SETTING</td></tr><tr><td>2 Fn1 button</td><td>FACE DETECTION ON/OFF</td></tr><tr><td>3 Fn2 button</td><td>DRIVE SETTING</td></tr></table>",
+                "markdown": "| Function buttons | Default |\n| --- | --- |\n| VIEW MODE button | VIEW MODE SETTING |\n| 2 Fn1 button | FACE DETECTION ON/OFF |\n| 3 Fn2 button | DRIVE SETTING |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0828,
+                    "y": 0.3452
+                },
+                {
+                    "x": 0.8916,
+                    "y": 0.3452
+                },
+                {
+                    "x": 0.8916,
+                    "y": 0.4518
+                },
+                {
+                    "x": 0.0828,
+                    "y": 0.4518
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='5' data-category='paragraph' style='font-size:18px'>The Selector</p>",
+                "markdown": "The Selector",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0818,
+                    "y": 0.4634
+                },
+                {
+                    "x": 0.2181,
+                    "y": 0.4634
+                },
+                {
+                    "x": 0.2181,
+                    "y": 0.4849
+                },
+                {
+                    "x": 0.0818,
+                    "y": 0.4849
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "figure",
+            "content": {
+                "html": "<figure id='6'><img style='font-size:14px' alt=\"MENU\nOK\n00\" data-coord=\"top-left:(683,1936); bottom-right:(2079,2597)\" /></figure>",
+                "markdown": "![image](/image/placeholder)\nMENU\nOK\n00",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.2472,
+                    "y": 0.4967
+                },
+                {
+                    "x": 0.7524,
+                    "y": 0.4967
+                },
+                {
+                    "x": 0.7524,
+                    "y": 0.6663
+                },
+                {
+                    "x": 0.2472,
+                    "y": 0.6663
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='7' style='font-size:14px'><tr><td>Function buttons</td><td>Default</td></tr><tr><td>Fn3 button</td><td>PHOTOMETRY</td></tr><tr><td>2 Fn5 button</td><td>WHITE BALANCE</td></tr><tr><td>3 Fn6 button</td><td>PERFORMANCE</td></tr><tr><td>4 Fn4 button</td><td>FILM SIMULATION</td></tr></table>",
+                "markdown": "| Function buttons | Default |\n| --- | --- |\n| Fn3 button | PHOTOMETRY |\n| 2 Fn5 button | WHITE BALANCE |\n| 3 Fn6 button | PERFORMANCE |\n| 4 Fn4 button | FILM SIMULATION |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.082,
+                    "y": 0.6747
+                },
+                {
+                    "x": 0.8876,
+                    "y": 0.6747
+                },
+                {
+                    "x": 0.8876,
+                    "y": 0.8073
+                },
+                {
+                    "x": 0.082,
+                    "y": 0.8073
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='8' style='font-size:20px'>322</footer>",
+                "markdown": "322",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0833,
+                    "y": 0.9563
+                },
+                {
+                    "x": 0.1394,
+                    "y": 0.9563
+                },
+                {
+                    "x": 0.1394,
+                    "y": 0.9793
+                },
+                {
+                    "x": 0.0833,
+                    "y": 0.9793
+                }
+            ],
+            "id": 8,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

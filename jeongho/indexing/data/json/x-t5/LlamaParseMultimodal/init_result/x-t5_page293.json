@@ -1,0 +1,145 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "# Network/USB Setting Menus\n\n## AIRPLANE MODE\nSelect **ON** to disable the camera’s wireless LAN and Bluetooth features.\n\n| Options |        |\n|---------|--------|\n| ON      | OFF    |\n\n## NETWORK SETTING\nAdjust settings for connection to wireless networks.\n\n### ACCESS POINT SETTING\n\n| Option        | Description                                                                 |\n|---------------|-----------------------------------------------------------------------------|\n| SIMPLE SETUP  | Connect to an access point using simple settings.                           |\n| MANUAL SETUP  | Manually adjust settings for connection to a wireless network. Choose the network from a list (**SELECT FROM NETWORK LIST**) or enter the name manually (**ENTER SSID**). |\n\n### IP ADDRESS SETTING\n\n| Option | Description                                                                 |\n|--------|-----------------------------------------------------------------------------|\n| AUTO   | The IP address is assigned automatically.                                   |\n| MANUAL | Assign an IP address manually. Manually choose the IP address (**IP ADDRESS**), subnet mask (**SUBNET MASK**), and gateway address (**GATEWAY ADDRESS**). |\n\n## instax PRINTER CONNECTION SETTING\nAdjust settings for connection to optional Fujifilm instax SHARE printers (📖 258).",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "Network/USB Setting Menus",
+                    "md": "# Network/USB Setting Menus"
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "AIRPLANE MODE",
+                    "md": "## AIRPLANE MODE"
+                },
+                {
+                    "type": "text",
+                    "value": "Select **ON** to disable the camera’s wireless LAN and Bluetooth features.",
+                    "md": "Select **ON** to disable the camera’s wireless LAN and Bluetooth features."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Options",
+                            ""
+                        ],
+                        [
+                            "ON",
+                            "OFF"
+                        ]
+                    ],
+                    "md": "| Options |        |\n|---------|--------|\n| ON      | OFF    |",
+                    "isPerfectTable": true,
+                    "csv": "\"Options\",\"\"\n\"ON\",\"OFF\""
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "NETWORK SETTING",
+                    "md": "## NETWORK SETTING"
+                },
+                {
+                    "type": "text",
+                    "value": "Adjust settings for connection to wireless networks.",
+                    "md": "Adjust settings for connection to wireless networks."
+                },
+                {
+                    "type": "heading",
+                    "lvl": 3,
+                    "value": "ACCESS POINT SETTING",
+                    "md": "### ACCESS POINT SETTING"
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Option",
+                            "Description"
+                        ],
+                        [
+                            "SIMPLE SETUP",
+                            "Connect to an access point using simple settings."
+                        ],
+                        [
+                            "MANUAL SETUP",
+                            "Manually adjust settings for connection to a wireless network. Choose the network from a list (**SELECT FROM NETWORK LIST**) or enter the name manually (**ENTER SSID**)."
+                        ]
+                    ],
+                    "md": "| Option        | Description                                                                 |\n|---------------|-----------------------------------------------------------------------------|\n| SIMPLE SETUP  | Connect to an access point using simple settings.                           |\n| MANUAL SETUP  | Manually adjust settings for connection to a wireless network. Choose the network from a list (**SELECT FROM NETWORK LIST**) or enter the name manually (**ENTER SSID**). |",
+                    "isPerfectTable": true,
+                    "csv": "\"Option\",\"Description\"\n\"SIMPLE SETUP\",\"Connect to an access point using simple settings.\"\n\"MANUAL SETUP\",\"Manually adjust settings for connection to a wireless network. Choose the network from a list (**SELECT FROM NETWORK LIST**) or enter the name manually (**ENTER SSID**).\""
+                },
+                {
+                    "type": "heading",
+                    "lvl": 3,
+                    "value": "IP ADDRESS SETTING",
+                    "md": "### IP ADDRESS SETTING"
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Option",
+                            "Description"
+                        ],
+                        [
+                            "AUTO",
+                            "The IP address is assigned automatically."
+                        ],
+                        [
+                            "MANUAL",
+                            "Assign an IP address manually. Manually choose the IP address (**IP ADDRESS**), subnet mask (**SUBNET MASK**), and gateway address (**GATEWAY ADDRESS**)."
+                        ]
+                    ],
+                    "md": "| Option | Description                                                                 |\n|--------|-----------------------------------------------------------------------------|\n| AUTO   | The IP address is assigned automatically.                                   |\n| MANUAL | Assign an IP address manually. Manually choose the IP address (**IP ADDRESS**), subnet mask (**SUBNET MASK**), and gateway address (**GATEWAY ADDRESS**). |",
+                    "isPerfectTable": true,
+                    "csv": "\"Option\",\"Description\"\n\"AUTO\",\"The IP address is assigned automatically.\"\n\"MANUAL\",\"Assign an IP address manually. Manually choose the IP address (**IP ADDRESS**), subnet mask (**SUBNET MASK**), and gateway address (**GATEWAY ADDRESS**).\""
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "instax PRINTER CONNECTION SETTING",
+                    "md": "## instax PRINTER CONNECTION SETTING"
+                },
+                {
+                    "type": "text",
+                    "value": "Adjust settings for connection to optional Fujifilm instax SHARE printers (📖 258).",
+                    "md": "Adjust settings for connection to optional Fujifilm instax SHARE printers (📖 258)."
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "parsingMode": "multimodal-openai-gpt4o",
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 558.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "bf4287c4-deae-4e5e-ac4c-f4366822963d",
+    "file_path": "../data/raw_data/x-t5/x-t5_split/x-t5_page293.pdf"
+}

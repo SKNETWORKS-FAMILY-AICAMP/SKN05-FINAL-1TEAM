@@ -1,0 +1,266 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:14px'>MOVIE SETTING (Movie Recording)</header>\n<p id='1' data-category='list' style='font-size:16px'>The ProRes format is intended for the footage will be edited on a<br>computer or the like.<br>● 4:2:2 chroma sub-sampling is used for footage output to external<br>devices connected via HDMI; H.264 footage is output at a bit depth of<br>8 bits and footage in other formats at a depth of 10 bits.<br>● All-I compresses each frame separately. Files are larger, but the fact<br>that the data for each frame are saved separately makes this a good<br>choice for footage that will be further processed.<br>● Long GOP balances good image quality with high compression. Files<br>are smaller, making it a good choice for longer movies.<br>● The options available for file type and compression vary with the op-<br>tions selected for MOVIE MODE, HIGH SPEED REC, and F-Log/HLG<br>RECORDING.</p>\n<p id='2' data-category='paragraph' style='font-size:16px'>Bit Rate</p>\n<br><p id='3' data-category='paragraph' style='font-size:18px'>Choose the movie bit rate.</p>\n<br><table id='4' style='font-size:20px'><tr><td rowspan=\"2\" colspan=\"5\">Options</td></tr><tr></tr><tr><td>50Mbps</td><td>100Mbps</td><td>200Mbps</td><td>360Mbps</td><td>720Mbps</td></tr></table>\n<p id='5' data-category='list' style='font-size:14px'>● The options available for bit rate vary with the settings chosen for<br>high-speed movie recording and compression. The actual bit rate<br>may be slower than the selected value depending on the subject.<br>● The bit rate for ProRes movies is set automatically according to the for-<br>mat chosen and the frame size and rate. For more information, visit the<br>Apple website.</p>\n<br><footer id='6' style='font-size:14px'>6</footer>\n<footer id='7' style='font-size:20px'>183</footer>\n<br><footer id='8' style='font-size:22px'>The<br>Shooting<br>Menus</footer>",
+        "markdown": "MOVIE SETTING (Movie Recording)\n\n- The ProRes format is intended for the footage will be edited on a\n- computer or the like.\n- ● 4:2:2 chroma sub-sampling is used for footage output to external\n- devices connected via HDMI; H.264 footage is output at a bit depth of\n- 8 bits and footage in other formats at a depth of 10 bits.\n- ● All-I compresses each frame separately. Files are larger, but the fact\n- that the data for each frame are saved separately makes this a good\n- choice for footage that will be further processed.\n- ● Long GOP balances good image quality with high compression. Files\n- are smaller, making it a good choice for longer movies.\n- ● The options available for file type and compression vary with the op-\n- tions selected for MOVIE MODE, HIGH SPEED REC, and F-Log/HLG\n- RECORDING.\n\n\nBit Rate\n\nChoose the movie bit rate.\n\n| Options | Options | Options | Options | Options |\n| --- | --- | --- | --- | --- |\n| Options | Options | Options | Options | Options |\n| 50Mbps | 100Mbps | 200Mbps | 360Mbps | 720Mbps |\n\n\n- ● The options available for bit rate vary with the settings chosen for\n- high-speed movie recording and compression. The actual bit rate\n- may be slower than the selected value depending on the subject.\n- ● The bit rate for ProRes movies is set automatically according to the for-\n- mat chosen and the frame size and rate. For more information, visit the\n- Apple website.\n\n\n6\n\n183\n\nThe\nShooting\nMenus",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:14px'>MOVIE SETTING (Movie Recording)</header>",
+                "markdown": "MOVIE SETTING (Movie Recording)",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.5766,
+                    "y": 0.0277
+                },
+                {
+                    "x": 0.9169,
+                    "y": 0.0277
+                },
+                {
+                    "x": 0.9169,
+                    "y": 0.0512
+                },
+                {
+                    "x": 0.5766,
+                    "y": 0.0512
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "list",
+            "content": {
+                "html": "<p id='1' data-category='list' style='font-size:16px'>The ProRes format is intended for the footage will be edited on a<br>computer or the like.<br>● 4:2:2 chroma sub-sampling is used for footage output to external<br>devices connected via HDMI; H.264 footage is output at a bit depth of<br>8 bits and footage in other formats at a depth of 10 bits.<br>● All-I compresses each frame separately. Files are larger, but the fact<br>that the data for each frame are saved separately makes this a good<br>choice for footage that will be further processed.<br>● Long GOP balances good image quality with high compression. Files<br>are smaller, making it a good choice for longer movies.<br>● The options available for file type and compression vary with the op-<br>tions selected for MOVIE MODE, HIGH SPEED REC, and F-Log/HLG<br>RECORDING.</p>",
+                "markdown": "- The ProRes format is intended for the footage will be edited on a\n- computer or the like.\n- ● 4:2:2 chroma sub-sampling is used for footage output to external\n- devices connected via HDMI; H.264 footage is output at a bit depth of\n- 8 bits and footage in other formats at a depth of 10 bits.\n- ● All-I compresses each frame separately. Files are larger, but the fact\n- that the data for each frame are saved separately makes this a good\n- choice for footage that will be further processed.\n- ● Long GOP balances good image quality with high compression. Files\n- are smaller, making it a good choice for longer movies.\n- ● The options available for file type and compression vary with the op-\n- tions selected for MOVIE MODE, HIGH SPEED REC, and F-Log/HLG\n- RECORDING.\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1311,
+                    "y": 0.0713
+                },
+                {
+                    "x": 0.9176,
+                    "y": 0.0713
+                },
+                {
+                    "x": 0.9176,
+                    "y": 0.3688
+                },
+                {
+                    "x": 0.1311,
+                    "y": 0.3688
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='2' data-category='paragraph' style='font-size:16px'>Bit Rate</p>",
+                "markdown": "Bit Rate",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1078,
+                    "y": 0.3854
+                },
+                {
+                    "x": 0.199,
+                    "y": 0.3854
+                },
+                {
+                    "x": 0.199,
+                    "y": 0.4067
+                },
+                {
+                    "x": 0.1078,
+                    "y": 0.4067
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='3' data-category='paragraph' style='font-size:18px'>Choose the movie bit rate.</p>",
+                "markdown": "Choose the movie bit rate.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1078,
+                    "y": 0.4115
+                },
+                {
+                    "x": 0.445,
+                    "y": 0.4115
+                },
+                {
+                    "x": 0.445,
+                    "y": 0.4347
+                },
+                {
+                    "x": 0.1078,
+                    "y": 0.4347
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='4' style='font-size:20px'><tr><td rowspan=\"2\" colspan=\"5\">Options</td></tr><tr></tr><tr><td>50Mbps</td><td>100Mbps</td><td>200Mbps</td><td>360Mbps</td><td>720Mbps</td></tr></table>",
+                "markdown": "| Options | Options | Options | Options | Options |\n| --- | --- | --- | --- | --- |\n| Options | Options | Options | Options | Options |\n| 50Mbps | 100Mbps | 200Mbps | 360Mbps | 720Mbps |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1179,
+                    "y": 0.4424
+                },
+                {
+                    "x": 0.9125,
+                    "y": 0.4424
+                },
+                {
+                    "x": 0.9125,
+                    "y": 0.4965
+                },
+                {
+                    "x": 0.1179,
+                    "y": 0.4965
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "list",
+            "content": {
+                "html": "<p id='5' data-category='list' style='font-size:14px'>● The options available for bit rate vary with the settings chosen for<br>high-speed movie recording and compression. The actual bit rate<br>may be slower than the selected value depending on the subject.<br>● The bit rate for ProRes movies is set automatically according to the for-<br>mat chosen and the frame size and rate. For more information, visit the<br>Apple website.</p>",
+                "markdown": "- ● The options available for bit rate vary with the settings chosen for\n- high-speed movie recording and compression. The actual bit rate\n- may be slower than the selected value depending on the subject.\n- ● The bit rate for ProRes movies is set automatically according to the for-\n- mat chosen and the frame size and rate. For more information, visit the\n- Apple website.\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1291,
+                    "y": 0.5071
+                },
+                {
+                    "x": 0.9151,
+                    "y": 0.5071
+                },
+                {
+                    "x": 0.9151,
+                    "y": 0.6434
+                },
+                {
+                    "x": 0.1291,
+                    "y": 0.6434
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<br><footer id='6' style='font-size:14px'>6</footer>",
+                "markdown": "6",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9586,
+                    "y": 0.5372
+                },
+                {
+                    "x": 0.9762,
+                    "y": 0.5372
+                },
+                {
+                    "x": 0.9762,
+                    "y": 0.558
+                },
+                {
+                    "x": 0.9586,
+                    "y": 0.558
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='7' style='font-size:20px'>183</footer>",
+                "markdown": "183",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.8627,
+                    "y": 0.9566
+                },
+                {
+                    "x": 0.917,
+                    "y": 0.9566
+                },
+                {
+                    "x": 0.917,
+                    "y": 0.9789
+                },
+                {
+                    "x": 0.8627,
+                    "y": 0.9789
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<br><footer id='8' style='font-size:22px'>The<br>Shooting<br>Menus</footer>",
+                "markdown": "The\nShooting\nMenus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.956,
+                    "y": 0.5449
+                },
+                {
+                    "x": 0.9827,
+                    "y": 0.5449
+                },
+                {
+                    "x": 0.9827,
+                    "y": 0.7308
+                },
+                {
+                    "x": 0.956,
+                    "y": 0.7308
+                }
+            ],
+            "id": 8,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

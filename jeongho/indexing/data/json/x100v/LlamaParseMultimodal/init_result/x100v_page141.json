@@ -1,0 +1,76 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "# AF MODE\n\nChoose the AF mode for focus modes S and C.\n\n| Option          | Description                                                                                                                                                      |\n|-----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| **SINGLE POINT** | The camera focuses on the subject in the selected focus point. The number of focus points available can be selected using **AF/MF SETTING > NUMBER OF FOCUS POINTS**. Use for pin-point focus on a selected subject. |\n| **ZONE**        | The camera focuses on the subject in the selected focus zone. Focus zones include multiple focus points, making it easier to focus on subjects that are in motion. |\n| **WIDE/TRACKING** | - In focus mode **S**, the camera automatically focuses on high-contrast subjects; the areas in focus are shown in the display. <br> - In focus mode **C**, the camera tracks focus on the subject in the selected focus point while the shutter button is pressed halfway. <br> The camera may be unable to focus on small objects or subjects that are moving rapidly. |\n| **ALL**         | Rotate the rear command dial in the focus-point selection display (pages 70, 71) to cycle through AF modes in the following order: **SINGLE POINT**, **ZONE**, and **WIDE/TRACKING**. |",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "AF MODE",
+                    "md": "# AF MODE"
+                },
+                {
+                    "type": "text",
+                    "value": "Choose the AF mode for focus modes S and C.",
+                    "md": "Choose the AF mode for focus modes S and C."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Option",
+                            "Description"
+                        ],
+                        [
+                            "**SINGLE POINT**",
+                            "The camera focuses on the subject in the selected focus point. The number of focus points available can be selected using **AF/MF SETTING > NUMBER OF FOCUS POINTS**. Use for pin-point focus on a selected subject."
+                        ],
+                        [
+                            "**ZONE**",
+                            "The camera focuses on the subject in the selected focus zone. Focus zones include multiple focus points, making it easier to focus on subjects that are in motion."
+                        ],
+                        [
+                            "**WIDE/TRACKING**",
+                            "- In focus mode **S**, the camera automatically focuses on high-contrast subjects; the areas in focus are shown in the display. <br> - In focus mode **C**, the camera tracks focus on the subject in the selected focus point while the shutter button is pressed halfway. <br> The camera may be unable to focus on small objects or subjects that are moving rapidly."
+                        ],
+                        [
+                            "**ALL**",
+                            "Rotate the rear command dial in the focus-point selection display (pages 70, 71) to cycle through AF modes in the following order: **SINGLE POINT**, **ZONE**, and **WIDE/TRACKING**."
+                        ]
+                    ],
+                    "md": "| Option          | Description                                                                                                                                                      |\n|-----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| **SINGLE POINT** | The camera focuses on the subject in the selected focus point. The number of focus points available can be selected using **AF/MF SETTING > NUMBER OF FOCUS POINTS**. Use for pin-point focus on a selected subject. |\n| **ZONE**        | The camera focuses on the subject in the selected focus zone. Focus zones include multiple focus points, making it easier to focus on subjects that are in motion. |\n| **WIDE/TRACKING** | - In focus mode **S**, the camera automatically focuses on high-contrast subjects; the areas in focus are shown in the display. <br> - In focus mode **C**, the camera tracks focus on the subject in the selected focus point while the shutter button is pressed halfway. <br> The camera may be unable to focus on small objects or subjects that are moving rapidly. |\n| **ALL**         | Rotate the rear command dial in the focus-point selection display (pages 70, 71) to cycle through AF modes in the following order: **SINGLE POINT**, **ZONE**, and **WIDE/TRACKING**. |",
+                    "isPerfectTable": true,
+                    "csv": "\"Option\",\"Description\"\n\"**SINGLE POINT**\",\"The camera focuses on the subject in the selected focus point. The number of focus points available can be selected using **AF/MF SETTING > NUMBER OF FOCUS POINTS**. Use for pin-point focus on a selected subject.\"\n\"**ZONE**\",\"The camera focuses on the subject in the selected focus zone. Focus zones include multiple focus points, making it easier to focus on subjects that are in motion.\"\n\"**WIDE/TRACKING**\",\"- In focus mode **S**, the camera automatically focuses on high-contrast subjects; the areas in focus are shown in the display. <br> - In focus mode **C**, the camera tracks focus on the subject in the selected focus point while the shutter button is pressed halfway. <br> The camera may be unable to focus on small objects or subjects that are moving rapidly.\"\n\"**ALL**\",\"Rotate the rear command dial in the focus-point selection display (pages 70, 71) to cycle through AF modes in the following order: **SINGLE POINT**, **ZONE**, and **WIDE/TRACKING**.\""
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 625.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "c896de66-9c55-4c6a-89eb-1f8bfc260b22",
+    "file_path": "../data/raw_data/x100v/x100v_split/x100v_page141.pdf"
+}

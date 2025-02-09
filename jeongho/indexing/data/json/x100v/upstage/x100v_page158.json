@@ -1,0 +1,266 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<h1 id='0' style='font-size:18px'>DYNAMIC RANGE</h1>\n<br><h1 id='1' style='font-size:18px'>Choose a dynamic range for movie recording.</h1>\n<br><table id='2' style='font-size:14px'><tr><td>Option</td><td>Description</td></tr><tr><td>R100] 100%</td><td rowspan=\"3\">See \"DYNAMIC RANGE\" (□□ 113).</td></tr><tr><td>R200 200%</td></tr><tr><td>R 400 400%</td></tr></table>\n<p id='3' data-category='list' style='font-size:14px'>Auto dynamic range adjustment (AUTO) is not supported.<br>R200 200% is available at sensitivities of from ISO 320 to ISO 12800,<br>R400 400% at sensitivities of from ISO 640 to 12800.<br>● The □ MOVIE SETTING > DYNAMIC RANGE option is available<br>when OFF is selected for 18 MOVIE SETTING > F-Log RECORDING.</p>\n<p id='4' data-category='paragraph' style='font-size:16px'>WHITE BALANCE</p>\n\n<table id='6' style='font-size:18px'><tr><td>Option</td><td>Description</td></tr><tr><td>AUTO</td><td rowspan=\"10\">See \"WHITE BALANCE\" (□□ 110).</td></tr><tr><td>01/O2/03</td></tr><tr><td>K</td></tr><tr><td></td></tr><tr><td></td></tr><tr><td>消</td></tr><tr><td>※</td></tr><tr><td>※</td></tr><tr><td></td></tr><tr><td></td></tr><br><caption id='5' style='font-size:20px'>Adjust white balance for movie recording.</caption></table>\n<br><header id='7' style='font-size:22px'>The<br>Shooting<br>Menus</header>\n<footer id='8' style='font-size:18px'>158</footer>",
+        "markdown": "# DYNAMIC RANGE\n\n# Choose a dynamic range for movie recording.\n\n| Option | Description |\n| --- | --- |\n| R100] 100% | See \"DYNAMIC RANGE\" (□□ 113). |\n| R200 200% | See \"DYNAMIC RANGE\" (□□ 113). |\n| R 400 400% | See \"DYNAMIC RANGE\" (□□ 113). |\n\n\n- Auto dynamic range adjustment (AUTO) is not supported.\n- R200 200% is available at sensitivities of from ISO 320 to ISO 12800,\n- R400 400% at sensitivities of from ISO 640 to 12800.\n- ● The □ MOVIE SETTING > DYNAMIC RANGE option is available\n- when OFF is selected for 18 MOVIE SETTING > F-Log RECORDING.\n\n\nWHITE BALANCE\n\nAdjust white balance for movie recording.\n\n| Option | Description |\n| --- | --- |\n| AUTO | See \"WHITE BALANCE\" (□□ 110). |\n| 01/O2/03 | See \"WHITE BALANCE\" (□□ 110). |\n| K | See \"WHITE BALANCE\" (□□ 110). |\n|  | See \"WHITE BALANCE\" (□□ 110). |\n|  | See \"WHITE BALANCE\" (□□ 110). |\n| 消 | See \"WHITE BALANCE\" (□□ 110). |\n| ※ | See \"WHITE BALANCE\" (□□ 110). |\n| ※ | See \"WHITE BALANCE\" (□□ 110). |\n|  | See \"WHITE BALANCE\" (□□ 110). |\n|  | See \"WHITE BALANCE\" (□□ 110). |\n\n\nThe\nShooting\nMenus\n\n158",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='0' style='font-size:18px'>DYNAMIC RANGE</h1>",
+                "markdown": "# DYNAMIC RANGE",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0833,
+                    "y": 0.0736
+                },
+                {
+                    "x": 0.3596,
+                    "y": 0.0736
+                },
+                {
+                    "x": 0.3596,
+                    "y": 0.0951
+                },
+                {
+                    "x": 0.0833,
+                    "y": 0.0951
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='1' style='font-size:18px'>Choose a dynamic range for movie recording.</h1>",
+                "markdown": "# Choose a dynamic range for movie recording.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0824,
+                    "y": 0.1054
+                },
+                {
+                    "x": 0.6574,
+                    "y": 0.1054
+                },
+                {
+                    "x": 0.6574,
+                    "y": 0.1287
+                },
+                {
+                    "x": 0.0824,
+                    "y": 0.1287
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='2' style='font-size:14px'><tr><td>Option</td><td>Description</td></tr><tr><td>R100] 100%</td><td rowspan=\"3\">See \"DYNAMIC RANGE\" (□□ 113).</td></tr><tr><td>R200 200%</td></tr><tr><td>R 400 400%</td></tr></table>",
+                "markdown": "| Option | Description |\n| --- | --- |\n| R100] 100% | See \"DYNAMIC RANGE\" (□□ 113). |\n| R200 200% | See \"DYNAMIC RANGE\" (□□ 113). |\n| R 400 400% | See \"DYNAMIC RANGE\" (□□ 113). |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0822,
+                    "y": 0.1402
+                },
+                {
+                    "x": 0.8911,
+                    "y": 0.1402
+                },
+                {
+                    "x": 0.8911,
+                    "y": 0.2469
+                },
+                {
+                    "x": 0.0822,
+                    "y": 0.2469
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "list",
+            "content": {
+                "html": "<p id='3' data-category='list' style='font-size:14px'>Auto dynamic range adjustment (AUTO) is not supported.<br>R200 200% is available at sensitivities of from ISO 320 to ISO 12800,<br>R400 400% at sensitivities of from ISO 640 to 12800.<br>● The □ MOVIE SETTING > DYNAMIC RANGE option is available<br>when OFF is selected for 18 MOVIE SETTING > F-Log RECORDING.</p>",
+                "markdown": "- Auto dynamic range adjustment (AUTO) is not supported.\n- R200 200% is available at sensitivities of from ISO 320 to ISO 12800,\n- R400 400% at sensitivities of from ISO 640 to 12800.\n- ● The □ MOVIE SETTING > DYNAMIC RANGE option is available\n- when OFF is selected for 18 MOVIE SETTING > F-Log RECORDING.\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1092,
+                    "y": 0.2624
+                },
+                {
+                    "x": 0.8888,
+                    "y": 0.2624
+                },
+                {
+                    "x": 0.8888,
+                    "y": 0.3753
+                },
+                {
+                    "x": 0.1092,
+                    "y": 0.3753
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='4' data-category='paragraph' style='font-size:16px'>WHITE BALANCE</p>",
+                "markdown": "WHITE BALANCE",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0838,
+                    "y": 0.3957
+                },
+                {
+                    "x": 0.3515,
+                    "y": 0.3957
+                },
+                {
+                    "x": 0.3515,
+                    "y": 0.4171
+                },
+                {
+                    "x": 0.0838,
+                    "y": 0.4171
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='5' data-category='paragraph' style='font-size:20px'>Adjust white balance for movie recording.</p>",
+                "markdown": "Adjust white balance for movie recording.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0812,
+                    "y": 0.4275
+                },
+                {
+                    "x": 0.6116,
+                    "y": 0.4275
+                },
+                {
+                    "x": 0.6116,
+                    "y": 0.4524
+                },
+                {
+                    "x": 0.0812,
+                    "y": 0.4524
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='6' style='font-size:18px'><tr><td>Option</td><td>Description</td></tr><tr><td>AUTO</td><td rowspan=\"10\">See \"WHITE BALANCE\" (□□ 110).</td></tr><tr><td>01/O2/03</td></tr><tr><td>K</td></tr><tr><td></td></tr><tr><td></td></tr><tr><td>消</td></tr><tr><td>※</td></tr><tr><td>※</td></tr><tr><td></td></tr><tr><td></td></tr></table>",
+                "markdown": "| Option | Description |\n| --- | --- |\n| AUTO | See \"WHITE BALANCE\" (□□ 110). |\n| 01/O2/03 | See \"WHITE BALANCE\" (□□ 110). |\n| K | See \"WHITE BALANCE\" (□□ 110). |\n|  | See \"WHITE BALANCE\" (□□ 110). |\n|  | See \"WHITE BALANCE\" (□□ 110). |\n| 消 | See \"WHITE BALANCE\" (□□ 110). |\n| ※ | See \"WHITE BALANCE\" (□□ 110). |\n| ※ | See \"WHITE BALANCE\" (□□ 110). |\n|  | See \"WHITE BALANCE\" (□□ 110). |\n|  | See \"WHITE BALANCE\" (□□ 110). |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0714,
+                    "y": 0.4696
+                },
+                {
+                    "x": 0.8877,
+                    "y": 0.4696
+                },
+                {
+                    "x": 0.8877,
+                    "y": 0.733
+                },
+                {
+                    "x": 0.0714,
+                    "y": 0.733
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "header",
+            "content": {
+                "html": "<br><header id='7' style='font-size:22px'>The<br>Shooting<br>Menus</header>",
+                "markdown": "The\nShooting\nMenus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0155,
+                    "y": 0.5759
+                },
+                {
+                    "x": 0.0424,
+                    "y": 0.5759
+                },
+                {
+                    "x": 0.0424,
+                    "y": 0.7308
+                },
+                {
+                    "x": 0.0155,
+                    "y": 0.7308
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='8' style='font-size:18px'>158</footer>",
+                "markdown": "158",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0846,
+                    "y": 0.9566
+                },
+                {
+                    "x": 0.1397,
+                    "y": 0.9566
+                },
+                {
+                    "x": 0.1397,
+                    "y": 0.979
+                },
+                {
+                    "x": 0.0846,
+                    "y": 0.979
+                }
+            ],
+            "id": 8,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

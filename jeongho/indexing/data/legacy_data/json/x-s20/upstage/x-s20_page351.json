@@ -1,0 +1,70 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<p id='0' data-category='paragraph' style='font-size:18px'>Technical Notes</p>\n<footer id='1' style='font-size:14px'>349</footer>",
+        "markdown": "Technical Notes\n\n349",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='0' data-category='paragraph' style='font-size:18px'>Technical Notes</p>",
+                "markdown": "Technical Notes",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.42,
+                    "y": 0.3625
+                },
+                {
+                    "x": 0.794,
+                    "y": 0.3625
+                },
+                {
+                    "x": 0.794,
+                    "y": 0.3979
+                },
+                {
+                    "x": 0.42,
+                    "y": 0.3979
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='1' style='font-size:14px'>349</footer>",
+                "markdown": "349",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.8608,
+                    "y": 0.9568
+                },
+                {
+                    "x": 0.9176,
+                    "y": 0.9568
+                },
+                {
+                    "x": 0.9176,
+                    "y": 0.979
+                },
+                {
+                    "x": 0.8608,
+                    "y": 0.979
+                }
+            ],
+            "id": 1,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

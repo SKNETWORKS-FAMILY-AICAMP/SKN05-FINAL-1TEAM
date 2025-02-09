@@ -1,0 +1,58 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "\n| Problem                        | Solution                                                                                                                                                      |\n|-------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Cannot connect to iPhones or iPads. | **POWER SUPPLY ON/COMM OFF** is selected for **USB POWER SUPPLY/COMM SETTING**. Select **POWER SUPPLY OFF/COMM ON** when the camera is connected via a Lightning connection to a device that does not supply power (📖 270). |\n| Cannot connect to smartphone. | Confirm that the camera is correctly connected: The procedure for connecting the camera varies with the type of connector with which the smartphone is equipped (📖 252). |\n",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Problem",
+                            "Solution"
+                        ],
+                        [
+                            "Cannot connect to iPhones or iPads.",
+                            "**POWER SUPPLY ON/COMM OFF** is selected for **USB POWER SUPPLY/COMM SETTING**. Select **POWER SUPPLY OFF/COMM ON** when the camera is connected via a Lightning connection to a device that does not supply power (📖 270)."
+                        ],
+                        [
+                            "Cannot connect to smartphone.",
+                            "Confirm that the camera is correctly connected: The procedure for connecting the camera varies with the type of connector with which the smartphone is equipped (📖 252)."
+                        ]
+                    ],
+                    "md": "| Problem                        | Solution                                                                                                                                                      |\n|-------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Cannot connect to iPhones or iPads. | **POWER SUPPLY ON/COMM OFF** is selected for **USB POWER SUPPLY/COMM SETTING**. Select **POWER SUPPLY OFF/COMM ON** when the camera is connected via a Lightning connection to a device that does not supply power (📖 270). |\n| Cannot connect to smartphone. | Confirm that the camera is correctly connected: The procedure for connecting the camera varies with the type of connector with which the smartphone is equipped (📖 252). |",
+                    "isPerfectTable": true,
+                    "csv": "\"Problem\",\"Solution\"\n\"Cannot connect to iPhones or iPads.\",\"**POWER SUPPLY ON/COMM OFF** is selected for **USB POWER SUPPLY/COMM SETTING**. Select **POWER SUPPLY OFF/COMM ON** when the camera is connected via a Lightning connection to a device that does not supply power (📖 270).\"\n\"Cannot connect to smartphone.\",\"Confirm that the camera is correctly connected: The procedure for connecting the camera varies with the type of connector with which the smartphone is equipped (📖 252).\""
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "parsingMode": "multimodal-openai-gpt4o",
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 588.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "98732932-d4a2-49bf-8128-e8df604a91d3",
+    "file_path": "../data/raw_data/x-t5/x-t5_split/x-t5_page412.pdf"
+}

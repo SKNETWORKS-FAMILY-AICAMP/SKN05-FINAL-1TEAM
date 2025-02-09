@@ -1,0 +1,86 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "\n# The Focus Indicator\n\nFocus status is shown by the focus indicator.\n\n| Focus Indicator       | Focus Status                                                                 |\n|-----------------------|------------------------------------------------------------------------------|\n| ( )                   | Camera focusing.                                                             |\n| ● (lights green)      | Subject in focus; focus locked (focus mode **S**).                           |\n| ● ( ) (lights green)  | Subject in focus (focus mode **C**). Focus is automatically adjusted for changes in distance to subject. |\n| ○ (blinks white)      | Camera unable to focus.                                                      |\n| **MF**                | Manual focus (focus mode **M**).                                             |\n\n!Focus Indicator\n",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "The Focus Indicator",
+                    "md": "# The Focus Indicator"
+                },
+                {
+                    "type": "text",
+                    "value": "Focus status is shown by the focus indicator.",
+                    "md": "Focus status is shown by the focus indicator."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Focus Indicator",
+                            "Focus Status"
+                        ],
+                        [
+                            "( )",
+                            "Camera focusing."
+                        ],
+                        [
+                            "● (lights green)",
+                            "Subject in focus; focus locked (focus mode **S**)."
+                        ],
+                        [
+                            "● ( ) (lights green)",
+                            "Subject in focus (focus mode **C**). Focus is automatically adjusted for changes in distance to subject."
+                        ],
+                        [
+                            "○ (blinks white)",
+                            "Camera unable to focus."
+                        ],
+                        [
+                            "**MF**",
+                            "Manual focus (focus mode **M**)."
+                        ]
+                    ],
+                    "md": "| Focus Indicator       | Focus Status                                                                 |\n|-----------------------|------------------------------------------------------------------------------|\n| ( )                   | Camera focusing.                                                             |\n| ● (lights green)      | Subject in focus; focus locked (focus mode **S**).                           |\n| ● ( ) (lights green)  | Subject in focus (focus mode **C**). Focus is automatically adjusted for changes in distance to subject. |\n| ○ (blinks white)      | Camera unable to focus.                                                      |\n| **MF**                | Manual focus (focus mode **M**).                                             |",
+                    "isPerfectTable": true,
+                    "csv": "\"Focus Indicator\",\"Focus Status\"\n\"( )\",\"Camera focusing.\"\n\"● (lights green)\",\"Subject in focus; focus locked (focus mode **S**).\"\n\"● ( ) (lights green)\",\"Subject in focus (focus mode **C**). Focus is automatically adjusted for changes in distance to subject.\"\n\"○ (blinks white)\",\"Camera unable to focus.\"\n\"**MF**\",\"Manual focus (focus mode **M**).\""
+                },
+                {
+                    "type": "text",
+                    "value": "!Focus Indicator",
+                    "md": "!Focus Indicator"
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "parsingMode": "multimodal-openai-gpt4o",
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 21.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "7ec55e4c-d70b-4755-b4cc-6f94a5599b71",
+    "file_path": "../data/raw_data/x-e4/x-e4_split/x-e4_page94.pdf"
+}

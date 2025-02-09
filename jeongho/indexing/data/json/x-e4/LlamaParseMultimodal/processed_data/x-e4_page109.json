@@ -1,0 +1,14 @@
+{
+    "parsing_result": "\n# IMAGE QUALITY SETTING (Still Photography)\n\n## COLOR CHROME FX BLUE\nIncrease the range of tones available for rendering blues.\n\n| Option | Description                |\n|--------|----------------------------|\n| STRONG | Choose for a strong effect.|\n| WEAK   | Choose for a weak effect.  |\n| OFF    | Turn the effect off.       |\n\n## WHITE BALANCE\nFor natural colors, choose a white balance option that matches the light source.\n\n| Option                      | Description                                                                 |\n|-----------------------------|-----------------------------------------------------------------------------|\n| !WB AUTO WHITE PRIORITY | White balance is adjusted automatically. Choose for whiter whites in scenes lit by incandescent bulbs. |\n| AUTO                        | White balance is adjusted automatically.                                    |\n| !WB AUTO AMBIENCE PRIORITY | White balance is adjusted automatically. Choose for warmer whites in scenes lit by incandescent bulbs. |\n| !Custom1 CUSTOM 1        | Measure a value for white balance.                                    |\n| !Custom2 CUSTOM 2        | Measure a value for white balance.                                    |\n| !Custom3 CUSTOM 3        | Measure a value for white balance.                                    |\n| !K COLOR TEMPERATURE     | Choose a color temperature.                                           |\n| !Daylight DAYLIGHT       | For subjects in direct sunlight.                                      |\n| !Shade SHADE             | For subjects in the shade.                                            |\n| !Fluorescent1 FLUORESCENT LIGHT-1 | Use under \"daylight\" fluorescent lights.                              |\n| !Fluorescent2 FLUORESCENT LIGHT-2 | Use under \"warm white\" fluorescent lights.                            |\n| !Fluorescent3 FLUORESCENT LIGHT-3 | Use under \"cool white\" fluorescent lights.                            |\n| !Incandescent INCANDESCENT | Use under incandescent lighting.                                      |\n| !Underwater UNDERWATER   | Reduces the blue cast typically associated with underwater lighting.  |\n",
+    "embedding_result": [],
+    "metadata": {
+        "page": 109,
+        "model": "x-e4",
+        "subsection": [
+            "COLOR CHROME FX BLUE",
+            "WHITE BALANCE"
+        ],
+        "chapter": "The Shooting Menus",
+        "section": "IMAGE QUALITY SETTING (Still Photography)"
+    }
+}

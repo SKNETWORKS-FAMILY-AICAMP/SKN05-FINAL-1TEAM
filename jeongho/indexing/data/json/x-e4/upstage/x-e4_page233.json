@@ -1,0 +1,266 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:14px'>POWER MANAGEMENT</header>\n<h1 id='1' style='font-size:18px'>PERFORMANCE</h1>\n<br><h1 id='2' style='font-size:20px'>Select BOOST to improve focus and EVF display performance.</h1>\n<br><table id='3' style='font-size:16px'><tr><td>Option</td><td>Description</td></tr><tr><td>BOOST</td><td>Boost camera focus and EVF display performance. The bat- tery drains faster than when is NORMAL selected.</td></tr><tr><td>NORMAL</td><td>Choose for standard focus and EVF display performance and battery endurance.</td></tr></table>\n<p id='4' data-category='paragraph' style='font-size:16px'>BOOST SETTING</p>\n\n<table id='6' style='font-size:14px'><tr><td>Option</td><td>Description</td></tr><tr><td>LOW LIGHT PRIORITY</td><td>Display brightness is adjusted to make subjects in shadows easier to see. Motion blur may cause ghosting.</td></tr><tr><td>RESOLUTION PRIORITY</td><td>Display resolution is increased to make details easier to see.</td></tr><br><caption id='5' style='font-size:18px'>Adjust the behavior of the EVF and LCD monitor when BOOST is<br>selected for PERFORMANCE.</caption></table>\n<br><footer id='7' style='font-size:22px'>The<br>Setup<br>Menus</footer>\n<footer id='8' style='font-size:20px'>233</footer>",
+        "markdown": "POWER MANAGEMENT\n\n# PERFORMANCE\n\n# Select BOOST to improve focus and EVF display performance.\n\n| Option | Description |\n| --- | --- |\n| BOOST | Boost camera focus and EVF display performance. The bat- tery drains faster than when is NORMAL selected. |\n| NORMAL | Choose for standard focus and EVF display performance and battery endurance. |\n\n\nBOOST SETTING\n\nAdjust the behavior of the EVF and LCD monitor when BOOST is\nselected for PERFORMANCE.\n\n| Option | Description |\n| --- | --- |\n| LOW LIGHT PRIORITY | Display brightness is adjusted to make subjects in shadows easier to see. Motion blur may cause ghosting. |\n| RESOLUTION PRIORITY | Display resolution is increased to make details easier to see. |\n\n\nThe\nSetup\nMenus\n\n233",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:14px'>POWER MANAGEMENT</header>",
+                "markdown": "POWER MANAGEMENT",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6881,
+                    "y": 0.0286
+                },
+                {
+                    "x": 0.918,
+                    "y": 0.0286
+                },
+                {
+                    "x": 0.918,
+                    "y": 0.049
+                },
+                {
+                    "x": 0.6881,
+                    "y": 0.049
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='1' style='font-size:18px'>PERFORMANCE</h1>",
+                "markdown": "# PERFORMANCE",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1094,
+                    "y": 0.0733
+                },
+                {
+                    "x": 0.3236,
+                    "y": 0.0733
+                },
+                {
+                    "x": 0.3236,
+                    "y": 0.0944
+                },
+                {
+                    "x": 0.1094,
+                    "y": 0.0944
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='2' style='font-size:20px'>Select BOOST to improve focus and EVF display performance.</h1>",
+                "markdown": "# Select BOOST to improve focus and EVF display performance.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1052,
+                    "y": 0.1038
+                },
+                {
+                    "x": 0.8818,
+                    "y": 0.1038
+                },
+                {
+                    "x": 0.8818,
+                    "y": 0.1294
+                },
+                {
+                    "x": 0.1052,
+                    "y": 0.1294
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='3' style='font-size:16px'><tr><td>Option</td><td>Description</td></tr><tr><td>BOOST</td><td>Boost camera focus and EVF display performance. The bat- tery drains faster than when is NORMAL selected.</td></tr><tr><td>NORMAL</td><td>Choose for standard focus and EVF display performance and battery endurance.</td></tr></table>",
+                "markdown": "| Option | Description |\n| --- | --- |\n| BOOST | Boost camera focus and EVF display performance. The bat- tery drains faster than when is NORMAL selected. |\n| NORMAL | Choose for standard focus and EVF display performance and battery endurance. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1097,
+                    "y": 0.1426
+                },
+                {
+                    "x": 0.9193,
+                    "y": 0.1426
+                },
+                {
+                    "x": 0.9193,
+                    "y": 0.2688
+                },
+                {
+                    "x": 0.1097,
+                    "y": 0.2688
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='4' data-category='paragraph' style='font-size:16px'>BOOST SETTING</p>",
+                "markdown": "BOOST SETTING",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1074,
+                    "y": 0.2869
+                },
+                {
+                    "x": 0.3331,
+                    "y": 0.2869
+                },
+                {
+                    "x": 0.3331,
+                    "y": 0.3092
+                },
+                {
+                    "x": 0.1074,
+                    "y": 0.3092
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='5' data-category='paragraph' style='font-size:18px'>Adjust the behavior of the EVF and LCD monitor when BOOST is<br>selected for PERFORMANCE.</p>",
+                "markdown": "Adjust the behavior of the EVF and LCD monitor when BOOST is\nselected for PERFORMANCE.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1059,
+                    "y": 0.3179
+                },
+                {
+                    "x": 0.9183,
+                    "y": 0.3179
+                },
+                {
+                    "x": 0.9183,
+                    "y": 0.3672
+                },
+                {
+                    "x": 0.1059,
+                    "y": 0.3672
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='6' style='font-size:14px'><tr><td>Option</td><td>Description</td></tr><tr><td>LOW LIGHT PRIORITY</td><td>Display brightness is adjusted to make subjects in shadows easier to see. Motion blur may cause ghosting.</td></tr><tr><td>RESOLUTION PRIORITY</td><td>Display resolution is increased to make details easier to see.</td></tr></table>",
+                "markdown": "| Option | Description |\n| --- | --- |\n| LOW LIGHT PRIORITY | Display brightness is adjusted to make subjects in shadows easier to see. Motion blur may cause ghosting. |\n| RESOLUTION PRIORITY | Display resolution is increased to make details easier to see. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1101,
+                    "y": 0.3812
+                },
+                {
+                    "x": 0.9171,
+                    "y": 0.3812
+                },
+                {
+                    "x": 0.9171,
+                    "y": 0.4835
+                },
+                {
+                    "x": 0.1101,
+                    "y": 0.4835
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<br><footer id='7' style='font-size:22px'>The<br>Setup<br>Menus</footer>",
+                "markdown": "The\nSetup\nMenus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9557,
+                    "y": 0.5047
+                },
+                {
+                    "x": 0.9874,
+                    "y": 0.5047
+                },
+                {
+                    "x": 0.9874,
+                    "y": 0.6772
+                },
+                {
+                    "x": 0.9557,
+                    "y": 0.6772
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='8' style='font-size:20px'>233</footer>",
+                "markdown": "233",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.8605,
+                    "y": 0.9562
+                },
+                {
+                    "x": 0.9175,
+                    "y": 0.9562
+                },
+                {
+                    "x": 0.9175,
+                    "y": 0.9797
+                },
+                {
+                    "x": 0.8605,
+                    "y": 0.9797
+                }
+            ],
+            "id": 8,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

@@ -1,0 +1,462 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<p id='0' data-category='paragraph' style='font-size:14px'>Basic Setup</p>\n<h1 id='1' style='font-size:20px'>4 Check the time.</h1>\n<br><p id='2' data-category='paragraph' style='font-size:18px'>When pairing is complete, you will be<br>prompted to set the camera clock to<br>the time reported by the smartphone<br>or tablet. Check that the time is cor-<br>rect.</p>\n<br><table id='3' style='font-size:14px'><tr><td colspan=\"3\">START MENU</td></tr><tr><td>PAIRING</td><td></td><td>REGISTRATION</td></tr><tr><td colspan=\"3\">Phone000111111</td></tr><tr><td>PAIRING COMPLETE</td><td>12/31/2020 12:10 AM</td><td></td></tr><tr><td>SET DATE/TIME FROM OK]</td><td>SET</td><td>SMARTPHONE? BACK CANCEL</td></tr></table>\n<br><p id='4' data-category='paragraph' style='font-size:14px'>To set the clock manually, press DISP/BACK ( 目目 42).</p>\n<p id='5' data-category='paragraph' style='font-size:20px'>5 Synchronize the camera settings with<br>the settings configured on your smart-<br>phone or tablet.</p>\n<br><table id='6' style='font-size:14px'><tr><td>START MENU</td><td></td></tr><tr><td>SMARTPHONE SYNC. SETTING LOCATION&TIME</td><td></td></tr><tr><td>⌀LOCATION</td><td></td></tr><tr><td>TIME</td><td>SET</td></tr><tr><td>OFF OK</td><td></td></tr></table>\n<br><p id='7' data-category='paragraph' style='font-size:16px'>The option selected can be changed at any time using<br>CONNECTION SETTING > Bluetooth SETTINGS.</p>\n<p id='8' data-category='paragraph' style='font-size:20px'>6 Set the clock.</p>\n<br><p id='9' data-category='paragraph' style='font-size:18px'>Press MENU/OK to set the camera clock to the time reported by<br>the smartphone or tablet and exit to shooting mode.</p>\n<p id='10' data-category='paragraph' style='font-size:16px'>If the battery is removed for an extended period, the camera clock will<br>be reset and the language-selection dialog will be displayed when the<br>camera is turned on.</p>\n<p id='11' data-category='paragraph' style='font-size:18px'>Skipping the Current Step</p>\n<br><p id='12' data-category='paragraph' style='font-size:16px'>Ifyou skip a step, a confirmation dialog will be displayed;select NO to avoid<br>repeating any steps you skipped the next time the camera is turned on.</p>\n<br><footer id='13' style='font-size:16px'>2</footer>\n<br><footer id='14' style='font-size:22px'>First<br>Steps</footer>\n<footer id='15' style='font-size:20px'>41</footer>",
+        "markdown": "Basic Setup\n\n# 4 Check the time.\n\nWhen pairing is complete, you will be\nprompted to set the camera clock to\nthe time reported by the smartphone\nor tablet. Check that the time is cor-\nrect.\n\n| START MENU | START MENU | START MENU |\n| --- | --- | --- |\n| PAIRING |  | REGISTRATION |\n| Phone000111111 | Phone000111111 | Phone000111111 |\n| PAIRING COMPLETE | 12/31/2020 12:10 AM |  |\n| SET DATE/TIME FROM OK] | SET | SMARTPHONE? BACK CANCEL |\n\n\nTo set the clock manually, press DISP/BACK ( 目目 42).\n\n5 Synchronize the camera settings with\nthe settings configured on your smart-\nphone or tablet.\n\n| START MENU |  |\n| --- | --- |\n| SMARTPHONE SYNC. SETTING LOCATION&TIME |  |\n| ⌀LOCATION |  |\n| TIME | SET |\n| OFF OK |  |\n\n\nThe option selected can be changed at any time using\nCONNECTION SETTING > Bluetooth SETTINGS.\n\n6 Set the clock.\n\nPress MENU/OK to set the camera clock to the time reported by\nthe smartphone or tablet and exit to shooting mode.\n\nIf the battery is removed for an extended period, the camera clock will\nbe reset and the language-selection dialog will be displayed when the\ncamera is turned on.\n\nSkipping the Current Step\n\nIfyou skip a step, a confirmation dialog will be displayed;select NO to avoid\nrepeating any steps you skipped the next time the camera is turned on.\n\n2\n\nFirst\nSteps\n\n41",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='0' data-category='paragraph' style='font-size:14px'>Basic Setup</p>",
+                "markdown": "Basic Setup",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.8025,
+                    "y": 0.0305
+                },
+                {
+                    "x": 0.9169,
+                    "y": 0.0305
+                },
+                {
+                    "x": 0.9169,
+                    "y": 0.0489
+                },
+                {
+                    "x": 0.8025,
+                    "y": 0.0489
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='1' style='font-size:20px'>4 Check the time.</h1>",
+                "markdown": "# 4 Check the time.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.122,
+                    "y": 0.0726
+                },
+                {
+                    "x": 0.3501,
+                    "y": 0.0726
+                },
+                {
+                    "x": 0.3501,
+                    "y": 0.0956
+                },
+                {
+                    "x": 0.122,
+                    "y": 0.0956
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='2' data-category='paragraph' style='font-size:18px'>When pairing is complete, you will be<br>prompted to set the camera clock to<br>the time reported by the smartphone<br>or tablet. Check that the time is cor-<br>rect.</p>",
+                "markdown": "When pairing is complete, you will be\nprompted to set the camera clock to\nthe time reported by the smartphone\nor tablet. Check that the time is cor-\nrect.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.155,
+                    "y": 0.0985
+                },
+                {
+                    "x": 0.6287,
+                    "y": 0.0985
+                },
+                {
+                    "x": 0.6287,
+                    "y": 0.2229
+                },
+                {
+                    "x": 0.155,
+                    "y": 0.2229
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='3' style='font-size:14px'><tr><td colspan=\"3\">START MENU</td></tr><tr><td>PAIRING</td><td></td><td>REGISTRATION</td></tr><tr><td colspan=\"3\">Phone000111111</td></tr><tr><td>PAIRING COMPLETE</td><td>12/31/2020 12:10 AM</td><td></td></tr><tr><td>SET DATE/TIME FROM OK]</td><td>SET</td><td>SMARTPHONE? BACK CANCEL</td></tr></table>",
+                "markdown": "| START MENU | START MENU | START MENU |\n| --- | --- | --- |\n| PAIRING |  | REGISTRATION |\n| Phone000111111 | Phone000111111 | Phone000111111 |\n| PAIRING COMPLETE | 12/31/2020 12:10 AM |  |\n| SET DATE/TIME FROM OK] | SET | SMARTPHONE? BACK CANCEL |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6511,
+                    "y": 0.097
+                },
+                {
+                    "x": 0.9144,
+                    "y": 0.097
+                },
+                {
+                    "x": 0.9144,
+                    "y": 0.2469
+                },
+                {
+                    "x": 0.6511,
+                    "y": 0.2469
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='4' data-category='paragraph' style='font-size:14px'>To set the clock manually, press DISP/BACK ( 目目 42).</p>",
+                "markdown": "To set the clock manually, press DISP/BACK ( 目目 42).",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.159,
+                    "y": 0.2535
+                },
+                {
+                    "x": 0.7412,
+                    "y": 0.2535
+                },
+                {
+                    "x": 0.7412,
+                    "y": 0.2758
+                },
+                {
+                    "x": 0.159,
+                    "y": 0.2758
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='5' data-category='paragraph' style='font-size:20px'>5 Synchronize the camera settings with<br>the settings configured on your smart-<br>phone or tablet.</p>",
+                "markdown": "5 Synchronize the camera settings with\nthe settings configured on your smart-\nphone or tablet.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1299,
+                    "y": 0.2933
+                },
+                {
+                    "x": 0.6278,
+                    "y": 0.2933
+                },
+                {
+                    "x": 0.6278,
+                    "y": 0.3682
+                },
+                {
+                    "x": 0.1299,
+                    "y": 0.3682
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='6' style='font-size:14px'><tr><td>START MENU</td><td></td></tr><tr><td>SMARTPHONE SYNC. SETTING LOCATION&TIME</td><td></td></tr><tr><td>⌀LOCATION</td><td></td></tr><tr><td>TIME</td><td>SET</td></tr><tr><td>OFF OK</td><td></td></tr></table>",
+                "markdown": "| START MENU |  |\n| --- | --- |\n| SMARTPHONE SYNC. SETTING LOCATION&TIME |  |\n| ⌀LOCATION |  |\n| TIME | SET |\n| OFF OK |  |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6729,
+                    "y": 0.2916
+                },
+                {
+                    "x": 0.9142,
+                    "y": 0.2916
+                },
+                {
+                    "x": 0.9142,
+                    "y": 0.4392
+                },
+                {
+                    "x": 0.6729,
+                    "y": 0.4392
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='7' data-category='paragraph' style='font-size:16px'>The option selected can be changed at any time using<br>CONNECTION SETTING > Bluetooth SETTINGS.</p>",
+                "markdown": "The option selected can be changed at any time using\nCONNECTION SETTING > Bluetooth SETTINGS.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1927,
+                    "y": 0.4489
+                },
+                {
+                    "x": 0.8019,
+                    "y": 0.4489
+                },
+                {
+                    "x": 0.8019,
+                    "y": 0.4928
+                },
+                {
+                    "x": 0.1927,
+                    "y": 0.4928
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='8' data-category='paragraph' style='font-size:20px'>6 Set the clock.</p>",
+                "markdown": "6 Set the clock.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1225,
+                    "y": 0.5088
+                },
+                {
+                    "x": 0.323,
+                    "y": 0.5088
+                },
+                {
+                    "x": 0.323,
+                    "y": 0.5313
+                },
+                {
+                    "x": 0.1225,
+                    "y": 0.5313
+                }
+            ],
+            "id": 8,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='9' data-category='paragraph' style='font-size:18px'>Press MENU/OK to set the camera clock to the time reported by<br>the smartphone or tablet and exit to shooting mode.</p>",
+                "markdown": "Press MENU/OK to set the camera clock to the time reported by\nthe smartphone or tablet and exit to shooting mode.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1338,
+                    "y": 0.5199
+                },
+                {
+                    "x": 0.9164,
+                    "y": 0.5199
+                },
+                {
+                    "x": 0.9164,
+                    "y": 0.5838
+                },
+                {
+                    "x": 0.1338,
+                    "y": 0.5838
+                }
+            ],
+            "id": 9,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='10' data-category='paragraph' style='font-size:16px'>If the battery is removed for an extended period, the camera clock will<br>be reset and the language-selection dialog will be displayed when the<br>camera is turned on.</p>",
+                "markdown": "If the battery is removed for an extended period, the camera clock will\nbe reset and the language-selection dialog will be displayed when the\ncamera is turned on.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.136,
+                    "y": 0.5976
+                },
+                {
+                    "x": 0.9146,
+                    "y": 0.5976
+                },
+                {
+                    "x": 0.9146,
+                    "y": 0.6654
+                },
+                {
+                    "x": 0.136,
+                    "y": 0.6654
+                }
+            ],
+            "id": 10,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='11' data-category='paragraph' style='font-size:18px'>Skipping the Current Step</p>",
+                "markdown": "Skipping the Current Step",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1054,
+                    "y": 0.6799
+                },
+                {
+                    "x": 0.358,
+                    "y": 0.6799
+                },
+                {
+                    "x": 0.358,
+                    "y": 0.7017
+                },
+                {
+                    "x": 0.1054,
+                    "y": 0.7017
+                }
+            ],
+            "id": 11,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='12' data-category='paragraph' style='font-size:16px'>Ifyou skip a step, a confirmation dialog will be displayed;select NO to avoid<br>repeating any steps you skipped the next time the camera is turned on.</p>",
+                "markdown": "Ifyou skip a step, a confirmation dialog will be displayed;select NO to avoid\nrepeating any steps you skipped the next time the camera is turned on.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1093,
+                    "y": 0.7018
+                },
+                {
+                    "x": 0.917,
+                    "y": 0.7018
+                },
+                {
+                    "x": 0.917,
+                    "y": 0.7503
+                },
+                {
+                    "x": 0.1093,
+                    "y": 0.7503
+                }
+            ],
+            "id": 12,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<br><footer id='13' style='font-size:16px'>2</footer>",
+                "markdown": "2",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9577,
+                    "y": 0.2976
+                },
+                {
+                    "x": 0.9751,
+                    "y": 0.2976
+                },
+                {
+                    "x": 0.9751,
+                    "y": 0.3167
+                },
+                {
+                    "x": 0.9577,
+                    "y": 0.3167
+                }
+            ],
+            "id": 13,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<br><footer id='14' style='font-size:22px'>First<br>Steps</footer>",
+                "markdown": "First\nSteps",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9579,
+                    "y": 0.3397
+                },
+                {
+                    "x": 0.9805,
+                    "y": 0.3397
+                },
+                {
+                    "x": 0.9805,
+                    "y": 0.4151
+                },
+                {
+                    "x": 0.9579,
+                    "y": 0.4151
+                }
+            ],
+            "id": 14,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='15' style='font-size:20px'>41</footer>",
+                "markdown": "41",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.8777,
+                    "y": 0.9575
+                },
+                {
+                    "x": 0.9146,
+                    "y": 0.9575
+                },
+                {
+                    "x": 0.9146,
+                    "y": 0.9786
+                },
+                {
+                    "x": 0.8777,
+                    "y": 0.9786
+                }
+            ],
+            "id": 15,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "parsing_result": "\n# IMAGE QUALITY SETTING (Still Photography)\n\n## Color Temperature\nColor temperature is an objective measure of the color of a light source, expressed in Kelvin (K). Light sources with a color temperature close to that of direct sunlight appear white; light sources with a lower color temperature have a yellow or red cast, while those with a higher color temperature are tinged with blue.\n\n## DYNAMIC RANGE\nAdjust dynamic range. Wide dynamic ranges reduce loss of detail in highlights for more natural results with high-contrast or backlit scenes.\n\n| Option     | Description                                |\n|------------|--------------------------------------------|\n| AUTO       | Choose for increased contrast.             |\n| !100% 100% | Reduce loss of detail in highlights. |\n| !200% 200% | Reduce loss of detail in highlights. |\n| !400% 400% | Reduce loss of detail in highlights. |\n\n> ⚠️ Mottling may appear in pictures taken at higher values. Choose a value according to the scene.\n\n- If **AUTO** is selected, the camera will automatically choose either !100% 100% or !200% 200% according to the subject and shooting conditions. Shutter speed and aperture will be displayed when the shutter button is pressed halfway.\n- !200% 200% is available at sensitivities from ISO 320 to ISO 12800.\n- !400% 400% at sensitivities from ISO 640 to 12800.\n",
+    "embedding_result": [],
+    "metadata": {
+        "page": 113,
+        "model": "x-e4",
+        "subsection": [
+            "DYNAMIC RANGE"
+        ],
+        "chapter": "The Shooting Menus",
+        "section": "IMAGE QUALITY SETTING (Still Photography)"
+    }
+}

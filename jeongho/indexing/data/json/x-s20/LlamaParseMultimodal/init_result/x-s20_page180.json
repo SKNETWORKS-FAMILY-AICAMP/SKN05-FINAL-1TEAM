@@ -1,0 +1,100 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "# NUMBER OF FOCUS POINTS\n\nChoose the number of focus points available for focus-point selection in manual focus mode or when SINGLE POINT is selected for AF MODE.\n\n| Option                | Description                                                      |\n|-----------------------|------------------------------------------------------------------|\n| 117 POINTS (9 × 13)   | Choose from 117 focus points arranged in a 9- by 13-point grid.  |\n| 425 POINTS (17 × 25)  | Choose from 425 focus points arranged in a 17- by 25-point grid. |\n\n# PRE-AF\n\nIf **ON** is selected, the camera will continue to adjust focus even when the shutter button is not pressed halfway. The camera adjusts focus continuously, allowing it to focus faster when the shutter button is pressed halfway. Choosing this option helps prevent missed shots.\n\n| Options |        |\n|---------|--------|\n| ON      | OFF    |\n\n> ⚠️ Choosing **ON** increases the drain on the battery.",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "NUMBER OF FOCUS POINTS",
+                    "md": "# NUMBER OF FOCUS POINTS"
+                },
+                {
+                    "type": "text",
+                    "value": "Choose the number of focus points available for focus-point selection in manual focus mode or when SINGLE POINT is selected for AF MODE.",
+                    "md": "Choose the number of focus points available for focus-point selection in manual focus mode or when SINGLE POINT is selected for AF MODE."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Option",
+                            "Description"
+                        ],
+                        [
+                            "117 POINTS (9 × 13)",
+                            "Choose from 117 focus points arranged in a 9- by 13-point grid."
+                        ],
+                        [
+                            "425 POINTS (17 × 25)",
+                            "Choose from 425 focus points arranged in a 17- by 25-point grid."
+                        ]
+                    ],
+                    "md": "| Option                | Description                                                      |\n|-----------------------|------------------------------------------------------------------|\n| 117 POINTS (9 × 13)   | Choose from 117 focus points arranged in a 9- by 13-point grid.  |\n| 425 POINTS (17 × 25)  | Choose from 425 focus points arranged in a 17- by 25-point grid. |",
+                    "isPerfectTable": true,
+                    "csv": "\"Option\",\"Description\"\n\"117 POINTS (9 × 13)\",\"Choose from 117 focus points arranged in a 9- by 13-point grid.\"\n\"425 POINTS (17 × 25)\",\"Choose from 425 focus points arranged in a 17- by 25-point grid.\""
+                },
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "PRE-AF",
+                    "md": "# PRE-AF"
+                },
+                {
+                    "type": "text",
+                    "value": "If **ON** is selected, the camera will continue to adjust focus even when the shutter button is not pressed halfway. The camera adjusts focus continuously, allowing it to focus faster when the shutter button is pressed halfway. Choosing this option helps prevent missed shots.",
+                    "md": "If **ON** is selected, the camera will continue to adjust focus even when the shutter button is not pressed halfway. The camera adjusts focus continuously, allowing it to focus faster when the shutter button is pressed halfway. Choosing this option helps prevent missed shots."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Options",
+                            ""
+                        ],
+                        [
+                            "ON",
+                            "OFF"
+                        ]
+                    ],
+                    "md": "| Options |        |\n|---------|--------|\n| ON      | OFF    |",
+                    "isPerfectTable": true,
+                    "csv": "\"Options\",\"\"\n\"ON\",\"OFF\""
+                },
+                {
+                    "type": "text",
+                    "value": "> ⚠️ Choosing **ON** increases the drain on the battery.",
+                    "md": "> ⚠️ Choosing **ON** increases the drain on the battery."
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 405.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "9ad3b264-17d2-4705-9433-0c6e6d0bd66f",
+    "file_path": "../data/raw_data/x-s20/x-s20_split/x-s20_page180.pdf"
+}

@@ -1,0 +1,8 @@
+{
+    "parsing_result": "# MULTIPLE EXPOSURE CTRL\n\nChoose how the camera combines shots to create a multiple exposure.\n\n!Multiple Exposure Example\n\n| Option   | Description                                                                                                                                  |\n|----------|----------------------------------------------------------------------------------------------------------------------------------------------|\n| ADDITIVE | The camera adds the exposures together. You may need to lower exposure compensation depending on the number of shots.                        |\n| AVERAGE  | The camera automatically optimizes exposure for the final picture. The background in series shot without changing the composition will be optimally exposed. |\n| BRIGHT   | The camera compares the exposures and chooses only the brightest pixel at each location. Colors may be mixed depending on their brightness and hue. |\n| DARK     | The camera compares the exposures and chooses only the darkest pixel at each location. Colors may be mixed depending on their brightness and hue. |\n\n> 💡 **Note:**  \n> The camera can combine up to nine exposures.",
+    "embedding_result": [],
+    "metadata": {
+        "page": 145,
+        "model": "x100v"
+    }
+}

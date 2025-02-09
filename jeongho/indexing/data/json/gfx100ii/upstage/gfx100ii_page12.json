@@ -1,0 +1,294 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<h1 id='0' style='font-size:20px'>The Viewfinder</h1>\n<header id='1' style='font-size:22px'>Before<br>You<br>Begin</header>\n<br><p id='2' data-category='paragraph' style='font-size:14px'>1</p>\n<br><figure id='3'><img alt=\"\" data-coord=\"top-left:(243,399); bottom-right:(2437,1721)\" /></figure>\n<br><p id='4' data-category='list' style='font-size:14px'>1 Hot shoe 397, 403<br>2 Viewfinder lock releases 13<br>3 VIEW MODE button 20<br>4 Eye sensor 21<br>5 Electronic viewfinder (EVF) 16, 20<br>6 Eye cup (lockable) 14</p>\n<br><p id='5' data-category='list' style='font-size:14px'>7 Diopter adjustment control 15<br>8 Serial number plate<br>9 Connectors 13<br>10 Hot shoe cover<br>11 Connector cover</p>\n<p id='6' data-category='paragraph' style='font-size:14px'>The EVF-TL1</p>\n<br><p id='7' data-category='paragraph' style='font-size:16px'>The optional EVF-TL1 tilt adapter lets you swivel<br>the viewfinder left or right ±45° or up or down<br>between 0° and 90° (□□ 397).</p>\n<br><figure id='8'><img alt=\"\" data-coord=\"top-left:(1725,2311); bottom-right:(2475,2963)\" /></figure>\n<footer id='9' style='font-size:18px'>12</footer>",
+        "markdown": "# The Viewfinder\n\nBefore\nYou\nBegin\n\n1\n\n![image](/image/placeholder)\n\n\n- 1 Hot shoe 397, 403\n- 2 Viewfinder lock releases 13\n- 3 VIEW MODE button 20\n- 4 Eye sensor 21\n- 5 Electronic viewfinder (EVF) 16, 20\n- 6 Eye cup (lockable) 14\n\n\n- 7 Diopter adjustment control 15\n- 8 Serial number plate\n- 9 Connectors 13\n- 10 Hot shoe cover\n- 11 Connector cover\n\n\nThe EVF-TL1\n\nThe optional EVF-TL1 tilt adapter lets you swivel\nthe viewfinder left or right ±45° or up or down\nbetween 0° and 90° (□□ 397).\n\n![image](/image/placeholder)\n\n\n12",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='0' style='font-size:20px'>The Viewfinder</h1>",
+                "markdown": "# The Viewfinder",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1562,
+                    "y": 0.0725
+                },
+                {
+                    "x": 0.4132,
+                    "y": 0.0725
+                },
+                {
+                    "x": 0.4132,
+                    "y": 0.0993
+                },
+                {
+                    "x": 0.1562,
+                    "y": 0.0993
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='1' style='font-size:22px'>Before<br>You<br>Begin</header>",
+                "markdown": "Before\nYou\nBegin",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0178,
+                    "y": 0.2773
+                },
+                {
+                    "x": 0.0424,
+                    "y": 0.2773
+                },
+                {
+                    "x": 0.0424,
+                    "y": 0.403
+                },
+                {
+                    "x": 0.0178,
+                    "y": 0.403
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='2' data-category='paragraph' style='font-size:14px'>1</p>",
+                "markdown": "1",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0286,
+                    "y": 0.2407
+                },
+                {
+                    "x": 0.0398,
+                    "y": 0.2407
+                },
+                {
+                    "x": 0.0398,
+                    "y": 0.2554
+                },
+                {
+                    "x": 0.0286,
+                    "y": 0.2554
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "figure",
+            "content": {
+                "html": "<br><figure id='3'><img alt=\"\" data-coord=\"top-left:(243,399); bottom-right:(2437,1721)\" /></figure>",
+                "markdown": "![image](/image/placeholder)\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0879,
+                    "y": 0.1026
+                },
+                {
+                    "x": 0.8818,
+                    "y": 0.1026
+                },
+                {
+                    "x": 0.8818,
+                    "y": 0.4417
+                },
+                {
+                    "x": 0.0879,
+                    "y": 0.4417
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "list",
+            "content": {
+                "html": "<br><p id='4' data-category='list' style='font-size:14px'>1 Hot shoe 397, 403<br>2 Viewfinder lock releases 13<br>3 VIEW MODE button 20<br>4 Eye sensor 21<br>5 Electronic viewfinder (EVF) 16, 20<br>6 Eye cup (lockable) 14</p>",
+                "markdown": "- 1 Hot shoe 397, 403\n- 2 Viewfinder lock releases 13\n- 3 VIEW MODE button 20\n- 4 Eye sensor 21\n- 5 Electronic viewfinder (EVF) 16, 20\n- 6 Eye cup (lockable) 14\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0892,
+                    "y": 0.4499
+                },
+                {
+                    "x": 0.4849,
+                    "y": 0.4499
+                },
+                {
+                    "x": 0.4849,
+                    "y": 0.5712
+                },
+                {
+                    "x": 0.0892,
+                    "y": 0.5712
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "list",
+            "content": {
+                "html": "<br><p id='5' data-category='list' style='font-size:14px'>7 Diopter adjustment control 15<br>8 Serial number plate<br>9 Connectors 13<br>10 Hot shoe cover<br>11 Connector cover</p>",
+                "markdown": "- 7 Diopter adjustment control 15\n- 8 Serial number plate\n- 9 Connectors 13\n- 10 Hot shoe cover\n- 11 Connector cover\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.5022,
+                    "y": 0.4482
+                },
+                {
+                    "x": 0.8984,
+                    "y": 0.4482
+                },
+                {
+                    "x": 0.8984,
+                    "y": 0.5541
+                },
+                {
+                    "x": 0.5022,
+                    "y": 0.5541
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='6' data-category='paragraph' style='font-size:14px'>The EVF-TL1</p>",
+                "markdown": "The EVF-TL1",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0853,
+                    "y": 0.5824
+                },
+                {
+                    "x": 0.2119,
+                    "y": 0.5824
+                },
+                {
+                    "x": 0.2119,
+                    "y": 0.602
+                },
+                {
+                    "x": 0.0853,
+                    "y": 0.602
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='7' data-category='paragraph' style='font-size:16px'>The optional EVF-TL1 tilt adapter lets you swivel<br>the viewfinder left or right ±45° or up or down<br>between 0° and 90° (□□ 397).</p>",
+                "markdown": "The optional EVF-TL1 tilt adapter lets you swivel\nthe viewfinder left or right ±45° or up or down\nbetween 0° and 90° (□□ 397).",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0809,
+                    "y": 0.6045
+                },
+                {
+                    "x": 0.6025,
+                    "y": 0.6045
+                },
+                {
+                    "x": 0.6025,
+                    "y": 0.6717
+                },
+                {
+                    "x": 0.0809,
+                    "y": 0.6717
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "figure",
+            "content": {
+                "html": "<br><figure id='8'><img alt=\"\" data-coord=\"top-left:(1725,2311); bottom-right:(2475,2963)\" /></figure>",
+                "markdown": "![image](/image/placeholder)\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6243,
+                    "y": 0.593
+                },
+                {
+                    "x": 0.8956,
+                    "y": 0.593
+                },
+                {
+                    "x": 0.8956,
+                    "y": 0.7602
+                },
+                {
+                    "x": 0.6243,
+                    "y": 0.7602
+                }
+            ],
+            "id": 8,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='9' style='font-size:18px'>12</footer>",
+                "markdown": "12",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0851,
+                    "y": 0.9564
+                },
+                {
+                    "x": 0.122,
+                    "y": 0.9564
+                },
+                {
+                    "x": 0.122,
+                    "y": 0.9792
+                },
+                {
+                    "x": 0.0851,
+                    "y": 0.9792
+                }
+            ],
+            "id": 9,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

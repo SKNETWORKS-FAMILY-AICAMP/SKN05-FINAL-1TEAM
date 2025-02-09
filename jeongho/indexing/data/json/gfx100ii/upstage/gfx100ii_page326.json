@@ -1,0 +1,518 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<h1 id='0' style='font-size:14px'>FTP OPTIONAL SETTING</h1>\n<br><h1 id='1' style='font-size:22px'>Adjust settings for FTP upload.</h1>\n<h1 id='2' style='font-size:16px'>SELECT IMAGE & TRANSFER</h1>\n<br><h1 id='3' style='font-size:20px'>Mark picture for upload (□□ 288).</h1>\n<h1 id='4' style='font-size:14px'>AUTO IMAGE TRANSFER ORDER</h1>\n\n<table id='6' style='font-size:14px'><tr><td colspan=\"2\">Options</td></tr><tr><td>ON</td><td>OFF</td></tr><br><caption id='5' style='font-size:18px'>Select ON to automatically mark pictures for upload as they are<br>taken.</caption></table>\n<p id='7' data-category='paragraph' style='font-size:14px'>SELECT FILE TYPE</p>\n\n<br><table id='9' style='font-size:14px'><tr><td rowspan=\"2\" colspan=\"6\">Options</td></tr><tr></tr><tr><td>JPEG</td><td>RAW</td><td>HEIF</td><td>TIFF</td><td>MOV</td><td>MP4</td></tr><br><caption id='8' style='font-size:18px'>Choose the types of files uploaded to the FTP server. You can se-<br>lect or deselect each file type individually.</caption></table>\n<p id='10' data-category='paragraph' style='font-size:16px'>CAPTION FOR FTP TRANSFER</p>\n<br><p id='11' data-category='paragraph' style='font-size:20px'>Add captions to photos and movies during upload.</p>\n<br><header id='12' style='font-size:22px'>Network/USB<br>Setting<br>Menus</header>\n<br><table id='13' style='font-size:14px'><tr><td>Option</td><td>Description</td></tr><tr><td>DEFAULT CAPTION</td><td>Add the caption selected for 8 SAVE DATA SETTING > DEFAULT CAPTION.</td></tr><tr><td>CREATED CAPTION</td><td>Create new captions or select existing captions.</td></tr><tr><td>NO CAPTION</td><td>Do not add captions to pictures during upload.</td></tr></table>\n<p id='14' data-category='paragraph' style='font-size:18px'>TRANSFER/SUSPEND</p>\n<table id='15' style='font-size:16px'><tr><td rowspan=\"2\" colspan=\"2\">Options</td></tr><tr></tr><tr><td>TRANSFER</td><td>SUSPEND</td></tr><br><caption id='16' style='font-size:14px'>Pause or resume FTP upload.</caption></table>\n\n<footer id='17' style='font-size:18px'>326</footer>",
+        "markdown": "# FTP OPTIONAL SETTING\n\n# Adjust settings for FTP upload.\n\n# SELECT IMAGE & TRANSFER\n\n# Mark picture for upload (□□ 288).\n\n# AUTO IMAGE TRANSFER ORDER\n\nSelect ON to automatically mark pictures for upload as they are\ntaken.\n\n| Options | Options |\n| --- | --- |\n| ON | OFF |\n\n\nSELECT FILE TYPE\n\nChoose the types of files uploaded to the FTP server. You can se-\nlect or deselect each file type individually.\n\n| Options | Options | Options | Options | Options | Options |\n| --- | --- | --- | --- | --- | --- |\n| Options | Options | Options | Options | Options | Options |\n| JPEG | RAW | HEIF | TIFF | MOV | MP4 |\n\n\nCAPTION FOR FTP TRANSFER\n\nAdd captions to photos and movies during upload.\n\nNetwork/USB\nSetting\nMenus\n\n| Option | Description |\n| --- | --- |\n| DEFAULT CAPTION | Add the caption selected for 8 SAVE DATA SETTING > DEFAULT CAPTION. |\n| CREATED CAPTION | Create new captions or select existing captions. |\n| NO CAPTION | Do not add captions to pictures during upload. |\n\n\nTRANSFER/SUSPEND\n\n| Options | Options |\n| --- | --- |\n| Options | Options |\n| TRANSFER | SUSPEND |\n\n\nPause or resume FTP upload.\n\n326",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='0' style='font-size:14px'>FTP OPTIONAL SETTING</h1>",
+                "markdown": "# FTP OPTIONAL SETTING",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0832,
+                    "y": 0.0729
+                },
+                {
+                    "x": 0.4115,
+                    "y": 0.0729
+                },
+                {
+                    "x": 0.4115,
+                    "y": 0.095
+                },
+                {
+                    "x": 0.0832,
+                    "y": 0.095
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='1' style='font-size:22px'>Adjust settings for FTP upload.</h1>",
+                "markdown": "# Adjust settings for FTP upload.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0818,
+                    "y": 0.1044
+                },
+                {
+                    "x": 0.4708,
+                    "y": 0.1044
+                },
+                {
+                    "x": 0.4708,
+                    "y": 0.1287
+                },
+                {
+                    "x": 0.0818,
+                    "y": 0.1287
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='2' style='font-size:16px'>SELECT IMAGE & TRANSFER</h1>",
+                "markdown": "# SELECT IMAGE & TRANSFER",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0886,
+                    "y": 0.1497
+                },
+                {
+                    "x": 0.4349,
+                    "y": 0.1497
+                },
+                {
+                    "x": 0.4349,
+                    "y": 0.174
+                },
+                {
+                    "x": 0.0886,
+                    "y": 0.174
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='3' style='font-size:20px'>Mark picture for upload (□□ 288).</h1>",
+                "markdown": "# Mark picture for upload (□□ 288).",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0812,
+                    "y": 0.1805
+                },
+                {
+                    "x": 0.503,
+                    "y": 0.1805
+                },
+                {
+                    "x": 0.503,
+                    "y": 0.2049
+                },
+                {
+                    "x": 0.0812,
+                    "y": 0.2049
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='4' style='font-size:14px'>AUTO IMAGE TRANSFER ORDER</h1>",
+                "markdown": "# AUTO IMAGE TRANSFER ORDER",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.09,
+                    "y": 0.2275
+                },
+                {
+                    "x": 0.482,
+                    "y": 0.2275
+                },
+                {
+                    "x": 0.482,
+                    "y": 0.2514
+                },
+                {
+                    "x": 0.09,
+                    "y": 0.2514
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='5' data-category='paragraph' style='font-size:18px'>Select ON to automatically mark pictures for upload as they are<br>taken.</p>",
+                "markdown": "Select ON to automatically mark pictures for upload as they are\ntaken.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.081,
+                    "y": 0.2575
+                },
+                {
+                    "x": 0.8922,
+                    "y": 0.2575
+                },
+                {
+                    "x": 0.8922,
+                    "y": 0.3076
+                },
+                {
+                    "x": 0.081,
+                    "y": 0.3076
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='6' style='font-size:14px'><tr><td colspan=\"2\">Options</td></tr><tr><td>ON</td><td>OFF</td></tr></table>",
+                "markdown": "| Options | Options |\n| --- | --- |\n| ON | OFF |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0848,
+                    "y": 0.3223
+                },
+                {
+                    "x": 0.8918,
+                    "y": 0.3223
+                },
+                {
+                    "x": 0.8918,
+                    "y": 0.3773
+                },
+                {
+                    "x": 0.0848,
+                    "y": 0.3773
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='7' data-category='paragraph' style='font-size:14px'>SELECT FILE TYPE</p>",
+                "markdown": "SELECT FILE TYPE",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0931,
+                    "y": 0.3952
+                },
+                {
+                    "x": 0.3162,
+                    "y": 0.3952
+                },
+                {
+                    "x": 0.3162,
+                    "y": 0.4185
+                },
+                {
+                    "x": 0.0931,
+                    "y": 0.4185
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='8' data-category='paragraph' style='font-size:18px'>Choose the types of files uploaded to the FTP server. You can se-<br>lect or deselect each file type individually.</p>",
+                "markdown": "Choose the types of files uploaded to the FTP server. You can se-\nlect or deselect each file type individually.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0821,
+                    "y": 0.4258
+                },
+                {
+                    "x": 0.8899,
+                    "y": 0.4258
+                },
+                {
+                    "x": 0.8899,
+                    "y": 0.4767
+                },
+                {
+                    "x": 0.0821,
+                    "y": 0.4767
+                }
+            ],
+            "id": 8,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='9' style='font-size:14px'><tr><td rowspan=\"2\" colspan=\"6\">Options</td></tr><tr></tr><tr><td>JPEG</td><td>RAW</td><td>HEIF</td><td>TIFF</td><td>MOV</td><td>MP4</td></tr></table>",
+                "markdown": "| Options | Options | Options | Options | Options | Options |\n| --- | --- | --- | --- | --- | --- |\n| Options | Options | Options | Options | Options | Options |\n| JPEG | RAW | HEIF | TIFF | MOV | MP4 |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0894,
+                    "y": 0.4896
+                },
+                {
+                    "x": 0.8895,
+                    "y": 0.4896
+                },
+                {
+                    "x": 0.8895,
+                    "y": 0.5473
+                },
+                {
+                    "x": 0.0894,
+                    "y": 0.5473
+                }
+            ],
+            "id": 9,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='10' data-category='paragraph' style='font-size:16px'>CAPTION FOR FTP TRANSFER</p>",
+                "markdown": "CAPTION FOR FTP TRANSFER",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0933,
+                    "y": 0.5626
+                },
+                {
+                    "x": 0.4519,
+                    "y": 0.5626
+                },
+                {
+                    "x": 0.4519,
+                    "y": 0.5862
+                },
+                {
+                    "x": 0.0933,
+                    "y": 0.5862
+                }
+            ],
+            "id": 10,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='11' data-category='paragraph' style='font-size:20px'>Add captions to photos and movies during upload.</p>",
+                "markdown": "Add captions to photos and movies during upload.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0803,
+                    "y": 0.5932
+                },
+                {
+                    "x": 0.7275,
+                    "y": 0.5932
+                },
+                {
+                    "x": 0.7275,
+                    "y": 0.6184
+                },
+                {
+                    "x": 0.0803,
+                    "y": 0.6184
+                }
+            ],
+            "id": 11,
+            "page": 1
+        },
+        {
+            "category": "header",
+            "content": {
+                "html": "<br><header id='12' style='font-size:22px'>Network/USB<br>Setting<br>Menus</header>",
+                "markdown": "Network/USB\nSetting\nMenus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0173,
+                    "y": 0.4281
+                },
+                {
+                    "x": 0.041,
+                    "y": 0.4281
+                },
+                {
+                    "x": 0.041,
+                    "y": 0.6384
+                },
+                {
+                    "x": 0.0173,
+                    "y": 0.6384
+                }
+            ],
+            "id": 12,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='13' style='font-size:14px'><tr><td>Option</td><td>Description</td></tr><tr><td>DEFAULT CAPTION</td><td>Add the caption selected for 8 SAVE DATA SETTING > DEFAULT CAPTION.</td></tr><tr><td>CREATED CAPTION</td><td>Create new captions or select existing captions.</td></tr><tr><td>NO CAPTION</td><td>Do not add captions to pictures during upload.</td></tr></table>",
+                "markdown": "| Option | Description |\n| --- | --- |\n| DEFAULT CAPTION | Add the caption selected for 8 SAVE DATA SETTING > DEFAULT CAPTION. |\n| CREATED CAPTION | Create new captions or select existing captions. |\n| NO CAPTION | Do not add captions to pictures during upload. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0841,
+                    "y": 0.6299
+                },
+                {
+                    "x": 0.891,
+                    "y": 0.6299
+                },
+                {
+                    "x": 0.891,
+                    "y": 0.7624
+                },
+                {
+                    "x": 0.0841,
+                    "y": 0.7624
+                }
+            ],
+            "id": 13,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='14' data-category='paragraph' style='font-size:18px'>TRANSFER/SUSPEND</p>",
+                "markdown": "TRANSFER/SUSPEND",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0965,
+                    "y": 0.7807
+                },
+                {
+                    "x": 0.3551,
+                    "y": 0.7807
+                },
+                {
+                    "x": 0.3551,
+                    "y": 0.8033
+                },
+                {
+                    "x": 0.0965,
+                    "y": 0.8033
+                }
+            ],
+            "id": 14,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='15' style='font-size:16px'><tr><td rowspan=\"2\" colspan=\"2\">Options</td></tr><tr></tr><tr><td>TRANSFER</td><td>SUSPEND</td></tr></table>",
+                "markdown": "| Options | Options |\n| --- | --- |\n| Options | Options |\n| TRANSFER | SUSPEND |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0879,
+                    "y": 0.8492
+                },
+                {
+                    "x": 0.8899,
+                    "y": 0.8492
+                },
+                {
+                    "x": 0.8899,
+                    "y": 0.9034
+                },
+                {
+                    "x": 0.0879,
+                    "y": 0.9034
+                }
+            ],
+            "id": 15,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='16' data-category='paragraph' style='font-size:14px'>Pause or resume FTP upload.</p>",
+                "markdown": "Pause or resume FTP upload.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0822,
+                    "y": 0.8126
+                },
+                {
+                    "x": 0.4508,
+                    "y": 0.8126
+                },
+                {
+                    "x": 0.4508,
+                    "y": 0.8356
+                },
+                {
+                    "x": 0.0822,
+                    "y": 0.8356
+                }
+            ],
+            "id": 16,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='17' style='font-size:18px'>326</footer>",
+                "markdown": "326",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0828,
+                    "y": 0.9563
+                },
+                {
+                    "x": 0.1402,
+                    "y": 0.9563
+                },
+                {
+                    "x": 0.1402,
+                    "y": 0.9791
+                },
+                {
+                    "x": 0.0828,
+                    "y": 0.9791
+                }
+            ],
+            "id": 17,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

@@ -1,0 +1,322 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:22px'>Playback<br>and<br>the<br>Playback<br>Menu</header>\n<br><h1 id='1' style='font-size:16px'>PHOTOBOOK ASSIST</h1>\n<br><h1 id='2' style='font-size:20px'>Create books from your favorite photos.</h1>\n<h1 id='3' style='font-size:20px'>Creating a Photobook</h1>\n<br><p id='4' data-category='paragraph' style='font-size:16px'>1 Select NEW BOOK for □ PLAY BACK MENU > PHOTOBOOK<br>ASSIST.</p>\n<p id='5' data-category='paragraph' style='font-size:18px'>2 Scroll through the images and press the focus stick (focus le-<br>ver) up to select or deselect. Press MENU/OK to exit when the<br>book is complete.</p>\n<p id='6' data-category='list' style='font-size:14px'>Neither photographs 640 or smaller nor movies can be selected<br>for photobooks.<br>● The first picture selected becomes the cover image. Press the fo-<br>cus stick down to select the current image for the cover instead.</p>\n<p id='7' data-category='paragraph' style='font-size:18px'>3 Highlight COMPLETE PHOTOBOOK and press MENU/OK (to se-<br>lect all photos for the book, choose SELECT ALL). The new<br>book will be added to the list in the photobook assist menu.</p>\n<p id='8' data-category='list' style='font-size:14px'>● Books can contain up to 300 pictures.<br>● Books that contain no photos are automatically deleted.</p>\n<header id='9' style='font-size:14px'>7</header>\n<footer id='10' style='font-size:20px'>240</footer>",
+        "markdown": "Playback\nand\nthe\nPlayback\nMenu\n\n# PHOTOBOOK ASSIST\n\n# Create books from your favorite photos.\n\n# Creating a Photobook\n\n1 Select NEW BOOK for □ PLAY BACK MENU > PHOTOBOOK\nASSIST.\n\n2 Scroll through the images and press the focus stick (focus le-\nver) up to select or deselect. Press MENU/OK to exit when the\nbook is complete.\n\n- Neither photographs 640 or smaller nor movies can be selected\n- for photobooks.\n- ● The first picture selected becomes the cover image. Press the fo-\n- cus stick down to select the current image for the cover instead.\n\n\n3 Highlight COMPLETE PHOTOBOOK and press MENU/OK (to se-\nlect all photos for the book, choose SELECT ALL). The new\nbook will be added to the list in the photobook assist menu.\n\n- ● Books can contain up to 300 pictures.\n- ● Books that contain no photos are automatically deleted.\n\n\n7\n\n240",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:22px'>Playback<br>and<br>the<br>Playback<br>Menu</header>",
+                "markdown": "Playback\nand\nthe\nPlayback\nMenu",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.018,
+                    "y": 0.338
+                },
+                {
+                    "x": 0.0414,
+                    "y": 0.338
+                },
+                {
+                    "x": 0.0414,
+                    "y": 0.5813
+                },
+                {
+                    "x": 0.018,
+                    "y": 0.5813
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='1' style='font-size:16px'>PHOTOBOOK ASSIST</h1>",
+                "markdown": "# PHOTOBOOK ASSIST",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0824,
+                    "y": 0.0726
+                },
+                {
+                    "x": 0.3638,
+                    "y": 0.0726
+                },
+                {
+                    "x": 0.3638,
+                    "y": 0.0947
+                },
+                {
+                    "x": 0.0824,
+                    "y": 0.0947
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='2' style='font-size:20px'>Create books from your favorite photos.</h1>",
+                "markdown": "# Create books from your favorite photos.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0818,
+                    "y": 0.105
+                },
+                {
+                    "x": 0.5874,
+                    "y": 0.105
+                },
+                {
+                    "x": 0.5874,
+                    "y": 0.1293
+                },
+                {
+                    "x": 0.0818,
+                    "y": 0.1293
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='3' style='font-size:20px'>Creating a Photobook</h1>",
+                "markdown": "# Creating a Photobook",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0932,
+                    "y": 0.1509
+                },
+                {
+                    "x": 0.3706,
+                    "y": 0.1509
+                },
+                {
+                    "x": 0.3706,
+                    "y": 0.1751
+                },
+                {
+                    "x": 0.0932,
+                    "y": 0.1751
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='4' data-category='paragraph' style='font-size:16px'>1 Select NEW BOOK for □ PLAY BACK MENU > PHOTOBOOK<br>ASSIST.</p>",
+                "markdown": "1 Select NEW BOOK for □ PLAY BACK MENU > PHOTOBOOK\nASSIST.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0949,
+                    "y": 0.1809
+                },
+                {
+                    "x": 0.8947,
+                    "y": 0.1809
+                },
+                {
+                    "x": 0.8947,
+                    "y": 0.2297
+                },
+                {
+                    "x": 0.0949,
+                    "y": 0.2297
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='5' data-category='paragraph' style='font-size:18px'>2 Scroll through the images and press the focus stick (focus le-<br>ver) up to select or deselect. Press MENU/OK to exit when the<br>book is complete.</p>",
+                "markdown": "2 Scroll through the images and press the focus stick (focus le-\nver) up to select or deselect. Press MENU/OK to exit when the\nbook is complete.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0974,
+                    "y": 0.2449
+                },
+                {
+                    "x": 0.8935,
+                    "y": 0.2449
+                },
+                {
+                    "x": 0.8935,
+                    "y": 0.3207
+                },
+                {
+                    "x": 0.0974,
+                    "y": 0.3207
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "list",
+            "content": {
+                "html": "<p id='6' data-category='list' style='font-size:14px'>Neither photographs 640 or smaller nor movies can be selected<br>for photobooks.<br>● The first picture selected becomes the cover image. Press the fo-<br>cus stick down to select the current image for the cover instead.</p>",
+                "markdown": "- Neither photographs 640 or smaller nor movies can be selected\n- for photobooks.\n- ● The first picture selected becomes the cover image. Press the fo-\n- cus stick down to select the current image for the cover instead.\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.162,
+                    "y": 0.3349
+                },
+                {
+                    "x": 0.8866,
+                    "y": 0.3349
+                },
+                {
+                    "x": 0.8866,
+                    "y": 0.4253
+                },
+                {
+                    "x": 0.162,
+                    "y": 0.4253
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='7' data-category='paragraph' style='font-size:18px'>3 Highlight COMPLETE PHOTOBOOK and press MENU/OK (to se-<br>lect all photos for the book, choose SELECT ALL). The new<br>book will be added to the list in the photobook assist menu.</p>",
+                "markdown": "3 Highlight COMPLETE PHOTOBOOK and press MENU/OK (to se-\nlect all photos for the book, choose SELECT ALL). The new\nbook will be added to the list in the photobook assist menu.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1076,
+                    "y": 0.4399
+                },
+                {
+                    "x": 0.8939,
+                    "y": 0.4399
+                },
+                {
+                    "x": 0.8939,
+                    "y": 0.5164
+                },
+                {
+                    "x": 0.1076,
+                    "y": 0.5164
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "list",
+            "content": {
+                "html": "<p id='8' data-category='list' style='font-size:14px'>● Books can contain up to 300 pictures.<br>● Books that contain no photos are automatically deleted.</p>",
+                "markdown": "- ● Books can contain up to 300 pictures.\n- ● Books that contain no photos are automatically deleted.\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0944,
+                    "y": 0.5305
+                },
+                {
+                    "x": 0.7523,
+                    "y": 0.5305
+                },
+                {
+                    "x": 0.7523,
+                    "y": 0.5748
+                },
+                {
+                    "x": 0.0944,
+                    "y": 0.5748
+                }
+            ],
+            "id": 8,
+            "page": 1
+        },
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='9' style='font-size:14px'>7</header>",
+                "markdown": "7",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0258,
+                    "y": 0.5966
+                },
+                {
+                    "x": 0.044,
+                    "y": 0.5966
+                },
+                {
+                    "x": 0.044,
+                    "y": 0.618
+                },
+                {
+                    "x": 0.0258,
+                    "y": 0.618
+                }
+            ],
+            "id": 9,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='10' style='font-size:20px'>240</footer>",
+                "markdown": "240",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0823,
+                    "y": 0.9562
+                },
+                {
+                    "x": 0.1408,
+                    "y": 0.9562
+                },
+                {
+                    "x": 0.1408,
+                    "y": 0.9794
+                },
+                {
+                    "x": 0.0823,
+                    "y": 0.9794
+                }
+            ],
+            "id": 10,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

@@ -1,0 +1,124 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "# D Range Priority\n\nReduce loss of detail in highlights and shadows for natural-looking results when photographing high-contrast scenes.\n\n| Option  | Description                                                                 |\n|---------|-----------------------------------------------------------------------------|\n| AUTO    | Contrast is adjusted automatically in response to lighting conditions.      |\n| STRONG  | Adjust dynamic range by a large amount for very high-contrast scenes.       |\n| WEAK    | Adjust dynamic range by a smaller amount for moderately high-contrast scenes.|\n| OFF     | Contrast reduction off.                                                     |\n\n- **WEAK** is available at sensitivities from ISO 320 to ISO 12800, **STRONG** at sensitivities from ISO 640 to 12800.\n- When an option other than **OFF** is selected, **HIGHLIGHT TONE**, **SHADOW TONE**, and **DYNAMIC RANGE** will be adjusted automatically; if you wish to adjust these settings manually, choose **OFF**.\n\n# Tone Curve\n\nWith reference to a tone curve, use the focus stick (focus lever) to adjust the appearance of highlights or shadows, making them harsher or softer. Choose higher values to make shadows and highlights harsher, lower values to make them softer.\n\n!Tone Curve\n\n| Options |\n|---------|\n| -2      |\n| -1      |\n| 0       |\n| +1      |\n| +2      |\n| +3      |\n| +4      |",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "D Range Priority",
+                    "md": "# D Range Priority"
+                },
+                {
+                    "type": "text",
+                    "value": "Reduce loss of detail in highlights and shadows for natural-looking results when photographing high-contrast scenes.",
+                    "md": "Reduce loss of detail in highlights and shadows for natural-looking results when photographing high-contrast scenes."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Option",
+                            "Description"
+                        ],
+                        [
+                            "AUTO",
+                            "Contrast is adjusted automatically in response to lighting conditions."
+                        ],
+                        [
+                            "STRONG",
+                            "Adjust dynamic range by a large amount for very high-contrast scenes."
+                        ],
+                        [
+                            "WEAK",
+                            "Adjust dynamic range by a smaller amount for moderately high-contrast scenes."
+                        ],
+                        [
+                            "OFF",
+                            "Contrast reduction off."
+                        ]
+                    ],
+                    "md": "| Option  | Description                                                                 |\n|---------|-----------------------------------------------------------------------------|\n| AUTO    | Contrast is adjusted automatically in response to lighting conditions.      |\n| STRONG  | Adjust dynamic range by a large amount for very high-contrast scenes.       |\n| WEAK    | Adjust dynamic range by a smaller amount for moderately high-contrast scenes.|\n| OFF     | Contrast reduction off.                                                     |",
+                    "isPerfectTable": true,
+                    "csv": "\"Option\",\"Description\"\n\"AUTO\",\"Contrast is adjusted automatically in response to lighting conditions.\"\n\"STRONG\",\"Adjust dynamic range by a large amount for very high-contrast scenes.\"\n\"WEAK\",\"Adjust dynamic range by a smaller amount for moderately high-contrast scenes.\"\n\"OFF\",\"Contrast reduction off.\""
+                },
+                {
+                    "type": "text",
+                    "value": "- **WEAK** is available at sensitivities from ISO 320 to ISO 12800, **STRONG** at sensitivities from ISO 640 to 12800.\n- When an option other than **OFF** is selected, **HIGHLIGHT TONE**, **SHADOW TONE**, and **DYNAMIC RANGE** will be adjusted automatically; if you wish to adjust these settings manually, choose **OFF**.",
+                    "md": "- **WEAK** is available at sensitivities from ISO 320 to ISO 12800, **STRONG** at sensitivities from ISO 640 to 12800.\n- When an option other than **OFF** is selected, **HIGHLIGHT TONE**, **SHADOW TONE**, and **DYNAMIC RANGE** will be adjusted automatically; if you wish to adjust these settings manually, choose **OFF**."
+                },
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "Tone Curve",
+                    "md": "# Tone Curve"
+                },
+                {
+                    "type": "text",
+                    "value": "With reference to a tone curve, use the focus stick (focus lever) to adjust the appearance of highlights or shadows, making them harsher or softer. Choose higher values to make shadows and highlights harsher, lower values to make them softer.\n\n!Tone Curve",
+                    "md": "With reference to a tone curve, use the focus stick (focus lever) to adjust the appearance of highlights or shadows, making them harsher or softer. Choose higher values to make shadows and highlights harsher, lower values to make them softer.\n\n!Tone Curve"
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Options"
+                        ],
+                        [
+                            "-2"
+                        ],
+                        [
+                            "-1"
+                        ],
+                        [
+                            "0"
+                        ],
+                        [
+                            "+1"
+                        ],
+                        [
+                            "+2"
+                        ],
+                        [
+                            "+3"
+                        ],
+                        [
+                            "+4"
+                        ]
+                    ],
+                    "md": "| Options |\n|---------|\n| -2      |\n| -1      |\n| 0       |\n| +1      |\n| +2      |\n| +3      |\n| +4      |",
+                    "isPerfectTable": true,
+                    "csv": "\"Options\"\n\"-2\"\n\"-1\"\n\"0\"\n\"+1\"\n\"+2\"\n\"+3\"\n\"+4\""
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 829.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "13829ba9-688c-4920-aee6-e209dcfd8039",
+    "file_path": "../data/raw_data/x100v/x100v_split/x100v_page134.pdf"
+}

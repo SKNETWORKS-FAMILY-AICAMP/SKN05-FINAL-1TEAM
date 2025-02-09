@@ -1,0 +1,350 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<h1 id='0' style='font-size:16px'>AE/AF-LOCK MODE</h1>\n\n<br><table id='2' style='font-size:14px'><tr><td>Option</td><td>Description</td></tr><tr><td>AE&AF ON WHEN PRESSING</td><td>Exposure and/or focus will lock while the button is pressed.</td></tr><tr><td>AE&AF ON/OFF SWITCH</td><td>Exposure and/or focus will lock when the button is pressed and re- main locked until it is pressed again.</td></tr><br><caption id='1' style='font-size:20px'>This option determines the behavior of the button to which<br>exposure and/or focus lock is assigned.</caption></table>\n<p id='3' data-category='paragraph' style='font-size:16px'>AWB-LOCK MODE</p>\n\n<table id='5' style='font-size:14px'><tr><td>Option</td><td>Description</td></tr><tr><td>AWB ON WHEN PRESSING</td><td>Auto white balance locks while the button is pressed.</td></tr><tr><td>AWB ON/OFF SWITCH</td><td>Press the button once to lock auto white balance and again to end the lock.</td></tr><br><caption id='4' style='font-size:16px'>Choose the behavior of function buttons assigned auto white<br>balance (AWB) lock. Auto white balance lock is used to lock white<br>balance at the value metered by the camera when AUTO is se-<br>lected for white balance.</caption></table>\n<p id='6' data-category='paragraph' style='font-size:18px'>APERTURE RING SETTING (A)</p>\n<br><header id='7' style='font-size:22px'>The<br>Setup<br>Menus</header>\n\n<br><header id='9' style='font-size:14px'>8</header>\n<br><table id='10' style='font-size:16px'><tr><td>Option</td><td>Description</td></tr><tr><td>AUTO</td><td>The camera adjusts aperture automatically.</td></tr><tr><td>COMMAND</td><td>Aperture can be adjusted using the front command dial.</td></tr><br><caption id='8' style='font-size:16px'>Choose whether the front command dial can be used to adjust<br>aperture when aperture is set to A (auto).</caption></table>\n<footer id='11' style='font-size:20px'>228</footer>",
+        "markdown": "# AE/AF-LOCK MODE\n\nThis option determines the behavior of the button to which\nexposure and/or focus lock is assigned.\n\n| Option | Description |\n| --- | --- |\n| AE&AF ON WHEN PRESSING | Exposure and/or focus will lock while the button is pressed. |\n| AE&AF ON/OFF SWITCH | Exposure and/or focus will lock when the button is pressed and re- main locked until it is pressed again. |\n\n\nAWB-LOCK MODE\n\nChoose the behavior of function buttons assigned auto white\nbalance (AWB) lock. Auto white balance lock is used to lock white\nbalance at the value metered by the camera when AUTO is se-\nlected for white balance.\n\n| Option | Description |\n| --- | --- |\n| AWB ON WHEN PRESSING | Auto white balance locks while the button is pressed. |\n| AWB ON/OFF SWITCH | Press the button once to lock auto white balance and again to end the lock. |\n\n\nAPERTURE RING SETTING (A)\n\nThe\nSetup\nMenus\n\nChoose whether the front command dial can be used to adjust\naperture when aperture is set to A (auto).\n\n8\n\n| Option | Description |\n| --- | --- |\n| AUTO | The camera adjusts aperture automatically. |\n| COMMAND | Aperture can be adjusted using the front command dial. |\n\n\n228",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='0' style='font-size:16px'>AE/AF-LOCK MODE</h1>",
+                "markdown": "# AE/AF-LOCK MODE",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0813,
+                    "y": 0.0722
+                },
+                {
+                    "x": 0.3457,
+                    "y": 0.0722
+                },
+                {
+                    "x": 0.3457,
+                    "y": 0.0956
+                },
+                {
+                    "x": 0.0813,
+                    "y": 0.0956
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='1' data-category='paragraph' style='font-size:20px'>This option determines the behavior of the button to which<br>exposure and/or focus lock is assigned.</p>",
+                "markdown": "This option determines the behavior of the button to which\nexposure and/or focus lock is assigned.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0806,
+                    "y": 0.1039
+                },
+                {
+                    "x": 0.8917,
+                    "y": 0.1039
+                },
+                {
+                    "x": 0.8917,
+                    "y": 0.1553
+                },
+                {
+                    "x": 0.0806,
+                    "y": 0.1553
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='2' style='font-size:14px'><tr><td>Option</td><td>Description</td></tr><tr><td>AE&AF ON WHEN PRESSING</td><td>Exposure and/or focus will lock while the button is pressed.</td></tr><tr><td>AE&AF ON/OFF SWITCH</td><td>Exposure and/or focus will lock when the button is pressed and re- main locked until it is pressed again.</td></tr></table>",
+                "markdown": "| Option | Description |\n| --- | --- |\n| AE&AF ON WHEN PRESSING | Exposure and/or focus will lock while the button is pressed. |\n| AE&AF ON/OFF SWITCH | Exposure and/or focus will lock when the button is pressed and re- main locked until it is pressed again. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0843,
+                    "y": 0.1671
+                },
+                {
+                    "x": 0.892,
+                    "y": 0.1671
+                },
+                {
+                    "x": 0.892,
+                    "y": 0.2867
+                },
+                {
+                    "x": 0.0843,
+                    "y": 0.2867
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='3' data-category='paragraph' style='font-size:16px'>AWB-LOCK MODE</p>",
+                "markdown": "AWB-LOCK MODE",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0808,
+                    "y": 0.3051
+                },
+                {
+                    "x": 0.3249,
+                    "y": 0.3051
+                },
+                {
+                    "x": 0.3249,
+                    "y": 0.326
+                },
+                {
+                    "x": 0.0808,
+                    "y": 0.326
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='4' data-category='paragraph' style='font-size:16px'>Choose the behavior of function buttons assigned auto white<br>balance (AWB) lock. Auto white balance lock is used to lock white<br>balance at the value metered by the camera when AUTO is se-<br>lected for white balance.</p>",
+                "markdown": "Choose the behavior of function buttons assigned auto white\nbalance (AWB) lock. Auto white balance lock is used to lock white\nbalance at the value metered by the camera when AUTO is se-\nlected for white balance.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0816,
+                    "y": 0.3365
+                },
+                {
+                    "x": 0.8946,
+                    "y": 0.3365
+                },
+                {
+                    "x": 0.8946,
+                    "y": 0.4355
+                },
+                {
+                    "x": 0.0816,
+                    "y": 0.4355
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='5' style='font-size:14px'><tr><td>Option</td><td>Description</td></tr><tr><td>AWB ON WHEN PRESSING</td><td>Auto white balance locks while the button is pressed.</td></tr><tr><td>AWB ON/OFF SWITCH</td><td>Press the button once to lock auto white balance and again to end the lock.</td></tr></table>",
+                "markdown": "| Option | Description |\n| --- | --- |\n| AWB ON WHEN PRESSING | Auto white balance locks while the button is pressed. |\n| AWB ON/OFF SWITCH | Press the button once to lock auto white balance and again to end the lock. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0848,
+                    "y": 0.4495
+                },
+                {
+                    "x": 0.8928,
+                    "y": 0.4495
+                },
+                {
+                    "x": 0.8928,
+                    "y": 0.5689
+                },
+                {
+                    "x": 0.0848,
+                    "y": 0.5689
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='6' data-category='paragraph' style='font-size:18px'>APERTURE RING SETTING (A)</p>",
+                "markdown": "APERTURE RING SETTING (A)",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.081,
+                    "y": 0.5873
+                },
+                {
+                    "x": 0.4695,
+                    "y": 0.5873
+                },
+                {
+                    "x": 0.4695,
+                    "y": 0.6112
+                },
+                {
+                    "x": 0.081,
+                    "y": 0.6112
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "header",
+            "content": {
+                "html": "<br><header id='7' style='font-size:22px'>The<br>Setup<br>Menus</header>",
+                "markdown": "The\nSetup\nMenus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.018,
+                    "y": 0.508
+                },
+                {
+                    "x": 0.0402,
+                    "y": 0.508
+                },
+                {
+                    "x": 0.0402,
+                    "y": 0.637
+                },
+                {
+                    "x": 0.018,
+                    "y": 0.637
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='8' data-category='paragraph' style='font-size:16px'>Choose whether the front command dial can be used to adjust<br>aperture when aperture is set to A (auto).</p>",
+                "markdown": "Choose whether the front command dial can be used to adjust\naperture when aperture is set to A (auto).",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0806,
+                    "y": 0.6183
+                },
+                {
+                    "x": 0.8917,
+                    "y": 0.6183
+                },
+                {
+                    "x": 0.8917,
+                    "y": 0.6703
+                },
+                {
+                    "x": 0.0806,
+                    "y": 0.6703
+                }
+            ],
+            "id": 8,
+            "page": 1
+        },
+        {
+            "category": "header",
+            "content": {
+                "html": "<br><header id='9' style='font-size:14px'>8</header>",
+                "markdown": "8",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0258,
+                    "y": 0.6567
+                },
+                {
+                    "x": 0.0443,
+                    "y": 0.6567
+                },
+                {
+                    "x": 0.0443,
+                    "y": 0.6779
+                },
+                {
+                    "x": 0.0258,
+                    "y": 0.6779
+                }
+            ],
+            "id": 9,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='10' style='font-size:16px'><tr><td>Option</td><td>Description</td></tr><tr><td>AUTO</td><td>The camera adjusts aperture automatically.</td></tr><tr><td>COMMAND</td><td>Aperture can be adjusted using the front command dial.</td></tr></table>",
+                "markdown": "| Option | Description |\n| --- | --- |\n| AUTO | The camera adjusts aperture automatically. |\n| COMMAND | Aperture can be adjusted using the front command dial. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0839,
+                    "y": 0.6821
+                },
+                {
+                    "x": 0.8885,
+                    "y": 0.6821
+                },
+                {
+                    "x": 0.8885,
+                    "y": 0.7563
+                },
+                {
+                    "x": 0.0839,
+                    "y": 0.7563
+                }
+            ],
+            "id": 10,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='11' style='font-size:20px'>228</footer>",
+                "markdown": "228",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0827,
+                    "y": 0.9561
+                },
+                {
+                    "x": 0.1402,
+                    "y": 0.9561
+                },
+                {
+                    "x": 0.1402,
+                    "y": 0.9793
+                },
+                {
+                    "x": 0.0827,
+                    "y": 0.9793
+                }
+            ],
+            "id": 11,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

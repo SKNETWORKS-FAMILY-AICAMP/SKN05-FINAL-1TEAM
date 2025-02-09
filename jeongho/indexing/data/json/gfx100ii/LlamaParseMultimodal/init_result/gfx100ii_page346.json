@@ -1,0 +1,88 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "\n# SELECT CONNECTION SETTING\n\nSelect a connection setting profile.\n\n| Profile                        | Description                                                                                                                                   |\n|-------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|\n| **1: UNIVERSAL SETTING**      | Connect using the smartphone app or print pictures on instax printers.                                                                        |\n| **2: USB CARD READER**        | Connect a card reader to a computer or smartphone via USB and copy pictures from memory cards.                                                 |\n| **3: USB TETHER SHOOTING AUTO** | Control the camera and take photographs remotely. <br> • Select **3: USB TETHER SHOOTING AUTO** to automatically enable tethered photography when the computer to which the camera is connected is turned on. Tethered photography is disabled while the computer is off. |\n| **4: USB TETHER SHOOTING FIXED** | If **4: USB TETHER SHOOTING FIXED** is selected, the camera will continue to function in tethered photography mode even when not connected to a computer. |\n| **5: USB RAW CONV./ BACKUP RESTORE** | Harness the power of the camera’s image processing engine when processing RAW pictures on a computer, or save or load camera settings. |\n| **6: USB WEBCAM**             | Connect the camera to a computer via USB for use as a webcam.                                                                                 |\n| **7–16: User-created profiles** | Use network/USB settings saved using CREATE/EDIT CONNECTION SETTING.                                                                         |\n",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "SELECT CONNECTION SETTING",
+                    "md": "# SELECT CONNECTION SETTING"
+                },
+                {
+                    "type": "text",
+                    "value": "Select a connection setting profile.",
+                    "md": "Select a connection setting profile."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Profile",
+                            "Description"
+                        ],
+                        [
+                            "**1: UNIVERSAL SETTING**",
+                            "Connect using the smartphone app or print pictures on instax printers."
+                        ],
+                        [
+                            "**2: USB CARD READER**",
+                            "Connect a card reader to a computer or smartphone via USB and copy pictures from memory cards."
+                        ],
+                        [
+                            "**3: USB TETHER SHOOTING AUTO**",
+                            "Control the camera and take photographs remotely. <br> • Select **3: USB TETHER SHOOTING AUTO** to automatically enable tethered photography when the computer to which the camera is connected is turned on. Tethered photography is disabled while the computer is off."
+                        ],
+                        [
+                            "**4: USB TETHER SHOOTING FIXED**",
+                            "If **4: USB TETHER SHOOTING FIXED** is selected, the camera will continue to function in tethered photography mode even when not connected to a computer."
+                        ],
+                        [
+                            "**5: USB RAW CONV./ BACKUP RESTORE**",
+                            "Harness the power of the camera’s image processing engine when processing RAW pictures on a computer, or save or load camera settings."
+                        ],
+                        [
+                            "**6: USB WEBCAM**",
+                            "Connect the camera to a computer via USB for use as a webcam."
+                        ],
+                        [
+                            "**7–16: User-created profiles**",
+                            "Use network/USB settings saved using CREATE/EDIT CONNECTION SETTING."
+                        ]
+                    ],
+                    "md": "| Profile                        | Description                                                                                                                                   |\n|-------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|\n| **1: UNIVERSAL SETTING**      | Connect using the smartphone app or print pictures on instax printers.                                                                        |\n| **2: USB CARD READER**        | Connect a card reader to a computer or smartphone via USB and copy pictures from memory cards.                                                 |\n| **3: USB TETHER SHOOTING AUTO** | Control the camera and take photographs remotely. <br> • Select **3: USB TETHER SHOOTING AUTO** to automatically enable tethered photography when the computer to which the camera is connected is turned on. Tethered photography is disabled while the computer is off. |\n| **4: USB TETHER SHOOTING FIXED** | If **4: USB TETHER SHOOTING FIXED** is selected, the camera will continue to function in tethered photography mode even when not connected to a computer. |\n| **5: USB RAW CONV./ BACKUP RESTORE** | Harness the power of the camera’s image processing engine when processing RAW pictures on a computer, or save or load camera settings. |\n| **6: USB WEBCAM**             | Connect the camera to a computer via USB for use as a webcam.                                                                                 |\n| **7–16: User-created profiles** | Use network/USB settings saved using CREATE/EDIT CONNECTION SETTING.                                                                         |",
+                    "isPerfectTable": true,
+                    "csv": "\"Profile\",\"Description\"\n\"**1: UNIVERSAL SETTING**\",\"Connect using the smartphone app or print pictures on instax printers.\"\n\"**2: USB CARD READER**\",\"Connect a card reader to a computer or smartphone via USB and copy pictures from memory cards.\"\n\"**3: USB TETHER SHOOTING AUTO**\",\"Control the camera and take photographs remotely. <br> • Select **3: USB TETHER SHOOTING AUTO** to automatically enable tethered photography when the computer to which the camera is connected is turned on. Tethered photography is disabled while the computer is off.\"\n\"**4: USB TETHER SHOOTING FIXED**\",\"If **4: USB TETHER SHOOTING FIXED** is selected, the camera will continue to function in tethered photography mode even when not connected to a computer.\"\n\"**5: USB RAW CONV./ BACKUP RESTORE**\",\"Harness the power of the camera’s image processing engine when processing RAW pictures on a computer, or save or load camera settings.\"\n\"**6: USB WEBCAM**\",\"Connect the camera to a computer via USB for use as a webcam.\"\n\"**7–16: User-created profiles**\",\"Use network/USB settings saved using CREATE/EDIT CONNECTION SETTING.\""
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 421.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "720e5e71-6682-457a-8550-eb620f07de09",
+    "file_path": "../data/raw_data/gfx100ii/gfx100ii_split/gfx100ii_page346.pdf"
+}

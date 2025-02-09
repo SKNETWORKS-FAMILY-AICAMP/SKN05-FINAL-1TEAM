@@ -1,0 +1,154 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:16px'>Troubleshooting</header>\n<h1 id='1' style='font-size:20px'>Playback</h1>\n<br><table id='2' style='font-size:14px'><tr><td>Problem</td><td>Solution</td></tr><tr><td>Pictures are grainy.</td><td>The pictures were taken with a different make or model of camera.</td></tr><tr><td>Playback zoom is unavailable.</td><td>The pictures were created using RESIZE or with a different make or model of camera.</td></tr><tr><td>No sound in movie playback.</td><td>Playback volume is too low: Adjust playback volume (□ 206). ● The microphone was obstructed: Hold the camera correctly during recording. ● The speaker is obstructed: Hold the camera correctly during playback.</td></tr><tr><td>Selected pictures are not deleted.</td><td rowspan=\"2\">Some of the pictures selected for deletion are protected. Remove protection using the device with which it was originally applied (  186).</td></tr><tr><td>Pictures remain after ERASE > ALL FRAMES is selected.</td></tr><tr><td>File numbering is unexpectedly reset.</td><td>The battery-chamber cover was opened while the cam- era was on. Turn the camera off before opening the bat- tery-chamber cover ( ≡ 233).</td></tr></table>\n<footer id='3' style='font-size:22px'>Technical<br>Notes<br>12</footer>\n<footer id='4' style='font-size:18px'>309</footer>",
+        "markdown": "Troubleshooting\n\n# Playback\n\n| Problem | Solution |\n| --- | --- |\n| Pictures are grainy. | The pictures were taken with a different make or model of camera. |\n| Playback zoom is unavailable. | The pictures were created using RESIZE or with a different make or model of camera. |\n| No sound in movie playback. | Playback volume is too low: Adjust playback volume (□ 206). ● The microphone was obstructed: Hold the camera correctly during recording. ● The speaker is obstructed: Hold the camera correctly during playback. |\n| Selected pictures are not deleted. | Some of the pictures selected for deletion are protected. Remove protection using the device with which it was originally applied (  186). |\n| Pictures remain after ERASE > ALL FRAMES is selected. | Some of the pictures selected for deletion are protected. Remove protection using the device with which it was originally applied (  186). |\n| File numbering is unexpectedly reset. | The battery-chamber cover was opened while the cam- era was on. Turn the camera off before opening the bat- tery-chamber cover ( ≡ 233). |\n\n\nTechnical\nNotes\n12\n\n309",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:16px'>Troubleshooting</header>",
+                "markdown": "Troubleshooting",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.7509,
+                    "y": 0.0289
+                },
+                {
+                    "x": 0.9185,
+                    "y": 0.0289
+                },
+                {
+                    "x": 0.9185,
+                    "y": 0.0511
+                },
+                {
+                    "x": 0.7509,
+                    "y": 0.0511
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='1' style='font-size:20px'>Playback</h1>",
+                "markdown": "# Playback",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1447,
+                    "y": 0.0715
+                },
+                {
+                    "x": 0.2648,
+                    "y": 0.0715
+                },
+                {
+                    "x": 0.2648,
+                    "y": 0.0958
+                },
+                {
+                    "x": 0.1447,
+                    "y": 0.0958
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='2' style='font-size:14px'><tr><td>Problem</td><td>Solution</td></tr><tr><td>Pictures are grainy.</td><td>The pictures were taken with a different make or model of camera.</td></tr><tr><td>Playback zoom is unavailable.</td><td>The pictures were created using RESIZE or with a different make or model of camera.</td></tr><tr><td>No sound in movie playback.</td><td>Playback volume is too low: Adjust playback volume (□ 206). ● The microphone was obstructed: Hold the camera correctly during recording. ● The speaker is obstructed: Hold the camera correctly during playback.</td></tr><tr><td>Selected pictures are not deleted.</td><td rowspan=\"2\">Some of the pictures selected for deletion are protected. Remove protection using the device with which it was originally applied (  186).</td></tr><tr><td>Pictures remain after ERASE > ALL FRAMES is selected.</td></tr><tr><td>File numbering is unexpectedly reset.</td><td>The battery-chamber cover was opened while the cam- era was on. Turn the camera off before opening the bat- tery-chamber cover ( ≡ 233).</td></tr></table>",
+                "markdown": "| Problem | Solution |\n| --- | --- |\n| Pictures are grainy. | The pictures were taken with a different make or model of camera. |\n| Playback zoom is unavailable. | The pictures were created using RESIZE or with a different make or model of camera. |\n| No sound in movie playback. | Playback volume is too low: Adjust playback volume (□ 206). ● The microphone was obstructed: Hold the camera correctly during recording. ● The speaker is obstructed: Hold the camera correctly during playback. |\n| Selected pictures are not deleted. | Some of the pictures selected for deletion are protected. Remove protection using the device with which it was originally applied (  186). |\n| Pictures remain after ERASE > ALL FRAMES is selected. | Some of the pictures selected for deletion are protected. Remove protection using the device with which it was originally applied (  186). |\n| File numbering is unexpectedly reset. | The battery-chamber cover was opened while the cam- era was on. Turn the camera off before opening the bat- tery-chamber cover ( ≡ 233). |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1049,
+                    "y": 0.0977
+                },
+                {
+                    "x": 0.9212,
+                    "y": 0.0977
+                },
+                {
+                    "x": 0.9212,
+                    "y": 0.5485
+                },
+                {
+                    "x": 0.1049,
+                    "y": 0.5485
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='3' style='font-size:22px'>Technical<br>Notes<br>12</footer>",
+                "markdown": "Technical\nNotes\n12",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9574,
+                    "y": 0.7597
+                },
+                {
+                    "x": 0.9854,
+                    "y": 0.7597
+                },
+                {
+                    "x": 0.9854,
+                    "y": 0.9147
+                },
+                {
+                    "x": 0.9574,
+                    "y": 0.9147
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='4' style='font-size:18px'>309</footer>",
+                "markdown": "309",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.8613,
+                    "y": 0.957
+                },
+                {
+                    "x": 0.9168,
+                    "y": 0.957
+                },
+                {
+                    "x": 0.9168,
+                    "y": 0.9785
+                },
+                {
+                    "x": 0.8613,
+                    "y": 0.9785
+                }
+            ],
+            "id": 4,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

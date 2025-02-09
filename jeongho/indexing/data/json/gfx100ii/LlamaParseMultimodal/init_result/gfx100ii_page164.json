@@ -1,0 +1,116 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "# WHITE BALANCE\n\nFor natural colors, choose a white balance option that matches the light source.\n\n| Option                     | Description                                                                 |\n|----------------------------|-----------------------------------------------------------------------------|\n| !Auto White Priority AUTO WHITE PRIORITY | White balance is adjusted automatically. Choose for whiter whites in scenes lit by incandescent bulbs. |\n| !Auto AUTO | White balance is adjusted automatically.                                      |\n| !Auto Ambience Priority AUTO AMBIENCE PRIORITY | White balance is adjusted automatically. Choose for warmer whites in scenes lit by incandescent bulbs. |\n| !Custom 1 CUSTOM 1 | Measure a value for white balance.                                      |\n| !Custom 2 CUSTOM 2 | Measure a value for white balance.                                      |\n| !Custom 3 CUSTOM 3 | Measure a value for white balance.                                      |\n| !Color Temperature COLOR TEMPERATURE | Choose a color temperature.                                              |\n| !Daylight DAYLIGHT | For subjects in direct sunlight.                                         |\n| !Shade SHADE | For subjects in the shade.                                                |\n| !Fluorescent Light-1 FLUORESCENT LIGHT-1 | Use under \"daylight\" fluorescent lights.                                 |\n| !Fluorescent Light-2 FLUORESCENT LIGHT-2 | Use under \"warm white\" fluorescent lights.                               |\n| !Fluorescent Light-3 FLUORESCENT LIGHT-3 | Use under \"cool white\" fluorescent lights.                               |\n| !Incandescent INCANDESCENT | Use under incandescent lighting.                                        |\n| !Underwater UNDERWATER | Reduces the blue cast typically associated with underwater lighting.     |",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "WHITE BALANCE",
+                    "md": "# WHITE BALANCE"
+                },
+                {
+                    "type": "text",
+                    "value": "For natural colors, choose a white balance option that matches the light source.",
+                    "md": "For natural colors, choose a white balance option that matches the light source."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Option",
+                            "Description"
+                        ],
+                        [
+                            "!Auto White Priority AUTO WHITE PRIORITY",
+                            "White balance is adjusted automatically. Choose for whiter whites in scenes lit by incandescent bulbs."
+                        ],
+                        [
+                            "!Auto AUTO",
+                            "White balance is adjusted automatically."
+                        ],
+                        [
+                            "!Auto Ambience Priority AUTO AMBIENCE PRIORITY",
+                            "White balance is adjusted automatically. Choose for warmer whites in scenes lit by incandescent bulbs."
+                        ],
+                        [
+                            "!Custom 1 CUSTOM 1",
+                            "Measure a value for white balance."
+                        ],
+                        [
+                            "!Custom 2 CUSTOM 2",
+                            "Measure a value for white balance."
+                        ],
+                        [
+                            "!Custom 3 CUSTOM 3",
+                            "Measure a value for white balance."
+                        ],
+                        [
+                            "!Color Temperature COLOR TEMPERATURE",
+                            "Choose a color temperature."
+                        ],
+                        [
+                            "!Daylight DAYLIGHT",
+                            "For subjects in direct sunlight."
+                        ],
+                        [
+                            "!Shade SHADE",
+                            "For subjects in the shade."
+                        ],
+                        [
+                            "!Fluorescent Light-1 FLUORESCENT LIGHT-1",
+                            "Use under \"daylight\" fluorescent lights."
+                        ],
+                        [
+                            "!Fluorescent Light-2 FLUORESCENT LIGHT-2",
+                            "Use under \"warm white\" fluorescent lights."
+                        ],
+                        [
+                            "!Fluorescent Light-3 FLUORESCENT LIGHT-3",
+                            "Use under \"cool white\" fluorescent lights."
+                        ],
+                        [
+                            "!Incandescent INCANDESCENT",
+                            "Use under incandescent lighting."
+                        ],
+                        [
+                            "!Underwater UNDERWATER",
+                            "Reduces the blue cast typically associated with underwater lighting."
+                        ]
+                    ],
+                    "md": "| Option                     | Description                                                                 |\n|----------------------------|-----------------------------------------------------------------------------|\n| !Auto White Priority AUTO WHITE PRIORITY | White balance is adjusted automatically. Choose for whiter whites in scenes lit by incandescent bulbs. |\n| !Auto AUTO | White balance is adjusted automatically.                                      |\n| !Auto Ambience Priority AUTO AMBIENCE PRIORITY | White balance is adjusted automatically. Choose for warmer whites in scenes lit by incandescent bulbs. |\n| !Custom 1 CUSTOM 1 | Measure a value for white balance.                                      |\n| !Custom 2 CUSTOM 2 | Measure a value for white balance.                                      |\n| !Custom 3 CUSTOM 3 | Measure a value for white balance.                                      |\n| !Color Temperature COLOR TEMPERATURE | Choose a color temperature.                                              |\n| !Daylight DAYLIGHT | For subjects in direct sunlight.                                         |\n| !Shade SHADE | For subjects in the shade.                                                |\n| !Fluorescent Light-1 FLUORESCENT LIGHT-1 | Use under \"daylight\" fluorescent lights.                                 |\n| !Fluorescent Light-2 FLUORESCENT LIGHT-2 | Use under \"warm white\" fluorescent lights.                               |\n| !Fluorescent Light-3 FLUORESCENT LIGHT-3 | Use under \"cool white\" fluorescent lights.                               |\n| !Incandescent INCANDESCENT | Use under incandescent lighting.                                        |\n| !Underwater UNDERWATER | Reduces the blue cast typically associated with underwater lighting.     |",
+                    "isPerfectTable": true,
+                    "csv": "\"Option\",\"Description\"\n\"!Auto White Priority AUTO WHITE PRIORITY\",\"White balance is adjusted automatically. Choose for whiter whites in scenes lit by incandescent bulbs.\"\n\"!Auto AUTO\",\"White balance is adjusted automatically.\"\n\"!Auto Ambience Priority AUTO AMBIENCE PRIORITY\",\"White balance is adjusted automatically. Choose for warmer whites in scenes lit by incandescent bulbs.\"\n\"!Custom 1 CUSTOM 1\",\"Measure a value for white balance.\"\n\"!Custom 2 CUSTOM 2\",\"Measure a value for white balance.\"\n\"!Custom 3 CUSTOM 3\",\"Measure a value for white balance.\"\n\"!Color Temperature COLOR TEMPERATURE\",\"Choose a color temperature.\"\n\"!Daylight DAYLIGHT\",\"For subjects in direct sunlight.\"\n\"!Shade SHADE\",\"For subjects in the shade.\"\n\"!Fluorescent Light-1 FLUORESCENT LIGHT-1\",\"Use under \"\"daylight\"\" fluorescent lights.\"\n\"!Fluorescent Light-2 FLUORESCENT LIGHT-2\",\"Use under \"\"warm white\"\" fluorescent lights.\"\n\"!Fluorescent Light-3 FLUORESCENT LIGHT-3\",\"Use under \"\"cool white\"\" fluorescent lights.\"\n\"!Incandescent INCANDESCENT\",\"Use under incandescent lighting.\"\n\"!Underwater UNDERWATER\",\"Reduces the blue cast typically associated with underwater lighting.\""
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 181.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "0261db9b-d7bf-4bd6-a0dd-aa9a41eac958",
+    "file_path": "../data/raw_data/gfx100ii/gfx100ii_split/gfx100ii_page164.pdf"
+}

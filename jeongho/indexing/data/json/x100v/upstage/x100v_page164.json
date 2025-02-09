@@ -1,0 +1,238 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:22px'>The<br>Shooting<br>Menus</header>\n<br><h1 id='1' style='font-size:14px'>FOCUS CHECK</h1>\n\n<br><table id='3' style='font-size:16px'><tr><td colspan=\"2\">Options</td></tr><tr><td>ON</td><td>OFF</td></tr><br><caption id='2' style='font-size:18px'>If ON is selected, the display will automatically zoom in on the<br>selected focus area when the focus ring is rotated in manual fo-<br>cus mode.</caption></table>\n<br><h1 id='4' style='font-size:14px'>HDMI OUTPUT INFO DISPLAY</h1>\n\n<br><table id='6' style='font-size:14px'><tr><td colspan=\"2\">Options</td></tr><tr><td>ON</td><td>OFF</td></tr><br><caption id='5' style='font-size:18px'>If ON is selected, HDMI devices to which the camera is connected<br>will mirror the information in the camera display.</caption></table>\n<footer id='7' style='font-size:20px'>164</footer>",
+        "markdown": "The\nShooting\nMenus\n\n# FOCUS CHECK\n\nIf ON is selected, the display will automatically zoom in on the\nselected focus area when the focus ring is rotated in manual fo-\ncus mode.\n\n| Options | Options |\n| --- | --- |\n| ON | OFF |\n\n\n# HDMI OUTPUT INFO DISPLAY\n\nIf ON is selected, HDMI devices to which the camera is connected\nwill mirror the information in the camera display.\n\n| Options | Options |\n| --- | --- |\n| ON | OFF |\n\n\n164",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:22px'>The<br>Shooting<br>Menus</header>",
+                "markdown": "The\nShooting\nMenus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0163,
+                    "y": 0.5787
+                },
+                {
+                    "x": 0.0429,
+                    "y": 0.5787
+                },
+                {
+                    "x": 0.0429,
+                    "y": 0.7309
+                },
+                {
+                    "x": 0.0163,
+                    "y": 0.7309
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='1' style='font-size:14px'>FOCUS CHECK</h1>",
+                "markdown": "# FOCUS CHECK",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0825,
+                    "y": 0.0722
+                },
+                {
+                    "x": 0.3209,
+                    "y": 0.0722
+                },
+                {
+                    "x": 0.3209,
+                    "y": 0.0959
+                },
+                {
+                    "x": 0.0825,
+                    "y": 0.0959
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='2' data-category='paragraph' style='font-size:18px'>If ON is selected, the display will automatically zoom in on the<br>selected focus area when the focus ring is rotated in manual fo-<br>cus mode.</p>",
+                "markdown": "If ON is selected, the display will automatically zoom in on the\nselected focus area when the focus ring is rotated in manual fo-\ncus mode.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0806,
+                    "y": 0.1042
+                },
+                {
+                    "x": 0.8939,
+                    "y": 0.1042
+                },
+                {
+                    "x": 0.8939,
+                    "y": 0.1799
+                },
+                {
+                    "x": 0.0806,
+                    "y": 0.1799
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='3' style='font-size:16px'><tr><td colspan=\"2\">Options</td></tr><tr><td>ON</td><td>OFF</td></tr></table>",
+                "markdown": "| Options | Options |\n| --- | --- |\n| ON | OFF |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0877,
+                    "y": 0.1927
+                },
+                {
+                    "x": 0.8908,
+                    "y": 0.1927
+                },
+                {
+                    "x": 0.8908,
+                    "y": 0.2441
+                },
+                {
+                    "x": 0.0877,
+                    "y": 0.2441
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='4' style='font-size:14px'>HDMI OUTPUT INFO DISPLAY</h1>",
+                "markdown": "# HDMI OUTPUT INFO DISPLAY",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0809,
+                    "y": 0.2593
+                },
+                {
+                    "x": 0.4774,
+                    "y": 0.2593
+                },
+                {
+                    "x": 0.4774,
+                    "y": 0.284
+                },
+                {
+                    "x": 0.0809,
+                    "y": 0.284
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='5' data-category='paragraph' style='font-size:18px'>If ON is selected, HDMI devices to which the camera is connected<br>will mirror the information in the camera display.</p>",
+                "markdown": "If ON is selected, HDMI devices to which the camera is connected\nwill mirror the information in the camera display.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0792,
+                    "y": 0.2916
+                },
+                {
+                    "x": 0.8931,
+                    "y": 0.2916
+                },
+                {
+                    "x": 0.8931,
+                    "y": 0.3424
+                },
+                {
+                    "x": 0.0792,
+                    "y": 0.3424
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='6' style='font-size:14px'><tr><td colspan=\"2\">Options</td></tr><tr><td>ON</td><td>OFF</td></tr></table>",
+                "markdown": "| Options | Options |\n| --- | --- |\n| ON | OFF |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1211,
+                    "y": 0.3529
+                },
+                {
+                    "x": 0.8898,
+                    "y": 0.3529
+                },
+                {
+                    "x": 0.8898,
+                    "y": 0.4055
+                },
+                {
+                    "x": 0.1211,
+                    "y": 0.4055
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='7' style='font-size:20px'>164</footer>",
+                "markdown": "164",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0847,
+                    "y": 0.9566
+                },
+                {
+                    "x": 0.1404,
+                    "y": 0.9566
+                },
+                {
+                    "x": 0.1404,
+                    "y": 0.979
+                },
+                {
+                    "x": 0.0847,
+                    "y": 0.979
+                }
+            ],
+            "id": 7,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

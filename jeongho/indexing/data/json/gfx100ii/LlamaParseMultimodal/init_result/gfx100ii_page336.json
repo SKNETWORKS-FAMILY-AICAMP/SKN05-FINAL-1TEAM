@@ -1,0 +1,76 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "# Choose Camera\n\nThe views through the lenses of the connected cameras are shown in a thumbnail list. Click or tap a thumbnail to select a camera to control.\n\n!Camera Thumbnails\n\n| Setting                  | Description                                                                                                                                  |\n|--------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|\n| 1. Recording time available | The remaining recording time. When the time remaining grows short, the thumbnail will flash and the recording time will be displayed in red. |\n| 2. Card slot options        | Camera storage settings. The icon for the current slot is shown in orange. The display turns red if the camera is unable to record to the current card. |\n| 3. Battery level            | The battery level. The thumbnail will flash when the battery runs low.                                                                    |\n| 4. Thumbnail frame          | A frame appears around the thumbnail for the current camera. Regardless of whether they are currently selected, cameras that are currently recording are highlighted in red or, during high-speed recording, in green. |",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "Choose Camera",
+                    "md": "# Choose Camera"
+                },
+                {
+                    "type": "text",
+                    "value": "The views through the lenses of the connected cameras are shown in a thumbnail list. Click or tap a thumbnail to select a camera to control.\n\n!Camera Thumbnails",
+                    "md": "The views through the lenses of the connected cameras are shown in a thumbnail list. Click or tap a thumbnail to select a camera to control.\n\n!Camera Thumbnails"
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Setting",
+                            "Description"
+                        ],
+                        [
+                            "1. Recording time available",
+                            "The remaining recording time. When the time remaining grows short, the thumbnail will flash and the recording time will be displayed in red."
+                        ],
+                        [
+                            "2. Card slot options",
+                            "Camera storage settings. The icon for the current slot is shown in orange. The display turns red if the camera is unable to record to the current card."
+                        ],
+                        [
+                            "3. Battery level",
+                            "The battery level. The thumbnail will flash when the battery runs low."
+                        ],
+                        [
+                            "4. Thumbnail frame",
+                            "A frame appears around the thumbnail for the current camera. Regardless of whether they are currently selected, cameras that are currently recording are highlighted in red or, during high-speed recording, in green."
+                        ]
+                    ],
+                    "md": "| Setting                  | Description                                                                                                                                  |\n|--------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|\n| 1. Recording time available | The remaining recording time. When the time remaining grows short, the thumbnail will flash and the recording time will be displayed in red. |\n| 2. Card slot options        | Camera storage settings. The icon for the current slot is shown in orange. The display turns red if the camera is unable to record to the current card. |\n| 3. Battery level            | The battery level. The thumbnail will flash when the battery runs low.                                                                    |\n| 4. Thumbnail frame          | A frame appears around the thumbnail for the current camera. Regardless of whether they are currently selected, cameras that are currently recording are highlighted in red or, during high-speed recording, in green. |",
+                    "isPerfectTable": true,
+                    "csv": "\"Setting\",\"Description\"\n\"1. Recording time available\",\"The remaining recording time. When the time remaining grows short, the thumbnail will flash and the recording time will be displayed in red.\"\n\"2. Card slot options\",\"Camera storage settings. The icon for the current slot is shown in orange. The display turns red if the camera is unable to record to the current card.\"\n\"3. Battery level\",\"The battery level. The thumbnail will flash when the battery runs low.\"\n\"4. Thumbnail frame\",\"A frame appears around the thumbnail for the current camera. Regardless of whether they are currently selected, cameras that are currently recording are highlighted in red or, during high-speed recording, in green.\""
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 365.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "bc553097-47f3-4370-95fa-ca62857f2ab0",
+    "file_path": "../data/raw_data/gfx100ii/gfx100ii_split/gfx100ii_page336.pdf"
+}

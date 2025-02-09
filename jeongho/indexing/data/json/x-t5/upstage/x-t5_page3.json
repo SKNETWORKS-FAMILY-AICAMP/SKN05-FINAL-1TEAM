@@ -1,0 +1,602 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:14px'>Parts of the Camera</header>\n<p id='1' data-category='paragraph' style='font-size:18px'>1</p>\n<br><figure id='2'><img style='font-size:14px' alt=\"4 7\n00\" data-coord=\"top-left:(319,382); bottom-right:(2533,2209)\" /><figcaption id='3' data-category='list' style='font-size:20px'>29 面 (delete) button 59<br>30 (playback) button 56<br>31 Electronic viewfinder (EVF)</figcaption></figure>\n\n<br><p id='4' data-category='paragraph' style='font-size:18px'>12, 16, 18, 26</p>\n<br><p id='5' data-category='list' style='font-size:16px'>32 Eye cup (lockable) 11<br>33 VIEW MODE button 16<br>34 AFON button 102, 321<br>35 Rear command dial 7, 223, 296<br>36 Q (quick menu) button 315<br>37 Indicator lamp 9, 199<br>Tally light. 199<br>38 AEL (exposure lock) button 102, 321<br>39 Focus stick (focus lever). 4, 87, 294<br>40 Memory card slot cover latch. 38<br>41 Memory card slot cover 38</p>\n<br><p id='6' data-category='paragraph' style='font-size:14px'>42 Selector buttons 4</p>\n<br><p id='7' data-category='list' style='font-size:16px'>43 MENU/OK button 24<br>44 Battery-chamber cover latch 36<br>45 Battery-chamber cover. 36</p>\n<br><p id='8' data-category='paragraph' style='font-size:18px'>46 DISP (display)/BACK button 19, 221</p>\n<br><p id='9' data-category='paragraph' style='font-size:14px'>249</p>\n<br><p id='10' data-category='paragraph' style='font-size:16px'>47</p>\n<br><p id='11' data-category='paragraph' style='font-size:16px'>48</p>\n<p id='12' data-category='paragraph' style='font-size:18px'>49</p>\n<br><p id='13' data-category='paragraph' style='font-size:18px'>50</p>\n<br><p id='14' data-category='paragraph' style='font-size:16px'>51</p>\n<br><p id='15' data-category='paragraph' style='font-size:18px'>52</p>\n<br><p id='16' data-category='paragraph' style='font-size:16px'>53</p>\n<br><p id='17' data-category='list' style='font-size:18px'>* (Bluetooth) button<br>Tripod mount<br>LCD monitor 10, 14, 16<br>Touch screen 26, 160, 210<br>Eye sensor. 16<br>Memory card slot 2 38<br>Memory card slot 1 38<br>Battery chamber. 36<br>Battery latch. 37<br>Serial number plate.. 4</p>\n<br><p id='18' data-category='paragraph' style='font-size:16px'>54</p>\n<footer id='19' style='font-size:20px'>3</footer>\n<br><footer id='20' style='font-size:22px'>Before<br>You<br>Begin</footer>",
+        "markdown": "Parts of the Camera\n\n1\n\n![image](/image/placeholder)\n4 7\n00\n\n- 29 面 (delete) button 59\n- 30 (playback) button 56\n- 31 Electronic viewfinder (EVF)\n\n\n12, 16, 18, 26\n\n- 32 Eye cup (lockable) 11\n- 33 VIEW MODE button 16\n- 34 AFON button 102, 321\n- 35 Rear command dial 7, 223, 296\n- 36 Q (quick menu) button 315\n- 37 Indicator lamp 9, 199\n- Tally light. 199\n- 38 AEL (exposure lock) button 102, 321\n- 39 Focus stick (focus lever). 4, 87, 294\n- 40 Memory card slot cover latch. 38\n- 41 Memory card slot cover 38\n\n\n42 Selector buttons 4\n\n- 43 MENU/OK button 24\n- 44 Battery-chamber cover latch 36\n- 45 Battery-chamber cover. 36\n\n\n46 DISP (display)/BACK button 19, 221\n\n249\n\n47\n\n48\n\n49\n\n50\n\n51\n\n52\n\n53\n\n- * (Bluetooth) button\n- Tripod mount\n- LCD monitor 10, 14, 16\n- Touch screen 26, 160, 210\n- Eye sensor. 16\n- Memory card slot 2 38\n- Memory card slot 1 38\n- Battery chamber. 36\n- Battery latch. 37\n- Serial number plate.. 4\n\n\n54\n\n3\n\nBefore\nYou\nBegin",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:14px'>Parts of the Camera</header>",
+                "markdown": "Parts of the Camera",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.7225,
+                    "y": 0.0291
+                },
+                {
+                    "x": 0.9186,
+                    "y": 0.0291
+                },
+                {
+                    "x": 0.9186,
+                    "y": 0.0491
+                },
+                {
+                    "x": 0.7225,
+                    "y": 0.0491
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='1' data-category='paragraph' style='font-size:18px'>1</p>",
+                "markdown": "1",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9601,
+                    "y": 0.2403
+                },
+                {
+                    "x": 0.972,
+                    "y": 0.2403
+                },
+                {
+                    "x": 0.972,
+                    "y": 0.2558
+                },
+                {
+                    "x": 0.9601,
+                    "y": 0.2558
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "figure",
+            "content": {
+                "html": "<br><figure id='2'><img style='font-size:14px' alt=\"4 7\n00\" data-coord=\"top-left:(319,382); bottom-right:(2533,2209)\" /></figure>",
+                "markdown": "![image](/image/placeholder)\n4 7\n00",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1155,
+                    "y": 0.0981
+                },
+                {
+                    "x": 0.9164,
+                    "y": 0.0981
+                },
+                {
+                    "x": 0.9164,
+                    "y": 0.5668
+                },
+                {
+                    "x": 0.1155,
+                    "y": 0.5668
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "list",
+            "content": {
+                "html": "<p id='3' data-category='list' style='font-size:20px'>29 面 (delete) button 59<br>30 (playback) button 56<br>31 Electronic viewfinder (EVF)</p>",
+                "markdown": "- 29 面 (delete) button 59\n- 30 (playback) button 56\n- 31 Electronic viewfinder (EVF)\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1125,
+                    "y": 0.5921
+                },
+                {
+                    "x": 0.5075,
+                    "y": 0.5921
+                },
+                {
+                    "x": 0.5075,
+                    "y": 0.6552
+                },
+                {
+                    "x": 0.1125,
+                    "y": 0.6552
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='4' data-category='paragraph' style='font-size:18px'>12, 16, 18, 26</p>",
+                "markdown": "12, 16, 18, 26",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.3946,
+                    "y": 0.6576
+                },
+                {
+                    "x": 0.5073,
+                    "y": 0.6576
+                },
+                {
+                    "x": 0.5073,
+                    "y": 0.6753
+                },
+                {
+                    "x": 0.3946,
+                    "y": 0.6753
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "list",
+            "content": {
+                "html": "<br><p id='5' data-category='list' style='font-size:16px'>32 Eye cup (lockable) 11<br>33 VIEW MODE button 16<br>34 AFON button 102, 321<br>35 Rear command dial 7, 223, 296<br>36 Q (quick menu) button 315<br>37 Indicator lamp 9, 199<br>Tally light. 199<br>38 AEL (exposure lock) button 102, 321<br>39 Focus stick (focus lever). 4, 87, 294<br>40 Memory card slot cover latch. 38<br>41 Memory card slot cover 38</p>",
+                "markdown": "- 32 Eye cup (lockable) 11\n- 33 VIEW MODE button 16\n- 34 AFON button 102, 321\n- 35 Rear command dial 7, 223, 296\n- 36 Q (quick menu) button 315\n- 37 Indicator lamp 9, 199\n- Tally light. 199\n- 38 AEL (exposure lock) button 102, 321\n- 39 Focus stick (focus lever). 4, 87, 294\n- 40 Memory card slot cover latch. 38\n- 41 Memory card slot cover 38\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1177,
+                    "y": 0.6681
+                },
+                {
+                    "x": 0.5079,
+                    "y": 0.6681
+                },
+                {
+                    "x": 0.5079,
+                    "y": 0.8939
+                },
+                {
+                    "x": 0.1177,
+                    "y": 0.8939
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='6' data-category='paragraph' style='font-size:14px'>42 Selector buttons 4</p>",
+                "markdown": "42 Selector buttons 4",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.523,
+                    "y": 0.5947
+                },
+                {
+                    "x": 0.9169,
+                    "y": 0.5947
+                },
+                {
+                    "x": 0.9169,
+                    "y": 0.6123
+                },
+                {
+                    "x": 0.523,
+                    "y": 0.6123
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "list",
+            "content": {
+                "html": "<br><p id='7' data-category='list' style='font-size:16px'>43 MENU/OK button 24<br>44 Battery-chamber cover latch 36<br>45 Battery-chamber cover. 36</p>",
+                "markdown": "- 43 MENU/OK button 24\n- 44 Battery-chamber cover latch 36\n- 45 Battery-chamber cover. 36\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.5267,
+                    "y": 0.6121
+                },
+                {
+                    "x": 0.9174,
+                    "y": 0.6121
+                },
+                {
+                    "x": 0.9174,
+                    "y": 0.6751
+                },
+                {
+                    "x": 0.5267,
+                    "y": 0.6751
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='8' data-category='paragraph' style='font-size:18px'>46 DISP (display)/BACK button 19, 221</p>",
+                "markdown": "46 DISP (display)/BACK button 19, 221",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.5232,
+                    "y": 0.6759
+                },
+                {
+                    "x": 0.9162,
+                    "y": 0.6759
+                },
+                {
+                    "x": 0.9162,
+                    "y": 0.6967
+                },
+                {
+                    "x": 0.5232,
+                    "y": 0.6967
+                }
+            ],
+            "id": 8,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='9' data-category='paragraph' style='font-size:14px'>249</p>",
+                "markdown": "249",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.8804,
+                    "y": 0.6979
+                },
+                {
+                    "x": 0.9172,
+                    "y": 0.6979
+                },
+                {
+                    "x": 0.9172,
+                    "y": 0.7138
+                },
+                {
+                    "x": 0.8804,
+                    "y": 0.7138
+                }
+            ],
+            "id": 9,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='10' data-category='paragraph' style='font-size:16px'>47</p>",
+                "markdown": "47",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.5236,
+                    "y": 0.7172
+                },
+                {
+                    "x": 0.548,
+                    "y": 0.7172
+                },
+                {
+                    "x": 0.548,
+                    "y": 0.7333
+                },
+                {
+                    "x": 0.5236,
+                    "y": 0.7333
+                }
+            ],
+            "id": 10,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='11' data-category='paragraph' style='font-size:16px'>48</p>",
+                "markdown": "48",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.5236,
+                    "y": 0.7372
+                },
+                {
+                    "x": 0.5497,
+                    "y": 0.7372
+                },
+                {
+                    "x": 0.5497,
+                    "y": 0.7534
+                },
+                {
+                    "x": 0.5236,
+                    "y": 0.7534
+                }
+            ],
+            "id": 11,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='12' data-category='paragraph' style='font-size:18px'>49</p>",
+                "markdown": "49",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.5229,
+                    "y": 0.7777
+                },
+                {
+                    "x": 0.5504,
+                    "y": 0.7777
+                },
+                {
+                    "x": 0.5504,
+                    "y": 0.7946
+                },
+                {
+                    "x": 0.5229,
+                    "y": 0.7946
+                }
+            ],
+            "id": 12,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='13' data-category='paragraph' style='font-size:18px'>50</p>",
+                "markdown": "50",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.5235,
+                    "y": 0.798
+                },
+                {
+                    "x": 0.5503,
+                    "y": 0.798
+                },
+                {
+                    "x": 0.5503,
+                    "y": 0.8148
+                },
+                {
+                    "x": 0.5235,
+                    "y": 0.8148
+                }
+            ],
+            "id": 13,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='14' data-category='paragraph' style='font-size:16px'>51</p>",
+                "markdown": "51",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.5232,
+                    "y": 0.8188
+                },
+                {
+                    "x": 0.5485,
+                    "y": 0.8188
+                },
+                {
+                    "x": 0.5485,
+                    "y": 0.8354
+                },
+                {
+                    "x": 0.5232,
+                    "y": 0.8354
+                }
+            ],
+            "id": 14,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='15' data-category='paragraph' style='font-size:18px'>52</p>",
+                "markdown": "52",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.5229,
+                    "y": 0.839
+                },
+                {
+                    "x": 0.5498,
+                    "y": 0.839
+                },
+                {
+                    "x": 0.5498,
+                    "y": 0.8559
+                },
+                {
+                    "x": 0.5229,
+                    "y": 0.8559
+                }
+            ],
+            "id": 15,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='16' data-category='paragraph' style='font-size:16px'>53</p>",
+                "markdown": "53",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.5233,
+                    "y": 0.8598
+                },
+                {
+                    "x": 0.549,
+                    "y": 0.8598
+                },
+                {
+                    "x": 0.549,
+                    "y": 0.8758
+                },
+                {
+                    "x": 0.5233,
+                    "y": 0.8758
+                }
+            ],
+            "id": 16,
+            "page": 1
+        },
+        {
+            "category": "list",
+            "content": {
+                "html": "<br><p id='17' data-category='list' style='font-size:18px'>* (Bluetooth) button<br>Tripod mount<br>LCD monitor 10, 14, 16<br>Touch screen 26, 160, 210<br>Eye sensor. 16<br>Memory card slot 2 38<br>Memory card slot 1 38<br>Battery chamber. 36<br>Battery latch. 37<br>Serial number plate.. 4</p>",
+                "markdown": "- * (Bluetooth) button\n- Tripod mount\n- LCD monitor 10, 14, 16\n- Touch screen 26, 160, 210\n- Eye sensor. 16\n- Memory card slot 2 38\n- Memory card slot 1 38\n- Battery chamber. 36\n- Battery latch. 37\n- Serial number plate.. 4\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.5419,
+                    "y": 0.7059
+                },
+                {
+                    "x": 0.9191,
+                    "y": 0.7059
+                },
+                {
+                    "x": 0.9191,
+                    "y": 0.8979
+                },
+                {
+                    "x": 0.5419,
+                    "y": 0.8979
+                }
+            ],
+            "id": 17,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='18' data-category='paragraph' style='font-size:16px'>54</p>",
+                "markdown": "54",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.5235,
+                    "y": 0.8797
+                },
+                {
+                    "x": 0.5498,
+                    "y": 0.8797
+                },
+                {
+                    "x": 0.5498,
+                    "y": 0.8961
+                },
+                {
+                    "x": 0.5235,
+                    "y": 0.8961
+                }
+            ],
+            "id": 18,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='19' style='font-size:20px'>3</footer>",
+                "markdown": "3",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.8954,
+                    "y": 0.9573
+                },
+                {
+                    "x": 0.9165,
+                    "y": 0.9573
+                },
+                {
+                    "x": 0.9165,
+                    "y": 0.9795
+                },
+                {
+                    "x": 0.8954,
+                    "y": 0.9795
+                }
+            ],
+            "id": 19,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<br><footer id='20' style='font-size:22px'>Before<br>You<br>Begin</footer>",
+                "markdown": "Before\nYou\nBegin",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9564,
+                    "y": 0.2782
+                },
+                {
+                    "x": 0.9817,
+                    "y": 0.2782
+                },
+                {
+                    "x": 0.9817,
+                    "y": 0.4014
+                },
+                {
+                    "x": 0.9564,
+                    "y": 0.4014
+                }
+            ],
+            "id": 20,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "parsing_result": "# Specifications\n\n## System\n\n### Shutter Speed\n- **Mechanical Shutter, E-Front Curtain Shutter**\n  - Modes P and A: 30 s to 1/4000 s\n  - Modes S and M: 60 min. to 1/4000 s\n  - Bulb: Max. 60 min.\n- **Electronic Shutter, Mechanical + Electronic, E-Front + Electronic**\n  - Modes P and A: 30 s to 1/32000 s\n  - Modes S and M: 60 min. to 1/32000 s\n  - Bulb: Max. 60 min.\n\n> 💡 **Note:** The shutter speed ranges for continuous mode may differ from those listed here.\n\n### Continuous\n\n#### Available Frame Advance Rates (JPEG)\n\n| Continuous Mode      | Mechanical Shutter | Electronic Shutter |\n|----------------------|--------------------|--------------------|\n| CH High Speed Burst  | 8.0, 5.0           | 5.3*               |\n| CL Low Speed Burst   | 2.0                |                    |\n\n*In 35mm Format Mode, the frame rate is 8.7 or 5.8\n\n> 💡 **Note:** The frame rate and number of frames per burst varies with shooting conditions and type of memory card used.\n\n### Focus\n- **Mode:** Single or continuous AF; manual focus with focus ring\n- **Autofocus System:** Intelligent hybrid AF (TTL contrast-detect/phase-detection AF)\n- **Focus-area Selection:** SINGLE POINT, ZONE, WIDE/TRACKING, ALL\n\n### White Balance\nAuto (WHITE PRIORITY, AUTO, AMBIENCE PRIORITY), Custom 1, Custom 2, Custom 3, color temperature selection, direct sunlight, shade, daylight fluorescent, warm white fluorescent, cool white fluorescent, incandescent, underwater\n\n### Self-timer\n- **Still Pictures:** Off, 2 sec., 10 sec.\n- **Movies:** Off, 3 sec., 5 sec., 10 sec.\n\n### Flash Mode\n- **Mode:** TTL MODE (FLASH AUTO, STANDARD, SLOW SYNC), MANUAL, MULTI, OFF\n- **Sync Mode:** 1ST CURTAIN, 2ND CURTAIN, AUTO FP (high-speed sync)\n- **Red Eye Removal:** FLASH, OFF",
+    "embedding_result": [],
+    "metadata": {
+        "page": 463,
+        "model": "gfx100ii",
+        "chapter": "Technical Notes",
+        "section": "Specifications",
+        "subsection": [
+            "Specifications"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "parsing_result": "# EF-X8 Flash Unit Settings\n\nThe following settings are available when an optional EF-X8 shoe-mounted flash unit is attached.\n\n!EF-X8 Flash Settings Display\n\n## Settings and Descriptions\n\n### 1. Flash Control Mode\nChoose from the following options:\n- **TTL**: TTL mode. Adjust flash compensation (②) and choose a flash mode (③).\n- **M**: The flash fires at the selected output (②) regardless of subject brightness or camera settings. Output is expressed in fractions of full power, from 1/1 to 1/64. The desired results may not be achieved at low values if they exceed the limits of the flash control system; take a test shot and check the results.\n- **COMMANDER**: Choose if the flash is being used to control remote synced flash units, for example as part of a studio flash system.\n- **OFF**: The EF-X8 does not fire. Flash units connected via the sync terminal will still fire when the shutter is released, but can be disabled by lowering the EF-X8 and turning the units off in the flash settings menu.\n\n### 2. Flash Compensation/Output\nAdjust flash level. The options available vary with the flash control mode (①).",
+    "metadata": {
+        "page": 343,
+        "model": "x-t5",
+        "chapter": "Peripherals and Optional Accessories",
+        "section": "External Flash Units",
+        "subsection": [
+            "EF-X8"
+        ],
+        "embedding_model": "text-embedding-3-small",
+        "token": 255
+    }
+}

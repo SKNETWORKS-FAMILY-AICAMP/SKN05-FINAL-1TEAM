@@ -1,0 +1,210 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:14px'>IMAGE QUALITY SETTING (Still Photography)</header>\n<h1 id='1' style='font-size:18px'>TONE CURVE</h1>\n<br><p id='2' data-category='paragraph' style='font-size:18px'>With reference to a tone curve, adjust the<br>appearance of highlights or shadows,<br>making them harsher or softer. Choose<br>higher values to make shadows and<br>highlights harsher, lower values to make<br>them softer.</p>\n<br><figure id='3' data-category='chart'><img style='font-size:14px' alt=\"TONE CURVE \nHIGHLIGHTS SHADOWS \n4- 4 \n3 3 \n2- \n1- \n0 0-@ 0 \n-1 \nOK SET BACK CANCEL \n\" data-coord=\"top-left:(1824,414); bottom-right:(2526,984)\" /></figure>\n<br><table id='4' style='font-size:16px'><tr><td>Option</td><td></td><td colspan=\"7\">Description</td></tr><tr><td colspan=\"2\">HIGHLIGHTS</td><td colspan=\"7\">-2 to +4</td></tr><tr><td colspan=\"2\">SHADOWS</td><td>2 to +4</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td colspan=\"9\">COLOR</td></tr><tr><td colspan=\"9\">Adjust color density.</td></tr><tr><td colspan=\"9\">Options</td></tr><tr><td>-4</td><td>-3</td><td>-2</td><td>-1</td><td>0</td><td>+1</td><td>+2</td><td>+3</td><td>+4</td></tr><tr><td colspan=\"9\">SHARPNESS</td></tr><tr><td colspan=\"9\">Sharpen or soften outlines.</td></tr><tr><td colspan=\"9\">Options</td></tr><tr><td>-4</td><td>-3</td><td>-2</td><td>-1</td><td>0</td><td>+1</td><td>+2</td><td>+3</td><td>+4</td></tr></table>\n<footer id='5' style='font-size:20px'>131</footer>\n<br><footer id='6' style='font-size:22px'>6<br>The<br>Shooting<br>Menus</footer>",
+        "markdown": "IMAGE QUALITY SETTING (Still Photography)\n\n# TONE CURVE\n\nWith reference to a tone curve, adjust the\nappearance of highlights or shadows,\nmaking them harsher or softer. Choose\nhigher values to make shadows and\nhighlights harsher, lower values to make\nthem softer.\n\n![image](/image/placeholder)\nTONE CURVE \nHIGHLIGHTS SHADOWS \n4- 4 \n3 3 \n2- \n1- \n0 0-@ 0 \n-1 \nOK SET BACK CANCEL \n\n\n| Option |  | Description | Description | Description | Description | Description | Description | Description |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| HIGHLIGHTS | HIGHLIGHTS | -2 to +4 | -2 to +4 | -2 to +4 | -2 to +4 | -2 to +4 | -2 to +4 | -2 to +4 |\n| SHADOWS | SHADOWS | 2 to +4 |  |  |  |  |  |  |\n| COLOR | COLOR | COLOR | COLOR | COLOR | COLOR | COLOR | COLOR | COLOR |\n| Adjust color density. | Adjust color density. | Adjust color density. | Adjust color density. | Adjust color density. | Adjust color density. | Adjust color density. | Adjust color density. | Adjust color density. |\n| Options | Options | Options | Options | Options | Options | Options | Options | Options |\n| -4 | -3 | -2 | -1 | 0 | +1 | +2 | +3 | +4 |\n| SHARPNESS | SHARPNESS | SHARPNESS | SHARPNESS | SHARPNESS | SHARPNESS | SHARPNESS | SHARPNESS | SHARPNESS |\n| Sharpen or soften outlines. | Sharpen or soften outlines. | Sharpen or soften outlines. | Sharpen or soften outlines. | Sharpen or soften outlines. | Sharpen or soften outlines. | Sharpen or soften outlines. | Sharpen or soften outlines. | Sharpen or soften outlines. |\n| Options | Options | Options | Options | Options | Options | Options | Options | Options |\n| -4 | -3 | -2 | -1 | 0 | +1 | +2 | +3 | +4 |\n\n\n131\n\n6\nThe\nShooting\nMenus",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:14px'>IMAGE QUALITY SETTING (Still Photography)</header>",
+                "markdown": "IMAGE QUALITY SETTING (Still Photography)",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.4858,
+                    "y": 0.0281
+                },
+                {
+                    "x": 0.918,
+                    "y": 0.0281
+                },
+                {
+                    "x": 0.918,
+                    "y": 0.0513
+                },
+                {
+                    "x": 0.4858,
+                    "y": 0.0513
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='1' style='font-size:18px'>TONE CURVE</h1>",
+                "markdown": "# TONE CURVE",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1097,
+                    "y": 0.0733
+                },
+                {
+                    "x": 0.2868,
+                    "y": 0.0733
+                },
+                {
+                    "x": 0.2868,
+                    "y": 0.0947
+                },
+                {
+                    "x": 0.1097,
+                    "y": 0.0947
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='2' data-category='paragraph' style='font-size:18px'>With reference to a tone curve, adjust the<br>appearance of highlights or shadows,<br>making them harsher or softer. Choose<br>higher values to make shadows and<br>highlights harsher, lower values to make<br>them softer.</p>",
+                "markdown": "With reference to a tone curve, adjust the\nappearance of highlights or shadows,\nmaking them harsher or softer. Choose\nhigher values to make shadows and\nhighlights harsher, lower values to make\nthem softer.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1057,
+                    "y": 0.1041
+                },
+                {
+                    "x": 0.6273,
+                    "y": 0.1041
+                },
+                {
+                    "x": 0.6273,
+                    "y": 0.256
+                },
+                {
+                    "x": 0.1057,
+                    "y": 0.256
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "figure",
+            "content": {
+                "html": "<br><figure id='3' data-category='chart'><img style='font-size:14px' alt=\"TONE CURVE \nHIGHLIGHTS SHADOWS \n4- 4 \n3 3 \n2- \n1- \n0 0-@ 0 \n-1 \nOK SET BACK CANCEL \n\" data-coord=\"top-left:(1824,414); bottom-right:(2526,984)\" /></figure>",
+                "markdown": "![image](/image/placeholder)\nTONE CURVE \nHIGHLIGHTS SHADOWS \n4- 4 \n3 3 \n2- \n1- \n0 0-@ 0 \n-1 \nOK SET BACK CANCEL \n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6601,
+                    "y": 0.1063
+                },
+                {
+                    "x": 0.9142,
+                    "y": 0.1063
+                },
+                {
+                    "x": 0.9142,
+                    "y": 0.2526
+                },
+                {
+                    "x": 0.6601,
+                    "y": 0.2526
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='4' style='font-size:16px'><tr><td>Option</td><td></td><td colspan=\"7\">Description</td></tr><tr><td colspan=\"2\">HIGHLIGHTS</td><td colspan=\"7\">-2 to +4</td></tr><tr><td colspan=\"2\">SHADOWS</td><td>2 to +4</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td colspan=\"9\">COLOR</td></tr><tr><td colspan=\"9\">Adjust color density.</td></tr><tr><td colspan=\"9\">Options</td></tr><tr><td>-4</td><td>-3</td><td>-2</td><td>-1</td><td>0</td><td>+1</td><td>+2</td><td>+3</td><td>+4</td></tr><tr><td colspan=\"9\">SHARPNESS</td></tr><tr><td colspan=\"9\">Sharpen or soften outlines.</td></tr><tr><td colspan=\"9\">Options</td></tr><tr><td>-4</td><td>-3</td><td>-2</td><td>-1</td><td>0</td><td>+1</td><td>+2</td><td>+3</td><td>+4</td></tr></table>",
+                "markdown": "| Option |  | Description | Description | Description | Description | Description | Description | Description |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| HIGHLIGHTS | HIGHLIGHTS | -2 to +4 | -2 to +4 | -2 to +4 | -2 to +4 | -2 to +4 | -2 to +4 | -2 to +4 |\n| SHADOWS | SHADOWS | 2 to +4 |  |  |  |  |  |  |\n| COLOR | COLOR | COLOR | COLOR | COLOR | COLOR | COLOR | COLOR | COLOR |\n| Adjust color density. | Adjust color density. | Adjust color density. | Adjust color density. | Adjust color density. | Adjust color density. | Adjust color density. | Adjust color density. | Adjust color density. |\n| Options | Options | Options | Options | Options | Options | Options | Options | Options |\n| -4 | -3 | -2 | -1 | 0 | +1 | +2 | +3 | +4 |\n| SHARPNESS | SHARPNESS | SHARPNESS | SHARPNESS | SHARPNESS | SHARPNESS | SHARPNESS | SHARPNESS | SHARPNESS |\n| Sharpen or soften outlines. | Sharpen or soften outlines. | Sharpen or soften outlines. | Sharpen or soften outlines. | Sharpen or soften outlines. | Sharpen or soften outlines. | Sharpen or soften outlines. | Sharpen or soften outlines. | Sharpen or soften outlines. |\n| Options | Options | Options | Options | Options | Options | Options | Options | Options |\n| -4 | -3 | -2 | -1 | 0 | +1 | +2 | +3 | +4 |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1043,
+                    "y": 0.2642
+                },
+                {
+                    "x": 0.9162,
+                    "y": 0.2642
+                },
+                {
+                    "x": 0.9162,
+                    "y": 0.6373
+                },
+                {
+                    "x": 0.1043,
+                    "y": 0.6373
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='5' style='font-size:20px'>131</footer>",
+                "markdown": "131",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.8623,
+                    "y": 0.9564
+                },
+                {
+                    "x": 0.9149,
+                    "y": 0.9564
+                },
+                {
+                    "x": 0.9149,
+                    "y": 0.9795
+                },
+                {
+                    "x": 0.8623,
+                    "y": 0.9795
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<br><footer id='6' style='font-size:22px'>6<br>The<br>Shooting<br>Menus</footer>",
+                "markdown": "6\nThe\nShooting\nMenus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9562,
+                    "y": 0.5407
+                },
+                {
+                    "x": 0.9833,
+                    "y": 0.5407
+                },
+                {
+                    "x": 0.9833,
+                    "y": 0.7315
+                },
+                {
+                    "x": 0.9562,
+                    "y": 0.7315
+                }
+            ],
+            "id": 6,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

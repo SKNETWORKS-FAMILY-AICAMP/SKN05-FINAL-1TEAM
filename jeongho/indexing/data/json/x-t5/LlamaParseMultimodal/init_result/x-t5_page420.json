@@ -1,0 +1,111 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "# Memory Card Capacity\n\nThe following table shows the recording time or number of pictures available at different image sizes. All figures are approximate; file size varies with the scene recorded, producing wide variations in the number of files that can be stored. The number of exposures or length remaining may not diminish at an even rate.\n\n| Capacity | SD memory cards 64 GB |\n|----------|-----------------------|\n|          | FINE  | NORMAL        |\n| Photos   |       |               |\n| L 3:2    | 2660  | 3980          |\n| RAW (UNCOMPRESSED) | 730 |       |\n| RAW (LOSSLESS COMPRESSED) | 1380 | |\n| RAW (COMPRESSED) | 1950 |        |\n| Movies*  |       |               |\n| 4K 2160  | 79 minutes |          |\n| FHD 1080 | 79 minutes |          |\n\n*Assumes default bit rate.\n\n> 💡 **Note:**\n> - The types of memory cards suitable for movie recording vary with the settings selected.\n> - Shots over an hour in length may be recorded across multiple files without interruption. In addition, movies over 4 GB in size will be recorded uninterrupted across multiple files to SD memory cards with capacities 32 GB or less.",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "Memory Card Capacity",
+                    "md": "# Memory Card Capacity"
+                },
+                {
+                    "type": "text",
+                    "value": "The following table shows the recording time or number of pictures available at different image sizes. All figures are approximate; file size varies with the scene recorded, producing wide variations in the number of files that can be stored. The number of exposures or length remaining may not diminish at an even rate.",
+                    "md": "The following table shows the recording time or number of pictures available at different image sizes. All figures are approximate; file size varies with the scene recorded, producing wide variations in the number of files that can be stored. The number of exposures or length remaining may not diminish at an even rate."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Capacity",
+                            "SD memory cards 64 GB"
+                        ],
+                        [
+                            "",
+                            "FINE",
+                            "NORMAL"
+                        ],
+                        [
+                            "Photos",
+                            "",
+                            ""
+                        ],
+                        [
+                            "L 3:2",
+                            "2660",
+                            "3980"
+                        ],
+                        [
+                            "RAW (UNCOMPRESSED)",
+                            "730",
+                            ""
+                        ],
+                        [
+                            "RAW (LOSSLESS COMPRESSED)",
+                            "1380",
+                            ""
+                        ],
+                        [
+                            "RAW (COMPRESSED)",
+                            "1950",
+                            ""
+                        ],
+                        [
+                            "Movies*",
+                            "",
+                            ""
+                        ],
+                        [
+                            "4K 2160",
+                            "79 minutes",
+                            ""
+                        ],
+                        [
+                            "FHD 1080",
+                            "79 minutes",
+                            ""
+                        ]
+                    ],
+                    "md": "| Capacity | SD memory cards 64 GB |\n|----------|-----------------------|\n|          | FINE  | NORMAL        |\n| Photos   |       |               |\n| L 3:2    | 2660  | 3980          |\n| RAW (UNCOMPRESSED) | 730 |       |\n| RAW (LOSSLESS COMPRESSED) | 1380 | |\n| RAW (COMPRESSED) | 1950 |        |\n| Movies*  |       |               |\n| 4K 2160  | 79 minutes |          |\n| FHD 1080 | 79 minutes |          |",
+                    "isPerfectTable": false,
+                    "csv": "\"Capacity\",\"SD memory cards 64 GB\"\n\"\",\"FINE\",\"NORMAL\"\n\"Photos\",\"\",\"\"\n\"L 3:2\",\"2660\",\"3980\"\n\"RAW (UNCOMPRESSED)\",\"730\",\"\"\n\"RAW (LOSSLESS COMPRESSED)\",\"1380\",\"\"\n\"RAW (COMPRESSED)\",\"1950\",\"\"\n\"Movies*\",\"\",\"\"\n\"4K 2160\",\"79 minutes\",\"\"\n\"FHD 1080\",\"79 minutes\",\"\""
+                },
+                {
+                    "type": "text",
+                    "value": "*Assumes default bit rate.\n\n> 💡 **Note:**\n> - The types of memory cards suitable for movie recording vary with the settings selected.\n> - Shots over an hour in length may be recorded across multiple files without interruption. In addition, movies over 4 GB in size will be recorded uninterrupted across multiple files to SD memory cards with capacities 32 GB or less.",
+                    "md": "*Assumes default bit rate.\n\n> 💡 **Note:**\n> - The types of memory cards suitable for movie recording vary with the settings selected.\n> - Shots over an hour in length may be recorded across multiple files without interruption. In addition, movies over 4 GB in size will be recorded uninterrupted across multiple files to SD memory cards with capacities 32 GB or less."
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "parsingMode": "multimodal-openai-gpt4o",
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 748.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "c79bbf34-4e3e-4313-a524-2f69f248c178",
+    "file_path": "../data/raw_data/x-t5/x-t5_split/x-t5_page420.pdf"
+}

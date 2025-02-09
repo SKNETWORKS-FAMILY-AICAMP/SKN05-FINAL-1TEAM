@@ -1,0 +1,462 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:14px'>Network/USB Setting Menus</header>\n<h1 id='1' style='font-size:16px'>IMAGE TRANSFER WHILE POWER OFF</h1>\n\n<table id='3' style='font-size:16px'><tr><td colspan=\"2\">Options</td></tr><tr><td>ON</td><td>OFF</td></tr><br><caption id='2' style='font-size:18px'>If ON is selected, upload of pictures to the FTP server will contin-<br>ue while the camera is off.</caption></table>\n<p id='4' data-category='paragraph' style='font-size:16px'>FTP POWER SAVING</p>\n\n<br><table id='6' style='font-size:16px'><tr><td colspan=\"2\">Options</td></tr><tr><td>ON</td><td>OFF</td></tr><br><caption id='5' style='font-size:20px'>If ON is selected, the network feature will turn off to save power<br>when the upload of all pictures currently marked for transfer is<br>complete. Marking additional pictures for upload turns the net-<br>work feature on again.</caption></table>\n<p id='7' data-category='paragraph' style='font-size:18px'>ROOT CERTIFICATE</p>\n\n<table id='9' style='font-size:14px'><tr><td>Option</td><td>Description</td></tr><tr><td>LOAD FROM MEMORY CARD</td><td>Copy the root certificate from the camera memory card.</td></tr><tr><td>DELETE</td><td>Delete the current root certificate.</td></tr><br><caption id='8' style='font-size:18px'>Copy a unique root certificate to the camera for use when FTPS is<br>selected for FTP SERVER TYPE (□ 285).</caption></table>\n<p id='10' data-category='paragraph' style='font-size:14px'>FTP upload and Frame.io Camera to Cloud > UPLOAD SETTING ></p>\n<br><p id='11' data-category='paragraph' style='font-size:14px'>ROOT CERTIFICATE use the same root certificate. Changing one<br>changes the other.</p>\n<p id='12' data-category='paragraph' style='font-size:16px'>RESET FTP TRANSFER ORDER</p>\n<br><p id='13' data-category='paragraph' style='font-size:20px'>Remove upload marking from all pictures selected for upload to<br>the FTP server in the current connection setting profile.</p>\n<br><footer id='14' style='font-size:22px'>Network/USB<br>Setting<br>Menus</footer>\n<footer id='15' style='font-size:22px'>327</footer>",
+        "markdown": "Network/USB Setting Menus\n\n# IMAGE TRANSFER WHILE POWER OFF\n\nIf ON is selected, upload of pictures to the FTP server will contin-\nue while the camera is off.\n\n| Options | Options |\n| --- | --- |\n| ON | OFF |\n\n\nFTP POWER SAVING\n\nIf ON is selected, the network feature will turn off to save power\nwhen the upload of all pictures currently marked for transfer is\ncomplete. Marking additional pictures for upload turns the net-\nwork feature on again.\n\n| Options | Options |\n| --- | --- |\n| ON | OFF |\n\n\nROOT CERTIFICATE\n\nCopy a unique root certificate to the camera for use when FTPS is\nselected for FTP SERVER TYPE (□ 285).\n\n| Option | Description |\n| --- | --- |\n| LOAD FROM MEMORY CARD | Copy the root certificate from the camera memory card. |\n| DELETE | Delete the current root certificate. |\n\n\nFTP upload and Frame.io Camera to Cloud > UPLOAD SETTING >\n\nROOT CERTIFICATE use the same root certificate. Changing one\nchanges the other.\n\nRESET FTP TRANSFER ORDER\n\nRemove upload marking from all pictures selected for upload to\nthe FTP server in the current connection setting profile.\n\nNetwork/USB\nSetting\nMenus\n\n327",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:14px'>Network/USB Setting Menus</header>",
+                "markdown": "Network/USB Setting Menus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6354,
+                    "y": 0.0286
+                },
+                {
+                    "x": 0.918,
+                    "y": 0.0286
+                },
+                {
+                    "x": 0.918,
+                    "y": 0.0505
+                },
+                {
+                    "x": 0.6354,
+                    "y": 0.0505
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='1' style='font-size:16px'>IMAGE TRANSFER WHILE POWER OFF</h1>",
+                "markdown": "# IMAGE TRANSFER WHILE POWER OFF",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1158,
+                    "y": 0.0739
+                },
+                {
+                    "x": 0.5745,
+                    "y": 0.0739
+                },
+                {
+                    "x": 0.5745,
+                    "y": 0.0963
+                },
+                {
+                    "x": 0.1158,
+                    "y": 0.0963
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='2' data-category='paragraph' style='font-size:18px'>If ON is selected, upload of pictures to the FTP server will contin-<br>ue while the camera is off.</p>",
+                "markdown": "If ON is selected, upload of pictures to the FTP server will contin-\nue while the camera is off.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1062,
+                    "y": 0.1035
+                },
+                {
+                    "x": 0.9173,
+                    "y": 0.1035
+                },
+                {
+                    "x": 0.9173,
+                    "y": 0.1538
+                },
+                {
+                    "x": 0.1062,
+                    "y": 0.1538
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='3' style='font-size:16px'><tr><td colspan=\"2\">Options</td></tr><tr><td>ON</td><td>OFF</td></tr></table>",
+                "markdown": "| Options | Options |\n| --- | --- |\n| ON | OFF |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1082,
+                    "y": 0.1689
+                },
+                {
+                    "x": 0.9161,
+                    "y": 0.1689
+                },
+                {
+                    "x": 0.9161,
+                    "y": 0.2221
+                },
+                {
+                    "x": 0.1082,
+                    "y": 0.2221
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='4' data-category='paragraph' style='font-size:16px'>FTP POWER SAVING</p>",
+                "markdown": "FTP POWER SAVING",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1189,
+                    "y": 0.241
+                },
+                {
+                    "x": 0.3699,
+                    "y": 0.241
+                },
+                {
+                    "x": 0.3699,
+                    "y": 0.2644
+                },
+                {
+                    "x": 0.1189,
+                    "y": 0.2644
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='5' data-category='paragraph' style='font-size:20px'>If ON is selected, the network feature will turn off to save power<br>when the upload of all pictures currently marked for transfer is<br>complete. Marking additional pictures for upload turns the net-<br>work feature on again.</p>",
+                "markdown": "If ON is selected, the network feature will turn off to save power\nwhen the upload of all pictures currently marked for transfer is\ncomplete. Marking additional pictures for upload turns the net-\nwork feature on again.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1067,
+                    "y": 0.272
+                },
+                {
+                    "x": 0.9207,
+                    "y": 0.272
+                },
+                {
+                    "x": 0.9207,
+                    "y": 0.3744
+                },
+                {
+                    "x": 0.1067,
+                    "y": 0.3744
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='6' style='font-size:16px'><tr><td colspan=\"2\">Options</td></tr><tr><td>ON</td><td>OFF</td></tr></table>",
+                "markdown": "| Options | Options |\n| --- | --- |\n| ON | OFF |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1073,
+                    "y": 0.3868
+                },
+                {
+                    "x": 0.9165,
+                    "y": 0.3868
+                },
+                {
+                    "x": 0.9165,
+                    "y": 0.4423
+                },
+                {
+                    "x": 0.1073,
+                    "y": 0.4423
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='7' data-category='paragraph' style='font-size:18px'>ROOT CERTIFICATE</p>",
+                "markdown": "ROOT CERTIFICATE",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.118,
+                    "y": 0.4599
+                },
+                {
+                    "x": 0.3558,
+                    "y": 0.4599
+                },
+                {
+                    "x": 0.3558,
+                    "y": 0.4835
+                },
+                {
+                    "x": 0.118,
+                    "y": 0.4835
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='8' data-category='paragraph' style='font-size:18px'>Copy a unique root certificate to the camera for use when FTPS is<br>selected for FTP SERVER TYPE (□ 285).</p>",
+                "markdown": "Copy a unique root certificate to the camera for use when FTPS is\nselected for FTP SERVER TYPE (□ 285).",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1065,
+                    "y": 0.4905
+                },
+                {
+                    "x": 0.9176,
+                    "y": 0.4905
+                },
+                {
+                    "x": 0.9176,
+                    "y": 0.5403
+                },
+                {
+                    "x": 0.1065,
+                    "y": 0.5403
+                }
+            ],
+            "id": 8,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='9' style='font-size:14px'><tr><td>Option</td><td>Description</td></tr><tr><td>LOAD FROM MEMORY CARD</td><td>Copy the root certificate from the camera memory card.</td></tr><tr><td>DELETE</td><td>Delete the current root certificate.</td></tr></table>",
+                "markdown": "| Option | Description |\n| --- | --- |\n| LOAD FROM MEMORY CARD | Copy the root certificate from the camera memory card. |\n| DELETE | Delete the current root certificate. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1082,
+                    "y": 0.5531
+                },
+                {
+                    "x": 0.9146,
+                    "y": 0.5531
+                },
+                {
+                    "x": 0.9146,
+                    "y": 0.6606
+                },
+                {
+                    "x": 0.1082,
+                    "y": 0.6606
+                }
+            ],
+            "id": 9,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='10' data-category='paragraph' style='font-size:14px'>FTP upload and Frame.io Camera to Cloud > UPLOAD SETTING ></p>",
+                "markdown": "FTP upload and Frame.io Camera to Cloud > UPLOAD SETTING >",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1135,
+                    "y": 0.6774
+                },
+                {
+                    "x": 0.9103,
+                    "y": 0.6774
+                },
+                {
+                    "x": 0.9103,
+                    "y": 0.6985
+                },
+                {
+                    "x": 0.1135,
+                    "y": 0.6985
+                }
+            ],
+            "id": 10,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='11' data-category='paragraph' style='font-size:14px'>ROOT CERTIFICATE use the same root certificate. Changing one<br>changes the other.</p>",
+                "markdown": "ROOT CERTIFICATE use the same root certificate. Changing one\nchanges the other.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1361,
+                    "y": 0.7
+                },
+                {
+                    "x": 0.9126,
+                    "y": 0.7
+                },
+                {
+                    "x": 0.9126,
+                    "y": 0.7448
+                },
+                {
+                    "x": 0.1361,
+                    "y": 0.7448
+                }
+            ],
+            "id": 11,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='12' data-category='paragraph' style='font-size:16px'>RESET FTP TRANSFER ORDER</p>",
+                "markdown": "RESET FTP TRANSFER ORDER",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1206,
+                    "y": 0.7681
+                },
+                {
+                    "x": 0.4762,
+                    "y": 0.7681
+                },
+                {
+                    "x": 0.4762,
+                    "y": 0.7896
+                },
+                {
+                    "x": 0.1206,
+                    "y": 0.7896
+                }
+            ],
+            "id": 12,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='13' data-category='paragraph' style='font-size:20px'>Remove upload marking from all pictures selected for upload to<br>the FTP server in the current connection setting profile.</p>",
+                "markdown": "Remove upload marking from all pictures selected for upload to\nthe FTP server in the current connection setting profile.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1054,
+                    "y": 0.7979
+                },
+                {
+                    "x": 0.9175,
+                    "y": 0.7979
+                },
+                {
+                    "x": 0.9175,
+                    "y": 0.8492
+                },
+                {
+                    "x": 0.1054,
+                    "y": 0.8492
+                }
+            ],
+            "id": 13,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<br><footer id='14' style='font-size:22px'>Network/USB<br>Setting<br>Menus</footer>",
+                "markdown": "Network/USB\nSetting\nMenus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9569,
+                    "y": 0.4287
+                },
+                {
+                    "x": 0.9798,
+                    "y": 0.4287
+                },
+                {
+                    "x": 0.9798,
+                    "y": 0.6373
+                },
+                {
+                    "x": 0.9569,
+                    "y": 0.6373
+                }
+            ],
+            "id": 14,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='15' style='font-size:22px'>327</footer>",
+                "markdown": "327",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.8605,
+                    "y": 0.9564
+                },
+                {
+                    "x": 0.9177,
+                    "y": 0.9564
+                },
+                {
+                    "x": 0.9177,
+                    "y": 0.979
+                },
+                {
+                    "x": 0.8605,
+                    "y": 0.979
+                }
+            ],
+            "id": 15,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

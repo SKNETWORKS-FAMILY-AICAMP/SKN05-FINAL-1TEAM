@@ -1,0 +1,180 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "# Menu List\n\nCamera menu options are listed below.\n\n## Shooting Menus\n\nAdjust settings when shooting photos or movies.\n\n> See page 125 for details.\n\n## Photo Menus\n\nItems marked with both !Camera Icon and !Movie Icon icons are available in both the still photography and movie shooting menus. Changes to these items in either menu also apply to the item in the remaining menu.\n\n| Image Quality Setting       | Page | Image Quality Setting       | Page |\n|-----------------------------|------|-----------------------------|------|\n| IMAGE SIZE                  | 126  | HIGH ISO NR                 | 140  |\n| IMAGE QUALITY               | 127  | CLARITY                     | 141  |\n| RAW RECORDING               | 128  | LONG EXPOSURE NR            | 141  |\n| SELECT JPEG/HEIF            | 129  | LENS MODULATION OPTIMIZER   | 141  |\n| FILM SIMULATION             | 130  | COLOR SPACE                 | 141  |\n| MONOCHROMATIC COLOR         | 132  | !Pixel Mapping Icon PIXEL MAPPING | 142  |\n| GRAIN EFFECT                | 132  | !Edit/Save Icon EDIT/SAVE CUSTOM SETTING | 142  |\n| COLOR CHROME EFFECT         | 133  | AUTO UPDATE CUSTOM SETTING  | 142  |\n| COLOR CHROME FX BLUE        | 133  | !Mount Adaptor Icon MOUNT ADAPTOR SETTING | 143  |\n| SMOOTH SKIN EFFECT          | 133  |                             |      |\n| DYNAMIC RANGE               | 134  |                             |      |\n| D RANGE PRIORITY            | 135  |                             |      |\n| WHITE BALANCE               | 136  |                             |      |\n| TONE CURVE                  | 140  |                             |      |\n| COLOR                       | 140  |                             |      |\n| SHARPNESS                   | 140  |                             |      |",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "Menu List",
+                    "md": "# Menu List"
+                },
+                {
+                    "type": "text",
+                    "value": "Camera menu options are listed below.",
+                    "md": "Camera menu options are listed below."
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "Shooting Menus",
+                    "md": "## Shooting Menus"
+                },
+                {
+                    "type": "text",
+                    "value": "Adjust settings when shooting photos or movies.\n\n> See page 125 for details.",
+                    "md": "Adjust settings when shooting photos or movies.\n\n> See page 125 for details."
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "Photo Menus",
+                    "md": "## Photo Menus"
+                },
+                {
+                    "type": "text",
+                    "value": "Items marked with both !Camera Icon and !Movie Icon icons are available in both the still photography and movie shooting menus. Changes to these items in either menu also apply to the item in the remaining menu.",
+                    "md": "Items marked with both !Camera Icon and !Movie Icon icons are available in both the still photography and movie shooting menus. Changes to these items in either menu also apply to the item in the remaining menu."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Image Quality Setting",
+                            "Page",
+                            "Image Quality Setting",
+                            "Page"
+                        ],
+                        [
+                            "IMAGE SIZE",
+                            "126",
+                            "HIGH ISO NR",
+                            "140"
+                        ],
+                        [
+                            "IMAGE QUALITY",
+                            "127",
+                            "CLARITY",
+                            "141"
+                        ],
+                        [
+                            "RAW RECORDING",
+                            "128",
+                            "LONG EXPOSURE NR",
+                            "141"
+                        ],
+                        [
+                            "SELECT JPEG/HEIF",
+                            "129",
+                            "LENS MODULATION OPTIMIZER",
+                            "141"
+                        ],
+                        [
+                            "FILM SIMULATION",
+                            "130",
+                            "COLOR SPACE",
+                            "141"
+                        ],
+                        [
+                            "MONOCHROMATIC COLOR",
+                            "132",
+                            "!Pixel Mapping Icon PIXEL MAPPING",
+                            "142"
+                        ],
+                        [
+                            "GRAIN EFFECT",
+                            "132",
+                            "!Edit/Save Icon EDIT/SAVE CUSTOM SETTING",
+                            "142"
+                        ],
+                        [
+                            "COLOR CHROME EFFECT",
+                            "133",
+                            "AUTO UPDATE CUSTOM SETTING",
+                            "142"
+                        ],
+                        [
+                            "COLOR CHROME FX BLUE",
+                            "133",
+                            "!Mount Adaptor Icon MOUNT ADAPTOR SETTING",
+                            "143"
+                        ],
+                        [
+                            "SMOOTH SKIN EFFECT",
+                            "133",
+                            "",
+                            ""
+                        ],
+                        [
+                            "DYNAMIC RANGE",
+                            "134",
+                            "",
+                            ""
+                        ],
+                        [
+                            "D RANGE PRIORITY",
+                            "135",
+                            "",
+                            ""
+                        ],
+                        [
+                            "WHITE BALANCE",
+                            "136",
+                            "",
+                            ""
+                        ],
+                        [
+                            "TONE CURVE",
+                            "140",
+                            "",
+                            ""
+                        ],
+                        [
+                            "COLOR",
+                            "140",
+                            "",
+                            ""
+                        ],
+                        [
+                            "SHARPNESS",
+                            "140",
+                            "",
+                            ""
+                        ]
+                    ],
+                    "md": "| Image Quality Setting       | Page | Image Quality Setting       | Page |\n|-----------------------------|------|-----------------------------|------|\n| IMAGE SIZE                  | 126  | HIGH ISO NR                 | 140  |\n| IMAGE QUALITY               | 127  | CLARITY                     | 141  |\n| RAW RECORDING               | 128  | LONG EXPOSURE NR            | 141  |\n| SELECT JPEG/HEIF            | 129  | LENS MODULATION OPTIMIZER   | 141  |\n| FILM SIMULATION             | 130  | COLOR SPACE                 | 141  |\n| MONOCHROMATIC COLOR         | 132  | !Pixel Mapping Icon PIXEL MAPPING | 142  |\n| GRAIN EFFECT                | 132  | !Edit/Save Icon EDIT/SAVE CUSTOM SETTING | 142  |\n| COLOR CHROME EFFECT         | 133  | AUTO UPDATE CUSTOM SETTING  | 142  |\n| COLOR CHROME FX BLUE        | 133  | !Mount Adaptor Icon MOUNT ADAPTOR SETTING | 143  |\n| SMOOTH SKIN EFFECT          | 133  |                             |      |\n| DYNAMIC RANGE               | 134  |                             |      |\n| D RANGE PRIORITY            | 135  |                             |      |\n| WHITE BALANCE               | 136  |                             |      |\n| TONE CURVE                  | 140  |                             |      |\n| COLOR                       | 140  |                             |      |\n| SHARPNESS                   | 140  |                             |      |",
+                    "isPerfectTable": true,
+                    "csv": "\"Image Quality Setting\",\"Page\",\"Image Quality Setting\",\"Page\"\n\"IMAGE SIZE\",\"126\",\"HIGH ISO NR\",\"140\"\n\"IMAGE QUALITY\",\"127\",\"CLARITY\",\"141\"\n\"RAW RECORDING\",\"128\",\"LONG EXPOSURE NR\",\"141\"\n\"SELECT JPEG/HEIF\",\"129\",\"LENS MODULATION OPTIMIZER\",\"141\"\n\"FILM SIMULATION\",\"130\",\"COLOR SPACE\",\"141\"\n\"MONOCHROMATIC COLOR\",\"132\",\"!Pixel Mapping Icon PIXEL MAPPING\",\"142\"\n\"GRAIN EFFECT\",\"132\",\"!Edit/Save Icon EDIT/SAVE CUSTOM SETTING\",\"142\"\n\"COLOR CHROME EFFECT\",\"133\",\"AUTO UPDATE CUSTOM SETTING\",\"142\"\n\"COLOR CHROME FX BLUE\",\"133\",\"!Mount Adaptor Icon MOUNT ADAPTOR SETTING\",\"143\"\n\"SMOOTH SKIN EFFECT\",\"133\",\"\",\"\"\n\"DYNAMIC RANGE\",\"134\",\"\",\"\"\n\"D RANGE PRIORITY\",\"135\",\"\",\"\"\n\"WHITE BALANCE\",\"136\",\"\",\"\"\n\"TONE CURVE\",\"140\",\"\",\"\"\n\"COLOR\",\"140\",\"\",\"\"\n\"SHARPNESS\",\"140\",\"\",\"\""
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 317.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "9a9bde76-852c-4f82-a98a-d3cfdea06d86",
+    "file_path": "../data/raw_data/gfx100ii/gfx100ii_split/gfx100ii_page4.pdf"
+}

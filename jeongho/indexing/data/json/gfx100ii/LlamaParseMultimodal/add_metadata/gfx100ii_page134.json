@@ -1,0 +1,8 @@
+{
+    "parsing_result": "# Dynamic Range\n\nAdjust dynamic range. Wide dynamic ranges reduce loss of detail in highlights for more natural results with high-contrast or backlit scenes.\n\n| Option | Description |\n|--------|-------------|\n| AUTO   | Choose for increased contrast. |\n| !100% 100% | Reduce loss of detail in highlights. |\n| !200% 200% | Reduce loss of detail in highlights. |\n| !400% 400% | Reduce loss of detail in highlights. |\n\n> ⚠️ Mottling may appear in pictures taken at higher values. Choose a value according to the scene.\n\n- If **AUTO** is selected, the camera will automatically choose either !100% 100% or !200% 200% according to the subject and shooting conditions. Shutter speed and aperture will be displayed when the shutter button is pressed halfway.\n- !200% 200% is available at sensitivities from ISO 160 to ISO 12800.\n- !400% 400% at sensitivities from ISO 320 to 12800.",
+    "embedding_result": [],
+    "metadata": {
+        "page": 134,
+        "model": "gfx100ii"
+    }
+}

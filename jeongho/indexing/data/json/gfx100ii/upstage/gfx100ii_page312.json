@@ -1,0 +1,266 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:22px'>Network/USB<br>Setting<br>Menus</header>\n<br><p id='1' data-category='paragraph' style='font-size:14px'>Remote Movie Recording Using a Web Browser</p>\n<h1 id='2' style='font-size:20px'>Copying Settings to Other Cameras</h1>\n<br><h1 id='3' style='font-size:20px'>Settings can be copied to multiple cameras simultaneously.</h1>\n<p id='4' data-category='paragraph' style='font-size:18px'>1 Select the source camera in the \"Choose camera\" area.</p>\n<table id='5' style='font-size:18px'><tr><td>2</td><td>Select \"Copy\" in the \"Camera settings (advanced)\" menu. Copy</td></tr><tr><td>3 Select the destination cameras and click or tap \"Copy\". The settings currently in effect on the source camera will be copied to the destination cameras.</td><td>Copy</td></tr></table>\n<p id='6' data-category='paragraph' style='font-size:16px'>Only files created with cameras of the same type can be used.</p>\n<h1 id='7' style='font-size:14px'>8</h1>\n<footer id='8' style='font-size:20px'>312</footer>",
+        "markdown": "Network/USB\nSetting\nMenus\n\nRemote Movie Recording Using a Web Browser\n\n# Copying Settings to Other Cameras\n\n# Settings can be copied to multiple cameras simultaneously.\n\n1 Select the source camera in the \"Choose camera\" area.\n\n| 2 | Select \"Copy\" in the \"Camera settings (advanced)\" menu. Copy |\n| --- | --- |\n| 3 Select the destination cameras and click or tap \"Copy\". The settings currently in effect on the source camera will be copied to the destination cameras. | Copy |\n\n\nOnly files created with cameras of the same type can be used.\n\n# 8\n\n312",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:22px'>Network/USB<br>Setting<br>Menus</header>",
+                "markdown": "Network/USB\nSetting\nMenus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0185,
+                    "y": 0.4282
+                },
+                {
+                    "x": 0.0403,
+                    "y": 0.4282
+                },
+                {
+                    "x": 0.0403,
+                    "y": 0.6373
+                },
+                {
+                    "x": 0.0185,
+                    "y": 0.6373
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='1' data-category='paragraph' style='font-size:14px'>Remote Movie Recording Using a Web Browser</p>",
+                "markdown": "Remote Movie Recording Using a Web Browser",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.4335,
+                    "y": 0.0288
+                },
+                {
+                    "x": 0.8932,
+                    "y": 0.0288
+                },
+                {
+                    "x": 0.8932,
+                    "y": 0.0507
+                },
+                {
+                    "x": 0.4335,
+                    "y": 0.0507
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='2' style='font-size:20px'>Copying Settings to Other Cameras</h1>",
+                "markdown": "# Copying Settings to Other Cameras",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0923,
+                    "y": 0.0744
+                },
+                {
+                    "x": 0.5303,
+                    "y": 0.0744
+                },
+                {
+                    "x": 0.5303,
+                    "y": 0.0979
+                },
+                {
+                    "x": 0.0923,
+                    "y": 0.0979
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='3' style='font-size:20px'>Settings can be copied to multiple cameras simultaneously.</h1>",
+                "markdown": "# Settings can be copied to multiple cameras simultaneously.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0808,
+                    "y": 0.1041
+                },
+                {
+                    "x": 0.835,
+                    "y": 0.1041
+                },
+                {
+                    "x": 0.835,
+                    "y": 0.1289
+                },
+                {
+                    "x": 0.0808,
+                    "y": 0.1289
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='4' data-category='paragraph' style='font-size:18px'>1 Select the source camera in the \"Choose camera\" area.</p>",
+                "markdown": "1 Select the source camera in the \"Choose camera\" area.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0936,
+                    "y": 0.1433
+                },
+                {
+                    "x": 0.8118,
+                    "y": 0.1433
+                },
+                {
+                    "x": 0.8118,
+                    "y": 0.1687
+                },
+                {
+                    "x": 0.0936,
+                    "y": 0.1687
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='5' style='font-size:18px'><tr><td>2</td><td>Select \"Copy\" in the \"Camera settings (advanced)\" menu. Copy</td></tr><tr><td>3 Select the destination cameras and click or tap \"Copy\". The settings currently in effect on the source camera will be copied to the destination cameras.</td><td>Copy</td></tr></table>",
+                "markdown": "| 2 | Select \"Copy\" in the \"Camera settings (advanced)\" menu. Copy |\n| --- | --- |\n| 3 Select the destination cameras and click or tap \"Copy\". The settings currently in effect on the source camera will be copied to the destination cameras. | Copy |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0969,
+                    "y": 0.2039
+                },
+                {
+                    "x": 0.8905,
+                    "y": 0.2039
+                },
+                {
+                    "x": 0.8905,
+                    "y": 0.4419
+                },
+                {
+                    "x": 0.0969,
+                    "y": 0.4419
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='6' data-category='paragraph' style='font-size:16px'>Only files created with cameras of the same type can be used.</p>",
+                "markdown": "Only files created with cameras of the same type can be used.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.101,
+                    "y": 0.4633
+                },
+                {
+                    "x": 0.7968,
+                    "y": 0.4633
+                },
+                {
+                    "x": 0.7968,
+                    "y": 0.4858
+                },
+                {
+                    "x": 0.101,
+                    "y": 0.4858
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='7' style='font-size:14px'>8</h1>",
+                "markdown": "# 8",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0278,
+                    "y": 0.6597
+                },
+                {
+                    "x": 0.0417,
+                    "y": 0.6597
+                },
+                {
+                    "x": 0.0417,
+                    "y": 0.6746
+                },
+                {
+                    "x": 0.0278,
+                    "y": 0.6746
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='8' style='font-size:20px'>312</footer>",
+                "markdown": "312",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0829,
+                    "y": 0.9564
+                },
+                {
+                    "x": 0.1393,
+                    "y": 0.9564
+                },
+                {
+                    "x": 0.1393,
+                    "y": 0.9795
+                },
+                {
+                    "x": 0.0829,
+                    "y": 0.9795
+                }
+            ],
+            "id": 8,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

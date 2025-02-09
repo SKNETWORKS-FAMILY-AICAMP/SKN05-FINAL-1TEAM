@@ -1,0 +1,82 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "# BUTTON/DIAL SETTING\n\n## Q MENU BACKGROUND\nChoose **TRANSPARENT** for a transparent background.\n\n| Options     |\n|-------------|\n| TRANSPARENT |\n| BLACK       |\n\n## FUNCTION (Fn) SETTING\nChoose the roles played by the function buttons.\n\n1. Select **BUTTON/DIAL SETTING > FUNCTION (Fn) SETTING** in the **SET UP** tab.\n2. Highlight the desired control and press **MENU/OK**.\n3. Highlight any of the following options and press **MENU/OK** to assign it to the selected control.\n\n> - **AE LOCK ONLY, AF LOCK ONLY, AE/AF LOCK, AF-ON,** and **AWB LOCK ONLY** cannot be assigned to the touch function buttons (**T-Fn1** through **T-Fn4**) or to the viewfinder selector (rotate and hold).\n> - Function button assignment options can also be accessed by holding the **DISP/BACK** button.",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "BUTTON/DIAL SETTING",
+                    "md": "# BUTTON/DIAL SETTING"
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "Q MENU BACKGROUND",
+                    "md": "## Q MENU BACKGROUND"
+                },
+                {
+                    "type": "text",
+                    "value": "Choose **TRANSPARENT** for a transparent background.",
+                    "md": "Choose **TRANSPARENT** for a transparent background."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Options"
+                        ],
+                        [
+                            "TRANSPARENT"
+                        ],
+                        [
+                            "BLACK"
+                        ]
+                    ],
+                    "md": "| Options     |\n|-------------|\n| TRANSPARENT |\n| BLACK       |",
+                    "isPerfectTable": true,
+                    "csv": "\"Options\"\n\"TRANSPARENT\"\n\"BLACK\""
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "FUNCTION (Fn) SETTING",
+                    "md": "## FUNCTION (Fn) SETTING"
+                },
+                {
+                    "type": "text",
+                    "value": "Choose the roles played by the function buttons.\n\n1. Select **BUTTON/DIAL SETTING > FUNCTION (Fn) SETTING** in the **SET UP** tab.\n2. Highlight the desired control and press **MENU/OK**.\n3. Highlight any of the following options and press **MENU/OK** to assign it to the selected control.\n\n> - **AE LOCK ONLY, AF LOCK ONLY, AE/AF LOCK, AF-ON,** and **AWB LOCK ONLY** cannot be assigned to the touch function buttons (**T-Fn1** through **T-Fn4**) or to the viewfinder selector (rotate and hold).\n> - Function button assignment options can also be accessed by holding the **DISP/BACK** button.",
+                    "md": "Choose the roles played by the function buttons.\n\n1. Select **BUTTON/DIAL SETTING > FUNCTION (Fn) SETTING** in the **SET UP** tab.\n2. Highlight the desired control and press **MENU/OK**.\n3. Highlight any of the following options and press **MENU/OK** to assign it to the selected control.\n\n> - **AE LOCK ONLY, AF LOCK ONLY, AE/AF LOCK, AF-ON,** and **AWB LOCK ONLY** cannot be assigned to the touch function buttons (**T-Fn1** through **T-Fn4**) or to the viewfinder selector (rotate and hold).\n> - Function button assignment options can also be accessed by holding the **DISP/BACK** button."
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 586.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "4298e788-5af6-4c75-bf98-69556bf384ca",
+    "file_path": "../data/raw_data/x100v/x100v_split/x100v_page241.pdf"
+}

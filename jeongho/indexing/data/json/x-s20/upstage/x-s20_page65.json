@@ -1,0 +1,238 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:16px'>Viewing Movies</header>\n<h1 id='1' style='font-size:20px'>Playback controls can be displayed by<br>tapping ≡ during playback.</h1>\n<br><figure id='2' data-category='chart'><img style='font-size:14px' alt=\"1m23s \n \n1m23s \n▲ \n2 \n▼ \nMIC \n▲▲ ' ▶▶ X \n\" data-coord=\"top-left:(1756,258); bottom-right:(2531,1404)\" /></figure>\n<table id='3' style='font-size:14px'><tr><td colspan=\"2\">Control</td><td>Function</td></tr><tr><td>II</td><td>Pause</td><td>Pause playback. Tap again to resume.</td></tr><tr><td>▶▶ ◀◀</td><td>Rewind/advance</td><td>Rewind or advance the movie. When playback paused, you can tap these buttons to rewind or advance a frame at a time.</td></tr><tr><td>▲ ▼</td><td>Volume</td><td>Adjust playback volume.</td></tr><tr><td>MIC</td><td>Channel selection</td><td>Adjust audio settings for use when viewing 4ch movies.</td></tr><tr><td>X</td><td>Close</td><td>Hide movie playback controls.</td></tr><tr><td>←</td><td>Back</td><td>End playback and return to the shooting dis- play.</td></tr></table>\n<br><p id='4' data-category='paragraph' style='font-size:16px'>Volume adjustment and channel selection are not available while play-<br>back is in progress. Pause playback to use these controls.</p>\n<br><footer id='5' style='font-size:22px'>Movie<br>Recording<br>and<br>Playback</footer>\n<br><footer id='6' style='font-size:16px'>4</footer>\n<footer id='7' style='font-size:18px'>65</footer>",
+        "markdown": "Viewing Movies\n\n# Playback controls can be displayed by\ntapping ≡ during playback.\n\n![image](/image/placeholder)\n1m23s \n \n1m23s \n▲ \n2 \n▼ \nMIC \n▲▲ \" ▶▶ X \n\n\n| Control | Control | Function |\n| --- | --- | --- |\n| II | Pause | Pause playback. Tap again to resume. |\n| ▶▶ ◀◀ | Rewind/advance | Rewind or advance the movie. When playback paused, you can tap these buttons to rewind or advance a frame at a time. |\n| ▲ ▼ | Volume | Adjust playback volume. |\n| MIC | Channel selection | Adjust audio settings for use when viewing 4ch movies. |\n| X | Close | Hide movie playback controls. |\n| ← | Back | End playback and return to the shooting dis- play. |\n\n\nVolume adjustment and channel selection are not available while play-\nback is in progress. Pause playback to use these controls.\n\nMovie\nRecording\nand\nPlayback\n\n4\n\n65",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:16px'>Viewing Movies</header>",
+                "markdown": "Viewing Movies",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.7588,
+                    "y": 0.029
+                },
+                {
+                    "x": 0.9178,
+                    "y": 0.029
+                },
+                {
+                    "x": 0.9178,
+                    "y": 0.0497
+                },
+                {
+                    "x": 0.7588,
+                    "y": 0.0497
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='1' style='font-size:20px'>Playback controls can be displayed by<br>tapping ≡ during playback.</h1>",
+                "markdown": "# Playback controls can be displayed by\ntapping ≡ during playback.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.104,
+                    "y": 0.0707
+                },
+                {
+                    "x": 0.6253,
+                    "y": 0.0707
+                },
+                {
+                    "x": 0.6253,
+                    "y": 0.1248
+                },
+                {
+                    "x": 0.104,
+                    "y": 0.1248
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "figure",
+            "content": {
+                "html": "<br><figure id='2' data-category='chart'><img style='font-size:14px' alt=\"1m23s \n \n1m23s \n▲ \n2 \n▼ \nMIC \n▲▲ ' ▶▶ X \n\" data-coord=\"top-left:(1756,258); bottom-right:(2531,1404)\" /></figure>",
+                "markdown": "![image](/image/placeholder)\n1m23s \n \n1m23s \n▲ \n2 \n▼ \nMIC \n▲▲ \" ▶▶ X \n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6356,
+                    "y": 0.0663
+                },
+                {
+                    "x": 0.9157,
+                    "y": 0.0663
+                },
+                {
+                    "x": 0.9157,
+                    "y": 0.3602
+                },
+                {
+                    "x": 0.6356,
+                    "y": 0.3602
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='3' style='font-size:14px'><tr><td colspan=\"2\">Control</td><td>Function</td></tr><tr><td>II</td><td>Pause</td><td>Pause playback. Tap again to resume.</td></tr><tr><td>▶▶ ◀◀</td><td>Rewind/advance</td><td>Rewind or advance the movie. When playback paused, you can tap these buttons to rewind or advance a frame at a time.</td></tr><tr><td>▲ ▼</td><td>Volume</td><td>Adjust playback volume.</td></tr><tr><td>MIC</td><td>Channel selection</td><td>Adjust audio settings for use when viewing 4ch movies.</td></tr><tr><td>X</td><td>Close</td><td>Hide movie playback controls.</td></tr><tr><td>←</td><td>Back</td><td>End playback and return to the shooting dis- play.</td></tr></table>",
+                "markdown": "| Control | Control | Function |\n| --- | --- | --- |\n| II | Pause | Pause playback. Tap again to resume. |\n| ▶▶ ◀◀ | Rewind/advance | Rewind or advance the movie. When playback paused, you can tap these buttons to rewind or advance a frame at a time. |\n| ▲ ▼ | Volume | Adjust playback volume. |\n| MIC | Channel selection | Adjust audio settings for use when viewing 4ch movies. |\n| X | Close | Hide movie playback controls. |\n| ← | Back | End playback and return to the shooting dis- play. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1081,
+                    "y": 0.3754
+                },
+                {
+                    "x": 0.9181,
+                    "y": 0.3754
+                },
+                {
+                    "x": 0.9181,
+                    "y": 0.6902
+                },
+                {
+                    "x": 0.1081,
+                    "y": 0.6902
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='4' data-category='paragraph' style='font-size:16px'>Volume adjustment and channel selection are not available while play-<br>back is in progress. Pause playback to use these controls.</p>",
+                "markdown": "Volume adjustment and channel selection are not available while play-\nback is in progress. Pause playback to use these controls.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1116,
+                    "y": 0.6864
+                },
+                {
+                    "x": 0.9137,
+                    "y": 0.6864
+                },
+                {
+                    "x": 0.9137,
+                    "y": 0.732
+                },
+                {
+                    "x": 0.1116,
+                    "y": 0.732
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<br><footer id='5' style='font-size:22px'>Movie<br>Recording<br>and<br>Playback</footer>",
+                "markdown": "Movie\nRecording\nand\nPlayback",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9569,
+                    "y": 0.4553
+                },
+                {
+                    "x": 0.9814,
+                    "y": 0.4553
+                },
+                {
+                    "x": 0.9814,
+                    "y": 0.6803
+                },
+                {
+                    "x": 0.9569,
+                    "y": 0.6803
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<br><footer id='6' style='font-size:16px'>4</footer>",
+                "markdown": "4",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9576,
+                    "y": 0.4175
+                },
+                {
+                    "x": 0.9762,
+                    "y": 0.4175
+                },
+                {
+                    "x": 0.9762,
+                    "y": 0.437
+                },
+                {
+                    "x": 0.9576,
+                    "y": 0.437
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='7' style='font-size:18px'>65</footer>",
+                "markdown": "65",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.8776,
+                    "y": 0.9568
+                },
+                {
+                    "x": 0.9171,
+                    "y": 0.9568
+                },
+                {
+                    "x": 0.9171,
+                    "y": 0.9797
+                },
+                {
+                    "x": 0.8776,
+                    "y": 0.9797
+                }
+            ],
+            "id": 7,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

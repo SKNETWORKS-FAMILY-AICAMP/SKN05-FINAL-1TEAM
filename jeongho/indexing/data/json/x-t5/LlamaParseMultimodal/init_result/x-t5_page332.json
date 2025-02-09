@@ -1,0 +1,119 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "# POWER MANAGEMENT\n\nAdjust power management settings.\n\nTo access power management settings, press **MENU/OK**, select the !Set Up Icon (SET UP) tab, and choose **POWER MANAGEMENT**.\n\n!Power Management Menu\n\n## AUTO POWER OFF\n\nChoose the length of time before the camera turns off automatically when no operations are performed. Shorter times increase battery life; if **OFF** is selected, the camera must be turned off manually.\n\n| Options |        |\n|---------|--------|\n| 5 MIN   | 2 MIN  |\n| 1 MIN   | 30 SEC |\n| 15 SEC  | OFF    |\n\n## PERFORMANCE\n\nSelect **BOOST** to improve focus and viewfinder display performance.\n\n| Option   | Description                                                                 |\n|----------|-----------------------------------------------------------------------------|\n| BOOST    | Boost camera focus and viewfinder display performance. The battery drains faster than when **NORMAL** is selected. |\n| NORMAL   | Choose for standard focus and viewfinder display performance and battery endurance. |\n| ECONOMY  | Limit autofocus and viewfinder performance. This option offers better battery endurance than does **NORMAL**. |",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "POWER MANAGEMENT",
+                    "md": "# POWER MANAGEMENT"
+                },
+                {
+                    "type": "text",
+                    "value": "Adjust power management settings.\n\nTo access power management settings, press **MENU/OK**, select the !Set Up Icon (SET UP) tab, and choose **POWER MANAGEMENT**.\n\n!Power Management Menu",
+                    "md": "Adjust power management settings.\n\nTo access power management settings, press **MENU/OK**, select the !Set Up Icon (SET UP) tab, and choose **POWER MANAGEMENT**.\n\n!Power Management Menu"
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "AUTO POWER OFF",
+                    "md": "## AUTO POWER OFF"
+                },
+                {
+                    "type": "text",
+                    "value": "Choose the length of time before the camera turns off automatically when no operations are performed. Shorter times increase battery life; if **OFF** is selected, the camera must be turned off manually.",
+                    "md": "Choose the length of time before the camera turns off automatically when no operations are performed. Shorter times increase battery life; if **OFF** is selected, the camera must be turned off manually."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Options",
+                            ""
+                        ],
+                        [
+                            "5 MIN",
+                            "2 MIN"
+                        ],
+                        [
+                            "1 MIN",
+                            "30 SEC"
+                        ],
+                        [
+                            "15 SEC",
+                            "OFF"
+                        ]
+                    ],
+                    "md": "| Options |        |\n|---------|--------|\n| 5 MIN   | 2 MIN  |\n| 1 MIN   | 30 SEC |\n| 15 SEC  | OFF    |",
+                    "isPerfectTable": true,
+                    "csv": "\"Options\",\"\"\n\"5 MIN\",\"2 MIN\"\n\"1 MIN\",\"30 SEC\"\n\"15 SEC\",\"OFF\""
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "PERFORMANCE",
+                    "md": "## PERFORMANCE"
+                },
+                {
+                    "type": "text",
+                    "value": "Select **BOOST** to improve focus and viewfinder display performance.",
+                    "md": "Select **BOOST** to improve focus and viewfinder display performance."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Option",
+                            "Description"
+                        ],
+                        [
+                            "BOOST",
+                            "Boost camera focus and viewfinder display performance. The battery drains faster than when **NORMAL** is selected."
+                        ],
+                        [
+                            "NORMAL",
+                            "Choose for standard focus and viewfinder display performance and battery endurance."
+                        ],
+                        [
+                            "ECONOMY",
+                            "Limit autofocus and viewfinder performance. This option offers better battery endurance than does **NORMAL**."
+                        ]
+                    ],
+                    "md": "| Option   | Description                                                                 |\n|----------|-----------------------------------------------------------------------------|\n| BOOST    | Boost camera focus and viewfinder display performance. The battery drains faster than when **NORMAL** is selected. |\n| NORMAL   | Choose for standard focus and viewfinder display performance and battery endurance. |\n| ECONOMY  | Limit autofocus and viewfinder performance. This option offers better battery endurance than does **NORMAL**. |",
+                    "isPerfectTable": true,
+                    "csv": "\"Option\",\"Description\"\n\"BOOST\",\"Boost camera focus and viewfinder display performance. The battery drains faster than when **NORMAL** is selected.\"\n\"NORMAL\",\"Choose for standard focus and viewfinder display performance and battery endurance.\"\n\"ECONOMY\",\"Limit autofocus and viewfinder performance. This option offers better battery endurance than does **NORMAL**.\""
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "parsingMode": "multimodal-openai-gpt4o",
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 605.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "dcd22dc1-9c72-4237-bff8-489453c5a564",
+    "file_path": "../data/raw_data/x-t5/x-t5_split/x-t5_page332.pdf"
+}

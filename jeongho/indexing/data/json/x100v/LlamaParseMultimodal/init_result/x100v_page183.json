@@ -1,0 +1,110 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "\n# MOVIE SETTING\n\n## FACE/EYE DETECTION SETTING\nEnable or disable Intelligent Face Detection when recording movies.\n\n| Option            | Description                                                                 |\n|-------------------|-----------------------------------------------------------------------------|\n| FACE DETECTION ON | See “FACE/EYE DETECTION SETTING” (p. 128).                                  |\n| OFF               | Intelligent Face Detection and eye priority off.                            |\n\n> 💡 **Note:**  \n> When Intelligent Face Detection is enabled, the camera will focus using continuous AF even when single AF (S) is chosen with the focus mode selector. Intelligent Face Detection is not available in manual focus mode.\n\n## MF ASSIST\nChoose how focus is displayed in manual focus mode.\n\n| Option               | Description                                                                 |\n|----------------------|-----------------------------------------------------------------------------|\n| STANDARD             | Focus is displayed normally (focus peaking is not available).               |\n| FOCUS PEAK HIGHLIGHT | The camera heightens high-contrast outlines. Choose a color and peaking level. |\n",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "MOVIE SETTING",
+                    "md": "# MOVIE SETTING"
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "FACE/EYE DETECTION SETTING",
+                    "md": "## FACE/EYE DETECTION SETTING"
+                },
+                {
+                    "type": "text",
+                    "value": "Enable or disable Intelligent Face Detection when recording movies.",
+                    "md": "Enable or disable Intelligent Face Detection when recording movies."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Option",
+                            "Description"
+                        ],
+                        [
+                            "FACE DETECTION ON",
+                            "See “FACE/EYE DETECTION SETTING” (p. 128)."
+                        ],
+                        [
+                            "OFF",
+                            "Intelligent Face Detection and eye priority off."
+                        ]
+                    ],
+                    "md": "| Option            | Description                                                                 |\n|-------------------|-----------------------------------------------------------------------------|\n| FACE DETECTION ON | See “FACE/EYE DETECTION SETTING” (p. 128).                                  |\n| OFF               | Intelligent Face Detection and eye priority off.                            |",
+                    "isPerfectTable": true,
+                    "csv": "\"Option\",\"Description\"\n\"FACE DETECTION ON\",\"See “FACE/EYE DETECTION SETTING” (p. 128).\"\n\"OFF\",\"Intelligent Face Detection and eye priority off.\""
+                },
+                {
+                    "type": "text",
+                    "value": "> 💡 **Note:**  \n> When Intelligent Face Detection is enabled, the camera will focus using continuous AF even when single AF (S) is chosen with the focus mode selector. Intelligent Face Detection is not available in manual focus mode.",
+                    "md": "> 💡 **Note:**  \n> When Intelligent Face Detection is enabled, the camera will focus using continuous AF even when single AF (S) is chosen with the focus mode selector. Intelligent Face Detection is not available in manual focus mode."
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "MF ASSIST",
+                    "md": "## MF ASSIST"
+                },
+                {
+                    "type": "text",
+                    "value": "Choose how focus is displayed in manual focus mode.",
+                    "md": "Choose how focus is displayed in manual focus mode."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Option",
+                            "Description"
+                        ],
+                        [
+                            "STANDARD",
+                            "Focus is displayed normally (focus peaking is not available)."
+                        ],
+                        [
+                            "FOCUS PEAK HIGHLIGHT",
+                            "The camera heightens high-contrast outlines. Choose a color and peaking level."
+                        ]
+                    ],
+                    "md": "| Option               | Description                                                                 |\n|----------------------|-----------------------------------------------------------------------------|\n| STANDARD             | Focus is displayed normally (focus peaking is not available).               |\n| FOCUS PEAK HIGHLIGHT | The camera heightens high-contrast outlines. Choose a color and peaking level. |",
+                    "isPerfectTable": true,
+                    "csv": "\"Option\",\"Description\"\n\"STANDARD\",\"Focus is displayed normally (focus peaking is not available).\"\n\"FOCUS PEAK HIGHLIGHT\",\"The camera heightens high-contrast outlines. Choose a color and peaking level.\""
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 720.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "54a37117-7656-4afd-a6cb-845bee9cb9cc",
+    "file_path": "../data/raw_data/x100v/x100v_split/x100v_page183.pdf"
+}

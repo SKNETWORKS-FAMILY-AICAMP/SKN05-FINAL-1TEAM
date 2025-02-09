@@ -1,0 +1,70 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<p id='0' data-category='paragraph' style='font-size:18px'>Before You Begin</p>\n<footer id='1' style='font-size:14px'>1</footer>",
+        "markdown": "Before You Begin\n\n1",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='0' data-category='paragraph' style='font-size:18px'>Before You Begin</p>",
+                "markdown": "Before You Begin",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.3916,
+                    "y": 0.3623
+                },
+                {
+                    "x": 0.7931,
+                    "y": 0.3623
+                },
+                {
+                    "x": 0.7931,
+                    "y": 0.4012
+                },
+                {
+                    "x": 0.3916,
+                    "y": 0.4012
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='1' style='font-size:14px'>1</footer>",
+                "markdown": "1",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.8963,
+                    "y": 0.9569
+                },
+                {
+                    "x": 0.916,
+                    "y": 0.9569
+                },
+                {
+                    "x": 0.916,
+                    "y": 0.9784
+                },
+                {
+                    "x": 0.8963,
+                    "y": 0.9784
+                }
+            ],
+            "id": 1,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

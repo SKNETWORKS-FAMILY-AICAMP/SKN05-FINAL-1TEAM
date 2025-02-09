@@ -1,0 +1,294 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:14px'>IMAGE QUALITY SETTING</header>\n<h1 id='1' style='font-size:18px'>Color Temperature</h1>\n<br><p id='2' data-category='paragraph' style='font-size:16px'>Color temperature is an objective measure of the color of a light source, ex-<br>pressed in Kelvin (K). Light sources with a color temperature close to that of<br>direct sunlight appear white; light sources with a lower color temperature<br>have a yellow or red cast, while those with a higher color temperature are<br>tinged with blue.</p>\n<h1 id='3' style='font-size:18px'>DYNAMIC RANGE</h1>\n\n<br><table id='5' style='font-size:14px'><tr><td colspan=\"4\">Options</td></tr><tr><td>AUTO</td><td>R100 100%</td><td>R200 200%</td><td>R 400 400%</td></tr><br><caption id='4' style='font-size:20px'>Control contrast. Choose lower values to increase contrast when<br>shooting indoors or under overcast skies, higher values to reduce<br>loss of detail in highlights when photographing high-contrast<br>scenes. Higher values are recommended for scenes that include<br>both sunlight and deep shade, for such high-contrast subjects as<br>sunlight on water, brightly-lit autumn leaves, and portraits taken<br>against a blue sky, and for white objects or people wearing white.</caption></table>\n<br><p id='6' data-category='paragraph' style='font-size:16px'>Mottling may appear in pictures taken at higher values. Choose a val-<br>ue according to the scene.</p>\n<p id='7' data-category='list' style='font-size:16px'>If AUTO is selected, the camera will automatically choose either<br>R100 100% or R200 200% according to the subject and shooting con-<br>ditions. Shutter speed and aperture will be displayed when the shut-<br>ter button is pressed halfway.<br>● R200 200% is available at sensitivities of from ISO 320 to ISO 12800,<br>R 400 400% at sensitivities of from ISO 640 to 12800.</p>\n<br><footer id='8' style='font-size:22px'>6<br>The<br>Shooting<br>Menus</footer>\n<footer id='9' style='font-size:20px'>113</footer>",
+        "markdown": "IMAGE QUALITY SETTING\n\n# Color Temperature\n\nColor temperature is an objective measure of the color of a light source, ex-\npressed in Kelvin (K). Light sources with a color temperature close to that of\ndirect sunlight appear white; light sources with a lower color temperature\nhave a yellow or red cast, while those with a higher color temperature are\ntinged with blue.\n\n# DYNAMIC RANGE\n\nControl contrast. Choose lower values to increase contrast when\nshooting indoors or under overcast skies, higher values to reduce\nloss of detail in highlights when photographing high-contrast\nscenes. Higher values are recommended for scenes that include\nboth sunlight and deep shade, for such high-contrast subjects as\nsunlight on water, brightly-lit autumn leaves, and portraits taken\nagainst a blue sky, and for white objects or people wearing white.\n\n| Options | Options | Options | Options |\n| --- | --- | --- | --- |\n| AUTO | R100 100% | R200 200% | R 400 400% |\n\n\nMottling may appear in pictures taken at higher values. Choose a val-\nue according to the scene.\n\n- If AUTO is selected, the camera will automatically choose either\n- R100 100% or R200 200% according to the subject and shooting con-\n- ditions. Shutter speed and aperture will be displayed when the shut-\n- ter button is pressed halfway.\n- ● R200 200% is available at sensitivities of from ISO 320 to ISO 12800,\n- R 400 400% at sensitivities of from ISO 640 to 12800.\n\n\n6\nThe\nShooting\nMenus\n\n113",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:14px'>IMAGE QUALITY SETTING</header>",
+                "markdown": "IMAGE QUALITY SETTING",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6686,
+                    "y": 0.028
+                },
+                {
+                    "x": 0.9186,
+                    "y": 0.028
+                },
+                {
+                    "x": 0.9186,
+                    "y": 0.0501
+                },
+                {
+                    "x": 0.6686,
+                    "y": 0.0501
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='1' style='font-size:18px'>Color Temperature</h1>",
+                "markdown": "# Color Temperature",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1063,
+                    "y": 0.0726
+                },
+                {
+                    "x": 0.2896,
+                    "y": 0.0726
+                },
+                {
+                    "x": 0.2896,
+                    "y": 0.0934
+                },
+                {
+                    "x": 0.1063,
+                    "y": 0.0934
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='2' data-category='paragraph' style='font-size:16px'>Color temperature is an objective measure of the color of a light source, ex-<br>pressed in Kelvin (K). Light sources with a color temperature close to that of<br>direct sunlight appear white; light sources with a lower color temperature<br>have a yellow or red cast, while those with a higher color temperature are<br>tinged with blue.</p>",
+                "markdown": "Color temperature is an objective measure of the color of a light source, ex-\npressed in Kelvin (K). Light sources with a color temperature close to that of\ndirect sunlight appear white; light sources with a lower color temperature\nhave a yellow or red cast, while those with a higher color temperature are\ntinged with blue.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1082,
+                    "y": 0.0943
+                },
+                {
+                    "x": 0.922,
+                    "y": 0.0943
+                },
+                {
+                    "x": 0.922,
+                    "y": 0.2097
+                },
+                {
+                    "x": 0.1082,
+                    "y": 0.2097
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='3' style='font-size:18px'>DYNAMIC RANGE</h1>",
+                "markdown": "# DYNAMIC RANGE",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1097,
+                    "y": 0.2391
+                },
+                {
+                    "x": 0.3494,
+                    "y": 0.2391
+                },
+                {
+                    "x": 0.3494,
+                    "y": 0.261
+                },
+                {
+                    "x": 0.1097,
+                    "y": 0.261
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='4' data-category='paragraph' style='font-size:20px'>Control contrast. Choose lower values to increase contrast when<br>shooting indoors or under overcast skies, higher values to reduce<br>loss of detail in highlights when photographing high-contrast<br>scenes. Higher values are recommended for scenes that include<br>both sunlight and deep shade, for such high-contrast subjects as<br>sunlight on water, brightly-lit autumn leaves, and portraits taken<br>against a blue sky, and for white objects or people wearing white.</p>",
+                "markdown": "Control contrast. Choose lower values to increase contrast when\nshooting indoors or under overcast skies, higher values to reduce\nloss of detail in highlights when photographing high-contrast\nscenes. Higher values are recommended for scenes that include\nboth sunlight and deep shade, for such high-contrast subjects as\nsunlight on water, brightly-lit autumn leaves, and portraits taken\nagainst a blue sky, and for white objects or people wearing white.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.106,
+                    "y": 0.2705
+                },
+                {
+                    "x": 0.92,
+                    "y": 0.2705
+                },
+                {
+                    "x": 0.92,
+                    "y": 0.4497
+                },
+                {
+                    "x": 0.106,
+                    "y": 0.4497
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='5' style='font-size:14px'><tr><td colspan=\"4\">Options</td></tr><tr><td>AUTO</td><td>R100 100%</td><td>R200 200%</td><td>R 400 400%</td></tr></table>",
+                "markdown": "| Options | Options | Options | Options |\n| --- | --- | --- | --- |\n| AUTO | R100 100% | R200 200% | R 400 400% |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1083,
+                    "y": 0.4613
+                },
+                {
+                    "x": 0.9159,
+                    "y": 0.4613
+                },
+                {
+                    "x": 0.9159,
+                    "y": 0.5129
+                },
+                {
+                    "x": 0.1083,
+                    "y": 0.5129
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='6' data-category='paragraph' style='font-size:16px'>Mottling may appear in pictures taken at higher values. Choose a val-<br>ue according to the scene.</p>",
+                "markdown": "Mottling may appear in pictures taken at higher values. Choose a val-\nue according to the scene.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1127,
+                    "y": 0.5229
+                },
+                {
+                    "x": 0.9154,
+                    "y": 0.5229
+                },
+                {
+                    "x": 0.9154,
+                    "y": 0.5677
+                },
+                {
+                    "x": 0.1127,
+                    "y": 0.5677
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "list",
+            "content": {
+                "html": "<p id='7' data-category='list' style='font-size:16px'>If AUTO is selected, the camera will automatically choose either<br>R100 100% or R200 200% according to the subject and shooting con-<br>ditions. Shutter speed and aperture will be displayed when the shut-<br>ter button is pressed halfway.<br>● R200 200% is available at sensitivities of from ISO 320 to ISO 12800,<br>R 400 400% at sensitivities of from ISO 640 to 12800.</p>",
+                "markdown": "- If AUTO is selected, the camera will automatically choose either\n- R100 100% or R200 200% according to the subject and shooting con-\n- ditions. Shutter speed and aperture will be displayed when the shut-\n- ter button is pressed halfway.\n- ● R200 200% is available at sensitivities of from ISO 320 to ISO 12800,\n- R 400 400% at sensitivities of from ISO 640 to 12800.\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1472,
+                    "y": 0.5828
+                },
+                {
+                    "x": 0.9156,
+                    "y": 0.5828
+                },
+                {
+                    "x": 0.9156,
+                    "y": 0.7178
+                },
+                {
+                    "x": 0.1472,
+                    "y": 0.7178
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<br><footer id='8' style='font-size:22px'>6<br>The<br>Shooting<br>Menus</footer>",
+                "markdown": "6\nThe\nShooting\nMenus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9561,
+                    "y": 0.5405
+                },
+                {
+                    "x": 0.9829,
+                    "y": 0.5405
+                },
+                {
+                    "x": 0.9829,
+                    "y": 0.732
+                },
+                {
+                    "x": 0.9561,
+                    "y": 0.732
+                }
+            ],
+            "id": 8,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='9' style='font-size:20px'>113</footer>",
+                "markdown": "113",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.8622,
+                    "y": 0.9565
+                },
+                {
+                    "x": 0.9176,
+                    "y": 0.9565
+                },
+                {
+                    "x": 0.9176,
+                    "y": 0.9795
+                },
+                {
+                    "x": 0.8622,
+                    "y": 0.9795
+                }
+            ],
+            "id": 9,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

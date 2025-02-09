@@ -1,0 +1,14 @@
+{
+    "parsing_result": "# 4K MOVIE OUTPUT\n\nChoose the destination for 4K movies shot while the camera is connected to an HDMI recorder or other device that supports 4K.\n\n| Option          | Description                                                                 |\n|-----------------|-----------------------------------------------------------------------------|\n| !SD 4K HDMI 4K | 4K movies are recorded to the camera memory card and output to the HDMI device in 4K.          |\n| !SD 4K HDMI FHD | 4K movies are recorded to a camera memory card in 4K and output to the HDMI device in Full HD. |\n| !SD FHD HDMI 4K | 4K movies are output to the HDMI device in 4K and recorded to the camera memory card in Full HD. |\n| !SD HDMI 4K | 4K movies are output to the HDMI device in 4K. The camera does not record 4K movies to a memory card. |\n\n> 💡 **Note:**  \n> This option is only available when !4K 16:9 or !DCI 17:9 is selected for **MOVIE SETTING > MOVIE MODE** in the shooting menu.\n\n# FULL HD MOVIE OUTPUT\n\nChoose the destination for Full HD movies shot while the camera is connected to an HDMI device.\n\n| Option          | Description                                                                 |\n|-----------------|-----------------------------------------------------------------------------|\n| !SD FHD HDMI FHD | Full HD movies are output to the HDMI device and recorded to the camera memory card.          |\n| !SD HDMI FHD | Full HD movies are not recorded to the camera memory card but are output to the HDMI device.     |\n\n> 💡 **Note:**  \n> - This option is only available when !FHD 16:9 or !FHD 17:9 is selected for **MOVIE SETTING > MOVIE MODE** in the shooting menu.  \n> - When **OFF** is selected for **HDMI OUTPUT INFO DISPLAY**, movies will be output to the HDMI device in 4:2:2 10-bit format.",
+    "embedding_result": [],
+    "metadata": {
+        "page": 165,
+        "model": "x100v",
+        "subsection": [
+            "4K MOVIE OUTPUT",
+            "FULL HD MOVIE OUTPUT"
+        ],
+        "chapter": "The Shooting Menus",
+        "section": "MOVIE SETTING"
+    }
+}

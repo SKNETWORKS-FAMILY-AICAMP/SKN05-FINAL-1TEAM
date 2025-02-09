@@ -1,0 +1,182 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:14px'>AF/MF SETTING (Movie Recording)</header>\n<h1 id='1' style='font-size:18px'>FOCUS CHECK LOCK</h1>\n\n<table id='3' style='font-size:14px'><tr><td colspan=\"2\">Options</td></tr><tr><td>ON</td><td>OFF</td></tr><br><caption id='2' style='font-size:16px'>Choose whether focus zoom remains in effect once movie re-<br>cording begins.</caption></table>\n<footer id='4' style='font-size:22px'>6<br>The<br>Shooting<br>Menus</footer>\n<footer id='5' style='font-size:20px'>213</footer>",
+        "markdown": "AF/MF SETTING (Movie Recording)\n\n# FOCUS CHECK LOCK\n\nChoose whether focus zoom remains in effect once movie re-\ncording begins.\n\n| Options | Options |\n| --- | --- |\n| ON | OFF |\n\n\n6\nThe\nShooting\nMenus\n\n213",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:14px'>AF/MF SETTING (Movie Recording)</header>",
+                "markdown": "AF/MF SETTING (Movie Recording)",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.5766,
+                    "y": 0.0278
+                },
+                {
+                    "x": 0.9176,
+                    "y": 0.0278
+                },
+                {
+                    "x": 0.9176,
+                    "y": 0.0513
+                },
+                {
+                    "x": 0.5766,
+                    "y": 0.0513
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='1' style='font-size:18px'>FOCUS CHECK LOCK</h1>",
+                "markdown": "# FOCUS CHECK LOCK",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1082,
+                    "y": 0.0722
+                },
+                {
+                    "x": 0.3868,
+                    "y": 0.0722
+                },
+                {
+                    "x": 0.3868,
+                    "y": 0.0951
+                },
+                {
+                    "x": 0.1082,
+                    "y": 0.0951
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='2' data-category='paragraph' style='font-size:16px'>Choose whether focus zoom remains in effect once movie re-<br>cording begins.</p>",
+                "markdown": "Choose whether focus zoom remains in effect once movie re-\ncording begins.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1064,
+                    "y": 0.105
+                },
+                {
+                    "x": 0.9179,
+                    "y": 0.105
+                },
+                {
+                    "x": 0.9179,
+                    "y": 0.1548
+                },
+                {
+                    "x": 0.1064,
+                    "y": 0.1548
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='3' style='font-size:14px'><tr><td colspan=\"2\">Options</td></tr><tr><td>ON</td><td>OFF</td></tr></table>",
+                "markdown": "| Options | Options |\n| --- | --- |\n| ON | OFF |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1072,
+                    "y": 0.1697
+                },
+                {
+                    "x": 0.9148,
+                    "y": 0.1697
+                },
+                {
+                    "x": 0.9148,
+                    "y": 0.2213
+                },
+                {
+                    "x": 0.1072,
+                    "y": 0.2213
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='4' style='font-size:22px'>6<br>The<br>Shooting<br>Menus</footer>",
+                "markdown": "6\nThe\nShooting\nMenus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9561,
+                    "y": 0.5412
+                },
+                {
+                    "x": 0.9829,
+                    "y": 0.5412
+                },
+                {
+                    "x": 0.9829,
+                    "y": 0.732
+                },
+                {
+                    "x": 0.9561,
+                    "y": 0.732
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='5' style='font-size:20px'>213</footer>",
+                "markdown": "213",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.8602,
+                    "y": 0.956
+                },
+                {
+                    "x": 0.9177,
+                    "y": 0.956
+                },
+                {
+                    "x": 0.9177,
+                    "y": 0.9797
+                },
+                {
+                    "x": 0.8602,
+                    "y": 0.9797
+                }
+            ],
+            "id": 5,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

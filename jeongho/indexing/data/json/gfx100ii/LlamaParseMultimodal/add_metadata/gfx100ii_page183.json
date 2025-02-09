@@ -1,0 +1,8 @@
+{
+    "parsing_result": "# MOVIE SETTING (Movie Recording)\n\n- **The ProRes format** is intended for footage that will be edited on a computer or similar device.\n- **4:2:2 chroma sub-sampling** is used for footage output to external devices connected via HDMI; H.264 footage is output at a bit depth of 8 bits and footage in other formats at a depth of 10 bits.\n- **All-I** compresses each frame separately. Files are larger, but the fact that the data for each frame are saved separately makes this a good choice for footage that will be further processed.\n- **Long GOP** balances good image quality with high compression. Files are smaller, making it a good choice for longer movies.\n- The options available for file type and compression vary with the options selected for **MOVIE MODE, HIGH SPEED REC,** and **F-Log/HLG RECORDING**.\n\n## Bit Rate\n\nChoose the movie bit rate.\n\n| Options  |\n|----------|\n| 50Mbps   |\n| 100Mbps  |\n| 200Mbps  |\n| 360Mbps  |\n| 720Mbps  |\n\n- The options available for bit rate vary with the settings chosen for high-speed movie recording and compression. The actual bit rate may be slower than the selected value depending on the subject.\n- The bit rate for ProRes movies is set automatically according to the format chosen and the frame size and rate. For more information, visit the Apple website.",
+    "embedding_result": [],
+    "metadata": {
+        "page": 183,
+        "model": "gfx100ii"
+    }
+}

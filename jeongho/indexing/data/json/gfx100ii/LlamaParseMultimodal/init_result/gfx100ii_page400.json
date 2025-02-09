@@ -1,0 +1,141 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "# DEFAULT CAPTION\n\nChoose the caption applied to new photos and movies.\n\n## DISPLAY\nView the current caption.\n\n## EDIT\nEnter a caption.\n\n## ERASE\nDelete the current caption.\n\n# IPTC\n\nChoose IPTC metadata applied to new photos.\n\n## EMBED IPTC\nIf **ON** is selected, IPTC metadata is embedded in new photos.\n\n| Options |      |\n|---------|------|\n| ON      | OFF  |\n\n## EDIT/CHECK\nEnter IPTC metadata or check IPTC metadata that is currently registered.\n\n## RESET\nDelete metadata that is currently registered.",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "DEFAULT CAPTION",
+                    "md": "# DEFAULT CAPTION"
+                },
+                {
+                    "type": "text",
+                    "value": "Choose the caption applied to new photos and movies.",
+                    "md": "Choose the caption applied to new photos and movies."
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "DISPLAY",
+                    "md": "## DISPLAY"
+                },
+                {
+                    "type": "text",
+                    "value": "View the current caption.",
+                    "md": "View the current caption."
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "EDIT",
+                    "md": "## EDIT"
+                },
+                {
+                    "type": "text",
+                    "value": "Enter a caption.",
+                    "md": "Enter a caption."
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "ERASE",
+                    "md": "## ERASE"
+                },
+                {
+                    "type": "text",
+                    "value": "Delete the current caption.",
+                    "md": "Delete the current caption."
+                },
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "IPTC",
+                    "md": "# IPTC"
+                },
+                {
+                    "type": "text",
+                    "value": "Choose IPTC metadata applied to new photos.",
+                    "md": "Choose IPTC metadata applied to new photos."
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "EMBED IPTC",
+                    "md": "## EMBED IPTC"
+                },
+                {
+                    "type": "text",
+                    "value": "If **ON** is selected, IPTC metadata is embedded in new photos.",
+                    "md": "If **ON** is selected, IPTC metadata is embedded in new photos."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Options",
+                            ""
+                        ],
+                        [
+                            "ON",
+                            "OFF"
+                        ]
+                    ],
+                    "md": "| Options |      |\n|---------|------|\n| ON      | OFF  |",
+                    "isPerfectTable": true,
+                    "csv": "\"Options\",\"\"\n\"ON\",\"OFF\""
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "EDIT/CHECK",
+                    "md": "## EDIT/CHECK"
+                },
+                {
+                    "type": "text",
+                    "value": "Enter IPTC metadata or check IPTC metadata that is currently registered.",
+                    "md": "Enter IPTC metadata or check IPTC metadata that is currently registered."
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "RESET",
+                    "md": "## RESET"
+                },
+                {
+                    "type": "text",
+                    "value": "Delete metadata that is currently registered.",
+                    "md": "Delete metadata that is currently registered."
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 372.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "9dc41934-c8a6-4c80-abda-3741f97fe7e8",
+    "file_path": "../data/raw_data/gfx100ii/gfx100ii_split/gfx100ii_page400.pdf"
+}

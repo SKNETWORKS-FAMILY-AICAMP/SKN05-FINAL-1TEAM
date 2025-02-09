@@ -1,0 +1,322 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:16px'>Sensitivity</header>\n<h1 id='1' style='font-size:16px'>AUTO</h1>\n<br><h1 id='2' style='font-size:20px'>Choose the base sensitivity, maximum sensitivity, and minimum<br>shutter speed for AUTO1, AUTO2, and AUTO3.</h1>\n<br><table id='3' style='font-size:14px'><tr><td rowspan=\"2\">Item</td><td rowspan=\"2\">Options</td><td colspan=\"3\">Default</td></tr><tr><td>AUT01</td><td>AUTO2</td><td>AUT03</td></tr><tr><td>DEFAULT SENSITIVITY</td><td>80-12800</td><td colspan=\"3\">80</td></tr><tr><td>MAX. SENSITIVITY</td><td>200-12800</td><td>800</td><td>1600</td><td>3200</td></tr><tr><td>MIN.SHUTTER SPEED</td><td>1/4000-30 SEC, AUTO</td><td colspan=\"3\">AUTO</td></tr></table>\n<p id='4' data-category='paragraph' style='font-size:18px'>The camera automatically chooses a sensitivity between the de-<br>fault and maximum values; sensitivity is only raised above the<br>default value if the shutter speed required for optimal exposure<br>would be slower than the value selected for MIN. SHUTTER SPEED.</p>\n<br><p id='5' data-category='list' style='font-size:14px'>If the value selected for DEFAULT SENSITIVITY is higher than that<br>selected for MAX. SENSITIVITY, DEFAULT SENSITIVITY will be set to<br>the value selected for MAX. SENSITIVITY.</p>\n<br><p id='6' data-category='paragraph' style='font-size:14px'>The select slower than MIN. SHUTTER</p>\n<br><p id='7' data-category='list' style='font-size:14px'>● camera may shutter speeds<br>SPEED if pictures would still be underexposed at the value selected<br>for MAX. SENSITIVITY.<br>● If AUTO is selected for MIN. SHUTTER SPEED, the camera will auto-<br>matically adjust the minimum shutter speed according to the focal<br>length of the lens (the setting remains the same whether image sta-<br>bilization is on or off).</p>\n<br><footer id='8' style='font-size:16px'>5</footer>\n<br><footer id='9' style='font-size:22px'>Taking<br>Photographs</footer>\n<footer id='10' style='font-size:20px'>107</footer>",
+        "markdown": "Sensitivity\n\n# AUTO\n\n# Choose the base sensitivity, maximum sensitivity, and minimum\nshutter speed for AUTO1, AUTO2, and AUTO3.\n\n| Item | Options | Default | Default | Default |\n| --- | --- | --- | --- | --- |\n| Item | Options | AUT01 | AUTO2 | AUT03 |\n| DEFAULT SENSITIVITY | 80-12800 | 80 | 80 | 80 |\n| MAX. SENSITIVITY | 200-12800 | 800 | 1600 | 3200 |\n| MIN.SHUTTER SPEED | 1/4000-30 SEC, AUTO | AUTO | AUTO | AUTO |\n\n\nThe camera automatically chooses a sensitivity between the de-\nfault and maximum values; sensitivity is only raised above the\ndefault value if the shutter speed required for optimal exposure\nwould be slower than the value selected for MIN. SHUTTER SPEED.\n\n- If the value selected for DEFAULT SENSITIVITY is higher than that\n- selected for MAX. SENSITIVITY, DEFAULT SENSITIVITY will be set to\n- the value selected for MAX. SENSITIVITY.\n\n\nThe select slower than MIN. SHUTTER\n\n- ● camera may shutter speeds\n- SPEED if pictures would still be underexposed at the value selected\n- for MAX. SENSITIVITY.\n- ● If AUTO is selected for MIN. SHUTTER SPEED, the camera will auto-\n- matically adjust the minimum shutter speed according to the focal\n- length of the lens (the setting remains the same whether image sta-\n- bilization is on or off).\n\n\n5\n\nTaking\nPhotographs\n\n107",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:16px'>Sensitivity</header>",
+                "markdown": "Sensitivity",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.8131,
+                    "y": 0.0291
+                },
+                {
+                    "x": 0.9183,
+                    "y": 0.0291
+                },
+                {
+                    "x": 0.9183,
+                    "y": 0.05
+                },
+                {
+                    "x": 0.8131,
+                    "y": 0.05
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='1' style='font-size:16px'>AUTO</h1>",
+                "markdown": "# AUTO",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1064,
+                    "y": 0.0723
+                },
+                {
+                    "x": 0.1919,
+                    "y": 0.0723
+                },
+                {
+                    "x": 0.1919,
+                    "y": 0.0955
+                },
+                {
+                    "x": 0.1064,
+                    "y": 0.0955
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='2' style='font-size:20px'>Choose the base sensitivity, maximum sensitivity, and minimum<br>shutter speed for AUTO1, AUTO2, and AUTO3.</h1>",
+                "markdown": "# Choose the base sensitivity, maximum sensitivity, and minimum\nshutter speed for AUTO1, AUTO2, and AUTO3.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1057,
+                    "y": 0.1044
+                },
+                {
+                    "x": 0.9166,
+                    "y": 0.1044
+                },
+                {
+                    "x": 0.9166,
+                    "y": 0.1547
+                },
+                {
+                    "x": 0.1057,
+                    "y": 0.1547
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='3' style='font-size:14px'><tr><td rowspan=\"2\">Item</td><td rowspan=\"2\">Options</td><td colspan=\"3\">Default</td></tr><tr><td>AUT01</td><td>AUTO2</td><td>AUT03</td></tr><tr><td>DEFAULT SENSITIVITY</td><td>80-12800</td><td colspan=\"3\">80</td></tr><tr><td>MAX. SENSITIVITY</td><td>200-12800</td><td>800</td><td>1600</td><td>3200</td></tr><tr><td>MIN.SHUTTER SPEED</td><td>1/4000-30 SEC, AUTO</td><td colspan=\"3\">AUTO</td></tr></table>",
+                "markdown": "| Item | Options | Default | Default | Default |\n| --- | --- | --- | --- | --- |\n| Item | Options | AUT01 | AUTO2 | AUT03 |\n| DEFAULT SENSITIVITY | 80-12800 | 80 | 80 | 80 |\n| MAX. SENSITIVITY | 200-12800 | 800 | 1600 | 3200 |\n| MIN.SHUTTER SPEED | 1/4000-30 SEC, AUTO | AUTO | AUTO | AUTO |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1086,
+                    "y": 0.1677
+                },
+                {
+                    "x": 0.9165,
+                    "y": 0.1677
+                },
+                {
+                    "x": 0.9165,
+                    "y": 0.299
+                },
+                {
+                    "x": 0.1086,
+                    "y": 0.299
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='4' data-category='paragraph' style='font-size:18px'>The camera automatically chooses a sensitivity between the de-<br>fault and maximum values; sensitivity is only raised above the<br>default value if the shutter speed required for optimal exposure<br>would be slower than the value selected for MIN. SHUTTER SPEED.</p>",
+                "markdown": "The camera automatically chooses a sensitivity between the de-\nfault and maximum values; sensitivity is only raised above the\ndefault value if the shutter speed required for optimal exposure\nwould be slower than the value selected for MIN. SHUTTER SPEED.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1063,
+                    "y": 0.3124
+                },
+                {
+                    "x": 0.919,
+                    "y": 0.3124
+                },
+                {
+                    "x": 0.919,
+                    "y": 0.4127
+                },
+                {
+                    "x": 0.1063,
+                    "y": 0.4127
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "list",
+            "content": {
+                "html": "<br><p id='5' data-category='list' style='font-size:14px'>If the value selected for DEFAULT SENSITIVITY is higher than that<br>selected for MAX. SENSITIVITY, DEFAULT SENSITIVITY will be set to<br>the value selected for MAX. SENSITIVITY.</p>",
+                "markdown": "- If the value selected for DEFAULT SENSITIVITY is higher than that\n- selected for MAX. SENSITIVITY, DEFAULT SENSITIVITY will be set to\n- the value selected for MAX. SENSITIVITY.\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1326,
+                    "y": 0.42
+                },
+                {
+                    "x": 0.915,
+                    "y": 0.42
+                },
+                {
+                    "x": 0.915,
+                    "y": 0.4914
+                },
+                {
+                    "x": 0.1326,
+                    "y": 0.4914
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='6' data-category='paragraph' style='font-size:14px'>The select slower than MIN. SHUTTER</p>",
+                "markdown": "The select slower than MIN. SHUTTER",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1667,
+                    "y": 0.4896
+                },
+                {
+                    "x": 0.9132,
+                    "y": 0.4896
+                },
+                {
+                    "x": 0.9132,
+                    "y": 0.5087
+                },
+                {
+                    "x": 0.1667,
+                    "y": 0.5087
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "list",
+            "content": {
+                "html": "<br><p id='7' data-category='list' style='font-size:14px'>● camera may shutter speeds<br>SPEED if pictures would still be underexposed at the value selected<br>for MAX. SENSITIVITY.<br>● If AUTO is selected for MIN. SHUTTER SPEED, the camera will auto-<br>matically adjust the minimum shutter speed according to the focal<br>length of the lens (the setting remains the same whether image sta-<br>bilization is on or off).</p>",
+                "markdown": "- ● camera may shutter speeds\n- SPEED if pictures would still be underexposed at the value selected\n- for MAX. SENSITIVITY.\n- ● If AUTO is selected for MIN. SHUTTER SPEED, the camera will auto-\n- matically adjust the minimum shutter speed according to the focal\n- length of the lens (the setting remains the same whether image sta-\n- bilization is on or off).\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1475,
+                    "y": 0.4993
+                },
+                {
+                    "x": 0.914,
+                    "y": 0.4993
+                },
+                {
+                    "x": 0.914,
+                    "y": 0.6475
+                },
+                {
+                    "x": 0.1475,
+                    "y": 0.6475
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<br><footer id='8' style='font-size:16px'>5</footer>",
+                "markdown": "5",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9571,
+                    "y": 0.4776
+                },
+                {
+                    "x": 0.9757,
+                    "y": 0.4776
+                },
+                {
+                    "x": 0.9757,
+                    "y": 0.4978
+                },
+                {
+                    "x": 0.9571,
+                    "y": 0.4978
+                }
+            ],
+            "id": 8,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<br><footer id='9' style='font-size:22px'>Taking<br>Photographs</footer>",
+                "markdown": "Taking\nPhotographs",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9562,
+                    "y": 0.5173
+                },
+                {
+                    "x": 0.9816,
+                    "y": 0.5173
+                },
+                {
+                    "x": 0.9816,
+                    "y": 0.6654
+                },
+                {
+                    "x": 0.9562,
+                    "y": 0.6654
+                }
+            ],
+            "id": 9,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='10' style='font-size:20px'>107</footer>",
+                "markdown": "107",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.8619,
+                    "y": 0.9562
+                },
+                {
+                    "x": 0.9179,
+                    "y": 0.9562
+                },
+                {
+                    "x": 0.9179,
+                    "y": 0.9792
+                },
+                {
+                    "x": 0.8619,
+                    "y": 0.9792
+                }
+            ],
+            "id": 10,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

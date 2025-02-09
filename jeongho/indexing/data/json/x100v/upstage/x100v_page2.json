@@ -1,0 +1,210 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<h1 id='0' style='font-size:20px'>Parts of the Camera</h1>\n<header id='1' style='font-size:22px'>Before<br>You<br>Begin</header>\n<br><p id='2' data-category='paragraph' style='font-size:16px'>1</p>\n<br><figure id='3'><img style='font-size:14px' alt=\"2 5 6 8\n19\n18\n15\" data-coord=\"top-left:(370,426); bottom-right:(2322,1706)\" /></figure>\n<p id='4' data-category='list' style='font-size:14px'>1 Fn1 button 79<br>2 Exposure compensation dial. 8, 81<br>3 Shutter button 46<br>4 Shutter speed dial/<br>Sensitivity dial. 7,77, 149<br>5 AF-assist illuminator. 127<br>Self-timer lamp 139<br>6 Hot shoe 261<br>7 Microphone. 51, 167<br>8 Flash 99<br>9 Viewfinder window. 4, 6, 14, 19<br>10 Hot shoe cover 261</p>\n<br><p id='5' data-category='list' style='font-size:14px'>11 Lens cap<br>12 Strap eyelet. 30<br>13 Focus mode selector 66<br>14 Aperture ring 44, 56<br>15 Control ring 12, 80, 227<br>Focus ring 12, 73, 227<br>16 Lens<br>17 Fn2 button 12, 250<br>18 Viewfinder selector 4<br>19 Front command dial. 10, 224<br>20 ON/ OFF switch 38</p>\n<footer id='6' style='font-size:18px'>2</footer>",
+        "markdown": "# Parts of the Camera\n\nBefore\nYou\nBegin\n\n1\n\n![image](/image/placeholder)\n2 5 6 8\n19\n18\n15\n\n- 1 Fn1 button 79\n- 2 Exposure compensation dial. 8, 81\n- 3 Shutter button 46\n- 4 Shutter speed dial/\n- Sensitivity dial. 7,77, 149\n- 5 AF-assist illuminator. 127\n- Self-timer lamp 139\n- 6 Hot shoe 261\n- 7 Microphone. 51, 167\n- 8 Flash 99\n- 9 Viewfinder window. 4, 6, 14, 19\n- 10 Hot shoe cover 261\n\n\n- 11 Lens cap\n- 12 Strap eyelet. 30\n- 13 Focus mode selector 66\n- 14 Aperture ring 44, 56\n- 15 Control ring 12, 80, 227\n- Focus ring 12, 73, 227\n- 16 Lens\n- 17 Fn2 button 12, 250\n- 18 Viewfinder selector 4\n- 19 Front command dial. 10, 224\n- 20 ON/ OFF switch 38\n\n\n2",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='0' style='font-size:20px'>Parts of the Camera</h1>",
+                "markdown": "# Parts of the Camera",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1537,
+                    "y": 0.0733
+                },
+                {
+                    "x": 0.489,
+                    "y": 0.0733
+                },
+                {
+                    "x": 0.489,
+                    "y": 0.0996
+                },
+                {
+                    "x": 0.1537,
+                    "y": 0.0996
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='1' style='font-size:22px'>Before<br>You<br>Begin</header>",
+                "markdown": "Before\nYou\nBegin",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0182,
+                    "y": 0.2774
+                },
+                {
+                    "x": 0.0423,
+                    "y": 0.2774
+                },
+                {
+                    "x": 0.0423,
+                    "y": 0.4033
+                },
+                {
+                    "x": 0.0182,
+                    "y": 0.4033
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='2' data-category='paragraph' style='font-size:16px'>1</p>",
+                "markdown": "1",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0286,
+                    "y": 0.2404
+                },
+                {
+                    "x": 0.0398,
+                    "y": 0.2404
+                },
+                {
+                    "x": 0.0398,
+                    "y": 0.2557
+                },
+                {
+                    "x": 0.0286,
+                    "y": 0.2557
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "figure",
+            "content": {
+                "html": "<br><figure id='3'><img style='font-size:14px' alt=\"2 5 6 8\n19\n18\n15\" data-coord=\"top-left:(370,426); bottom-right:(2322,1706)\" /></figure>",
+                "markdown": "![image](/image/placeholder)\n2 5 6 8\n19\n18\n15",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.134,
+                    "y": 0.1095
+                },
+                {
+                    "x": 0.8401,
+                    "y": 0.1095
+                },
+                {
+                    "x": 0.8401,
+                    "y": 0.4379
+                },
+                {
+                    "x": 0.134,
+                    "y": 0.4379
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "list",
+            "content": {
+                "html": "<p id='4' data-category='list' style='font-size:14px'>1 Fn1 button 79<br>2 Exposure compensation dial. 8, 81<br>3 Shutter button 46<br>4 Shutter speed dial/<br>Sensitivity dial. 7,77, 149<br>5 AF-assist illuminator. 127<br>Self-timer lamp 139<br>6 Hot shoe 261<br>7 Microphone. 51, 167<br>8 Flash 99<br>9 Viewfinder window. 4, 6, 14, 19<br>10 Hot shoe cover 261</p>",
+                "markdown": "- 1 Fn1 button 79\n- 2 Exposure compensation dial. 8, 81\n- 3 Shutter button 46\n- 4 Shutter speed dial/\n- Sensitivity dial. 7,77, 149\n- 5 AF-assist illuminator. 127\n- Self-timer lamp 139\n- 6 Hot shoe 261\n- 7 Microphone. 51, 167\n- 8 Flash 99\n- 9 Viewfinder window. 4, 6, 14, 19\n- 10 Hot shoe cover 261\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0892,
+                    "y": 0.5039
+                },
+                {
+                    "x": 0.4849,
+                    "y": 0.5039
+                },
+                {
+                    "x": 0.4849,
+                    "y": 0.7451
+                },
+                {
+                    "x": 0.0892,
+                    "y": 0.7451
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "list",
+            "content": {
+                "html": "<br><p id='5' data-category='list' style='font-size:14px'>11 Lens cap<br>12 Strap eyelet. 30<br>13 Focus mode selector 66<br>14 Aperture ring 44, 56<br>15 Control ring 12, 80, 227<br>Focus ring 12, 73, 227<br>16 Lens<br>17 Fn2 button 12, 250<br>18 Viewfinder selector 4<br>19 Front command dial. 10, 224<br>20 ON/ OFF switch 38</p>",
+                "markdown": "- 11 Lens cap\n- 12 Strap eyelet. 30\n- 13 Focus mode selector 66\n- 14 Aperture ring 44, 56\n- 15 Control ring 12, 80, 227\n- Focus ring 12, 73, 227\n- 16 Lens\n- 17 Fn2 button 12, 250\n- 18 Viewfinder selector 4\n- 19 Front command dial. 10, 224\n- 20 ON/ OFF switch 38\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.5049,
+                    "y": 0.5044
+                },
+                {
+                    "x": 0.8989,
+                    "y": 0.5044
+                },
+                {
+                    "x": 0.8989,
+                    "y": 0.7268
+                },
+                {
+                    "x": 0.5049,
+                    "y": 0.7268
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='6' style='font-size:18px'>2</footer>",
+                "markdown": "2",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0822,
+                    "y": 0.9565
+                },
+                {
+                    "x": 0.1046,
+                    "y": 0.9565
+                },
+                {
+                    "x": 0.1046,
+                    "y": 0.9783
+                },
+                {
+                    "x": 0.0822,
+                    "y": 0.9783
+                }
+            ],
+            "id": 6,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

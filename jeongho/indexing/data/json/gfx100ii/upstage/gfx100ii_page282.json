@@ -1,0 +1,518 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:22px'>Network/USB<br>Setting<br>Menus</header>\n<br><h1 id='1' style='font-size:20px'>4 Press MENU/OK when prompted.</h1>\n<br><p id='2' data-category='paragraph' style='font-size:14px'>1 2 3</p>\n<p id='3' data-category='paragraph' style='font-size:14px'>SELECT COMM SETTING</p>\n<p id='4' data-category='paragraph' style='font-size:14px'>SELECT COMM SETTING<br>TO USE THIS FUNCTION</p>\n<h1 id='5' style='font-size:20px'>5 Select WIRED LAN.</h1>\n<br><p id='6' data-category='paragraph' style='font-size:14px'>OK NEXT BACK BACK</p>\n<p id='7' data-category='paragraph' style='font-size:18px'>6 Select CREATE NEW to create a new<br>communication setting profile.</p>\n<p id='8' data-category='paragraph' style='font-size:18px'>You can also select or edit existing pro-<br>files.</p>\n<br><table id='9' style='font-size:16px'><tr><td>SELECT COMM SETTING</td><td></td></tr><tr><td>WIRELESS LAN</td><td></td></tr><tr><td>WIRED LAN</td><td></td></tr><tr><td>USB SMARTPHONE TETHERING</td><td></td></tr><tr><td>TRANSFER IMAGES TO</td><td></td></tr><tr><td>FTP SERVER VIA WIRED LAN</td><td></td></tr></table>\n<table id='10' style='font-size:14px'><tr><td colspan=\"3\">COMM SETTING</td></tr><tr><td>1:</td><td>←USB</td><td></td></tr><tr><td>2:</td><td>WIFI_1</td><td></td></tr><tr><td>3:</td><td>�WIFI_2</td><td></td></tr><tr><td>4:</td><td>� WIFI 3</td><td></td></tr><tr><td>5:</td><td>WIFI_4</td><td></td></tr><tr><td>6:</td><td>� WIFI_5</td><td></td></tr><tr><td>7:</td><td>CREATE NEW</td><td></td></tr><tr><td>8:</td><td>CREATE NEW</td><td></td></tr></table>\n<p id='11' data-category='paragraph' style='font-size:20px'>7 Adjust IP ADDRESS SETTING.</p>\n<br><p id='12' data-category='list' style='font-size:18px'>Select AUTO to use an IP address as-<br>signed by the network.<br>● Select MANUAL to choose the IP<br>address manually as described in<br>\"Connecting Using an IP Address\"<br>(� 265).</p>\n<br><header id='13' style='font-size:16px'>8</header>\n<br><table id='14' style='font-size:16px'><tr><td>IP ADDRESS SETTING IP ADDRESS SETTING</td><td>AUTO</td></tr><tr><td>NEXT</td><td></td></tr></table>\n<p id='15' data-category='paragraph' style='font-size:22px'>8 Select NEXT to proceed after adjust-<br>ing IP address settings.</p>\n<br><table id='16' style='font-size:16px'><tr><td>IP ADDRESS SETTING IP ADDRESS SETTING</td><td>AUTO</td></tr><tr><td rowspan=\"7\" colspan=\"2\">NEXT</td></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr></table>\n<footer id='17' style='font-size:20px'>282</footer>",
+        "markdown": "Network/USB\nSetting\nMenus\n\n# 4 Press MENU/OK when prompted.\n\n1 2 3\n\nSELECT COMM SETTING\n\nSELECT COMM SETTING\nTO USE THIS FUNCTION\n\n# 5 Select WIRED LAN.\n\nOK NEXT BACK BACK\n\n6 Select CREATE NEW to create a new\ncommunication setting profile.\n\nYou can also select or edit existing pro-\nfiles.\n\n| SELECT COMM SETTING |  |\n| --- | --- |\n| WIRELESS LAN |  |\n| WIRED LAN |  |\n| USB SMARTPHONE TETHERING |  |\n| TRANSFER IMAGES TO |  |\n| FTP SERVER VIA WIRED LAN |  |\n\n\n| COMM SETTING | COMM SETTING | COMM SETTING |\n| --- | --- | --- |\n| 1: | ←USB |  |\n| 2: | WIFI_1 |  |\n| 3: | �WIFI_2 |  |\n| 4: | � WIFI 3 |  |\n| 5: | WIFI_4 |  |\n| 6: | � WIFI_5 |  |\n| 7: | CREATE NEW |  |\n| 8: | CREATE NEW |  |\n\n\n7 Adjust IP ADDRESS SETTING.\n\n- Select AUTO to use an IP address as-\n- signed by the network.\n- ● Select MANUAL to choose the IP\n- address manually as described in\n- \"Connecting Using an IP Address\"\n- (� 265).\n\n\n8\n\n| IP ADDRESS SETTING IP ADDRESS SETTING | AUTO |\n| --- | --- |\n| NEXT |  |\n\n\n8 Select NEXT to proceed after adjust-\ning IP address settings.\n\n| IP ADDRESS SETTING IP ADDRESS SETTING | AUTO |\n| --- | --- |\n| NEXT | NEXT |\n| NEXT | NEXT |\n| NEXT | NEXT |\n| NEXT | NEXT |\n| NEXT | NEXT |\n| NEXT | NEXT |\n| NEXT | NEXT |\n\n\n282",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:22px'>Network/USB<br>Setting<br>Menus</header>",
+                "markdown": "Network/USB\nSetting\nMenus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0176,
+                    "y": 0.4291
+                },
+                {
+                    "x": 0.0414,
+                    "y": 0.4291
+                },
+                {
+                    "x": 0.0414,
+                    "y": 0.6412
+                },
+                {
+                    "x": 0.0176,
+                    "y": 0.6412
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='1' style='font-size:20px'>4 Press MENU/OK when prompted.</h1>",
+                "markdown": "# 4 Press MENU/OK when prompted.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0983,
+                    "y": 0.0722
+                },
+                {
+                    "x": 0.5241,
+                    "y": 0.0722
+                },
+                {
+                    "x": 0.5241,
+                    "y": 0.097
+                },
+                {
+                    "x": 0.0983,
+                    "y": 0.097
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='2' data-category='paragraph' style='font-size:14px'>1 2 3</p>",
+                "markdown": "1 2 3",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.672,
+                    "y": 0.0781
+                },
+                {
+                    "x": 0.7924,
+                    "y": 0.0781
+                },
+                {
+                    "x": 0.7924,
+                    "y": 0.0862
+                },
+                {
+                    "x": 0.672,
+                    "y": 0.0862
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='3' data-category='paragraph' style='font-size:14px'>SELECT COMM SETTING</p>",
+                "markdown": "SELECT COMM SETTING",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.7021,
+                    "y": 0.1014
+                },
+                {
+                    "x": 0.8224,
+                    "y": 0.1014
+                },
+                {
+                    "x": 0.8224,
+                    "y": 0.1138
+                },
+                {
+                    "x": 0.7021,
+                    "y": 0.1138
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='4' data-category='paragraph' style='font-size:14px'>SELECT COMM SETTING<br>TO USE THIS FUNCTION</p>",
+                "markdown": "SELECT COMM SETTING\nTO USE THIS FUNCTION",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.7007,
+                    "y": 0.1551
+                },
+                {
+                    "x": 0.8219,
+                    "y": 0.1551
+                },
+                {
+                    "x": 0.8219,
+                    "y": 0.1775
+                },
+                {
+                    "x": 0.7007,
+                    "y": 0.1775
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='5' style='font-size:20px'>5 Select WIRED LAN.</h1>",
+                "markdown": "# 5 Select WIRED LAN.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.099,
+                    "y": 0.2313
+                },
+                {
+                    "x": 0.3744,
+                    "y": 0.2313
+                },
+                {
+                    "x": 0.3744,
+                    "y": 0.2536
+                },
+                {
+                    "x": 0.099,
+                    "y": 0.2536
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='6' data-category='paragraph' style='font-size:14px'>OK NEXT BACK BACK</p>",
+                "markdown": "OK NEXT BACK BACK",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.7314,
+                    "y": 0.2078
+                },
+                {
+                    "x": 0.8668,
+                    "y": 0.2078
+                },
+                {
+                    "x": 0.8668,
+                    "y": 0.2168
+                },
+                {
+                    "x": 0.7314,
+                    "y": 0.2168
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='7' data-category='paragraph' style='font-size:18px'>6 Select CREATE NEW to create a new<br>communication setting profile.</p>",
+                "markdown": "6 Select CREATE NEW to create a new\ncommunication setting profile.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1009,
+                    "y": 0.3896
+                },
+                {
+                    "x": 0.6022,
+                    "y": 0.3896
+                },
+                {
+                    "x": 0.6022,
+                    "y": 0.4389
+                },
+                {
+                    "x": 0.1009,
+                    "y": 0.4389
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='8' data-category='paragraph' style='font-size:18px'>You can also select or edit existing pro-<br>files.</p>",
+                "markdown": "You can also select or edit existing pro-\nfiles.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.172,
+                    "y": 0.4535
+                },
+                {
+                    "x": 0.5965,
+                    "y": 0.4535
+                },
+                {
+                    "x": 0.5965,
+                    "y": 0.4968
+                },
+                {
+                    "x": 0.172,
+                    "y": 0.4968
+                }
+            ],
+            "id": 8,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='9' style='font-size:16px'><tr><td>SELECT COMM SETTING</td><td></td></tr><tr><td>WIRELESS LAN</td><td></td></tr><tr><td>WIRED LAN</td><td></td></tr><tr><td>USB SMARTPHONE TETHERING</td><td></td></tr><tr><td>TRANSFER IMAGES TO</td><td></td></tr><tr><td>FTP SERVER VIA WIRED LAN</td><td></td></tr></table>",
+                "markdown": "| SELECT COMM SETTING |  |\n| --- | --- |\n| WIRELESS LAN |  |\n| WIRED LAN |  |\n| USB SMARTPHONE TETHERING |  |\n| TRANSFER IMAGES TO |  |\n| FTP SERVER VIA WIRED LAN |  |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6206,
+                    "y": 0.2294
+                },
+                {
+                    "x": 0.8917,
+                    "y": 0.2294
+                },
+                {
+                    "x": 0.8917,
+                    "y": 0.376
+                },
+                {
+                    "x": 0.6206,
+                    "y": 0.376
+                }
+            ],
+            "id": 9,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='10' style='font-size:14px'><tr><td colspan=\"3\">COMM SETTING</td></tr><tr><td>1:</td><td>←USB</td><td></td></tr><tr><td>2:</td><td>WIFI_1</td><td></td></tr><tr><td>3:</td><td>�WIFI_2</td><td></td></tr><tr><td>4:</td><td>� WIFI 3</td><td></td></tr><tr><td>5:</td><td>WIFI_4</td><td></td></tr><tr><td>6:</td><td>� WIFI_5</td><td></td></tr><tr><td>7:</td><td>CREATE NEW</td><td></td></tr><tr><td>8:</td><td>CREATE NEW</td><td></td></tr></table>",
+                "markdown": "| COMM SETTING | COMM SETTING | COMM SETTING |\n| --- | --- | --- |\n| 1: | ←USB |  |\n| 2: | WIFI_1 |  |\n| 3: | �WIFI_2 |  |\n| 4: | � WIFI 3 |  |\n| 5: | WIFI_4 |  |\n| 6: | � WIFI_5 |  |\n| 7: | CREATE NEW |  |\n| 8: | CREATE NEW |  |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6258,
+                    "y": 0.3875
+                },
+                {
+                    "x": 0.8917,
+                    "y": 0.3875
+                },
+                {
+                    "x": 0.8917,
+                    "y": 0.5325
+                },
+                {
+                    "x": 0.6258,
+                    "y": 0.5325
+                }
+            ],
+            "id": 10,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='11' data-category='paragraph' style='font-size:20px'>7 Adjust IP ADDRESS SETTING.</p>",
+                "markdown": "7 Adjust IP ADDRESS SETTING.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0989,
+                    "y": 0.5475
+                },
+                {
+                    "x": 0.5032,
+                    "y": 0.5475
+                },
+                {
+                    "x": 0.5032,
+                    "y": 0.57
+                },
+                {
+                    "x": 0.0989,
+                    "y": 0.57
+                }
+            ],
+            "id": 11,
+            "page": 1
+        },
+        {
+            "category": "list",
+            "content": {
+                "html": "<br><p id='12' data-category='list' style='font-size:18px'>Select AUTO to use an IP address as-<br>signed by the network.<br>● Select MANUAL to choose the IP<br>address manually as described in<br>\"Connecting Using an IP Address\"<br>(� 265).</p>",
+                "markdown": "- Select AUTO to use an IP address as-\n- signed by the network.\n- ● Select MANUAL to choose the IP\n- address manually as described in\n- \"Connecting Using an IP Address\"\n- (� 265).\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.128,
+                    "y": 0.5739
+                },
+                {
+                    "x": 0.6038,
+                    "y": 0.5739
+                },
+                {
+                    "x": 0.6038,
+                    "y": 0.7227
+                },
+                {
+                    "x": 0.128,
+                    "y": 0.7227
+                }
+            ],
+            "id": 12,
+            "page": 1
+        },
+        {
+            "category": "header",
+            "content": {
+                "html": "<br><header id='13' style='font-size:16px'>8</header>",
+                "markdown": "8",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0258,
+                    "y": 0.6572
+                },
+                {
+                    "x": 0.0443,
+                    "y": 0.6572
+                },
+                {
+                    "x": 0.0443,
+                    "y": 0.6779
+                },
+                {
+                    "x": 0.0258,
+                    "y": 0.6779
+                }
+            ],
+            "id": 13,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='14' style='font-size:16px'><tr><td>IP ADDRESS SETTING IP ADDRESS SETTING</td><td>AUTO</td></tr><tr><td>NEXT</td><td></td></tr></table>",
+                "markdown": "| IP ADDRESS SETTING IP ADDRESS SETTING | AUTO |\n| --- | --- |\n| NEXT |  |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6196,
+                    "y": 0.546
+                },
+                {
+                    "x": 0.8897,
+                    "y": 0.546
+                },
+                {
+                    "x": 0.8897,
+                    "y": 0.693
+                },
+                {
+                    "x": 0.6196,
+                    "y": 0.693
+                }
+            ],
+            "id": 14,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='15' data-category='paragraph' style='font-size:22px'>8 Select NEXT to proceed after adjust-<br>ing IP address settings.</p>",
+                "markdown": "8 Select NEXT to proceed after adjust-\ning IP address settings.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0965,
+                    "y": 0.7374
+                },
+                {
+                    "x": 0.6028,
+                    "y": 0.7374
+                },
+                {
+                    "x": 0.6028,
+                    "y": 0.789
+                },
+                {
+                    "x": 0.0965,
+                    "y": 0.789
+                }
+            ],
+            "id": 15,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='16' style='font-size:16px'><tr><td>IP ADDRESS SETTING IP ADDRESS SETTING</td><td>AUTO</td></tr><tr><td rowspan=\"7\" colspan=\"2\">NEXT</td></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr></table>",
+                "markdown": "| IP ADDRESS SETTING IP ADDRESS SETTING | AUTO |\n| --- | --- |\n| NEXT | NEXT |\n| NEXT | NEXT |\n| NEXT | NEXT |\n| NEXT | NEXT |\n| NEXT | NEXT |\n| NEXT | NEXT |\n| NEXT | NEXT |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6209,
+                    "y": 0.7364
+                },
+                {
+                    "x": 0.8909,
+                    "y": 0.7364
+                },
+                {
+                    "x": 0.8909,
+                    "y": 0.8829
+                },
+                {
+                    "x": 0.6209,
+                    "y": 0.8829
+                }
+            ],
+            "id": 16,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='17' style='font-size:20px'>282</footer>",
+                "markdown": "282",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0832,
+                    "y": 0.9566
+                },
+                {
+                    "x": 0.1388,
+                    "y": 0.9566
+                },
+                {
+                    "x": 0.1388,
+                    "y": 0.9789
+                },
+                {
+                    "x": 0.0832,
+                    "y": 0.9789
+                }
+            ],
+            "id": 17,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

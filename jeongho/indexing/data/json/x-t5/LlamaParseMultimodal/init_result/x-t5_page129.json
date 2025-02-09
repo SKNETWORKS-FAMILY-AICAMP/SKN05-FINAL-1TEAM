@@ -1,0 +1,71 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "\n# Bracketing\n\nAutomatically vary settings over a series of pictures.\n\n1. Rotate the drive dial to BKT.\n\n   !Drive Dial to BKT\n\n2. Navigate to **DRIVE SETTING > BKT SETTING** in the **SHOOTING SETTING** menu (📖 162).\n\n   > 💡 This feature can also be accessed via shortcuts (📖 312).\n\n3. Take photographs.\n\n## AE BKT\n\nChoose the number of shots in the bracketing sequence and the order in which the shots are taken. You can also choose the amount exposure is varied with each shot and whether the shots are taken one at a time or in a single burst.\n\n> 💡 Regardless of the bracketing amount, exposure will not exceed the limits of the exposure metering system.\n\n## ISO BKT\n\nSelect a bracketing amount (±⅓, ±⅔, or ±1). Each time the shutter is released, the camera will take a picture at the current sensitivity and process it to create two additional copies, one with sensitivity raised and the other with sensitivity lowered by the selected amount.\n",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "Bracketing",
+                    "md": "# Bracketing"
+                },
+                {
+                    "type": "text",
+                    "value": "Automatically vary settings over a series of pictures.\n\n1. Rotate the drive dial to BKT.\n\n   !Drive Dial to BKT\n\n2. Navigate to **DRIVE SETTING > BKT SETTING** in the **SHOOTING SETTING** menu (📖 162).\n\n   > 💡 This feature can also be accessed via shortcuts (📖 312).\n\n3. Take photographs.",
+                    "md": "Automatically vary settings over a series of pictures.\n\n1. Rotate the drive dial to BKT.\n\n   !Drive Dial to BKT\n\n2. Navigate to **DRIVE SETTING > BKT SETTING** in the **SHOOTING SETTING** menu (📖 162).\n\n   > 💡 This feature can also be accessed via shortcuts (📖 312).\n\n3. Take photographs."
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "AE BKT",
+                    "md": "## AE BKT"
+                },
+                {
+                    "type": "text",
+                    "value": "Choose the number of shots in the bracketing sequence and the order in which the shots are taken. You can also choose the amount exposure is varied with each shot and whether the shots are taken one at a time or in a single burst.\n\n> 💡 Regardless of the bracketing amount, exposure will not exceed the limits of the exposure metering system.",
+                    "md": "Choose the number of shots in the bracketing sequence and the order in which the shots are taken. You can also choose the amount exposure is varied with each shot and whether the shots are taken one at a time or in a single burst.\n\n> 💡 Regardless of the bracketing amount, exposure will not exceed the limits of the exposure metering system."
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "ISO BKT",
+                    "md": "## ISO BKT"
+                },
+                {
+                    "type": "text",
+                    "value": "Select a bracketing amount (±⅓, ±⅔, or ±1). Each time the shutter is released, the camera will take a picture at the current sensitivity and process it to create two additional copies, one with sensitivity raised and the other with sensitivity lowered by the selected amount.",
+                    "md": "Select a bracketing amount (±⅓, ±⅔, or ±1). Each time the shutter is released, the camera will take a picture at the current sensitivity and process it to create two additional copies, one with sensitivity raised and the other with sensitivity lowered by the selected amount."
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "parsingMode": "multimodal-openai-gpt4o",
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 729.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "d2cd47fa-0ef8-4525-87f8-b708208d703e",
+    "file_path": "../data/raw_data/x-t5/x-t5_split/x-t5_page129.pdf"
+}

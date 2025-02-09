@@ -1,0 +1,110 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "\n## SELF-TIMER\n\nChoose the delay between the shutter button being pressed all the way down and the start of recording.\n\n- The display shows the number of seconds remaining before recording begins.\n- To stop the timer before recording begins, press **DISP/BACK**.\n\n!Self-Timer Display\n\n| Options |        |\n|---------|--------|\n| 3 SEC   | 5 SEC  |\n| 10 SEC  | OFF    |\n\n## MEDIA REC SETTING\n\nChoose movie file settings, including destination, file type, compression, and bit rate.\n\n### Destination\n\nChoose save options and save and output destinations for movies.\n\n| Option | Description                                               |\n|--------|-----------------------------------------------------------|\n| SD     | Movies are saved solely to the memory card.               |\n| HDMI   | Movies are recorded only to devices connected via HDMI.   |\n",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "SELF-TIMER",
+                    "md": "## SELF-TIMER"
+                },
+                {
+                    "type": "text",
+                    "value": "Choose the delay between the shutter button being pressed all the way down and the start of recording.\n\n- The display shows the number of seconds remaining before recording begins.\n- To stop the timer before recording begins, press **DISP/BACK**.\n\n!Self-Timer Display",
+                    "md": "Choose the delay between the shutter button being pressed all the way down and the start of recording.\n\n- The display shows the number of seconds remaining before recording begins.\n- To stop the timer before recording begins, press **DISP/BACK**.\n\n!Self-Timer Display"
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Options",
+                            ""
+                        ],
+                        [
+                            "3 SEC",
+                            "5 SEC"
+                        ],
+                        [
+                            "10 SEC",
+                            "OFF"
+                        ]
+                    ],
+                    "md": "| Options |        |\n|---------|--------|\n| 3 SEC   | 5 SEC  |\n| 10 SEC  | OFF    |",
+                    "isPerfectTable": true,
+                    "csv": "\"Options\",\"\"\n\"3 SEC\",\"5 SEC\"\n\"10 SEC\",\"OFF\""
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "MEDIA REC SETTING",
+                    "md": "## MEDIA REC SETTING"
+                },
+                {
+                    "type": "text",
+                    "value": "Choose movie file settings, including destination, file type, compression, and bit rate.",
+                    "md": "Choose movie file settings, including destination, file type, compression, and bit rate."
+                },
+                {
+                    "type": "heading",
+                    "lvl": 3,
+                    "value": "Destination",
+                    "md": "### Destination"
+                },
+                {
+                    "type": "text",
+                    "value": "Choose save options and save and output destinations for movies.",
+                    "md": "Choose save options and save and output destinations for movies."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Option",
+                            "Description"
+                        ],
+                        [
+                            "SD",
+                            "Movies are saved solely to the memory card."
+                        ],
+                        [
+                            "HDMI",
+                            "Movies are recorded only to devices connected via HDMI."
+                        ]
+                    ],
+                    "md": "| Option | Description                                               |\n|--------|-----------------------------------------------------------|\n| SD     | Movies are saved solely to the memory card.               |\n| HDMI   | Movies are recorded only to devices connected via HDMI.   |",
+                    "isPerfectTable": true,
+                    "csv": "\"Option\",\"Description\"\n\"SD\",\"Movies are saved solely to the memory card.\"\n\"HDMI\",\"Movies are recorded only to devices connected via HDMI.\""
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 19.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "8a0a2b95-96f7-4db9-95fe-1d37b1b63c19",
+    "file_path": "../data/raw_data/x-s20/x-s20_split/x-s20_page216.pdf"
+}

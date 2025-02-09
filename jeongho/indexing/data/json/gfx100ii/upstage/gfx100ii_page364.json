@@ -1,0 +1,378 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<h1 id='0' style='font-size:18px'>TOUCH SCREEN SETTING</h1>\n<br><h1 id='1' style='font-size:16px'>Enable or disable touch-screen controls.</h1>\n<table id='2' style='font-size:14px'><tr><td>Option</td><td>Description</td></tr><tr><td>ON</td><td>The LCD monitor functions as a touch screen during shooting.</td></tr><tr><td>OFF</td><td>Touch controls disabled.</td></tr></table>\n<br><h1 id='3' style='font-size:18px'>TOUCH SCREEN SETTING</h1>\n\n<table id='5' style='font-size:14px'><tr><td>Option</td><td>Description</td></tr><tr><td>ON</td><td>Tap the LCD monitor twice to zoom in on your subject during shooting.</td></tr><tr><td>OFF</td><td>Touch zoom disabled.</td></tr><caption id='4' style='font-size:16px'>DOUBLE TAP SETTING</caption></table>\n\n<table id='7' style='font-size:18px'><tr><td>Option</td><td>Description</td></tr><tr><td>ON</td><td>Enable touch-function gestures.</td></tr><tr><td>OFF</td><td>Disable touch-function gestures.</td></tr><caption id='6' style='font-size:14px'>T-Fn TOUCH FUNCTION</caption></table>\n\n<table id='9' style='font-size:14px'><tr><td>Option</td><td>Description</td></tr><tr><td>ON</td><td>The LCD monitor functions as a touch screen during playback.</td></tr><tr><td>OFF</td><td>Touch controls disabled.</td></tr><caption id='8' style='font-size:14px'>▶ TOUCH SCREEN SETTING</caption></table>\n<br><header id='10' style='font-size:22px'>The<br>Setup<br>Menus</header>\n<header id='11' style='font-size:14px'>9</header>\n<footer id='12' style='font-size:20px'>364</footer>",
+        "markdown": "# TOUCH SCREEN SETTING\n\n# Enable or disable touch-screen controls.\n\n| Option | Description |\n| --- | --- |\n| ON | The LCD monitor functions as a touch screen during shooting. |\n| OFF | Touch controls disabled. |\n\n\n# TOUCH SCREEN SETTING\n\nDOUBLE TAP SETTING\n\n| Option | Description |\n| --- | --- |\n| ON | Tap the LCD monitor twice to zoom in on your subject during shooting. |\n| OFF | Touch zoom disabled. |\n\n\nT-Fn TOUCH FUNCTION\n\n| Option | Description |\n| --- | --- |\n| ON | Enable touch-function gestures. |\n| OFF | Disable touch-function gestures. |\n\n\n▶ TOUCH SCREEN SETTING\n\n| Option | Description |\n| --- | --- |\n| ON | The LCD monitor functions as a touch screen during playback. |\n| OFF | Touch controls disabled. |\n\n\nThe\nSetup\nMenus\n\n9\n\n364",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='0' style='font-size:18px'>TOUCH SCREEN SETTING</h1>",
+                "markdown": "# TOUCH SCREEN SETTING",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.083,
+                    "y": 0.0732
+                },
+                {
+                    "x": 0.4206,
+                    "y": 0.0732
+                },
+                {
+                    "x": 0.4206,
+                    "y": 0.0952
+                },
+                {
+                    "x": 0.083,
+                    "y": 0.0952
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='1' style='font-size:16px'>Enable or disable touch-screen controls.</h1>",
+                "markdown": "# Enable or disable touch-screen controls.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0828,
+                    "y": 0.105
+                },
+                {
+                    "x": 0.5887,
+                    "y": 0.105
+                },
+                {
+                    "x": 0.5887,
+                    "y": 0.1287
+                },
+                {
+                    "x": 0.0828,
+                    "y": 0.1287
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='2' style='font-size:14px'><tr><td>Option</td><td>Description</td></tr><tr><td>ON</td><td>The LCD monitor functions as a touch screen during shooting.</td></tr><tr><td>OFF</td><td>Touch controls disabled.</td></tr></table>",
+                "markdown": "| Option | Description |\n| --- | --- |\n| ON | The LCD monitor functions as a touch screen during shooting. |\n| OFF | Touch controls disabled. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0854,
+                    "y": 0.1912
+                },
+                {
+                    "x": 0.8904,
+                    "y": 0.1912
+                },
+                {
+                    "x": 0.8904,
+                    "y": 0.2708
+                },
+                {
+                    "x": 0.0854,
+                    "y": 0.2708
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='3' style='font-size:18px'>TOUCH SCREEN SETTING</h1>",
+                "markdown": "# TOUCH SCREEN SETTING",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0946,
+                    "y": 0.1506
+                },
+                {
+                    "x": 0.439,
+                    "y": 0.1506
+                },
+                {
+                    "x": 0.439,
+                    "y": 0.1745
+                },
+                {
+                    "x": 0.0946,
+                    "y": 0.1745
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='4' data-category='paragraph' style='font-size:16px'>DOUBLE TAP SETTING</p>",
+                "markdown": "DOUBLE TAP SETTING",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.093,
+                    "y": 0.2893
+                },
+                {
+                    "x": 0.4061,
+                    "y": 0.2893
+                },
+                {
+                    "x": 0.4061,
+                    "y": 0.314
+                },
+                {
+                    "x": 0.093,
+                    "y": 0.314
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='5' style='font-size:14px'><tr><td>Option</td><td>Description</td></tr><tr><td>ON</td><td>Tap the LCD monitor twice to zoom in on your subject during shooting.</td></tr><tr><td>OFF</td><td>Touch zoom disabled.</td></tr></table>",
+                "markdown": "| Option | Description |\n| --- | --- |\n| ON | Tap the LCD monitor twice to zoom in on your subject during shooting. |\n| OFF | Touch zoom disabled. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0847,
+                    "y": 0.3318
+                },
+                {
+                    "x": 0.8881,
+                    "y": 0.3318
+                },
+                {
+                    "x": 0.8881,
+                    "y": 0.4345
+                },
+                {
+                    "x": 0.0847,
+                    "y": 0.4345
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='6' data-category='paragraph' style='font-size:14px'>T-Fn TOUCH FUNCTION</p>",
+                "markdown": "T-Fn TOUCH FUNCTION",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0994,
+                    "y": 0.4536
+                },
+                {
+                    "x": 0.3675,
+                    "y": 0.4536
+                },
+                {
+                    "x": 0.3675,
+                    "y": 0.4755
+                },
+                {
+                    "x": 0.0994,
+                    "y": 0.4755
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='7' style='font-size:18px'><tr><td>Option</td><td>Description</td></tr><tr><td>ON</td><td>Enable touch-function gestures.</td></tr><tr><td>OFF</td><td>Disable touch-function gestures.</td></tr></table>",
+                "markdown": "| Option | Description |\n| --- | --- |\n| ON | Enable touch-function gestures. |\n| OFF | Disable touch-function gestures. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.086,
+                    "y": 0.4929
+                },
+                {
+                    "x": 0.8907,
+                    "y": 0.4929
+                },
+                {
+                    "x": 0.8907,
+                    "y": 0.5742
+                },
+                {
+                    "x": 0.086,
+                    "y": 0.5742
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='8' data-category='paragraph' style='font-size:14px'>▶ TOUCH SCREEN SETTING</p>",
+                "markdown": "▶ TOUCH SCREEN SETTING",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0987,
+                    "y": 0.5919
+                },
+                {
+                    "x": 0.4378,
+                    "y": 0.5919
+                },
+                {
+                    "x": 0.4378,
+                    "y": 0.615
+                },
+                {
+                    "x": 0.0987,
+                    "y": 0.615
+                }
+            ],
+            "id": 8,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='9' style='font-size:14px'><tr><td>Option</td><td>Description</td></tr><tr><td>ON</td><td>The LCD monitor functions as a touch screen during playback.</td></tr><tr><td>OFF</td><td>Touch controls disabled.</td></tr></table>",
+                "markdown": "| Option | Description |\n| --- | --- |\n| ON | The LCD monitor functions as a touch screen during playback. |\n| OFF | Touch controls disabled. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0874,
+                    "y": 0.6331
+                },
+                {
+                    "x": 0.8899,
+                    "y": 0.6331
+                },
+                {
+                    "x": 0.8899,
+                    "y": 0.7129
+                },
+                {
+                    "x": 0.0874,
+                    "y": 0.7129
+                }
+            ],
+            "id": 9,
+            "page": 1
+        },
+        {
+            "category": "header",
+            "content": {
+                "html": "<br><header id='10' style='font-size:22px'>The<br>Setup<br>Menus</header>",
+                "markdown": "The\nSetup\nMenus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.018,
+                    "y": 0.5681
+                },
+                {
+                    "x": 0.0416,
+                    "y": 0.5681
+                },
+                {
+                    "x": 0.0416,
+                    "y": 0.6974
+                },
+                {
+                    "x": 0.018,
+                    "y": 0.6974
+                }
+            ],
+            "id": 10,
+            "page": 1
+        },
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='11' style='font-size:14px'>9</header>",
+                "markdown": "9",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.025,
+                    "y": 0.7173
+                },
+                {
+                    "x": 0.044,
+                    "y": 0.7173
+                },
+                {
+                    "x": 0.044,
+                    "y": 0.7375
+                },
+                {
+                    "x": 0.025,
+                    "y": 0.7375
+                }
+            ],
+            "id": 11,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='12' style='font-size:20px'>364</footer>",
+                "markdown": "364",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0829,
+                    "y": 0.957
+                },
+                {
+                    "x": 0.1401,
+                    "y": 0.957
+                },
+                {
+                    "x": 0.1401,
+                    "y": 0.9794
+                },
+                {
+                    "x": 0.0829,
+                    "y": 0.9794
+                }
+            ],
+            "id": 12,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

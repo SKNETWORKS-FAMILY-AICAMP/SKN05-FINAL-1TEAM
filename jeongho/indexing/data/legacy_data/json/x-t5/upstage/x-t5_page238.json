@@ -1,0 +1,350 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:22px'>Playback<br>and<br>the<br>Playback<br>Menu</header>\n<br><h1 id='1' style='font-size:18px'>COPY</h1>\n<br><h1 id='2' style='font-size:20px'>Copy pictures between the cards in the first and second slots.</h1>\n<p id='3' data-category='list' style='font-size:18px'>1 Select COPY in the playback menu.</p>\n<h1 id='4' style='font-size:22px'>2 Highlight one of the following options.</h1>\n<br><table id='5' style='font-size:16px'><tr><td>Option</td><td>Description</td></tr><tr><td>SLOT1 → SLOT2</td><td>Copy pictures from the card in the first slot to the card in the second slot.</td></tr><tr><td>SLOT2 → SLOT1</td><td>Copy pictures from the card in the second slot to the card in the first slot.</td></tr></table>\n<br><p id='6' data-category='list' style='font-size:22px'>3 Press the selector right.</p>\n\n<table id='8' style='font-size:16px'><tr><td>Option</td><td>Description</td></tr><tr><td>FRAME</td><td>Copy selected pictures. Press the selector left or right to view pictures and press MENU/OK to copy the current pic- ture.</td></tr><tr><td>ALL FRAMES</td><td>Copy all pictures.</td></tr><caption id='7' style='font-size:20px'>4 Highlight one of the following options and press MENU/OK.</caption></table>\n<header id='9' style='font-size:14px'>7</header>\n<br><p id='10' data-category='list' style='font-size:14px'>● Copying ends when the destination is full.<br>● If you attempt to copy a file over 4 GB in size to a memory card with<br>a capacity of 32 GB or less, copying will end and the file will not be<br>copied.</p>\n<footer id='11' style='font-size:20px'>238</footer>",
+        "markdown": "Playback\nand\nthe\nPlayback\nMenu\n\n# COPY\n\n# Copy pictures between the cards in the first and second slots.\n\n- 1 Select COPY in the playback menu.\n\n\n# 2 Highlight one of the following options.\n\n| Option | Description |\n| --- | --- |\n| SLOT1 → SLOT2 | Copy pictures from the card in the first slot to the card in the second slot. |\n| SLOT2 → SLOT1 | Copy pictures from the card in the second slot to the card in the first slot. |\n\n\n- 3 Press the selector right.\n\n\n4 Highlight one of the following options and press MENU/OK.\n\n| Option | Description |\n| --- | --- |\n| FRAME | Copy selected pictures. Press the selector left or right to view pictures and press MENU/OK to copy the current pic- ture. |\n| ALL FRAMES | Copy all pictures. |\n\n\n7\n\n- ● Copying ends when the destination is full.\n- ● If you attempt to copy a file over 4 GB in size to a memory card with\n- a capacity of 32 GB or less, copying will end and the file will not be\n- copied.\n\n\n238",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:22px'>Playback<br>and<br>the<br>Playback<br>Menu</header>",
+                "markdown": "Playback\nand\nthe\nPlayback\nMenu",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0171,
+                    "y": 0.339
+                },
+                {
+                    "x": 0.0423,
+                    "y": 0.339
+                },
+                {
+                    "x": 0.0423,
+                    "y": 0.583
+                },
+                {
+                    "x": 0.0171,
+                    "y": 0.583
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='1' style='font-size:18px'>COPY</h1>",
+                "markdown": "# COPY",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0815,
+                    "y": 0.0727
+                },
+                {
+                    "x": 0.163,
+                    "y": 0.0727
+                },
+                {
+                    "x": 0.163,
+                    "y": 0.0947
+                },
+                {
+                    "x": 0.0815,
+                    "y": 0.0947
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='2' style='font-size:20px'>Copy pictures between the cards in the first and second slots.</h1>",
+                "markdown": "# Copy pictures between the cards in the first and second slots.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0812,
+                    "y": 0.1043
+                },
+                {
+                    "x": 0.8564,
+                    "y": 0.1043
+                },
+                {
+                    "x": 0.8564,
+                    "y": 0.1291
+                },
+                {
+                    "x": 0.0812,
+                    "y": 0.1291
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "list",
+            "content": {
+                "html": "<p id='3' data-category='list' style='font-size:18px'>1 Select COPY in the playback menu.</p>",
+                "markdown": "- 1 Select COPY in the playback menu.\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0946,
+                    "y": 0.1428
+                },
+                {
+                    "x": 0.5778,
+                    "y": 0.1428
+                },
+                {
+                    "x": 0.5778,
+                    "y": 0.1666
+                },
+                {
+                    "x": 0.0946,
+                    "y": 0.1666
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='4' style='font-size:22px'>2 Highlight one of the following options.</h1>",
+                "markdown": "# 2 Highlight one of the following options.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.095,
+                    "y": 0.1813
+                },
+                {
+                    "x": 0.6244,
+                    "y": 0.1813
+                },
+                {
+                    "x": 0.6244,
+                    "y": 0.2069
+                },
+                {
+                    "x": 0.095,
+                    "y": 0.2069
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='5' style='font-size:16px'><tr><td>Option</td><td>Description</td></tr><tr><td>SLOT1 → SLOT2</td><td>Copy pictures from the card in the first slot to the card in the second slot.</td></tr><tr><td>SLOT2 → SLOT1</td><td>Copy pictures from the card in the second slot to the card in the first slot.</td></tr></table>",
+                "markdown": "| Option | Description |\n| --- | --- |\n| SLOT1 → SLOT2 | Copy pictures from the card in the first slot to the card in the second slot. |\n| SLOT2 → SLOT1 | Copy pictures from the card in the second slot to the card in the first slot. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1291,
+                    "y": 0.2181
+                },
+                {
+                    "x": 0.8914,
+                    "y": 0.2181
+                },
+                {
+                    "x": 0.8914,
+                    "y": 0.3355
+                },
+                {
+                    "x": 0.1291,
+                    "y": 0.3355
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "list",
+            "content": {
+                "html": "<br><p id='6' data-category='list' style='font-size:22px'>3 Press the selector right.</p>",
+                "markdown": "- 3 Press the selector right.\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0972,
+                    "y": 0.3493
+                },
+                {
+                    "x": 0.4292,
+                    "y": 0.3493
+                },
+                {
+                    "x": 0.4292,
+                    "y": 0.3739
+                },
+                {
+                    "x": 0.0972,
+                    "y": 0.3739
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='7' data-category='paragraph' style='font-size:20px'>4 Highlight one of the following options and press MENU/OK.</p>",
+                "markdown": "4 Highlight one of the following options and press MENU/OK.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0963,
+                    "y": 0.3875
+                },
+                {
+                    "x": 0.8558,
+                    "y": 0.3875
+                },
+                {
+                    "x": 0.8558,
+                    "y": 0.4129
+                },
+                {
+                    "x": 0.0963,
+                    "y": 0.4129
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='8' style='font-size:16px'><tr><td>Option</td><td>Description</td></tr><tr><td>FRAME</td><td>Copy selected pictures. Press the selector left or right to view pictures and press MENU/OK to copy the current pic- ture.</td></tr><tr><td>ALL FRAMES</td><td>Copy all pictures.</td></tr></table>",
+                "markdown": "| Option | Description |\n| --- | --- |\n| FRAME | Copy selected pictures. Press the selector left or right to view pictures and press MENU/OK to copy the current pic- ture. |\n| ALL FRAMES | Copy all pictures. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1283,
+                    "y": 0.4246
+                },
+                {
+                    "x": 0.8919,
+                    "y": 0.4246
+                },
+                {
+                    "x": 0.8919,
+                    "y": 0.5446
+                },
+                {
+                    "x": 0.1283,
+                    "y": 0.5446
+                }
+            ],
+            "id": 8,
+            "page": 1
+        },
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='9' style='font-size:14px'>7</header>",
+                "markdown": "7",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0257,
+                    "y": 0.5968
+                },
+                {
+                    "x": 0.0441,
+                    "y": 0.5968
+                },
+                {
+                    "x": 0.0441,
+                    "y": 0.618
+                },
+                {
+                    "x": 0.0257,
+                    "y": 0.618
+                }
+            ],
+            "id": 9,
+            "page": 1
+        },
+        {
+            "category": "list",
+            "content": {
+                "html": "<br><p id='10' data-category='list' style='font-size:14px'>● Copying ends when the destination is full.<br>● If you attempt to copy a file over 4 GB in size to a memory card with<br>a capacity of 32 GB or less, copying will end and the file will not be<br>copied.</p>",
+                "markdown": "- ● Copying ends when the destination is full.\n- ● If you attempt to copy a file over 4 GB in size to a memory card with\n- a capacity of 32 GB or less, copying will end and the file will not be\n- copied.\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0975,
+                    "y": 0.5631
+                },
+                {
+                    "x": 0.8876,
+                    "y": 0.5631
+                },
+                {
+                    "x": 0.8876,
+                    "y": 0.6524
+                },
+                {
+                    "x": 0.0975,
+                    "y": 0.6524
+                }
+            ],
+            "id": 10,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='11' style='font-size:20px'>238</footer>",
+                "markdown": "238",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0826,
+                    "y": 0.9558
+                },
+                {
+                    "x": 0.1402,
+                    "y": 0.9558
+                },
+                {
+                    "x": 0.1402,
+                    "y": 0.9799
+                },
+                {
+                    "x": 0.0826,
+                    "y": 0.9799
+                }
+            ],
+            "id": 11,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

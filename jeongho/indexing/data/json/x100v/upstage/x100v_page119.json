@@ -1,0 +1,182 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:14px'>IMAGE QUALITY SETTING</header>\n<p id='1' data-category='list' style='font-size:18px'>5 Press MENU/OK to save changes to the selected item and re-<br>turn to the menu item list.<br>Adjust additional items as desired.</p>\n<p id='2' data-category='paragraph' style='font-size:20px'>6 Pressing DISP/BACK in the menu item<br>list displays a confirmation dialog.<br>Highlight OK and press MENU/OK to<br>save the settings to the selected<br>bank.</p>\n<br><figure id='3'><img style='font-size:14px' alt=\"SAVE CUSTOM SETTING\nCUSTOM 1 SET OK?\nOK\nCANCEL\nBACK BACK\" data-coord=\"top-left:(1773,617); bottom-right:(2522,1153)\" /></figure>\n<footer id='4' style='font-size:16px'>1 1 9</footer>\n<br><footer id='5' style='font-size:22px'>6<br>The<br>Shooting<br>Menus</footer>",
+        "markdown": "IMAGE QUALITY SETTING\n\n- 5 Press MENU/OK to save changes to the selected item and re-\n- turn to the menu item list.\n- Adjust additional items as desired.\n\n\n6 Pressing DISP/BACK in the menu item\nlist displays a confirmation dialog.\nHighlight OK and press MENU/OK to\nsave the settings to the selected\nbank.\n\n![image](/image/placeholder)\nSAVE CUSTOM SETTING\nCUSTOM 1 SET OK?\nOK\nCANCEL\nBACK BACK\n\n1 1 9\n\n6\nThe\nShooting\nMenus",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:14px'>IMAGE QUALITY SETTING</header>",
+                "markdown": "IMAGE QUALITY SETTING",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6681,
+                    "y": 0.0277
+                },
+                {
+                    "x": 0.9183,
+                    "y": 0.0277
+                },
+                {
+                    "x": 0.9183,
+                    "y": 0.05
+                },
+                {
+                    "x": 0.6681,
+                    "y": 0.05
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "list",
+            "content": {
+                "html": "<p id='1' data-category='list' style='font-size:18px'>5 Press MENU/OK to save changes to the selected item and re-<br>turn to the menu item list.<br>Adjust additional items as desired.</p>",
+                "markdown": "- 5 Press MENU/OK to save changes to the selected item and re-\n- turn to the menu item list.\n- Adjust additional items as desired.\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1258,
+                    "y": 0.0711
+                },
+                {
+                    "x": 0.9186,
+                    "y": 0.0711
+                },
+                {
+                    "x": 0.9186,
+                    "y": 0.1486
+                },
+                {
+                    "x": 0.1258,
+                    "y": 0.1486
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='2' data-category='paragraph' style='font-size:20px'>6 Pressing DISP/BACK in the menu item<br>list displays a confirmation dialog.<br>Highlight OK and press MENU/OK to<br>save the settings to the selected<br>bank.</p>",
+                "markdown": "6 Pressing DISP/BACK in the menu item\nlist displays a confirmation dialog.\nHighlight OK and press MENU/OK to\nsave the settings to the selected\nbank.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1279,
+                    "y": 0.1613
+                },
+                {
+                    "x": 0.6291,
+                    "y": 0.1613
+                },
+                {
+                    "x": 0.6291,
+                    "y": 0.2879
+                },
+                {
+                    "x": 0.1279,
+                    "y": 0.2879
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "figure",
+            "content": {
+                "html": "<br><figure id='3'><img style='font-size:14px' alt=\"SAVE CUSTOM SETTING\nCUSTOM 1 SET OK?\nOK\nCANCEL\nBACK BACK\" data-coord=\"top-left:(1773,617); bottom-right:(2522,1153)\" /></figure>",
+                "markdown": "![image](/image/placeholder)\nSAVE CUSTOM SETTING\nCUSTOM 1 SET OK?\nOK\nCANCEL\nBACK BACK",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6415,
+                    "y": 0.1583
+                },
+                {
+                    "x": 0.9125,
+                    "y": 0.1583
+                },
+                {
+                    "x": 0.9125,
+                    "y": 0.296
+                },
+                {
+                    "x": 0.6415,
+                    "y": 0.296
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='4' style='font-size:16px'>1 1 9</footer>",
+                "markdown": "1 1 9",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.8626,
+                    "y": 0.9567
+                },
+                {
+                    "x": 0.9177,
+                    "y": 0.9567
+                },
+                {
+                    "x": 0.9177,
+                    "y": 0.979
+                },
+                {
+                    "x": 0.8626,
+                    "y": 0.979
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<br><footer id='5' style='font-size:22px'>6<br>The<br>Shooting<br>Menus</footer>",
+                "markdown": "6\nThe\nShooting\nMenus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9562,
+                    "y": 0.5423
+                },
+                {
+                    "x": 0.9829,
+                    "y": 0.5423
+                },
+                {
+                    "x": 0.9829,
+                    "y": 0.7319
+                },
+                {
+                    "x": 0.9562,
+                    "y": 0.7319
+                }
+            ],
+            "id": 5,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

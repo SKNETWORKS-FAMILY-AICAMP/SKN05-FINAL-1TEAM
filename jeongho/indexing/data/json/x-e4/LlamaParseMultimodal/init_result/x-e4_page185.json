@@ -1,0 +1,115 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "# MOVIE SETTING (Movie Recording)\n\n## IS MODE\nEnable or disable image stabilization.\n\n| Option      | Description                                                                 |\n|-------------|-----------------------------------------------------------------------------|\n| CONTINUOUS  | Image stabilization on.                                                     |\n| OFF         | Image stabilization off; !Icon appears in the display. Choose when the camera is mounted on a tripod or otherwise fixed in place. |\n\n> - Image stabilization is available with compatible lenses only.\n> - The setting selected with the lens image stabilization switch, if any, takes priority over the setting chosen with the IS mode.\n> - Note that vibration or camera sounds may be noticeable as image stabilization takes effect.\n\n## ISO\nAdjust the camera’s sensitivity to light.\n\n| Option     | Description                                                                 |\n|------------|-----------------------------------------------------------------------------|\n| H (25600)  | Choose for special situations. Note that dynamic range may be reduced and that pictures may be mottled. |\n| 160–12800  | Adjust sensitivity manually. Selected value is shown in display.            |\n| AUTO       | Sensitivity is automatically adjusted in response to shooting conditions.   |",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "MOVIE SETTING (Movie Recording)",
+                    "md": "# MOVIE SETTING (Movie Recording)"
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "IS MODE",
+                    "md": "## IS MODE"
+                },
+                {
+                    "type": "text",
+                    "value": "Enable or disable image stabilization.",
+                    "md": "Enable or disable image stabilization."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Option",
+                            "Description"
+                        ],
+                        [
+                            "CONTINUOUS",
+                            "Image stabilization on."
+                        ],
+                        [
+                            "OFF",
+                            "Image stabilization off; !Icon appears in the display. Choose when the camera is mounted on a tripod or otherwise fixed in place."
+                        ]
+                    ],
+                    "md": "| Option      | Description                                                                 |\n|-------------|-----------------------------------------------------------------------------|\n| CONTINUOUS  | Image stabilization on.                                                     |\n| OFF         | Image stabilization off; !Icon appears in the display. Choose when the camera is mounted on a tripod or otherwise fixed in place. |",
+                    "isPerfectTable": true,
+                    "csv": "\"Option\",\"Description\"\n\"CONTINUOUS\",\"Image stabilization on.\"\n\"OFF\",\"Image stabilization off; !Icon appears in the display. Choose when the camera is mounted on a tripod or otherwise fixed in place.\""
+                },
+                {
+                    "type": "text",
+                    "value": "> - Image stabilization is available with compatible lenses only.\n> - The setting selected with the lens image stabilization switch, if any, takes priority over the setting chosen with the IS mode.\n> - Note that vibration or camera sounds may be noticeable as image stabilization takes effect.",
+                    "md": "> - Image stabilization is available with compatible lenses only.\n> - The setting selected with the lens image stabilization switch, if any, takes priority over the setting chosen with the IS mode.\n> - Note that vibration or camera sounds may be noticeable as image stabilization takes effect."
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "ISO",
+                    "md": "## ISO"
+                },
+                {
+                    "type": "text",
+                    "value": "Adjust the camera’s sensitivity to light.",
+                    "md": "Adjust the camera’s sensitivity to light."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Option",
+                            "Description"
+                        ],
+                        [
+                            "H (25600)",
+                            "Choose for special situations. Note that dynamic range may be reduced and that pictures may be mottled."
+                        ],
+                        [
+                            "160–12800",
+                            "Adjust sensitivity manually. Selected value is shown in display."
+                        ],
+                        [
+                            "AUTO",
+                            "Sensitivity is automatically adjusted in response to shooting conditions."
+                        ]
+                    ],
+                    "md": "| Option     | Description                                                                 |\n|------------|-----------------------------------------------------------------------------|\n| H (25600)  | Choose for special situations. Note that dynamic range may be reduced and that pictures may be mottled. |\n| 160–12800  | Adjust sensitivity manually. Selected value is shown in display.            |\n| AUTO       | Sensitivity is automatically adjusted in response to shooting conditions.   |",
+                    "isPerfectTable": true,
+                    "csv": "\"Option\",\"Description\"\n\"H (25600)\",\"Choose for special situations. Note that dynamic range may be reduced and that pictures may be mottled.\"\n\"160–12800\",\"Adjust sensitivity manually. Selected value is shown in display.\"\n\"AUTO\",\"Sensitivity is automatically adjusted in response to shooting conditions.\""
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "parsingMode": "multimodal-openai-gpt4o",
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 344.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "26761e75-0666-417b-996b-14fa7f6e5c72",
+    "file_path": "../data/raw_data/x-e4/x-e4_split/x-e4_page185.pdf"
+}

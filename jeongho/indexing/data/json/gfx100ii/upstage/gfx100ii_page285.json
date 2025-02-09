@@ -1,0 +1,434 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:16px'>Uploading Files via FTP</header>\n<h1 id='1' style='font-size:22px'>Adjusting Settings for Connection to FTP Servers</h1>\n<br><h1 id='2' style='font-size:20px'>Adjust settings for connection to the destination FTP server.</h1>\n<h1 id='3' style='font-size:20px'>1 Select CREATE NEW in the FTP server<br>settings display.</h1>\n<p id='4' data-category='paragraph' style='font-size:16px'>You can also select or edit existing set-<br>tings.</p>\n<p id='5' data-category='paragraph' style='font-size:18px'>2 Choose an FTP server type.</p>\n<p id='6' data-category='paragraph' style='font-size:18px'>3 Enter the FTP server address.</p>\n<br><table id='7' style='font-size:14px'><tr><td colspan=\"3\">FTP SERVER SETTING</td></tr><tr><td>1:</td><td>FTP AKASAKA_ FTP</td><td></td></tr><tr><td>2:</td><td>FTPS</td><td>NISHIAZABU_FTPS</td></tr><tr><td>3:</td><td>SFTP</td><td>AOYAMA_ SFTP</td></tr><tr><td>4:</td><td>FTP</td><td>AOYAMA_FTP</td></tr><tr><td>5:</td><td>CREATE NEW</td><td>▶</td></tr><tr><td>6:</td><td>CREATE NEW</td><td></td></tr><tr><td>7:</td><td>CREATE NEW</td><td></td></tr><tr><td>8:</td><td>CREATE NEW</td><td></td></tr></table>\n<table id='8' style='font-size:14px'><tr><td>FTP SERVER TYPE FTP</td><td></td></tr><tr><td>FTPS</td><td></td></tr><tr><td>SFTP</td><td></td></tr></table>\n\n<br><table id='10' style='font-size:16px'><tr><td></td><td colspan=\"9\">2 55.255.255.1</td></tr><tr><td></td><td>SET</td><td></td><td></td><td>←</td><td></td><td>→</td><td>DEL</td><td></td><td>A>a</td></tr><tr><td>a</td><td>b</td><td>C</td><td></td><td>d e</td><td>f</td><td>g</td><td>h</td><td>i</td><td>「</td></tr><tr><td>k</td><td></td><td>m</td><td></td><td>n O</td><td>p</td><td>q</td><td>r</td><td>S</td><td>t</td></tr><tr><td>u</td><td>V</td><td>W</td><td>X</td><td>y</td><td>Z</td><td></td><td>- 7</td><td>8</td><td>· 9</td></tr><tr><td>0</td><td>1</td><td>2</td><td>3</td><td>4 OK</td><td>5 ENTER</td><td>6</td><td>BACK</td><td></td><td>CANCEL</td></tr><caption id='9' style='font-size:14px'>FTP SERVER ADDRESS</caption></table>\n<br><p id='11' data-category='paragraph' style='font-size:18px'>4 Enter the FTP server port number.</p>\n<br><table id='12' style='font-size:14px'><tr><td rowspan=\"2\">PORT NUMBER</td><td colspan=\"3\">123</td></tr><tr><td></td><td>→</td><td>DEL</td></tr><tr><td>SET 1</td><td>2</td><td></td><td>3</td></tr><tr><td>4</td><td>5</td><td></td><td>6</td></tr><tr><td>7</td><td>8 0</td><td>9</td><td></td></tr><tr><td>OK]</td><td>ENTER</td><td>BACK</td><td>CANCEL</td></tr></table>\n<br><footer id='13' style='font-size:22px'>Network/USB<br>Setting<br>Menus</footer>\n<footer id='14' style='font-size:22px'>285</footer>",
+        "markdown": "Uploading Files via FTP\n\n# Adjusting Settings for Connection to FTP Servers\n\n# Adjust settings for connection to the destination FTP server.\n\n# 1 Select CREATE NEW in the FTP server\nsettings display.\n\nYou can also select or edit existing set-\ntings.\n\n2 Choose an FTP server type.\n\n3 Enter the FTP server address.\n\n| FTP SERVER SETTING | FTP SERVER SETTING | FTP SERVER SETTING |\n| --- | --- | --- |\n| 1: | FTP AKASAKA_ FTP |  |\n| 2: | FTPS | NISHIAZABU_FTPS |\n| 3: | SFTP | AOYAMA_ SFTP |\n| 4: | FTP | AOYAMA_FTP |\n| 5: | CREATE NEW | ▶ |\n| 6: | CREATE NEW |  |\n| 7: | CREATE NEW |  |\n| 8: | CREATE NEW |  |\n\n\n| FTP SERVER TYPE FTP |  |\n| --- | --- |\n| FTPS |  |\n| SFTP |  |\n\n\nFTP SERVER ADDRESS\n\n|  | 2 55.255.255.1 | 2 55.255.255.1 | 2 55.255.255.1 | 2 55.255.255.1 | 2 55.255.255.1 | 2 55.255.255.1 | 2 55.255.255.1 | 2 55.255.255.1 | 2 55.255.255.1 |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n|  | SET |  |  | ← |  | → | DEL |  | A>a |\n| a | b | C |  | d e | f | g | h | i | 「 |\n| k |  | m |  | n O | p | q | r | S | t |\n| u | V | W | X | y | Z |  | - 7 | 8 | · 9 |\n| 0 | 1 | 2 | 3 | 4 OK | 5 ENTER | 6 | BACK |  | CANCEL |\n\n\n4 Enter the FTP server port number.\n\n| PORT NUMBER | 123 | 123 | 123 |\n| --- | --- | --- | --- |\n| PORT NUMBER |  | → | DEL |\n| SET 1 | 2 |  | 3 |\n| 4 | 5 |  | 6 |\n| 7 | 8 0 | 9 |  |\n| OK] | ENTER | BACK | CANCEL |\n\n\nNetwork/USB\nSetting\nMenus\n\n285",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:16px'>Uploading Files via FTP</header>",
+                "markdown": "Uploading Files via FTP",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.692,
+                    "y": 0.0287
+                },
+                {
+                    "x": 0.9174,
+                    "y": 0.0287
+                },
+                {
+                    "x": 0.9174,
+                    "y": 0.0497
+                },
+                {
+                    "x": 0.692,
+                    "y": 0.0497
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='1' style='font-size:22px'>Adjusting Settings for Connection to FTP Servers</h1>",
+                "markdown": "# Adjusting Settings for Connection to FTP Servers",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1058,
+                    "y": 0.0738
+                },
+                {
+                    "x": 0.7674,
+                    "y": 0.0738
+                },
+                {
+                    "x": 0.7674,
+                    "y": 0.0957
+                },
+                {
+                    "x": 0.1058,
+                    "y": 0.0957
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='2' style='font-size:20px'>Adjust settings for connection to the destination FTP server.</h1>",
+                "markdown": "# Adjust settings for connection to the destination FTP server.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1062,
+                    "y": 0.105
+                },
+                {
+                    "x": 0.8621,
+                    "y": 0.105
+                },
+                {
+                    "x": 0.8621,
+                    "y": 0.1287
+                },
+                {
+                    "x": 0.1062,
+                    "y": 0.1287
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='3' style='font-size:20px'>1 Select CREATE NEW in the FTP server<br>settings display.</h1>",
+                "markdown": "# 1 Select CREATE NEW in the FTP server\nsettings display.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1264,
+                    "y": 0.1521
+                },
+                {
+                    "x": 0.626,
+                    "y": 0.1521
+                },
+                {
+                    "x": 0.626,
+                    "y": 0.2021
+                },
+                {
+                    "x": 0.1264,
+                    "y": 0.2021
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='4' data-category='paragraph' style='font-size:16px'>You can also select or edit existing set-<br>tings.</p>",
+                "markdown": "You can also select or edit existing set-\ntings.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1812,
+                    "y": 0.2158
+                },
+                {
+                    "x": 0.6201,
+                    "y": 0.2158
+                },
+                {
+                    "x": 0.6201,
+                    "y": 0.2609
+                },
+                {
+                    "x": 0.1812,
+                    "y": 0.2609
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='5' data-category='paragraph' style='font-size:18px'>2 Choose an FTP server type.</p>",
+                "markdown": "2 Choose an FTP server type.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1232,
+                    "y": 0.3096
+                },
+                {
+                    "x": 0.5018,
+                    "y": 0.3096
+                },
+                {
+                    "x": 0.5018,
+                    "y": 0.3356
+                },
+                {
+                    "x": 0.1232,
+                    "y": 0.3356
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='6' data-category='paragraph' style='font-size:18px'>3 Enter the FTP server address.</p>",
+                "markdown": "3 Enter the FTP server address.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1231,
+                    "y": 0.4678
+                },
+                {
+                    "x": 0.522,
+                    "y": 0.4678
+                },
+                {
+                    "x": 0.522,
+                    "y": 0.4926
+                },
+                {
+                    "x": 0.1231,
+                    "y": 0.4926
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='7' style='font-size:14px'><tr><td colspan=\"3\">FTP SERVER SETTING</td></tr><tr><td>1:</td><td>FTP AKASAKA_ FTP</td><td></td></tr><tr><td>2:</td><td>FTPS</td><td>NISHIAZABU_FTPS</td></tr><tr><td>3:</td><td>SFTP</td><td>AOYAMA_ SFTP</td></tr><tr><td>4:</td><td>FTP</td><td>AOYAMA_FTP</td></tr><tr><td>5:</td><td>CREATE NEW</td><td>▶</td></tr><tr><td>6:</td><td>CREATE NEW</td><td></td></tr><tr><td>7:</td><td>CREATE NEW</td><td></td></tr><tr><td>8:</td><td>CREATE NEW</td><td></td></tr></table>",
+                "markdown": "| FTP SERVER SETTING | FTP SERVER SETTING | FTP SERVER SETTING |\n| --- | --- | --- |\n| 1: | FTP AKASAKA_ FTP |  |\n| 2: | FTPS | NISHIAZABU_FTPS |\n| 3: | SFTP | AOYAMA_ SFTP |\n| 4: | FTP | AOYAMA_FTP |\n| 5: | CREATE NEW | ▶ |\n| 6: | CREATE NEW |  |\n| 7: | CREATE NEW |  |\n| 8: | CREATE NEW |  |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6644,
+                    "y": 0.1527
+                },
+                {
+                    "x": 0.9153,
+                    "y": 0.1527
+                },
+                {
+                    "x": 0.9153,
+                    "y": 0.2923
+                },
+                {
+                    "x": 0.6644,
+                    "y": 0.2923
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='8' style='font-size:14px'><tr><td>FTP SERVER TYPE FTP</td><td></td></tr><tr><td>FTPS</td><td></td></tr><tr><td>SFTP</td><td></td></tr></table>",
+                "markdown": "| FTP SERVER TYPE FTP |  |\n| --- | --- |\n| FTPS |  |\n| SFTP |  |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6535,
+                    "y": 0.3088
+                },
+                {
+                    "x": 0.917,
+                    "y": 0.3088
+                },
+                {
+                    "x": 0.917,
+                    "y": 0.457
+                },
+                {
+                    "x": 0.6535,
+                    "y": 0.457
+                }
+            ],
+            "id": 8,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='9' data-category='paragraph' style='font-size:14px'>FTP SERVER ADDRESS</p>",
+                "markdown": "FTP SERVER ADDRESS",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6782,
+                    "y": 0.4719
+                },
+                {
+                    "x": 0.7918,
+                    "y": 0.4719
+                },
+                {
+                    "x": 0.7918,
+                    "y": 0.4827
+                },
+                {
+                    "x": 0.6782,
+                    "y": 0.4827
+                }
+            ],
+            "id": 9,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='10' style='font-size:16px'><tr><td></td><td colspan=\"9\">2 55.255.255.1</td></tr><tr><td></td><td>SET</td><td></td><td></td><td>←</td><td></td><td>→</td><td>DEL</td><td></td><td>A>a</td></tr><tr><td>a</td><td>b</td><td>C</td><td></td><td>d e</td><td>f</td><td>g</td><td>h</td><td>i</td><td>「</td></tr><tr><td>k</td><td></td><td>m</td><td></td><td>n O</td><td>p</td><td>q</td><td>r</td><td>S</td><td>t</td></tr><tr><td>u</td><td>V</td><td>W</td><td>X</td><td>y</td><td>Z</td><td></td><td>- 7</td><td>8</td><td>· 9</td></tr><tr><td>0</td><td>1</td><td>2</td><td>3</td><td>4 OK</td><td>5 ENTER</td><td>6</td><td>BACK</td><td></td><td>CANCEL</td></tr></table>",
+                "markdown": "|  | 2 55.255.255.1 | 2 55.255.255.1 | 2 55.255.255.1 | 2 55.255.255.1 | 2 55.255.255.1 | 2 55.255.255.1 | 2 55.255.255.1 | 2 55.255.255.1 | 2 55.255.255.1 |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n|  | SET |  |  | ← |  | → | DEL |  | A>a |\n| a | b | C |  | d e | f | g | h | i | 「 |\n| k |  | m |  | n O | p | q | r | S | t |\n| u | V | W | X | y | Z |  | - 7 | 8 | · 9 |\n| 0 | 1 | 2 | 3 | 4 OK | 5 ENTER | 6 | BACK |  | CANCEL |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6641,
+                    "y": 0.4833
+                },
+                {
+                    "x": 0.9111,
+                    "y": 0.4833
+                },
+                {
+                    "x": 0.9111,
+                    "y": 0.6145
+                },
+                {
+                    "x": 0.6641,
+                    "y": 0.6145
+                }
+            ],
+            "id": 10,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='11' data-category='paragraph' style='font-size:18px'>4 Enter the FTP server port number.</p>",
+                "markdown": "4 Enter the FTP server port number.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1241,
+                    "y": 0.6257
+                },
+                {
+                    "x": 0.5893,
+                    "y": 0.6257
+                },
+                {
+                    "x": 0.5893,
+                    "y": 0.6513
+                },
+                {
+                    "x": 0.1241,
+                    "y": 0.6513
+                }
+            ],
+            "id": 11,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='12' style='font-size:14px'><tr><td rowspan=\"2\">PORT NUMBER</td><td colspan=\"3\">123</td></tr><tr><td></td><td>→</td><td>DEL</td></tr><tr><td>SET 1</td><td>2</td><td></td><td>3</td></tr><tr><td>4</td><td>5</td><td></td><td>6</td></tr><tr><td>7</td><td>8 0</td><td>9</td><td></td></tr><tr><td>OK]</td><td>ENTER</td><td>BACK</td><td>CANCEL</td></tr></table>",
+                "markdown": "| PORT NUMBER | 123 | 123 | 123 |\n| --- | --- | --- | --- |\n| PORT NUMBER |  | → | DEL |\n| SET 1 | 2 |  | 3 |\n| 4 | 5 |  | 6 |\n| 7 | 8 0 | 9 |  |\n| OK] | ENTER | BACK | CANCEL |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6494,
+                    "y": 0.6273
+                },
+                {
+                    "x": 0.9145,
+                    "y": 0.6273
+                },
+                {
+                    "x": 0.9145,
+                    "y": 0.7745
+                },
+                {
+                    "x": 0.6494,
+                    "y": 0.7745
+                }
+            ],
+            "id": 12,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<br><footer id='13' style='font-size:22px'>Network/USB<br>Setting<br>Menus</footer>",
+                "markdown": "Network/USB\nSetting\nMenus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9578,
+                    "y": 0.429
+                },
+                {
+                    "x": 0.9799,
+                    "y": 0.429
+                },
+                {
+                    "x": 0.9799,
+                    "y": 0.6378
+                },
+                {
+                    "x": 0.9578,
+                    "y": 0.6378
+                }
+            ],
+            "id": 13,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='14' style='font-size:22px'>285</footer>",
+                "markdown": "285",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.8607,
+                    "y": 0.9567
+                },
+                {
+                    "x": 0.9173,
+                    "y": 0.9567
+                },
+                {
+                    "x": 0.9173,
+                    "y": 0.9795
+                },
+                {
+                    "x": 0.8607,
+                    "y": 0.9795
+                }
+            ],
+            "id": 14,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

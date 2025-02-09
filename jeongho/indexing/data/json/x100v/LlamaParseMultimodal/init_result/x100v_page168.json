@@ -1,0 +1,77 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "# FLICKER REDUCTION\n\nReduce flicker in pictures and the display when shooting under fluorescent lighting and other similar light sources.\n\n| Option      | Description                                                                                                                                  |\n|-------------|----------------------------------------------------------------------------------------------------------------------------------------------|\n| ALL FRAMES  | Flicker reduction is applied to all frames; continuous shooting frame rate reduces.                                                          |\n| FIRST FRAME | Flicker measurement is taken prior to the first frame only, and the same reduction amount is applied to all subsequent frames that flicker may occur. |\n| OFF         | Flicker reduction disabled.                                                                                                                  |\n\n> 💡 **Note:**\n> - Flicker reduction increases the time needed to record pictures.\n> - **OFF** is selected for FLICKER REDUCTION when the electronic shutter is used.\n> - Flicker reduction is not available during movie recording.",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "FLICKER REDUCTION",
+                    "md": "# FLICKER REDUCTION"
+                },
+                {
+                    "type": "text",
+                    "value": "Reduce flicker in pictures and the display when shooting under fluorescent lighting and other similar light sources.",
+                    "md": "Reduce flicker in pictures and the display when shooting under fluorescent lighting and other similar light sources."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Option",
+                            "Description"
+                        ],
+                        [
+                            "ALL FRAMES",
+                            "Flicker reduction is applied to all frames; continuous shooting frame rate reduces."
+                        ],
+                        [
+                            "FIRST FRAME",
+                            "Flicker measurement is taken prior to the first frame only, and the same reduction amount is applied to all subsequent frames that flicker may occur."
+                        ],
+                        [
+                            "OFF",
+                            "Flicker reduction disabled."
+                        ]
+                    ],
+                    "md": "| Option      | Description                                                                                                                                  |\n|-------------|----------------------------------------------------------------------------------------------------------------------------------------------|\n| ALL FRAMES  | Flicker reduction is applied to all frames; continuous shooting frame rate reduces.                                                          |\n| FIRST FRAME | Flicker measurement is taken prior to the first frame only, and the same reduction amount is applied to all subsequent frames that flicker may occur. |\n| OFF         | Flicker reduction disabled.                                                                                                                  |",
+                    "isPerfectTable": true,
+                    "csv": "\"Option\",\"Description\"\n\"ALL FRAMES\",\"Flicker reduction is applied to all frames; continuous shooting frame rate reduces.\"\n\"FIRST FRAME\",\"Flicker measurement is taken prior to the first frame only, and the same reduction amount is applied to all subsequent frames that flicker may occur.\"\n\"OFF\",\"Flicker reduction disabled.\""
+                },
+                {
+                    "type": "text",
+                    "value": "> 💡 **Note:**\n> - Flicker reduction increases the time needed to record pictures.\n> - **OFF** is selected for FLICKER REDUCTION when the electronic shutter is used.\n> - Flicker reduction is not available during movie recording.",
+                    "md": "> 💡 **Note:**\n> - Flicker reduction increases the time needed to record pictures.\n> - **OFF** is selected for FLICKER REDUCTION when the electronic shutter is used.\n> - Flicker reduction is not available during movie recording."
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 521.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "8f1a3746-12cd-4716-86ea-4097181e9c85",
+    "file_path": "../data/raw_data/x100v/x100v_split/x100v_page168.pdf"
+}

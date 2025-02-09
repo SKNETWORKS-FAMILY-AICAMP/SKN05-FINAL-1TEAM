@@ -1,0 +1,14 @@
+{
+    "parsing_result": "# Focus BKT Setting\n\nChoose from **AUTO** and **MANUAL** focus bracketing modes.\n\n- **MANUAL**: In MANUAL mode, you choose the following.\n\n| Option   | Description                                      |\n|----------|--------------------------------------------------|\n| FRAMES   | Choose the number of shots.                      |\n| STEP     | Choose the amount focus changes with each shot.  |\n| INTERVAL | Choose the interval between shots.               |\n\n## Focus and FRAMES/STEP\n\nThe relation between focus and the options chosen for FRAMES and STEP is shown in the illustration.\n\n!Focus and FRAMES/STEP Illustration\n\n- Focus proceeds from the starting position toward infinity.\n- Small STEP values translate to small changes in focus, larger values to larger changes.\n- Regardless of the option chosen for FRAMES, shooting ends when focus reaches infinity.",
+    "metadata": {
+        "page": 164,
+        "model": "x-t5",
+        "chapter": "The Shooting Menus",
+        "section": "SHOOTING SETTING (Still Photography)",
+        "subsection": [
+            "DRIVE SETTING"
+        ],
+        "embedding_model": "text-embedding-3-small",
+        "token": 168
+    }
+}

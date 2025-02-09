@@ -1,0 +1,136 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "\n# AUTOROTATE PB\nChoose **ON** to automatically rotate “tall” (portrait-orientation) pictures during playback.\n\n| Options |\n|---------|\n| ON      |\n| OFF     |\n\n# FOCUS SCALE UNITS\nChoose the units used for the focus distance indicator.\n\n| Options |\n|---------|\n| METERS  |\n| FEET    |\n\n# APERTURE UNIT FOR CINEMA LENS\nChoose whether the camera displays aperture as a T-number (used for movie camera lenses) or an f-number (used for still camera lenses) when an optional FUJINON MKX-series lens is attached. For information on using cinema lenses, see the documentation provided with the lens.\n\n| Option    | Description                                                                                                                                  |\n|-----------|----------------------------------------------------------------------------------------------------------------------------------------------|\n| T NUMBER  | A measure of lens aperture commonly used by cinematographers. Lens transmittance is taken into account to better calculate exposure.         |\n| F NUMBER  | A measure of lens aperture commonly used by photographers. Lens transmittance is assumed to be 100%, meaning that the same aperture may produce different exposures depending on the lens. |\n\n# DISP. CUSTOM SETTING\nChoose the items shown in the standard indicator display (📖 17).\n",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "AUTOROTATE PB",
+                    "md": "# AUTOROTATE PB"
+                },
+                {
+                    "type": "text",
+                    "value": "Choose **ON** to automatically rotate “tall” (portrait-orientation) pictures during playback.",
+                    "md": "Choose **ON** to automatically rotate “tall” (portrait-orientation) pictures during playback."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Options"
+                        ],
+                        [
+                            "ON"
+                        ],
+                        [
+                            "OFF"
+                        ]
+                    ],
+                    "md": "| Options |\n|---------|\n| ON      |\n| OFF     |",
+                    "isPerfectTable": true,
+                    "csv": "\"Options\"\n\"ON\"\n\"OFF\""
+                },
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "FOCUS SCALE UNITS",
+                    "md": "# FOCUS SCALE UNITS"
+                },
+                {
+                    "type": "text",
+                    "value": "Choose the units used for the focus distance indicator.",
+                    "md": "Choose the units used for the focus distance indicator."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Options"
+                        ],
+                        [
+                            "METERS"
+                        ],
+                        [
+                            "FEET"
+                        ]
+                    ],
+                    "md": "| Options |\n|---------|\n| METERS  |\n| FEET    |",
+                    "isPerfectTable": true,
+                    "csv": "\"Options\"\n\"METERS\"\n\"FEET\""
+                },
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "APERTURE UNIT FOR CINEMA LENS",
+                    "md": "# APERTURE UNIT FOR CINEMA LENS"
+                },
+                {
+                    "type": "text",
+                    "value": "Choose whether the camera displays aperture as a T-number (used for movie camera lenses) or an f-number (used for still camera lenses) when an optional FUJINON MKX-series lens is attached. For information on using cinema lenses, see the documentation provided with the lens.",
+                    "md": "Choose whether the camera displays aperture as a T-number (used for movie camera lenses) or an f-number (used for still camera lenses) when an optional FUJINON MKX-series lens is attached. For information on using cinema lenses, see the documentation provided with the lens."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Option",
+                            "Description"
+                        ],
+                        [
+                            "T NUMBER",
+                            "A measure of lens aperture commonly used by cinematographers. Lens transmittance is taken into account to better calculate exposure."
+                        ],
+                        [
+                            "F NUMBER",
+                            "A measure of lens aperture commonly used by photographers. Lens transmittance is assumed to be 100%, meaning that the same aperture may produce different exposures depending on the lens."
+                        ]
+                    ],
+                    "md": "| Option    | Description                                                                                                                                  |\n|-----------|----------------------------------------------------------------------------------------------------------------------------------------------|\n| T NUMBER  | A measure of lens aperture commonly used by cinematographers. Lens transmittance is taken into account to better calculate exposure.         |\n| F NUMBER  | A measure of lens aperture commonly used by photographers. Lens transmittance is assumed to be 100%, meaning that the same aperture may produce different exposures depending on the lens. |",
+                    "isPerfectTable": true,
+                    "csv": "\"Option\",\"Description\"\n\"T NUMBER\",\"A measure of lens aperture commonly used by cinematographers. Lens transmittance is taken into account to better calculate exposure.\"\n\"F NUMBER\",\"A measure of lens aperture commonly used by photographers. Lens transmittance is assumed to be 100%, meaning that the same aperture may produce different exposures depending on the lens.\""
+                },
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "DISP. CUSTOM SETTING",
+                    "md": "# DISP. CUSTOM SETTING"
+                },
+                {
+                    "type": "text",
+                    "value": "Choose the items shown in the standard indicator display (📖 17).",
+                    "md": "Choose the items shown in the standard indicator display (📖 17)."
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "parsingMode": "multimodal-openai-gpt4o",
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 284.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "baaa2544-3aec-4c20-b070-c7b34029fa02",
+    "file_path": "../data/raw_data/x-e4/x-e4_split/x-e4_page244.pdf"
+}

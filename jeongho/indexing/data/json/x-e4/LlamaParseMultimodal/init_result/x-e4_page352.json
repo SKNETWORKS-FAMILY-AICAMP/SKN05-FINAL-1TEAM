@@ -1,0 +1,102 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "# Memory Card Capacity\n\nThe following table shows the recording time or number of pictures available at different image sizes. All figures are approximate; file size varies with the scene recorded, producing wide variations in the number of files that can be stored. The number of exposures or length remaining may not diminish at an even rate.\n\n!Memory Card Capacity Table\n\n| Capacity | 16 GB | 32 GB |\n|----------|-------|-------|\n| **FINE** | 1030  | 2060  |\n| **NORMAL** | 1540 | 3090  |\n| **RAW (UNCOMPRESSED)** | 270 | 550 |\n| **RAW (LOSSLESS COMPRESSED)** | 500 | 1010 |\n| **RAW (COMPRESSED)** | 690 | 1400 |\n| **4K 2160** | 20 minutes | 40 minutes |\n| **FHD 1080** | 20 minutes | 40 minutes |\n\n1. Use a UHS speed class 3 card or better.\n2. Assumes default bit rate.\n\n> 💡 **Note:**\n> If the memory card has a capacity of over 32 GB, movies will be recorded in single files, regardless of size. If the card has a capacity of 32 GB or less, movies over 4 GB in size will be recorded uninterrupted across multiple files.",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "Memory Card Capacity",
+                    "md": "# Memory Card Capacity"
+                },
+                {
+                    "type": "text",
+                    "value": "The following table shows the recording time or number of pictures available at different image sizes. All figures are approximate; file size varies with the scene recorded, producing wide variations in the number of files that can be stored. The number of exposures or length remaining may not diminish at an even rate.\n\n!Memory Card Capacity Table",
+                    "md": "The following table shows the recording time or number of pictures available at different image sizes. All figures are approximate; file size varies with the scene recorded, producing wide variations in the number of files that can be stored. The number of exposures or length remaining may not diminish at an even rate.\n\n!Memory Card Capacity Table"
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Capacity",
+                            "16 GB",
+                            "32 GB"
+                        ],
+                        [
+                            "**FINE**",
+                            "1030",
+                            "2060"
+                        ],
+                        [
+                            "**NORMAL**",
+                            "1540",
+                            "3090"
+                        ],
+                        [
+                            "**RAW (UNCOMPRESSED)**",
+                            "270",
+                            "550"
+                        ],
+                        [
+                            "**RAW (LOSSLESS COMPRESSED)**",
+                            "500",
+                            "1010"
+                        ],
+                        [
+                            "**RAW (COMPRESSED)**",
+                            "690",
+                            "1400"
+                        ],
+                        [
+                            "**4K 2160**",
+                            "20 minutes",
+                            "40 minutes"
+                        ],
+                        [
+                            "**FHD 1080**",
+                            "20 minutes",
+                            "40 minutes"
+                        ]
+                    ],
+                    "md": "| Capacity | 16 GB | 32 GB |\n|----------|-------|-------|\n| **FINE** | 1030  | 2060  |\n| **NORMAL** | 1540 | 3090  |\n| **RAW (UNCOMPRESSED)** | 270 | 550 |\n| **RAW (LOSSLESS COMPRESSED)** | 500 | 1010 |\n| **RAW (COMPRESSED)** | 690 | 1400 |\n| **4K 2160** | 20 minutes | 40 minutes |\n| **FHD 1080** | 20 minutes | 40 minutes |",
+                    "isPerfectTable": true,
+                    "csv": "\"Capacity\",\"16 GB\",\"32 GB\"\n\"**FINE**\",\"1030\",\"2060\"\n\"**NORMAL**\",\"1540\",\"3090\"\n\"**RAW (UNCOMPRESSED)**\",\"270\",\"550\"\n\"**RAW (LOSSLESS COMPRESSED)**\",\"500\",\"1010\"\n\"**RAW (COMPRESSED)**\",\"690\",\"1400\"\n\"**4K 2160**\",\"20 minutes\",\"40 minutes\"\n\"**FHD 1080**\",\"20 minutes\",\"40 minutes\""
+                },
+                {
+                    "type": "text",
+                    "value": "1. Use a UHS speed class 3 card or better.\n2. Assumes default bit rate.\n\n> 💡 **Note:**\n> If the memory card has a capacity of over 32 GB, movies will be recorded in single files, regardless of size. If the card has a capacity of 32 GB or less, movies over 4 GB in size will be recorded uninterrupted across multiple files.",
+                    "md": "1. Use a UHS speed class 3 card or better.\n2. Assumes default bit rate.\n\n> 💡 **Note:**\n> If the memory card has a capacity of over 32 GB, movies will be recorded in single files, regardless of size. If the card has a capacity of 32 GB or less, movies over 4 GB in size will be recorded uninterrupted across multiple files."
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "parsingMode": "multimodal-openai-gpt4o",
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 326.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "1ffa3f15-6409-45f2-b14c-2e4efb0f20b3",
+    "file_path": "../data/raw_data/x-e4/x-e4_split/x-e4_page352.pdf"
+}

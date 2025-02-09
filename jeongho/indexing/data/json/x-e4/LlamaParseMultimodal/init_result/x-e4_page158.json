@@ -1,0 +1,81 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "# AF+MF\n\nIf **ON** is selected in focus mode !AF-S Icon and focus has been locked (whether by pressing the shutter button halfway or by other means), focus lock can be ended and focus adjusted manually by rotating the focus ring.\n\n| Options |        |\n|---------|--------|\n| ON      | OFF    |\n\n- Lenses with a focus distance indicator must be set to manual focus mode (MF) before this option can be used. Selecting MF disables the focus distance indicator.\n- If the lens is equipped with a focus distance indicator, set the focus ring to the center, as the camera may fail to focus if the ring is set to infinity or the minimum focus distance.\n\n**STANDARD** and **FOCUS PEAK HIGHLIGHT** MF assist options can be selected using **MF ASSIST**.\n\n## AF + MF Focus Zoom\n\nWhen **ON** is selected for !AF/MF Setting Icon **AF/MF SETTING > FOCUS CHECK** and **SINGLE POINT** selected for **AF MODE**, focus zoom can be used to zoom in on the selected focus area.",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "AF+MF",
+                    "md": "# AF+MF"
+                },
+                {
+                    "type": "text",
+                    "value": "If **ON** is selected in focus mode !AF-S Icon and focus has been locked (whether by pressing the shutter button halfway or by other means), focus lock can be ended and focus adjusted manually by rotating the focus ring.",
+                    "md": "If **ON** is selected in focus mode !AF-S Icon and focus has been locked (whether by pressing the shutter button halfway or by other means), focus lock can be ended and focus adjusted manually by rotating the focus ring."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Options",
+                            ""
+                        ],
+                        [
+                            "ON",
+                            "OFF"
+                        ]
+                    ],
+                    "md": "| Options |        |\n|---------|--------|\n| ON      | OFF    |",
+                    "isPerfectTable": true,
+                    "csv": "\"Options\",\"\"\n\"ON\",\"OFF\""
+                },
+                {
+                    "type": "text",
+                    "value": "- Lenses with a focus distance indicator must be set to manual focus mode (MF) before this option can be used. Selecting MF disables the focus distance indicator.\n- If the lens is equipped with a focus distance indicator, set the focus ring to the center, as the camera may fail to focus if the ring is set to infinity or the minimum focus distance.\n\n**STANDARD** and **FOCUS PEAK HIGHLIGHT** MF assist options can be selected using **MF ASSIST**.",
+                    "md": "- Lenses with a focus distance indicator must be set to manual focus mode (MF) before this option can be used. Selecting MF disables the focus distance indicator.\n- If the lens is equipped with a focus distance indicator, set the focus ring to the center, as the camera may fail to focus if the ring is set to infinity or the minimum focus distance.\n\n**STANDARD** and **FOCUS PEAK HIGHLIGHT** MF assist options can be selected using **MF ASSIST**."
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "AF + MF Focus Zoom",
+                    "md": "## AF + MF Focus Zoom"
+                },
+                {
+                    "type": "text",
+                    "value": "When **ON** is selected for !AF/MF Setting Icon **AF/MF SETTING > FOCUS CHECK** and **SINGLE POINT** selected for **AF MODE**, focus zoom can be used to zoom in on the selected focus area.",
+                    "md": "When **ON** is selected for !AF/MF Setting Icon **AF/MF SETTING > FOCUS CHECK** and **SINGLE POINT** selected for **AF MODE**, focus zoom can be used to zoom in on the selected focus area."
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "parsingMode": "multimodal-openai-gpt4o",
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 168.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "a9d60e9f-b988-41d2-97ed-fa676e58b3cc",
+    "file_path": "../data/raw_data/x-e4/x-e4_split/x-e4_page158.pdf"
+}

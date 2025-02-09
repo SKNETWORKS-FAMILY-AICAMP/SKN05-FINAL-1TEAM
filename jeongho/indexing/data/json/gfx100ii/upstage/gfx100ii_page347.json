@@ -1,0 +1,378 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:14px'>SCREEN SETTING</header>\n<h1 id='1' style='font-size:20px'>F-Log VIEW ASSIST</h1>\n<br><h1 id='2' style='font-size:18px'>Select ON to display a tone-corrected preview (equivalent to<br>BT.709) when recording or viewing F-log movies.</h1>\n<table id='3' style='font-size:16px'><tr><td colspan=\"2\">Options</td></tr><tr><td>ON</td><td>OFF</td></tr></table>\n<h1 id='4' style='font-size:18px'>ELECTRONIC LEVEL SETTING</h1>\n<br><p id='5' data-category='paragraph' style='font-size:22px'>Adjust settings for use when taking pictures using the virtual<br>horizon display (□ 27).</p>\n<p id='6' data-category='paragraph' style='font-size:18px'>FRAMING GUIDELINE</p>\n\n<table id='8' style='font-size:16px'><tr><td></td><td colspan=\"2\">Option</td></tr><tr><td># GRID 9</td><td># GRID 24</td><td>HD HD FRAMING</td></tr><tr><td>Display For \"rule of thirds\" compo- sition.</td><td>P A six-by-four grid.</td><td>P Frame HD pictures in the crop shown by the lines at the top and bottom of the display.</td></tr><br><caption id='7' style='font-size:20px'>Choose a framing grid for shooting mode.</caption></table>\n<br><p id='9' data-category='paragraph' style='font-size:16px'>Framing guides are not shown at default settings but can be displayed<br>using 8 SCREEN SET-UP > DISP. CUSTOM SETTING (目 25).</p>\n<br><footer id='10' style='font-size:22px'>The<br>Setup<br>Menus</footer>\n<footer id='11' style='font-size:14px'>9</footer>\n<footer id='12' style='font-size:20px'>347</footer>",
+        "markdown": "SCREEN SETTING\n\n# F-Log VIEW ASSIST\n\n# Select ON to display a tone-corrected preview (equivalent to\nBT.709) when recording or viewing F-log movies.\n\n| Options | Options |\n| --- | --- |\n| ON | OFF |\n\n\n# ELECTRONIC LEVEL SETTING\n\nAdjust settings for use when taking pictures using the virtual\nhorizon display (□ 27).\n\nFRAMING GUIDELINE\n\nChoose a framing grid for shooting mode.\n\n|  | Option | Option |\n| --- | --- | --- |\n| # GRID 9 | # GRID 24 | HD HD FRAMING |\n| Display For \"rule of thirds\" compo- sition. | P A six-by-four grid. | P Frame HD pictures in the crop shown by the lines at the top and bottom of the display. |\n\n\nFraming guides are not shown at default settings but can be displayed\nusing 8 SCREEN SET-UP > DISP. CUSTOM SETTING (目 25).\n\nThe\nSetup\nMenus\n\n9\n\n347",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:14px'>SCREEN SETTING</header>",
+                "markdown": "SCREEN SETTING",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.7468,
+                    "y": 0.0283
+                },
+                {
+                    "x": 0.9183,
+                    "y": 0.0283
+                },
+                {
+                    "x": 0.9183,
+                    "y": 0.0491
+                },
+                {
+                    "x": 0.7468,
+                    "y": 0.0491
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='1' style='font-size:20px'>F-Log VIEW ASSIST</h1>",
+                "markdown": "# F-Log VIEW ASSIST",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1094,
+                    "y": 0.0727
+                },
+                {
+                    "x": 0.3658,
+                    "y": 0.0727
+                },
+                {
+                    "x": 0.3658,
+                    "y": 0.0959
+                },
+                {
+                    "x": 0.1094,
+                    "y": 0.0959
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='2' style='font-size:18px'>Select ON to display a tone-corrected preview (equivalent to<br>BT.709) when recording or viewing F-log movies.</h1>",
+                "markdown": "# Select ON to display a tone-corrected preview (equivalent to\nBT.709) when recording or viewing F-log movies.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.106,
+                    "y": 0.1049
+                },
+                {
+                    "x": 0.918,
+                    "y": 0.1049
+                },
+                {
+                    "x": 0.918,
+                    "y": 0.1547
+                },
+                {
+                    "x": 0.106,
+                    "y": 0.1547
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='3' style='font-size:16px'><tr><td colspan=\"2\">Options</td></tr><tr><td>ON</td><td>OFF</td></tr></table>",
+                "markdown": "| Options | Options |\n| --- | --- |\n| ON | OFF |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1082,
+                    "y": 0.1686
+                },
+                {
+                    "x": 0.916,
+                    "y": 0.1686
+                },
+                {
+                    "x": 0.916,
+                    "y": 0.2219
+                },
+                {
+                    "x": 0.1082,
+                    "y": 0.2219
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='4' style='font-size:18px'>ELECTRONIC LEVEL SETTING</h1>",
+                "markdown": "# ELECTRONIC LEVEL SETTING",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1102,
+                    "y": 0.2402
+                },
+                {
+                    "x": 0.4964,
+                    "y": 0.2402
+                },
+                {
+                    "x": 0.4964,
+                    "y": 0.2633
+                },
+                {
+                    "x": 0.1102,
+                    "y": 0.2633
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='5' data-category='paragraph' style='font-size:22px'>Adjust settings for use when taking pictures using the virtual<br>horizon display (□ 27).</p>",
+                "markdown": "Adjust settings for use when taking pictures using the virtual\nhorizon display (□ 27).",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1058,
+                    "y": 0.2718
+                },
+                {
+                    "x": 0.9174,
+                    "y": 0.2718
+                },
+                {
+                    "x": 0.9174,
+                    "y": 0.3229
+                },
+                {
+                    "x": 0.1058,
+                    "y": 0.3229
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='6' data-category='paragraph' style='font-size:18px'>FRAMING GUIDELINE</p>",
+                "markdown": "FRAMING GUIDELINE",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1087,
+                    "y": 0.3438
+                },
+                {
+                    "x": 0.3995,
+                    "y": 0.3438
+                },
+                {
+                    "x": 0.3995,
+                    "y": 0.3639
+                },
+                {
+                    "x": 0.1087,
+                    "y": 0.3639
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='7' data-category='paragraph' style='font-size:20px'>Choose a framing grid for shooting mode.</p>",
+                "markdown": "Choose a framing grid for shooting mode.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1065,
+                    "y": 0.375
+                },
+                {
+                    "x": 0.6396,
+                    "y": 0.375
+                },
+                {
+                    "x": 0.6396,
+                    "y": 0.3999
+                },
+                {
+                    "x": 0.1065,
+                    "y": 0.3999
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='8' style='font-size:16px'><tr><td></td><td colspan=\"2\">Option</td></tr><tr><td># GRID 9</td><td># GRID 24</td><td>HD HD FRAMING</td></tr><tr><td>Display For \"rule of thirds\" compo- sition.</td><td>P A six-by-four grid.</td><td>P Frame HD pictures in the crop shown by the lines at the top and bottom of the display.</td></tr></table>",
+                "markdown": "|  | Option | Option |\n| --- | --- | --- |\n| # GRID 9 | # GRID 24 | HD HD FRAMING |\n| Display For \"rule of thirds\" compo- sition. | P A six-by-four grid. | P Frame HD pictures in the crop shown by the lines at the top and bottom of the display. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1127,
+                    "y": 0.4159
+                },
+                {
+                    "x": 0.9114,
+                    "y": 0.4159
+                },
+                {
+                    "x": 0.9114,
+                    "y": 0.6861
+                },
+                {
+                    "x": 0.1127,
+                    "y": 0.6861
+                }
+            ],
+            "id": 8,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='9' data-category='paragraph' style='font-size:16px'>Framing guides are not shown at default settings but can be displayed<br>using 8 SCREEN SET-UP > DISP. CUSTOM SETTING (目 25).</p>",
+                "markdown": "Framing guides are not shown at default settings but can be displayed\nusing 8 SCREEN SET-UP > DISP. CUSTOM SETTING (目 25).",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1162,
+                    "y": 0.69
+                },
+                {
+                    "x": 0.9141,
+                    "y": 0.69
+                },
+                {
+                    "x": 0.9141,
+                    "y": 0.734
+                },
+                {
+                    "x": 0.1162,
+                    "y": 0.734
+                }
+            ],
+            "id": 9,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<br><footer id='10' style='font-size:22px'>The<br>Setup<br>Menus</footer>",
+                "markdown": "The\nSetup\nMenus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9578,
+                    "y": 0.5701
+                },
+                {
+                    "x": 0.98,
+                    "y": 0.5701
+                },
+                {
+                    "x": 0.98,
+                    "y": 0.6976
+                },
+                {
+                    "x": 0.9578,
+                    "y": 0.6976
+                }
+            ],
+            "id": 10,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='11' style='font-size:14px'>9</footer>",
+                "markdown": "9",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9579,
+                    "y": 0.7176
+                },
+                {
+                    "x": 0.9755,
+                    "y": 0.7176
+                },
+                {
+                    "x": 0.9755,
+                    "y": 0.7365
+                },
+                {
+                    "x": 0.9579,
+                    "y": 0.7365
+                }
+            ],
+            "id": 11,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='12' style='font-size:20px'>347</footer>",
+                "markdown": "347",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.8608,
+                    "y": 0.9572
+                },
+                {
+                    "x": 0.9173,
+                    "y": 0.9572
+                },
+                {
+                    "x": 0.9173,
+                    "y": 0.9786
+                },
+                {
+                    "x": 0.8608,
+                    "y": 0.9786
+                }
+            ],
+            "id": 12,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

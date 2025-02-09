@@ -1,0 +1,350 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:14px'>BUTTON/DIAL SETTING</header>\n<h1 id='1' style='font-size:16px'>FOCUS RING</h1>\n\n<table id='3' style='font-size:16px'><tr><td colspan=\"2\">Options</td></tr><tr><td>C CW (clockwise)</td><td>� CCW (counterclockwise)</td></tr><br><caption id='2' style='font-size:18px'>Choose the direction in which the focus ring is rotated to in-<br>crease the focus distance.</caption></table>\n<h1 id='4' style='font-size:16px'>FOCUS RING OPERATION</h1>\n\n<br><table id='6' style='font-size:14px'><tr><td>Option</td><td>Description</td></tr><tr><td>NONLINEAR</td><td>Focus is adjusted at the same rate as the ring is rotated.</td></tr><tr><td>LINEAR</td><td>Focus is adjusted linearly according to the amount the ring is ro- tated, but the focusing speed is unaffected by the speed the ring is rotated.</td></tr><br><caption id='5' style='font-size:20px'>Choose how the camera adjusts focus in response to the move-<br>ment of the focus ring.</caption></table>\n<p id='7' data-category='paragraph' style='font-size:16px'>AE/AF-LOCK MODE</p>\n\n<br><table id='9' style='font-size:14px'><tr><td>Option</td><td>Description</td></tr><tr><td>AE&AF ON WHEN PRESSING</td><td>Exposure and/or focus will lock while the button is pressed.</td></tr><tr><td>AE&AF ON/OFF SWITCH</td><td>Exposure and/or focus will lock when the button is pressed and re- main locked until it is pressed again.</td></tr><br><caption id='8' style='font-size:20px'>This option determines the behavior of the button to which<br>exposure and/or focus lock is assigned.</caption></table>\n<br><footer id='10' style='font-size:22px'>The<br>Setup<br>Menus<br>9</footer>\n<footer id='11' style='font-size:20px'>361</footer>",
+        "markdown": "BUTTON/DIAL SETTING\n\n# FOCUS RING\n\nChoose the direction in which the focus ring is rotated to in-\ncrease the focus distance.\n\n| Options | Options |\n| --- | --- |\n| C CW (clockwise) | � CCW (counterclockwise) |\n\n\n# FOCUS RING OPERATION\n\nChoose how the camera adjusts focus in response to the move-\nment of the focus ring.\n\n| Option | Description |\n| --- | --- |\n| NONLINEAR | Focus is adjusted at the same rate as the ring is rotated. |\n| LINEAR | Focus is adjusted linearly according to the amount the ring is ro- tated, but the focusing speed is unaffected by the speed the ring is rotated. |\n\n\nAE/AF-LOCK MODE\n\nThis option determines the behavior of the button to which\nexposure and/or focus lock is assigned.\n\n| Option | Description |\n| --- | --- |\n| AE&AF ON WHEN PRESSING | Exposure and/or focus will lock while the button is pressed. |\n| AE&AF ON/OFF SWITCH | Exposure and/or focus will lock when the button is pressed and re- main locked until it is pressed again. |\n\n\nThe\nSetup\nMenus\n9\n\n361",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:14px'>BUTTON/DIAL SETTING</header>",
+                "markdown": "BUTTON/DIAL SETTING",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6868,
+                    "y": 0.0279
+                },
+                {
+                    "x": 0.9186,
+                    "y": 0.0279
+                },
+                {
+                    "x": 0.9186,
+                    "y": 0.0499
+                },
+                {
+                    "x": 0.6868,
+                    "y": 0.0499
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='1' style='font-size:16px'>FOCUS RING</h1>",
+                "markdown": "# FOCUS RING",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1093,
+                    "y": 0.0725
+                },
+                {
+                    "x": 0.2813,
+                    "y": 0.0725
+                },
+                {
+                    "x": 0.2813,
+                    "y": 0.0947
+                },
+                {
+                    "x": 0.1093,
+                    "y": 0.0947
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='2' data-category='paragraph' style='font-size:18px'>Choose the direction in which the focus ring is rotated to in-<br>crease the focus distance.</p>",
+                "markdown": "Choose the direction in which the focus ring is rotated to in-\ncrease the focus distance.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1064,
+                    "y": 0.1043
+                },
+                {
+                    "x": 0.9175,
+                    "y": 0.1043
+                },
+                {
+                    "x": 0.9175,
+                    "y": 0.1539
+                },
+                {
+                    "x": 0.1064,
+                    "y": 0.1539
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='3' style='font-size:16px'><tr><td colspan=\"2\">Options</td></tr><tr><td>C CW (clockwise)</td><td>� CCW (counterclockwise)</td></tr></table>",
+                "markdown": "| Options | Options |\n| --- | --- |\n| C CW (clockwise) | � CCW (counterclockwise) |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1752,
+                    "y": 0.1686
+                },
+                {
+                    "x": 0.8645,
+                    "y": 0.1686
+                },
+                {
+                    "x": 0.8645,
+                    "y": 0.2181
+                },
+                {
+                    "x": 0.1752,
+                    "y": 0.2181
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='4' style='font-size:16px'>FOCUS RING OPERATION</h1>",
+                "markdown": "# FOCUS RING OPERATION",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1081,
+                    "y": 0.2343
+                },
+                {
+                    "x": 0.4485,
+                    "y": 0.2343
+                },
+                {
+                    "x": 0.4485,
+                    "y": 0.2582
+                },
+                {
+                    "x": 0.1081,
+                    "y": 0.2582
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='5' data-category='paragraph' style='font-size:20px'>Choose how the camera adjusts focus in response to the move-<br>ment of the focus ring.</p>",
+                "markdown": "Choose how the camera adjusts focus in response to the move-\nment of the focus ring.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1069,
+                    "y": 0.2668
+                },
+                {
+                    "x": 0.9162,
+                    "y": 0.2668
+                },
+                {
+                    "x": 0.9162,
+                    "y": 0.3167
+                },
+                {
+                    "x": 0.1069,
+                    "y": 0.3167
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='6' style='font-size:14px'><tr><td>Option</td><td>Description</td></tr><tr><td>NONLINEAR</td><td>Focus is adjusted at the same rate as the ring is rotated.</td></tr><tr><td>LINEAR</td><td>Focus is adjusted linearly according to the amount the ring is ro- tated, but the focusing speed is unaffected by the speed the ring is rotated.</td></tr></table>",
+                "markdown": "| Option | Description |\n| --- | --- |\n| NONLINEAR | Focus is adjusted at the same rate as the ring is rotated. |\n| LINEAR | Focus is adjusted linearly according to the amount the ring is ro- tated, but the focusing speed is unaffected by the speed the ring is rotated. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1097,
+                    "y": 0.3285
+                },
+                {
+                    "x": 0.9198,
+                    "y": 0.3285
+                },
+                {
+                    "x": 0.9198,
+                    "y": 0.4476
+                },
+                {
+                    "x": 0.1097,
+                    "y": 0.4476
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='7' data-category='paragraph' style='font-size:16px'>AE/AF-LOCK MODE</p>",
+                "markdown": "AE/AF-LOCK MODE",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1054,
+                    "y": 0.4668
+                },
+                {
+                    "x": 0.3665,
+                    "y": 0.4668
+                },
+                {
+                    "x": 0.3665,
+                    "y": 0.4887
+                },
+                {
+                    "x": 0.1054,
+                    "y": 0.4887
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='8' data-category='paragraph' style='font-size:20px'>This option determines the behavior of the button to which<br>exposure and/or focus lock is assigned.</p>",
+                "markdown": "This option determines the behavior of the button to which\nexposure and/or focus lock is assigned.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1053,
+                    "y": 0.4979
+                },
+                {
+                    "x": 0.9167,
+                    "y": 0.4979
+                },
+                {
+                    "x": 0.9167,
+                    "y": 0.5485
+                },
+                {
+                    "x": 0.1053,
+                    "y": 0.5485
+                }
+            ],
+            "id": 8,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='9' style='font-size:14px'><tr><td>Option</td><td>Description</td></tr><tr><td>AE&AF ON WHEN PRESSING</td><td>Exposure and/or focus will lock while the button is pressed.</td></tr><tr><td>AE&AF ON/OFF SWITCH</td><td>Exposure and/or focus will lock when the button is pressed and re- main locked until it is pressed again.</td></tr></table>",
+                "markdown": "| Option | Description |\n| --- | --- |\n| AE&AF ON WHEN PRESSING | Exposure and/or focus will lock while the button is pressed. |\n| AE&AF ON/OFF SWITCH | Exposure and/or focus will lock when the button is pressed and re- main locked until it is pressed again. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1094,
+                    "y": 0.5563
+                },
+                {
+                    "x": 0.918,
+                    "y": 0.5563
+                },
+                {
+                    "x": 0.918,
+                    "y": 0.677
+                },
+                {
+                    "x": 0.1094,
+                    "y": 0.677
+                }
+            ],
+            "id": 9,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<br><footer id='10' style='font-size:22px'>The<br>Setup<br>Menus<br>9</footer>",
+                "markdown": "The\nSetup\nMenus\n9",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9545,
+                    "y": 0.566
+                },
+                {
+                    "x": 0.9909,
+                    "y": 0.566
+                },
+                {
+                    "x": 0.9909,
+                    "y": 0.7385
+                },
+                {
+                    "x": 0.9545,
+                    "y": 0.7385
+                }
+            ],
+            "id": 10,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='11' style='font-size:20px'>361</footer>",
+                "markdown": "361",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.8608,
+                    "y": 0.9567
+                },
+                {
+                    "x": 0.9149,
+                    "y": 0.9567
+                },
+                {
+                    "x": 0.9149,
+                    "y": 0.9794
+                },
+                {
+                    "x": 0.8608,
+                    "y": 0.9794
+                }
+            ],
+            "id": 11,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "parsing_result": "# MIC JACK SETTING\n\nSpecify the type of hardware connected to the microphone jack.\n\n| Option | Description |\n|--------|-------------|\n| MIC    | Choose this option for direct connection to an external microphone. |\n| LINE   | Choose this option for external audio devices connected via line output. |\n\n# MIC LEVEL LIMITER\n\nReduces distortion caused by input that exceeds the limits of the microphone’s audio circuits.\n\n| Options |\n|---------|\n| ON      |\n| OFF     |\n\n# WIND FILTER\n\nChoose whether to enable wind noise reduction during movie recording.\n\n| Options |\n|---------|\n| ON      |\n| OFF     |",
+    "embedding_result": [],
+    "metadata": {
+        "page": 206,
+        "model": "gfx100ii",
+        "chapter": "The Shooting Menus",
+        "section": "AUDIO SETTING (Movie Recording)",
+        "subsection": [
+            "MIC JACK SETTING",
+            "MIC LEVEL LIMITER",
+            "WIND FILTER",
+            "LOW CUT FILTER"
+        ]
+    }
+}

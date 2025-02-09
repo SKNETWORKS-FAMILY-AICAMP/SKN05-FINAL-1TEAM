@@ -1,0 +1,518 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<h1 id='1' style='font-size:18px'>13 Select OK to test the connection.<br>When a prompt is displayed stating<br>that the test was successful, press<br>MENU/OK.</h1>\n<h1 id='2' style='font-size:16px'>If the test ends in failure, check the<br>communication setting profile and<br>network settings.</h1>\n<br><figure id='3'><img style='font-size:14px' alt=\"TEST THE CONNECTION?\nOK\nNO\" data-coord=\"top-left:(1774,273); bottom-right:(2532,859)\" /><figcaption id='0' style='font-size:14px'>Uploading Files via FTP</figcaption></figure>\n<p id='4' data-category='paragraph' style='font-size:20px'>14 Choose SELECT to finish creating the<br>connection setting profile.</p>\n<p id='5' data-category='paragraph' style='font-size:16px'>The connection setting profile can<br>also be selected later using SELECT<br>CONNECTION SETTING.</p>\n<br><figure id='6'><img style='font-size:14px' alt=\"SETTING COMPLETE\nPLEASE SELECT CREATED SETTING\nFROM 'SELECT CONNECTION SETTING'\nSELECT\nSKIP\" data-coord=\"top-left:(1784,1064); bottom-right:(2527,1648)\" /></figure>\n<br><p id='7' data-category='paragraph' style='font-size:20px'>15 Upload pictures to the FTP server (□□ 288).</p>\n<p id='8' data-category='paragraph' style='font-size:20px'>Connecting via Wired LAN (Ethernet)</p>\n<br><p id='9' data-category='paragraph' style='font-size:16px'>Connect to an FTP server via wired LAN (Ethernet).</p>\n<p id='10' data-category='list' style='font-size:18px'>1 Connect to the network by plugging an Ethernet cable into<br>the camera's LAN connector.</p>\n<br><p id='11' data-category='list' style='font-size:18px'>2 Select CREATE/EDIT CONNECTION SETTING > CREATE<br>USING WIZARD in the network/USB setting menu and<br>choose FTP TRANSFER.</p>\n<br><p id='12' data-category='paragraph' style='font-size:20px'>3 Select CREATE NEW.</p>\n<p id='13' data-category='paragraph' style='font-size:16px'>Choose SELECT FROM LIST to select<br>from a list of existing connection set-<br>ting profiles.</p>\n<br><table id='14' style='font-size:14px'><tr><td>FTP TRANSFER</td></tr><tr><td>CREATE NEW</td></tr><tr><td>SELECT FROM LIST</td></tr><tr><td>CREATE NEW CONNECTION SETTING USING WIZARD</td></tr></table>\n<br><footer id='15' style='font-size:14px'>8</footer>\n<footer id='16' style='font-size:22px'>281</footer>\n<br><footer id='17' style='font-size:22px'>Network/USB<br>Setting<br>Menus</footer>",
+        "markdown": "Uploading Files via FTP\n\n# 13 Select OK to test the connection.\nWhen a prompt is displayed stating\nthat the test was successful, press\nMENU/OK.\n\n# If the test ends in failure, check the\ncommunication setting profile and\nnetwork settings.\n\n![image](/image/placeholder)\nTEST THE CONNECTION?\nOK\nNO\n\n14 Choose SELECT to finish creating the\nconnection setting profile.\n\nThe connection setting profile can\nalso be selected later using SELECT\nCONNECTION SETTING.\n\n![image](/image/placeholder)\nSETTING COMPLETE\nPLEASE SELECT CREATED SETTING\nFROM \"SELECT CONNECTION SETTING\"\nSELECT\nSKIP\n\n15 Upload pictures to the FTP server (□□ 288).\n\nConnecting via Wired LAN (Ethernet)\n\nConnect to an FTP server via wired LAN (Ethernet).\n\n- 1 Connect to the network by plugging an Ethernet cable into\n- the camera's LAN connector.\n\n\n- 2 Select CREATE/EDIT CONNECTION SETTING > CREATE\n- USING WIZARD in the network/USB setting menu and\n- choose FTP TRANSFER.\n\n\n3 Select CREATE NEW.\n\nChoose SELECT FROM LIST to select\nfrom a list of existing connection set-\nting profiles.\n\n| FTP TRANSFER |\n| --- |\n| CREATE NEW |\n| SELECT FROM LIST |\n| CREATE NEW CONNECTION SETTING USING WIZARD |\n\n\n8\n\n281\n\nNetwork/USB\nSetting\nMenus",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='0' data-category='paragraph' style='font-size:14px'>Uploading Files via FTP</p>",
+                "markdown": "Uploading Files via FTP",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6921,
+                    "y": 0.029
+                },
+                {
+                    "x": 0.9176,
+                    "y": 0.029
+                },
+                {
+                    "x": 0.9176,
+                    "y": 0.0497
+                },
+                {
+                    "x": 0.6921,
+                    "y": 0.0497
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='1' style='font-size:18px'>13 Select OK to test the connection.<br>When a prompt is displayed stating<br>that the test was successful, press<br>MENU/OK.</h1>",
+                "markdown": "# 13 Select OK to test the connection.\nWhen a prompt is displayed stating\nthat the test was successful, press\nMENU/OK.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1081,
+                    "y": 0.072
+                },
+                {
+                    "x": 0.629,
+                    "y": 0.072
+                },
+                {
+                    "x": 0.629,
+                    "y": 0.1718
+                },
+                {
+                    "x": 0.1081,
+                    "y": 0.1718
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='2' style='font-size:16px'>If the test ends in failure, check the<br>communication setting profile and<br>network settings.</h1>",
+                "markdown": "# If the test ends in failure, check the\ncommunication setting profile and\nnetwork settings.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1867,
+                    "y": 0.1886
+                },
+                {
+                    "x": 0.6222,
+                    "y": 0.1886
+                },
+                {
+                    "x": 0.6222,
+                    "y": 0.255
+                },
+                {
+                    "x": 0.1867,
+                    "y": 0.255
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "figure",
+            "content": {
+                "html": "<br><figure id='3'><img style='font-size:14px' alt=\"TEST THE CONNECTION?\nOK\nNO\" data-coord=\"top-left:(1774,273); bottom-right:(2532,859)\" /></figure>",
+                "markdown": "![image](/image/placeholder)\nTEST THE CONNECTION?\nOK\nNO",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.642,
+                    "y": 0.0702
+                },
+                {
+                    "x": 0.9161,
+                    "y": 0.0702
+                },
+                {
+                    "x": 0.9161,
+                    "y": 0.2206
+                },
+                {
+                    "x": 0.642,
+                    "y": 0.2206
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='4' data-category='paragraph' style='font-size:20px'>14 Choose SELECT to finish creating the<br>connection setting profile.</p>",
+                "markdown": "14 Choose SELECT to finish creating the\nconnection setting profile.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.11,
+                    "y": 0.2767
+                },
+                {
+                    "x": 0.6246,
+                    "y": 0.2767
+                },
+                {
+                    "x": 0.6246,
+                    "y": 0.326
+                },
+                {
+                    "x": 0.11,
+                    "y": 0.326
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='5' data-category='paragraph' style='font-size:16px'>The connection setting profile can<br>also be selected later using SELECT<br>CONNECTION SETTING.</p>",
+                "markdown": "The connection setting profile can\nalso be selected later using SELECT\nCONNECTION SETTING.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1886,
+                    "y": 0.3412
+                },
+                {
+                    "x": 0.6225,
+                    "y": 0.3412
+                },
+                {
+                    "x": 0.6225,
+                    "y": 0.4086
+                },
+                {
+                    "x": 0.1886,
+                    "y": 0.4086
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "figure",
+            "content": {
+                "html": "<br><figure id='6'><img style='font-size:14px' alt=\"SETTING COMPLETE\nPLEASE SELECT CREATED SETTING\nFROM 'SELECT CONNECTION SETTING'\nSELECT\nSKIP\" data-coord=\"top-left:(1784,1064); bottom-right:(2527,1648)\" /></figure>",
+                "markdown": "![image](/image/placeholder)\nSETTING COMPLETE\nPLEASE SELECT CREATED SETTING\nFROM \"SELECT CONNECTION SETTING\"\nSELECT\nSKIP",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6456,
+                    "y": 0.2731
+                },
+                {
+                    "x": 0.9146,
+                    "y": 0.2731
+                },
+                {
+                    "x": 0.9146,
+                    "y": 0.423
+                },
+                {
+                    "x": 0.6456,
+                    "y": 0.423
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='7' data-category='paragraph' style='font-size:20px'>15 Upload pictures to the FTP server (□□ 288).</p>",
+                "markdown": "15 Upload pictures to the FTP server (□□ 288).",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1071,
+                    "y": 0.4337
+                },
+                {
+                    "x": 0.6948,
+                    "y": 0.4337
+                },
+                {
+                    "x": 0.6948,
+                    "y": 0.4601
+                },
+                {
+                    "x": 0.1071,
+                    "y": 0.4601
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='8' data-category='paragraph' style='font-size:20px'>Connecting via Wired LAN (Ethernet)</p>",
+                "markdown": "Connecting via Wired LAN (Ethernet)",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1145,
+                    "y": 0.4866
+                },
+                {
+                    "x": 0.5715,
+                    "y": 0.4866
+                },
+                {
+                    "x": 0.5715,
+                    "y": 0.5114
+                },
+                {
+                    "x": 0.1145,
+                    "y": 0.5114
+                }
+            ],
+            "id": 8,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='9' data-category='paragraph' style='font-size:16px'>Connect to an FTP server via wired LAN (Ethernet).</p>",
+                "markdown": "Connect to an FTP server via wired LAN (Ethernet).",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.108,
+                    "y": 0.5187
+                },
+                {
+                    "x": 0.7427,
+                    "y": 0.5187
+                },
+                {
+                    "x": 0.7427,
+                    "y": 0.542
+                },
+                {
+                    "x": 0.108,
+                    "y": 0.542
+                }
+            ],
+            "id": 9,
+            "page": 1
+        },
+        {
+            "category": "list",
+            "content": {
+                "html": "<p id='10' data-category='list' style='font-size:18px'>1 Connect to the network by plugging an Ethernet cable into<br>the camera's LAN connector.</p>",
+                "markdown": "- 1 Connect to the network by plugging an Ethernet cable into\n- the camera's LAN connector.\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1219,
+                    "y": 0.5635
+                },
+                {
+                    "x": 0.9159,
+                    "y": 0.5635
+                },
+                {
+                    "x": 0.9159,
+                    "y": 0.6135
+                },
+                {
+                    "x": 0.1219,
+                    "y": 0.6135
+                }
+            ],
+            "id": 10,
+            "page": 1
+        },
+        {
+            "category": "list",
+            "content": {
+                "html": "<br><p id='11' data-category='list' style='font-size:18px'>2 Select CREATE/EDIT CONNECTION SETTING > CREATE<br>USING WIZARD in the network/USB setting menu and<br>choose FTP TRANSFER.</p>",
+                "markdown": "- 2 Select CREATE/EDIT CONNECTION SETTING > CREATE\n- USING WIZARD in the network/USB setting menu and\n- choose FTP TRANSFER.\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1252,
+                    "y": 0.6261
+                },
+                {
+                    "x": 0.918,
+                    "y": 0.6261
+                },
+                {
+                    "x": 0.918,
+                    "y": 0.7006
+                },
+                {
+                    "x": 0.1252,
+                    "y": 0.7006
+                }
+            ],
+            "id": 11,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='12' data-category='paragraph' style='font-size:20px'>3 Select CREATE NEW.</p>",
+                "markdown": "3 Select CREATE NEW.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1261,
+                    "y": 0.7151
+                },
+                {
+                    "x": 0.4215,
+                    "y": 0.7151
+                },
+                {
+                    "x": 0.4215,
+                    "y": 0.7384
+                },
+                {
+                    "x": 0.1261,
+                    "y": 0.7384
+                }
+            ],
+            "id": 12,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='13' data-category='paragraph' style='font-size:16px'>Choose SELECT FROM LIST to select<br>from a list of existing connection set-<br>ting profiles.</p>",
+                "markdown": "Choose SELECT FROM LIST to select\nfrom a list of existing connection set-\nting profiles.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1968,
+                    "y": 0.7539
+                },
+                {
+                    "x": 0.6223,
+                    "y": 0.7539
+                },
+                {
+                    "x": 0.6223,
+                    "y": 0.8212
+                },
+                {
+                    "x": 0.1968,
+                    "y": 0.8212
+                }
+            ],
+            "id": 13,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='14' style='font-size:14px'><tr><td>FTP TRANSFER</td></tr><tr><td>CREATE NEW</td></tr><tr><td>SELECT FROM LIST</td></tr><tr><td>CREATE NEW CONNECTION SETTING USING WIZARD</td></tr></table>",
+                "markdown": "| FTP TRANSFER |\n| --- |\n| CREATE NEW |\n| SELECT FROM LIST |\n| CREATE NEW CONNECTION SETTING USING WIZARD |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6611,
+                    "y": 0.7119
+                },
+                {
+                    "x": 0.9184,
+                    "y": 0.7119
+                },
+                {
+                    "x": 0.9184,
+                    "y": 0.8612
+                },
+                {
+                    "x": 0.6611,
+                    "y": 0.8612
+                }
+            ],
+            "id": 14,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<br><footer id='15' style='font-size:14px'>8</footer>",
+                "markdown": "8",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9573,
+                    "y": 0.6572
+                },
+                {
+                    "x": 0.9769,
+                    "y": 0.6572
+                },
+                {
+                    "x": 0.9769,
+                    "y": 0.6776
+                },
+                {
+                    "x": 0.9573,
+                    "y": 0.6776
+                }
+            ],
+            "id": 15,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='16' style='font-size:22px'>281</footer>",
+                "markdown": "281",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.8607,
+                    "y": 0.9565
+                },
+                {
+                    "x": 0.9149,
+                    "y": 0.9565
+                },
+                {
+                    "x": 0.9149,
+                    "y": 0.9792
+                },
+                {
+                    "x": 0.8607,
+                    "y": 0.9792
+                }
+            ],
+            "id": 16,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<br><footer id='17' style='font-size:22px'>Network/USB<br>Setting<br>Menus</footer>",
+                "markdown": "Network/USB\nSetting\nMenus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.957,
+                    "y": 0.4294
+                },
+                {
+                    "x": 0.9804,
+                    "y": 0.4294
+                },
+                {
+                    "x": 0.9804,
+                    "y": 0.6374
+                },
+                {
+                    "x": 0.957,
+                    "y": 0.6374
+                }
+            ],
+            "id": 17,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

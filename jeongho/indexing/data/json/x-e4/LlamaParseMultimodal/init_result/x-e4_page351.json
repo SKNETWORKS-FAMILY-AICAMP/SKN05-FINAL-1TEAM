@@ -1,0 +1,100 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "\n# Warning Messages and Displays\n\n| Warning                                      | Description                                                                                                                                  |\n|----------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|\n| CAN NOT CROP                                 | The picture is damaged or was not created with the camera.                                                                                   |\n| DPOF FILE ERROR                              | Print orders can contain no more than 999 pictures. Copy any additional pictures you wish to print to another memory card and create a second print order. |\n| CAN NOT SET DPOF                             | The picture cannot be printed using DPOF.                                                                                                    |\n| !Icon CAN NOT SET DPOF   | Movies cannot be printed using DPOF.                                                                                                         |\n| CAN NOT ROTATE                               | The selected picture cannot be rotated.                                                                                                      |\n| !Icon CAN NOT ROTATE     | Movies cannot be rotated.                                                                                                                    |\n| !Icon CANNOT EXECUTE     | Red-eye removal cannot be applied to movies.                                                                                                 |\n| !Icon CANNOT EXECUTE     | Red-eye removal cannot be applied to pictures created with other devices.                                                                    |\n| MISMATCH: 4K MODE AND EXTERNAL MONITOR CHANGE MOVIE MODE | The movie mode selected with the camera is not compatible with the device to which the camera is connected via HDMI. Try selecting a different movie mode. |\n| !Icon (yellow)           | Turn the camera off and wait for it to cool. Mottling may increase in pictures taken when this warning is displayed.                          |\n| !Icon (red)              | Turn the camera off and wait for it to cool. While this warning is displayed, movie recording may not be available, mottling may increase, and performance, including frame advance rate and display quality, may drop. |\n",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "Warning Messages and Displays",
+                    "md": "# Warning Messages and Displays"
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Warning",
+                            "Description"
+                        ],
+                        [
+                            "CAN NOT CROP",
+                            "The picture is damaged or was not created with the camera."
+                        ],
+                        [
+                            "DPOF FILE ERROR",
+                            "Print orders can contain no more than 999 pictures. Copy any additional pictures you wish to print to another memory card and create a second print order."
+                        ],
+                        [
+                            "CAN NOT SET DPOF",
+                            "The picture cannot be printed using DPOF."
+                        ],
+                        [
+                            "!Icon CAN NOT SET DPOF",
+                            "Movies cannot be printed using DPOF."
+                        ],
+                        [
+                            "CAN NOT ROTATE",
+                            "The selected picture cannot be rotated."
+                        ],
+                        [
+                            "!Icon CAN NOT ROTATE",
+                            "Movies cannot be rotated."
+                        ],
+                        [
+                            "!Icon CANNOT EXECUTE",
+                            "Red-eye removal cannot be applied to movies."
+                        ],
+                        [
+                            "!Icon CANNOT EXECUTE",
+                            "Red-eye removal cannot be applied to pictures created with other devices."
+                        ],
+                        [
+                            "MISMATCH: 4K MODE AND EXTERNAL MONITOR CHANGE MOVIE MODE",
+                            "The movie mode selected with the camera is not compatible with the device to which the camera is connected via HDMI. Try selecting a different movie mode."
+                        ],
+                        [
+                            "!Icon (yellow)",
+                            "Turn the camera off and wait for it to cool. Mottling may increase in pictures taken when this warning is displayed."
+                        ],
+                        [
+                            "!Icon (red)",
+                            "Turn the camera off and wait for it to cool. While this warning is displayed, movie recording may not be available, mottling may increase, and performance, including frame advance rate and display quality, may drop."
+                        ]
+                    ],
+                    "md": "| Warning                                      | Description                                                                                                                                  |\n|----------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|\n| CAN NOT CROP                                 | The picture is damaged or was not created with the camera.                                                                                   |\n| DPOF FILE ERROR                              | Print orders can contain no more than 999 pictures. Copy any additional pictures you wish to print to another memory card and create a second print order. |\n| CAN NOT SET DPOF                             | The picture cannot be printed using DPOF.                                                                                                    |\n| !Icon CAN NOT SET DPOF   | Movies cannot be printed using DPOF.                                                                                                         |\n| CAN NOT ROTATE                               | The selected picture cannot be rotated.                                                                                                      |\n| !Icon CAN NOT ROTATE     | Movies cannot be rotated.                                                                                                                    |\n| !Icon CANNOT EXECUTE     | Red-eye removal cannot be applied to movies.                                                                                                 |\n| !Icon CANNOT EXECUTE     | Red-eye removal cannot be applied to pictures created with other devices.                                                                    |\n| MISMATCH: 4K MODE AND EXTERNAL MONITOR CHANGE MOVIE MODE | The movie mode selected with the camera is not compatible with the device to which the camera is connected via HDMI. Try selecting a different movie mode. |\n| !Icon (yellow)           | Turn the camera off and wait for it to cool. Mottling may increase in pictures taken when this warning is displayed.                          |\n| !Icon (red)              | Turn the camera off and wait for it to cool. While this warning is displayed, movie recording may not be available, mottling may increase, and performance, including frame advance rate and display quality, may drop. |",
+                    "isPerfectTable": true,
+                    "csv": "\"Warning\",\"Description\"\n\"CAN NOT CROP\",\"The picture is damaged or was not created with the camera.\"\n\"DPOF FILE ERROR\",\"Print orders can contain no more than 999 pictures. Copy any additional pictures you wish to print to another memory card and create a second print order.\"\n\"CAN NOT SET DPOF\",\"The picture cannot be printed using DPOF.\"\n\"!Icon CAN NOT SET DPOF\",\"Movies cannot be printed using DPOF.\"\n\"CAN NOT ROTATE\",\"The selected picture cannot be rotated.\"\n\"!Icon CAN NOT ROTATE\",\"Movies cannot be rotated.\"\n\"!Icon CANNOT EXECUTE\",\"Red-eye removal cannot be applied to movies.\"\n\"!Icon CANNOT EXECUTE\",\"Red-eye removal cannot be applied to pictures created with other devices.\"\n\"MISMATCH: 4K MODE AND EXTERNAL MONITOR CHANGE MOVIE MODE\",\"The movie mode selected with the camera is not compatible with the device to which the camera is connected via HDMI. Try selecting a different movie mode.\"\n\"!Icon (yellow)\",\"Turn the camera off and wait for it to cool. Mottling may increase in pictures taken when this warning is displayed.\"\n\"!Icon (red)\",\"Turn the camera off and wait for it to cool. While this warning is displayed, movie recording may not be available, mottling may increase, and performance, including frame advance rate and display quality, may drop.\""
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "parsingMode": "multimodal-openai-gpt4o",
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 52.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "839a73d4-c54d-451a-8295-cb73dd69f6bf",
+    "file_path": "../data/raw_data/x-e4/x-e4_split/x-e4_page351.pdf"
+}

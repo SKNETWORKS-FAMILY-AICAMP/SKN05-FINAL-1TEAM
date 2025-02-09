@@ -1,0 +1,179 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "\n# TOUCH SCREEN SETTING\n\nEnable or disable touch-screen controls.\n\n## TOUCH SCREEN SETTING\n\n| Option | Description                                               |\n|--------|-----------------------------------------------------------|\n| ON     | The LCD monitor functions as a touch screen during shooting. |\n| OFF    | Touch controls disabled.                                  |\n\n## DOUBLE TAP SETTING\n\n| Option | Description                                                      |\n|--------|------------------------------------------------------------------|\n| ON     | Tap the LCD monitor twice to zoom in on your subject during shooting. |\n| OFF    | Touch zoom disabled.                                             |\n\n## TOUCH FUNCTION\n\n| Option | Description                          |\n|--------|--------------------------------------|\n| ON     | Enable touch-function gestures.      |\n| OFF    | Disable touch-function gestures.     |\n\n## TOUCH ZOOM\n\n| Option | Description                                                                 |\n|--------|-----------------------------------------------------------------------------|\n| ON     | If the lens supports touch zoom, you can zoom in and out by touching the LCD monitor (📖 30). |\n| OFF    | Touch zoom disabled.                                                        |\n\n## TOUCH SCREEN SETTING\n\n| Option | Description                                               |\n|--------|-----------------------------------------------------------|\n| ON     | The LCD monitor functions as a touch screen during playback. |\n| OFF    | Touch controls disabled.                                  |\n",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "TOUCH SCREEN SETTING",
+                    "md": "# TOUCH SCREEN SETTING"
+                },
+                {
+                    "type": "text",
+                    "value": "Enable or disable touch-screen controls.",
+                    "md": "Enable or disable touch-screen controls."
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "TOUCH SCREEN SETTING",
+                    "md": "## TOUCH SCREEN SETTING"
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Option",
+                            "Description"
+                        ],
+                        [
+                            "ON",
+                            "The LCD monitor functions as a touch screen during shooting."
+                        ],
+                        [
+                            "OFF",
+                            "Touch controls disabled."
+                        ]
+                    ],
+                    "md": "| Option | Description                                               |\n|--------|-----------------------------------------------------------|\n| ON     | The LCD monitor functions as a touch screen during shooting. |\n| OFF    | Touch controls disabled.                                  |",
+                    "isPerfectTable": true,
+                    "csv": "\"Option\",\"Description\"\n\"ON\",\"The LCD monitor functions as a touch screen during shooting.\"\n\"OFF\",\"Touch controls disabled.\""
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "DOUBLE TAP SETTING",
+                    "md": "## DOUBLE TAP SETTING"
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Option",
+                            "Description"
+                        ],
+                        [
+                            "ON",
+                            "Tap the LCD monitor twice to zoom in on your subject during shooting."
+                        ],
+                        [
+                            "OFF",
+                            "Touch zoom disabled."
+                        ]
+                    ],
+                    "md": "| Option | Description                                                      |\n|--------|------------------------------------------------------------------|\n| ON     | Tap the LCD monitor twice to zoom in on your subject during shooting. |\n| OFF    | Touch zoom disabled.                                             |",
+                    "isPerfectTable": true,
+                    "csv": "\"Option\",\"Description\"\n\"ON\",\"Tap the LCD monitor twice to zoom in on your subject during shooting.\"\n\"OFF\",\"Touch zoom disabled.\""
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "TOUCH FUNCTION",
+                    "md": "## TOUCH FUNCTION"
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Option",
+                            "Description"
+                        ],
+                        [
+                            "ON",
+                            "Enable touch-function gestures."
+                        ],
+                        [
+                            "OFF",
+                            "Disable touch-function gestures."
+                        ]
+                    ],
+                    "md": "| Option | Description                          |\n|--------|--------------------------------------|\n| ON     | Enable touch-function gestures.      |\n| OFF    | Disable touch-function gestures.     |",
+                    "isPerfectTable": true,
+                    "csv": "\"Option\",\"Description\"\n\"ON\",\"Enable touch-function gestures.\"\n\"OFF\",\"Disable touch-function gestures.\""
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "TOUCH ZOOM",
+                    "md": "## TOUCH ZOOM"
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Option",
+                            "Description"
+                        ],
+                        [
+                            "ON",
+                            "If the lens supports touch zoom, you can zoom in and out by touching the LCD monitor (📖 30)."
+                        ],
+                        [
+                            "OFF",
+                            "Touch zoom disabled."
+                        ]
+                    ],
+                    "md": "| Option | Description                                                                 |\n|--------|-----------------------------------------------------------------------------|\n| ON     | If the lens supports touch zoom, you can zoom in and out by touching the LCD monitor (📖 30). |\n| OFF    | Touch zoom disabled.                                                        |",
+                    "isPerfectTable": true,
+                    "csv": "\"Option\",\"Description\"\n\"ON\",\"If the lens supports touch zoom, you can zoom in and out by touching the LCD monitor (📖 30).\"\n\"OFF\",\"Touch zoom disabled.\""
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "TOUCH SCREEN SETTING",
+                    "md": "## TOUCH SCREEN SETTING"
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Option",
+                            "Description"
+                        ],
+                        [
+                            "ON",
+                            "The LCD monitor functions as a touch screen during playback."
+                        ],
+                        [
+                            "OFF",
+                            "Touch controls disabled."
+                        ]
+                    ],
+                    "md": "| Option | Description                                               |\n|--------|-----------------------------------------------------------|\n| ON     | The LCD monitor functions as a touch screen during playback. |\n| OFF    | Touch controls disabled.                                  |",
+                    "isPerfectTable": true,
+                    "csv": "\"Option\",\"Description\"\n\"ON\",\"The LCD monitor functions as a touch screen during playback.\"\n\"OFF\",\"Touch controls disabled.\""
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "parsingMode": "multimodal-openai-gpt4o",
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 607.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "a5adbc93-47c0-470f-bfc7-17be10d614ed",
+    "file_path": "../data/raw_data/x-t5/x-t5_split/x-t5_page330.pdf"
+}

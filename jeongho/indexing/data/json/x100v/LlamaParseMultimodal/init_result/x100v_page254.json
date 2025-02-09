@@ -1,0 +1,130 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "# SAVE ORG IMAGE\n\nChoose ON to save unprocessed copies of pictures taken using RED EYE REMOVAL.\n\n| Options |\n|---------|\n| ON      |\n| OFF     |\n\n# EDIT FILE NAME\n\nChange the file name prefix. sRGB images use a four-letter prefix (default “DSCF”), Adobe RGB images a three-letter prefix (“DSF”) preceded by an underscore.\n\n| Option    | Default prefix | Sample file name |\n|-----------|----------------|------------------|\n| sRGB      | DSCF           | ABCD0001         |\n| AdobeRGB  | _DSF           | _ABC0001         |\n\n# SELECT FOLDER\n\nCreate folders and choose the folder used to store subsequent pictures.\n\n| Option        | Description                                                                                                                                   |\n|---------------|-----------------------------------------------------------------------------------------------------------------------------------------------|\n| SELECT FOLDER | To choose the folder in which subsequent pictures will be stored, press the focus stick (focus lever) up or down to highlight an existing folder and press **MENU/OK**. |\n| CREATE FOLDER | Enter a five-character folder name to create a new folder in which to store subsequent pictures. The new folder will be created with the next picture you take and subsequent pictures will be stored in that folder. |",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "SAVE ORG IMAGE",
+                    "md": "# SAVE ORG IMAGE"
+                },
+                {
+                    "type": "text",
+                    "value": "Choose ON to save unprocessed copies of pictures taken using RED EYE REMOVAL.",
+                    "md": "Choose ON to save unprocessed copies of pictures taken using RED EYE REMOVAL."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Options"
+                        ],
+                        [
+                            "ON"
+                        ],
+                        [
+                            "OFF"
+                        ]
+                    ],
+                    "md": "| Options |\n|---------|\n| ON      |\n| OFF     |",
+                    "isPerfectTable": true,
+                    "csv": "\"Options\"\n\"ON\"\n\"OFF\""
+                },
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "EDIT FILE NAME",
+                    "md": "# EDIT FILE NAME"
+                },
+                {
+                    "type": "text",
+                    "value": "Change the file name prefix. sRGB images use a four-letter prefix (default “DSCF”), Adobe RGB images a three-letter prefix (“DSF”) preceded by an underscore.",
+                    "md": "Change the file name prefix. sRGB images use a four-letter prefix (default “DSCF”), Adobe RGB images a three-letter prefix (“DSF”) preceded by an underscore."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Option",
+                            "Default prefix",
+                            "Sample file name"
+                        ],
+                        [
+                            "sRGB",
+                            "DSCF",
+                            "ABCD0001"
+                        ],
+                        [
+                            "AdobeRGB",
+                            "_DSF",
+                            "_ABC0001"
+                        ]
+                    ],
+                    "md": "| Option    | Default prefix | Sample file name |\n|-----------|----------------|------------------|\n| sRGB      | DSCF           | ABCD0001         |\n| AdobeRGB  | _DSF           | _ABC0001         |",
+                    "isPerfectTable": true,
+                    "csv": "\"Option\",\"Default prefix\",\"Sample file name\"\n\"sRGB\",\"DSCF\",\"ABCD0001\"\n\"AdobeRGB\",\"_DSF\",\"_ABC0001\""
+                },
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "SELECT FOLDER",
+                    "md": "# SELECT FOLDER"
+                },
+                {
+                    "type": "text",
+                    "value": "Create folders and choose the folder used to store subsequent pictures.",
+                    "md": "Create folders and choose the folder used to store subsequent pictures."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Option",
+                            "Description"
+                        ],
+                        [
+                            "SELECT FOLDER",
+                            "To choose the folder in which subsequent pictures will be stored, press the focus stick (focus lever) up or down to highlight an existing folder and press **MENU/OK**."
+                        ],
+                        [
+                            "CREATE FOLDER",
+                            "Enter a five-character folder name to create a new folder in which to store subsequent pictures. The new folder will be created with the next picture you take and subsequent pictures will be stored in that folder."
+                        ]
+                    ],
+                    "md": "| Option        | Description                                                                                                                                   |\n|---------------|-----------------------------------------------------------------------------------------------------------------------------------------------|\n| SELECT FOLDER | To choose the folder in which subsequent pictures will be stored, press the focus stick (focus lever) up or down to highlight an existing folder and press **MENU/OK**. |\n| CREATE FOLDER | Enter a five-character folder name to create a new folder in which to store subsequent pictures. The new folder will be created with the next picture you take and subsequent pictures will be stored in that folder. |",
+                    "isPerfectTable": true,
+                    "csv": "\"Option\",\"Description\"\n\"SELECT FOLDER\",\"To choose the folder in which subsequent pictures will be stored, press the focus stick (focus lever) up or down to highlight an existing folder and press **MENU/OK**.\"\n\"CREATE FOLDER\",\"Enter a five-character folder name to create a new folder in which to store subsequent pictures. The new folder will be created with the next picture you take and subsequent pictures will be stored in that folder.\""
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 714.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "89ac7767-636a-4007-92c9-f2c01247c11c",
+    "file_path": "../data/raw_data/x100v/x100v_split/x100v_page254.pdf"
+}

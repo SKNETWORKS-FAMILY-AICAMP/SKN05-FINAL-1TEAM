@@ -1,0 +1,490 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<p id='0' data-category='paragraph' style='font-size:14px'>Touch Screen Mode</p>\n<header id='1' style='font-size:22px'>Before<br>You<br>Begin</header>\n<br><h1 id='2' style='font-size:20px'>Playback Touch Controls</h1>\n<br><p id='3' data-category='paragraph' style='font-size:16px'>When ON is selected for 8 BUTTON/DIAL SETTING > TOUCH<br>SCREEN SETTING > TOUCH SCREEN SETTING, touch controls<br>can be used for the following playback operations:</p>\n<p id='4' data-category='paragraph' style='font-size:18px'>● Swipe: Swipe a finger across the display to<br>view other images.</p>\n<br><h1 id='5' style='font-size:14px'>1</h1>\n<p id='6' data-category='paragraph' style='font-size:16px'>● Pinch-out: Place two fingers on the display<br>and spread them apart to zoom in.</p>\n<br><figure id='7'><img alt=\"\" data-coord=\"top-left:(1791,756); bottom-right:(2460,1204)\" /></figure>\n<figure id='8'><img alt=\"\" data-coord=\"top-left:(1784,1232); bottom-right:(2460,1678)\" /></figure>\n<br><p id='9' data-category='paragraph' style='font-size:16px'>● Pinch-in: Place two fingers on the display<br>and slide them together to zoom out.</p>\n<br><figure id='10'><img alt=\"\" data-coord=\"top-left:(1778,1705); bottom-right:(2459,2147)\" /></figure>\n<br><p id='11' data-category='paragraph' style='font-size:14px'>Pictures can be zoomed out until the entire image is visible but no<br>further.</p>\n\n<br><figure id='13'><img alt=\"\" data-coord=\"top-left:(1787,2377); bottom-right:(2461,2826)\" /><figcaption id='12' style='font-size:16px'>● Double-tap:Tap the display twice to zoom in<br>on the focus point.</figcaption></figure>\n<br><p id='14' data-category='paragraph' style='font-size:18px'>● Drag: View other areas of the image during<br>playback zoom.</p>\n<br><figure id='15'><img alt=\"\" data-coord=\"top-left:(1792,2855); bottom-right:(2462,3295)\" /></figure>\n<footer id='16' style='font-size:20px'>30</footer>",
+        "markdown": "Touch Screen Mode\n\nBefore\nYou\nBegin\n\n# Playback Touch Controls\n\nWhen ON is selected for 8 BUTTON/DIAL SETTING > TOUCH\nSCREEN SETTING > TOUCH SCREEN SETTING, touch controls\ncan be used for the following playback operations:\n\n● Swipe: Swipe a finger across the display to\nview other images.\n\n# 1\n\n● Pinch-out: Place two fingers on the display\nand spread them apart to zoom in.\n\n![image](/image/placeholder)\n\n\n![image](/image/placeholder)\n\n\n● Pinch-in: Place two fingers on the display\nand slide them together to zoom out.\n\n![image](/image/placeholder)\n\n\nPictures can be zoomed out until the entire image is visible but no\nfurther.\n\n● Double-tap:Tap the display twice to zoom in\non the focus point.\n\n![image](/image/placeholder)\n\n\n● Drag: View other areas of the image during\nplayback zoom.\n\n![image](/image/placeholder)\n\n\n30",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='0' data-category='paragraph' style='font-size:14px'>Touch Screen Mode</p>",
+                "markdown": "Touch Screen Mode",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6933,
+                    "y": 0.0291
+                },
+                {
+                    "x": 0.8922,
+                    "y": 0.0291
+                },
+                {
+                    "x": 0.8922,
+                    "y": 0.0494
+                },
+                {
+                    "x": 0.6933,
+                    "y": 0.0494
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='1' style='font-size:22px'>Before<br>You<br>Begin</header>",
+                "markdown": "Before\nYou\nBegin",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0176,
+                    "y": 0.277
+                },
+                {
+                    "x": 0.0421,
+                    "y": 0.277
+                },
+                {
+                    "x": 0.0421,
+                    "y": 0.4031
+                },
+                {
+                    "x": 0.0176,
+                    "y": 0.4031
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='2' style='font-size:20px'>Playback Touch Controls</h1>",
+                "markdown": "# Playback Touch Controls",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0827,
+                    "y": 0.0728
+                },
+                {
+                    "x": 0.4164,
+                    "y": 0.0728
+                },
+                {
+                    "x": 0.4164,
+                    "y": 0.0952
+                },
+                {
+                    "x": 0.0827,
+                    "y": 0.0952
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='3' data-category='paragraph' style='font-size:16px'>When ON is selected for 8 BUTTON/DIAL SETTING > TOUCH<br>SCREEN SETTING > TOUCH SCREEN SETTING, touch controls<br>can be used for the following playback operations:</p>",
+                "markdown": "When ON is selected for 8 BUTTON/DIAL SETTING > TOUCH\nSCREEN SETTING > TOUCH SCREEN SETTING, touch controls\ncan be used for the following playback operations:",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0796,
+                    "y": 0.1035
+                },
+                {
+                    "x": 0.8951,
+                    "y": 0.1035
+                },
+                {
+                    "x": 0.8951,
+                    "y": 0.1805
+                },
+                {
+                    "x": 0.0796,
+                    "y": 0.1805
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='4' data-category='paragraph' style='font-size:18px'>● Swipe: Swipe a finger across the display to<br>view other images.</p>",
+                "markdown": "● Swipe: Swipe a finger across the display to\nview other images.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0797,
+                    "y": 0.1938
+                },
+                {
+                    "x": 0.6357,
+                    "y": 0.1938
+                },
+                {
+                    "x": 0.6357,
+                    "y": 0.2444
+                },
+                {
+                    "x": 0.0797,
+                    "y": 0.2444
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='5' style='font-size:14px'>1</h1>",
+                "markdown": "# 1",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0286,
+                    "y": 0.2407
+                },
+                {
+                    "x": 0.0398,
+                    "y": 0.2407
+                },
+                {
+                    "x": 0.0398,
+                    "y": 0.2557
+                },
+                {
+                    "x": 0.0286,
+                    "y": 0.2557
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='6' data-category='paragraph' style='font-size:16px'>● Pinch-out: Place two fingers on the display<br>and spread them apart to zoom in.</p>",
+                "markdown": "● Pinch-out: Place two fingers on the display\nand spread them apart to zoom in.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0831,
+                    "y": 0.3144
+                },
+                {
+                    "x": 0.6367,
+                    "y": 0.3144
+                },
+                {
+                    "x": 0.6367,
+                    "y": 0.3655
+                },
+                {
+                    "x": 0.0831,
+                    "y": 0.3655
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "figure",
+            "content": {
+                "html": "<br><figure id='7'><img alt=\"\" data-coord=\"top-left:(1791,756); bottom-right:(2460,1204)\" /></figure>",
+                "markdown": "![image](/image/placeholder)\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6482,
+                    "y": 0.194
+                },
+                {
+                    "x": 0.8902,
+                    "y": 0.194
+                },
+                {
+                    "x": 0.8902,
+                    "y": 0.309
+                },
+                {
+                    "x": 0.6482,
+                    "y": 0.309
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "figure",
+            "content": {
+                "html": "<figure id='8'><img alt=\"\" data-coord=\"top-left:(1784,1232); bottom-right:(2460,1678)\" /></figure>",
+                "markdown": "![image](/image/placeholder)\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6458,
+                    "y": 0.3161
+                },
+                {
+                    "x": 0.8901,
+                    "y": 0.3161
+                },
+                {
+                    "x": 0.8901,
+                    "y": 0.4306
+                },
+                {
+                    "x": 0.6458,
+                    "y": 0.4306
+                }
+            ],
+            "id": 8,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='9' data-category='paragraph' style='font-size:16px'>● Pinch-in: Place two fingers on the display<br>and slide them together to zoom out.</p>",
+                "markdown": "● Pinch-in: Place two fingers on the display\nand slide them together to zoom out.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0821,
+                    "y": 0.4361
+                },
+                {
+                    "x": 0.636,
+                    "y": 0.4361
+                },
+                {
+                    "x": 0.636,
+                    "y": 0.4864
+                },
+                {
+                    "x": 0.0821,
+                    "y": 0.4864
+                }
+            ],
+            "id": 9,
+            "page": 1
+        },
+        {
+            "category": "figure",
+            "content": {
+                "html": "<br><figure id='10'><img alt=\"\" data-coord=\"top-left:(1778,1705); bottom-right:(2459,2147)\" /></figure>",
+                "markdown": "![image](/image/placeholder)\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6435,
+                    "y": 0.4374
+                },
+                {
+                    "x": 0.89,
+                    "y": 0.4374
+                },
+                {
+                    "x": 0.89,
+                    "y": 0.5509
+                },
+                {
+                    "x": 0.6435,
+                    "y": 0.5509
+                }
+            ],
+            "id": 10,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='11' data-category='paragraph' style='font-size:14px'>Pictures can be zoomed out until the entire image is visible but no<br>further.</p>",
+                "markdown": "Pictures can be zoomed out until the entire image is visible but no\nfurther.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.105,
+                    "y": 0.5575
+                },
+                {
+                    "x": 0.8866,
+                    "y": 0.5575
+                },
+                {
+                    "x": 0.8866,
+                    "y": 0.6006
+                },
+                {
+                    "x": 0.105,
+                    "y": 0.6006
+                }
+            ],
+            "id": 11,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='12' data-category='paragraph' style='font-size:16px'>● Double-tap:Tap the display twice to zoom in<br>on the focus point.</p>",
+                "markdown": "● Double-tap:Tap the display twice to zoom in\non the focus point.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.082,
+                    "y": 0.6118
+                },
+                {
+                    "x": 0.6364,
+                    "y": 0.6118
+                },
+                {
+                    "x": 0.6364,
+                    "y": 0.6613
+                },
+                {
+                    "x": 0.082,
+                    "y": 0.6613
+                }
+            ],
+            "id": 12,
+            "page": 1
+        },
+        {
+            "category": "figure",
+            "content": {
+                "html": "<br><figure id='13'><img alt=\"\" data-coord=\"top-left:(1787,2377); bottom-right:(2461,2826)\" /></figure>",
+                "markdown": "![image](/image/placeholder)\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6467,
+                    "y": 0.6099
+                },
+                {
+                    "x": 0.8904,
+                    "y": 0.6099
+                },
+                {
+                    "x": 0.8904,
+                    "y": 0.7252
+                },
+                {
+                    "x": 0.6467,
+                    "y": 0.7252
+                }
+            ],
+            "id": 13,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='14' data-category='paragraph' style='font-size:18px'>● Drag: View other areas of the image during<br>playback zoom.</p>",
+                "markdown": "● Drag: View other areas of the image during\nplayback zoom.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0819,
+                    "y": 0.7314
+                },
+                {
+                    "x": 0.6353,
+                    "y": 0.7314
+                },
+                {
+                    "x": 0.6353,
+                    "y": 0.7825
+                },
+                {
+                    "x": 0.0819,
+                    "y": 0.7825
+                }
+            ],
+            "id": 14,
+            "page": 1
+        },
+        {
+            "category": "figure",
+            "content": {
+                "html": "<br><figure id='15'><img alt=\"\" data-coord=\"top-left:(1792,2855); bottom-right:(2462,3295)\" /></figure>",
+                "markdown": "![image](/image/placeholder)\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6487,
+                    "y": 0.7324
+                },
+                {
+                    "x": 0.8909,
+                    "y": 0.7324
+                },
+                {
+                    "x": 0.8909,
+                    "y": 0.8454
+                },
+                {
+                    "x": 0.6487,
+                    "y": 0.8454
+                }
+            ],
+            "id": 15,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='16' style='font-size:20px'>30</footer>",
+                "markdown": "30",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0824,
+                    "y": 0.9562
+                },
+                {
+                    "x": 0.123,
+                    "y": 0.9562
+                },
+                {
+                    "x": 0.123,
+                    "y": 0.9796
+                },
+                {
+                    "x": 0.0824,
+                    "y": 0.9796
+                }
+            ],
+            "id": 16,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "parsing_result": "# F-Log/HLG RECORDING\n\nChoose the destination for F-Log and HLG (Hybrid Log-Gamma) movies shot while the camera is connected to an HDMI device.\n\n| Option          | Description                                                                 |\n|-----------------|-----------------------------------------------------------------------------|\n| !Film Simulation | The footage is processed using film simulation and both saved to the memory card and output to the HDMI device. |\n| F-Log !F-Log     | The footage is recorded to the memory card and output to the HDMI device in F-Log format. |\n| FLog2 !FLog2     | The footage is recorded to the memory card and output to the HDMI device in F-Log2 format. |\n| HLG !HLG         | The footage is recorded to the memory card and output to the HDMI device in HLG format. |\n\n> 💡 **Note:**\n> - **F-Log** and **FLog2** offer gentle gamma curves with wide gamuts suitable for further processing post-production. Sensitivity is restricted to values between ISO 400 and ISO 12800 (**F-Log**) or between ISO 800 and ISO 12800 (**FLog2**).\n> - The **HLG** (Hybrid Log-Gamma) recording format conforms to the international ITU-R BT2100 standard. When viewed on HLG-compatible displays, high-quality HLG footage faithfully captures high-contrast scenes and vivid colors. Sensitivity is restricted to values between ISO 640 and ISO 12800.\n> - Film simulation (!Film Simulation) footage is recorded using the option selected for !Image Quality Setting **IMAGE QUALITY SETTING** > !Film Simulation **FILM SIMULATION** in the shooting menu.",
+    "embedding_result": [],
+    "metadata": {
+        "page": 186,
+        "model": "gfx100ii",
+        "chapter": "The Shooting Menus",
+        "section": "MOVIE SETTING (Movie Recording)",
+        "subsection": [
+            "F-Log/HLG RECORDING"
+        ]
+    }
+}

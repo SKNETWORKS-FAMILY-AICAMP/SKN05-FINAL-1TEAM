@@ -1,0 +1,15 @@
+{
+    "parsing_result": "# BUTTON/DIAL SETTING\n\n## FOCUS RING\nChoose the direction in which the focus ring is rotated to increase the focus distance.\n\n**Options:**\n- ↻ CW (clockwise)\n- ↺ CCW (counterclockwise)\n\n## FOCUS RING OPERATION\nChoose how the camera adjusts focus in response to the movement of the focus ring.\n\n| Option    | Description                                                                 |\n|-----------|-----------------------------------------------------------------------------|\n| NONLINEAR | Focus is adjusted at the same rate as the ring is rotated.                  |\n| LINEAR    | Focus is adjusted linearly according to the amount the ring is rotated, but the focusing speed is unaffected by the speed the ring is rotated. |\n\n## AE/AF-LOCK MODE\nThis option determines the behavior of the button to which exposure and/or focus lock is assigned.\n\n| Option                     | Description                                                                 |\n|----------------------------|-----------------------------------------------------------------------------|\n| AE&AF ON WHEN PRESSING     | Exposure and/or focus will lock while the button is pressed.                |\n| AE&AF ON/OFF SWITCH        | Exposure and/or focus will lock when the button is pressed and remain locked until it is pressed again. |",
+    "embedding_result": [],
+    "metadata": {
+        "page": 361,
+        "model": "gfx100ii",
+        "chapter": "The Setup Menus",
+        "section": "BUTTON/DIAL SETTING",
+        "subsection": [
+            "FOCUS RING",
+            "FOCUS RING OPERATION",
+            "AE/AF-LOCK MODE"
+        ]
+    }
+}

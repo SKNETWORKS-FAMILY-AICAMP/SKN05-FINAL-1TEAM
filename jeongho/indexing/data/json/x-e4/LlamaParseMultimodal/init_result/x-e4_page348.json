@@ -1,0 +1,97 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "\n# Warning Messages and Displays\n\nThe following warnings appear in the display.\n\n| Warning                                      | Description                                                                                                                                                  |\n|----------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| !Low Battery Icon (red)  | Low battery. Charge the battery or insert a fully-charged spare battery.                                                                                     |\n| !Battery Exhausted Icon (blinks red) | Battery exhausted. Charge the battery or insert a fully-charged spare battery.                                                                               |\n| !AF Icon (displayed in red with red focus frame) | The camera cannot focus. Use focus lock to focus on another subject at the same distance, then recompose the picture.                                         |\n| Aperture or shutter speed displayed in red   | The subject is too bright or too dark and the picture will be over- or under-exposed. Use the flash for additional lighting when taking photographs of poorly-lit subjects. |\n| FOCUS ERROR LENS CONTROL ERROR TURN OFF THE CAMERA AND TURN ON AGAIN | Camera malfunction. Turn the camera off and then on again. If the message persists, contact a Fujifilm dealer.                                                |\n| NO MEMORY CARD                               | The shutter can only be released when a memory card is inserted. Insert a memory card.                                                                       |\n| CARD NOT INITIALIZED                         | - The memory card is not formatted or the memory card has been formatted in a computer or other device: Format the memory card using !User Setting Icon USER SETTING > FORMAT.  |\n|                                              | - The memory card contacts require cleaning: Clean the contacts with a soft, dry cloth. If the message is repeated, format the card. If the message persists, replace the card. |\n|                                              | - Camera malfunction: Contact a Fujifilm dealer.                                                                                                             |\n",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "Warning Messages and Displays",
+                    "md": "# Warning Messages and Displays"
+                },
+                {
+                    "type": "text",
+                    "value": "The following warnings appear in the display.",
+                    "md": "The following warnings appear in the display."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Warning",
+                            "Description"
+                        ],
+                        [
+                            "!Low Battery Icon (red)",
+                            "Low battery. Charge the battery or insert a fully-charged spare battery."
+                        ],
+                        [
+                            "!Battery Exhausted Icon (blinks red)",
+                            "Battery exhausted. Charge the battery or insert a fully-charged spare battery."
+                        ],
+                        [
+                            "!AF Icon (displayed in red with red focus frame)",
+                            "The camera cannot focus. Use focus lock to focus on another subject at the same distance, then recompose the picture."
+                        ],
+                        [
+                            "Aperture or shutter speed displayed in red",
+                            "The subject is too bright or too dark and the picture will be over- or under-exposed. Use the flash for additional lighting when taking photographs of poorly-lit subjects."
+                        ],
+                        [
+                            "FOCUS ERROR LENS CONTROL ERROR TURN OFF THE CAMERA AND TURN ON AGAIN",
+                            "Camera malfunction. Turn the camera off and then on again. If the message persists, contact a Fujifilm dealer."
+                        ],
+                        [
+                            "NO MEMORY CARD",
+                            "The shutter can only be released when a memory card is inserted. Insert a memory card."
+                        ],
+                        [
+                            "CARD NOT INITIALIZED",
+                            "- The memory card is not formatted or the memory card has been formatted in a computer or other device: Format the memory card using !User Setting Icon USER SETTING > FORMAT."
+                        ],
+                        [
+                            "",
+                            "- The memory card contacts require cleaning: Clean the contacts with a soft, dry cloth. If the message is repeated, format the card. If the message persists, replace the card."
+                        ],
+                        [
+                            "",
+                            "- Camera malfunction: Contact a Fujifilm dealer."
+                        ]
+                    ],
+                    "md": "| Warning                                      | Description                                                                                                                                                  |\n|----------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| !Low Battery Icon (red)  | Low battery. Charge the battery or insert a fully-charged spare battery.                                                                                     |\n| !Battery Exhausted Icon (blinks red) | Battery exhausted. Charge the battery or insert a fully-charged spare battery.                                                                               |\n| !AF Icon (displayed in red with red focus frame) | The camera cannot focus. Use focus lock to focus on another subject at the same distance, then recompose the picture.                                         |\n| Aperture or shutter speed displayed in red   | The subject is too bright or too dark and the picture will be over- or under-exposed. Use the flash for additional lighting when taking photographs of poorly-lit subjects. |\n| FOCUS ERROR LENS CONTROL ERROR TURN OFF THE CAMERA AND TURN ON AGAIN | Camera malfunction. Turn the camera off and then on again. If the message persists, contact a Fujifilm dealer.                                                |\n| NO MEMORY CARD                               | The shutter can only be released when a memory card is inserted. Insert a memory card.                                                                       |\n| CARD NOT INITIALIZED                         | - The memory card is not formatted or the memory card has been formatted in a computer or other device: Format the memory card using !User Setting Icon USER SETTING > FORMAT.  |\n|                                              | - The memory card contacts require cleaning: Clean the contacts with a soft, dry cloth. If the message is repeated, format the card. If the message persists, replace the card. |\n|                                              | - Camera malfunction: Contact a Fujifilm dealer.                                                                                                             |",
+                    "isPerfectTable": true,
+                    "csv": "\"Warning\",\"Description\"\n\"!Low Battery Icon (red)\",\"Low battery. Charge the battery or insert a fully-charged spare battery.\"\n\"!Battery Exhausted Icon (blinks red)\",\"Battery exhausted. Charge the battery or insert a fully-charged spare battery.\"\n\"!AF Icon (displayed in red with red focus frame)\",\"The camera cannot focus. Use focus lock to focus on another subject at the same distance, then recompose the picture.\"\n\"Aperture or shutter speed displayed in red\",\"The subject is too bright or too dark and the picture will be over- or under-exposed. Use the flash for additional lighting when taking photographs of poorly-lit subjects.\"\n\"FOCUS ERROR LENS CONTROL ERROR TURN OFF THE CAMERA AND TURN ON AGAIN\",\"Camera malfunction. Turn the camera off and then on again. If the message persists, contact a Fujifilm dealer.\"\n\"NO MEMORY CARD\",\"The shutter can only be released when a memory card is inserted. Insert a memory card.\"\n\"CARD NOT INITIALIZED\",\"- The memory card is not formatted or the memory card has been formatted in a computer or other device: Format the memory card using !User Setting Icon USER SETTING > FORMAT.\"\n\"\",\"- The memory card contacts require cleaning: Clean the contacts with a soft, dry cloth. If the message is repeated, format the card. If the message persists, replace the card.\"\n\"\",\"- Camera malfunction: Contact a Fujifilm dealer.\""
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "parsingMode": "multimodal-openai-gpt4o",
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 254.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "16e9609a-2c31-48de-8c9f-d5c8ecf0daaf",
+    "file_path": "../data/raw_data/x-e4/x-e4_split/x-e4_page348.pdf"
+}

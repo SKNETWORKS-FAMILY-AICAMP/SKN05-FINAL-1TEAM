@@ -1,0 +1,266 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:14px'>MY MENU</header>\n<p id='1' data-category='list' style='font-size:18px'>3 Select a menu to be registered and press the MENU/OK button.<br>Press the MENU/OK button again to return to the menu selec-<br>tion screen.</p>\n<p id='2' data-category='list' style='font-size:18px'>4 Select a menu to be registered next<br>and press the MENU/OK button. Select<br>the order of the menus to be regis-<br>tered and press the MENU/OK button.</p>\n<br><figure id='3' data-category='chart'><img style='font-size:14px' alt=\"SELECT ITEM LOCATION \n1 IMAGE SIZE \n2 IMAGE QUALITY \n◆ MOVE OK SAVE \n\" data-coord=\"top-left:(1697,626); bottom-right:(2461,1205)\" /></figure>\n<br><p id='4' data-category='paragraph' style='font-size:20px'>5 Repeat Step 4 and register\"my menu\".<br>To exit \"my menu\" registration, press the DISP/BACK button.</p>\n<p id='5' data-category='paragraph' style='font-size:16px'>\"My menu\" can contain up to 16 items.</p>\n<header id='6' style='font-size:22px'>Shortcuts</header>\n<p id='7' data-category='paragraph' style='font-size:18px'>10</p>\n<footer id='8' style='font-size:20px'>378</footer>",
+        "markdown": "MY MENU\n\n- 3 Select a menu to be registered and press the MENU/OK button.\n- Press the MENU/OK button again to return to the menu selec-\n- tion screen.\n\n\n- 4 Select a menu to be registered next\n- and press the MENU/OK button. Select\n- the order of the menus to be regis-\n- tered and press the MENU/OK button.\n\n\n![image](/image/placeholder)\nSELECT ITEM LOCATION \n1 IMAGE SIZE \n2 IMAGE QUALITY \n◆ MOVE OK SAVE \n\n\n5 Repeat Step 4 and register\"my menu\".\nTo exit \"my menu\" registration, press the DISP/BACK button.\n\n\"My menu\" can contain up to 16 items.\n\nShortcuts\n\n10\n\n378",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:14px'>MY MENU</header>",
+                "markdown": "MY MENU",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.7889,
+                    "y": 0.029
+                },
+                {
+                    "x": 0.8919,
+                    "y": 0.029
+                },
+                {
+                    "x": 0.8919,
+                    "y": 0.0481
+                },
+                {
+                    "x": 0.7889,
+                    "y": 0.0481
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "list",
+            "content": {
+                "html": "<p id='1' data-category='list' style='font-size:18px'>3 Select a menu to be registered and press the MENU/OK button.<br>Press the MENU/OK button again to return to the menu selec-<br>tion screen.</p>",
+                "markdown": "- 3 Select a menu to be registered and press the MENU/OK button.\n- Press the MENU/OK button again to return to the menu selec-\n- tion screen.\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0969,
+                    "y": 0.0712
+                },
+                {
+                    "x": 0.894,
+                    "y": 0.0712
+                },
+                {
+                    "x": 0.894,
+                    "y": 0.1467
+                },
+                {
+                    "x": 0.0969,
+                    "y": 0.1467
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "list",
+            "content": {
+                "html": "<p id='2' data-category='list' style='font-size:18px'>4 Select a menu to be registered next<br>and press the MENU/OK button. Select<br>the order of the menus to be regis-<br>tered and press the MENU/OK button.</p>",
+                "markdown": "- 4 Select a menu to be registered next\n- and press the MENU/OK button. Select\n- the order of the menus to be regis-\n- tered and press the MENU/OK button.\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0956,
+                    "y": 0.1616
+                },
+                {
+                    "x": 0.6044,
+                    "y": 0.1616
+                },
+                {
+                    "x": 0.6044,
+                    "y": 0.2639
+                },
+                {
+                    "x": 0.0956,
+                    "y": 0.2639
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "figure",
+            "content": {
+                "html": "<br><figure id='3' data-category='chart'><img style='font-size:14px' alt=\"SELECT ITEM LOCATION \n1 IMAGE SIZE \n2 IMAGE QUALITY \n◆ MOVE OK SAVE \n\" data-coord=\"top-left:(1697,626); bottom-right:(2461,1205)\" /></figure>",
+                "markdown": "![image](/image/placeholder)\nSELECT ITEM LOCATION \n1 IMAGE SIZE \n2 IMAGE QUALITY \n◆ MOVE OK SAVE \n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6141,
+                    "y": 0.1608
+                },
+                {
+                    "x": 0.8905,
+                    "y": 0.1608
+                },
+                {
+                    "x": 0.8905,
+                    "y": 0.3093
+                },
+                {
+                    "x": 0.6141,
+                    "y": 0.3093
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='4' data-category='paragraph' style='font-size:20px'>5 Repeat Step 4 and register\"my menu\".<br>To exit \"my menu\" registration, press the DISP/BACK button.</p>",
+                "markdown": "5 Repeat Step 4 and register\"my menu\".\nTo exit \"my menu\" registration, press the DISP/BACK button.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.095,
+                    "y": 0.3199
+                },
+                {
+                    "x": 0.8592,
+                    "y": 0.3199
+                },
+                {
+                    "x": 0.8592,
+                    "y": 0.3719
+                },
+                {
+                    "x": 0.095,
+                    "y": 0.3719
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='5' data-category='paragraph' style='font-size:16px'>\"My menu\" can contain up to 16 items.</p>",
+                "markdown": "\"My menu\" can contain up to 16 items.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0941,
+                    "y": 0.3853
+                },
+                {
+                    "x": 0.5485,
+                    "y": 0.3853
+                },
+                {
+                    "x": 0.5485,
+                    "y": 0.4067
+                },
+                {
+                    "x": 0.0941,
+                    "y": 0.4067
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='6' style='font-size:22px'>Shortcuts</header>",
+                "markdown": "Shortcuts",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0194,
+                    "y": 0.6844
+                },
+                {
+                    "x": 0.0406,
+                    "y": 0.6844
+                },
+                {
+                    "x": 0.0406,
+                    "y": 0.7575
+                },
+                {
+                    "x": 0.0194,
+                    "y": 0.7575
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='7' data-category='paragraph' style='font-size:18px'>10</p>",
+                "markdown": "10",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0178,
+                    "y": 0.7772
+                },
+                {
+                    "x": 0.0441,
+                    "y": 0.7772
+                },
+                {
+                    "x": 0.0441,
+                    "y": 0.7967
+                },
+                {
+                    "x": 0.0178,
+                    "y": 0.7967
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='8' style='font-size:20px'>378</footer>",
+                "markdown": "378",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0835,
+                    "y": 0.9568
+                },
+                {
+                    "x": 0.1394,
+                    "y": 0.9568
+                },
+                {
+                    "x": 0.1394,
+                    "y": 0.9794
+                },
+                {
+                    "x": 0.0835,
+                    "y": 0.9794
+                }
+            ],
+            "id": 8,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "# Mode A: Aperture-Priority AE\n\nChoose an aperture and let the camera adjust shutter speed for optimal exposure.\n\n!Camera and Settings\n\n| Setting        | Description       |\n|----------------|-------------------|\n| 1. Shutter speed | A (auto)         |\n| 2. Aperture      | User-selected    |\n\nConfirm that **A** appears in the display.\n\n> 💡 **Note:**\n> - If the correct exposure cannot be achieved at the selected aperture, shutter speed will be displayed in red.\n> - If the subject is outside the metering range of the camera, the shutter speed display will show “– – –”.\n\n> 💡 **Tip:**\n> - If the lens is equipped with an aperture ring, aperture can be adjusted by rotating the ring. If you are using a lens without an aperture ring, press the center of the front command dial to cycle to **APERTURE** and then rotate the dial to choose a value.\n> - Front command dial settings can be adjusted using **BUTTON/DIAL SETTING > COMMAND DIAL SETTING**.\n> - Aperture can be adjusted even while the shutter button is pressed halfway.",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "Mode A: Aperture-Priority AE",
+                    "md": "# Mode A: Aperture-Priority AE"
+                },
+                {
+                    "type": "text",
+                    "value": "Choose an aperture and let the camera adjust shutter speed for optimal exposure.\n\n!Camera and Settings",
+                    "md": "Choose an aperture and let the camera adjust shutter speed for optimal exposure.\n\n!Camera and Settings"
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Setting",
+                            "Description"
+                        ],
+                        [
+                            "1. Shutter speed",
+                            "A (auto)"
+                        ],
+                        [
+                            "2. Aperture",
+                            "User-selected"
+                        ]
+                    ],
+                    "md": "| Setting        | Description       |\n|----------------|-------------------|\n| 1. Shutter speed | A (auto)         |\n| 2. Aperture      | User-selected    |",
+                    "isPerfectTable": true,
+                    "csv": "\"Setting\",\"Description\"\n\"1. Shutter speed\",\"A (auto)\"\n\"2. Aperture\",\"User-selected\""
+                },
+                {
+                    "type": "text",
+                    "value": "Confirm that **A** appears in the display.\n\n> 💡 **Note:**\n> - If the correct exposure cannot be achieved at the selected aperture, shutter speed will be displayed in red.\n> - If the subject is outside the metering range of the camera, the shutter speed display will show “– – –”.\n\n> 💡 **Tip:**\n> - If the lens is equipped with an aperture ring, aperture can be adjusted by rotating the ring. If you are using a lens without an aperture ring, press the center of the front command dial to cycle to **APERTURE** and then rotate the dial to choose a value.\n> - Front command dial settings can be adjusted using **BUTTON/DIAL SETTING > COMMAND DIAL SETTING**.\n> - Aperture can be adjusted even while the shutter button is pressed halfway.",
+                    "md": "Confirm that **A** appears in the display.\n\n> 💡 **Note:**\n> - If the correct exposure cannot be achieved at the selected aperture, shutter speed will be displayed in red.\n> - If the subject is outside the metering range of the camera, the shutter speed display will show “– – –”.\n\n> 💡 **Tip:**\n> - If the lens is equipped with an aperture ring, aperture can be adjusted by rotating the ring. If you are using a lens without an aperture ring, press the center of the front command dial to cycle to **APERTURE** and then rotate the dial to choose a value.\n> - Front command dial settings can be adjusted using **BUTTON/DIAL SETTING > COMMAND DIAL SETTING**.\n> - Aperture can be adjusted even while the shutter button is pressed halfway."
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "parsingMode": "multimodal-openai-gpt4o",
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 182.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "93e8264f-050b-4617-a4bc-50849e6443f9",
+    "file_path": "../data/raw_data/x-e4/x-e4_split/x-e4_page87.pdf"
+}

@@ -1,0 +1,13 @@
+{
+    "parsing_result": "\n# System\n\n## Metering\n- 256-segment through-the-lens (TTL) metering\n- MULTI, SPOT, AVERAGE, CENTER WEIGHTED\n\n## Exposure Control\n- Programmed AE (with program shift)\n- Shutter-priority AE\n- Aperture-priority AE\n- Manual exposure\n\n## Exposure Compensation\n- **Still pictures:** –5 EV to +5 EV in increments of ⅓ EV\n- **Movies:** –2 EV to +2 EV in increments of ⅓ EV\n\n## Shutter Speed\n\n### Mechanical Shutter\n- **Mode P:** 4 s to 1/4000 s\n- **Mode A:** 30 s to 1/4000 s\n- **Modes S and M:** 15 min. to 1/4000 s\n- **Bulb:** Max. 60 min.\n\n### Electronic Shutter\n- **Mode P:** 4 s to 1/32000 s\n- **Mode A:** 30 s to 1/32000 s\n- **Modes S and M:** 15 min. to 1/32000 s\n- **Bulb:** Fixed at 1 s\n\n### Mechanical + Electronic\n- **Mode P:** 4 s to 1/32000 s\n- **Mode A:** 30 s to 1/32000 s\n- **Modes S and M:** 15 min. to 1/32000 s\n- **Bulb:** Max. 60 min.\n\n## Continuous\n\n| CONTINUOUS MODE         | Available frame advance rates (JPEG) |\n|-------------------------|--------------------------------------|\n| 30fps (1.25X CROP) *    | 30                                   |\n| 20fps (1.25X CROP) *    | 20                                   |\n| 10fps (1.25X CROP) *    | 10                                   |\n| 20fps *                 | 20                                   |\n| 10fps *                 | 10                                   |\n| 8.0fps                  | 8.0                                  |\n| 5.0fps                  | 5.0                                  |\n| 4.0fps                  | 4.0                                  |\n| 3.0fps                  | 3.0                                  |\n\n*Available with electronic shutter only.\n\n> 💡 **Note:**  \n> The frame rate and number of frames per burst varies with shooting conditions and type of memory card used.\n",
+    "embedding_result": [],
+    "metadata": {
+        "page": 330,
+        "model": "x-e4",
+        "subsection": [
+            "Specifications"
+        ],
+        "chapter": "Technical Notes",
+        "section": "Specifications"
+    }
+}

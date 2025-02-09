@@ -1,0 +1,96 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "# AWB-LOCK MODE\n\nChoose the behavior of function buttons assigned auto white balance (AWB) lock. Auto white balance lock is used to lock white balance at the value metered by the camera when **AUTO WHITE PRIORITY**, **AUTO**, or **AUTO AMBIENCE PRIORITY** is selected for white balance.\n\n| Option                  | Description                                               |\n|-------------------------|-----------------------------------------------------------|\n| AWB ON WHEN PRESSING    | Auto white balance locks while the button is pressed.     |\n| AWB ON/OFF SWITCH       | Press the button once to lock auto white balance and again to end the lock. |\n\n# EXPO. COMP. BUTTON SETTING\n\nControl the behavior of the rear command dial and the button to which exposure compensation is assigned. If **ON WHEN PRESSING** is selected, exposure compensation can be adjusted by holding the button while rotating the dial; if **ON/OFF SWITCH** is selected, exposure compensation can be set by pressing the button once, rotating the dial, and then pressing the button again.\n\n| Options              |\n|----------------------|\n| ON WHEN PRESSING     |\n| ON/OFF SWITCH        |",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "AWB-LOCK MODE",
+                    "md": "# AWB-LOCK MODE"
+                },
+                {
+                    "type": "text",
+                    "value": "Choose the behavior of function buttons assigned auto white balance (AWB) lock. Auto white balance lock is used to lock white balance at the value metered by the camera when **AUTO WHITE PRIORITY**, **AUTO**, or **AUTO AMBIENCE PRIORITY** is selected for white balance.",
+                    "md": "Choose the behavior of function buttons assigned auto white balance (AWB) lock. Auto white balance lock is used to lock white balance at the value metered by the camera when **AUTO WHITE PRIORITY**, **AUTO**, or **AUTO AMBIENCE PRIORITY** is selected for white balance."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Option",
+                            "Description"
+                        ],
+                        [
+                            "AWB ON WHEN PRESSING",
+                            "Auto white balance locks while the button is pressed."
+                        ],
+                        [
+                            "AWB ON/OFF SWITCH",
+                            "Press the button once to lock auto white balance and again to end the lock."
+                        ]
+                    ],
+                    "md": "| Option                  | Description                                               |\n|-------------------------|-----------------------------------------------------------|\n| AWB ON WHEN PRESSING    | Auto white balance locks while the button is pressed.     |\n| AWB ON/OFF SWITCH       | Press the button once to lock auto white balance and again to end the lock. |",
+                    "isPerfectTable": true,
+                    "csv": "\"Option\",\"Description\"\n\"AWB ON WHEN PRESSING\",\"Auto white balance locks while the button is pressed.\"\n\"AWB ON/OFF SWITCH\",\"Press the button once to lock auto white balance and again to end the lock.\""
+                },
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "EXPO. COMP. BUTTON SETTING",
+                    "md": "# EXPO. COMP. BUTTON SETTING"
+                },
+                {
+                    "type": "text",
+                    "value": "Control the behavior of the rear command dial and the button to which exposure compensation is assigned. If **ON WHEN PRESSING** is selected, exposure compensation can be adjusted by holding the button while rotating the dial; if **ON/OFF SWITCH** is selected, exposure compensation can be set by pressing the button once, rotating the dial, and then pressing the button again.",
+                    "md": "Control the behavior of the rear command dial and the button to which exposure compensation is assigned. If **ON WHEN PRESSING** is selected, exposure compensation can be adjusted by holding the button while rotating the dial; if **ON/OFF SWITCH** is selected, exposure compensation can be set by pressing the button once, rotating the dial, and then pressing the button again."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Options"
+                        ],
+                        [
+                            "ON WHEN PRESSING"
+                        ],
+                        [
+                            "ON/OFF SWITCH"
+                        ]
+                    ],
+                    "md": "| Options              |\n|----------------------|\n| ON WHEN PRESSING     |\n| ON/OFF SWITCH        |",
+                    "isPerfectTable": true,
+                    "csv": "\"Options\"\n\"ON WHEN PRESSING\"\n\"ON/OFF SWITCH\""
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 20.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "8e583354-cc34-4206-94c4-65ec88e87466",
+    "file_path": "../data/raw_data/gfx100ii/gfx100ii_split/gfx100ii_page390.pdf"
+}

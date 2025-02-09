@@ -1,0 +1,98 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "# SUBJECT DETECTION SETTING\n\nChoose whether the camera prioritizes subjects of a selected type, such as animals or vehicles, when setting focus.\n\n| Option                  | Description                                                                                                                                   |\n|-------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|\n| **SUBJECT DETECTION ON**| Select one of the subject types listed below to enable subject detection.                                                                     |\n|                         | - **ANIMAL**: The camera detects and tracks focus on dogs and cats.                                                                           |\n|                         | - **BIRD**: The camera detects and tracks focus on birds.                                                                                     |\n|                         | - **AUTOMOBILE**: The camera detects and tracks focus on the body or front ends of cars, primarily those of types used for motor sports.       |\n|                         | - **MOTORCYCLE&BIKE**: The camera detects and tracks focus on the riders of motorcycles and bicycles.                                         |\n|                         | - **AIRPLANE**: The camera detects and tracks focus on the cockpits, noses, or bodies of airplanes.                                           |\n|                         | - **TRAIN**: The camera detects and tracks focus on the driver compartments or front ends of trains.                                           |\n| **OFF**                 | Subject detection off.                                                                                                                        |\n\n> ⚠️ Enabling subject detection via **SUBJECT DETECTION ON** automatically selects **OFF** for **FACE/EYE DETECTION SETTING**.",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "SUBJECT DETECTION SETTING",
+                    "md": "# SUBJECT DETECTION SETTING"
+                },
+                {
+                    "type": "text",
+                    "value": "Choose whether the camera prioritizes subjects of a selected type, such as animals or vehicles, when setting focus.",
+                    "md": "Choose whether the camera prioritizes subjects of a selected type, such as animals or vehicles, when setting focus."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Option",
+                            "Description"
+                        ],
+                        [
+                            "**SUBJECT DETECTION ON**",
+                            "Select one of the subject types listed below to enable subject detection."
+                        ],
+                        [
+                            "",
+                            "- **ANIMAL**: The camera detects and tracks focus on dogs and cats."
+                        ],
+                        [
+                            "",
+                            "- **BIRD**: The camera detects and tracks focus on birds."
+                        ],
+                        [
+                            "",
+                            "- **AUTOMOBILE**: The camera detects and tracks focus on the body or front ends of cars, primarily those of types used for motor sports."
+                        ],
+                        [
+                            "",
+                            "- **MOTORCYCLE&BIKE**: The camera detects and tracks focus on the riders of motorcycles and bicycles."
+                        ],
+                        [
+                            "",
+                            "- **AIRPLANE**: The camera detects and tracks focus on the cockpits, noses, or bodies of airplanes."
+                        ],
+                        [
+                            "",
+                            "- **TRAIN**: The camera detects and tracks focus on the driver compartments or front ends of trains."
+                        ],
+                        [
+                            "**OFF**",
+                            "Subject detection off."
+                        ]
+                    ],
+                    "md": "| Option                  | Description                                                                                                                                   |\n|-------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|\n| **SUBJECT DETECTION ON**| Select one of the subject types listed below to enable subject detection.                                                                     |\n|                         | - **ANIMAL**: The camera detects and tracks focus on dogs and cats.                                                                           |\n|                         | - **BIRD**: The camera detects and tracks focus on birds.                                                                                     |\n|                         | - **AUTOMOBILE**: The camera detects and tracks focus on the body or front ends of cars, primarily those of types used for motor sports.       |\n|                         | - **MOTORCYCLE&BIKE**: The camera detects and tracks focus on the riders of motorcycles and bicycles.                                         |\n|                         | - **AIRPLANE**: The camera detects and tracks focus on the cockpits, noses, or bodies of airplanes.                                           |\n|                         | - **TRAIN**: The camera detects and tracks focus on the driver compartments or front ends of trains.                                           |\n| **OFF**                 | Subject detection off.                                                                                                                        |",
+                    "isPerfectTable": true,
+                    "csv": "\"Option\",\"Description\"\n\"**SUBJECT DETECTION ON**\",\"Select one of the subject types listed below to enable subject detection.\"\n\"\",\"- **ANIMAL**: The camera detects and tracks focus on dogs and cats.\"\n\"\",\"- **BIRD**: The camera detects and tracks focus on birds.\"\n\"\",\"- **AUTOMOBILE**: The camera detects and tracks focus on the body or front ends of cars, primarily those of types used for motor sports.\"\n\"\",\"- **MOTORCYCLE&BIKE**: The camera detects and tracks focus on the riders of motorcycles and bicycles.\"\n\"\",\"- **AIRPLANE**: The camera detects and tracks focus on the cockpits, noses, or bodies of airplanes.\"\n\"\",\"- **TRAIN**: The camera detects and tracks focus on the driver compartments or front ends of trains.\"\n\"**OFF**\",\"Subject detection off.\""
+                },
+                {
+                    "type": "text",
+                    "value": "> ⚠️ Enabling subject detection via **SUBJECT DETECTION ON** automatically selects **OFF** for **FACE/EYE DETECTION SETTING**.",
+                    "md": "> ⚠️ Enabling subject detection via **SUBJECT DETECTION ON** automatically selects **OFF** for **FACE/EYE DETECTION SETTING**."
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "parsingMode": "multimodal-openai-gpt4o",
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 534.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "c9144889-7079-418a-9168-f497265d9581",
+    "file_path": "../data/raw_data/x-t5/x-t5_split/x-t5_page179.pdf"
+}

@@ -1,0 +1,266 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<h1 id='0' style='font-size:20px'>SAVE DATA SETTING</h1>\n<br><h1 id='1' style='font-size:20px'>Make changes to file management settings.</h1>\n<table id='2' style='font-size:14px'><tr><td>To access file management settings,</td><td></td><td></td><td></td><td></td><td>SAVE DATA SETTING</td></tr><tr><td>press MENU/OK, select the (SET UP) tab,</td><td>I.Q. AF</td><td></td><td></td><td>FRAME NO. SAVE ORG IMAGE</td><td></td></tr><tr><td>and choose SAVE DATA SET-UP.</td><td>MF</td><td></td><td></td><td>EDIT FILE NAME SELECT</td><td></td></tr><tr><td></td><td></td><td>女</td><td></td><td>FOLDER COPYRIGHT INFO</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td>BACK</td><td>EXIT</td><td></td></tr></table>\n<p id='3' data-category='paragraph' style='font-size:16px'>FRAME NO.</p>\n\n<br><table id='5' style='font-size:16px'><tr><td>Option</td><td>Description</td></tr><tr><td>CONTINUOUS</td><td>Numbering continues from the last file number used or the first available file number, whichever is higher. Choose this option to reduce the number of pictures with duplicate file names.</td></tr><tr><td>RENEW</td><td>Numbering is reset to 0001 after formatting or when a new memory card is inserted.</td></tr><br><caption id='4' style='font-size:18px'>New pictures are stored in image files named Frame number<br>using a four-digit file number assigned by 100-0001<br>adding one to the last file number used. The<br>Directory File<br>file number is displayed during playback as<br>number number<br>shown. FRAME NO. controls whether file num-<br>bering is reset to 0001 when a new memory card is inserted or<br>the current memory card is formatted.</caption></table>\n<p id='6' data-category='list' style='font-size:14px'>If the frame number reaches 999-9999, the shutter release will be dis-<br>abled. Format the memory card after transferring to a computer any<br>pictures you wish to keep.<br>● Selecting USER SETTING > RESET sets FRAME NO. to<br>CONTINUOUS but does not reset the file number.<br>● Frame numbers for pictures taken with other cameras may differ.</p>\n<br><footer id='7' style='font-size:22px'>The<br>Setup<br>Menus<br>8</footer>\n<footer id='8' style='font-size:18px'>233</footer>",
+        "markdown": "# SAVE DATA SETTING\n\n# Make changes to file management settings.\n\n| To access file management settings, |  |  |  |  | SAVE DATA SETTING |\n| --- | --- | --- | --- | --- | --- |\n| press MENU/OK, select the (SET UP) tab, | I.Q. AF |  |  | FRAME NO. SAVE ORG IMAGE |  |\n| and choose SAVE DATA SET-UP. | MF |  |  | EDIT FILE NAME SELECT |  |\n|  |  | 女 |  | FOLDER COPYRIGHT INFO |  |\n|  |  |  |  |  |  |\n|  |  |  | BACK | EXIT |  |\n\n\nFRAME NO.\n\nNew pictures are stored in image files named Frame number\nusing a four-digit file number assigned by 100-0001\nadding one to the last file number used. The\nDirectory File\nfile number is displayed during playback as\nnumber number\nshown. FRAME NO. controls whether file num-\nbering is reset to 0001 when a new memory card is inserted or\nthe current memory card is formatted.\n\n| Option | Description |\n| --- | --- |\n| CONTINUOUS | Numbering continues from the last file number used or the first available file number, whichever is higher. Choose this option to reduce the number of pictures with duplicate file names. |\n| RENEW | Numbering is reset to 0001 after formatting or when a new memory card is inserted. |\n\n\n- If the frame number reaches 999-9999, the shutter release will be dis-\n- abled. Format the memory card after transferring to a computer any\n- pictures you wish to keep.\n- ● Selecting USER SETTING > RESET sets FRAME NO. to\n- CONTINUOUS but does not reset the file number.\n- ● Frame numbers for pictures taken with other cameras may differ.\n\n\nThe\nSetup\nMenus\n8\n\n233",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='0' style='font-size:20px'>SAVE DATA SETTING</h1>",
+                "markdown": "# SAVE DATA SETTING",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1781,
+                    "y": 0.0743
+                },
+                {
+                    "x": 0.5249,
+                    "y": 0.0743
+                },
+                {
+                    "x": 0.5249,
+                    "y": 0.0984
+                },
+                {
+                    "x": 0.1781,
+                    "y": 0.0984
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='1' style='font-size:20px'>Make changes to file management settings.</h1>",
+                "markdown": "# Make changes to file management settings.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1802,
+                    "y": 0.1098
+                },
+                {
+                    "x": 0.7298,
+                    "y": 0.1098
+                },
+                {
+                    "x": 0.7298,
+                    "y": 0.1329
+                },
+                {
+                    "x": 0.1802,
+                    "y": 0.1329
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='2' style='font-size:14px'><tr><td>To access file management settings,</td><td></td><td></td><td></td><td></td><td>SAVE DATA SETTING</td></tr><tr><td>press MENU/OK, select the (SET UP) tab,</td><td>I.Q. AF</td><td></td><td></td><td>FRAME NO. SAVE ORG IMAGE</td><td></td></tr><tr><td>and choose SAVE DATA SET-UP.</td><td>MF</td><td></td><td></td><td>EDIT FILE NAME SELECT</td><td></td></tr><tr><td></td><td></td><td>女</td><td></td><td>FOLDER COPYRIGHT INFO</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td>BACK</td><td>EXIT</td><td></td></tr></table>",
+                "markdown": "| To access file management settings, |  |  |  |  | SAVE DATA SETTING |\n| --- | --- | --- | --- | --- | --- |\n| press MENU/OK, select the (SET UP) tab, | I.Q. AF |  |  | FRAME NO. SAVE ORG IMAGE |  |\n| and choose SAVE DATA SET-UP. | MF |  |  | EDIT FILE NAME SELECT |  |\n|  |  | 女 |  | FOLDER COPYRIGHT INFO |  |\n|  |  |  |  |  |  |\n|  |  |  | BACK | EXIT |  |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1059,
+                    "y": 0.1405
+                },
+                {
+                    "x": 0.917,
+                    "y": 0.1405
+                },
+                {
+                    "x": 0.917,
+                    "y": 0.2793
+                },
+                {
+                    "x": 0.1059,
+                    "y": 0.2793
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='3' data-category='paragraph' style='font-size:16px'>FRAME NO.</p>",
+                "markdown": "FRAME NO.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1095,
+                    "y": 0.2965
+                },
+                {
+                    "x": 0.2651,
+                    "y": 0.2965
+                },
+                {
+                    "x": 0.2651,
+                    "y": 0.3181
+                },
+                {
+                    "x": 0.1095,
+                    "y": 0.3181
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='4' data-category='paragraph' style='font-size:18px'>New pictures are stored in image files named Frame number<br>using a four-digit file number assigned by 100-0001<br>adding one to the last file number used. The<br>Directory File<br>file number is displayed during playback as<br>number number<br>shown. FRAME NO. controls whether file num-<br>bering is reset to 0001 when a new memory card is inserted or<br>the current memory card is formatted.</p>",
+                "markdown": "New pictures are stored in image files named Frame number\nusing a four-digit file number assigned by 100-0001\nadding one to the last file number used. The\nDirectory File\nfile number is displayed during playback as\nnumber number\nshown. FRAME NO. controls whether file num-\nbering is reset to 0001 when a new memory card is inserted or\nthe current memory card is formatted.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1053,
+                    "y": 0.3265
+                },
+                {
+                    "x": 0.9225,
+                    "y": 0.3265
+                },
+                {
+                    "x": 0.9225,
+                    "y": 0.5074
+                },
+                {
+                    "x": 0.1053,
+                    "y": 0.5074
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='5' style='font-size:16px'><tr><td>Option</td><td>Description</td></tr><tr><td>CONTINUOUS</td><td>Numbering continues from the last file number used or the first available file number, whichever is higher. Choose this option to reduce the number of pictures with duplicate file names.</td></tr><tr><td>RENEW</td><td>Numbering is reset to 0001 after formatting or when a new memory card is inserted.</td></tr></table>",
+                "markdown": "| Option | Description |\n| --- | --- |\n| CONTINUOUS | Numbering continues from the last file number used or the first available file number, whichever is higher. Choose this option to reduce the number of pictures with duplicate file names. |\n| RENEW | Numbering is reset to 0001 after formatting or when a new memory card is inserted. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.109,
+                    "y": 0.5168
+                },
+                {
+                    "x": 0.9197,
+                    "y": 0.5168
+                },
+                {
+                    "x": 0.9197,
+                    "y": 0.6604
+                },
+                {
+                    "x": 0.109,
+                    "y": 0.6604
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "list",
+            "content": {
+                "html": "<p id='6' data-category='list' style='font-size:14px'>If the frame number reaches 999-9999, the shutter release will be dis-<br>abled. Format the memory card after transferring to a computer any<br>pictures you wish to keep.<br>● Selecting USER SETTING > RESET sets FRAME NO. to<br>CONTINUOUS but does not reset the file number.<br>● Frame numbers for pictures taken with other cameras may differ.</p>",
+                "markdown": "- If the frame number reaches 999-9999, the shutter release will be dis-\n- abled. Format the memory card after transferring to a computer any\n- pictures you wish to keep.\n- ● Selecting USER SETTING > RESET sets FRAME NO. to\n- CONTINUOUS but does not reset the file number.\n- ● Frame numbers for pictures taken with other cameras may differ.\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1288,
+                    "y": 0.6739
+                },
+                {
+                    "x": 0.9179,
+                    "y": 0.6739
+                },
+                {
+                    "x": 0.9179,
+                    "y": 0.8102
+                },
+                {
+                    "x": 0.1288,
+                    "y": 0.8102
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<br><footer id='7' style='font-size:22px'>The<br>Setup<br>Menus<br>8</footer>",
+                "markdown": "The\nSetup\nMenus\n8",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9571,
+                    "y": 0.5052
+                },
+                {
+                    "x": 0.9824,
+                    "y": 0.5052
+                },
+                {
+                    "x": 0.9824,
+                    "y": 0.6761
+                },
+                {
+                    "x": 0.9571,
+                    "y": 0.6761
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='8' style='font-size:18px'>233</footer>",
+                "markdown": "233",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.86,
+                    "y": 0.956
+                },
+                {
+                    "x": 0.918,
+                    "y": 0.956
+                },
+                {
+                    "x": 0.918,
+                    "y": 0.98
+                },
+                {
+                    "x": 0.86,
+                    "y": 0.98
+                }
+            ],
+            "id": 8,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

@@ -1,0 +1,210 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:14px'>Overview</header>\n<p id='1' data-category='paragraph' style='font-size:18px'>The EVF/LCD Displays</p>\n<br><p id='2' data-category='paragraph' style='font-size:14px'>The status of the connection to computers,<br>Frame.io, FTP servers, and the like is also shown<br>by an icon in the electronic viewfinder or LCD<br>monitor.</p>\n<br><p id='3' data-category='paragraph' style='font-size:20px'>N poloper⌀</p>\n<table id='4' style='font-size:16px'><tr><td>Icon</td><td>Connection status</td></tr><tr><td></td><td>No network connection.</td></tr><tr><td></td><td>Connected to network but not to computer teth- ered photography software, Frame.io, or FTP server.</td></tr><tr><td></td><td>Ready for tethered photography, FTP upload, or upload to Frame.io.</td></tr></table>\n<br><footer id='5' style='font-size:22px'>Network/USB<br>Setting<br>Menus</footer>\n<footer id='6' style='font-size:18px'>245</footer>",
+        "markdown": "Overview\n\nThe EVF/LCD Displays\n\nThe status of the connection to computers,\nFrame.io, FTP servers, and the like is also shown\nby an icon in the electronic viewfinder or LCD\nmonitor.\n\nN poloper⌀\n\n| Icon | Connection status |\n| --- | --- |\n|  | No network connection. |\n|  | Connected to network but not to computer teth- ered photography software, Frame.io, or FTP server. |\n|  | Ready for tethered photography, FTP upload, or upload to Frame.io. |\n\n\nNetwork/USB\nSetting\nMenus\n\n245",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:14px'>Overview</header>",
+                "markdown": "Overview",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.8187,
+                    "y": 0.0296
+                },
+                {
+                    "x": 0.9188,
+                    "y": 0.0296
+                },
+                {
+                    "x": 0.9188,
+                    "y": 0.0496
+                },
+                {
+                    "x": 0.8187,
+                    "y": 0.0496
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='1' data-category='paragraph' style='font-size:18px'>The EVF/LCD Displays</p>",
+                "markdown": "The EVF/LCD Displays",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1123,
+                    "y": 0.0723
+                },
+                {
+                    "x": 0.3187,
+                    "y": 0.0723
+                },
+                {
+                    "x": 0.3187,
+                    "y": 0.0941
+                },
+                {
+                    "x": 0.1123,
+                    "y": 0.0941
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='2' data-category='paragraph' style='font-size:14px'>The status of the connection to computers,<br>Frame.io, FTP servers, and the like is also shown<br>by an icon in the electronic viewfinder or LCD<br>monitor.</p>",
+                "markdown": "The status of the connection to computers,\nFrame.io, FTP servers, and the like is also shown\nby an icon in the electronic viewfinder or LCD\nmonitor.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1094,
+                    "y": 0.0944
+                },
+                {
+                    "x": 0.629,
+                    "y": 0.0944
+                },
+                {
+                    "x": 0.629,
+                    "y": 0.1849
+                },
+                {
+                    "x": 0.1094,
+                    "y": 0.1849
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='3' data-category='paragraph' style='font-size:20px'>N poloper⌀</p>",
+                "markdown": "N poloper⌀",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6413,
+                    "y": 0.1442
+                },
+                {
+                    "x": 0.6565,
+                    "y": 0.1442
+                },
+                {
+                    "x": 0.6565,
+                    "y": 0.19
+                },
+                {
+                    "x": 0.6413,
+                    "y": 0.19
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='4' style='font-size:16px'><tr><td>Icon</td><td>Connection status</td></tr><tr><td></td><td>No network connection.</td></tr><tr><td></td><td>Connected to network but not to computer teth- ered photography software, Frame.io, or FTP server.</td></tr><tr><td></td><td>Ready for tethered photography, FTP upload, or upload to Frame.io.</td></tr></table>",
+                "markdown": "| Icon | Connection status |\n| --- | --- |\n|  | No network connection. |\n|  | Connected to network but not to computer teth- ered photography software, Frame.io, or FTP server. |\n|  | Ready for tethered photography, FTP upload, or upload to Frame.io. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1078,
+                    "y": 0.2604
+                },
+                {
+                    "x": 0.9185,
+                    "y": 0.2604
+                },
+                {
+                    "x": 0.9185,
+                    "y": 0.4188
+                },
+                {
+                    "x": 0.1078,
+                    "y": 0.4188
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<br><footer id='5' style='font-size:22px'>Network/USB<br>Setting<br>Menus</footer>",
+                "markdown": "Network/USB\nSetting\nMenus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9573,
+                    "y": 0.4296
+                },
+                {
+                    "x": 0.98,
+                    "y": 0.4296
+                },
+                {
+                    "x": 0.98,
+                    "y": 0.6364
+                },
+                {
+                    "x": 0.9573,
+                    "y": 0.6364
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='6' style='font-size:18px'>245</footer>",
+                "markdown": "245",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.8609,
+                    "y": 0.957
+                },
+                {
+                    "x": 0.917,
+                    "y": 0.957
+                },
+                {
+                    "x": 0.917,
+                    "y": 0.9785
+                },
+                {
+                    "x": 0.8609,
+                    "y": 0.9785
+                }
+            ],
+            "id": 6,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

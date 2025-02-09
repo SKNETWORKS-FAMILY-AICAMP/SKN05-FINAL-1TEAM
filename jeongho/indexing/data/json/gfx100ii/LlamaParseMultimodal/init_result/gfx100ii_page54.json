@@ -1,0 +1,59 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "# Framing Outline\n\nEnable **FRAMING OUTLINE** to make the borders of the frame easier to see against dark backgrounds.\n\n## Histograms\n\nHistograms show the distribution of tones in the image. Brightness is shown by the horizontal axis, the number of pixels by the vertical axis.\n\n!Histogram Example\n\n- **Optimal exposure:** Pixels are distributed in an even curve throughout the tone range.\n- **Overexposed:** Pixels are clustered on the right side of the graph.\n- **Underexposed:** Pixels are clustered on the left side of the graph.\n\nTo view separate RGB histograms and a display showing areas of the frame that will be overexposed at current settings superimposed on the view through the lens, press the function button to which **HISTOGRAM** is assigned.\n\n1. Overexposed areas blink\n2. RGB histograms\n\n!RGB Histograms",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "Framing Outline",
+                    "md": "# Framing Outline"
+                },
+                {
+                    "type": "text",
+                    "value": "Enable **FRAMING OUTLINE** to make the borders of the frame easier to see against dark backgrounds.",
+                    "md": "Enable **FRAMING OUTLINE** to make the borders of the frame easier to see against dark backgrounds."
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "Histograms",
+                    "md": "## Histograms"
+                },
+                {
+                    "type": "text",
+                    "value": "Histograms show the distribution of tones in the image. Brightness is shown by the horizontal axis, the number of pixels by the vertical axis.\n\n!Histogram Example\n\n- **Optimal exposure:** Pixels are distributed in an even curve throughout the tone range.\n- **Overexposed:** Pixels are clustered on the right side of the graph.\n- **Underexposed:** Pixels are clustered on the left side of the graph.\n\nTo view separate RGB histograms and a display showing areas of the frame that will be overexposed at current settings superimposed on the view through the lens, press the function button to which **HISTOGRAM** is assigned.\n\n1. Overexposed areas blink\n2. RGB histograms\n\n!RGB Histograms",
+                    "md": "Histograms show the distribution of tones in the image. Brightness is shown by the horizontal axis, the number of pixels by the vertical axis.\n\n!Histogram Example\n\n- **Optimal exposure:** Pixels are distributed in an even curve throughout the tone range.\n- **Overexposed:** Pixels are clustered on the right side of the graph.\n- **Underexposed:** Pixels are clustered on the left side of the graph.\n\nTo view separate RGB histograms and a display showing areas of the frame that will be overexposed at current settings superimposed on the view through the lens, press the function button to which **HISTOGRAM** is assigned.\n\n1. Overexposed areas blink\n2. RGB histograms\n\n!RGB Histograms"
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 92.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "36204ae4-b775-4c56-8148-c4b527c43cf9",
+    "file_path": "../data/raw_data/gfx100ii/gfx100ii_split/gfx100ii_page54.pdf"
+}

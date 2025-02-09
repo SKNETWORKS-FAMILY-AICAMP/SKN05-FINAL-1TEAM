@@ -1,0 +1,294 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<h1 id='0' style='font-size:20px'>Sensitivity</h1>\n<br><h1 id='1' style='font-size:18px'>Adjust the camera's sensitivity to light.</h1>\n<p id='2' data-category='paragraph' style='font-size:16px'>Press the sensitivity dial lock release, ro-<br>tate the dial to the desired setting, and<br>press the release again to lock the dial in<br>place.</p>\n<table id='3' style='font-size:16px'><tr><td>Option</td><td>Description</td></tr><tr><td>A (auto)</td><td>Sensitivity is automatically adjusted in response to shooting conditions according to option chosen for � SHOOTING SETTING > ISO AUTO SETTING. Choose from AUTO1, AUTO2, and AUTO3.</td></tr><tr><td>C (command)</td><td>Rotate the front command dial to choose from AUTO1, AUTO2, AUTO3, and values of from 64 to 51200. This range includes \"extended\" values of 64 to 100, 25600, and 51200. Note that \"extended\" values may reduce dynamic range or increase mottling.</td></tr><tr><td>125-12800</td><td>Adjust sensitivity manually. Selected value is shown in display.</td></tr></table>\n<br><figure id='4'><img style='font-size:14px' alt=\"400-\n200-\n-008\n1600- A-III C\n12800-\n3200-\n6400-\" data-coord=\"top-left:(1657,574); bottom-right:(2470,1161)\" /></figure>\n<header id='5' style='font-size:14px'>5</header>\n<p id='6' data-category='paragraph' style='font-size:20px'>Adjusting Sensitivity</p>\n<br><header id='7' style='font-size:22px'>Taking<br>Photographs</header>\n<br><p id='8' data-category='paragraph' style='font-size:16px'>High values can be used to reduce blur when lighting is poor, while lower<br>values allow slower shutter speeds or wider apertures in bright light; note,<br>however, that mottling may appear in pictures taken at high sensitivities.</p>\n<footer id='9' style='font-size:18px'>96</footer>",
+        "markdown": "# Sensitivity\n\n# Adjust the camera's sensitivity to light.\n\nPress the sensitivity dial lock release, ro-\ntate the dial to the desired setting, and\npress the release again to lock the dial in\nplace.\n\n| Option | Description |\n| --- | --- |\n| A (auto) | Sensitivity is automatically adjusted in response to shooting conditions according to option chosen for � SHOOTING SETTING > ISO AUTO SETTING. Choose from AUTO1, AUTO2, and AUTO3. |\n| C (command) | Rotate the front command dial to choose from AUTO1, AUTO2, AUTO3, and values of from 64 to 51200. This range includes \"extended\" values of 64 to 100, 25600, and 51200. Note that \"extended\" values may reduce dynamic range or increase mottling. |\n| 125-12800 | Adjust sensitivity manually. Selected value is shown in display. |\n\n\n![image](/image/placeholder)\n400-\n200-\n-008\n1600- A-III C\n12800-\n3200-\n6400-\n\n5\n\nAdjusting Sensitivity\n\nTaking\nPhotographs\n\nHigh values can be used to reduce blur when lighting is poor, while lower\nvalues allow slower shutter speeds or wider apertures in bright light; note,\nhowever, that mottling may appear in pictures taken at high sensitivities.\n\n96",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='0' style='font-size:20px'>Sensitivity</h1>",
+                "markdown": "# Sensitivity",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.153,
+                    "y": 0.074
+                },
+                {
+                    "x": 0.3384,
+                    "y": 0.074
+                },
+                {
+                    "x": 0.3384,
+                    "y": 0.1006
+                },
+                {
+                    "x": 0.153,
+                    "y": 0.1006
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='1' style='font-size:18px'>Adjust the camera's sensitivity to light.</h1>",
+                "markdown": "# Adjust the camera's sensitivity to light.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1551,
+                    "y": 0.1095
+                },
+                {
+                    "x": 0.6379,
+                    "y": 0.1095
+                },
+                {
+                    "x": 0.6379,
+                    "y": 0.1328
+                },
+                {
+                    "x": 0.1551,
+                    "y": 0.1328
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='2' data-category='paragraph' style='font-size:16px'>Press the sensitivity dial lock release, ro-<br>tate the dial to the desired setting, and<br>press the release again to lock the dial in<br>place.</p>",
+                "markdown": "Press the sensitivity dial lock release, ro-\ntate the dial to the desired setting, and\npress the release again to lock the dial in\nplace.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0824,
+                    "y": 0.1471
+                },
+                {
+                    "x": 0.6062,
+                    "y": 0.1471
+                },
+                {
+                    "x": 0.6062,
+                    "y": 0.2477
+                },
+                {
+                    "x": 0.0824,
+                    "y": 0.2477
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='3' style='font-size:16px'><tr><td>Option</td><td>Description</td></tr><tr><td>A (auto)</td><td>Sensitivity is automatically adjusted in response to shooting conditions according to option chosen for � SHOOTING SETTING > ISO AUTO SETTING. Choose from AUTO1, AUTO2, and AUTO3.</td></tr><tr><td>C (command)</td><td>Rotate the front command dial to choose from AUTO1, AUTO2, AUTO3, and values of from 64 to 51200. This range includes \"extended\" values of 64 to 100, 25600, and 51200. Note that \"extended\" values may reduce dynamic range or increase mottling.</td></tr><tr><td>125-12800</td><td>Adjust sensitivity manually. Selected value is shown in display.</td></tr></table>",
+                "markdown": "| Option | Description |\n| --- | --- |\n| A (auto) | Sensitivity is automatically adjusted in response to shooting conditions according to option chosen for � SHOOTING SETTING > ISO AUTO SETTING. Choose from AUTO1, AUTO2, and AUTO3. |\n| C (command) | Rotate the front command dial to choose from AUTO1, AUTO2, AUTO3, and values of from 64 to 51200. This range includes \"extended\" values of 64 to 100, 25600, and 51200. Note that \"extended\" values may reduce dynamic range or increase mottling. |\n| 125-12800 | Adjust sensitivity manually. Selected value is shown in display. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0869,
+                    "y": 0.3256
+                },
+                {
+                    "x": 0.892,
+                    "y": 0.3256
+                },
+                {
+                    "x": 0.892,
+                    "y": 0.6147
+                },
+                {
+                    "x": 0.0869,
+                    "y": 0.6147
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "figure",
+            "content": {
+                "html": "<br><figure id='4'><img style='font-size:14px' alt=\"400-\n200-\n-008\n1600- A-III C\n12800-\n3200-\n6400-\" data-coord=\"top-left:(1657,574); bottom-right:(2470,1161)\" /></figure>",
+                "markdown": "![image](/image/placeholder)\n400-\n200-\n-008\n1600- A-III C\n12800-\n3200-\n6400-",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.5998,
+                    "y": 0.1473
+                },
+                {
+                    "x": 0.8939,
+                    "y": 0.1473
+                },
+                {
+                    "x": 0.8939,
+                    "y": 0.2979
+                },
+                {
+                    "x": 0.5998,
+                    "y": 0.2979
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='5' style='font-size:14px'>5</header>",
+                "markdown": "5",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0243,
+                    "y": 0.4772
+                },
+                {
+                    "x": 0.044,
+                    "y": 0.4772
+                },
+                {
+                    "x": 0.044,
+                    "y": 0.4989
+                },
+                {
+                    "x": 0.0243,
+                    "y": 0.4989
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='6' data-category='paragraph' style='font-size:20px'>Adjusting Sensitivity</p>",
+                "markdown": "Adjusting Sensitivity",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0843,
+                    "y": 0.6227
+                },
+                {
+                    "x": 0.2951,
+                    "y": 0.6227
+                },
+                {
+                    "x": 0.2951,
+                    "y": 0.6449
+                },
+                {
+                    "x": 0.0843,
+                    "y": 0.6449
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "header",
+            "content": {
+                "html": "<br><header id='7' style='font-size:22px'>Taking<br>Photographs</header>",
+                "markdown": "Taking\nPhotographs",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0163,
+                    "y": 0.5129
+                },
+                {
+                    "x": 0.0421,
+                    "y": 0.5129
+                },
+                {
+                    "x": 0.0421,
+                    "y": 0.666
+                },
+                {
+                    "x": 0.0163,
+                    "y": 0.666
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='8' data-category='paragraph' style='font-size:16px'>High values can be used to reduce blur when lighting is poor, while lower<br>values allow slower shutter speeds or wider apertures in bright light; note,<br>however, that mottling may appear in pictures taken at high sensitivities.</p>",
+                "markdown": "High values can be used to reduce blur when lighting is poor, while lower\nvalues allow slower shutter speeds or wider apertures in bright light; note,\nhowever, that mottling may appear in pictures taken at high sensitivities.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0806,
+                    "y": 0.6438
+                },
+                {
+                    "x": 0.894,
+                    "y": 0.6438
+                },
+                {
+                    "x": 0.894,
+                    "y": 0.7153
+                },
+                {
+                    "x": 0.0806,
+                    "y": 0.7153
+                }
+            ],
+            "id": 8,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='9' style='font-size:18px'>96</footer>",
+                "markdown": "96",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0829,
+                    "y": 0.957
+                },
+                {
+                    "x": 0.1227,
+                    "y": 0.957
+                },
+                {
+                    "x": 0.1227,
+                    "y": 0.9796
+                },
+                {
+                    "x": 0.0829,
+                    "y": 0.9796
+                }
+            ],
+            "id": 9,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

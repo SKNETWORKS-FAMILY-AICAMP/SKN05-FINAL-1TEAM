@@ -1,0 +1,322 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<h1 id='0' style='font-size:20px'>Function Controls</h1>\n<br><p id='1' data-category='paragraph' style='font-size:16px'>Assign a role to each function button or touch-function<br>gesture for quick access to the selected feature.</p>\n<h1 id='2' style='font-size:16px'>The Function Buttons</h1>\n<br><p id='3' data-category='paragraph' style='font-size:16px'>Assign a role to the function buttons for quick access to the se-<br>lected feature.</p>\n<p id='4' data-category='paragraph' style='font-size:16px'>Function Button Defaults</p>\n<br><p id='5' data-category='paragraph' style='font-size:18px'>The default assignments are:</p>\n\n<figure id='7'><img style='font-size:14px' alt=\"AF\nON\n00\nAEL\" data-coord=\"top-left:(391,1515); bottom-right:(2278,2602)\" /><br><figcaption id='6' style='font-size:16px'>Back-of-Camera Function Buttons</figcaption></figure>\n<table id='8' style='font-size:14px'><tr><td>Function buttons</td><td>Default</td></tr><tr><td>AFON button</td><td>AF-ON</td></tr><tr><td>2 Center of rear command dial</td><td>FOCUS CHECK</td></tr><tr><td>3 Q(quick menu) button</td><td>QUICK MENU</td></tr><tr><td>4 AEL (exposure lock) button</td><td>AE LOCK ONLY</td></tr></table>\n<br><footer id='9' style='font-size:22px'>Shortcuts<br>10</footer>\n<footer id='10' style='font-size:20px'>321</footer>",
+        "markdown": "# Function Controls\n\nAssign a role to each function button or touch-function\ngesture for quick access to the selected feature.\n\n# The Function Buttons\n\nAssign a role to the function buttons for quick access to the se-\nlected feature.\n\nFunction Button Defaults\n\nThe default assignments are:\n\nBack-of-Camera Function Buttons\n\n![image](/image/placeholder)\nAF\nON\n00\nAEL\n\n| Function buttons | Default |\n| --- | --- |\n| AFON button | AF-ON |\n| 2 Center of rear command dial | FOCUS CHECK |\n| 3 Q(quick menu) button | QUICK MENU |\n| 4 AEL (exposure lock) button | AE LOCK ONLY |\n\n\nShortcuts\n10\n\n321",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='0' style='font-size:20px'>Function Controls</h1>",
+                "markdown": "# Function Controls",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1807,
+                    "y": 0.0736
+                },
+                {
+                    "x": 0.485,
+                    "y": 0.0736
+                },
+                {
+                    "x": 0.485,
+                    "y": 0.0995
+                },
+                {
+                    "x": 0.1807,
+                    "y": 0.0995
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='1' data-category='paragraph' style='font-size:16px'>Assign a role to each function button or touch-function<br>gesture for quick access to the selected feature.</p>",
+                "markdown": "Assign a role to each function button or touch-function\ngesture for quick access to the selected feature.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1774,
+                    "y": 0.1097
+                },
+                {
+                    "x": 0.9176,
+                    "y": 0.1097
+                },
+                {
+                    "x": 0.9176,
+                    "y": 0.159
+                },
+                {
+                    "x": 0.1774,
+                    "y": 0.159
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='2' style='font-size:16px'>The Function Buttons</h1>",
+                "markdown": "# The Function Buttons",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1082,
+                    "y": 0.1807
+                },
+                {
+                    "x": 0.4031,
+                    "y": 0.1807
+                },
+                {
+                    "x": 0.4031,
+                    "y": 0.2023
+                },
+                {
+                    "x": 0.1082,
+                    "y": 0.2023
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='3' data-category='paragraph' style='font-size:16px'>Assign a role to the function buttons for quick access to the se-<br>lected feature.</p>",
+                "markdown": "Assign a role to the function buttons for quick access to the se-\nlected feature.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1047,
+                    "y": 0.2115
+                },
+                {
+                    "x": 0.9171,
+                    "y": 0.2115
+                },
+                {
+                    "x": 0.9171,
+                    "y": 0.2599
+                },
+                {
+                    "x": 0.1047,
+                    "y": 0.2599
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='4' data-category='paragraph' style='font-size:16px'>Function Button Defaults</p>",
+                "markdown": "Function Button Defaults",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1165,
+                    "y": 0.2828
+                },
+                {
+                    "x": 0.4369,
+                    "y": 0.2828
+                },
+                {
+                    "x": 0.4369,
+                    "y": 0.3085
+                },
+                {
+                    "x": 0.1165,
+                    "y": 0.3085
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='5' data-category='paragraph' style='font-size:18px'>The default assignments are:</p>",
+                "markdown": "The default assignments are:",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1068,
+                    "y": 0.3146
+                },
+                {
+                    "x": 0.4747,
+                    "y": 0.3146
+                },
+                {
+                    "x": 0.4747,
+                    "y": 0.3387
+                },
+                {
+                    "x": 0.1068,
+                    "y": 0.3387
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='6' data-category='paragraph' style='font-size:16px'>Back-of-Camera Function Buttons</p>",
+                "markdown": "Back-of-Camera Function Buttons",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1069,
+                    "y": 0.3528
+                },
+                {
+                    "x": 0.4676,
+                    "y": 0.3528
+                },
+                {
+                    "x": 0.4676,
+                    "y": 0.3762
+                },
+                {
+                    "x": 0.1069,
+                    "y": 0.3762
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "figure",
+            "content": {
+                "html": "<figure id='7'><img style='font-size:14px' alt=\"AF\nON\n00\nAEL\" data-coord=\"top-left:(391,1515); bottom-right:(2278,2602)\" /></figure>",
+                "markdown": "![image](/image/placeholder)\nAF\nON\n00\nAEL",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1415,
+                    "y": 0.3889
+                },
+                {
+                    "x": 0.8243,
+                    "y": 0.3889
+                },
+                {
+                    "x": 0.8243,
+                    "y": 0.6676
+                },
+                {
+                    "x": 0.1415,
+                    "y": 0.6676
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='8' style='font-size:14px'><tr><td>Function buttons</td><td>Default</td></tr><tr><td>AFON button</td><td>AF-ON</td></tr><tr><td>2 Center of rear command dial</td><td>FOCUS CHECK</td></tr><tr><td>3 Q(quick menu) button</td><td>QUICK MENU</td></tr><tr><td>4 AEL (exposure lock) button</td><td>AE LOCK ONLY</td></tr></table>",
+                "markdown": "| Function buttons | Default |\n| --- | --- |\n| AFON button | AF-ON |\n| 2 Center of rear command dial | FOCUS CHECK |\n| 3 Q(quick menu) button | QUICK MENU |\n| 4 AEL (exposure lock) button | AE LOCK ONLY |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1093,
+                    "y": 0.6935
+                },
+                {
+                    "x": 0.9169,
+                    "y": 0.6935
+                },
+                {
+                    "x": 0.9169,
+                    "y": 0.8283
+                },
+                {
+                    "x": 0.1093,
+                    "y": 0.8283
+                }
+            ],
+            "id": 8,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<br><footer id='9' style='font-size:22px'>Shortcuts<br>10</footer>",
+                "markdown": "Shortcuts\n10",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9577,
+                    "y": 0.6797
+                },
+                {
+                    "x": 0.9845,
+                    "y": 0.6797
+                },
+                {
+                    "x": 0.9845,
+                    "y": 0.8008
+                },
+                {
+                    "x": 0.9577,
+                    "y": 0.8008
+                }
+            ],
+            "id": 9,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='10' style='font-size:20px'>321</footer>",
+                "markdown": "321",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.8606,
+                    "y": 0.9563
+                },
+                {
+                    "x": 0.9147,
+                    "y": 0.9563
+                },
+                {
+                    "x": 0.9147,
+                    "y": 0.9795
+                },
+                {
+                    "x": 0.8606,
+                    "y": 0.9795
+                }
+            ],
+            "id": 10,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

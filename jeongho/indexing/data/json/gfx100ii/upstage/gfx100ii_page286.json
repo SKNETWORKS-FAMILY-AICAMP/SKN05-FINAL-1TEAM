@@ -1,0 +1,434 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:22px'>Network/USB<br>Setting<br>Menus</header>\n<br><h1 id='1' style='font-size:16px'>5 Choose whether to use a proxy serv-<br>er.<br>In this case we'll choose DISABLE.</h1>\n<header id='2' style='font-size:14px'>8</header>\n<br><p id='3' data-category='paragraph' style='font-size:16px'>Choose ENABLE to enter the address<br>and port number for a proxy server.</p>\n<h1 id='4' style='font-size:20px'>6 Choose whether to enable PASV<br>mode.</h1>\n<p id='5' data-category='paragraph' style='font-size:20px'>7 Select USER NAME & PASSWORD.</p>\n<br><p id='6' data-category='paragraph' style='font-size:18px'>Enter the user name and password<br>used for login to the FTP server.</p>\n<p id='7' data-category='list' style='font-size:16px'>For connection to servers that do not<br>require a user name and password,<br>select ANONYMOUS.<br>● Selecting FTPS for FTP SERVER<br>TYPE lets you choose the authen-<br>tication method. If desired, you can<br>load a self-signed root certificate<br>using FTP OPTIONAL SETTING ><br>ROOT CERTIFICATE.</p>\n<br><figure id='8' data-category='chart'><img style='font-size:14px' alt=\"PROXY SERVER \nENABLE \nDISABLE \n\" data-coord=\"top-left:(1707,275); bottom-right:(2462,847)\" /></figure>\n<table id='9' style='font-size:14px'><tr><td>PASSIVE MODE ENABLE</td><td></td></tr><tr><td>DISABLE</td><td></td></tr></table>\n<table id='10' style='font-size:14px'><tr><td>LOGIN ANONYMOUS</td></tr><tr><td>USER NAME & PASSWORD</td></tr></table>\n<p id='11' data-category='paragraph' style='font-size:20px'>8 Choose the destination folder.</p>\n<br><p id='12' data-category='list' style='font-size:18px'>● Choose ROOT FOLDER to upload<br>pictures to the server's root direc-<br>tory.<br>● To select a different folder, choose<br>SPECIFY FOLDER.</p>\n<br><table id='13' style='font-size:14px'><tr><td>SPECIFY TARGET ROOT FOLDER</td><td>FOLDER</td></tr><tr><td>SPECIFY FOLDER</td><td></td></tr></table>\n<footer id='14' style='font-size:22px'>286</footer>",
+        "markdown": "Network/USB\nSetting\nMenus\n\n# 5 Choose whether to use a proxy serv-\ner.\nIn this case we'll choose DISABLE.\n\n8\n\nChoose ENABLE to enter the address\nand port number for a proxy server.\n\n# 6 Choose whether to enable PASV\nmode.\n\n7 Select USER NAME & PASSWORD.\n\nEnter the user name and password\nused for login to the FTP server.\n\n- For connection to servers that do not\n- require a user name and password,\n- select ANONYMOUS.\n- ● Selecting FTPS for FTP SERVER\n- TYPE lets you choose the authen-\n- tication method. If desired, you can\n- load a self-signed root certificate\n- using FTP OPTIONAL SETTING >\n- ROOT CERTIFICATE.\n\n\n![image](/image/placeholder)\nPROXY SERVER \nENABLE \nDISABLE \n\n\n| PASSIVE MODE ENABLE |  |\n| --- | --- |\n| DISABLE |  |\n\n\n| LOGIN ANONYMOUS |\n| --- |\n| USER NAME & PASSWORD |\n\n\n8 Choose the destination folder.\n\n- ● Choose ROOT FOLDER to upload\n- pictures to the server's root direc-\n- tory.\n- ● To select a different folder, choose\n- SPECIFY FOLDER.\n\n\n| SPECIFY TARGET ROOT FOLDER | FOLDER |\n| --- | --- |\n| SPECIFY FOLDER |  |\n\n\n286",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:22px'>Network/USB<br>Setting<br>Menus</header>",
+                "markdown": "Network/USB\nSetting\nMenus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0182,
+                    "y": 0.4287
+                },
+                {
+                    "x": 0.0404,
+                    "y": 0.4287
+                },
+                {
+                    "x": 0.0404,
+                    "y": 0.6375
+                },
+                {
+                    "x": 0.0182,
+                    "y": 0.6375
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='1' style='font-size:16px'>5 Choose whether to use a proxy serv-<br>er.<br>In this case we'll choose DISABLE.</h1>",
+                "markdown": "# 5 Choose whether to use a proxy serv-\ner.\nIn this case we'll choose DISABLE.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.099,
+                    "y": 0.0719
+                },
+                {
+                    "x": 0.6014,
+                    "y": 0.0719
+                },
+                {
+                    "x": 0.6014,
+                    "y": 0.1487
+                },
+                {
+                    "x": 0.099,
+                    "y": 0.1487
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='2' style='font-size:14px'>8</header>",
+                "markdown": "8",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0257,
+                    "y": 0.6576
+                },
+                {
+                    "x": 0.0443,
+                    "y": 0.6576
+                },
+                {
+                    "x": 0.0443,
+                    "y": 0.6777
+                },
+                {
+                    "x": 0.0257,
+                    "y": 0.6777
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='3' data-category='paragraph' style='font-size:16px'>Choose ENABLE to enter the address<br>and port number for a proxy server.</p>",
+                "markdown": "Choose ENABLE to enter the address\nand port number for a proxy server.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1599,
+                    "y": 0.1621
+                },
+                {
+                    "x": 0.5952,
+                    "y": 0.1621
+                },
+                {
+                    "x": 0.5952,
+                    "y": 0.2078
+                },
+                {
+                    "x": 0.1599,
+                    "y": 0.2078
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='4' style='font-size:20px'>6 Choose whether to enable PASV<br>mode.</h1>",
+                "markdown": "# 6 Choose whether to enable PASV\nmode.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0985,
+                    "y": 0.2302
+                },
+                {
+                    "x": 0.6027,
+                    "y": 0.2302
+                },
+                {
+                    "x": 0.6027,
+                    "y": 0.279
+                },
+                {
+                    "x": 0.0985,
+                    "y": 0.279
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='5' data-category='paragraph' style='font-size:20px'>7 Select USER NAME & PASSWORD.</p>",
+                "markdown": "7 Select USER NAME & PASSWORD.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0994,
+                    "y": 0.3893
+                },
+                {
+                    "x": 0.563,
+                    "y": 0.3893
+                },
+                {
+                    "x": 0.563,
+                    "y": 0.4113
+                },
+                {
+                    "x": 0.0994,
+                    "y": 0.4113
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='6' data-category='paragraph' style='font-size:18px'>Enter the user name and password<br>used for login to the FTP server.</p>",
+                "markdown": "Enter the user name and password\nused for login to the FTP server.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1176,
+                    "y": 0.408
+                },
+                {
+                    "x": 0.6,
+                    "y": 0.408
+                },
+                {
+                    "x": 0.6,
+                    "y": 0.4637
+                },
+                {
+                    "x": 0.1176,
+                    "y": 0.4637
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "list",
+            "content": {
+                "html": "<p id='7' data-category='list' style='font-size:16px'>For connection to servers that do not<br>require a user name and password,<br>select ANONYMOUS.<br>● Selecting FTPS for FTP SERVER<br>TYPE lets you choose the authen-<br>tication method. If desired, you can<br>load a self-signed root certificate<br>using FTP OPTIONAL SETTING ><br>ROOT CERTIFICATE.</p>",
+                "markdown": "- For connection to servers that do not\n- require a user name and password,\n- select ANONYMOUS.\n- ● Selecting FTPS for FTP SERVER\n- TYPE lets you choose the authen-\n- tication method. If desired, you can\n- load a self-signed root certificate\n- using FTP OPTIONAL SETTING >\n- ROOT CERTIFICATE.\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1653,
+                    "y": 0.4777
+                },
+                {
+                    "x": 0.6,
+                    "y": 0.4777
+                },
+                {
+                    "x": 0.6,
+                    "y": 0.6858
+                },
+                {
+                    "x": 0.1653,
+                    "y": 0.6858
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "figure",
+            "content": {
+                "html": "<br><figure id='8' data-category='chart'><img style='font-size:14px' alt=\"PROXY SERVER \nENABLE \nDISABLE \n\" data-coord=\"top-left:(1707,275); bottom-right:(2462,847)\" /></figure>",
+                "markdown": "![image](/image/placeholder)\nPROXY SERVER \nENABLE \nDISABLE \n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6178,
+                    "y": 0.0708
+                },
+                {
+                    "x": 0.8909,
+                    "y": 0.0708
+                },
+                {
+                    "x": 0.8909,
+                    "y": 0.2174
+                },
+                {
+                    "x": 0.6178,
+                    "y": 0.2174
+                }
+            ],
+            "id": 8,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='9' style='font-size:14px'><tr><td>PASSIVE MODE ENABLE</td><td></td></tr><tr><td>DISABLE</td><td></td></tr></table>",
+                "markdown": "| PASSIVE MODE ENABLE |  |\n| --- | --- |\n| DISABLE |  |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6177,
+                    "y": 0.2304
+                },
+                {
+                    "x": 0.8902,
+                    "y": 0.2304
+                },
+                {
+                    "x": 0.8902,
+                    "y": 0.3762
+                },
+                {
+                    "x": 0.6177,
+                    "y": 0.3762
+                }
+            ],
+            "id": 9,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='10' style='font-size:14px'><tr><td>LOGIN ANONYMOUS</td></tr><tr><td>USER NAME & PASSWORD</td></tr></table>",
+                "markdown": "| LOGIN ANONYMOUS |\n| --- |\n| USER NAME & PASSWORD |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.617,
+                    "y": 0.3885
+                },
+                {
+                    "x": 0.8908,
+                    "y": 0.3885
+                },
+                {
+                    "x": 0.8908,
+                    "y": 0.5366
+                },
+                {
+                    "x": 0.617,
+                    "y": 0.5366
+                }
+            ],
+            "id": 10,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='11' data-category='paragraph' style='font-size:20px'>8 Choose the destination folder.</p>",
+                "markdown": "8 Choose the destination folder.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1006,
+                    "y": 0.7048
+                },
+                {
+                    "x": 0.5158,
+                    "y": 0.7048
+                },
+                {
+                    "x": 0.5158,
+                    "y": 0.7286
+                },
+                {
+                    "x": 0.1006,
+                    "y": 0.7286
+                }
+            ],
+            "id": 11,
+            "page": 1
+        },
+        {
+            "category": "list",
+            "content": {
+                "html": "<br><p id='12' data-category='list' style='font-size:18px'>● Choose ROOT FOLDER to upload<br>pictures to the server's root direc-<br>tory.<br>● To select a different folder, choose<br>SPECIFY FOLDER.</p>",
+                "markdown": "- ● Choose ROOT FOLDER to upload\n- pictures to the server's root direc-\n- tory.\n- ● To select a different folder, choose\n- SPECIFY FOLDER.\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1289,
+                    "y": 0.7296
+                },
+                {
+                    "x": 0.6065,
+                    "y": 0.7296
+                },
+                {
+                    "x": 0.6065,
+                    "y": 0.8565
+                },
+                {
+                    "x": 0.1289,
+                    "y": 0.8565
+                }
+            ],
+            "id": 12,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='13' style='font-size:14px'><tr><td>SPECIFY TARGET ROOT FOLDER</td><td>FOLDER</td></tr><tr><td>SPECIFY FOLDER</td><td></td></tr></table>",
+                "markdown": "| SPECIFY TARGET ROOT FOLDER | FOLDER |\n| --- | --- |\n| SPECIFY FOLDER |  |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6199,
+                    "y": 0.7043
+                },
+                {
+                    "x": 0.8903,
+                    "y": 0.7043
+                },
+                {
+                    "x": 0.8903,
+                    "y": 0.8555
+                },
+                {
+                    "x": 0.6199,
+                    "y": 0.8555
+                }
+            ],
+            "id": 13,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='14' style='font-size:22px'>286</footer>",
+                "markdown": "286",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0825,
+                    "y": 0.9566
+                },
+                {
+                    "x": 0.1404,
+                    "y": 0.9566
+                },
+                {
+                    "x": 0.1404,
+                    "y": 0.9801
+                },
+                {
+                    "x": 0.0825,
+                    "y": 0.9801
+                }
+            ],
+            "id": 14,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

@@ -1,0 +1,322 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:14px'>5</header>\n<br><h1 id='1' style='font-size:20px'>Autofocus</h1>\n<br><h1 id='2' style='font-size:18px'>Take pictures using autofocus.</h1>\n<p id='3' data-category='paragraph' style='font-size:14px'>1 Rotate the focus mode selector to S<br>or C ( ≡ 83).</p>\n<br><figure id='4'><img alt=\"\" data-coord=\"top-left:(1659,597); bottom-right:(2470,1173)\" /></figure>\n<br><p id='5' data-category='list' style='font-size:16px'>2 Choose an AF mode ( ≡ 85).</p>\n<p id='6' data-category='list' style='font-size:18px'>3 Choose the position and size of the<br>focus frame ( == 87).</p>\n<br><figure id='7'><img alt=\"\" data-coord=\"top-left:(1678,1348); bottom-right:(2469,1934)\" /><br><figcaption id='8' style='font-size:20px'>4 Take pictures.</figcaption></figure>\n\n<br><header id='9' style='font-size:22px'>Taking<br>Photographs</header>\n<footer id='10' style='font-size:16px'>82</footer>",
+        "markdown": "5\n\n# Autofocus\n\n# Take pictures using autofocus.\n\n1 Rotate the focus mode selector to S\nor C ( ≡ 83).\n\n![image](/image/placeholder)\n\n\n- 2 Choose an AF mode ( ≡ 85).\n\n\n- 3 Choose the position and size of the\n- focus frame ( == 87).\n\n\n![image](/image/placeholder)\n\n\n4 Take pictures.\n\nTaking\nPhotographs\n\n82",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:14px'>5</header>",
+                "markdown": "5",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.025,
+                    "y": 0.4775
+                },
+                {
+                    "x": 0.0436,
+                    "y": 0.4775
+                },
+                {
+                    "x": 0.0436,
+                    "y": 0.4984
+                },
+                {
+                    "x": 0.025,
+                    "y": 0.4984
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='1' style='font-size:20px'>Autofocus</h1>",
+                "markdown": "# Autofocus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1536,
+                    "y": 0.0736
+                },
+                {
+                    "x": 0.3327,
+                    "y": 0.0736
+                },
+                {
+                    "x": 0.3327,
+                    "y": 0.0993
+                },
+                {
+                    "x": 0.1536,
+                    "y": 0.0993
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='2' style='font-size:18px'>Take pictures using autofocus.</h1>",
+                "markdown": "# Take pictures using autofocus.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1517,
+                    "y": 0.1097
+                },
+                {
+                    "x": 0.5381,
+                    "y": 0.1097
+                },
+                {
+                    "x": 0.5381,
+                    "y": 0.1333
+                },
+                {
+                    "x": 0.1517,
+                    "y": 0.1333
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='3' data-category='paragraph' style='font-size:14px'>1 Rotate the focus mode selector to S<br>or C ( ≡ 83).</p>",
+                "markdown": "1 Rotate the focus mode selector to S\nor C ( ≡ 83).",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0966,
+                    "y": 0.155
+                },
+                {
+                    "x": 0.6104,
+                    "y": 0.155
+                },
+                {
+                    "x": 0.6104,
+                    "y": 0.2053
+                },
+                {
+                    "x": 0.0966,
+                    "y": 0.2053
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "figure",
+            "content": {
+                "html": "<br><figure id='4'><img alt=\"\" data-coord=\"top-left:(1659,597); bottom-right:(2470,1173)\" /></figure>",
+                "markdown": "![image](/image/placeholder)\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6005,
+                    "y": 0.1534
+                },
+                {
+                    "x": 0.8937,
+                    "y": 0.1534
+                },
+                {
+                    "x": 0.8937,
+                    "y": 0.301
+                },
+                {
+                    "x": 0.6005,
+                    "y": 0.301
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "list",
+            "content": {
+                "html": "<br><p id='5' data-category='list' style='font-size:16px'>2 Choose an AF mode ( ≡ 85).</p>",
+                "markdown": "- 2 Choose an AF mode ( ≡ 85).\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0989,
+                    "y": 0.3074
+                },
+                {
+                    "x": 0.4938,
+                    "y": 0.3074
+                },
+                {
+                    "x": 0.4938,
+                    "y": 0.3338
+                },
+                {
+                    "x": 0.0989,
+                    "y": 0.3338
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "list",
+            "content": {
+                "html": "<p id='6' data-category='list' style='font-size:18px'>3 Choose the position and size of the<br>focus frame ( == 87).</p>",
+                "markdown": "- 3 Choose the position and size of the\n- focus frame ( == 87).\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.097,
+                    "y": 0.3462
+                },
+                {
+                    "x": 0.6028,
+                    "y": 0.3462
+                },
+                {
+                    "x": 0.6028,
+                    "y": 0.3971
+                },
+                {
+                    "x": 0.097,
+                    "y": 0.3971
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "figure",
+            "content": {
+                "html": "<br><figure id='7'><img alt=\"\" data-coord=\"top-left:(1678,1348); bottom-right:(2469,1934)\" /></figure>",
+                "markdown": "![image](/image/placeholder)\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6072,
+                    "y": 0.346
+                },
+                {
+                    "x": 0.8936,
+                    "y": 0.346
+                },
+                {
+                    "x": 0.8936,
+                    "y": 0.4963
+                },
+                {
+                    "x": 0.6072,
+                    "y": 0.4963
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='8' data-category='paragraph' style='font-size:20px'>4 Take pictures.</p>",
+                "markdown": "4 Take pictures.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0975,
+                    "y": 0.5058
+                },
+                {
+                    "x": 0.309,
+                    "y": 0.5058
+                },
+                {
+                    "x": 0.309,
+                    "y": 0.53
+                },
+                {
+                    "x": 0.0975,
+                    "y": 0.53
+                }
+            ],
+            "id": 8,
+            "page": 1
+        },
+        {
+            "category": "header",
+            "content": {
+                "html": "<br><header id='9' style='font-size:22px'>Taking<br>Photographs</header>",
+                "markdown": "Taking\nPhotographs",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.016,
+                    "y": 0.5132
+                },
+                {
+                    "x": 0.0426,
+                    "y": 0.5132
+                },
+                {
+                    "x": 0.0426,
+                    "y": 0.6657
+                },
+                {
+                    "x": 0.016,
+                    "y": 0.6657
+                }
+            ],
+            "id": 9,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='10' style='font-size:16px'>82</footer>",
+                "markdown": "82",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.082,
+                    "y": 0.9561
+                },
+                {
+                    "x": 0.1221,
+                    "y": 0.9561
+                },
+                {
+                    "x": 0.1221,
+                    "y": 0.9796
+                },
+                {
+                    "x": 0.082,
+                    "y": 0.9796
+                }
+            ],
+            "id": 10,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

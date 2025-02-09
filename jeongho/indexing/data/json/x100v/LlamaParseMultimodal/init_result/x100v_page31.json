@@ -1,0 +1,89 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "# The Indicator Lamp\n\nCamera status is shown by the indicator lamp.\n\n!Indicator Lamp\n\n| Indicator Lamp          | Camera Status                                                                 |\n|-------------------------|-------------------------------------------------------------------------------|\n| Glows green             | Focus locked.                                                                 |\n| Blinks green            | Focus or slow shutter speed warning. Pictures can be taken.                   |\n| Blinks green and orange | - **Camera on:** Recording pictures. Additional pictures can be taken.        |\n|                         | - **Camera off:** Uploading pictures to a smartphone or tablet.*              |\n| Glows orange            | Recording pictures. No additional pictures can be taken at this time.         |\n| Blinks red              | Lens or memory error.                                                         |\n\n*Displayed only if pictures are selected for upload.\n\n> 💡 **Note:**\n> - Warnings may also appear in the display.\n> - The indicator lamp remains off while your eye is to the viewfinder.\n> - The **MOVIE SETTING > TALLY LIGHT** option can be used to choose the lamp (indicator or AF-assist) that lights during movie recording and whether the lamp blinks or remains steady.",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "The Indicator Lamp",
+                    "md": "# The Indicator Lamp"
+                },
+                {
+                    "type": "text",
+                    "value": "Camera status is shown by the indicator lamp.\n\n!Indicator Lamp",
+                    "md": "Camera status is shown by the indicator lamp.\n\n!Indicator Lamp"
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Indicator Lamp",
+                            "Camera Status"
+                        ],
+                        [
+                            "Glows green",
+                            "Focus locked."
+                        ],
+                        [
+                            "Blinks green",
+                            "Focus or slow shutter speed warning. Pictures can be taken."
+                        ],
+                        [
+                            "Blinks green and orange",
+                            "- **Camera on:** Recording pictures. Additional pictures can be taken."
+                        ],
+                        [
+                            "",
+                            "- **Camera off:** Uploading pictures to a smartphone or tablet.*"
+                        ],
+                        [
+                            "Glows orange",
+                            "Recording pictures. No additional pictures can be taken at this time."
+                        ],
+                        [
+                            "Blinks red",
+                            "Lens or memory error."
+                        ]
+                    ],
+                    "md": "| Indicator Lamp          | Camera Status                                                                 |\n|-------------------------|-------------------------------------------------------------------------------|\n| Glows green             | Focus locked.                                                                 |\n| Blinks green            | Focus or slow shutter speed warning. Pictures can be taken.                   |\n| Blinks green and orange | - **Camera on:** Recording pictures. Additional pictures can be taken.        |\n|                         | - **Camera off:** Uploading pictures to a smartphone or tablet.*              |\n| Glows orange            | Recording pictures. No additional pictures can be taken at this time.         |\n| Blinks red              | Lens or memory error.                                                         |",
+                    "isPerfectTable": true,
+                    "csv": "\"Indicator Lamp\",\"Camera Status\"\n\"Glows green\",\"Focus locked.\"\n\"Blinks green\",\"Focus or slow shutter speed warning. Pictures can be taken.\"\n\"Blinks green and orange\",\"- **Camera on:** Recording pictures. Additional pictures can be taken.\"\n\"\",\"- **Camera off:** Uploading pictures to a smartphone or tablet.*\"\n\"Glows orange\",\"Recording pictures. No additional pictures can be taken at this time.\"\n\"Blinks red\",\"Lens or memory error.\""
+                },
+                {
+                    "type": "text",
+                    "value": "*Displayed only if pictures are selected for upload.\n\n> 💡 **Note:**\n> - Warnings may also appear in the display.\n> - The indicator lamp remains off while your eye is to the viewfinder.\n> - The **MOVIE SETTING > TALLY LIGHT** option can be used to choose the lamp (indicator or AF-assist) that lights during movie recording and whether the lamp blinks or remains steady.",
+                    "md": "*Displayed only if pictures are selected for upload.\n\n> 💡 **Note:**\n> - Warnings may also appear in the display.\n> - The indicator lamp remains off while your eye is to the viewfinder.\n> - The **MOVIE SETTING > TALLY LIGHT** option can be used to choose the lamp (indicator or AF-assist) that lights during movie recording and whether the lamp blinks or remains steady."
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 543.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "2d042a02-0905-4b56-9a30-fdad315f4862",
+    "file_path": "../data/raw_data/x100v/x100v_split/x100v_page31.pdf"
+}

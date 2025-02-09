@@ -1,0 +1,294 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:14px'>SAVE DATA SETTING</header>\n<h1 id='1' style='font-size:16px'>SELECT FOLDER</h1>\n\n<table id='3' style='font-size:14px'><tr><td>Option</td><td>Description</td></tr><tr><td>SELECT FOLDER</td><td>To choose the folder in which subsequent pictures will be stored, press the focus stick (focus lever) up or down to highlight an existing folder and press MENU/OK.</td></tr><tr><td>CREATE FOLDER</td><td>Enter a five-character folder name. The new folder will be created with the next picture you take and subsequent pictures will be stored in that folder.</td></tr><br><caption id='2' style='font-size:20px'>Create folders and choose the folder used to store subsequent<br>pictures.</caption></table>\n<p id='4' data-category='paragraph' style='font-size:18px'>COPYRIGHT INFO</p>\n\n<br><table id='6' style='font-size:16px'><tr><td>Option</td><td>Description</td></tr><tr><td>DISP COPYRIGHT INFO</td><td>View the current copyright information.</td></tr><tr><td>ENTER AUTHOR'S INFO</td><td>Enter the creator's name.</td></tr><tr><td>ENTER COPYRIGHT INFO</td><td>Enter the name of the copyright holder.</td></tr><tr><td>DELETE COPYRIGHT INFO</td><td>Delete the current copyright information. This change applies only to images taken after this option is selected; copyright information recorded with existing images is not affected.</td></tr><br><caption id='5' style='font-size:20px'>Copyright information, in the form of Exif tags, can be added to<br>new images as they are taken. Changes to copyright information<br>are reflected only in images taken after the changes are made.</caption></table>\n<br><header id='7' style='font-size:22px'>The<br>Setup<br>Menus</header>\n<header id='8' style='font-size:14px'>8</header>\n<footer id='9' style='font-size:20px'>236</footer>",
+        "markdown": "SAVE DATA SETTING\n\n# SELECT FOLDER\n\nCreate folders and choose the folder used to store subsequent\npictures.\n\n| Option | Description |\n| --- | --- |\n| SELECT FOLDER | To choose the folder in which subsequent pictures will be stored, press the focus stick (focus lever) up or down to highlight an existing folder and press MENU/OK. |\n| CREATE FOLDER | Enter a five-character folder name. The new folder will be created with the next picture you take and subsequent pictures will be stored in that folder. |\n\n\nCOPYRIGHT INFO\n\nCopyright information, in the form of Exif tags, can be added to\nnew images as they are taken. Changes to copyright information\nare reflected only in images taken after the changes are made.\n\n| Option | Description |\n| --- | --- |\n| DISP COPYRIGHT INFO | View the current copyright information. |\n| ENTER AUTHOR'S INFO | Enter the creator's name. |\n| ENTER COPYRIGHT INFO | Enter the name of the copyright holder. |\n| DELETE COPYRIGHT INFO | Delete the current copyright information. This change applies only to images taken after this option is selected; copyright information recorded with existing images is not affected. |\n\n\nThe\nSetup\nMenus\n\n8\n\n236",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:14px'>SAVE DATA SETTING</header>",
+                "markdown": "SAVE DATA SETTING",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6926,
+                    "y": 0.0289
+                },
+                {
+                    "x": 0.8923,
+                    "y": 0.0289
+                },
+                {
+                    "x": 0.8923,
+                    "y": 0.0489
+                },
+                {
+                    "x": 0.6926,
+                    "y": 0.0489
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='1' style='font-size:16px'>SELECT FOLDER</h1>",
+                "markdown": "# SELECT FOLDER",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0821,
+                    "y": 0.0732
+                },
+                {
+                    "x": 0.3031,
+                    "y": 0.0732
+                },
+                {
+                    "x": 0.3031,
+                    "y": 0.0943
+                },
+                {
+                    "x": 0.0821,
+                    "y": 0.0943
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='2' data-category='paragraph' style='font-size:20px'>Create folders and choose the folder used to store subsequent<br>pictures.</p>",
+                "markdown": "Create folders and choose the folder used to store subsequent\npictures.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0811,
+                    "y": 0.1046
+                },
+                {
+                    "x": 0.8938,
+                    "y": 0.1046
+                },
+                {
+                    "x": 0.8938,
+                    "y": 0.1531
+                },
+                {
+                    "x": 0.0811,
+                    "y": 0.1531
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='3' style='font-size:14px'><tr><td>Option</td><td>Description</td></tr><tr><td>SELECT FOLDER</td><td>To choose the folder in which subsequent pictures will be stored, press the focus stick (focus lever) up or down to highlight an existing folder and press MENU/OK.</td></tr><tr><td>CREATE FOLDER</td><td>Enter a five-character folder name. The new folder will be created with the next picture you take and subsequent pictures will be stored in that folder.</td></tr></table>",
+                "markdown": "| Option | Description |\n| --- | --- |\n| SELECT FOLDER | To choose the folder in which subsequent pictures will be stored, press the focus stick (focus lever) up or down to highlight an existing folder and press MENU/OK. |\n| CREATE FOLDER | Enter a five-character folder name. The new folder will be created with the next picture you take and subsequent pictures will be stored in that folder. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0842,
+                    "y": 0.1649
+                },
+                {
+                    "x": 0.8955,
+                    "y": 0.1649
+                },
+                {
+                    "x": 0.8955,
+                    "y": 0.333
+                },
+                {
+                    "x": 0.0842,
+                    "y": 0.333
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='4' data-category='paragraph' style='font-size:18px'>COPYRIGHT INFO</p>",
+                "markdown": "COPYRIGHT INFO",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0816,
+                    "y": 0.3502
+                },
+                {
+                    "x": 0.3224,
+                    "y": 0.3502
+                },
+                {
+                    "x": 0.3224,
+                    "y": 0.3725
+                },
+                {
+                    "x": 0.0816,
+                    "y": 0.3725
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='5' data-category='paragraph' style='font-size:20px'>Copyright information, in the form of Exif tags, can be added to<br>new images as they are taken. Changes to copyright information<br>are reflected only in images taken after the changes are made.</p>",
+                "markdown": "Copyright information, in the form of Exif tags, can be added to\nnew images as they are taken. Changes to copyright information\nare reflected only in images taken after the changes are made.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0807,
+                    "y": 0.3816
+                },
+                {
+                    "x": 0.8937,
+                    "y": 0.3816
+                },
+                {
+                    "x": 0.8937,
+                    "y": 0.4586
+                },
+                {
+                    "x": 0.0807,
+                    "y": 0.4586
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='6' style='font-size:16px'><tr><td>Option</td><td>Description</td></tr><tr><td>DISP COPYRIGHT INFO</td><td>View the current copyright information.</td></tr><tr><td>ENTER AUTHOR'S INFO</td><td>Enter the creator's name.</td></tr><tr><td>ENTER COPYRIGHT INFO</td><td>Enter the name of the copyright holder.</td></tr><tr><td>DELETE COPYRIGHT INFO</td><td>Delete the current copyright information. This change applies only to images taken after this option is selected; copyright information recorded with existing images is not affected.</td></tr></table>",
+                "markdown": "| Option | Description |\n| --- | --- |\n| DISP COPYRIGHT INFO | View the current copyright information. |\n| ENTER AUTHOR'S INFO | Enter the creator's name. |\n| ENTER COPYRIGHT INFO | Enter the name of the copyright holder. |\n| DELETE COPYRIGHT INFO | Delete the current copyright information. This change applies only to images taken after this option is selected; copyright information recorded with existing images is not affected. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0848,
+                    "y": 0.4693
+                },
+                {
+                    "x": 0.8932,
+                    "y": 0.4693
+                },
+                {
+                    "x": 0.8932,
+                    "y": 0.6379
+                },
+                {
+                    "x": 0.0848,
+                    "y": 0.6379
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "header",
+            "content": {
+                "html": "<br><header id='7' style='font-size:22px'>The<br>Setup<br>Menus</header>",
+                "markdown": "The\nSetup\nMenus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0184,
+                    "y": 0.5079
+                },
+                {
+                    "x": 0.0405,
+                    "y": 0.5079
+                },
+                {
+                    "x": 0.0405,
+                    "y": 0.6392
+                },
+                {
+                    "x": 0.0184,
+                    "y": 0.6392
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='8' style='font-size:14px'>8</header>",
+                "markdown": "8",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0259,
+                    "y": 0.6571
+                },
+                {
+                    "x": 0.0439,
+                    "y": 0.6571
+                },
+                {
+                    "x": 0.0439,
+                    "y": 0.6777
+                },
+                {
+                    "x": 0.0259,
+                    "y": 0.6777
+                }
+            ],
+            "id": 8,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='9' style='font-size:20px'>236</footer>",
+                "markdown": "236",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0828,
+                    "y": 0.9564
+                },
+                {
+                    "x": 0.1401,
+                    "y": 0.9564
+                },
+                {
+                    "x": 0.1401,
+                    "y": 0.9796
+                },
+                {
+                    "x": 0.0828,
+                    "y": 0.9796
+                }
+            ],
+            "id": 9,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

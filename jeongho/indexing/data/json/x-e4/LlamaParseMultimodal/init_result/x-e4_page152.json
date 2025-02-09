@@ -1,0 +1,133 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "# ZONE AREA SWITCHING\n\nThis parameter determines the focus area given priority in zone AF.\n\n!Zone Area Switching Menu\n\n| Option | Description |\n|--------|-------------|\n| FRONT  | Zone AF assigns priority to the subjects closest to the camera. |\n| AUTO   | The camera locks focus on the subject at the center of the zone and then switches focus areas as necessary to track it. |\n| CENTER | Zone AF assigns priority to subjects in the center of the zone. |\n\n> 💡 **Note:**  \n> This option takes effect only when [🔲] ZONE is selected for AF mode.\n\n## Set Values\n\nParameter values for the different sets are listed below.\n\n| AF-C CUSTOM SETTINGS | TRACKING SENSITIVITY | SPEED TRACKING SENSITIVITY | ZONE AREA SWITCHING |\n|----------------------|----------------------|----------------------------|---------------------|\n| SET 1                | 2                    | 0                          | AUTO                |\n| SET 2                | 3                    | 0                          | CENTER              |\n| SET 3                | 2                    | 2                          | AUTO                |\n| SET 4                | 0                    | 1                          | FRONT               |\n| SET 5                | 3                    | 2                          | AUTO                |",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "ZONE AREA SWITCHING",
+                    "md": "# ZONE AREA SWITCHING"
+                },
+                {
+                    "type": "text",
+                    "value": "This parameter determines the focus area given priority in zone AF.\n\n!Zone Area Switching Menu",
+                    "md": "This parameter determines the focus area given priority in zone AF.\n\n!Zone Area Switching Menu"
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Option",
+                            "Description"
+                        ],
+                        [
+                            "FRONT",
+                            "Zone AF assigns priority to the subjects closest to the camera."
+                        ],
+                        [
+                            "AUTO",
+                            "The camera locks focus on the subject at the center of the zone and then switches focus areas as necessary to track it."
+                        ],
+                        [
+                            "CENTER",
+                            "Zone AF assigns priority to subjects in the center of the zone."
+                        ]
+                    ],
+                    "md": "| Option | Description |\n|--------|-------------|\n| FRONT  | Zone AF assigns priority to the subjects closest to the camera. |\n| AUTO   | The camera locks focus on the subject at the center of the zone and then switches focus areas as necessary to track it. |\n| CENTER | Zone AF assigns priority to subjects in the center of the zone. |",
+                    "isPerfectTable": true,
+                    "csv": "\"Option\",\"Description\"\n\"FRONT\",\"Zone AF assigns priority to the subjects closest to the camera.\"\n\"AUTO\",\"The camera locks focus on the subject at the center of the zone and then switches focus areas as necessary to track it.\"\n\"CENTER\",\"Zone AF assigns priority to subjects in the center of the zone.\""
+                },
+                {
+                    "type": "text",
+                    "value": "> 💡 **Note:**  \n> This option takes effect only when [🔲] ZONE is selected for AF mode.",
+                    "md": "> 💡 **Note:**  \n> This option takes effect only when [🔲] ZONE is selected for AF mode."
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "Set Values",
+                    "md": "## Set Values"
+                },
+                {
+                    "type": "text",
+                    "value": "Parameter values for the different sets are listed below.",
+                    "md": "Parameter values for the different sets are listed below."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "AF-C CUSTOM SETTINGS",
+                            "TRACKING SENSITIVITY",
+                            "SPEED TRACKING SENSITIVITY",
+                            "ZONE AREA SWITCHING"
+                        ],
+                        [
+                            "SET 1",
+                            "2",
+                            "0",
+                            "AUTO"
+                        ],
+                        [
+                            "SET 2",
+                            "3",
+                            "0",
+                            "CENTER"
+                        ],
+                        [
+                            "SET 3",
+                            "2",
+                            "2",
+                            "AUTO"
+                        ],
+                        [
+                            "SET 4",
+                            "0",
+                            "1",
+                            "FRONT"
+                        ],
+                        [
+                            "SET 5",
+                            "3",
+                            "2",
+                            "AUTO"
+                        ]
+                    ],
+                    "md": "| AF-C CUSTOM SETTINGS | TRACKING SENSITIVITY | SPEED TRACKING SENSITIVITY | ZONE AREA SWITCHING |\n|----------------------|----------------------|----------------------------|---------------------|\n| SET 1                | 2                    | 0                          | AUTO                |\n| SET 2                | 3                    | 0                          | CENTER              |\n| SET 3                | 2                    | 2                          | AUTO                |\n| SET 4                | 0                    | 1                          | FRONT               |\n| SET 5                | 3                    | 2                          | AUTO                |",
+                    "isPerfectTable": true,
+                    "csv": "\"AF-C CUSTOM SETTINGS\",\"TRACKING SENSITIVITY\",\"SPEED TRACKING SENSITIVITY\",\"ZONE AREA SWITCHING\"\n\"SET 1\",\"2\",\"0\",\"AUTO\"\n\"SET 2\",\"3\",\"0\",\"CENTER\"\n\"SET 3\",\"2\",\"2\",\"AUTO\"\n\"SET 4\",\"0\",\"1\",\"FRONT\"\n\"SET 5\",\"3\",\"2\",\"AUTO\""
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "parsingMode": "multimodal-openai-gpt4o",
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 291.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "67d96286-7576-4339-8e5e-f7cc939b0c27",
+    "file_path": "../data/raw_data/x-e4/x-e4_split/x-e4_page152.pdf"
+}

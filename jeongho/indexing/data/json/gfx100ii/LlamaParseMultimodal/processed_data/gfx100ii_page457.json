@@ -1,0 +1,13 @@
+{
+    "parsing_result": "\n# Errors\n\nIf a !Error Icon or !Error Icon icon appears in the display, select **INFORMATION > ERROR DESCRIPTION** in the network/USB setting menu to view the error and then take the appropriate action.\n\n| Error                                                                 | Solution                                                                                                                                                                                                 |\n|-----------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| **NOT CONNECTED TO NETWORK VIA ETHERNET CABLE**                       | The wired LAN (Ethernet) cable is not connected: Connect the wired LAN (Ethernet) cable.                                                                                                                                                        |\n| **NOT CONNECTED TO NETWORK VIA WIRELESS LAN**                         | - **No connection to access point:** Confirm that the access point is on, verify its settings and IP address, and check that there are no obstructions blocking its signal. If necessary, move the camera closer to the access point.            |\n|                                                                       | - **Camera settings have not been correctly adjusted for connection to the access point:** Check that the password, encryption type, and SSID match those chosen for the access point.                                                          |\n| **IP ADDRESS CANNOT BE ASSIGNED BY DHCP SERVER OR THERE IS AN ISSUE WITH IP ADDRESS SETTING PLEASE CHECK SETTINGS** | - **No DHCP server:** If there is no DHCP server on the network, enter the IP address and other information manually.                                                                                                                           |\n|                                                                       | - **The DHCP server is down:** Contact the network administrator.                                                                                                                                                                              |\n",
+    "embedding_result": [],
+    "metadata": {
+        "page": 457,
+        "model": "gfx100ii",
+        "chapter": "Technical Notes",
+        "section": "Errors",
+        "subsection": [
+            "Errors"
+        ]
+    }
+}

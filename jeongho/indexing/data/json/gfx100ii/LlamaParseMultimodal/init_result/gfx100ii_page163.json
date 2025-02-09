@@ -1,0 +1,87 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "# IMAGE QUALITY SETTING (Still Photography)\n\n## D RANGE PRIORITY\n\nReduce loss of detail in highlights and shadows for natural-looking results when photographing high-contrast scenes.\n\n| Option | Description |\n|--------|-------------|\n| **AUTO** | Contrast is adjusted automatically in response to lighting conditions. |\n| **STRONG** | Adjust dynamic range by a large amount for very high-contrast scenes. |\n| **WEAK** | Adjust dynamic range by a smaller amount for moderately high-contrast scenes. |\n| **OFF** | Contrast reduction off. |\n\n> 💡 **Note:**\n> - **WEAK** is available at sensitivities from ISO 160 to ISO 12800, **STRONG** at sensitivities from ISO 320 to 12800.\n> - When an option other than **OFF** is selected, TONE CURVE and DYNAMIC RANGE will be adjusted automatically; if you wish to adjust these settings manually, choose **OFF**.",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "IMAGE QUALITY SETTING (Still Photography)",
+                    "md": "# IMAGE QUALITY SETTING (Still Photography)"
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "D RANGE PRIORITY",
+                    "md": "## D RANGE PRIORITY"
+                },
+                {
+                    "type": "text",
+                    "value": "Reduce loss of detail in highlights and shadows for natural-looking results when photographing high-contrast scenes.",
+                    "md": "Reduce loss of detail in highlights and shadows for natural-looking results when photographing high-contrast scenes."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Option",
+                            "Description"
+                        ],
+                        [
+                            "**AUTO**",
+                            "Contrast is adjusted automatically in response to lighting conditions."
+                        ],
+                        [
+                            "**STRONG**",
+                            "Adjust dynamic range by a large amount for very high-contrast scenes."
+                        ],
+                        [
+                            "**WEAK**",
+                            "Adjust dynamic range by a smaller amount for moderately high-contrast scenes."
+                        ],
+                        [
+                            "**OFF**",
+                            "Contrast reduction off."
+                        ]
+                    ],
+                    "md": "| Option | Description |\n|--------|-------------|\n| **AUTO** | Contrast is adjusted automatically in response to lighting conditions. |\n| **STRONG** | Adjust dynamic range by a large amount for very high-contrast scenes. |\n| **WEAK** | Adjust dynamic range by a smaller amount for moderately high-contrast scenes. |\n| **OFF** | Contrast reduction off. |",
+                    "isPerfectTable": true,
+                    "csv": "\"Option\",\"Description\"\n\"**AUTO**\",\"Contrast is adjusted automatically in response to lighting conditions.\"\n\"**STRONG**\",\"Adjust dynamic range by a large amount for very high-contrast scenes.\"\n\"**WEAK**\",\"Adjust dynamic range by a smaller amount for moderately high-contrast scenes.\"\n\"**OFF**\",\"Contrast reduction off.\""
+                },
+                {
+                    "type": "text",
+                    "value": "> 💡 **Note:**\n> - **WEAK** is available at sensitivities from ISO 160 to ISO 12800, **STRONG** at sensitivities from ISO 320 to 12800.\n> - When an option other than **OFF** is selected, TONE CURVE and DYNAMIC RANGE will be adjusted automatically; if you wish to adjust these settings manually, choose **OFF**.",
+                    "md": "> 💡 **Note:**\n> - **WEAK** is available at sensitivities from ISO 160 to ISO 12800, **STRONG** at sensitivities from ISO 320 to 12800.\n> - When an option other than **OFF** is selected, TONE CURVE and DYNAMIC RANGE will be adjusted automatically; if you wish to adjust these settings manually, choose **OFF**."
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 332.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "5b57773a-6a6d-4f4d-a97f-2d2d4c53dd01",
+    "file_path": "../data/raw_data/gfx100ii/gfx100ii_split/gfx100ii_page163.pdf"
+}

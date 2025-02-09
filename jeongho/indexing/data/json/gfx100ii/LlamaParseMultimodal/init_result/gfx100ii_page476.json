@@ -1,0 +1,96 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "# Wireless Transfer\n\nFor additional information on troubleshooting wireless connections, visit:  \nhttps://digitalcamera-support-en.fujifilm.com/\n\n| Problem | Solution |\n|---------|----------|\n| **Cannot connect to smartphone. The camera is slow to connect or upload pictures to the smartphone. Upload fails or is interrupted.** | - **The smartphone is too far away:** Move the devices closer.  \n- **Nearby devices are causing radio interference:** Move the camera and smartphone away from microwave ovens or cordless phones. |\n| **Cannot upload images.** | - **The smartphone is connected to another device:** The smartphone and camera can connect to only one device at a time. End the connection and try again.  \n- **There are several smartphones in the vicinity:** Try connecting again. The presence of multiple smartphones can make connection difficult.  \n- **The image was created on another device:** The camera may not be able to upload images created on other devices.  \n- **The image is a movie:** Uploading movies takes some time. In addition, smartphones may not accept upload of movies in formats they do not support. |\n| **Smartphone will not display pictures.** | Select **ON** for **Bluetooth/SMARTPHONE SETTING > RESIZE IMAGE FOR SMARTPHONE**. Selecting **OFF** increases upload times for larger images; in addition, some phones may not display images over a certain size. |",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "Wireless Transfer",
+                    "md": "# Wireless Transfer"
+                },
+                {
+                    "type": "text",
+                    "value": "For additional information on troubleshooting wireless connections, visit:  \nhttps://digitalcamera-support-en.fujifilm.com/",
+                    "md": "For additional information on troubleshooting wireless connections, visit:  \nhttps://digitalcamera-support-en.fujifilm.com/"
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Problem",
+                            "Solution"
+                        ],
+                        [
+                            "**Cannot connect to smartphone. The camera is slow to connect or upload pictures to the smartphone. Upload fails or is interrupted.**"
+                        ]
+                    ],
+                    "md": "| Problem | Solution |\n|---------|----------|\n| **Cannot connect to smartphone. The camera is slow to connect or upload pictures to the smartphone. Upload fails or is interrupted.** | - **The smartphone is too far away:** Move the devices closer.",
+                    "isPerfectTable": false,
+                    "csv": "\"Problem\",\"Solution\"\n\"**Cannot connect to smartphone. The camera is slow to connect or upload pictures to the smartphone. Upload fails or is interrupted.**\""
+                },
+                {
+                    "type": "text",
+                    "value": "- **Nearby devices are causing radio interference:** Move the camera and smartphone away from microwave ovens or cordless phones. |",
+                    "md": "- **Nearby devices are causing radio interference:** Move the camera and smartphone away from microwave ovens or cordless phones. |"
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "**Cannot upload images.**"
+                        ]
+                    ],
+                    "md": "| **Cannot upload images.** | - **The smartphone is connected to another device:** The smartphone and camera can connect to only one device at a time. End the connection and try again.",
+                    "isPerfectTable": true,
+                    "csv": "\"**Cannot upload images.**\""
+                },
+                {
+                    "type": "text",
+                    "value": "- **There are several smartphones in the vicinity:** Try connecting again. The presence of multiple smartphones can make connection difficult.  \n- **The image was created on another device:** The camera may not be able to upload images created on other devices.  \n- **The image is a movie:** Uploading movies takes some time. In addition, smartphones may not accept upload of movies in formats they do not support. |",
+                    "md": "- **There are several smartphones in the vicinity:** Try connecting again. The presence of multiple smartphones can make connection difficult.  \n- **The image was created on another device:** The camera may not be able to upload images created on other devices.  \n- **The image is a movie:** Uploading movies takes some time. In addition, smartphones may not accept upload of movies in formats they do not support. |"
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "**Smartphone will not display pictures.**",
+                            "Select **ON** for **Bluetooth/SMARTPHONE SETTING > RESIZE IMAGE FOR SMARTPHONE**. Selecting **OFF** increases upload times for larger images; in addition, some phones may not display images over a certain size."
+                        ]
+                    ],
+                    "md": "| **Smartphone will not display pictures.** | Select **ON** for **Bluetooth/SMARTPHONE SETTING > RESIZE IMAGE FOR SMARTPHONE**. Selecting **OFF** increases upload times for larger images; in addition, some phones may not display images over a certain size. |",
+                    "isPerfectTable": true,
+                    "csv": "\"**Smartphone will not display pictures.**\",\"Select **ON** for **Bluetooth/SMARTPHONE SETTING > RESIZE IMAGE FOR SMARTPHONE**. Selecting **OFF** increases upload times for larger images; in addition, some phones may not display images over a certain size.\""
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 217.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "0bf9156a-1895-4af2-8417-8777d3f42bb6",
+    "file_path": "../data/raw_data/gfx100ii/gfx100ii_split/gfx100ii_page476.pdf"
+}

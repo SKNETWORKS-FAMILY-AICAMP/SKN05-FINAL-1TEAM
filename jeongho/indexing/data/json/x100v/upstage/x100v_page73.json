@@ -1,0 +1,378 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<h1 id='0' style='font-size:22px'>Manual Focus</h1>\n<br><h1 id='1' style='font-size:20px'>Adjust focus manually.</h1>\n<h1 id='2' style='font-size:16px'>1 Slide the focus mode selector to M.</h1>\n<br><figure id='3'><img style='font-size:14px' alt=\"· M\n· C\nS\" data-coord=\"top-left:(1745,616); bottom-right:(2526,1069)\" /></figure>\n\n<br><figure id='5'><img style='font-size:14px' alt=\"MF\n0.1 0.5 1.0 1.5 2.0 3.0 5.0 10 8m\nMF\" data-coord=\"top-left:(1759,1182); bottom-right:(2526,1701)\" /><figcaption id='4' style='font-size:18px'>MF will appear in the display.</figcaption></figure>\n<br><p id='6' data-category='paragraph' style='font-size:18px'>2 Focus manually using the lens focus<br>ring. Rotate the ring left to reduce<br>the focus distance, right to increase.</p>\n<br><figure id='7'><img alt=\"\" data-coord=\"top-left:(1785,1747); bottom-right:(2547,2154)\" /></figure>\n<p id='8' data-category='paragraph' style='font-size:20px'>3 Take pictures.</p>\n<p id='9' data-category='paragraph' style='font-size:14px'>Use 8 BUTTON/DIAL SETTING > FOCUS RING to reverse the direc-<br>tion of rotation of the focus ring.</p>\n<br><footer id='10' style='font-size:16px'>5</footer>\n<br><footer id='11' style='font-size:22px'>Taking<br>Photographs</footer>\n<footer id='12' style='font-size:18px'>73</footer>",
+        "markdown": "# Manual Focus\n\n# Adjust focus manually.\n\n# 1 Slide the focus mode selector to M.\n\n![image](/image/placeholder)\n· M\n· C\nS\n\nMF will appear in the display.\n\n![image](/image/placeholder)\nMF\n0.1 0.5 1.0 1.5 2.0 3.0 5.0 10 8m\nMF\n\n2 Focus manually using the lens focus\nring. Rotate the ring left to reduce\nthe focus distance, right to increase.\n\n![image](/image/placeholder)\n\n\n3 Take pictures.\n\nUse 8 BUTTON/DIAL SETTING > FOCUS RING to reverse the direc-\ntion of rotation of the focus ring.\n\n5\n\nTaking\nPhotographs\n\n73",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='0' style='font-size:22px'>Manual Focus</h1>",
+                "markdown": "# Manual Focus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1803,
+                    "y": 0.0729
+                },
+                {
+                    "x": 0.4177,
+                    "y": 0.0729
+                },
+                {
+                    "x": 0.4177,
+                    "y": 0.0998
+                },
+                {
+                    "x": 0.1803,
+                    "y": 0.0998
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='1' style='font-size:20px'>Adjust focus manually.</h1>",
+                "markdown": "# Adjust focus manually.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1774,
+                    "y": 0.1091
+                },
+                {
+                    "x": 0.4693,
+                    "y": 0.1091
+                },
+                {
+                    "x": 0.4693,
+                    "y": 0.133
+                },
+                {
+                    "x": 0.1774,
+                    "y": 0.133
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='2' style='font-size:16px'>1 Slide the focus mode selector to M.</h1>",
+                "markdown": "# 1 Slide the focus mode selector to M.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.122,
+                    "y": 0.1476
+                },
+                {
+                    "x": 0.5989,
+                    "y": 0.1476
+                },
+                {
+                    "x": 0.5989,
+                    "y": 0.1725
+                },
+                {
+                    "x": 0.122,
+                    "y": 0.1725
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "figure",
+            "content": {
+                "html": "<br><figure id='3'><img style='font-size:14px' alt=\"· M\n· C\nS\" data-coord=\"top-left:(1745,616); bottom-right:(2526,1069)\" /></figure>",
+                "markdown": "![image](/image/placeholder)\n· M\n· C\nS",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6314,
+                    "y": 0.1583
+                },
+                {
+                    "x": 0.9143,
+                    "y": 0.1583
+                },
+                {
+                    "x": 0.9143,
+                    "y": 0.2744
+                },
+                {
+                    "x": 0.6314,
+                    "y": 0.2744
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='4' data-category='paragraph' style='font-size:18px'>MF will appear in the display.</p>",
+                "markdown": "MF will appear in the display.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.159,
+                    "y": 0.3054
+                },
+                {
+                    "x": 0.5248,
+                    "y": 0.3054
+                },
+                {
+                    "x": 0.5248,
+                    "y": 0.3318
+                },
+                {
+                    "x": 0.159,
+                    "y": 0.3318
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "figure",
+            "content": {
+                "html": "<br><figure id='5'><img style='font-size:14px' alt=\"MF\n0.1 0.5 1.0 1.5 2.0 3.0 5.0 10 8m\nMF\" data-coord=\"top-left:(1759,1182); bottom-right:(2526,1701)\" /></figure>",
+                "markdown": "![image](/image/placeholder)\nMF\n0.1 0.5 1.0 1.5 2.0 3.0 5.0 10 8m\nMF",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6367,
+                    "y": 0.3034
+                },
+                {
+                    "x": 0.914,
+                    "y": 0.3034
+                },
+                {
+                    "x": 0.914,
+                    "y": 0.4366
+                },
+                {
+                    "x": 0.6367,
+                    "y": 0.4366
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='6' data-category='paragraph' style='font-size:18px'>2 Focus manually using the lens focus<br>ring. Rotate the ring left to reduce<br>the focus distance, right to increase.</p>",
+                "markdown": "2 Focus manually using the lens focus\nring. Rotate the ring left to reduce\nthe focus distance, right to increase.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1271,
+                    "y": 0.4462
+                },
+                {
+                    "x": 0.6277,
+                    "y": 0.4462
+                },
+                {
+                    "x": 0.6277,
+                    "y": 0.5241
+                },
+                {
+                    "x": 0.1271,
+                    "y": 0.5241
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "figure",
+            "content": {
+                "html": "<br><figure id='7'><img alt=\"\" data-coord=\"top-left:(1785,1747); bottom-right:(2547,2154)\" /></figure>",
+                "markdown": "![image](/image/placeholder)\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.646,
+                    "y": 0.4484
+                },
+                {
+                    "x": 0.9215,
+                    "y": 0.4484
+                },
+                {
+                    "x": 0.9215,
+                    "y": 0.5528
+                },
+                {
+                    "x": 0.646,
+                    "y": 0.5528
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='8' data-category='paragraph' style='font-size:20px'>3 Take pictures.</p>",
+                "markdown": "3 Take pictures.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1222,
+                    "y": 0.6054
+                },
+                {
+                    "x": 0.3353,
+                    "y": 0.6054
+                },
+                {
+                    "x": 0.3353,
+                    "y": 0.6323
+                },
+                {
+                    "x": 0.1222,
+                    "y": 0.6323
+                }
+            ],
+            "id": 8,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='9' data-category='paragraph' style='font-size:14px'>Use 8 BUTTON/DIAL SETTING > FOCUS RING to reverse the direc-<br>tion of rotation of the focus ring.</p>",
+                "markdown": "Use 8 BUTTON/DIAL SETTING > FOCUS RING to reverse the direc-\ntion of rotation of the focus ring.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1277,
+                    "y": 0.6659
+                },
+                {
+                    "x": 0.9144,
+                    "y": 0.6659
+                },
+                {
+                    "x": 0.9144,
+                    "y": 0.7117
+                },
+                {
+                    "x": 0.1277,
+                    "y": 0.7117
+                }
+            ],
+            "id": 9,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<br><footer id='10' style='font-size:16px'>5</footer>",
+                "markdown": "5",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9571,
+                    "y": 0.4775
+                },
+                {
+                    "x": 0.9758,
+                    "y": 0.4775
+                },
+                {
+                    "x": 0.9758,
+                    "y": 0.4973
+                },
+                {
+                    "x": 0.9571,
+                    "y": 0.4973
+                }
+            ],
+            "id": 10,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<br><footer id='11' style='font-size:22px'>Taking<br>Photographs</footer>",
+                "markdown": "Taking\nPhotographs",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9563,
+                    "y": 0.5176
+                },
+                {
+                    "x": 0.9815,
+                    "y": 0.5176
+                },
+                {
+                    "x": 0.9815,
+                    "y": 0.6653
+                },
+                {
+                    "x": 0.9563,
+                    "y": 0.6653
+                }
+            ],
+            "id": 11,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='12' style='font-size:18px'>73</footer>",
+                "markdown": "73",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.8781,
+                    "y": 0.9568
+                },
+                {
+                    "x": 0.917,
+                    "y": 0.9568
+                },
+                {
+                    "x": 0.917,
+                    "y": 0.9796
+                },
+                {
+                    "x": 0.8781,
+                    "y": 0.9796
+                }
+            ],
+            "id": 12,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

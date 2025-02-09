@@ -1,0 +1,78 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "\n# TOUCH SCREEN MODE\n\nChoose the shooting operations performed using touch controls.\n\n| Mode | Description |\n|------|-------------|\n| !AF Icon **AF** | Tapping the display focuses the camera on the selected point. **Use the shutter button to start and stop recording.**<br>• In focus mode **S** (AF-S), you can refocus at any time by tapping your subject in the display.<br>• In focus mode **C** (AF-C), the camera will continuously adjust focus for changes in the distance to the subject at point selected by tapping the display.<br>• When shooting movies in focus mode **M** (MF), you can tap the display before recording begins to focus on the selected point using Instant AF, and tap the display during recording to position the focus point. |\n| !AREA Icon **AREA** | Tap to position the focus area. **Use the shutter button to start and stop recording.**<br>• In focus mode **S** (AF-S), you can reposition the focus area at any time by tapping your subject in the display. To focus, use the button to which **AF-ON** is assigned.<br>• In focus mode **C** (AF-C), the camera will continuously adjust focus for changes in the distance to the subject at point selected by tapping the display.<br>• In manual focus mode **M** (MF), you can tap the display to position the focus area over your subject. |\n| !OFF Icon **OFF** | Touch screen mode off. |\n\n- The behavior of the touch screen varies with the AF mode.\n- To disable touch controls and hide the touch screen mode indicator, select **OFF** for !Button/Dial Setting Icon **BUTTON/DIAL SETTING** > **TOUCH SCREEN SETTING** > !Touch Screen Setting Icon **TOUCH SCREEN SETTING**.\n",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "TOUCH SCREEN MODE",
+                    "md": "# TOUCH SCREEN MODE"
+                },
+                {
+                    "type": "text",
+                    "value": "Choose the shooting operations performed using touch controls.",
+                    "md": "Choose the shooting operations performed using touch controls."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Mode",
+                            "Description"
+                        ],
+                        [
+                            "!AF Icon **AF**",
+                            "Tapping the display focuses the camera on the selected point. **Use the shutter button to start and stop recording.**<br>• In focus mode **S** (AF-S), you can refocus at any time by tapping your subject in the display.<br>• In focus mode **C** (AF-C), the camera will continuously adjust focus for changes in the distance to the subject at point selected by tapping the display.<br>• When shooting movies in focus mode **M** (MF), you can tap the display before recording begins to focus on the selected point using Instant AF, and tap the display during recording to position the focus point."
+                        ],
+                        [
+                            "!AREA Icon **AREA**",
+                            "Tap to position the focus area. **Use the shutter button to start and stop recording.**<br>• In focus mode **S** (AF-S), you can reposition the focus area at any time by tapping your subject in the display. To focus, use the button to which **AF-ON** is assigned.<br>• In focus mode **C** (AF-C), the camera will continuously adjust focus for changes in the distance to the subject at point selected by tapping the display.<br>• In manual focus mode **M** (MF), you can tap the display to position the focus area over your subject."
+                        ],
+                        [
+                            "!OFF Icon **OFF**",
+                            "Touch screen mode off."
+                        ]
+                    ],
+                    "md": "| Mode | Description |\n|------|-------------|\n| !AF Icon **AF** | Tapping the display focuses the camera on the selected point. **Use the shutter button to start and stop recording.**<br>• In focus mode **S** (AF-S), you can refocus at any time by tapping your subject in the display.<br>• In focus mode **C** (AF-C), the camera will continuously adjust focus for changes in the distance to the subject at point selected by tapping the display.<br>• When shooting movies in focus mode **M** (MF), you can tap the display before recording begins to focus on the selected point using Instant AF, and tap the display during recording to position the focus point. |\n| !AREA Icon **AREA** | Tap to position the focus area. **Use the shutter button to start and stop recording.**<br>• In focus mode **S** (AF-S), you can reposition the focus area at any time by tapping your subject in the display. To focus, use the button to which **AF-ON** is assigned.<br>• In focus mode **C** (AF-C), the camera will continuously adjust focus for changes in the distance to the subject at point selected by tapping the display.<br>• In manual focus mode **M** (MF), you can tap the display to position the focus area over your subject. |\n| !OFF Icon **OFF** | Touch screen mode off. |",
+                    "isPerfectTable": true,
+                    "csv": "\"Mode\",\"Description\"\n\"!AF Icon **AF**\",\"Tapping the display focuses the camera on the selected point. **Use the shutter button to start and stop recording.**<br>• In focus mode **S** (AF-S), you can refocus at any time by tapping your subject in the display.<br>• In focus mode **C** (AF-C), the camera will continuously adjust focus for changes in the distance to the subject at point selected by tapping the display.<br>• When shooting movies in focus mode **M** (MF), you can tap the display before recording begins to focus on the selected point using Instant AF, and tap the display during recording to position the focus point.\"\n\"!AREA Icon **AREA**\",\"Tap to position the focus area. **Use the shutter button to start and stop recording.**<br>• In focus mode **S** (AF-S), you can reposition the focus area at any time by tapping your subject in the display. To focus, use the button to which **AF-ON** is assigned.<br>• In focus mode **C** (AF-C), the camera will continuously adjust focus for changes in the distance to the subject at point selected by tapping the display.<br>• In manual focus mode **M** (MF), you can tap the display to position the focus area over your subject.\"\n\"!OFF Icon **OFF**\",\"Touch screen mode off.\""
+                },
+                {
+                    "type": "text",
+                    "value": "- The behavior of the touch screen varies with the AF mode.\n- To disable touch controls and hide the touch screen mode indicator, select **OFF** for !Button/Dial Setting Icon **BUTTON/DIAL SETTING** > **TOUCH SCREEN SETTING** > !Touch Screen Setting Icon **TOUCH SCREEN SETTING**.",
+                    "md": "- The behavior of the touch screen varies with the AF mode.\n- To disable touch controls and hide the touch screen mode indicator, select **OFF** for !Button/Dial Setting Icon **BUTTON/DIAL SETTING** > **TOUCH SCREEN SETTING** > !Touch Screen Setting Icon **TOUCH SCREEN SETTING**."
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "parsingMode": "multimodal-openai-gpt4o",
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 562.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "c3387df7-c76d-4e85-815d-1d31ec61eb00",
+    "file_path": "../data/raw_data/x-t5/x-t5_split/x-t5_page236.pdf"
+}

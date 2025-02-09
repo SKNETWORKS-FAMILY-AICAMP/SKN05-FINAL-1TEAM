@@ -1,0 +1,322 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<h1 id='0' style='font-size:20px'>Autofocus</h1>\n<br><h1 id='1' style='font-size:18px'>Take pictures using autofocus.</h1>\n<p id='2' data-category='paragraph' style='font-size:16px'>1 Slide the focus mode selector to S or<br>C ( ≡ 66).</p>\n<br><figure id='3'><img style='font-size:14px' alt=\"M\nC\nS\" data-coord=\"top-left:(1742,614); bottom-right:(2527,1069)\" /></figure>\n<p id='4' data-category='list' style='font-size:16px'>2 Choose an AF mode ( ≡ 68).</p>\n<p id='5' data-category='list' style='font-size:16px'>3 Choose the position and size of the<br>focus frame (B<br>70).</p>\n<br><figure id='6'><img alt=\"\" data-coord=\"top-left:(1752,1331); bottom-right:(2531,1921)\" /></figure>\n<br><p id='7' data-category='paragraph' style='font-size:18px'>4 Take pictures.</p>\n<br><footer id='8' style='font-size:14px'>5</footer>\n<br><footer id='9' style='font-size:22px'>Taking<br>Photographs</footer>\n<footer id='10' style='font-size:20px'>65</footer>",
+        "markdown": "# Autofocus\n\n# Take pictures using autofocus.\n\n1 Slide the focus mode selector to S or\nC ( ≡ 66).\n\n![image](/image/placeholder)\nM\nC\nS\n\n- 2 Choose an AF mode ( ≡ 68).\n\n\n- 3 Choose the position and size of the\n- focus frame (B\n- 70).\n\n\n![image](/image/placeholder)\n\n\n4 Take pictures.\n\n5\n\nTaking\nPhotographs\n\n65",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='0' style='font-size:20px'>Autofocus</h1>",
+                "markdown": "# Autofocus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1801,
+                    "y": 0.0725
+                },
+                {
+                    "x": 0.3589,
+                    "y": 0.0725
+                },
+                {
+                    "x": 0.3589,
+                    "y": 0.0996
+                },
+                {
+                    "x": 0.1801,
+                    "y": 0.0996
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='1' style='font-size:18px'>Take pictures using autofocus.</h1>",
+                "markdown": "# Take pictures using autofocus.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1775,
+                    "y": 0.1092
+                },
+                {
+                    "x": 0.5647,
+                    "y": 0.1092
+                },
+                {
+                    "x": 0.5647,
+                    "y": 0.1337
+                },
+                {
+                    "x": 0.1775,
+                    "y": 0.1337
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='2' data-category='paragraph' style='font-size:16px'>1 Slide the focus mode selector to S or<br>C ( ≡ 66).</p>",
+                "markdown": "1 Slide the focus mode selector to S or\nC ( ≡ 66).",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.126,
+                    "y": 0.1469
+                },
+                {
+                    "x": 0.6287,
+                    "y": 0.1469
+                },
+                {
+                    "x": 0.6287,
+                    "y": 0.1971
+                },
+                {
+                    "x": 0.126,
+                    "y": 0.1971
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "figure",
+            "content": {
+                "html": "<br><figure id='3'><img style='font-size:14px' alt=\"M\nC\nS\" data-coord=\"top-left:(1742,614); bottom-right:(2527,1069)\" /></figure>",
+                "markdown": "![image](/image/placeholder)\nM\nC\nS",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6306,
+                    "y": 0.1577
+                },
+                {
+                    "x": 0.9145,
+                    "y": 0.1577
+                },
+                {
+                    "x": 0.9145,
+                    "y": 0.2744
+                },
+                {
+                    "x": 0.6306,
+                    "y": 0.2744
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "list",
+            "content": {
+                "html": "<p id='4' data-category='list' style='font-size:16px'>2 Choose an AF mode ( ≡ 68).</p>",
+                "markdown": "- 2 Choose an AF mode ( ≡ 68).\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1251,
+                    "y": 0.3048
+                },
+                {
+                    "x": 0.5178,
+                    "y": 0.3048
+                },
+                {
+                    "x": 0.5178,
+                    "y": 0.3298
+                },
+                {
+                    "x": 0.1251,
+                    "y": 0.3298
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "list",
+            "content": {
+                "html": "<p id='5' data-category='list' style='font-size:16px'>3 Choose the position and size of the<br>focus frame (B<br>70).</p>",
+                "markdown": "- 3 Choose the position and size of the\n- focus frame (B\n- 70).\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1233,
+                    "y": 0.3435
+                },
+                {
+                    "x": 0.6286,
+                    "y": 0.3435
+                },
+                {
+                    "x": 0.6286,
+                    "y": 0.3944
+                },
+                {
+                    "x": 0.1233,
+                    "y": 0.3944
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "figure",
+            "content": {
+                "html": "<br><figure id='6'><img alt=\"\" data-coord=\"top-left:(1752,1331); bottom-right:(2531,1921)\" /></figure>",
+                "markdown": "![image](/image/placeholder)\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.634,
+                    "y": 0.3415
+                },
+                {
+                    "x": 0.916,
+                    "y": 0.3415
+                },
+                {
+                    "x": 0.916,
+                    "y": 0.493
+                },
+                {
+                    "x": 0.634,
+                    "y": 0.493
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='7' data-category='paragraph' style='font-size:18px'>4 Take pictures.</p>",
+                "markdown": "4 Take pictures.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1223,
+                    "y": 0.5024
+                },
+                {
+                    "x": 0.3352,
+                    "y": 0.5024
+                },
+                {
+                    "x": 0.3352,
+                    "y": 0.5285
+                },
+                {
+                    "x": 0.1223,
+                    "y": 0.5285
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<br><footer id='8' style='font-size:14px'>5</footer>",
+                "markdown": "5",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9577,
+                    "y": 0.4778
+                },
+                {
+                    "x": 0.9751,
+                    "y": 0.4778
+                },
+                {
+                    "x": 0.9751,
+                    "y": 0.4972
+                },
+                {
+                    "x": 0.9577,
+                    "y": 0.4972
+                }
+            ],
+            "id": 8,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<br><footer id='9' style='font-size:22px'>Taking<br>Photographs</footer>",
+                "markdown": "Taking\nPhotographs",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9559,
+                    "y": 0.5176
+                },
+                {
+                    "x": 0.9815,
+                    "y": 0.5176
+                },
+                {
+                    "x": 0.9815,
+                    "y": 0.6651
+                },
+                {
+                    "x": 0.9559,
+                    "y": 0.6651
+                }
+            ],
+            "id": 9,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='10' style='font-size:20px'>65</footer>",
+                "markdown": "65",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.8781,
+                    "y": 0.9574
+                },
+                {
+                    "x": 0.9166,
+                    "y": 0.9574
+                },
+                {
+                    "x": 0.9166,
+                    "y": 0.9795
+                },
+                {
+                    "x": 0.8781,
+                    "y": 0.9795
+                }
+            ],
+            "id": 10,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

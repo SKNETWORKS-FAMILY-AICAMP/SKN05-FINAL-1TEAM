@@ -1,0 +1,87 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "# The Fn (Function) Buttons\n\nAssign a role to the function buttons for quick access to the selected feature.\n\n- The functions assigned to T-Fn1 through T-Fn4 can be accessed by flicking the monitor.\n- Touch-function gestures are disabled by default. To enable touch-function gestures, select ON for **BUTTON/DIAL SETTING > TOUCH SCREEN SETTING > TOUCH FUNCTION**.\n\nThe default assignments are:\n\n## Touch-Function Gestures\n\n!Touch-Function Gestures\n\n| Function Buttons       | Default            |\n|------------------------|--------------------|\n| ① T-Fn1 (flick up)     | HISTOGRAM          |\n| ② T-Fn2 (flick left)   | FILM SIMULATION    |\n| ③ T-Fn3 (flick right)  | WHITE BALANCE      |\n| ④ T-Fn4 (flick down)   | ELECTRONIC LEVEL   |",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "The Fn (Function) Buttons",
+                    "md": "# The Fn (Function) Buttons"
+                },
+                {
+                    "type": "text",
+                    "value": "Assign a role to the function buttons for quick access to the selected feature.\n\n- The functions assigned to T-Fn1 through T-Fn4 can be accessed by flicking the monitor.\n- Touch-function gestures are disabled by default. To enable touch-function gestures, select ON for **BUTTON/DIAL SETTING > TOUCH SCREEN SETTING > TOUCH FUNCTION**.\n\nThe default assignments are:",
+                    "md": "Assign a role to the function buttons for quick access to the selected feature.\n\n- The functions assigned to T-Fn1 through T-Fn4 can be accessed by flicking the monitor.\n- Touch-function gestures are disabled by default. To enable touch-function gestures, select ON for **BUTTON/DIAL SETTING > TOUCH SCREEN SETTING > TOUCH FUNCTION**.\n\nThe default assignments are:"
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "Touch-Function Gestures",
+                    "md": "## Touch-Function Gestures"
+                },
+                {
+                    "type": "text",
+                    "value": "!Touch-Function Gestures",
+                    "md": "!Touch-Function Gestures"
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Function Buttons",
+                            "Default"
+                        ],
+                        [
+                            "① T-Fn1 (flick up)",
+                            "HISTOGRAM"
+                        ],
+                        [
+                            "② T-Fn2 (flick left)",
+                            "FILM SIMULATION"
+                        ],
+                        [
+                            "③ T-Fn3 (flick right)",
+                            "WHITE BALANCE"
+                        ],
+                        [
+                            "④ T-Fn4 (flick down)",
+                            "ELECTRONIC LEVEL"
+                        ]
+                    ],
+                    "md": "| Function Buttons       | Default            |\n|------------------------|--------------------|\n| ① T-Fn1 (flick up)     | HISTOGRAM          |\n| ② T-Fn2 (flick left)   | FILM SIMULATION    |\n| ③ T-Fn3 (flick right)  | WHITE BALANCE      |\n| ④ T-Fn4 (flick down)   | ELECTRONIC LEVEL   |",
+                    "isPerfectTable": true,
+                    "csv": "\"Function Buttons\",\"Default\"\n\"① T-Fn1 (flick up)\",\"HISTOGRAM\"\n\"② T-Fn2 (flick left)\",\"FILM SIMULATION\"\n\"③ T-Fn3 (flick right)\",\"WHITE BALANCE\"\n\"④ T-Fn4 (flick down)\",\"ELECTRONIC LEVEL\""
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 638.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "2a77f1fd-0cd5-4474-a783-9ebb227e01a4",
+    "file_path": "../data/raw_data/x100v/x100v_split/x100v_page270.pdf"
+}

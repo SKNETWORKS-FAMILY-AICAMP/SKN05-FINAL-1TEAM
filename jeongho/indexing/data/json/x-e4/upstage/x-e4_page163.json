@@ -1,0 +1,294 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:14px'>MOVIE SETTING (Movie Recording)</header>\n<h1 id='1' style='font-size:16px'>TALLY LIGHT</h1>\n\n<figure id='3'><img style='font-size:18px' alt=\"Indicator lamp AF-assist illuminator\" data-coord=\"top-left:(624,687); bottom-right:(2223,1324)\" /><br><figcaption id='2' style='font-size:20px'>Choose the lamp (indicator or AF-assist) that lights during movie<br>recording and whether the lamp blinks or remains steady.</figcaption></figure>\n<br><table id='4' style='font-size:16px'><tr><td>Option</td><td>Description</td></tr><tr><td>FRONT OFF REAR</td><td>The indicator lamp lights during movie recording.</td></tr><tr><td>FRONT OFF REAR 호</td><td>The indicator lamp blinks during movie recording.</td></tr><tr><td>FRONT REAR</td><td>The indicator and AF-assist lamps light during movie recording.</td></tr><tr><td>FRONT REAR OFF</td><td>The AF-assist lamp lights during movie recording.</td></tr><tr><td>FRONT ※ REAR</td><td>The indicator and AF-assist lamps blink during movie recording.</td></tr><tr><td>FRONT 효 REAR OFF</td><td>The AF-assist lamp blinks during movie recording.</td></tr><tr><td>FRONT OFF REAR OFF</td><td>The indicator and AF-assist lamps remain off during movie recording.</td></tr><br><caption id='2' style='font-size:20px'>Choose the lamp (indicator or AF-assist) that lights during movie<br>recording and whether the lamp blinks or remains steady.</caption></table>\n<p id='5' data-category='paragraph' style='font-size:18px'>� WIRELESS COMMUNICATION</p>\n<br><p id='6' data-category='paragraph' style='font-size:18px'>This item is also found in the photo menus (□□ 148).</p>\n<br><footer id='7' style='font-size:14px'>6</footer>\n<br><footer id='8' style='font-size:22px'>The<br>Shooting<br>Menus</footer>\n<footer id='9' style='font-size:20px'>163</footer>",
+        "markdown": "MOVIE SETTING (Movie Recording)\n\n# TALLY LIGHT\n\nChoose the lamp (indicator or AF-assist) that lights during movie\nrecording and whether the lamp blinks or remains steady.\n\n![image](/image/placeholder)\nIndicator lamp AF-assist illuminator\n\n| Option | Description |\n| --- | --- |\n| FRONT OFF REAR | The indicator lamp lights during movie recording. |\n| FRONT OFF REAR 호 | The indicator lamp blinks during movie recording. |\n| FRONT REAR | The indicator and AF-assist lamps light during movie recording. |\n| FRONT REAR OFF | The AF-assist lamp lights during movie recording. |\n| FRONT ※ REAR | The indicator and AF-assist lamps blink during movie recording. |\n| FRONT 효 REAR OFF | The AF-assist lamp blinks during movie recording. |\n| FRONT OFF REAR OFF | The indicator and AF-assist lamps remain off during movie recording. |\n\n\n� WIRELESS COMMUNICATION\n\nThis item is also found in the photo menus (□□ 148).\n\n6\n\nThe\nShooting\nMenus\n\n163",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:14px'>MOVIE SETTING (Movie Recording)</header>",
+                "markdown": "MOVIE SETTING (Movie Recording)",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.5767,
+                    "y": 0.0277
+                },
+                {
+                    "x": 0.9177,
+                    "y": 0.0277
+                },
+                {
+                    "x": 0.9177,
+                    "y": 0.0513
+                },
+                {
+                    "x": 0.5767,
+                    "y": 0.0513
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='1' style='font-size:16px'>TALLY LIGHT</h1>",
+                "markdown": "# TALLY LIGHT",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1089,
+                    "y": 0.073
+                },
+                {
+                    "x": 0.2829,
+                    "y": 0.073
+                },
+                {
+                    "x": 0.2829,
+                    "y": 0.0943
+                },
+                {
+                    "x": 0.1089,
+                    "y": 0.0943
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='2' data-category='paragraph' style='font-size:20px'>Choose the lamp (indicator or AF-assist) that lights during movie<br>recording and whether the lamp blinks or remains steady.</p>",
+                "markdown": "Choose the lamp (indicator or AF-assist) that lights during movie\nrecording and whether the lamp blinks or remains steady.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1056,
+                    "y": 0.1042
+                },
+                {
+                    "x": 0.9189,
+                    "y": 0.1042
+                },
+                {
+                    "x": 0.9189,
+                    "y": 0.1557
+                },
+                {
+                    "x": 0.1056,
+                    "y": 0.1557
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "figure",
+            "content": {
+                "html": "<figure id='3'><img style='font-size:18px' alt=\"Indicator lamp AF-assist illuminator\" data-coord=\"top-left:(624,687); bottom-right:(2223,1324)\" /></figure>",
+                "markdown": "![image](/image/placeholder)\nIndicator lamp AF-assist illuminator",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.2259,
+                    "y": 0.1764
+                },
+                {
+                    "x": 0.8046,
+                    "y": 0.1764
+                },
+                {
+                    "x": 0.8046,
+                    "y": 0.3398
+                },
+                {
+                    "x": 0.2259,
+                    "y": 0.3398
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='4' style='font-size:16px'><tr><td>Option</td><td>Description</td></tr><tr><td>FRONT OFF REAR</td><td>The indicator lamp lights during movie recording.</td></tr><tr><td>FRONT OFF REAR 호</td><td>The indicator lamp blinks during movie recording.</td></tr><tr><td>FRONT REAR</td><td>The indicator and AF-assist lamps light during movie recording.</td></tr><tr><td>FRONT REAR OFF</td><td>The AF-assist lamp lights during movie recording.</td></tr><tr><td>FRONT ※ REAR</td><td>The indicator and AF-assist lamps blink during movie recording.</td></tr><tr><td>FRONT 효 REAR OFF</td><td>The AF-assist lamp blinks during movie recording.</td></tr><tr><td>FRONT OFF REAR OFF</td><td>The indicator and AF-assist lamps remain off during movie recording.</td></tr></table>",
+                "markdown": "| Option | Description |\n| --- | --- |\n| FRONT OFF REAR | The indicator lamp lights during movie recording. |\n| FRONT OFF REAR 호 | The indicator lamp blinks during movie recording. |\n| FRONT REAR | The indicator and AF-assist lamps light during movie recording. |\n| FRONT REAR OFF | The AF-assist lamp lights during movie recording. |\n| FRONT ※ REAR | The indicator and AF-assist lamps blink during movie recording. |\n| FRONT 효 REAR OFF | The AF-assist lamp blinks during movie recording. |\n| FRONT OFF REAR OFF | The indicator and AF-assist lamps remain off during movie recording. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1084,
+                    "y": 0.3468
+                },
+                {
+                    "x": 0.918,
+                    "y": 0.3468
+                },
+                {
+                    "x": 0.918,
+                    "y": 0.6999
+                },
+                {
+                    "x": 0.1084,
+                    "y": 0.6999
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='5' data-category='paragraph' style='font-size:18px'>� WIRELESS COMMUNICATION</p>",
+                "markdown": "� WIRELESS COMMUNICATION",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.108,
+                    "y": 0.7184
+                },
+                {
+                    "x": 0.5707,
+                    "y": 0.7184
+                },
+                {
+                    "x": 0.5707,
+                    "y": 0.7413
+                },
+                {
+                    "x": 0.108,
+                    "y": 0.7413
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='6' data-category='paragraph' style='font-size:18px'>This item is also found in the photo menus (□□ 148).</p>",
+                "markdown": "This item is also found in the photo menus (□□ 148).",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1058,
+                    "y": 0.7503
+                },
+                {
+                    "x": 0.7628,
+                    "y": 0.7503
+                },
+                {
+                    "x": 0.7628,
+                    "y": 0.7752
+                },
+                {
+                    "x": 0.1058,
+                    "y": 0.7752
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<br><footer id='7' style='font-size:14px'>6</footer>",
+                "markdown": "6",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9584,
+                    "y": 0.5373
+                },
+                {
+                    "x": 0.9761,
+                    "y": 0.5373
+                },
+                {
+                    "x": 0.9761,
+                    "y": 0.5579
+                },
+                {
+                    "x": 0.9584,
+                    "y": 0.5579
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<br><footer id='8' style='font-size:22px'>The<br>Shooting<br>Menus</footer>",
+                "markdown": "The\nShooting\nMenus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9563,
+                    "y": 0.5765
+                },
+                {
+                    "x": 0.982,
+                    "y": 0.5765
+                },
+                {
+                    "x": 0.982,
+                    "y": 0.7298
+                },
+                {
+                    "x": 0.9563,
+                    "y": 0.7298
+                }
+            ],
+            "id": 8,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='9' style='font-size:20px'>163</footer>",
+                "markdown": "163",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.8625,
+                    "y": 0.9568
+                },
+                {
+                    "x": 0.9173,
+                    "y": 0.9568
+                },
+                {
+                    "x": 0.9173,
+                    "y": 0.9788
+                },
+                {
+                    "x": 0.8625,
+                    "y": 0.9788
+                }
+            ],
+            "id": 9,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

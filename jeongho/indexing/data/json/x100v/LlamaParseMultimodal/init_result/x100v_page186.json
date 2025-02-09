@@ -1,0 +1,186 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "# 4K HDMI Standby Quality\n\nChoose whether output to connected HDMI devices switches from 4K to Full HD during standby.\n\n| Option | Description |\n|--------|-------------|\n| 4K     | Output to HDMI devices continues at 4K during standby. |\n| FHD    | Output to HDMI devices switches to Full HD during standby, reducing the drain on the battery. |\n\n# HDMI REC Control\n\nChoose whether the camera sends movie start and stop signals to the HDMI device when the shutter button is pressed to start and stop movie recording.\n\n| Options | \n|---------|\n| ON      |\n| OFF     |\n\n# Zebra Setting\n\nHighlights that may be overexposed are shown by zebra stripes in the movie mode display.\n\n| Option      | Description              |\n|-------------|--------------------------|\n| ZEBRA RIGHT | Right-slanting stripes.  |\n| ZEBRA LEFT  | Left-slanting stripes.   |\n| OFF         | Stripes off.             |\n\n# Zebra Level\n\nChoose the brightness threshold for the zebra stripe display.\n\n| Options |\n|---------|\n| 50      |\n| 55      |\n| 60      |\n| 65      |\n| 70      |\n| 75      |\n| 80      |\n| 85      |\n| 90      |\n| 95      |\n| 100     |",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "4K HDMI Standby Quality",
+                    "md": "# 4K HDMI Standby Quality"
+                },
+                {
+                    "type": "text",
+                    "value": "Choose whether output to connected HDMI devices switches from 4K to Full HD during standby.",
+                    "md": "Choose whether output to connected HDMI devices switches from 4K to Full HD during standby."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Option",
+                            "Description"
+                        ],
+                        [
+                            "4K",
+                            "Output to HDMI devices continues at 4K during standby."
+                        ],
+                        [
+                            "FHD",
+                            "Output to HDMI devices switches to Full HD during standby, reducing the drain on the battery."
+                        ]
+                    ],
+                    "md": "| Option | Description |\n|--------|-------------|\n| 4K     | Output to HDMI devices continues at 4K during standby. |\n| FHD    | Output to HDMI devices switches to Full HD during standby, reducing the drain on the battery. |",
+                    "isPerfectTable": true,
+                    "csv": "\"Option\",\"Description\"\n\"4K\",\"Output to HDMI devices continues at 4K during standby.\"\n\"FHD\",\"Output to HDMI devices switches to Full HD during standby, reducing the drain on the battery.\""
+                },
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "HDMI REC Control",
+                    "md": "# HDMI REC Control"
+                },
+                {
+                    "type": "text",
+                    "value": "Choose whether the camera sends movie start and stop signals to the HDMI device when the shutter button is pressed to start and stop movie recording.",
+                    "md": "Choose whether the camera sends movie start and stop signals to the HDMI device when the shutter button is pressed to start and stop movie recording."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Options"
+                        ],
+                        [
+                            "ON"
+                        ],
+                        [
+                            "OFF"
+                        ]
+                    ],
+                    "md": "| Options | \n|---------|\n| ON      |\n| OFF     |",
+                    "isPerfectTable": true,
+                    "csv": "\"Options\"\n\"ON\"\n\"OFF\""
+                },
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "Zebra Setting",
+                    "md": "# Zebra Setting"
+                },
+                {
+                    "type": "text",
+                    "value": "Highlights that may be overexposed are shown by zebra stripes in the movie mode display.",
+                    "md": "Highlights that may be overexposed are shown by zebra stripes in the movie mode display."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Option",
+                            "Description"
+                        ],
+                        [
+                            "ZEBRA RIGHT",
+                            "Right-slanting stripes."
+                        ],
+                        [
+                            "ZEBRA LEFT",
+                            "Left-slanting stripes."
+                        ],
+                        [
+                            "OFF",
+                            "Stripes off."
+                        ]
+                    ],
+                    "md": "| Option      | Description              |\n|-------------|--------------------------|\n| ZEBRA RIGHT | Right-slanting stripes.  |\n| ZEBRA LEFT  | Left-slanting stripes.   |\n| OFF         | Stripes off.             |",
+                    "isPerfectTable": true,
+                    "csv": "\"Option\",\"Description\"\n\"ZEBRA RIGHT\",\"Right-slanting stripes.\"\n\"ZEBRA LEFT\",\"Left-slanting stripes.\"\n\"OFF\",\"Stripes off.\""
+                },
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "Zebra Level",
+                    "md": "# Zebra Level"
+                },
+                {
+                    "type": "text",
+                    "value": "Choose the brightness threshold for the zebra stripe display.",
+                    "md": "Choose the brightness threshold for the zebra stripe display."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Options"
+                        ],
+                        [
+                            "50"
+                        ],
+                        [
+                            "55"
+                        ],
+                        [
+                            "60"
+                        ],
+                        [
+                            "65"
+                        ],
+                        [
+                            "70"
+                        ],
+                        [
+                            "75"
+                        ],
+                        [
+                            "80"
+                        ],
+                        [
+                            "85"
+                        ],
+                        [
+                            "90"
+                        ],
+                        [
+                            "95"
+                        ],
+                        [
+                            "100"
+                        ]
+                    ],
+                    "md": "| Options |\n|---------|\n| 50      |\n| 55      |\n| 60      |\n| 65      |\n| 70      |\n| 75      |\n| 80      |\n| 85      |\n| 90      |\n| 95      |\n| 100     |",
+                    "isPerfectTable": true,
+                    "csv": "\"Options\"\n\"50\"\n\"55\"\n\"60\"\n\"65\"\n\"70\"\n\"75\"\n\"80\"\n\"85\"\n\"90\"\n\"95\"\n\"100\""
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 546.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "4bc4440a-b1fa-4dbf-96e4-16db4ef5dcaa",
+    "file_path": "../data/raw_data/x100v/x100v_split/x100v_page186.pdf"
+}

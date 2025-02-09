@@ -1,0 +1,266 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<p id='0' data-category='paragraph' style='font-size:14px'>囲の 言語/LANG.</p>\n<br><h1 id='1' style='font-size:18px'>Choose a language.</h1>\n<h1 id='2' style='font-size:16px'>� MY MENU SETTING</h1>\n<br><p id='3' data-category='paragraph' style='font-size:20px'>Edit the items listed in the MY (MY MENU) tab, a personalized cus-<br>tom menu of frequently-used photo menu options (□ 245).</p>\n<h1 id='4' style='font-size:16px'>MY MENU SETTING</h1>\n<br><p id='5' data-category='paragraph' style='font-size:18px'>Edit the items listed in the MY (MY MENU) tab, a personalized cus-<br>tom menu of frequently-used movie menu options (□ 245).</p>\n<header id='6' style='font-size:22px'>The<br>Setup<br>Menus</header>\n<h1 id='7' style='font-size:14px'>8</h1>\n<footer id='8' style='font-size:20px'>210</footer>",
+        "markdown": "囲の 言語/LANG.\n\n# Choose a language.\n\n# � MY MENU SETTING\n\nEdit the items listed in the MY (MY MENU) tab, a personalized cus-\ntom menu of frequently-used photo menu options (□ 245).\n\n# MY MENU SETTING\n\nEdit the items listed in the MY (MY MENU) tab, a personalized cus-\ntom menu of frequently-used movie menu options (□ 245).\n\nThe\nSetup\nMenus\n\n# 8\n\n210",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='0' data-category='paragraph' style='font-size:14px'>囲の 言語/LANG.</p>",
+                "markdown": "囲の 言語/LANG.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0849,
+                    "y": 0.0736
+                },
+                {
+                    "x": 0.2526,
+                    "y": 0.0736
+                },
+                {
+                    "x": 0.2526,
+                    "y": 0.0956
+                },
+                {
+                    "x": 0.0849,
+                    "y": 0.0956
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='1' style='font-size:18px'>Choose a language.</h1>",
+                "markdown": "# Choose a language.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0826,
+                    "y": 0.1059
+                },
+                {
+                    "x": 0.3338,
+                    "y": 0.1059
+                },
+                {
+                    "x": 0.3338,
+                    "y": 0.1295
+                },
+                {
+                    "x": 0.0826,
+                    "y": 0.1295
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='2' style='font-size:16px'>� MY MENU SETTING</h1>",
+                "markdown": "# � MY MENU SETTING",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0843,
+                    "y": 0.15
+                },
+                {
+                    "x": 0.3849,
+                    "y": 0.15
+                },
+                {
+                    "x": 0.3849,
+                    "y": 0.1718
+                },
+                {
+                    "x": 0.0843,
+                    "y": 0.1718
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='3' data-category='paragraph' style='font-size:20px'>Edit the items listed in the MY (MY MENU) tab, a personalized cus-<br>tom menu of frequently-used photo menu options (□ 245).</p>",
+                "markdown": "Edit the items listed in the MY (MY MENU) tab, a personalized cus-\ntom menu of frequently-used photo menu options (□ 245).",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0811,
+                    "y": 0.1819
+                },
+                {
+                    "x": 0.8925,
+                    "y": 0.1819
+                },
+                {
+                    "x": 0.8925,
+                    "y": 0.2336
+                },
+                {
+                    "x": 0.0811,
+                    "y": 0.2336
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='4' style='font-size:16px'>MY MENU SETTING</h1>",
+                "markdown": "# MY MENU SETTING",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0837,
+                    "y": 0.2531
+                },
+                {
+                    "x": 0.3832,
+                    "y": 0.2531
+                },
+                {
+                    "x": 0.3832,
+                    "y": 0.2739
+                },
+                {
+                    "x": 0.0837,
+                    "y": 0.2739
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='5' data-category='paragraph' style='font-size:18px'>Edit the items listed in the MY (MY MENU) tab, a personalized cus-<br>tom menu of frequently-used movie menu options (□ 245).</p>",
+                "markdown": "Edit the items listed in the MY (MY MENU) tab, a personalized cus-\ntom menu of frequently-used movie menu options (□ 245).",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0806,
+                    "y": 0.2829
+                },
+                {
+                    "x": 0.8938,
+                    "y": 0.2829
+                },
+                {
+                    "x": 0.8938,
+                    "y": 0.3362
+                },
+                {
+                    "x": 0.0806,
+                    "y": 0.3362
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='6' style='font-size:22px'>The<br>Setup<br>Menus</header>",
+                "markdown": "The\nSetup\nMenus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0191,
+                    "y": 0.5103
+                },
+                {
+                    "x": 0.0403,
+                    "y": 0.5103
+                },
+                {
+                    "x": 0.0403,
+                    "y": 0.6378
+                },
+                {
+                    "x": 0.0191,
+                    "y": 0.6378
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='7' style='font-size:14px'>8</h1>",
+                "markdown": "# 8",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0284,
+                    "y": 0.6598
+                },
+                {
+                    "x": 0.0417,
+                    "y": 0.6598
+                },
+                {
+                    "x": 0.0417,
+                    "y": 0.6746
+                },
+                {
+                    "x": 0.0284,
+                    "y": 0.6746
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='8' style='font-size:20px'>210</footer>",
+                "markdown": "210",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0823,
+                    "y": 0.956
+                },
+                {
+                    "x": 0.141,
+                    "y": 0.956
+                },
+                {
+                    "x": 0.141,
+                    "y": 0.9799
+                },
+                {
+                    "x": 0.0823,
+                    "y": 0.9799
+                }
+            ],
+            "id": 8,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

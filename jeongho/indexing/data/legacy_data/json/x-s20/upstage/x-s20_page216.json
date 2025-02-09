@@ -1,0 +1,434 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<h1 id='0' style='font-size:22px'>AUDIO SETTING (Movie Recording)</h1>\n<br><h1 id='1' style='font-size:20px'>Adjust settings for audio recorded during filming.</h1>\n<table id='2' style='font-size:14px'><tr><td>To display audio settings, press MENU/OK</td><td></td><td>AUDIO SETTING 1 /2</td></tr><tr><td></td><td>IQ</td><td>INTERNAL MIC LEVEL ADJUSTMENT</td></tr><tr><td>in the movie shooting display and select</td><td>AF MF</td><td>EXTERNAL MIC LEVEL ADJUSTMENT MIC JACK SETTING</td></tr><tr><td></td><td></td><td>LEVEL LIMITER</td></tr><tr><td>the (AUDIO SETTING) tab.</td><td>TC</td><td>MIC FILTER</td></tr><tr><td></td><td>8</td><td>WIND CUT FILTER</td></tr><tr><td></td><td>2</td><td>LOW HEADPHONES VOLUME</td></tr><tr><td></td><td>MY</td><td>MIC/REMOTE RELEASE BACK EXIT</td></tr></table>\n<p id='3' data-category='paragraph' style='font-size:18px'>INTERNAL MIC LEVEL ADJUSTMENT</p>\n\n<br><table id='5' style='font-size:16px'><tr><td>Option</td><td>Description</td></tr><tr><td>AUTO</td><td>The camera adjusts the recording level automatically.</td></tr><tr><td>MANUAL</td><td>Adjust the recording level manually. Choose from 25 recording levels.</td></tr><tr><td>OFF</td><td>Turn the built-in microphone off.</td></tr><br><caption id='4' style='font-size:20px'>Adjust the recording level for the built-in microphone.</caption></table>\n<p id='6' data-category='paragraph' style='font-size:16px'>EXTERNAL MIC LEVEL ADJUSTMENT</p>\n<br><p id='7' data-category='paragraph' style='font-size:20px'>Adjust the recording level for external microphones.</p>\n\n<table id='9' style='font-size:18px'><tr><td>Option</td><td>Description</td></tr><tr><td>AUTO</td><td>The camera adjusts the recording level automatically.</td></tr><tr><td>MANUAL</td><td>Adjust the recording level manually. Choose from 25 recording levels.</td></tr><tr><td>OFF</td><td>Disable recording using external microphones.</td></tr><br><caption id='8' style='font-size:14px'>6</caption></table>\n<p id='10' data-category='paragraph' style='font-size:16px'>MIC JACK SETTING</p>\n<br><header id='11' style='font-size:22px'>The<br>Shooting<br>Menus</header>\n\n<table id='13' style='font-size:14px'><tr><td>Option</td><td>Description</td></tr><tr><td>MIC</td><td>Choose this option for direct connection to an external micro- phone.</td></tr><tr><td>LINE</td><td>Choose this option for external audio devices connected via line output.</td></tr><br><caption id='12' style='font-size:18px'>Specify the type of hardware connected via the microphone/re-<br>mote release connector.</caption></table>\n<footer id='14' style='font-size:18px'>214</footer>",
+        "markdown": "# AUDIO SETTING (Movie Recording)\n\n# Adjust settings for audio recorded during filming.\n\n| To display audio settings, press MENU/OK |  | AUDIO SETTING 1 /2 |\n| --- | --- | --- |\n|  | IQ | INTERNAL MIC LEVEL ADJUSTMENT |\n| in the movie shooting display and select | AF MF | EXTERNAL MIC LEVEL ADJUSTMENT MIC JACK SETTING |\n|  |  | LEVEL LIMITER |\n| the (AUDIO SETTING) tab. | TC | MIC FILTER |\n|  | 8 | WIND CUT FILTER |\n|  | 2 | LOW HEADPHONES VOLUME |\n|  | MY | MIC/REMOTE RELEASE BACK EXIT |\n\n\nINTERNAL MIC LEVEL ADJUSTMENT\n\nAdjust the recording level for the built-in microphone.\n\n| Option | Description |\n| --- | --- |\n| AUTO | The camera adjusts the recording level automatically. |\n| MANUAL | Adjust the recording level manually. Choose from 25 recording levels. |\n| OFF | Turn the built-in microphone off. |\n\n\nEXTERNAL MIC LEVEL ADJUSTMENT\n\nAdjust the recording level for external microphones.\n\n6\n\n| Option | Description |\n| --- | --- |\n| AUTO | The camera adjusts the recording level automatically. |\n| MANUAL | Adjust the recording level manually. Choose from 25 recording levels. |\n| OFF | Disable recording using external microphones. |\n\n\nMIC JACK SETTING\n\nThe\nShooting\nMenus\n\nSpecify the type of hardware connected via the microphone/re-\nmote release connector.\n\n| Option | Description |\n| --- | --- |\n| MIC | Choose this option for direct connection to an external micro- phone. |\n| LINE | Choose this option for external audio devices connected via line output. |\n\n\n214",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='0' style='font-size:22px'>AUDIO SETTING (Movie Recording)</h1>",
+                "markdown": "# AUDIO SETTING (Movie Recording)",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.152,
+                    "y": 0.0735
+                },
+                {
+                    "x": 0.74,
+                    "y": 0.0735
+                },
+                {
+                    "x": 0.74,
+                    "y": 0.1001
+                },
+                {
+                    "x": 0.152,
+                    "y": 0.1001
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='1' style='font-size:20px'>Adjust settings for audio recorded during filming.</h1>",
+                "markdown": "# Adjust settings for audio recorded during filming.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1544,
+                    "y": 0.1096
+                },
+                {
+                    "x": 0.7758,
+                    "y": 0.1096
+                },
+                {
+                    "x": 0.7758,
+                    "y": 0.1325
+                },
+                {
+                    "x": 0.1544,
+                    "y": 0.1325
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='2' style='font-size:14px'><tr><td>To display audio settings, press MENU/OK</td><td></td><td>AUDIO SETTING 1 /2</td></tr><tr><td></td><td>IQ</td><td>INTERNAL MIC LEVEL ADJUSTMENT</td></tr><tr><td>in the movie shooting display and select</td><td>AF MF</td><td>EXTERNAL MIC LEVEL ADJUSTMENT MIC JACK SETTING</td></tr><tr><td></td><td></td><td>LEVEL LIMITER</td></tr><tr><td>the (AUDIO SETTING) tab.</td><td>TC</td><td>MIC FILTER</td></tr><tr><td></td><td>8</td><td>WIND CUT FILTER</td></tr><tr><td></td><td>2</td><td>LOW HEADPHONES VOLUME</td></tr><tr><td></td><td>MY</td><td>MIC/REMOTE RELEASE BACK EXIT</td></tr></table>",
+                "markdown": "| To display audio settings, press MENU/OK |  | AUDIO SETTING 1 /2 |\n| --- | --- | --- |\n|  | IQ | INTERNAL MIC LEVEL ADJUSTMENT |\n| in the movie shooting display and select | AF MF | EXTERNAL MIC LEVEL ADJUSTMENT MIC JACK SETTING |\n|  |  | LEVEL LIMITER |\n| the (AUDIO SETTING) tab. | TC | MIC FILTER |\n|  | 8 | WIND CUT FILTER |\n|  | 2 | LOW HEADPHONES VOLUME |\n|  | MY | MIC/REMOTE RELEASE BACK EXIT |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0827,
+                    "y": 0.1444
+                },
+                {
+                    "x": 0.8764,
+                    "y": 0.1444
+                },
+                {
+                    "x": 0.8764,
+                    "y": 0.2746
+                },
+                {
+                    "x": 0.0827,
+                    "y": 0.2746
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='3' data-category='paragraph' style='font-size:18px'>INTERNAL MIC LEVEL ADJUSTMENT</p>",
+                "markdown": "INTERNAL MIC LEVEL ADJUSTMENT",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.082,
+                    "y": 0.296
+                },
+                {
+                    "x": 0.5611,
+                    "y": 0.296
+                },
+                {
+                    "x": 0.5611,
+                    "y": 0.3182
+                },
+                {
+                    "x": 0.082,
+                    "y": 0.3182
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='4' data-category='paragraph' style='font-size:20px'>Adjust the recording level for the built-in microphone.</p>",
+                "markdown": "Adjust the recording level for the built-in microphone.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0798,
+                    "y": 0.3282
+                },
+                {
+                    "x": 0.7639,
+                    "y": 0.3282
+                },
+                {
+                    "x": 0.7639,
+                    "y": 0.3523
+                },
+                {
+                    "x": 0.0798,
+                    "y": 0.3523
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='5' style='font-size:16px'><tr><td>Option</td><td>Description</td></tr><tr><td>AUTO</td><td>The camera adjusts the recording level automatically.</td></tr><tr><td>MANUAL</td><td>Adjust the recording level manually. Choose from 25 recording levels.</td></tr><tr><td>OFF</td><td>Turn the built-in microphone off.</td></tr></table>",
+                "markdown": "| Option | Description |\n| --- | --- |\n| AUTO | The camera adjusts the recording level automatically. |\n| MANUAL | Adjust the recording level manually. Choose from 25 recording levels. |\n| OFF | Turn the built-in microphone off. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0824,
+                    "y": 0.365
+                },
+                {
+                    "x": 0.893,
+                    "y": 0.365
+                },
+                {
+                    "x": 0.893,
+                    "y": 0.4837
+                },
+                {
+                    "x": 0.0824,
+                    "y": 0.4837
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='6' data-category='paragraph' style='font-size:16px'>EXTERNAL MIC LEVEL ADJUSTMENT</p>",
+                "markdown": "EXTERNAL MIC LEVEL ADJUSTMENT",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0812,
+                    "y": 0.5002
+                },
+                {
+                    "x": 0.5679,
+                    "y": 0.5002
+                },
+                {
+                    "x": 0.5679,
+                    "y": 0.5233
+                },
+                {
+                    "x": 0.0812,
+                    "y": 0.5233
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='7' data-category='paragraph' style='font-size:20px'>Adjust the recording level for external microphones.</p>",
+                "markdown": "Adjust the recording level for external microphones.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.079,
+                    "y": 0.533
+                },
+                {
+                    "x": 0.7399,
+                    "y": 0.533
+                },
+                {
+                    "x": 0.7399,
+                    "y": 0.5569
+                },
+                {
+                    "x": 0.079,
+                    "y": 0.5569
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='8' data-category='paragraph' style='font-size:14px'>6</p>",
+                "markdown": "6",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0291,
+                    "y": 0.5407
+                },
+                {
+                    "x": 0.041,
+                    "y": 0.5407
+                },
+                {
+                    "x": 0.041,
+                    "y": 0.5542
+                },
+                {
+                    "x": 0.0291,
+                    "y": 0.5542
+                }
+            ],
+            "id": 8,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='9' style='font-size:18px'><tr><td>Option</td><td>Description</td></tr><tr><td>AUTO</td><td>The camera adjusts the recording level automatically.</td></tr><tr><td>MANUAL</td><td>Adjust the recording level manually. Choose from 25 recording levels.</td></tr><tr><td>OFF</td><td>Disable recording using external microphones.</td></tr></table>",
+                "markdown": "| Option | Description |\n| --- | --- |\n| AUTO | The camera adjusts the recording level automatically. |\n| MANUAL | Adjust the recording level manually. Choose from 25 recording levels. |\n| OFF | Disable recording using external microphones. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0849,
+                    "y": 0.5698
+                },
+                {
+                    "x": 0.8922,
+                    "y": 0.5698
+                },
+                {
+                    "x": 0.8922,
+                    "y": 0.6877
+                },
+                {
+                    "x": 0.0849,
+                    "y": 0.6877
+                }
+            ],
+            "id": 9,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='10' data-category='paragraph' style='font-size:16px'>MIC JACK SETTING</p>",
+                "markdown": "MIC JACK SETTING",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0812,
+                    "y": 0.7052
+                },
+                {
+                    "x": 0.3383,
+                    "y": 0.7052
+                },
+                {
+                    "x": 0.3383,
+                    "y": 0.7273
+                },
+                {
+                    "x": 0.0812,
+                    "y": 0.7273
+                }
+            ],
+            "id": 10,
+            "page": 1
+        },
+        {
+            "category": "header",
+            "content": {
+                "html": "<br><header id='11' style='font-size:22px'>The<br>Shooting<br>Menus</header>",
+                "markdown": "The\nShooting\nMenus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0159,
+                    "y": 0.577
+                },
+                {
+                    "x": 0.0418,
+                    "y": 0.577
+                },
+                {
+                    "x": 0.0418,
+                    "y": 0.7304
+                },
+                {
+                    "x": 0.0159,
+                    "y": 0.7304
+                }
+            ],
+            "id": 11,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='12' data-category='paragraph' style='font-size:18px'>Specify the type of hardware connected via the microphone/re-<br>mote release connector.</p>",
+                "markdown": "Specify the type of hardware connected via the microphone/re-\nmote release connector.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0809,
+                    "y": 0.7368
+                },
+                {
+                    "x": 0.8918,
+                    "y": 0.7368
+                },
+                {
+                    "x": 0.8918,
+                    "y": 0.787
+                },
+                {
+                    "x": 0.0809,
+                    "y": 0.787
+                }
+            ],
+            "id": 12,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='13' style='font-size:14px'><tr><td>Option</td><td>Description</td></tr><tr><td>MIC</td><td>Choose this option for direct connection to an external micro- phone.</td></tr><tr><td>LINE</td><td>Choose this option for external audio devices connected via line output.</td></tr></table>",
+                "markdown": "| Option | Description |\n| --- | --- |\n| MIC | Choose this option for direct connection to an external micro- phone. |\n| LINE | Choose this option for external audio devices connected via line output. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0884,
+                    "y": 0.7999
+                },
+                {
+                    "x": 0.8936,
+                    "y": 0.7999
+                },
+                {
+                    "x": 0.8936,
+                    "y": 0.9184
+                },
+                {
+                    "x": 0.0884,
+                    "y": 0.9184
+                }
+            ],
+            "id": 13,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='14' style='font-size:18px'>214</footer>",
+                "markdown": "214",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0822,
+                    "y": 0.9566
+                },
+                {
+                    "x": 0.1406,
+                    "y": 0.9566
+                },
+                {
+                    "x": 0.1406,
+                    "y": 0.9791
+                },
+                {
+                    "x": 0.0822,
+                    "y": 0.9791
+                }
+            ],
+            "id": 14,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

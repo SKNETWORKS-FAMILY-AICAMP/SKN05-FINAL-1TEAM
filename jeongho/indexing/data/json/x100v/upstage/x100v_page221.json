@@ -1,0 +1,294 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:14px'>BUTTON/DIAL SETTING</header>\n<h1 id='1' style='font-size:16px'>Q MENU BACKGROUND</h1>\n<br><h1 id='2' style='font-size:16px'>Choose TRANSPARENT for a transparent background.</h1>\n<br><table id='3' style='font-size:18px'><tr><td colspan=\"2\">Options</td></tr><tr><td>TRANSPARENT</td><td>BLACK</td></tr><tr><td colspan=\"2\">FUNCTION (Fn) SETTING</td></tr><tr><td colspan=\"2\">Choose the roles played by the function buttons.</td></tr></table>\n<p id='4' data-category='list' style='font-size:16px'>1 Select a BUTTON/DIAL SETTING > FUNCTION (Fn) SETTING<br>in the 8 (SET UP) tab.</p>\n<br><p id='5' data-category='list' style='font-size:20px'>2 Highlight the desired control and press MENU/OK.</p>\n<br><p id='6' data-category='list' style='font-size:20px'>3 Highlight any of the following options and press MENU/OK to<br>assign it to the selected control.</p>\n<p id='7' data-category='list' style='font-size:14px'>AE LOCK ONLY, AF LOCK ONLY, AE/AF LOCK, AF-ON, and AWB<br>LOCK ONLY cannot be assigned to the touch function buttons (T-Fn1<br>through T-Fn4) or to the viewfinder selector (rotate and hold).<br>● Function button assignment options can also be accessed by hold-<br>ing the DISP/BACK button.</p>\n<br><footer id='8' style='font-size:22px'>The<br>Setup<br>Menus</footer>\n<footer id='9' style='font-size:20px'>221</footer>",
+        "markdown": "BUTTON/DIAL SETTING\n\n# Q MENU BACKGROUND\n\n# Choose TRANSPARENT for a transparent background.\n\n| Options | Options |\n| --- | --- |\n| TRANSPARENT | BLACK |\n| FUNCTION (Fn) SETTING | FUNCTION (Fn) SETTING |\n| Choose the roles played by the function buttons. | Choose the roles played by the function buttons. |\n\n\n- 1 Select a BUTTON/DIAL SETTING > FUNCTION (Fn) SETTING\n- in the 8 (SET UP) tab.\n\n\n- 2 Highlight the desired control and press MENU/OK.\n\n\n- 3 Highlight any of the following options and press MENU/OK to\n- assign it to the selected control.\n\n\n- AE LOCK ONLY, AF LOCK ONLY, AE/AF LOCK, AF-ON, and AWB\n- LOCK ONLY cannot be assigned to the touch function buttons (T-Fn1\n- through T-Fn4) or to the viewfinder selector (rotate and hold).\n- ● Function button assignment options can also be accessed by hold-\n- ing the DISP/BACK button.\n\n\nThe\nSetup\nMenus\n\n221",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:14px'>BUTTON/DIAL SETTING</header>",
+                "markdown": "BUTTON/DIAL SETTING",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6868,
+                    "y": 0.0275
+                },
+                {
+                    "x": 0.9193,
+                    "y": 0.0275
+                },
+                {
+                    "x": 0.9193,
+                    "y": 0.0502
+                },
+                {
+                    "x": 0.6868,
+                    "y": 0.0502
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='1' style='font-size:16px'>Q MENU BACKGROUND</h1>",
+                "markdown": "# Q MENU BACKGROUND",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1078,
+                    "y": 0.0724
+                },
+                {
+                    "x": 0.4267,
+                    "y": 0.0724
+                },
+                {
+                    "x": 0.4267,
+                    "y": 0.0944
+                },
+                {
+                    "x": 0.1078,
+                    "y": 0.0944
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='2' style='font-size:16px'>Choose TRANSPARENT for a transparent background.</h1>",
+                "markdown": "# Choose TRANSPARENT for a transparent background.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1061,
+                    "y": 0.1053
+                },
+                {
+                    "x": 0.7857,
+                    "y": 0.1053
+                },
+                {
+                    "x": 0.7857,
+                    "y": 0.129
+                },
+                {
+                    "x": 0.1061,
+                    "y": 0.129
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='3' style='font-size:18px'><tr><td colspan=\"2\">Options</td></tr><tr><td>TRANSPARENT</td><td>BLACK</td></tr><tr><td colspan=\"2\">FUNCTION (Fn) SETTING</td></tr><tr><td colspan=\"2\">Choose the roles played by the function buttons.</td></tr></table>",
+                "markdown": "| Options | Options |\n| --- | --- |\n| TRANSPARENT | BLACK |\n| FUNCTION (Fn) SETTING | FUNCTION (Fn) SETTING |\n| Choose the roles played by the function buttons. | Choose the roles played by the function buttons. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1032,
+                    "y": 0.1407
+                },
+                {
+                    "x": 0.9193,
+                    "y": 0.1407
+                },
+                {
+                    "x": 0.9193,
+                    "y": 0.2646
+                },
+                {
+                    "x": 0.1032,
+                    "y": 0.2646
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "list",
+            "content": {
+                "html": "<p id='4' data-category='list' style='font-size:16px'>1 Select a BUTTON/DIAL SETTING > FUNCTION (Fn) SETTING<br>in the 8 (SET UP) tab.</p>",
+                "markdown": "- 1 Select a BUTTON/DIAL SETTING > FUNCTION (Fn) SETTING\n- in the 8 (SET UP) tab.\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1206,
+                    "y": 0.2786
+                },
+                {
+                    "x": 0.9195,
+                    "y": 0.2786
+                },
+                {
+                    "x": 0.9195,
+                    "y": 0.3285
+                },
+                {
+                    "x": 0.1206,
+                    "y": 0.3285
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "list",
+            "content": {
+                "html": "<br><p id='5' data-category='list' style='font-size:20px'>2 Highlight the desired control and press MENU/OK.</p>",
+                "markdown": "- 2 Highlight the desired control and press MENU/OK.\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1245,
+                    "y": 0.3428
+                },
+                {
+                    "x": 0.7629,
+                    "y": 0.3428
+                },
+                {
+                    "x": 0.7629,
+                    "y": 0.3686
+                },
+                {
+                    "x": 0.1245,
+                    "y": 0.3686
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "list",
+            "content": {
+                "html": "<br><p id='6' data-category='list' style='font-size:20px'>3 Highlight any of the following options and press MENU/OK to<br>assign it to the selected control.</p>",
+                "markdown": "- 3 Highlight any of the following options and press MENU/OK to\n- assign it to the selected control.\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1211,
+                    "y": 0.3819
+                },
+                {
+                    "x": 0.9169,
+                    "y": 0.3819
+                },
+                {
+                    "x": 0.9169,
+                    "y": 0.431
+                },
+                {
+                    "x": 0.1211,
+                    "y": 0.431
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "list",
+            "content": {
+                "html": "<p id='7' data-category='list' style='font-size:14px'>AE LOCK ONLY, AF LOCK ONLY, AE/AF LOCK, AF-ON, and AWB<br>LOCK ONLY cannot be assigned to the touch function buttons (T-Fn1<br>through T-Fn4) or to the viewfinder selector (rotate and hold).<br>● Function button assignment options can also be accessed by hold-<br>ing the DISP/BACK button.</p>",
+                "markdown": "- AE LOCK ONLY, AF LOCK ONLY, AE/AF LOCK, AF-ON, and AWB\n- LOCK ONLY cannot be assigned to the touch function buttons (T-Fn1\n- through T-Fn4) or to the viewfinder selector (rotate and hold).\n- ● Function button assignment options can also be accessed by hold-\n- ing the DISP/BACK button.\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1223,
+                    "y": 0.4453
+                },
+                {
+                    "x": 0.9141,
+                    "y": 0.4453
+                },
+                {
+                    "x": 0.9141,
+                    "y": 0.5577
+                },
+                {
+                    "x": 0.1223,
+                    "y": 0.5577
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<br><footer id='8' style='font-size:22px'>The<br>Setup<br>Menus</footer>",
+                "markdown": "The\nSetup\nMenus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9559,
+                    "y": 0.5055
+                },
+                {
+                    "x": 0.9874,
+                    "y": 0.5055
+                },
+                {
+                    "x": 0.9874,
+                    "y": 0.6763
+                },
+                {
+                    "x": 0.9559,
+                    "y": 0.6763
+                }
+            ],
+            "id": 8,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='9' style='font-size:20px'>221</footer>",
+                "markdown": "221",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.8605,
+                    "y": 0.9565
+                },
+                {
+                    "x": 0.9147,
+                    "y": 0.9565
+                },
+                {
+                    "x": 0.9147,
+                    "y": 0.9792
+                },
+                {
+                    "x": 0.8605,
+                    "y": 0.9792
+                }
+            ],
+            "id": 9,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

@@ -1,0 +1,112 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "\n# External Flash Units\n\n| Setting                                      | Description                                                                                                                                                                                                 |\n|----------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| ① Flash control mode (group A)               | Choose flash control modes for groups A, B, and C. **TTL%** is available for groups A and B only.                                                                                                            |\n|                                              | - **TTL**: The units in the group fire in TTL mode. Flash compensation can be adjusted separately for each group.                                                                                            |\n|                                              | - **TTL%**: If TTL% is selected for either group A or B, you can specify the output of the selected group as a percentage of the other and adjust overall flash compensation for both groups.                |\n|                                              | - **M**: In mode M, the units in the group fire at the selected output (expressed as a fraction of full power) regardless of subject brightness or camera settings.                                          |\n|                                              | - **MULTI**: Choosing MULTI for any group sets all the units in all groups to repeating flash mode. All units will fire multiple times with each shot.                                                      |\n|                                              | - **OFF (QFF)**: If OFF is selected, the units in the group will not fire.                                                                                                                                  |\n| ② Flash control mode (group B)               | Same as group A.                                                                                                                                                                                            |\n| ③ Flash control mode (group C)               | Same as group A.                                                                                                                                                                                            |\n| ④ Flash compensation/output (group A)        | Adjust flash level for the selected group according to option selected for flash control mode. Note that the full value may not be applied if the limits of the flash control system are exceeded.          |\n|                                              | - **TTL**: Adjust flash compensation.                                                                                                                                                                       |\n|                                              | - **M/MULTI**: Adjust flash output.                                                                                                                                                                         |\n|                                              | - **TTL%**: Choose the balance between groups A and B and adjust overall flash compensation.                                                                                                                |\n| ⑤ Flash compensation/output (group B)        | Same as group A.                                                                                                                                                                                            |\n| ⑥ Flash compensation/output (group C)        | Same as group A.                                                                                                                                                                                            |\n",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "External Flash Units",
+                    "md": "# External Flash Units"
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Setting",
+                            "Description"
+                        ],
+                        [
+                            "① Flash control mode (group A)",
+                            "Choose flash control modes for groups A, B, and C. **TTL%** is available for groups A and B only."
+                        ],
+                        [
+                            "",
+                            "- **TTL**: The units in the group fire in TTL mode. Flash compensation can be adjusted separately for each group."
+                        ],
+                        [
+                            "",
+                            "- **TTL%**: If TTL% is selected for either group A or B, you can specify the output of the selected group as a percentage of the other and adjust overall flash compensation for both groups."
+                        ],
+                        [
+                            "",
+                            "- **M**: In mode M, the units in the group fire at the selected output (expressed as a fraction of full power) regardless of subject brightness or camera settings."
+                        ],
+                        [
+                            "",
+                            "- **MULTI**: Choosing MULTI for any group sets all the units in all groups to repeating flash mode. All units will fire multiple times with each shot."
+                        ],
+                        [
+                            "",
+                            "- **OFF (QFF)**: If OFF is selected, the units in the group will not fire."
+                        ],
+                        [
+                            "② Flash control mode (group B)",
+                            "Same as group A."
+                        ],
+                        [
+                            "③ Flash control mode (group C)",
+                            "Same as group A."
+                        ],
+                        [
+                            "④ Flash compensation/output (group A)",
+                            "Adjust flash level for the selected group according to option selected for flash control mode. Note that the full value may not be applied if the limits of the flash control system are exceeded."
+                        ],
+                        [
+                            "",
+                            "- **TTL**: Adjust flash compensation."
+                        ],
+                        [
+                            "",
+                            "- **M/MULTI**: Adjust flash output."
+                        ],
+                        [
+                            "",
+                            "- **TTL%**: Choose the balance between groups A and B and adjust overall flash compensation."
+                        ],
+                        [
+                            "⑤ Flash compensation/output (group B)",
+                            "Same as group A."
+                        ],
+                        [
+                            "⑥ Flash compensation/output (group C)",
+                            "Same as group A."
+                        ]
+                    ],
+                    "md": "| Setting                                      | Description                                                                                                                                                                                                 |\n|----------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| ① Flash control mode (group A)               | Choose flash control modes for groups A, B, and C. **TTL%** is available for groups A and B only.                                                                                                            |\n|                                              | - **TTL**: The units in the group fire in TTL mode. Flash compensation can be adjusted separately for each group.                                                                                            |\n|                                              | - **TTL%**: If TTL% is selected for either group A or B, you can specify the output of the selected group as a percentage of the other and adjust overall flash compensation for both groups.                |\n|                                              | - **M**: In mode M, the units in the group fire at the selected output (expressed as a fraction of full power) regardless of subject brightness or camera settings.                                          |\n|                                              | - **MULTI**: Choosing MULTI for any group sets all the units in all groups to repeating flash mode. All units will fire multiple times with each shot.                                                      |\n|                                              | - **OFF (QFF)**: If OFF is selected, the units in the group will not fire.                                                                                                                                  |\n| ② Flash control mode (group B)               | Same as group A.                                                                                                                                                                                            |\n| ③ Flash control mode (group C)               | Same as group A.                                                                                                                                                                                            |\n| ④ Flash compensation/output (group A)        | Adjust flash level for the selected group according to option selected for flash control mode. Note that the full value may not be applied if the limits of the flash control system are exceeded.          |\n|                                              | - **TTL**: Adjust flash compensation.                                                                                                                                                                       |\n|                                              | - **M/MULTI**: Adjust flash output.                                                                                                                                                                         |\n|                                              | - **TTL%**: Choose the balance between groups A and B and adjust overall flash compensation.                                                                                                                |\n| ⑤ Flash compensation/output (group B)        | Same as group A.                                                                                                                                                                                            |\n| ⑥ Flash compensation/output (group C)        | Same as group A.                                                                                                                                                                                            |",
+                    "isPerfectTable": true,
+                    "csv": "\"Setting\",\"Description\"\n\"① Flash control mode (group A)\",\"Choose flash control modes for groups A, B, and C. **TTL%** is available for groups A and B only.\"\n\"\",\"- **TTL**: The units in the group fire in TTL mode. Flash compensation can be adjusted separately for each group.\"\n\"\",\"- **TTL%**: If TTL% is selected for either group A or B, you can specify the output of the selected group as a percentage of the other and adjust overall flash compensation for both groups.\"\n\"\",\"- **M**: In mode M, the units in the group fire at the selected output (expressed as a fraction of full power) regardless of subject brightness or camera settings.\"\n\"\",\"- **MULTI**: Choosing MULTI for any group sets all the units in all groups to repeating flash mode. All units will fire multiple times with each shot.\"\n\"\",\"- **OFF (QFF)**: If OFF is selected, the units in the group will not fire.\"\n\"② Flash control mode (group B)\",\"Same as group A.\"\n\"③ Flash control mode (group C)\",\"Same as group A.\"\n\"④ Flash compensation/output (group A)\",\"Adjust flash level for the selected group according to option selected for flash control mode. Note that the full value may not be applied if the limits of the flash control system are exceeded.\"\n\"\",\"- **TTL**: Adjust flash compensation.\"\n\"\",\"- **M/MULTI**: Adjust flash output.\"\n\"\",\"- **TTL%**: Choose the balance between groups A and B and adjust overall flash compensation.\"\n\"⑤ Flash compensation/output (group B)\",\"Same as group A.\"\n\"⑥ Flash compensation/output (group C)\",\"Same as group A.\""
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "parsingMode": "multimodal-openai-gpt4o",
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 295.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "ea5a9178-abb7-42a7-9cca-05fb7849c1db",
+    "file_path": "../data/raw_data/x-e4/x-e4_split/x-e4_page299.pdf"
+}

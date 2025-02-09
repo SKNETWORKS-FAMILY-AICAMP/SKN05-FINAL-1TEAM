@@ -1,0 +1,182 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:14px'>BUTTON/DIAL SETTING</header>\n<h1 id='1' style='font-size:18px'>▶ ISO BUTTON SETTING</h1>\n<br><h1 id='2' style='font-size:20px'>Choose the role performed by the ISO button during playback.</h1>\n<table id='3' style='font-size:16px'><tr><td>Option</td><td>Description</td></tr><tr><td>□ SMARTPHONE TRANSFER ORDER</td><td>Pressing the button marks the current picture for transfer. If the camera is not currently paired with a smartphone, Bluetooth/ SMARTPHONE SETTING options will be displayed.</td></tr><tr><td>SELECT & SMARTPHONE TRANSFER ORDER</td><td>Pressing the button displays a dialog where pictures can be selected for upload to a smartphone with which the camera is paired (□□ 237). If the camera is not currently paired with a smartphone, Bluetooth/SMARTPHONE SETTING options will be displayed instead ( == 262).</td></tr><tr><td>WIRELESS COMMUNICATION</td><td>The button can be used for wireless connections.</td></tr></table>\n<footer id='4' style='font-size:22px'>The<br>Setup<br>Menus</footer>\n<footer id='5' style='font-size:20px'>297</footer>",
+        "markdown": "BUTTON/DIAL SETTING\n\n# ▶ ISO BUTTON SETTING\n\n# Choose the role performed by the ISO button during playback.\n\n| Option | Description |\n| --- | --- |\n| □ SMARTPHONE TRANSFER ORDER | Pressing the button marks the current picture for transfer. If the camera is not currently paired with a smartphone, Bluetooth/ SMARTPHONE SETTING options will be displayed. |\n| SELECT & SMARTPHONE TRANSFER ORDER | Pressing the button displays a dialog where pictures can be selected for upload to a smartphone with which the camera is paired (□□ 237). If the camera is not currently paired with a smartphone, Bluetooth/SMARTPHONE SETTING options will be displayed instead ( == 262). |\n| WIRELESS COMMUNICATION | The button can be used for wireless connections. |\n\n\nThe\nSetup\nMenus\n\n297",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:14px'>BUTTON/DIAL SETTING</header>",
+                "markdown": "BUTTON/DIAL SETTING",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6873,
+                    "y": 0.0284
+                },
+                {
+                    "x": 0.9181,
+                    "y": 0.0284
+                },
+                {
+                    "x": 0.9181,
+                    "y": 0.0495
+                },
+                {
+                    "x": 0.6873,
+                    "y": 0.0495
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='1' style='font-size:18px'>▶ ISO BUTTON SETTING</h1>",
+                "markdown": "# ▶ ISO BUTTON SETTING",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1075,
+                    "y": 0.0733
+                },
+                {
+                    "x": 0.448,
+                    "y": 0.0733
+                },
+                {
+                    "x": 0.448,
+                    "y": 0.0946
+                },
+                {
+                    "x": 0.1075,
+                    "y": 0.0946
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='2' style='font-size:20px'>Choose the role performed by the ISO button during playback.</h1>",
+                "markdown": "# Choose the role performed by the ISO button during playback.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1055,
+                    "y": 0.1041
+                },
+                {
+                    "x": 0.8896,
+                    "y": 0.1041
+                },
+                {
+                    "x": 0.8896,
+                    "y": 0.1299
+                },
+                {
+                    "x": 0.1055,
+                    "y": 0.1299
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='3' style='font-size:16px'><tr><td>Option</td><td>Description</td></tr><tr><td>□ SMARTPHONE TRANSFER ORDER</td><td>Pressing the button marks the current picture for transfer. If the camera is not currently paired with a smartphone, Bluetooth/ SMARTPHONE SETTING options will be displayed.</td></tr><tr><td>SELECT & SMARTPHONE TRANSFER ORDER</td><td>Pressing the button displays a dialog where pictures can be selected for upload to a smartphone with which the camera is paired (□□ 237). If the camera is not currently paired with a smartphone, Bluetooth/SMARTPHONE SETTING options will be displayed instead ( == 262).</td></tr><tr><td>WIRELESS COMMUNICATION</td><td>The button can be used for wireless connections.</td></tr></table>",
+                "markdown": "| Option | Description |\n| --- | --- |\n| □ SMARTPHONE TRANSFER ORDER | Pressing the button marks the current picture for transfer. If the camera is not currently paired with a smartphone, Bluetooth/ SMARTPHONE SETTING options will be displayed. |\n| SELECT & SMARTPHONE TRANSFER ORDER | Pressing the button displays a dialog where pictures can be selected for upload to a smartphone with which the camera is paired (□□ 237). If the camera is not currently paired with a smartphone, Bluetooth/SMARTPHONE SETTING options will be displayed instead ( == 262). |\n| WIRELESS COMMUNICATION | The button can be used for wireless connections. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.105,
+                    "y": 0.1431
+                },
+                {
+                    "x": 0.9205,
+                    "y": 0.1431
+                },
+                {
+                    "x": 0.9205,
+                    "y": 0.3991
+                },
+                {
+                    "x": 0.105,
+                    "y": 0.3991
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='4' style='font-size:22px'>The<br>Setup<br>Menus</footer>",
+                "markdown": "The\nSetup\nMenus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9575,
+                    "y": 0.5709
+                },
+                {
+                    "x": 0.98,
+                    "y": 0.5709
+                },
+                {
+                    "x": 0.98,
+                    "y": 0.6968
+                },
+                {
+                    "x": 0.9575,
+                    "y": 0.6968
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='5' style='font-size:20px'>297</footer>",
+                "markdown": "297",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.8605,
+                    "y": 0.9564
+                },
+                {
+                    "x": 0.9172,
+                    "y": 0.9564
+                },
+                {
+                    "x": 0.9172,
+                    "y": 0.9787
+                },
+                {
+                    "x": 0.8605,
+                    "y": 0.9787
+                }
+            ],
+            "id": 5,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

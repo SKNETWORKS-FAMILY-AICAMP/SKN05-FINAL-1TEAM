@@ -1,0 +1,266 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:14px'>USER SETTING</header>\n<p id='1' data-category='paragraph' style='font-size:14px'>用、9 言語/LANG.</p>\n<br><h1 id='2' style='font-size:20px'>Choose a language.</h1>\n<h1 id='3' style='font-size:18px'>� MY MENU SETTING</h1>\n<br><p id='4' data-category='paragraph' style='font-size:20px'>Edit the items listed in the MY (MY MENU) tab, a personalized cus-<br>tom menu of frequently-used photo menu options (� 313).</p>\n<h1 id='5' style='font-size:16px'>MY MENU SETTING</h1>\n<br><p id='6' data-category='paragraph' style='font-size:18px'>Edit the items listed in the MY (MY MENU) tab, a personalized cus-<br>tom menu of frequently-used movie menu options (� 313).</p>\n<footer id='7' style='font-size:22px'>The<br>Setup<br>Menus</footer>\n<footer id='8' style='font-size:18px'>275</footer>",
+        "markdown": "USER SETTING\n\n用、9 言語/LANG.\n\n# Choose a language.\n\n# � MY MENU SETTING\n\nEdit the items listed in the MY (MY MENU) tab, a personalized cus-\ntom menu of frequently-used photo menu options (� 313).\n\n# MY MENU SETTING\n\nEdit the items listed in the MY (MY MENU) tab, a personalized cus-\ntom menu of frequently-used movie menu options (� 313).\n\nThe\nSetup\nMenus\n\n275",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:14px'>USER SETTING</header>",
+                "markdown": "USER SETTING",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.7756,
+                    "y": 0.0285
+                },
+                {
+                    "x": 0.9187,
+                    "y": 0.0285
+                },
+                {
+                    "x": 0.9187,
+                    "y": 0.049
+                },
+                {
+                    "x": 0.7756,
+                    "y": 0.049
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='1' data-category='paragraph' style='font-size:14px'>用、9 言語/LANG.</p>",
+                "markdown": "用、9 言語/LANG.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1091,
+                    "y": 0.0735
+                },
+                {
+                    "x": 0.2775,
+                    "y": 0.0735
+                },
+                {
+                    "x": 0.2775,
+                    "y": 0.0956
+                },
+                {
+                    "x": 0.1091,
+                    "y": 0.0956
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='2' style='font-size:20px'>Choose a language.</h1>",
+                "markdown": "# Choose a language.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1065,
+                    "y": 0.106
+                },
+                {
+                    "x": 0.358,
+                    "y": 0.106
+                },
+                {
+                    "x": 0.358,
+                    "y": 0.1297
+                },
+                {
+                    "x": 0.1065,
+                    "y": 0.1297
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='3' style='font-size:18px'>� MY MENU SETTING</h1>",
+                "markdown": "# � MY MENU SETTING",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1078,
+                    "y": 0.1495
+                },
+                {
+                    "x": 0.4115,
+                    "y": 0.1495
+                },
+                {
+                    "x": 0.4115,
+                    "y": 0.1727
+                },
+                {
+                    "x": 0.1078,
+                    "y": 0.1727
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='4' data-category='paragraph' style='font-size:20px'>Edit the items listed in the MY (MY MENU) tab, a personalized cus-<br>tom menu of frequently-used photo menu options (� 313).</p>",
+                "markdown": "Edit the items listed in the MY (MY MENU) tab, a personalized cus-\ntom menu of frequently-used photo menu options (� 313).",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1065,
+                    "y": 0.1816
+                },
+                {
+                    "x": 0.918,
+                    "y": 0.1816
+                },
+                {
+                    "x": 0.918,
+                    "y": 0.2335
+                },
+                {
+                    "x": 0.1065,
+                    "y": 0.2335
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='5' style='font-size:16px'>MY MENU SETTING</h1>",
+                "markdown": "# MY MENU SETTING",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1072,
+                    "y": 0.2522
+                },
+                {
+                    "x": 0.4104,
+                    "y": 0.2522
+                },
+                {
+                    "x": 0.4104,
+                    "y": 0.2752
+                },
+                {
+                    "x": 0.1072,
+                    "y": 0.2752
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='6' data-category='paragraph' style='font-size:18px'>Edit the items listed in the MY (MY MENU) tab, a personalized cus-<br>tom menu of frequently-used movie menu options (� 313).</p>",
+                "markdown": "Edit the items listed in the MY (MY MENU) tab, a personalized cus-\ntom menu of frequently-used movie menu options (� 313).",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1056,
+                    "y": 0.2834
+                },
+                {
+                    "x": 0.9186,
+                    "y": 0.2834
+                },
+                {
+                    "x": 0.9186,
+                    "y": 0.3359
+                },
+                {
+                    "x": 0.1056,
+                    "y": 0.3359
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='7' style='font-size:22px'>The<br>Setup<br>Menus</footer>",
+                "markdown": "The\nSetup\nMenus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9577,
+                    "y": 0.5708
+                },
+                {
+                    "x": 0.9799,
+                    "y": 0.5708
+                },
+                {
+                    "x": 0.9799,
+                    "y": 0.6969
+                },
+                {
+                    "x": 0.9577,
+                    "y": 0.6969
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='8' style='font-size:18px'>275</footer>",
+                "markdown": "275",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.8609,
+                    "y": 0.9567
+                },
+                {
+                    "x": 0.9168,
+                    "y": 0.9567
+                },
+                {
+                    "x": 0.9168,
+                    "y": 0.9792
+                },
+                {
+                    "x": 0.8609,
+                    "y": 0.9792
+                }
+            ],
+            "id": 8,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

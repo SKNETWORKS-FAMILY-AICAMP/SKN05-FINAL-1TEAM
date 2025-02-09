@@ -1,0 +1,86 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "# Touch Zoom\n\nIf the lens supports touch zoom, you can zoom in and out by touching the display. Tap the touch zoom button in the display to enable touch zoom.\n\nTouch zoom is controlled using the buttons in the display.\n\n!Touch Zoom Display\n\n| Button        | Description                                                                 |\n|---------------|-----------------------------------------------------------------------------|\n| Touch zoom    | Enable touch zoom.                                                          |\n| Zoom in       | Zoom in or out. Touch and hold to zoom in or out at a constant speed.       |\n| Zoom out      |                                                                             |\n| Rocker switch | The camera zooms in or out at a speed corresponding to the position of the rocker switch. |\n| Disable       | Disable touch zoom.                                                         |\n\n> 💡 **Note:**  \n> The rate at which the camera zooms in and out in response to the **T** and **W** buttons can be selected using **BUTTON/DIAL SETTING > LENS ZOOM/FOCUS SETTING > CONSTANT SPEED ZOOM (Fn)**.",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "Touch Zoom",
+                    "md": "# Touch Zoom"
+                },
+                {
+                    "type": "text",
+                    "value": "If the lens supports touch zoom, you can zoom in and out by touching the display. Tap the touch zoom button in the display to enable touch zoom.\n\nTouch zoom is controlled using the buttons in the display.\n\n!Touch Zoom Display",
+                    "md": "If the lens supports touch zoom, you can zoom in and out by touching the display. Tap the touch zoom button in the display to enable touch zoom.\n\nTouch zoom is controlled using the buttons in the display.\n\n!Touch Zoom Display"
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Button",
+                            "Description"
+                        ],
+                        [
+                            "Touch zoom",
+                            "Enable touch zoom."
+                        ],
+                        [
+                            "Zoom in",
+                            "Zoom in or out. Touch and hold to zoom in or out at a constant speed."
+                        ],
+                        [
+                            "Zoom out",
+                            ""
+                        ],
+                        [
+                            "Rocker switch",
+                            "The camera zooms in or out at a speed corresponding to the position of the rocker switch."
+                        ],
+                        [
+                            "Disable",
+                            "Disable touch zoom."
+                        ]
+                    ],
+                    "md": "| Button        | Description                                                                 |\n|---------------|-----------------------------------------------------------------------------|\n| Touch zoom    | Enable touch zoom.                                                          |\n| Zoom in       | Zoom in or out. Touch and hold to zoom in or out at a constant speed.       |\n| Zoom out      |                                                                             |\n| Rocker switch | The camera zooms in or out at a speed corresponding to the position of the rocker switch. |\n| Disable       | Disable touch zoom.                                                         |",
+                    "isPerfectTable": true,
+                    "csv": "\"Button\",\"Description\"\n\"Touch zoom\",\"Enable touch zoom.\"\n\"Zoom in\",\"Zoom in or out. Touch and hold to zoom in or out at a constant speed.\"\n\"Zoom out\",\"\"\n\"Rocker switch\",\"The camera zooms in or out at a speed corresponding to the position of the rocker switch.\"\n\"Disable\",\"Disable touch zoom.\""
+                },
+                {
+                    "type": "text",
+                    "value": "> 💡 **Note:**  \n> The rate at which the camera zooms in and out in response to the **T** and **W** buttons can be selected using **BUTTON/DIAL SETTING > LENS ZOOM/FOCUS SETTING > CONSTANT SPEED ZOOM (Fn)**.",
+                    "md": "> 💡 **Note:**  \n> The rate at which the camera zooms in and out in response to the **T** and **W** buttons can be selected using **BUTTON/DIAL SETTING > LENS ZOOM/FOCUS SETTING > CONSTANT SPEED ZOOM (Fn)**."
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "parsingMode": "multimodal-openai-gpt4o",
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 587.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "24f7226b-c4be-419d-afee-8a15ada71888",
+    "file_path": "../data/raw_data/x-t5/x-t5_split/x-t5_page56.pdf"
+}

@@ -1,0 +1,13 @@
+{
+    "parsing_result": "# FTP Optional Setting\n\nAdjust settings for FTP upload.\n\n## Select Image & Transfer\nMark picture for upload (see page 288).\n\n## Auto Image Transfer Order\nSelect **ON** to automatically mark pictures for upload as they are taken.\n\n| Options |        |\n|---------|--------|\n| ON      | OFF    |\n\n## Select File Type\nChoose the types of files uploaded to the FTP server. You can select or deselect each file type individually.\n\n| Options |        |      |      |     |     |\n|---------|--------|------|------|-----|-----|\n| JPEG    | RAW    | HEIF | TIFF | MOV | MP4 |\n\n## Caption for FTP Transfer\nAdd captions to photos and movies during upload.\n\n| Option           | Description                                                                 |\n|------------------|-----------------------------------------------------------------------------|\n| DEFAULT CAPTION  | Add the caption selected for **SAVE DATA SETTING > DEFAULT CAPTION**.       |\n| CREATED CAPTION  | Create new captions or select existing captions.                            |\n| NO CAPTION       | Do not add captions to pictures during upload.                              |\n\n## Transfer/Suspend\nPause or resume FTP upload.\n\n| Options  |          |\n|----------|----------|\n| TRANSFER | SUSPEND  |",
+    "embedding_result": [],
+    "metadata": {
+        "page": 326,
+        "model": "gfx100ii",
+        "chapter": "Network/USB Setting Menus",
+        "section": "Network/USB Setting Menus Summary",
+        "subsection": [
+            "FTP OPTIONAL SETTING"
+        ]
+    }
+}

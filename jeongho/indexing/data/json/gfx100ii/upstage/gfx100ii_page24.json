@@ -1,0 +1,434 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<h1 id='0' style='font-size:18px'>LCD Monitor</h1>\n<header id='1' style='font-size:16px'>1</header>\n<br><header id='2' style='font-size:22px'>Before<br>You<br>Begin</header>\n<br><h1 id='3' style='font-size:18px'>Standard indicators</h1>\n<figure id='4' data-category='chart'><img style='font-size:14px' alt=\"贝 2 9999 N \nN \n5 AREA \n4 \n3 � \n2 \n1 V.' \n0- \n2  \n-③- \n-4 - \n-5 二 \n83 \n0.1 0.5 1.0 1.5 2.0 3.0 5.0 10 \nAF-S \n[⌀] s.s.1000 下5.6 ⌀+ 1.0 ISO 12800 自 \n\" data-coord=\"top-left:(358,521); bottom-right:(1118,1098)\" /></figure>\n<p id='5' data-category='paragraph' style='font-size:20px'>Dual display</p>\n<br><figure id='6' data-category='chart'><img style='font-size:14px' alt=\"AREA \n\" data-coord=\"top-left:(1582,534); bottom-right:(2339,1096)\" /></figure>\n<br><p id='7' data-category='paragraph' style='font-size:18px'>Standard (no indicators)</p>\n\n<br><figure id='9' data-category='chart'><img style='font-size:16px' alt=\"9999 Z \nAREA \n200 \n0.1 0.5 1.0 1.5 2.0 3.0 5.0 10 8m \nAF-S \nM [○] S.S. 1000 F 5.6 ■ +1.0 ISO 12800 \n\" data-coord=\"top-left:(351,1246); bottom-right:(1119,1823)\" /></figure>\n<br><figure id='10'><img style='font-size:14px' alt=\"00000 100 용\n+ + + + + +  1 9999 ② 9999\n+ + + + + + +\n+ + + + + + +\n+ + + 田 + + +\n+ + + + + + +\n+ + + + + + +\n+ + + + + + +\nAF-S\n+ 1.0\nM 1000 F 5.6 ISO 12800\nS.S.\" data-coord=\"top-left:(1579,1243); bottom-right:(2340,1819)\" /><figcaption id='8' style='font-size:22px'>Info display</figcaption></figure>\n<p id='11' data-category='paragraph' style='font-size:18px'>The dual display is available only during manual focus.</p>\n<p id='12' data-category='paragraph' style='font-size:20px'>The Dual Display</p>\n<br><p id='13' data-category='paragraph' style='font-size:18px'>The dual display consists of a large full-frame window and a<br>smaller close-up of the focus area.</p>\n<footer id='14' style='font-size:20px'>24</footer>",
+        "markdown": "# LCD Monitor\n\n1\n\nBefore\nYou\nBegin\n\n# Standard indicators\n\n![image](/image/placeholder)\n贝 2 9999 N \nN \n5 AREA \n4 \n3 � \n2 \n1 V.\" \n0- \n2  \n-③- \n-4 - \n-5 二 \n83 \n0.1 0.5 1.0 1.5 2.0 3.0 5.0 10 \nAF-S \n[⌀] s.s.1000 下5.6 ⌀+ 1.0 ISO 12800 自 \n\n\nDual display\n\n![image](/image/placeholder)\nAREA \n\n\nStandard (no indicators)\n\nInfo display\n\n![image](/image/placeholder)\n9999 Z \nAREA \n200 \n0.1 0.5 1.0 1.5 2.0 3.0 5.0 10 8m \nAF-S \nM [○] S.S. 1000 F 5.6 ■ +1.0 ISO 12800 \n\n\n![image](/image/placeholder)\n00000 100 용\n+ + + + + +  1 9999 ② 9999\n+ + + + + + +\n+ + + + + + +\n+ + + 田 + + +\n+ + + + + + +\n+ + + + + + +\n+ + + + + + +\nAF-S\n+ 1.0\nM 1000 F 5.6 ISO 12800\nS.S.\n\nThe dual display is available only during manual focus.\n\nThe Dual Display\n\nThe dual display consists of a large full-frame window and a\nsmaller close-up of the focus area.\n\n24",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='0' style='font-size:18px'>LCD Monitor</h1>",
+                "markdown": "# LCD Monitor",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0968,
+                    "y": 0.0741
+                },
+                {
+                    "x": 0.2569,
+                    "y": 0.0741
+                },
+                {
+                    "x": 0.2569,
+                    "y": 0.0972
+                },
+                {
+                    "x": 0.0968,
+                    "y": 0.0972
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='1' style='font-size:16px'>1</header>",
+                "markdown": "1",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0274,
+                    "y": 0.2387
+                },
+                {
+                    "x": 0.0419,
+                    "y": 0.2387
+                },
+                {
+                    "x": 0.0419,
+                    "y": 0.2586
+                },
+                {
+                    "x": 0.0274,
+                    "y": 0.2586
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "header",
+            "content": {
+                "html": "<br><header id='2' style='font-size:22px'>Before<br>You<br>Begin</header>",
+                "markdown": "Before\nYou\nBegin",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0186,
+                    "y": 0.2778
+                },
+                {
+                    "x": 0.0419,
+                    "y": 0.2778
+                },
+                {
+                    "x": 0.0419,
+                    "y": 0.4029
+                },
+                {
+                    "x": 0.0186,
+                    "y": 0.4029
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='3' style='font-size:18px'>Standard indicators</h1>",
+                "markdown": "# Standard indicators",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1549,
+                    "y": 0.1111
+                },
+                {
+                    "x": 0.3762,
+                    "y": 0.1111
+                },
+                {
+                    "x": 0.3762,
+                    "y": 0.1308
+                },
+                {
+                    "x": 0.1549,
+                    "y": 0.1308
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "figure",
+            "content": {
+                "html": "<figure id='4' data-category='chart'><img style='font-size:14px' alt=\"贝 2 9999 N \nN \n5 AREA \n4 \n3 � \n2 \n1 V.' \n0- \n2  \n-③- \n-4 - \n-5 二 \n83 \n0.1 0.5 1.0 1.5 2.0 3.0 5.0 10 \nAF-S \n[⌀] s.s.1000 下5.6 ⌀+ 1.0 ISO 12800 自 \n\" data-coord=\"top-left:(358,521); bottom-right:(1118,1098)\" /></figure>",
+                "markdown": "![image](/image/placeholder)\n贝 2 9999 N \nN \n5 AREA \n4 \n3 � \n2 \n1 V.\" \n0- \n2  \n-③- \n-4 - \n-5 二 \n83 \n0.1 0.5 1.0 1.5 2.0 3.0 5.0 10 \nAF-S \n[⌀] s.s.1000 下5.6 ⌀+ 1.0 ISO 12800 自 \n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1298,
+                    "y": 0.1339
+                },
+                {
+                    "x": 0.4046,
+                    "y": 0.1339
+                },
+                {
+                    "x": 0.4046,
+                    "y": 0.2817
+                },
+                {
+                    "x": 0.1298,
+                    "y": 0.2817
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='5' data-category='paragraph' style='font-size:20px'>Dual display</p>",
+                "markdown": "Dual display",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1948,
+                    "y": 0.2984
+                },
+                {
+                    "x": 0.3352,
+                    "y": 0.2984
+                },
+                {
+                    "x": 0.3352,
+                    "y": 0.3186
+                },
+                {
+                    "x": 0.1948,
+                    "y": 0.3186
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "figure",
+            "content": {
+                "html": "<br><figure id='6' data-category='chart'><img style='font-size:14px' alt=\"AREA \n\" data-coord=\"top-left:(1582,534); bottom-right:(2339,1096)\" /></figure>",
+                "markdown": "![image](/image/placeholder)\nAREA \n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.5727,
+                    "y": 0.1372
+                },
+                {
+                    "x": 0.8466,
+                    "y": 0.1372
+                },
+                {
+                    "x": 0.8466,
+                    "y": 0.2812
+                },
+                {
+                    "x": 0.5727,
+                    "y": 0.2812
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='7' data-category='paragraph' style='font-size:18px'>Standard (no indicators)</p>",
+                "markdown": "Standard (no indicators)",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.5724,
+                    "y": 0.1106
+                },
+                {
+                    "x": 0.8434,
+                    "y": 0.1106
+                },
+                {
+                    "x": 0.8434,
+                    "y": 0.1323
+                },
+                {
+                    "x": 0.5724,
+                    "y": 0.1323
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='8' data-category='paragraph' style='font-size:22px'>Info display</p>",
+                "markdown": "Info display",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6423,
+                    "y": 0.2985
+                },
+                {
+                    "x": 0.7751,
+                    "y": 0.2985
+                },
+                {
+                    "x": 0.7751,
+                    "y": 0.3187
+                },
+                {
+                    "x": 0.6423,
+                    "y": 0.3187
+                }
+            ],
+            "id": 8,
+            "page": 1
+        },
+        {
+            "category": "figure",
+            "content": {
+                "html": "<br><figure id='9' data-category='chart'><img style='font-size:16px' alt=\"9999 Z \nAREA \n200 \n0.1 0.5 1.0 1.5 2.0 3.0 5.0 10 8m \nAF-S \nM [○] S.S. 1000 F 5.6 ■ +1.0 ISO 12800 \n\" data-coord=\"top-left:(351,1246); bottom-right:(1119,1823)\" /></figure>",
+                "markdown": "![image](/image/placeholder)\n9999 Z \nAREA \n200 \n0.1 0.5 1.0 1.5 2.0 3.0 5.0 10 8m \nAF-S \nM [○] S.S. 1000 F 5.6 ■ +1.0 ISO 12800 \n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1272,
+                    "y": 0.3197
+                },
+                {
+                    "x": 0.405,
+                    "y": 0.3197
+                },
+                {
+                    "x": 0.405,
+                    "y": 0.4679
+                },
+                {
+                    "x": 0.1272,
+                    "y": 0.4679
+                }
+            ],
+            "id": 9,
+            "page": 1
+        },
+        {
+            "category": "figure",
+            "content": {
+                "html": "<br><figure id='10'><img style='font-size:14px' alt=\"00000 100 용\n+ + + + + +  1 9999 ② 9999\n+ + + + + + +\n+ + + + + + +\n+ + + 田 + + +\n+ + + + + + +\n+ + + + + + +\n+ + + + + + +\nAF-S\n+ 1.0\nM 1000 F 5.6 ISO 12800\nS.S.\" data-coord=\"top-left:(1579,1243); bottom-right:(2340,1819)\" /></figure>",
+                "markdown": "![image](/image/placeholder)\n00000 100 용\n+ + + + + +  1 9999 ② 9999\n+ + + + + + +\n+ + + + + + +\n+ + + 田 + + +\n+ + + + + + +\n+ + + + + + +\n+ + + + + + +\nAF-S\n+ 1.0\nM 1000 F 5.6 ISO 12800\nS.S.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.5715,
+                    "y": 0.3191
+                },
+                {
+                    "x": 0.8466,
+                    "y": 0.3191
+                },
+                {
+                    "x": 0.8466,
+                    "y": 0.4668
+                },
+                {
+                    "x": 0.5715,
+                    "y": 0.4668
+                }
+            ],
+            "id": 10,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='11' data-category='paragraph' style='font-size:18px'>The dual display is available only during manual focus.</p>",
+                "markdown": "The dual display is available only during manual focus.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0912,
+                    "y": 0.4869
+                },
+                {
+                    "x": 0.7167,
+                    "y": 0.4869
+                },
+                {
+                    "x": 0.7167,
+                    "y": 0.5096
+                },
+                {
+                    "x": 0.0912,
+                    "y": 0.5096
+                }
+            ],
+            "id": 11,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='12' data-category='paragraph' style='font-size:20px'>The Dual Display</p>",
+                "markdown": "The Dual Display",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0826,
+                    "y": 0.5366
+                },
+                {
+                    "x": 0.3154,
+                    "y": 0.5366
+                },
+                {
+                    "x": 0.3154,
+                    "y": 0.5599
+                },
+                {
+                    "x": 0.0826,
+                    "y": 0.5599
+                }
+            ],
+            "id": 12,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='13' data-category='paragraph' style='font-size:18px'>The dual display consists of a large full-frame window and a<br>smaller close-up of the focus area.</p>",
+                "markdown": "The dual display consists of a large full-frame window and a\nsmaller close-up of the focus area.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0809,
+                    "y": 0.5681
+                },
+                {
+                    "x": 0.893,
+                    "y": 0.5681
+                },
+                {
+                    "x": 0.893,
+                    "y": 0.618
+                },
+                {
+                    "x": 0.0809,
+                    "y": 0.618
+                }
+            ],
+            "id": 13,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='14' style='font-size:20px'>24</footer>",
+                "markdown": "24",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0826,
+                    "y": 0.9565
+                },
+                {
+                    "x": 0.1228,
+                    "y": 0.9565
+                },
+                {
+                    "x": 0.1228,
+                    "y": 0.9788
+                },
+                {
+                    "x": 0.0826,
+                    "y": 0.9788
+                }
+            ],
+            "id": 14,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

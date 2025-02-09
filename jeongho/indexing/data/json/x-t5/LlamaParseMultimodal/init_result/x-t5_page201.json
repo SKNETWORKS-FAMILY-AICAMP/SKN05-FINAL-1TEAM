@@ -1,0 +1,95 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "# SHOOTING SETTING (Still Photography)\n\n## ISO AUTO SETTING\n\nChoose the base sensitivity, maximum sensitivity, and minimum shutter speed for use when ISO sensitivity is set to **A** (auto). Settings for **AUTO1**, **AUTO2**, and **AUTO3** can be stored separately.\n\n## DIGITAL TELE-CONV.\n\nZoom in on your subject during shooting using ultra-high-resolution digital zoom.\n\n| Option | Description |\n|--------|-------------|\n| 2.0x   | Take pictures using 2× zoom. **L**- and **M**-size pictures are automatically cropped to size **S**. |\n| 1.4x   | Take pictures using 1.4× zoom. **L**-size pictures are automatically cropped to size **M**. |\n| OFF    | Digital teleconverter off. |\n\n> ⚠️ **Note:** Image quality may drop when the digital teleconverter is used.\n\n> ⚠️ **Note:** The digital teleconverter cannot be used when a 1.29× crop is selected during burst photography or when **ON** is selected for **SPORTS FINDER MODE**.",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "SHOOTING SETTING (Still Photography)",
+                    "md": "# SHOOTING SETTING (Still Photography)"
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "ISO AUTO SETTING",
+                    "md": "## ISO AUTO SETTING"
+                },
+                {
+                    "type": "text",
+                    "value": "Choose the base sensitivity, maximum sensitivity, and minimum shutter speed for use when ISO sensitivity is set to **A** (auto). Settings for **AUTO1**, **AUTO2**, and **AUTO3** can be stored separately.",
+                    "md": "Choose the base sensitivity, maximum sensitivity, and minimum shutter speed for use when ISO sensitivity is set to **A** (auto). Settings for **AUTO1**, **AUTO2**, and **AUTO3** can be stored separately."
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "DIGITAL TELE-CONV.",
+                    "md": "## DIGITAL TELE-CONV."
+                },
+                {
+                    "type": "text",
+                    "value": "Zoom in on your subject during shooting using ultra-high-resolution digital zoom.",
+                    "md": "Zoom in on your subject during shooting using ultra-high-resolution digital zoom."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Option",
+                            "Description"
+                        ],
+                        [
+                            "2.0x",
+                            "Take pictures using 2× zoom. **L**- and **M**-size pictures are automatically cropped to size **S**."
+                        ],
+                        [
+                            "1.4x",
+                            "Take pictures using 1.4× zoom. **L**-size pictures are automatically cropped to size **M**."
+                        ],
+                        [
+                            "OFF",
+                            "Digital teleconverter off."
+                        ]
+                    ],
+                    "md": "| Option | Description |\n|--------|-------------|\n| 2.0x   | Take pictures using 2× zoom. **L**- and **M**-size pictures are automatically cropped to size **S**. |\n| 1.4x   | Take pictures using 1.4× zoom. **L**-size pictures are automatically cropped to size **M**. |\n| OFF    | Digital teleconverter off. |",
+                    "isPerfectTable": true,
+                    "csv": "\"Option\",\"Description\"\n\"2.0x\",\"Take pictures using 2× zoom. **L**- and **M**-size pictures are automatically cropped to size **S**.\"\n\"1.4x\",\"Take pictures using 1.4× zoom. **L**-size pictures are automatically cropped to size **M**.\"\n\"OFF\",\"Digital teleconverter off.\""
+                },
+                {
+                    "type": "text",
+                    "value": "> ⚠️ **Note:** Image quality may drop when the digital teleconverter is used.\n\n> ⚠️ **Note:** The digital teleconverter cannot be used when a 1.29× crop is selected during burst photography or when **ON** is selected for **SPORTS FINDER MODE**.",
+                    "md": "> ⚠️ **Note:** Image quality may drop when the digital teleconverter is used.\n\n> ⚠️ **Note:** The digital teleconverter cannot be used when a 1.29× crop is selected during burst photography or when **ON** is selected for **SPORTS FINDER MODE**."
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "parsingMode": "multimodal-openai-gpt4o",
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 598.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "c5cd2168-d327-4cd4-864c-26538511081d",
+    "file_path": "../data/raw_data/x-t5/x-t5_split/x-t5_page201.pdf"
+}

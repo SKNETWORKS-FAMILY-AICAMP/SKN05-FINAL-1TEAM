@@ -1,0 +1,116 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "# IMAGE QUALITY SETTING (Movie Recording)\n\n## WHITE BALANCE\nOptions are the same as those for still photography, but settings must be adjusted separately (see page 136).\n\n## DYNAMIC RANGE\nChoose a dynamic range for movie recording.\n\n| Option | Description |\n|--------|-------------|\n| 100%   | See \"DYNAMIC RANGE\" (page 140). |\n| 200%   | |\n| 400%   | |\n\n- **AUTO** (automatic dynamic range control) is not available during movie recording.\n- **200%** is available at sensitivities from ISO 320 to ISO 12800.\n- **400%** at sensitivities from ISO 640 to 12800.\n- This item is available when F-Log/HLG is selected for **MOVIE SETTING > F-Log/HLG RECORDING**.\n\n## TONE CURVE\nOptions are the same as those for still photography, but settings must be adjusted separately (see page 141).\n\n## COLOR\nOptions are the same as those for still photography, but settings must be adjusted separately (see page 141).",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "IMAGE QUALITY SETTING (Movie Recording)",
+                    "md": "# IMAGE QUALITY SETTING (Movie Recording)"
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "WHITE BALANCE",
+                    "md": "## WHITE BALANCE"
+                },
+                {
+                    "type": "text",
+                    "value": "Options are the same as those for still photography, but settings must be adjusted separately (see page 136).",
+                    "md": "Options are the same as those for still photography, but settings must be adjusted separately (see page 136)."
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "DYNAMIC RANGE",
+                    "md": "## DYNAMIC RANGE"
+                },
+                {
+                    "type": "text",
+                    "value": "Choose a dynamic range for movie recording.",
+                    "md": "Choose a dynamic range for movie recording."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Option",
+                            "Description"
+                        ],
+                        [
+                            "100%",
+                            "See \"DYNAMIC RANGE\" (page 140)."
+                        ],
+                        [
+                            "200%",
+                            ""
+                        ],
+                        [
+                            "400%",
+                            ""
+                        ]
+                    ],
+                    "md": "| Option | Description |\n|--------|-------------|\n| 100%   | See \"DYNAMIC RANGE\" (page 140). |\n| 200%   | |\n| 400%   | |",
+                    "isPerfectTable": true,
+                    "csv": "\"Option\",\"Description\"\n\"100%\",\"See \"\"DYNAMIC RANGE\"\" (page 140).\"\n\"200%\",\"\"\n\"400%\",\"\""
+                },
+                {
+                    "type": "text",
+                    "value": "- **AUTO** (automatic dynamic range control) is not available during movie recording.\n- **200%** is available at sensitivities from ISO 320 to ISO 12800.\n- **400%** at sensitivities from ISO 640 to 12800.\n- This item is available when F-Log/HLG is selected for **MOVIE SETTING > F-Log/HLG RECORDING**.",
+                    "md": "- **AUTO** (automatic dynamic range control) is not available during movie recording.\n- **200%** is available at sensitivities from ISO 320 to ISO 12800.\n- **400%** at sensitivities from ISO 640 to 12800.\n- This item is available when F-Log/HLG is selected for **MOVIE SETTING > F-Log/HLG RECORDING**."
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "TONE CURVE",
+                    "md": "## TONE CURVE"
+                },
+                {
+                    "type": "text",
+                    "value": "Options are the same as those for still photography, but settings must be adjusted separately (see page 141).",
+                    "md": "Options are the same as those for still photography, but settings must be adjusted separately (see page 141)."
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "COLOR",
+                    "md": "## COLOR"
+                },
+                {
+                    "type": "text",
+                    "value": "Options are the same as those for still photography, but settings must be adjusted separately (see page 141).",
+                    "md": "Options are the same as those for still photography, but settings must be adjusted separately (see page 141)."
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 111.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "72a13652-4816-4690-b48d-c47b2d2d865a",
+    "file_path": "../data/raw_data/x-s20/x-s20_split/x-s20_page229.pdf"
+}

@@ -1,0 +1,120 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "# Focus Tracking Options\n\nThe individual parameters that are part of a focus tracking set are described below.\n\n## TRACKING SENSITIVITY\n\nThis parameter determines how long the camera waits to switch focus when an object enters the focus area behind or in front of the current subject. The higher the value, the longer the camera will wait.\n\n!Tracking Sensitivity\n\n### Options\n\n| 0 | 1 | 2 | 3 | 4 |\n\n- The higher the value, the longer it takes the camera to refocus when you attempt to switch subjects.\n- The lower the value, the more likely the camera is to switch focus from your subject to other objects in the focus area.\n\n## SPEED TRACKING SENSITIVITY\n\nThis parameter determines how sensitive the tracking system is to changes in subject velocity. The higher the value, the greater the precision with which the system attempts to respond to sudden movement.\n\n!Speed Tracking Sensitivity\n\n### Options\n\n| 0 | 1 | 2 |\n\n- The higher the value, the more difficulty the camera will have focusing in situations in which autofocus does not perform well, such as when the subject is highly reflective or low in contrast.",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "Focus Tracking Options",
+                    "md": "# Focus Tracking Options"
+                },
+                {
+                    "type": "text",
+                    "value": "The individual parameters that are part of a focus tracking set are described below.",
+                    "md": "The individual parameters that are part of a focus tracking set are described below."
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "TRACKING SENSITIVITY",
+                    "md": "## TRACKING SENSITIVITY"
+                },
+                {
+                    "type": "text",
+                    "value": "This parameter determines how long the camera waits to switch focus when an object enters the focus area behind or in front of the current subject. The higher the value, the longer the camera will wait.\n\n!Tracking Sensitivity",
+                    "md": "This parameter determines how long the camera waits to switch focus when an object enters the focus area behind or in front of the current subject. The higher the value, the longer the camera will wait.\n\n!Tracking Sensitivity"
+                },
+                {
+                    "type": "heading",
+                    "lvl": 3,
+                    "value": "Options",
+                    "md": "### Options"
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "0",
+                            "1",
+                            "2",
+                            "3",
+                            "4"
+                        ]
+                    ],
+                    "md": "| 0 | 1 | 2 | 3 | 4 |",
+                    "isPerfectTable": true,
+                    "csv": "\"0\",\"1\",\"2\",\"3\",\"4\""
+                },
+                {
+                    "type": "text",
+                    "value": "- The higher the value, the longer it takes the camera to refocus when you attempt to switch subjects.\n- The lower the value, the more likely the camera is to switch focus from your subject to other objects in the focus area.",
+                    "md": "- The higher the value, the longer it takes the camera to refocus when you attempt to switch subjects.\n- The lower the value, the more likely the camera is to switch focus from your subject to other objects in the focus area."
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "SPEED TRACKING SENSITIVITY",
+                    "md": "## SPEED TRACKING SENSITIVITY"
+                },
+                {
+                    "type": "text",
+                    "value": "This parameter determines how sensitive the tracking system is to changes in subject velocity. The higher the value, the greater the precision with which the system attempts to respond to sudden movement.\n\n!Speed Tracking Sensitivity",
+                    "md": "This parameter determines how sensitive the tracking system is to changes in subject velocity. The higher the value, the greater the precision with which the system attempts to respond to sudden movement.\n\n!Speed Tracking Sensitivity"
+                },
+                {
+                    "type": "heading",
+                    "lvl": 3,
+                    "value": "Options",
+                    "md": "### Options"
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "0",
+                            "1",
+                            "2"
+                        ]
+                    ],
+                    "md": "| 0 | 1 | 2 |",
+                    "isPerfectTable": true,
+                    "csv": "\"0\",\"1\",\"2\""
+                },
+                {
+                    "type": "text",
+                    "value": "- The higher the value, the more difficulty the camera will have focusing in situations in which autofocus does not perform well, such as when the subject is highly reflective or low in contrast.",
+                    "md": "- The higher the value, the more difficulty the camera will have focusing in situations in which autofocus does not perform well, such as when the subject is highly reflective or low in contrast."
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 722.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "b53a8eb5-2a35-4e23-ad4e-6431e463eed3",
+    "file_path": "../data/raw_data/x100v/x100v_split/x100v_page143.pdf"
+}

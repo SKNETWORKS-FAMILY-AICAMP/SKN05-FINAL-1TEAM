@@ -1,0 +1,378 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:22px'>Network/USB<br>Setting<br>Menus</header>\n<br><h1 id='1' style='font-size:20px'>Recording Movies Remotely</h1>\n<br><p id='2' data-category='paragraph' style='font-size:14px'>Start recording on one or more remote cameras or end recording<br>on selected cameras without ending recording on others.</p>\n<p id='3' data-category='list' style='font-size:18px'>1 The cameras to which the chosen action (starting or stop-<br>ping recording) will apply can be selected in the \"Choose for<br>REC/STOP\" area.<br>Select cameras by clicking or tapping the numbers in the<br>\"Choose for REC/STOP\" area. The numbers for the selected<br>cameras will be highlighted.</p>\n<br><p id='4' data-category='list' style='font-size:18px'>2 Click or tap the \"REC button\".<br>The selected cameras will start recording and their thumb-<br>nails will be highlighted in color.</p>\n<br><p id='5' data-category='list' style='font-size:18px'>3 To end recording, select the desired cameras in the \"Choose<br>for REC/STOP\" area.<br>Select cameras by clicking or tapping the numbers in the<br>\"Choose for REC/STOP\" area. The numbers for the selected<br>cameras will be highlighted.</p>\n<br><p id='6' data-category='list' style='font-size:18px'>4 Click or tap the \"STOP button\".<br>The selected cameras will stop recording.</p>\n<p id='7' data-category='paragraph' style='font-size:20px'>Viewing Movies</p>\n<br><p id='8' data-category='paragraph' style='font-size:16px'>View movies recorded to the camera memory card.</p>\n<br><header id='9' style='font-size:14px'>8</header>\n<p id='10' data-category='list' style='font-size:14px'>1 Select a camera in the \"Choose camera\" area.</p>\n<p id='11' data-category='list' style='font-size:16px'>2 Click or tap the \"Check button for movies in memory card\".<br>The files on the camera memory card will be displayed.</p>\n<footer id='12' style='font-size:20px'>310</footer>",
+        "markdown": "Network/USB\nSetting\nMenus\n\n# Recording Movies Remotely\n\nStart recording on one or more remote cameras or end recording\non selected cameras without ending recording on others.\n\n- 1 The cameras to which the chosen action (starting or stop-\n- ping recording) will apply can be selected in the \"Choose for\n- REC/STOP\" area.\n- Select cameras by clicking or tapping the numbers in the\n- \"Choose for REC/STOP\" area. The numbers for the selected\n- cameras will be highlighted.\n\n\n- 2 Click or tap the \"REC button\".\n- The selected cameras will start recording and their thumb-\n- nails will be highlighted in color.\n\n\n- 3 To end recording, select the desired cameras in the \"Choose\n- for REC/STOP\" area.\n- Select cameras by clicking or tapping the numbers in the\n- \"Choose for REC/STOP\" area. The numbers for the selected\n- cameras will be highlighted.\n\n\n- 4 Click or tap the \"STOP button\".\n- The selected cameras will stop recording.\n\n\nViewing Movies\n\nView movies recorded to the camera memory card.\n\n8\n\n- 1 Select a camera in the \"Choose camera\" area.\n\n\n- 2 Click or tap the \"Check button for movies in memory card\".\n- The files on the camera memory card will be displayed.\n\n\n310",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:22px'>Network/USB<br>Setting<br>Menus</header>",
+                "markdown": "Network/USB\nSetting\nMenus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0177,
+                    "y": 0.428
+                },
+                {
+                    "x": 0.0406,
+                    "y": 0.428
+                },
+                {
+                    "x": 0.0406,
+                    "y": 0.6384
+                },
+                {
+                    "x": 0.0177,
+                    "y": 0.6384
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='1' style='font-size:20px'>Recording Movies Remotely</h1>",
+                "markdown": "# Recording Movies Remotely",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0826,
+                    "y": 0.0732
+                },
+                {
+                    "x": 0.4653,
+                    "y": 0.0732
+                },
+                {
+                    "x": 0.4653,
+                    "y": 0.0961
+                },
+                {
+                    "x": 0.0826,
+                    "y": 0.0961
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='2' data-category='paragraph' style='font-size:14px'>Start recording on one or more remote cameras or end recording<br>on selected cameras without ending recording on others.</p>",
+                "markdown": "Start recording on one or more remote cameras or end recording\non selected cameras without ending recording on others.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0804,
+                    "y": 0.1051
+                },
+                {
+                    "x": 0.8926,
+                    "y": 0.1051
+                },
+                {
+                    "x": 0.8926,
+                    "y": 0.1545
+                },
+                {
+                    "x": 0.0804,
+                    "y": 0.1545
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "list",
+            "content": {
+                "html": "<p id='3' data-category='list' style='font-size:18px'>1 The cameras to which the chosen action (starting or stop-<br>ping recording) will apply can be selected in the \"Choose for<br>REC/STOP\" area.<br>Select cameras by clicking or tapping the numbers in the<br>\"Choose for REC/STOP\" area. The numbers for the selected<br>cameras will be highlighted.</p>",
+                "markdown": "- 1 The cameras to which the chosen action (starting or stop-\n- ping recording) will apply can be selected in the \"Choose for\n- REC/STOP\" area.\n- Select cameras by clicking or tapping the numbers in the\n- \"Choose for REC/STOP\" area. The numbers for the selected\n- cameras will be highlighted.\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0934,
+                    "y": 0.1687
+                },
+                {
+                    "x": 0.8949,
+                    "y": 0.1687
+                },
+                {
+                    "x": 0.8949,
+                    "y": 0.3211
+                },
+                {
+                    "x": 0.0934,
+                    "y": 0.3211
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "list",
+            "content": {
+                "html": "<br><p id='4' data-category='list' style='font-size:18px'>2 Click or tap the \"REC button\".<br>The selected cameras will start recording and their thumb-<br>nails will be highlighted in color.</p>",
+                "markdown": "- 2 Click or tap the \"REC button\".\n- The selected cameras will start recording and their thumb-\n- nails will be highlighted in color.\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0971,
+                    "y": 0.3331
+                },
+                {
+                    "x": 0.8916,
+                    "y": 0.3331
+                },
+                {
+                    "x": 0.8916,
+                    "y": 0.4105
+                },
+                {
+                    "x": 0.0971,
+                    "y": 0.4105
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "list",
+            "content": {
+                "html": "<br><p id='5' data-category='list' style='font-size:18px'>3 To end recording, select the desired cameras in the \"Choose<br>for REC/STOP\" area.<br>Select cameras by clicking or tapping the numbers in the<br>\"Choose for REC/STOP\" area. The numbers for the selected<br>cameras will be highlighted.</p>",
+                "markdown": "- 3 To end recording, select the desired cameras in the \"Choose\n- for REC/STOP\" area.\n- Select cameras by clicking or tapping the numbers in the\n- \"Choose for REC/STOP\" area. The numbers for the selected\n- cameras will be highlighted.\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0978,
+                    "y": 0.4218
+                },
+                {
+                    "x": 0.8936,
+                    "y": 0.4218
+                },
+                {
+                    "x": 0.8936,
+                    "y": 0.5491
+                },
+                {
+                    "x": 0.0978,
+                    "y": 0.5491
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "list",
+            "content": {
+                "html": "<br><p id='6' data-category='list' style='font-size:18px'>4 Click or tap the \"STOP button\".<br>The selected cameras will stop recording.</p>",
+                "markdown": "- 4 Click or tap the \"STOP button\".\n- The selected cameras will stop recording.\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0937,
+                    "y": 0.5604
+                },
+                {
+                    "x": 0.6529,
+                    "y": 0.5604
+                },
+                {
+                    "x": 0.6529,
+                    "y": 0.6133
+                },
+                {
+                    "x": 0.0937,
+                    "y": 0.6133
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='7' data-category='paragraph' style='font-size:20px'>Viewing Movies</p>",
+                "markdown": "Viewing Movies",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0812,
+                    "y": 0.6388
+                },
+                {
+                    "x": 0.3015,
+                    "y": 0.6388
+                },
+                {
+                    "x": 0.3015,
+                    "y": 0.6628
+                },
+                {
+                    "x": 0.0812,
+                    "y": 0.6628
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='8' data-category='paragraph' style='font-size:16px'>View movies recorded to the camera memory card.</p>",
+                "markdown": "View movies recorded to the camera memory card.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0796,
+                    "y": 0.6707
+                },
+                {
+                    "x": 0.7229,
+                    "y": 0.6707
+                },
+                {
+                    "x": 0.7229,
+                    "y": 0.6955
+                },
+                {
+                    "x": 0.0796,
+                    "y": 0.6955
+                }
+            ],
+            "id": 8,
+            "page": 1
+        },
+        {
+            "category": "header",
+            "content": {
+                "html": "<br><header id='9' style='font-size:14px'>8</header>",
+                "markdown": "8",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0251,
+                    "y": 0.6568
+                },
+                {
+                    "x": 0.0444,
+                    "y": 0.6568
+                },
+                {
+                    "x": 0.0444,
+                    "y": 0.6781
+                },
+                {
+                    "x": 0.0251,
+                    "y": 0.6781
+                }
+            ],
+            "id": 9,
+            "page": 1
+        },
+        {
+            "category": "list",
+            "content": {
+                "html": "<p id='10' data-category='list' style='font-size:14px'>1 Select a camera in the \"Choose camera\" area.</p>",
+                "markdown": "- 1 Select a camera in the \"Choose camera\" area.\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0926,
+                    "y": 0.7091
+                },
+                {
+                    "x": 0.6947,
+                    "y": 0.7091
+                },
+                {
+                    "x": 0.6947,
+                    "y": 0.7343
+                },
+                {
+                    "x": 0.0926,
+                    "y": 0.7343
+                }
+            ],
+            "id": 10,
+            "page": 1
+        },
+        {
+            "category": "list",
+            "content": {
+                "html": "<p id='11' data-category='list' style='font-size:16px'>2 Click or tap the \"Check button for movies in memory card\".<br>The files on the camera memory card will be displayed.</p>",
+                "markdown": "- 2 Click or tap the \"Check button for movies in memory card\".\n- The files on the camera memory card will be displayed.\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0958,
+                    "y": 0.7697
+                },
+                {
+                    "x": 0.8685,
+                    "y": 0.7697
+                },
+                {
+                    "x": 0.8685,
+                    "y": 0.824
+                },
+                {
+                    "x": 0.0958,
+                    "y": 0.824
+                }
+            ],
+            "id": 11,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='12' style='font-size:20px'>310</footer>",
+                "markdown": "310",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0829,
+                    "y": 0.9564
+                },
+                {
+                    "x": 0.1401,
+                    "y": 0.9564
+                },
+                {
+                    "x": 0.1401,
+                    "y": 0.9794
+                },
+                {
+                    "x": 0.0829,
+                    "y": 0.9794
+                }
+            ],
+            "id": 12,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

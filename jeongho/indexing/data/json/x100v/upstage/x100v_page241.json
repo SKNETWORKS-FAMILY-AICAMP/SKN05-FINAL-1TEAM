@@ -1,0 +1,294 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:14px'>CONNECTION SETTING</header>\n<h1 id='1' style='font-size:16px'>GENERAL SETTINGS</h1>\n<br><h1 id='2' style='font-size:20px'>Adjust settings for connection to wireless networks.</h1>\n<table id='3' style='font-size:14px'><tr><td>Option</td><td>Description</td></tr><tr><td>NAME</td><td>Choose a name (NAME) to identify the camera on the wireless network (the camera is assigned a unique name by default).</td></tr><tr><td>RESIZE IMAGE FOR SMARTPHONE 3M</td><td>Choose whether to resize images for upload to smartphones. Resizing applies only to the copy uploaded to the smartphone; the original is not affected. ● ON: Larger images are resized to 3M for upload. This setting is recommended. OFF: Images are uploaded at their original size.</td></tr><tr><td>GEOTAGGING</td><td>Choose whether location data downloaded from a smartphone are embedded in pictures as they are taken.</td></tr><tr><td>LOCATION INFO</td><td>Display the location data last downloaded from a smartphone.</td></tr><tr><td>BUTTON SETTING</td><td>Choose the role played by function buttons assigned the WIRELESS COMMUNICATION function. ● 8 PAIRING/TRANSFER ORDER: The buttons can be used for pairing and selecting images for transfer. WIRELESS COMMUNICATION: The buttons can be used for wireless connections.</td></tr></table>\n<br><p id='4' data-category='paragraph' style='font-size:18px'>IMFORMATION</p>\n<br><p id='5' data-category='paragraph' style='font-size:18px'>View the camera's MAC and Bluetooth address.</p>\n<p id='6' data-category='paragraph' style='font-size:16px'>RESET WIRELESS SETTING</p>\n<br><p id='7' data-category='paragraph' style='font-size:20px'>Restore wireless settings to their default values.</p>\n<footer id='8' style='font-size:22px'>241</footer>\n<br><footer id='9' style='font-size:22px'>The<br>Setup<br>Menus<br>8</footer>",
+        "markdown": "CONNECTION SETTING\n\n# GENERAL SETTINGS\n\n# Adjust settings for connection to wireless networks.\n\n| Option | Description |\n| --- | --- |\n| NAME | Choose a name (NAME) to identify the camera on the wireless network (the camera is assigned a unique name by default). |\n| RESIZE IMAGE FOR SMARTPHONE 3M | Choose whether to resize images for upload to smartphones. Resizing applies only to the copy uploaded to the smartphone; the original is not affected. ● ON: Larger images are resized to 3M for upload. This setting is recommended. OFF: Images are uploaded at their original size. |\n| GEOTAGGING | Choose whether location data downloaded from a smartphone are embedded in pictures as they are taken. |\n| LOCATION INFO | Display the location data last downloaded from a smartphone. |\n| BUTTON SETTING | Choose the role played by function buttons assigned the WIRELESS COMMUNICATION function. ● 8 PAIRING/TRANSFER ORDER: The buttons can be used for pairing and selecting images for transfer. WIRELESS COMMUNICATION: The buttons can be used for wireless connections. |\n\n\nIMFORMATION\n\nView the camera's MAC and Bluetooth address.\n\nRESET WIRELESS SETTING\n\nRestore wireless settings to their default values.\n\n241\n\nThe\nSetup\nMenus\n8",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:14px'>CONNECTION SETTING</header>",
+                "markdown": "CONNECTION SETTING",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6899,
+                    "y": 0.0286
+                },
+                {
+                    "x": 0.9178,
+                    "y": 0.0286
+                },
+                {
+                    "x": 0.9178,
+                    "y": 0.0491
+                },
+                {
+                    "x": 0.6899,
+                    "y": 0.0491
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='1' style='font-size:16px'>GENERAL SETTINGS</h1>",
+                "markdown": "# GENERAL SETTINGS",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1074,
+                    "y": 0.0722
+                },
+                {
+                    "x": 0.3817,
+                    "y": 0.0722
+                },
+                {
+                    "x": 0.3817,
+                    "y": 0.0942
+                },
+                {
+                    "x": 0.1074,
+                    "y": 0.0942
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='2' style='font-size:20px'>Adjust settings for connection to wireless networks.</h1>",
+                "markdown": "# Adjust settings for connection to wireless networks.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1057,
+                    "y": 0.1043
+                },
+                {
+                    "x": 0.7597,
+                    "y": 0.1043
+                },
+                {
+                    "x": 0.7597,
+                    "y": 0.1291
+                },
+                {
+                    "x": 0.1057,
+                    "y": 0.1291
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='3' style='font-size:14px'><tr><td>Option</td><td>Description</td></tr><tr><td>NAME</td><td>Choose a name (NAME) to identify the camera on the wireless network (the camera is assigned a unique name by default).</td></tr><tr><td>RESIZE IMAGE FOR SMARTPHONE 3M</td><td>Choose whether to resize images for upload to smartphones. Resizing applies only to the copy uploaded to the smartphone; the original is not affected. ● ON: Larger images are resized to 3M for upload. This setting is recommended. OFF: Images are uploaded at their original size.</td></tr><tr><td>GEOTAGGING</td><td>Choose whether location data downloaded from a smartphone are embedded in pictures as they are taken.</td></tr><tr><td>LOCATION INFO</td><td>Display the location data last downloaded from a smartphone.</td></tr><tr><td>BUTTON SETTING</td><td>Choose the role played by function buttons assigned the WIRELESS COMMUNICATION function. ● 8 PAIRING/TRANSFER ORDER: The buttons can be used for pairing and selecting images for transfer. WIRELESS COMMUNICATION: The buttons can be used for wireless connections.</td></tr></table>",
+                "markdown": "| Option | Description |\n| --- | --- |\n| NAME | Choose a name (NAME) to identify the camera on the wireless network (the camera is assigned a unique name by default). |\n| RESIZE IMAGE FOR SMARTPHONE 3M | Choose whether to resize images for upload to smartphones. Resizing applies only to the copy uploaded to the smartphone; the original is not affected. ● ON: Larger images are resized to 3M for upload. This setting is recommended. OFF: Images are uploaded at their original size. |\n| GEOTAGGING | Choose whether location data downloaded from a smartphone are embedded in pictures as they are taken. |\n| LOCATION INFO | Display the location data last downloaded from a smartphone. |\n| BUTTON SETTING | Choose the role played by function buttons assigned the WIRELESS COMMUNICATION function. ● 8 PAIRING/TRANSFER ORDER: The buttons can be used for pairing and selecting images for transfer. WIRELESS COMMUNICATION: The buttons can be used for wireless connections. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1074,
+                    "y": 0.1417
+                },
+                {
+                    "x": 0.9204,
+                    "y": 0.1417
+                },
+                {
+                    "x": 0.9204,
+                    "y": 0.5895
+                },
+                {
+                    "x": 0.1074,
+                    "y": 0.5895
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='4' data-category='paragraph' style='font-size:18px'>IMFORMATION</p>",
+                "markdown": "IMFORMATION",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1099,
+                    "y": 0.6043
+                },
+                {
+                    "x": 0.3099,
+                    "y": 0.6043
+                },
+                {
+                    "x": 0.3099,
+                    "y": 0.6258
+                },
+                {
+                    "x": 0.1099,
+                    "y": 0.6258
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='5' data-category='paragraph' style='font-size:18px'>View the camera's MAC and Bluetooth address.</p>",
+                "markdown": "View the camera's MAC and Bluetooth address.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1059,
+                    "y": 0.6357
+                },
+                {
+                    "x": 0.7002,
+                    "y": 0.6357
+                },
+                {
+                    "x": 0.7002,
+                    "y": 0.6607
+                },
+                {
+                    "x": 0.1059,
+                    "y": 0.6607
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='6' data-category='paragraph' style='font-size:16px'>RESET WIRELESS SETTING</p>",
+                "markdown": "RESET WIRELESS SETTING",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1083,
+                    "y": 0.6807
+                },
+                {
+                    "x": 0.4583,
+                    "y": 0.6807
+                },
+                {
+                    "x": 0.4583,
+                    "y": 0.704
+                },
+                {
+                    "x": 0.1083,
+                    "y": 0.704
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='7' data-category='paragraph' style='font-size:20px'>Restore wireless settings to their default values.</p>",
+                "markdown": "Restore wireless settings to their default values.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1066,
+                    "y": 0.7134
+                },
+                {
+                    "x": 0.7062,
+                    "y": 0.7134
+                },
+                {
+                    "x": 0.7062,
+                    "y": 0.7372
+                },
+                {
+                    "x": 0.1066,
+                    "y": 0.7372
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='8' style='font-size:22px'>241</footer>",
+                "markdown": "241",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.8604,
+                    "y": 0.9567
+                },
+                {
+                    "x": 0.9149,
+                    "y": 0.9567
+                },
+                {
+                    "x": 0.9149,
+                    "y": 0.9794
+                },
+                {
+                    "x": 0.8604,
+                    "y": 0.9794
+                }
+            ],
+            "id": 8,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<br><footer id='9' style='font-size:22px'>The<br>Setup<br>Menus<br>8</footer>",
+                "markdown": "The\nSetup\nMenus\n8",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.957,
+                    "y": 0.5062
+                },
+                {
+                    "x": 0.9824,
+                    "y": 0.5062
+                },
+                {
+                    "x": 0.9824,
+                    "y": 0.676
+                },
+                {
+                    "x": 0.957,
+                    "y": 0.676
+                }
+            ],
+            "id": 9,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

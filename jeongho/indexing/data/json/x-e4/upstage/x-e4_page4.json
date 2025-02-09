@@ -1,0 +1,266 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<h1 id='0' style='font-size:20px'>The Shutter Speed Dial</h1>\n<br><h1 id='1' style='font-size:18px'>Rotate the shutter speed dial to choose<br>the shutter speed ( �� 56).</h1>\n<header id='2' style='font-size:16px'>1</header>\n<br><figure id='3'><img style='font-size:14px' alt=\"8 - て\nA\n8\nA\n2000\nAU\n1000 180x 2\n500 250\" data-coord=\"top-left:(1675,427); bottom-right:(2464,950)\" /></figure>\n<h1 id='4' style='font-size:20px'>The Exposure Compensation Dial</h1>\n<br><p id='5' data-category='paragraph' style='font-size:16px'>Rotate the dial to choose an exposure<br>compensation amount ( ≡ 80).</p>\n<br><header id='6' style='font-size:22px'>Before<br>You<br>Begin</header>\n<br><figure id='7'><img style='font-size:14px' alt=\"し\n-II-C 0\nx\n+\" data-coord=\"top-left:(1671,1160); bottom-right:(2475,1713)\" /></figure>\n<footer id='8' style='font-size:18px'>4</footer>",
+        "markdown": "# The Shutter Speed Dial\n\n# Rotate the shutter speed dial to choose\nthe shutter speed ( �� 56).\n\n1\n\n![image](/image/placeholder)\n8 - て\nA\n8\nA\n2000\nAU\n1000 180x 2\n500 250\n\n# The Exposure Compensation Dial\n\nRotate the dial to choose an exposure\ncompensation amount ( ≡ 80).\n\nBefore\nYou\nBegin\n\n![image](/image/placeholder)\nし\n-II-C 0\nx\n+\n\n4",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='0' style='font-size:20px'>The Shutter Speed Dial</h1>",
+                "markdown": "# The Shutter Speed Dial",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0831,
+                    "y": 0.0734
+                },
+                {
+                    "x": 0.3935,
+                    "y": 0.0734
+                },
+                {
+                    "x": 0.3935,
+                    "y": 0.0959
+                },
+                {
+                    "x": 0.0831,
+                    "y": 0.0959
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='1' style='font-size:18px'>Rotate the shutter speed dial to choose<br>the shutter speed ( �� 56).</h1>",
+                "markdown": "# Rotate the shutter speed dial to choose\nthe shutter speed ( �� 56).",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.081,
+                    "y": 0.1041
+                },
+                {
+                    "x": 0.6043,
+                    "y": 0.1041
+                },
+                {
+                    "x": 0.6043,
+                    "y": 0.1548
+                },
+                {
+                    "x": 0.081,
+                    "y": 0.1548
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='2' style='font-size:16px'>1</header>",
+                "markdown": "1",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0265,
+                    "y": 0.2384
+                },
+                {
+                    "x": 0.0424,
+                    "y": 0.2384
+                },
+                {
+                    "x": 0.0424,
+                    "y": 0.2587
+                },
+                {
+                    "x": 0.0265,
+                    "y": 0.2587
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "figure",
+            "content": {
+                "html": "<br><figure id='3'><img style='font-size:14px' alt=\"8 - て\nA\n8\nA\n2000\nAU\n1000 180x 2\n500 250\" data-coord=\"top-left:(1675,427); bottom-right:(2464,950)\" /></figure>",
+                "markdown": "![image](/image/placeholder)\n8 - て\nA\n8\nA\n2000\nAU\n1000 180x 2\n500 250",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.606,
+                    "y": 0.1097
+                },
+                {
+                    "x": 0.8918,
+                    "y": 0.1097
+                },
+                {
+                    "x": 0.8918,
+                    "y": 0.2438
+                },
+                {
+                    "x": 0.606,
+                    "y": 0.2438
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='4' style='font-size:20px'>The Exposure Compensation Dial</h1>",
+                "markdown": "# The Exposure Compensation Dial",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0827,
+                    "y": 0.2704
+                },
+                {
+                    "x": 0.5311,
+                    "y": 0.2704
+                },
+                {
+                    "x": 0.5311,
+                    "y": 0.2922
+                },
+                {
+                    "x": 0.0827,
+                    "y": 0.2922
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='5' data-category='paragraph' style='font-size:16px'>Rotate the dial to choose an exposure<br>compensation amount ( ≡ 80).</p>",
+                "markdown": "Rotate the dial to choose an exposure\ncompensation amount ( ≡ 80).",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.081,
+                    "y": 0.3016
+                },
+                {
+                    "x": 0.6009,
+                    "y": 0.3016
+                },
+                {
+                    "x": 0.6009,
+                    "y": 0.3521
+                },
+                {
+                    "x": 0.081,
+                    "y": 0.3521
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "header",
+            "content": {
+                "html": "<br><header id='6' style='font-size:22px'>Before<br>You<br>Begin</header>",
+                "markdown": "Before\nYou\nBegin",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0177,
+                    "y": 0.2768
+                },
+                {
+                    "x": 0.0421,
+                    "y": 0.2768
+                },
+                {
+                    "x": 0.0421,
+                    "y": 0.4035
+                },
+                {
+                    "x": 0.0177,
+                    "y": 0.4035
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "figure",
+            "content": {
+                "html": "<br><figure id='7'><img style='font-size:14px' alt=\"し\n-II-C 0\nx\n+\" data-coord=\"top-left:(1671,1160); bottom-right:(2475,1713)\" /></figure>",
+                "markdown": "![image](/image/placeholder)\nし\n-II-C 0\nx\n+",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6047,
+                    "y": 0.2978
+                },
+                {
+                    "x": 0.8955,
+                    "y": 0.2978
+                },
+                {
+                    "x": 0.8955,
+                    "y": 0.4396
+                },
+                {
+                    "x": 0.6047,
+                    "y": 0.4396
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='8' style='font-size:18px'>4</footer>",
+                "markdown": "4",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0814,
+                    "y": 0.9575
+                },
+                {
+                    "x": 0.1065,
+                    "y": 0.9575
+                },
+                {
+                    "x": 0.1065,
+                    "y": 0.9779
+                },
+                {
+                    "x": 0.0814,
+                    "y": 0.9779
+                }
+            ],
+            "id": 8,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

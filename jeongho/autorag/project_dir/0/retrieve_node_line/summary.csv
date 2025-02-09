@@ -1,0 +1,2 @@
+node_type,best_module_filename,best_module_name,best_module_params,best_execution_time
+retrieval,3.parquet,HybridCC,"{'top_k': 10, 'normalize_method': 'z', 'weight': 0.61, 'target_modules': ('VectorDB', 'BM25'), 'target_module_params': ({'top_k': 10, 'vectordb': 'default'}, {'top_k': 10})}",0.0474985766410827

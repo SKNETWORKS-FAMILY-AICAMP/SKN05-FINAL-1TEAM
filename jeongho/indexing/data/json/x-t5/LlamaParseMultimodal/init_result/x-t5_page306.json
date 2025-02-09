@@ -1,0 +1,71 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "\n# MSEF ELECTRONIC SHUTTER SOUND\n\nChoose the sound made by the mechanical or electronic front-curtain shutter.\n\n**Options:**\n\n- 🎵 1 SOUND 1\n- 🎵 2 SOUND 2\n- 🎵 3 SOUND 3\n\n# ES ELECTRONIC SHUTTER VOLUME\n\nAdjust the volume of the sounds produced by the electronic shutter. Choose ◼ OFF to disable the shutter sound.\n\n**Options:**\n\n- 🔊 (high)\n- 🔉 (medium)\n- 🔈 (low)\n- ◼ OFF (mute)\n\n# ES ELECTRONIC SHUTTER SOUND\n\nChoose the sound made by the electronic shutter.\n\n**Options:**\n\n- 🎵 1 SOUND 1\n- 🎵 2 SOUND 2\n- 🎵 3 SOUND 3\n",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "MSEF ELECTRONIC SHUTTER SOUND",
+                    "md": "# MSEF ELECTRONIC SHUTTER SOUND"
+                },
+                {
+                    "type": "text",
+                    "value": "Choose the sound made by the mechanical or electronic front-curtain shutter.\n\n**Options:**\n\n- 🎵 1 SOUND 1\n- 🎵 2 SOUND 2\n- 🎵 3 SOUND 3",
+                    "md": "Choose the sound made by the mechanical or electronic front-curtain shutter.\n\n**Options:**\n\n- 🎵 1 SOUND 1\n- 🎵 2 SOUND 2\n- 🎵 3 SOUND 3"
+                },
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "ES ELECTRONIC SHUTTER VOLUME",
+                    "md": "# ES ELECTRONIC SHUTTER VOLUME"
+                },
+                {
+                    "type": "text",
+                    "value": "Adjust the volume of the sounds produced by the electronic shutter. Choose ◼ OFF to disable the shutter sound.\n\n**Options:**\n\n- 🔊 (high)\n- 🔉 (medium)\n- 🔈 (low)\n- ◼ OFF (mute)",
+                    "md": "Adjust the volume of the sounds produced by the electronic shutter. Choose ◼ OFF to disable the shutter sound.\n\n**Options:**\n\n- 🔊 (high)\n- 🔉 (medium)\n- 🔈 (low)\n- ◼ OFF (mute)"
+                },
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "ES ELECTRONIC SHUTTER SOUND",
+                    "md": "# ES ELECTRONIC SHUTTER SOUND"
+                },
+                {
+                    "type": "text",
+                    "value": "Choose the sound made by the electronic shutter.\n\n**Options:**\n\n- 🎵 1 SOUND 1\n- 🎵 2 SOUND 2\n- 🎵 3 SOUND 3",
+                    "md": "Choose the sound made by the electronic shutter.\n\n**Options:**\n\n- 🎵 1 SOUND 1\n- 🎵 2 SOUND 2\n- 🎵 3 SOUND 3"
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "parsingMode": "multimodal-openai-gpt4o",
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 601.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "54bd5215-b32b-4082-aad2-b5471deff60a",
+    "file_path": "../data/raw_data/x-t5/x-t5_split/x-t5_page306.pdf"
+}

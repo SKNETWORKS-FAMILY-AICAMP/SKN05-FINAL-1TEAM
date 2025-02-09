@@ -1,0 +1,15 @@
+{
+    "parsing_result": "# Shutter AF\n\nChoose whether the camera focuses when the shutter button is pressed halfway.\n\n| Option | Description |\n|--------|-------------|\n| **AF-S** | - **ON**: Focus locks when the shutter button is pressed halfway. <br> - **OFF**: No focus operation is performed when the shutter button is pressed halfway. |\n| **AF-C** | - **ON**: The camera focuses while the shutter button is pressed halfway. <br> - **OFF**: No focus operation is performed when the shutter button is pressed halfway. |\n\n# Shutter AE\n\nIf **ON** is selected, exposure will lock while the shutter button is pressed halfway. The setting for focus mode C (AF-C) can be adjusted separately from that for modes S (AF-S) and M (manual focus).\n\n| Options |  |\n|---------|--|\n| **ON**  | **OFF** |\n\n- Select **OFF** to allow the camera to adjust exposure before each shot taken in burst mode.",
+    "metadata": {
+        "page": 298,
+        "model": "x-t5",
+        "chapter": "The Setup Menus",
+        "section": "BUTTON/DIAL SETTING",
+        "subsection": [
+            "SHUTTER AF",
+            "SHUTTER AE"
+        ],
+        "embedding_model": "text-embedding-3-small",
+        "token": 202
+    }
+}

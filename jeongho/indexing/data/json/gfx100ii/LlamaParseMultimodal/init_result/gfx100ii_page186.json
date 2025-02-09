@@ -1,0 +1,104 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "\n# MF ASSIST\n\nChoose how focus is displayed in manual focus mode.\n\n| Option               | Description                                                                                                                                   |\n|----------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|\n| DIGITAL SPLIT IMAGE  | Displays a black-and-white (MONOCHROME) or color (COLOR) split image in the center of the frame. Frame the subject in the split-image area and rotate the focus ring until the four parts of the split image are correctly aligned. |\n| DIGITAL MICROPRISM   | A grid pattern that emphasizes blur is displayed when the subject is out of focus, disappearing to be replaced by a sharp image when the subject is in focus. |\n| FOCUS PEAK HIGHLIGHT | The camera heightens high-contrast outlines. Choose a color and peaking level.                                                                 |\n| OFF                  | Focus is displayed normally (MF assist cannot be used).                                                                                       |\n\n# INTERLOCK MF ASSIST & FOCUS RING\n\nIf ON is selected, the display configured by MF ASSIST appears only when the focus ring was turned during manual focus mode.\n\n| Options |\n|---------|\n| ON      |\n| OFF     |\n",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "MF ASSIST",
+                    "md": "# MF ASSIST"
+                },
+                {
+                    "type": "text",
+                    "value": "Choose how focus is displayed in manual focus mode.",
+                    "md": "Choose how focus is displayed in manual focus mode."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Option",
+                            "Description"
+                        ],
+                        [
+                            "DIGITAL SPLIT IMAGE",
+                            "Displays a black-and-white (MONOCHROME) or color (COLOR) split image in the center of the frame. Frame the subject in the split-image area and rotate the focus ring until the four parts of the split image are correctly aligned."
+                        ],
+                        [
+                            "DIGITAL MICROPRISM",
+                            "A grid pattern that emphasizes blur is displayed when the subject is out of focus, disappearing to be replaced by a sharp image when the subject is in focus."
+                        ],
+                        [
+                            "FOCUS PEAK HIGHLIGHT",
+                            "The camera heightens high-contrast outlines. Choose a color and peaking level."
+                        ],
+                        [
+                            "OFF",
+                            "Focus is displayed normally (MF assist cannot be used)."
+                        ]
+                    ],
+                    "md": "| Option               | Description                                                                                                                                   |\n|----------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|\n| DIGITAL SPLIT IMAGE  | Displays a black-and-white (MONOCHROME) or color (COLOR) split image in the center of the frame. Frame the subject in the split-image area and rotate the focus ring until the four parts of the split image are correctly aligned. |\n| DIGITAL MICROPRISM   | A grid pattern that emphasizes blur is displayed when the subject is out of focus, disappearing to be replaced by a sharp image when the subject is in focus. |\n| FOCUS PEAK HIGHLIGHT | The camera heightens high-contrast outlines. Choose a color and peaking level.                                                                 |\n| OFF                  | Focus is displayed normally (MF assist cannot be used).                                                                                       |",
+                    "isPerfectTable": true,
+                    "csv": "\"Option\",\"Description\"\n\"DIGITAL SPLIT IMAGE\",\"Displays a black-and-white (MONOCHROME) or color (COLOR) split image in the center of the frame. Frame the subject in the split-image area and rotate the focus ring until the four parts of the split image are correctly aligned.\"\n\"DIGITAL MICROPRISM\",\"A grid pattern that emphasizes blur is displayed when the subject is out of focus, disappearing to be replaced by a sharp image when the subject is in focus.\"\n\"FOCUS PEAK HIGHLIGHT\",\"The camera heightens high-contrast outlines. Choose a color and peaking level.\"\n\"OFF\",\"Focus is displayed normally (MF assist cannot be used).\""
+                },
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "INTERLOCK MF ASSIST & FOCUS RING",
+                    "md": "# INTERLOCK MF ASSIST & FOCUS RING"
+                },
+                {
+                    "type": "text",
+                    "value": "If ON is selected, the display configured by MF ASSIST appears only when the focus ring was turned during manual focus mode.",
+                    "md": "If ON is selected, the display configured by MF ASSIST appears only when the focus ring was turned during manual focus mode."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Options"
+                        ],
+                        [
+                            "ON"
+                        ],
+                        [
+                            "OFF"
+                        ]
+                    ],
+                    "md": "| Options |\n|---------|\n| ON      |\n| OFF     |",
+                    "isPerfectTable": true,
+                    "csv": "\"Options\"\n\"ON\"\n\"OFF\""
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 255.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "dfca4bda-2a6d-46de-870a-07c644a27928",
+    "file_path": "../data/raw_data/gfx100ii/gfx100ii_split/gfx100ii_page186.pdf"
+}

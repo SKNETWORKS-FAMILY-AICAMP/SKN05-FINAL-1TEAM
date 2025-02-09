@@ -1,0 +1,141 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "\n# SAVE DATA SETTING\n\n## EDIT FILE NAME\nChange the file name prefix. sRGB images use a four-letter prefix (default “DSCF”), Adobe RGB images a three-letter prefix (“DSF”) preceded by an underscore.\n\n| Option   | Default prefix | Sample file name |\n|----------|----------------|------------------|\n| sRGB     | DSCF           | ABCD0001         |\n| AdobeRGB | _DSF           | _ABC0001         |\n\n## CARD SLOT SETTING\nChoose the role played by the card in the second slot.\n\n| Option     | Description                                                                                                      |\n|------------|------------------------------------------------------------------------------------------------------------------|\n| SEQUENTIAL | The card in the second slot is used only when the card in the first slot is full.                                |\n| BACKUP     | Each picture is recorded twice, once to each card.                                                               |\n| SEPARATE   | RAW pictures will be saved to the card in the first slot and JPEG or HEIF pictures to the card in the second slot. This option only takes effect when FINE+RAW or NORMAL+RAW is selected for !Image Quality Setting IMAGE QUALITY SETTING > IMAGE QUALITY. |\n\n## SELECT SLOT (SEQUENTIAL)\nChoose the card that is recorded to first when SEQUENTIAL is selected for !Card Slot Setting CARD SLOT SETTING.\n\n| Options |\n|---------|\n| SLOT 1  |\n| SLOT 2  |\n",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "SAVE DATA SETTING",
+                    "md": "# SAVE DATA SETTING"
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "EDIT FILE NAME",
+                    "md": "## EDIT FILE NAME"
+                },
+                {
+                    "type": "text",
+                    "value": "Change the file name prefix. sRGB images use a four-letter prefix (default “DSCF”), Adobe RGB images a three-letter prefix (“DSF”) preceded by an underscore.",
+                    "md": "Change the file name prefix. sRGB images use a four-letter prefix (default “DSCF”), Adobe RGB images a three-letter prefix (“DSF”) preceded by an underscore."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Option",
+                            "Default prefix",
+                            "Sample file name"
+                        ],
+                        [
+                            "sRGB",
+                            "DSCF",
+                            "ABCD0001"
+                        ],
+                        [
+                            "AdobeRGB",
+                            "_DSF",
+                            "_ABC0001"
+                        ]
+                    ],
+                    "md": "| Option   | Default prefix | Sample file name |\n|----------|----------------|------------------|\n| sRGB     | DSCF           | ABCD0001         |\n| AdobeRGB | _DSF           | _ABC0001         |",
+                    "isPerfectTable": true,
+                    "csv": "\"Option\",\"Default prefix\",\"Sample file name\"\n\"sRGB\",\"DSCF\",\"ABCD0001\"\n\"AdobeRGB\",\"_DSF\",\"_ABC0001\""
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "CARD SLOT SETTING",
+                    "md": "## CARD SLOT SETTING"
+                },
+                {
+                    "type": "text",
+                    "value": "Choose the role played by the card in the second slot.",
+                    "md": "Choose the role played by the card in the second slot."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Option",
+                            "Description"
+                        ],
+                        [
+                            "SEQUENTIAL",
+                            "The card in the second slot is used only when the card in the first slot is full."
+                        ],
+                        [
+                            "BACKUP",
+                            "Each picture is recorded twice, once to each card."
+                        ],
+                        [
+                            "SEPARATE",
+                            "RAW pictures will be saved to the card in the first slot and JPEG or HEIF pictures to the card in the second slot. This option only takes effect when FINE+RAW or NORMAL+RAW is selected for !Image Quality Setting IMAGE QUALITY SETTING > IMAGE QUALITY."
+                        ]
+                    ],
+                    "md": "| Option     | Description                                                                                                      |\n|------------|------------------------------------------------------------------------------------------------------------------|\n| SEQUENTIAL | The card in the second slot is used only when the card in the first slot is full.                                |\n| BACKUP     | Each picture is recorded twice, once to each card.                                                               |\n| SEPARATE   | RAW pictures will be saved to the card in the first slot and JPEG or HEIF pictures to the card in the second slot. This option only takes effect when FINE+RAW or NORMAL+RAW is selected for !Image Quality Setting IMAGE QUALITY SETTING > IMAGE QUALITY. |",
+                    "isPerfectTable": true,
+                    "csv": "\"Option\",\"Description\"\n\"SEQUENTIAL\",\"The card in the second slot is used only when the card in the first slot is full.\"\n\"BACKUP\",\"Each picture is recorded twice, once to each card.\"\n\"SEPARATE\",\"RAW pictures will be saved to the card in the first slot and JPEG or HEIF pictures to the card in the second slot. This option only takes effect when FINE+RAW or NORMAL+RAW is selected for !Image Quality Setting IMAGE QUALITY SETTING > IMAGE QUALITY.\""
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "SELECT SLOT (SEQUENTIAL)",
+                    "md": "## SELECT SLOT (SEQUENTIAL)"
+                },
+                {
+                    "type": "text",
+                    "value": "Choose the card that is recorded to first when SEQUENTIAL is selected for !Card Slot Setting CARD SLOT SETTING.",
+                    "md": "Choose the card that is recorded to first when SEQUENTIAL is selected for !Card Slot Setting CARD SLOT SETTING."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Options"
+                        ],
+                        [
+                            "SLOT 1"
+                        ],
+                        [
+                            "SLOT 2"
+                        ]
+                    ],
+                    "md": "| Options |\n|---------|\n| SLOT 1  |\n| SLOT 2  |",
+                    "isPerfectTable": true,
+                    "csv": "\"Options\"\n\"SLOT 1\"\n\"SLOT 2\""
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "parsingMode": "multimodal-openai-gpt4o",
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 779.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "40a0c77a-c129-4189-a29f-91c44bd13ec9",
+    "file_path": "../data/raw_data/x-t5/x-t5_split/x-t5_page335.pdf"
+}

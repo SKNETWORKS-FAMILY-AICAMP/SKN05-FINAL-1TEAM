@@ -1,0 +1,238 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:16px'>Recording Movies</header>\n<h1 id='1' style='font-size:18px'>2 Press the shutter button to start recording.</h1>\n<br><p id='2' data-category='list' style='font-size:16px'>● A recording indicator ) is dis-<br>played while recording is in prog-<br>ress.<br>● The borders of the display turn<br>red during movie recording, green<br>during high-speed recording.<br>● The time remaining is shown by a Recording<br>countdown display, while another<br>Time<br>display counts up to show the re-<br>cording time.</p>\n<br><figure id='3'><img style='font-size:14px' alt=\"1h12m36s\n1h07m24s\n1h12m36s\n1h07m24s\ntime\nremaining\" data-coord=\"top-left:(1699,403); bottom-right:(2542,1284)\" /></figure>\n<p id='4' data-category='paragraph' style='font-size:20px'>3 Press the shutter button again to end recording.<br>Recording ends automatically when the maximum length is<br>reached or the memory card is full.</p>\n<br><footer id='5' style='font-size:14px'>4</footer>\n<br><footer id='6' style='font-size:22px'>Movie<br>Recording<br>and<br>Playback</footer>\n<footer id='7' style='font-size:20px'>59</footer>",
+        "markdown": "Recording Movies\n\n# 2 Press the shutter button to start recording.\n\n- ● A recording indicator ) is dis-\n- played while recording is in prog-\n- ress.\n- ● The borders of the display turn\n- red during movie recording, green\n- during high-speed recording.\n- ● The time remaining is shown by a Recording\n- countdown display, while another\n- Time\n- display counts up to show the re-\n- cording time.\n\n\n![image](/image/placeholder)\n1h12m36s\n1h07m24s\n1h12m36s\n1h07m24s\ntime\nremaining\n\n3 Press the shutter button again to end recording.\nRecording ends automatically when the maximum length is\nreached or the memory card is full.\n\n4\n\nMovie\nRecording\nand\nPlayback\n\n59",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:16px'>Recording Movies</header>",
+                "markdown": "Recording Movies",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.7373,
+                    "y": 0.0285
+                },
+                {
+                    "x": 0.918,
+                    "y": 0.0285
+                },
+                {
+                    "x": 0.918,
+                    "y": 0.0503
+                },
+                {
+                    "x": 0.7373,
+                    "y": 0.0503
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='1' style='font-size:18px'>2 Press the shutter button to start recording.</h1>",
+                "markdown": "# 2 Press the shutter button to start recording.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1249,
+                    "y": 0.0716
+                },
+                {
+                    "x": 0.6971,
+                    "y": 0.0716
+                },
+                {
+                    "x": 0.6971,
+                    "y": 0.0973
+                },
+                {
+                    "x": 0.1249,
+                    "y": 0.0973
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "list",
+            "content": {
+                "html": "<br><p id='2' data-category='list' style='font-size:16px'>● A recording indicator ) is dis-<br>played while recording is in prog-<br>ress.<br>● The borders of the display turn<br>red during movie recording, green<br>during high-speed recording.<br>● The time remaining is shown by a Recording<br>countdown display, while another<br>Time<br>display counts up to show the re-<br>cording time.</p>",
+                "markdown": "- ● A recording indicator ) is dis-\n- played while recording is in prog-\n- ress.\n- ● The borders of the display turn\n- red during movie recording, green\n- during high-speed recording.\n- ● The time remaining is shown by a Recording\n- countdown display, while another\n- Time\n- display counts up to show the re-\n- cording time.\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1612,
+                    "y": 0.102
+                },
+                {
+                    "x": 0.7745,
+                    "y": 0.102
+                },
+                {
+                    "x": 0.7745,
+                    "y": 0.361
+                },
+                {
+                    "x": 0.1612,
+                    "y": 0.361
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "figure",
+            "content": {
+                "html": "<br><figure id='3'><img style='font-size:14px' alt=\"1h12m36s\n1h07m24s\n1h12m36s\n1h07m24s\ntime\nremaining\" data-coord=\"top-left:(1699,403); bottom-right:(2542,1284)\" /></figure>",
+                "markdown": "![image](/image/placeholder)\n1h12m36s\n1h07m24s\n1h12m36s\n1h07m24s\ntime\nremaining",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6148,
+                    "y": 0.1034
+                },
+                {
+                    "x": 0.9198,
+                    "y": 0.1034
+                },
+                {
+                    "x": 0.9198,
+                    "y": 0.3295
+                },
+                {
+                    "x": 0.6148,
+                    "y": 0.3295
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='4' data-category='paragraph' style='font-size:20px'>3 Press the shutter button again to end recording.<br>Recording ends automatically when the maximum length is<br>reached or the memory card is full.</p>",
+                "markdown": "3 Press the shutter button again to end recording.\nRecording ends automatically when the maximum length is\nreached or the memory card is full.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1245,
+                    "y": 0.3791
+                },
+                {
+                    "x": 0.9191,
+                    "y": 0.3791
+                },
+                {
+                    "x": 0.9191,
+                    "y": 0.4551
+                },
+                {
+                    "x": 0.1245,
+                    "y": 0.4551
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<br><footer id='5' style='font-size:14px'>4</footer>",
+                "markdown": "4",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9573,
+                    "y": 0.4172
+                },
+                {
+                    "x": 0.9766,
+                    "y": 0.4172
+                },
+                {
+                    "x": 0.9766,
+                    "y": 0.4371
+                },
+                {
+                    "x": 0.9573,
+                    "y": 0.4371
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<br><footer id='6' style='font-size:22px'>Movie<br>Recording<br>and<br>Playback</footer>",
+                "markdown": "Movie\nRecording\nand\nPlayback",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9563,
+                    "y": 0.4551
+                },
+                {
+                    "x": 0.9819,
+                    "y": 0.4551
+                },
+                {
+                    "x": 0.9819,
+                    "y": 0.6805
+                },
+                {
+                    "x": 0.9563,
+                    "y": 0.6805
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='7' style='font-size:20px'>59</footer>",
+                "markdown": "59",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.878,
+                    "y": 0.957
+                },
+                {
+                    "x": 0.9171,
+                    "y": 0.957
+                },
+                {
+                    "x": 0.9171,
+                    "y": 0.9795
+                },
+                {
+                    "x": 0.878,
+                    "y": 0.9795
+                }
+            ],
+            "id": 7,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

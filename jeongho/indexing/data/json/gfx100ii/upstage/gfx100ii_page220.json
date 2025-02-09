@@ -1,0 +1,294 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:22px'>Playback<br>and<br>the<br>Playback<br>Menu</header>\n<br><h1 id='1' style='font-size:22px'>The Playback Menu</h1>\n<br><h1 id='2' style='font-size:20px'>Adjust playback settings.</h1>\n<h1 id='3' style='font-size:18px'>The playback menu is displayed when<br>you press MENU/OK in playback mode.</h1>\n<br><table id='4' style='font-size:14px'><tr><td colspan=\"2\">PLAY BACK MENU 1/3</td></tr><tr><td>SWITCH SLOT</td><td></td></tr><tr><td>2</td><td>RAW CONVERSION</td></tr><tr><td>HEIF</td><td>TO JPEG/TIFF CONVERSION</td></tr><tr><td></td><td>ERASE</td></tr><tr><td>SIMULTANEOUS DELETE</td><td></td></tr><tr><td>CROP</td><td></td></tr><tr><td>RESIZE</td><td></td></tr><tr><td>PROTECT</td><td></td></tr><tr><td></td><td>BACK EXIT</td></tr></table>\n<p id='5' data-category='paragraph' style='font-size:16px'>SWITCH SLOT</p>\n<br><p id='6' data-category='paragraph' style='font-size:18px'>Choose the card or SSD from which images will be played back.</p>\n<p id='7' data-category='paragraph' style='font-size:16px'>If two memory cards are inserted, you can press and hold the ▶ but-<br>ton during playback to choose a card for playback.</p>\n<header id='8' style='font-size:14px'>7</header>\n<footer id='9' style='font-size:20px'>220</footer>",
+        "markdown": "Playback\nand\nthe\nPlayback\nMenu\n\n# The Playback Menu\n\n# Adjust playback settings.\n\n# The playback menu is displayed when\nyou press MENU/OK in playback mode.\n\n| PLAY BACK MENU 1/3 | PLAY BACK MENU 1/3 |\n| --- | --- |\n| SWITCH SLOT |  |\n| 2 | RAW CONVERSION |\n| HEIF | TO JPEG/TIFF CONVERSION |\n|  | ERASE |\n| SIMULTANEOUS DELETE |  |\n| CROP |  |\n| RESIZE |  |\n| PROTECT |  |\n|  | BACK EXIT |\n\n\nSWITCH SLOT\n\nChoose the card or SSD from which images will be played back.\n\nIf two memory cards are inserted, you can press and hold the ▶ but-\nton during playback to choose a card for playback.\n\n7\n\n220",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:22px'>Playback<br>and<br>the<br>Playback<br>Menu</header>",
+                "markdown": "Playback\nand\nthe\nPlayback\nMenu",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0163,
+                    "y": 0.3367
+                },
+                {
+                    "x": 0.0429,
+                    "y": 0.3367
+                },
+                {
+                    "x": 0.0429,
+                    "y": 0.5936
+                },
+                {
+                    "x": 0.0163,
+                    "y": 0.5936
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='1' style='font-size:22px'>The Playback Menu</h1>",
+                "markdown": "# The Playback Menu",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1539,
+                    "y": 0.0731
+                },
+                {
+                    "x": 0.4863,
+                    "y": 0.0731
+                },
+                {
+                    "x": 0.4863,
+                    "y": 0.0993
+                },
+                {
+                    "x": 0.1539,
+                    "y": 0.0993
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='2' style='font-size:20px'>Adjust playback settings.</h1>",
+                "markdown": "# Adjust playback settings.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1529,
+                    "y": 0.1097
+                },
+                {
+                    "x": 0.4703,
+                    "y": 0.1097
+                },
+                {
+                    "x": 0.4703,
+                    "y": 0.1336
+                },
+                {
+                    "x": 0.1529,
+                    "y": 0.1336
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='3' style='font-size:18px'>The playback menu is displayed when<br>you press MENU/OK in playback mode.</h1>",
+                "markdown": "# The playback menu is displayed when\nyou press MENU/OK in playback mode.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0812,
+                    "y": 0.1478
+                },
+                {
+                    "x": 0.5991,
+                    "y": 0.1478
+                },
+                {
+                    "x": 0.5991,
+                    "y": 0.1976
+                },
+                {
+                    "x": 0.0812,
+                    "y": 0.1976
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='4' style='font-size:14px'><tr><td colspan=\"2\">PLAY BACK MENU 1/3</td></tr><tr><td>SWITCH SLOT</td><td></td></tr><tr><td>2</td><td>RAW CONVERSION</td></tr><tr><td>HEIF</td><td>TO JPEG/TIFF CONVERSION</td></tr><tr><td></td><td>ERASE</td></tr><tr><td>SIMULTANEOUS DELETE</td><td></td></tr><tr><td>CROP</td><td></td></tr><tr><td>RESIZE</td><td></td></tr><tr><td>PROTECT</td><td></td></tr><tr><td></td><td>BACK EXIT</td></tr></table>",
+                "markdown": "| PLAY BACK MENU 1/3 | PLAY BACK MENU 1/3 |\n| --- | --- |\n| SWITCH SLOT |  |\n| 2 | RAW CONVERSION |\n| HEIF | TO JPEG/TIFF CONVERSION |\n|  | ERASE |\n| SIMULTANEOUS DELETE |  |\n| CROP |  |\n| RESIZE |  |\n| PROTECT |  |\n|  | BACK EXIT |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6131,
+                    "y": 0.1477
+                },
+                {
+                    "x": 0.8896,
+                    "y": 0.1477
+                },
+                {
+                    "x": 0.8896,
+                    "y": 0.2936
+                },
+                {
+                    "x": 0.6131,
+                    "y": 0.2936
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='5' data-category='paragraph' style='font-size:16px'>SWITCH SLOT</p>",
+                "markdown": "SWITCH SLOT",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0813,
+                    "y": 0.3124
+                },
+                {
+                    "x": 0.269,
+                    "y": 0.3124
+                },
+                {
+                    "x": 0.269,
+                    "y": 0.3336
+                },
+                {
+                    "x": 0.0813,
+                    "y": 0.3336
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='6' data-category='paragraph' style='font-size:18px'>Choose the card or SSD from which images will be played back.</p>",
+                "markdown": "Choose the card or SSD from which images will be played back.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0816,
+                    "y": 0.3444
+                },
+                {
+                    "x": 0.8795,
+                    "y": 0.3444
+                },
+                {
+                    "x": 0.8795,
+                    "y": 0.3691
+                },
+                {
+                    "x": 0.0816,
+                    "y": 0.3691
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='7' data-category='paragraph' style='font-size:16px'>If two memory cards are inserted, you can press and hold the ▶ but-<br>ton during playback to choose a card for playback.</p>",
+                "markdown": "If two memory cards are inserted, you can press and hold the ▶ but-\nton during playback to choose a card for playback.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0899,
+                    "y": 0.383
+                },
+                {
+                    "x": 0.8875,
+                    "y": 0.383
+                },
+                {
+                    "x": 0.8875,
+                    "y": 0.4286
+                },
+                {
+                    "x": 0.0899,
+                    "y": 0.4286
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='8' style='font-size:14px'>7</header>",
+                "markdown": "7",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0256,
+                    "y": 0.5969
+                },
+                {
+                    "x": 0.0444,
+                    "y": 0.5969
+                },
+                {
+                    "x": 0.0444,
+                    "y": 0.618
+                },
+                {
+                    "x": 0.0256,
+                    "y": 0.618
+                }
+            ],
+            "id": 8,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='9' style='font-size:20px'>220</footer>",
+                "markdown": "220",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0826,
+                    "y": 0.956
+                },
+                {
+                    "x": 0.1405,
+                    "y": 0.956
+                },
+                {
+                    "x": 0.1405,
+                    "y": 0.9791
+                },
+                {
+                    "x": 0.0826,
+                    "y": 0.9791
+                }
+            ],
+            "id": 9,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

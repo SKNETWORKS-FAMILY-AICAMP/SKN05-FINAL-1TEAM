@@ -1,0 +1,89 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "# Auto Sensitivity (A)\n\nUse **SHOOTING SETTING > ISO AUTO SETTING** to choose the base sensitivity, maximum sensitivity, and minimum shutter speed for the A position on the sensitivity dial. Settings for AUTO1, AUTO2, and AUTO3 can be stored separately; the defaults are shown below.\n\n| Item               | Options     | AUTO1 | AUTO2 | AUTO3 |\n|--------------------|-------------|-------|-------|-------|\n| DEFAULT SENSITIVITY| 160–12800   | 160   | 160   | 160   |\n| MAX. SENSITIVITY   | 400–12800   | 800   | 1600  | 3200  |\n| MIN. SHUTTER SPEED | 1/500–1/4 SEC | 1/60 SEC | 1/60 SEC | 1/60 SEC |\n\nThe camera automatically chooses a sensitivity between the default and maximum values; sensitivity is only raised above the default value if the shutter speed required for optimal exposure would be slower than the value selected for **MIN. SHUTTER SPEED**.\n\n- If the value selected for **DEFAULT SENSITIVITY** is higher than that selected for **MAX. SENSITIVITY**, **DEFAULT SENSITIVITY** will be set to the value selected for **MAX. SENSITIVITY**.\n- The camera may select shutter speeds slower than **MIN. SHUTTER SPEED** if pictures would still be underexposed at the value selected for **MAX. SENSITIVITY**.",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "Auto Sensitivity (A)",
+                    "md": "# Auto Sensitivity (A)"
+                },
+                {
+                    "type": "text",
+                    "value": "Use **SHOOTING SETTING > ISO AUTO SETTING** to choose the base sensitivity, maximum sensitivity, and minimum shutter speed for the A position on the sensitivity dial. Settings for AUTO1, AUTO2, and AUTO3 can be stored separately; the defaults are shown below.",
+                    "md": "Use **SHOOTING SETTING > ISO AUTO SETTING** to choose the base sensitivity, maximum sensitivity, and minimum shutter speed for the A position on the sensitivity dial. Settings for AUTO1, AUTO2, and AUTO3 can be stored separately; the defaults are shown below."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Item",
+                            "Options",
+                            "AUTO1",
+                            "AUTO2",
+                            "AUTO3"
+                        ],
+                        [
+                            "DEFAULT SENSITIVITY",
+                            "160–12800",
+                            "160",
+                            "160",
+                            "160"
+                        ],
+                        [
+                            "MAX. SENSITIVITY",
+                            "400–12800",
+                            "800",
+                            "1600",
+                            "3200"
+                        ],
+                        [
+                            "MIN. SHUTTER SPEED",
+                            "1/500–1/4 SEC",
+                            "1/60 SEC",
+                            "1/60 SEC",
+                            "1/60 SEC"
+                        ]
+                    ],
+                    "md": "| Item               | Options     | AUTO1 | AUTO2 | AUTO3 |\n|--------------------|-------------|-------|-------|-------|\n| DEFAULT SENSITIVITY| 160–12800   | 160   | 160   | 160   |\n| MAX. SENSITIVITY   | 400–12800   | 800   | 1600  | 3200  |\n| MIN. SHUTTER SPEED | 1/500–1/4 SEC | 1/60 SEC | 1/60 SEC | 1/60 SEC |",
+                    "isPerfectTable": true,
+                    "csv": "\"Item\",\"Options\",\"AUTO1\",\"AUTO2\",\"AUTO3\"\n\"DEFAULT SENSITIVITY\",\"160–12800\",\"160\",\"160\",\"160\"\n\"MAX. SENSITIVITY\",\"400–12800\",\"800\",\"1600\",\"3200\"\n\"MIN. SHUTTER SPEED\",\"1/500–1/4 SEC\",\"1/60 SEC\",\"1/60 SEC\",\"1/60 SEC\""
+                },
+                {
+                    "type": "text",
+                    "value": "The camera automatically chooses a sensitivity between the default and maximum values; sensitivity is only raised above the default value if the shutter speed required for optimal exposure would be slower than the value selected for **MIN. SHUTTER SPEED**.\n\n- If the value selected for **DEFAULT SENSITIVITY** is higher than that selected for **MAX. SENSITIVITY**, **DEFAULT SENSITIVITY** will be set to the value selected for **MAX. SENSITIVITY**.\n- The camera may select shutter speeds slower than **MIN. SHUTTER SPEED** if pictures would still be underexposed at the value selected for **MAX. SENSITIVITY**.",
+                    "md": "The camera automatically chooses a sensitivity between the default and maximum values; sensitivity is only raised above the default value if the shutter speed required for optimal exposure would be slower than the value selected for **MIN. SHUTTER SPEED**.\n\n- If the value selected for **DEFAULT SENSITIVITY** is higher than that selected for **MAX. SENSITIVITY**, **DEFAULT SENSITIVITY** will be set to the value selected for **MAX. SENSITIVITY**.\n- The camera may select shutter speeds slower than **MIN. SHUTTER SPEED** if pictures would still be underexposed at the value selected for **MAX. SENSITIVITY**."
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 742.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "c4327853-753a-40e6-b4c1-ec046616d9fc",
+    "file_path": "../data/raw_data/x100v/x100v_split/x100v_page98.pdf"
+}

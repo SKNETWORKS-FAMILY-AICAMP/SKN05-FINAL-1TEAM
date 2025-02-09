@@ -1,0 +1,15 @@
+{
+    "parsing_result": "# Screen Setting\n\n## Dual Display Setting\nChoose the content of the two windows in the dual display.\n\n| Option          | Description                                                                 |\n|-----------------|-----------------------------------------------------------------------------|\n| R:FOCUS L:FRAME | The right (small) window shows a close-up of the focus area, while the left (large) window shows the entire frame. |\n| R:FRAME L:FOCUS | The right (small) window shows the entire frame, while the left (large) window shows a close-up of the focus area. |\n\n## EVF Full Screen Magnification\nChoose the magnification of the full-screen EVF display.\n\n| Options |       |\n|---------|-------|\n| 1.00x   | 0.94x |\n| 0.89x   | 0.83x |\n\n> 💡 **Note:**  \n> The screen magnification cannot be changed when **POWER MANAGEMENT > PERFORMANCE** is either **EVF FRAME RATE PRIORITY (120P)** or **EVF FRAME RATE PRIORITY (240P EQUIV.)** With these settings, the screen magnification is set to 0.77x.\n\n## DISP. Custom Setting\nChoose the items shown in the standard indicator display (📖 25).",
+    "embedding_result": [],
+    "metadata": {
+        "page": 349,
+        "model": "gfx100ii",
+        "chapter": "The Setup Menus",
+        "section": "SCREEN SETTING",
+        "subsection": [
+            "DUAL DISPLAY SETTING",
+            "EVF FULL SCREEN MAGNIFICATION",
+            "DISP. CUSTOM SETTING"
+        ]
+    }
+}

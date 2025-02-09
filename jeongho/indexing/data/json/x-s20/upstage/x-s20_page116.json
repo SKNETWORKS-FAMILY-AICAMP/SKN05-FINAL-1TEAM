@@ -1,0 +1,294 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<h1 id='0' style='font-size:20px'>HDR</h1>\n<br><p id='1' data-category='paragraph' style='font-size:18px'>Each time the shutter button is pressed, the camera takes<br>three shots, varying exposure each time, and combines<br>them into a single picture. The resulting photograph pre-<br>serves details in highlights and shadows.</p>\n\n<br><figure id='3'><img alt=\"\" data-coord=\"top-left:(1683,868); bottom-right:(2471,1421)\" /><br><figcaption id='2' style='font-size:18px'>1 Press the 일 (drive) button and select<br>HDR in the drive-mode menu.</figcaption></figure>\n\n<table id='5' style='font-size:14px'><tr><td>Option</td><td>Description</td></tr><tr><td>HDR AUTO</td><td>Dynamic range is automatically set to a value of from 200% to 800%.</td></tr><tr><td>HDR200</td><td>Dynamic range is set to 200%.</td></tr><tr><td>HDR400</td><td>Dynamic range is set to 400%.</td></tr><tr><td>HDR800</td><td>Dynamic range is set to 800%.</td></tr><tr><td>HDR800+</td><td>Camera settings are adjusted for maximum variation in dy- namic range.</td></tr><br><caption id='4' style='font-size:18px'>2 Choose the amount the brightnesses of the exposures vary.</caption></table>\n<br><header id='6' style='font-size:14px'>5</header>\n<p id='7' data-category='list' style='font-size:18px'>3 Take photographs.<br>The camera will create a combined image.</p>\n<br><header id='8' style='font-size:22px'>Taking<br>Photographs</header>\n<footer id='9' style='font-size:16px'>116</footer>",
+        "markdown": "# HDR\n\nEach time the shutter button is pressed, the camera takes\nthree shots, varying exposure each time, and combines\nthem into a single picture. The resulting photograph pre-\nserves details in highlights and shadows.\n\n1 Press the 일 (drive) button and select\nHDR in the drive-mode menu.\n\n![image](/image/placeholder)\n\n\n2 Choose the amount the brightnesses of the exposures vary.\n\n| Option | Description |\n| --- | --- |\n| HDR AUTO | Dynamic range is automatically set to a value of from 200% to 800%. |\n| HDR200 | Dynamic range is set to 200%. |\n| HDR400 | Dynamic range is set to 400%. |\n| HDR800 | Dynamic range is set to 800%. |\n| HDR800+ | Camera settings are adjusted for maximum variation in dy- namic range. |\n\n\n5\n\n- 3 Take photographs.\n- The camera will create a combined image.\n\n\nTaking\nPhotographs\n\n116",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='0' style='font-size:20px'>HDR</h1>",
+                "markdown": "# HDR",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1572,
+                    "y": 0.0737
+                },
+                {
+                    "x": 0.2356,
+                    "y": 0.0737
+                },
+                {
+                    "x": 0.2356,
+                    "y": 0.0987
+                },
+                {
+                    "x": 0.1572,
+                    "y": 0.0987
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='1' data-category='paragraph' style='font-size:18px'>Each time the shutter button is pressed, the camera takes<br>three shots, varying exposure each time, and combines<br>them into a single picture. The resulting photograph pre-<br>serves details in highlights and shadows.</p>",
+                "markdown": "Each time the shutter button is pressed, the camera takes\nthree shots, varying exposure each time, and combines\nthem into a single picture. The resulting photograph pre-\nserves details in highlights and shadows.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1539,
+                    "y": 0.1099
+                },
+                {
+                    "x": 0.8937,
+                    "y": 0.1099
+                },
+                {
+                    "x": 0.8937,
+                    "y": 0.2101
+                },
+                {
+                    "x": 0.1539,
+                    "y": 0.2101
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='2' data-category='paragraph' style='font-size:18px'>1 Press the 일 (drive) button and select<br>HDR in the drive-mode menu.</p>",
+                "markdown": "1 Press the 일 (drive) button and select\nHDR in the drive-mode menu.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0942,
+                    "y": 0.2252
+                },
+                {
+                    "x": 0.6037,
+                    "y": 0.2252
+                },
+                {
+                    "x": 0.6037,
+                    "y": 0.2745
+                },
+                {
+                    "x": 0.0942,
+                    "y": 0.2745
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "figure",
+            "content": {
+                "html": "<br><figure id='3'><img alt=\"\" data-coord=\"top-left:(1683,868); bottom-right:(2471,1421)\" /></figure>",
+                "markdown": "![image](/image/placeholder)\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6093,
+                    "y": 0.2229
+                },
+                {
+                    "x": 0.8941,
+                    "y": 0.2229
+                },
+                {
+                    "x": 0.8941,
+                    "y": 0.3646
+                },
+                {
+                    "x": 0.6093,
+                    "y": 0.3646
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='4' data-category='paragraph' style='font-size:18px'>2 Choose the amount the brightnesses of the exposures vary.</p>",
+                "markdown": "2 Choose the amount the brightnesses of the exposures vary.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0962,
+                    "y": 0.3781
+                },
+                {
+                    "x": 0.8821,
+                    "y": 0.3781
+                },
+                {
+                    "x": 0.8821,
+                    "y": 0.4054
+                },
+                {
+                    "x": 0.0962,
+                    "y": 0.4054
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='5' style='font-size:14px'><tr><td>Option</td><td>Description</td></tr><tr><td>HDR AUTO</td><td>Dynamic range is automatically set to a value of from 200% to 800%.</td></tr><tr><td>HDR200</td><td>Dynamic range is set to 200%.</td></tr><tr><td>HDR400</td><td>Dynamic range is set to 400%.</td></tr><tr><td>HDR800</td><td>Dynamic range is set to 800%.</td></tr><tr><td>HDR800+</td><td>Camera settings are adjusted for maximum variation in dy- namic range.</td></tr></table>",
+                "markdown": "| Option | Description |\n| --- | --- |\n| HDR AUTO | Dynamic range is automatically set to a value of from 200% to 800%. |\n| HDR200 | Dynamic range is set to 200%. |\n| HDR400 | Dynamic range is set to 400%. |\n| HDR800 | Dynamic range is set to 800%. |\n| HDR800+ | Camera settings are adjusted for maximum variation in dy- namic range. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1326,
+                    "y": 0.4161
+                },
+                {
+                    "x": 0.8926,
+                    "y": 0.4161
+                },
+                {
+                    "x": 0.8926,
+                    "y": 0.6038
+                },
+                {
+                    "x": 0.1326,
+                    "y": 0.6038
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "header",
+            "content": {
+                "html": "<br><header id='6' style='font-size:14px'>5</header>",
+                "markdown": "5",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0252,
+                    "y": 0.4773
+                },
+                {
+                    "x": 0.0437,
+                    "y": 0.4773
+                },
+                {
+                    "x": 0.0437,
+                    "y": 0.4986
+                },
+                {
+                    "x": 0.0252,
+                    "y": 0.4986
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "list",
+            "content": {
+                "html": "<p id='7' data-category='list' style='font-size:18px'>3 Take photographs.<br>The camera will create a combined image.</p>",
+                "markdown": "- 3 Take photographs.\n- The camera will create a combined image.\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0946,
+                    "y": 0.6169
+                },
+                {
+                    "x": 0.6657,
+                    "y": 0.6169
+                },
+                {
+                    "x": 0.6657,
+                    "y": 0.6701
+                },
+                {
+                    "x": 0.0946,
+                    "y": 0.6701
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "header",
+            "content": {
+                "html": "<br><header id='8' style='font-size:22px'>Taking<br>Photographs</header>",
+                "markdown": "Taking\nPhotographs",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0161,
+                    "y": 0.5106
+                },
+                {
+                    "x": 0.0426,
+                    "y": 0.5106
+                },
+                {
+                    "x": 0.0426,
+                    "y": 0.6658
+                },
+                {
+                    "x": 0.0161,
+                    "y": 0.6658
+                }
+            ],
+            "id": 8,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='9' style='font-size:16px'>116</footer>",
+                "markdown": "116",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0847,
+                    "y": 0.9565
+                },
+                {
+                    "x": 0.1405,
+                    "y": 0.9565
+                },
+                {
+                    "x": 0.1405,
+                    "y": 0.9791
+                },
+                {
+                    "x": 0.0847,
+                    "y": 0.9791
+                }
+            ],
+            "id": 9,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

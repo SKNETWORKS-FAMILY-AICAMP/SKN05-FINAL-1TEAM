@@ -1,0 +1,71 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "# Warning Messages and Displays\n\n| Warning | Description |\n|---------|-------------|\n| 📷 CANNOT EXECUTE | The selected operation is not supported: Check whether the picture was recorded with a different model of camera. |\n| !⚠ (yellow) CAMERA IS APPROACHING STANDARD TEMPERATURE LIMIT | The camera is approaching the maximum temperature allowed when **STANDARD** is selected for **AUTO POWER OFF TEMP.** and will shortly turn off automatically. Turn the camera off and wait for it to cool. |\n| !⚠ (yellow) CAMERA IS APPROACHING HIGH TEMPERATURE LIMIT. DO NOT HOLD CAMERA FOR LONG PERIODS OF TIME | The camera is approaching the maximum temperature allowed when **HIGH** is selected for **AUTO POWER OFF TEMP.** and will shortly turn off automatically. Remaining in contact with the camera could result in low-temperature burns; mount the camera on a tripod or take other steps to avoid prolonged contact with the camera. The camera will shortly turn off automatically. Turn the camera off and wait for it to cool. Mottling may increase in pictures taken when this warning is displayed. |\n| !⚠ (red) HIGH TEMPERATURE LIMIT REACHED SHUTTING DOWN | The camera temperature has reached the cutoff point and the camera is about to turn off automatically. Turn the camera off and wait for it to cool. Mottling may increase in pictures taken when this warning is displayed. |",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "Warning Messages and Displays",
+                    "md": "# Warning Messages and Displays"
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Warning",
+                            "Description"
+                        ],
+                        [
+                            "📷 CANNOT EXECUTE",
+                            "The selected operation is not supported: Check whether the picture was recorded with a different model of camera."
+                        ],
+                        [
+                            "!⚠ (yellow) CAMERA IS APPROACHING STANDARD TEMPERATURE LIMIT",
+                            "The camera is approaching the maximum temperature allowed when **STANDARD** is selected for **AUTO POWER OFF TEMP.** and will shortly turn off automatically. Turn the camera off and wait for it to cool."
+                        ],
+                        [
+                            "!⚠ (yellow) CAMERA IS APPROACHING HIGH TEMPERATURE LIMIT. DO NOT HOLD CAMERA FOR LONG PERIODS OF TIME",
+                            "The camera is approaching the maximum temperature allowed when **HIGH** is selected for **AUTO POWER OFF TEMP.** and will shortly turn off automatically. Remaining in contact with the camera could result in low-temperature burns; mount the camera on a tripod or take other steps to avoid prolonged contact with the camera. The camera will shortly turn off automatically. Turn the camera off and wait for it to cool. Mottling may increase in pictures taken when this warning is displayed."
+                        ],
+                        [
+                            "!⚠ (red) HIGH TEMPERATURE LIMIT REACHED SHUTTING DOWN",
+                            "The camera temperature has reached the cutoff point and the camera is about to turn off automatically. Turn the camera off and wait for it to cool. Mottling may increase in pictures taken when this warning is displayed."
+                        ]
+                    ],
+                    "md": "| Warning | Description |\n|---------|-------------|\n| 📷 CANNOT EXECUTE | The selected operation is not supported: Check whether the picture was recorded with a different model of camera. |\n| !⚠ (yellow) CAMERA IS APPROACHING STANDARD TEMPERATURE LIMIT | The camera is approaching the maximum temperature allowed when **STANDARD** is selected for **AUTO POWER OFF TEMP.** and will shortly turn off automatically. Turn the camera off and wait for it to cool. |\n| !⚠ (yellow) CAMERA IS APPROACHING HIGH TEMPERATURE LIMIT. DO NOT HOLD CAMERA FOR LONG PERIODS OF TIME | The camera is approaching the maximum temperature allowed when **HIGH** is selected for **AUTO POWER OFF TEMP.** and will shortly turn off automatically. Remaining in contact with the camera could result in low-temperature burns; mount the camera on a tripod or take other steps to avoid prolonged contact with the camera. The camera will shortly turn off automatically. Turn the camera off and wait for it to cool. Mottling may increase in pictures taken when this warning is displayed. |\n| !⚠ (red) HIGH TEMPERATURE LIMIT REACHED SHUTTING DOWN | The camera temperature has reached the cutoff point and the camera is about to turn off automatically. Turn the camera off and wait for it to cool. Mottling may increase in pictures taken when this warning is displayed. |",
+                    "isPerfectTable": true,
+                    "csv": "\"Warning\",\"Description\"\n\"📷 CANNOT EXECUTE\",\"The selected operation is not supported: Check whether the picture was recorded with a different model of camera.\"\n\"!⚠ (yellow) CAMERA IS APPROACHING STANDARD TEMPERATURE LIMIT\",\"The camera is approaching the maximum temperature allowed when **STANDARD** is selected for **AUTO POWER OFF TEMP.** and will shortly turn off automatically. Turn the camera off and wait for it to cool.\"\n\"!⚠ (yellow) CAMERA IS APPROACHING HIGH TEMPERATURE LIMIT. DO NOT HOLD CAMERA FOR LONG PERIODS OF TIME\",\"The camera is approaching the maximum temperature allowed when **HIGH** is selected for **AUTO POWER OFF TEMP.** and will shortly turn off automatically. Remaining in contact with the camera could result in low-temperature burns; mount the camera on a tripod or take other steps to avoid prolonged contact with the camera. The camera will shortly turn off automatically. Turn the camera off and wait for it to cool. Mottling may increase in pictures taken when this warning is displayed.\"\n\"!⚠ (red) HIGH TEMPERATURE LIMIT REACHED SHUTTING DOWN\",\"The camera temperature has reached the cutoff point and the camera is about to turn off automatically. Turn the camera off and wait for it to cool. Mottling may increase in pictures taken when this warning is displayed.\""
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 99.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "b8afaefd-0003-45df-b3ba-eddab8c25857",
+    "file_path": "../data/raw_data/x-s20/x-s20_split/x-s20_page412.pdf"
+}

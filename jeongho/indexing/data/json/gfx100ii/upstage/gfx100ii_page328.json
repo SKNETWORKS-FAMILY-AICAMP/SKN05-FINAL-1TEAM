@@ -1,0 +1,238 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:22px'>Network/USB<br>Setting<br>Menus</header>\n<br><h1 id='1' style='font-size:16px'>USB POWER SUPPLY/COMM SETTING</h1>\n\n<table id='3' style='font-size:16px'><tr><td>Option</td><td>Description</td></tr><tr><td>AUTO</td><td>The camera switches between power delivery and data trans- fer automatically.</td></tr><tr><td>POWER SUPPLY ON/ COMM OFF</td><td>The camera draws power from the connected device, reducing the drain on the battery. Data transfer is disabled.</td></tr><tr><td>POWER SUPPLY OFF/COMM ON</td><td>The camera can exchange data with, but not draw power from, the connected device.</td></tr><br><caption id='2' style='font-size:20px'>Choose whether USB connections to computers, smartphones,<br>or other devices are used for power delivery or data transfer.</caption></table>\n<p id='4' data-category='paragraph' style='font-size:14px'>The camera cannot draw power from Lightning connections or from<br>devices that do not supply power. Select POWER SUPPLY OFF/COMM<br>ON before connecting the camera to such devices. The connection<br>may not be available for data transfer or the like when POWER SUPPLY<br>ON/COMM OFF is selected.</p>\n<p id='5' data-category='paragraph' style='font-size:18px'>Regardless of the option selected, the battery will charge while the<br>camera is off.</p>\n<h1 id='6' style='font-size:14px'>8</h1>\n<footer id='7' style='font-size:20px'>328</footer>",
+        "markdown": "Network/USB\nSetting\nMenus\n\n# USB POWER SUPPLY/COMM SETTING\n\nChoose whether USB connections to computers, smartphones,\nor other devices are used for power delivery or data transfer.\n\n| Option | Description |\n| --- | --- |\n| AUTO | The camera switches between power delivery and data trans- fer automatically. |\n| POWER SUPPLY ON/ COMM OFF | The camera draws power from the connected device, reducing the drain on the battery. Data transfer is disabled. |\n| POWER SUPPLY OFF/COMM ON | The camera can exchange data with, but not draw power from, the connected device. |\n\n\nThe camera cannot draw power from Lightning connections or from\ndevices that do not supply power. Select POWER SUPPLY OFF/COMM\nON before connecting the camera to such devices. The connection\nmay not be available for data transfer or the like when POWER SUPPLY\nON/COMM OFF is selected.\n\nRegardless of the option selected, the battery will charge while the\ncamera is off.\n\n# 8\n\n328",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:22px'>Network/USB<br>Setting<br>Menus</header>",
+                "markdown": "Network/USB\nSetting\nMenus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0174,
+                    "y": 0.4285
+                },
+                {
+                    "x": 0.041,
+                    "y": 0.4285
+                },
+                {
+                    "x": 0.041,
+                    "y": 0.6368
+                },
+                {
+                    "x": 0.0174,
+                    "y": 0.6368
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='1' style='font-size:16px'>USB POWER SUPPLY/COMM SETTING</h1>",
+                "markdown": "# USB POWER SUPPLY/COMM SETTING",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0831,
+                    "y": 0.0732
+                },
+                {
+                    "x": 0.5811,
+                    "y": 0.0732
+                },
+                {
+                    "x": 0.5811,
+                    "y": 0.0948
+                },
+                {
+                    "x": 0.0831,
+                    "y": 0.0948
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='2' data-category='paragraph' style='font-size:20px'>Choose whether USB connections to computers, smartphones,<br>or other devices are used for power delivery or data transfer.</p>",
+                "markdown": "Choose whether USB connections to computers, smartphones,\nor other devices are used for power delivery or data transfer.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0807,
+                    "y": 0.1043
+                },
+                {
+                    "x": 0.8933,
+                    "y": 0.1043
+                },
+                {
+                    "x": 0.8933,
+                    "y": 0.1553
+                },
+                {
+                    "x": 0.0807,
+                    "y": 0.1553
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='3' style='font-size:16px'><tr><td>Option</td><td>Description</td></tr><tr><td>AUTO</td><td>The camera switches between power delivery and data trans- fer automatically.</td></tr><tr><td>POWER SUPPLY ON/ COMM OFF</td><td>The camera draws power from the connected device, reducing the drain on the battery. Data transfer is disabled.</td></tr><tr><td>POWER SUPPLY OFF/COMM ON</td><td>The camera can exchange data with, but not draw power from, the connected device.</td></tr></table>",
+                "markdown": "| Option | Description |\n| --- | --- |\n| AUTO | The camera switches between power delivery and data trans- fer automatically. |\n| POWER SUPPLY ON/ COMM OFF | The camera draws power from the connected device, reducing the drain on the battery. Data transfer is disabled. |\n| POWER SUPPLY OFF/COMM ON | The camera can exchange data with, but not draw power from, the connected device. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0849,
+                    "y": 0.1674
+                },
+                {
+                    "x": 0.8921,
+                    "y": 0.1674
+                },
+                {
+                    "x": 0.8921,
+                    "y": 0.341
+                },
+                {
+                    "x": 0.0849,
+                    "y": 0.341
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='4' data-category='paragraph' style='font-size:14px'>The camera cannot draw power from Lightning connections or from<br>devices that do not supply power. Select POWER SUPPLY OFF/COMM<br>ON before connecting the camera to such devices. The connection<br>may not be available for data transfer or the like when POWER SUPPLY<br>ON/COMM OFF is selected.</p>",
+                "markdown": "The camera cannot draw power from Lightning connections or from\ndevices that do not supply power. Select POWER SUPPLY OFF/COMM\nON before connecting the camera to such devices. The connection\nmay not be available for data transfer or the like when POWER SUPPLY\nON/COMM OFF is selected.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0882,
+                    "y": 0.3617
+                },
+                {
+                    "x": 0.888,
+                    "y": 0.3617
+                },
+                {
+                    "x": 0.888,
+                    "y": 0.475
+                },
+                {
+                    "x": 0.0882,
+                    "y": 0.475
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='5' data-category='paragraph' style='font-size:18px'>Regardless of the option selected, the battery will charge while the<br>camera is off.</p>",
+                "markdown": "Regardless of the option selected, the battery will charge while the\ncamera is off.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1015,
+                    "y": 0.492
+                },
+                {
+                    "x": 0.8896,
+                    "y": 0.492
+                },
+                {
+                    "x": 0.8896,
+                    "y": 0.5373
+                },
+                {
+                    "x": 0.1015,
+                    "y": 0.5373
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='6' style='font-size:14px'>8</h1>",
+                "markdown": "# 8",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0278,
+                    "y": 0.6593
+                },
+                {
+                    "x": 0.0423,
+                    "y": 0.6593
+                },
+                {
+                    "x": 0.0423,
+                    "y": 0.6751
+                },
+                {
+                    "x": 0.0278,
+                    "y": 0.6751
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='7' style='font-size:20px'>328</footer>",
+                "markdown": "328",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.083,
+                    "y": 0.9559
+                },
+                {
+                    "x": 0.14,
+                    "y": 0.9559
+                },
+                {
+                    "x": 0.14,
+                    "y": 0.98
+                },
+                {
+                    "x": 0.083,
+                    "y": 0.98
+                }
+            ],
+            "id": 7,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

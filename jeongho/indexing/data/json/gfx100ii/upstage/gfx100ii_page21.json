@@ -1,0 +1,266 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:16px'>Camera Displays</header>\n<h1 id='1' style='font-size:20px'>PLAYBACK</h1>\n<table id='2' style='font-size:14px'><tr><td>Option</td><td>Description</td></tr><tr><td>SENSOR EYE SENSOR</td><td>Putting your eye to the viewfinder turns the viewfinder on and the LCD monitor off; taking your eye away turns the viewfinder off and LCD monitor on.</td></tr><tr><td>LCD ONLY</td><td>LCD monitor on, viewfinder off.</td></tr><tr><td>EVF ONLY</td><td>Viewfinder on, LCD monitor off.</td></tr></table>\n<br><p id='3' data-category='paragraph' style='font-size:14px'>1</p>\n<p id='4' data-category='paragraph' style='font-size:18px'>The Eye Sensor</p>\n<br><p id='5' data-category='list' style='font-size:16px'>The eye sensor may respond to objects other<br>than your eye or to light shining directly on<br>the sensor.<br>The eye sensor is not available when the LCD<br>monitor is tilted.</p>\n<br><figure id='6'><img style='font-size:14px' alt=\"Eye sensor\" data-coord=\"top-left:(1741,1183); bottom-right:(2548,1932)\" /></figure>\n<br><footer id='7' style='font-size:22px'>Before<br>You<br>Begin</footer>\n<footer id='8' style='font-size:20px'>21</footer>",
+        "markdown": "Camera Displays\n\n# PLAYBACK\n\n| Option | Description |\n| --- | --- |\n| SENSOR EYE SENSOR | Putting your eye to the viewfinder turns the viewfinder on and the LCD monitor off; taking your eye away turns the viewfinder off and LCD monitor on. |\n| LCD ONLY | LCD monitor on, viewfinder off. |\n| EVF ONLY | Viewfinder on, LCD monitor off. |\n\n\n1\n\nThe Eye Sensor\n\n- The eye sensor may respond to objects other\n- than your eye or to light shining directly on\n- the sensor.\n- The eye sensor is not available when the LCD\n- monitor is tilted.\n\n\n![image](/image/placeholder)\nEye sensor\n\nBefore\nYou\nBegin\n\n21",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:16px'>Camera Displays</header>",
+                "markdown": "Camera Displays",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.7528,
+                    "y": 0.0294
+                },
+                {
+                    "x": 0.9178,
+                    "y": 0.0294
+                },
+                {
+                    "x": 0.9178,
+                    "y": 0.0507
+                },
+                {
+                    "x": 0.7528,
+                    "y": 0.0507
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='1' style='font-size:20px'>PLAYBACK</h1>",
+                "markdown": "# PLAYBACK",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1217,
+                    "y": 0.0737
+                },
+                {
+                    "x": 0.2592,
+                    "y": 0.0737
+                },
+                {
+                    "x": 0.2592,
+                    "y": 0.0965
+                },
+                {
+                    "x": 0.1217,
+                    "y": 0.0965
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='2' style='font-size:14px'><tr><td>Option</td><td>Description</td></tr><tr><td>SENSOR EYE SENSOR</td><td>Putting your eye to the viewfinder turns the viewfinder on and the LCD monitor off; taking your eye away turns the viewfinder off and LCD monitor on.</td></tr><tr><td>LCD ONLY</td><td>LCD monitor on, viewfinder off.</td></tr><tr><td>EVF ONLY</td><td>Viewfinder on, LCD monitor off.</td></tr></table>",
+                "markdown": "| Option | Description |\n| --- | --- |\n| SENSOR EYE SENSOR | Putting your eye to the viewfinder turns the viewfinder on and the LCD monitor off; taking your eye away turns the viewfinder off and LCD monitor on. |\n| LCD ONLY | LCD monitor on, viewfinder off. |\n| EVF ONLY | Viewfinder on, LCD monitor off. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1099,
+                    "y": 0.1159
+                },
+                {
+                    "x": 0.9155,
+                    "y": 0.1159
+                },
+                {
+                    "x": 0.9155,
+                    "y": 0.2698
+                },
+                {
+                    "x": 0.1099,
+                    "y": 0.2698
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='3' data-category='paragraph' style='font-size:14px'>1</p>",
+                "markdown": "1",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9595,
+                    "y": 0.2403
+                },
+                {
+                    "x": 0.9721,
+                    "y": 0.2403
+                },
+                {
+                    "x": 0.9721,
+                    "y": 0.2562
+                },
+                {
+                    "x": 0.9595,
+                    "y": 0.2562
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='4' data-category='paragraph' style='font-size:18px'>The Eye Sensor</p>",
+                "markdown": "The Eye Sensor",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1109,
+                    "y": 0.2939
+                },
+                {
+                    "x": 0.2616,
+                    "y": 0.2939
+                },
+                {
+                    "x": 0.2616,
+                    "y": 0.3145
+                },
+                {
+                    "x": 0.1109,
+                    "y": 0.3145
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "list",
+            "content": {
+                "html": "<br><p id='5' data-category='list' style='font-size:16px'>The eye sensor may respond to objects other<br>than your eye or to light shining directly on<br>the sensor.<br>The eye sensor is not available when the LCD<br>monitor is tilted.</p>",
+                "markdown": "- The eye sensor may respond to objects other\n- than your eye or to light shining directly on\n- the sensor.\n- The eye sensor is not available when the LCD\n- monitor is tilted.\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1118,
+                    "y": 0.3152
+                },
+                {
+                    "x": 0.6283,
+                    "y": 0.3152
+                },
+                {
+                    "x": 0.6283,
+                    "y": 0.4282
+                },
+                {
+                    "x": 0.1118,
+                    "y": 0.4282
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "figure",
+            "content": {
+                "html": "<br><figure id='6'><img style='font-size:14px' alt=\"Eye sensor\" data-coord=\"top-left:(1741,1183); bottom-right:(2548,1932)\" /></figure>",
+                "markdown": "![image](/image/placeholder)\nEye sensor",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6301,
+                    "y": 0.3035
+                },
+                {
+                    "x": 0.9219,
+                    "y": 0.3035
+                },
+                {
+                    "x": 0.9219,
+                    "y": 0.4958
+                },
+                {
+                    "x": 0.6301,
+                    "y": 0.4958
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<br><footer id='7' style='font-size:22px'>Before<br>You<br>Begin</footer>",
+                "markdown": "Before\nYou\nBegin",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9574,
+                    "y": 0.2775
+                },
+                {
+                    "x": 0.9809,
+                    "y": 0.2775
+                },
+                {
+                    "x": 0.9809,
+                    "y": 0.402
+                },
+                {
+                    "x": 0.9574,
+                    "y": 0.402
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='8' style='font-size:20px'>21</footer>",
+                "markdown": "21",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.8772,
+                    "y": 0.9558
+                },
+                {
+                    "x": 0.9146,
+                    "y": 0.9558
+                },
+                {
+                    "x": 0.9146,
+                    "y": 0.98
+                },
+                {
+                    "x": 0.8772,
+                    "y": 0.98
+                }
+            ],
+            "id": 8,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

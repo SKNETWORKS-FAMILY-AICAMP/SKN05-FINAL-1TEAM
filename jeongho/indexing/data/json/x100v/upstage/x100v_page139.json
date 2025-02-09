@@ -1,0 +1,378 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:14px'>SHOOTING SETTING</header>\n<h1 id='1' style='font-size:18px'>SELF-TIMER</h1>\n<br><h1 id='2' style='font-size:18px'>Choose a shutter release delay.</h1>\n<table id='3' style='font-size:16px'><tr><td>Option</td><td>Description</td></tr><tr><td>2 SEC</td><td>The shutteris released two seconds after the shutter button is pressed. Use to reduce blur caused by the camera moving when the shutter button is pressed. The self-timer lamp blinks as the timer counts down.</td></tr><tr><td>(김 10 SEC</td><td>The shutter is released ten seconds after the shutter button is pressed. Use for photographs in which you wish to appear yourself. The self-timer lamp blinks immediately before the picture is taken.</td></tr><tr><td>OFF</td><td>Self-timer off.</td></tr></table>\n<br><p id='4' data-category='paragraph' style='font-size:20px'>If an option other than OFF is select-<br>ed, the timer will start when the shutter<br>button is pressed all the way down. The<br>display shows the number of seconds re-<br>maining until the shutter is released. To<br>stop the timer before the picture is taken,<br>press DISP/BACK.</p>\n<br><p id='5' data-category='paragraph' style='font-size:14px'>10 9</p>\n<p id='6' data-category='paragraph' style='font-size:14px'>● Stand behind the camera when using the shutter button. Standing in<br>front of the lens can interfere with focus and exposure.<br>● The self-timer turns off automatically when the camera is turned off.</p>\n<p id='7' data-category='paragraph' style='font-size:18px'>SAVE SELF-TIMER SETTING</p>\n\n<br><table id='9' style='font-size:16px'><tr><td colspan=\"2\">Options</td></tr><tr><td>ON</td><td>OFF</td></tr><br><caption id='8' style='font-size:20px'>If ON is selected, the chosen self-timer setting will remain in ef-<br>fect after a picture is taken or the camera is turned off.</caption></table>\n<br><footer id='10' style='font-size:14px'>6</footer>\n<footer id='11' style='font-size:22px'>139</footer>\n<br><footer id='12' style='font-size:22px'>The<br>Shooting<br>Menus</footer>",
+        "markdown": "SHOOTING SETTING\n\n# SELF-TIMER\n\n# Choose a shutter release delay.\n\n| Option | Description |\n| --- | --- |\n| 2 SEC | The shutteris released two seconds after the shutter button is pressed. Use to reduce blur caused by the camera moving when the shutter button is pressed. The self-timer lamp blinks as the timer counts down. |\n| (김 10 SEC | The shutter is released ten seconds after the shutter button is pressed. Use for photographs in which you wish to appear yourself. The self-timer lamp blinks immediately before the picture is taken. |\n| OFF | Self-timer off. |\n\n\nIf an option other than OFF is select-\ned, the timer will start when the shutter\nbutton is pressed all the way down. The\ndisplay shows the number of seconds re-\nmaining until the shutter is released. To\nstop the timer before the picture is taken,\npress DISP/BACK.\n\n10 9\n\n● Stand behind the camera when using the shutter button. Standing in\nfront of the lens can interfere with focus and exposure.\n● The self-timer turns off automatically when the camera is turned off.\n\nSAVE SELF-TIMER SETTING\n\nIf ON is selected, the chosen self-timer setting will remain in ef-\nfect after a picture is taken or the camera is turned off.\n\n| Options | Options |\n| --- | --- |\n| ON | OFF |\n\n\n6\n\n139\n\nThe\nShooting\nMenus",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:14px'>SHOOTING SETTING</header>",
+                "markdown": "SHOOTING SETTING",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.7181,
+                    "y": 0.0287
+                },
+                {
+                    "x": 0.9177,
+                    "y": 0.0287
+                },
+                {
+                    "x": 0.9177,
+                    "y": 0.049
+                },
+                {
+                    "x": 0.7181,
+                    "y": 0.049
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='1' style='font-size:18px'>SELF-TIMER</h1>",
+                "markdown": "# SELF-TIMER",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1065,
+                    "y": 0.0729
+                },
+                {
+                    "x": 0.2734,
+                    "y": 0.0729
+                },
+                {
+                    "x": 0.2734,
+                    "y": 0.0945
+                },
+                {
+                    "x": 0.1065,
+                    "y": 0.0945
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='2' style='font-size:18px'>Choose a shutter release delay.</h1>",
+                "markdown": "# Choose a shutter release delay.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1076,
+                    "y": 0.1045
+                },
+                {
+                    "x": 0.5,
+                    "y": 0.1045
+                },
+                {
+                    "x": 0.5,
+                    "y": 0.1288
+                },
+                {
+                    "x": 0.1076,
+                    "y": 0.1288
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='3' style='font-size:16px'><tr><td>Option</td><td>Description</td></tr><tr><td>2 SEC</td><td>The shutteris released two seconds after the shutter button is pressed. Use to reduce blur caused by the camera moving when the shutter button is pressed. The self-timer lamp blinks as the timer counts down.</td></tr><tr><td>(김 10 SEC</td><td>The shutter is released ten seconds after the shutter button is pressed. Use for photographs in which you wish to appear yourself. The self-timer lamp blinks immediately before the picture is taken.</td></tr><tr><td>OFF</td><td>Self-timer off.</td></tr></table>",
+                "markdown": "| Option | Description |\n| --- | --- |\n| 2 SEC | The shutteris released two seconds after the shutter button is pressed. Use to reduce blur caused by the camera moving when the shutter button is pressed. The self-timer lamp blinks as the timer counts down. |\n| (김 10 SEC | The shutter is released ten seconds after the shutter button is pressed. Use for photographs in which you wish to appear yourself. The self-timer lamp blinks immediately before the picture is taken. |\n| OFF | Self-timer off. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1062,
+                    "y": 0.1408
+                },
+                {
+                    "x": 0.9218,
+                    "y": 0.1408
+                },
+                {
+                    "x": 0.9218,
+                    "y": 0.3511
+                },
+                {
+                    "x": 0.1062,
+                    "y": 0.3511
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='4' data-category='paragraph' style='font-size:20px'>If an option other than OFF is select-<br>ed, the timer will start when the shutter<br>button is pressed all the way down. The<br>display shows the number of seconds re-<br>maining until the shutter is released. To<br>stop the timer before the picture is taken,<br>press DISP/BACK.</p>",
+                "markdown": "If an option other than OFF is select-\ned, the timer will start when the shutter\nbutton is pressed all the way down. The\ndisplay shows the number of seconds re-\nmaining until the shutter is released. To\nstop the timer before the picture is taken,\npress DISP/BACK.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1055,
+                    "y": 0.3633
+                },
+                {
+                    "x": 0.6314,
+                    "y": 0.3633
+                },
+                {
+                    "x": 0.6314,
+                    "y": 0.5421
+                },
+                {
+                    "x": 0.1055,
+                    "y": 0.5421
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='5' data-category='paragraph' style='font-size:14px'>10 9</p>",
+                "markdown": "10 9",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6549,
+                    "y": 0.3928
+                },
+                {
+                    "x": 0.7157,
+                    "y": 0.3928
+                },
+                {
+                    "x": 0.7157,
+                    "y": 0.4203
+                },
+                {
+                    "x": 0.6549,
+                    "y": 0.4203
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='6' data-category='paragraph' style='font-size:14px'>● Stand behind the camera when using the shutter button. Standing in<br>front of the lens can interfere with focus and exposure.<br>● The self-timer turns off automatically when the camera is turned off.</p>",
+                "markdown": "● Stand behind the camera when using the shutter button. Standing in\nfront of the lens can interfere with focus and exposure.\n● The self-timer turns off automatically when the camera is turned off.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1254,
+                    "y": 0.5577
+                },
+                {
+                    "x": 0.9141,
+                    "y": 0.5577
+                },
+                {
+                    "x": 0.9141,
+                    "y": 0.6258
+                },
+                {
+                    "x": 0.1254,
+                    "y": 0.6258
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='7' data-category='paragraph' style='font-size:18px'>SAVE SELF-TIMER SETTING</p>",
+                "markdown": "SAVE SELF-TIMER SETTING",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1061,
+                    "y": 0.646
+                },
+                {
+                    "x": 0.47,
+                    "y": 0.646
+                },
+                {
+                    "x": 0.47,
+                    "y": 0.6687
+                },
+                {
+                    "x": 0.1061,
+                    "y": 0.6687
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='8' data-category='paragraph' style='font-size:20px'>If ON is selected, the chosen self-timer setting will remain in ef-<br>fect after a picture is taken or the camera is turned off.</p>",
+                "markdown": "If ON is selected, the chosen self-timer setting will remain in ef-\nfect after a picture is taken or the camera is turned off.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1061,
+                    "y": 0.6774
+                },
+                {
+                    "x": 0.9172,
+                    "y": 0.6774
+                },
+                {
+                    "x": 0.9172,
+                    "y": 0.7277
+                },
+                {
+                    "x": 0.1061,
+                    "y": 0.7277
+                }
+            ],
+            "id": 8,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='9' style='font-size:16px'><tr><td colspan=\"2\">Options</td></tr><tr><td>ON</td><td>OFF</td></tr></table>",
+                "markdown": "| Options | Options |\n| --- | --- |\n| ON | OFF |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1411,
+                    "y": 0.7397
+                },
+                {
+                    "x": 0.9166,
+                    "y": 0.7397
+                },
+                {
+                    "x": 0.9166,
+                    "y": 0.7921
+                },
+                {
+                    "x": 0.1411,
+                    "y": 0.7921
+                }
+            ],
+            "id": 9,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<br><footer id='10' style='font-size:14px'>6</footer>",
+                "markdown": "6",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9585,
+                    "y": 0.5373
+                },
+                {
+                    "x": 0.9761,
+                    "y": 0.5373
+                },
+                {
+                    "x": 0.9761,
+                    "y": 0.5577
+                },
+                {
+                    "x": 0.9585,
+                    "y": 0.5577
+                }
+            ],
+            "id": 10,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='11' style='font-size:22px'>139</footer>",
+                "markdown": "139",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.8626,
+                    "y": 0.9567
+                },
+                {
+                    "x": 0.9177,
+                    "y": 0.9567
+                },
+                {
+                    "x": 0.9177,
+                    "y": 0.9789
+                },
+                {
+                    "x": 0.8626,
+                    "y": 0.9789
+                }
+            ],
+            "id": 11,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<br><footer id='12' style='font-size:22px'>The<br>Shooting<br>Menus</footer>",
+                "markdown": "The\nShooting\nMenus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9564,
+                    "y": 0.5447
+                },
+                {
+                    "x": 0.9832,
+                    "y": 0.5447
+                },
+                {
+                    "x": 0.9832,
+                    "y": 0.7306
+                },
+                {
+                    "x": 0.9564,
+                    "y": 0.7306
+                }
+            ],
+            "id": 12,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

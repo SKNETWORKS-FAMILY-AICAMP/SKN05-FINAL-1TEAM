@@ -1,0 +1,210 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:14px'>Viewing Movies</header>\n<h1 id='1' style='font-size:20px'>Playback Speed</h1>\n<br><p id='2' data-category='paragraph' style='font-size:16px'>Press the focus stick (focus lever) left or right to<br>adjust playback speed during playback. Speed<br>is shown by the number of arrows or</p>\n<br><figure id='3' data-category='chart'><img style='font-size:14px' alt=\"29m59s \nArrows \n\" data-coord=\"top-left:(1633,356); bottom-right:(2478,992)\" /></figure>\n<p id='4' data-category='paragraph' style='font-size:14px'>4</p>\n<footer id='5' style='font-size:18px'>54</footer>\n<br><header id='6' style='font-size:22px'>Movie<br>Recording<br>and<br>Playback</header>",
+        "markdown": "Viewing Movies\n\n# Playback Speed\n\nPress the focus stick (focus lever) left or right to\nadjust playback speed during playback. Speed\nis shown by the number of arrows or\n\n![image](/image/placeholder)\n29m59s \nArrows \n\n\n4\n\n54\n\nMovie\nRecording\nand\nPlayback",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:14px'>Viewing Movies</header>",
+                "markdown": "Viewing Movies",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.733,
+                    "y": 0.0302
+                },
+                {
+                    "x": 0.8918,
+                    "y": 0.0302
+                },
+                {
+                    "x": 0.8918,
+                    "y": 0.0492
+                },
+                {
+                    "x": 0.733,
+                    "y": 0.0492
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='1' style='font-size:20px'>Playback Speed</h1>",
+                "markdown": "# Playback Speed",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0806,
+                    "y": 0.0727
+                },
+                {
+                    "x": 0.2363,
+                    "y": 0.0727
+                },
+                {
+                    "x": 0.2363,
+                    "y": 0.093
+                },
+                {
+                    "x": 0.0806,
+                    "y": 0.093
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='2' data-category='paragraph' style='font-size:16px'>Press the focus stick (focus lever) left or right to<br>adjust playback speed during playback. Speed<br>is shown by the number of arrows or</p>",
+                "markdown": "Press the focus stick (focus lever) left or right to\nadjust playback speed during playback. Speed\nis shown by the number of arrows or",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0791,
+                    "y": 0.0955
+                },
+                {
+                    "x": 0.5902,
+                    "y": 0.0955
+                },
+                {
+                    "x": 0.5902,
+                    "y": 0.1653
+                },
+                {
+                    "x": 0.0791,
+                    "y": 0.1653
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "figure",
+            "content": {
+                "html": "<br><figure id='3' data-category='chart'><img style='font-size:14px' alt=\"29m59s \nArrows \n\" data-coord=\"top-left:(1633,356); bottom-right:(2478,992)\" /></figure>",
+                "markdown": "![image](/image/placeholder)\n29m59s \nArrows \n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.591,
+                    "y": 0.0915
+                },
+                {
+                    "x": 0.8966,
+                    "y": 0.0915
+                },
+                {
+                    "x": 0.8966,
+                    "y": 0.2547
+                },
+                {
+                    "x": 0.591,
+                    "y": 0.2547
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='4' data-category='paragraph' style='font-size:14px'>4</p>",
+                "markdown": "4",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0278,
+                    "y": 0.4195
+                },
+                {
+                    "x": 0.0417,
+                    "y": 0.4195
+                },
+                {
+                    "x": 0.0417,
+                    "y": 0.436
+                },
+                {
+                    "x": 0.0278,
+                    "y": 0.436
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='5' style='font-size:18px'>54</footer>",
+                "markdown": "54",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0827,
+                    "y": 0.9566
+                },
+                {
+                    "x": 0.1224,
+                    "y": 0.9566
+                },
+                {
+                    "x": 0.1224,
+                    "y": 0.9798
+                },
+                {
+                    "x": 0.0827,
+                    "y": 0.9798
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "header",
+            "content": {
+                "html": "<br><header id='6' style='font-size:22px'>Movie<br>Recording<br>and<br>Playback</header>",
+                "markdown": "Movie\nRecording\nand\nPlayback",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0167,
+                    "y": 0.4555
+                },
+                {
+                    "x": 0.0428,
+                    "y": 0.4555
+                },
+                {
+                    "x": 0.0428,
+                    "y": 0.6795
+                },
+                {
+                    "x": 0.0167,
+                    "y": 0.6795
+                }
+            ],
+            "id": 6,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

@@ -1,0 +1,182 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:14px'>BUTTON/DIAL SETTING</header>\n<h1 id='1' style='font-size:18px'>TOUCH SCREEN SETTING</h1>\n<br><h1 id='2' style='font-size:16px'>Enable or disable touch-screen controls.</h1>\n<table id='3' style='font-size:14px'><tr><td>Option</td><td>Description</td></tr><tr><td>TOUCH SCREEN SETTING</td><td>ON: The LCD monitor functions as a touch screen during shooting. OFF: Touch controls disabled.</td></tr><tr><td>DOUBLE TAP SETTING</td><td>ON: Tap the LCD monitor twice to zoom in on your sub- ject during shooting. OFF: Touch zoom disabled.</td></tr><tr><td>T-Fn TOUCH FUNCTION</td><td>Enable or disable touch function gestures.</td></tr><tr><td>TOUCH SCREEN SETTING</td><td>● ON: The LCD monitor functions as a touch screen during playback. OFF: Touch controls disabled.</td></tr><tr><td>EVF/OVF TOUCH SCREEN AREA SETTINGS</td><td>Select the area of the LCD monitor used for touch controls while the viewfinder is active. The area used for touch controls can be selected from: - (all) (left half) (right half) (top left quarter) (top right quarter) (bottom left quarter) (bottom right quarter) Choose OFF to disable touch controls while the view- finder is active.</td></tr></table>\n<br><footer id='4' style='font-size:22px'>The<br>Setup<br>Menus</footer>\n<footer id='5' style='font-size:20px'>229</footer>",
+        "markdown": "BUTTON/DIAL SETTING\n\n# TOUCH SCREEN SETTING\n\n# Enable or disable touch-screen controls.\n\n| Option | Description |\n| --- | --- |\n| TOUCH SCREEN SETTING | ON: The LCD monitor functions as a touch screen during shooting. OFF: Touch controls disabled. |\n| DOUBLE TAP SETTING | ON: Tap the LCD monitor twice to zoom in on your sub- ject during shooting. OFF: Touch zoom disabled. |\n| T-Fn TOUCH FUNCTION | Enable or disable touch function gestures. |\n| TOUCH SCREEN SETTING | ● ON: The LCD monitor functions as a touch screen during playback. OFF: Touch controls disabled. |\n| EVF/OVF TOUCH SCREEN AREA SETTINGS | Select the area of the LCD monitor used for touch controls while the viewfinder is active. The area used for touch controls can be selected from: - (all) (left half) (right half) (top left quarter) (top right quarter) (bottom left quarter) (bottom right quarter) Choose OFF to disable touch controls while the view- finder is active. |\n\n\nThe\nSetup\nMenus\n\n229",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:14px'>BUTTON/DIAL SETTING</header>",
+                "markdown": "BUTTON/DIAL SETTING",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6871,
+                    "y": 0.0281
+                },
+                {
+                    "x": 0.9186,
+                    "y": 0.0281
+                },
+                {
+                    "x": 0.9186,
+                    "y": 0.0497
+                },
+                {
+                    "x": 0.6871,
+                    "y": 0.0497
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='1' style='font-size:18px'>TOUCH SCREEN SETTING</h1>",
+                "markdown": "# TOUCH SCREEN SETTING",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1074,
+                    "y": 0.0728
+                },
+                {
+                    "x": 0.4478,
+                    "y": 0.0728
+                },
+                {
+                    "x": 0.4478,
+                    "y": 0.0951
+                },
+                {
+                    "x": 0.1074,
+                    "y": 0.0951
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='2' style='font-size:16px'>Enable or disable touch-screen controls.</h1>",
+                "markdown": "# Enable or disable touch-screen controls.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1061,
+                    "y": 0.1044
+                },
+                {
+                    "x": 0.6144,
+                    "y": 0.1044
+                },
+                {
+                    "x": 0.6144,
+                    "y": 0.1285
+                },
+                {
+                    "x": 0.1061,
+                    "y": 0.1285
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='3' style='font-size:14px'><tr><td>Option</td><td>Description</td></tr><tr><td>TOUCH SCREEN SETTING</td><td>ON: The LCD monitor functions as a touch screen during shooting. OFF: Touch controls disabled.</td></tr><tr><td>DOUBLE TAP SETTING</td><td>ON: Tap the LCD monitor twice to zoom in on your sub- ject during shooting. OFF: Touch zoom disabled.</td></tr><tr><td>T-Fn TOUCH FUNCTION</td><td>Enable or disable touch function gestures.</td></tr><tr><td>TOUCH SCREEN SETTING</td><td>● ON: The LCD monitor functions as a touch screen during playback. OFF: Touch controls disabled.</td></tr><tr><td>EVF/OVF TOUCH SCREEN AREA SETTINGS</td><td>Select the area of the LCD monitor used for touch controls while the viewfinder is active. The area used for touch controls can be selected from: - (all) (left half) (right half) (top left quarter) (top right quarter) (bottom left quarter) (bottom right quarter) Choose OFF to disable touch controls while the view- finder is active.</td></tr></table>",
+                "markdown": "| Option | Description |\n| --- | --- |\n| TOUCH SCREEN SETTING | ON: The LCD monitor functions as a touch screen during shooting. OFF: Touch controls disabled. |\n| DOUBLE TAP SETTING | ON: Tap the LCD monitor twice to zoom in on your sub- ject during shooting. OFF: Touch zoom disabled. |\n| T-Fn TOUCH FUNCTION | Enable or disable touch function gestures. |\n| TOUCH SCREEN SETTING | ● ON: The LCD monitor functions as a touch screen during playback. OFF: Touch controls disabled. |\n| EVF/OVF TOUCH SCREEN AREA SETTINGS | Select the area of the LCD monitor used for touch controls while the viewfinder is active. The area used for touch controls can be selected from: - (all) (left half) (right half) (top left quarter) (top right quarter) (bottom left quarter) (bottom right quarter) Choose OFF to disable touch controls while the view- finder is active. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1058,
+                    "y": 0.1386
+                },
+                {
+                    "x": 0.9182,
+                    "y": 0.1386
+                },
+                {
+                    "x": 0.9182,
+                    "y": 0.6178
+                },
+                {
+                    "x": 0.1058,
+                    "y": 0.6178
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<br><footer id='4' style='font-size:22px'>The<br>Setup<br>Menus</footer>",
+                "markdown": "The\nSetup\nMenus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.958,
+                    "y": 0.5097
+                },
+                {
+                    "x": 0.9794,
+                    "y": 0.5097
+                },
+                {
+                    "x": 0.9794,
+                    "y": 0.6354
+                },
+                {
+                    "x": 0.958,
+                    "y": 0.6354
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='5' style='font-size:20px'>229</footer>",
+                "markdown": "229",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.8599,
+                    "y": 0.956
+                },
+                {
+                    "x": 0.9182,
+                    "y": 0.956
+                },
+                {
+                    "x": 0.9182,
+                    "y": 0.9797
+                },
+                {
+                    "x": 0.8599,
+                    "y": 0.9797
+                }
+            ],
+            "id": 5,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

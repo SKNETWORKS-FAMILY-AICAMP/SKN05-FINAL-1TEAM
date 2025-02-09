@@ -1,0 +1,294 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:14px'>SHOOTING SETTING</header>\n<h1 id='1' style='font-size:18px'>SHUTTER TYPE</h1>\n\n<table id='3' style='font-size:18px'><tr><td>Option</td><td>Description</td></tr><tr><td>MS MECHANICAL SHUTTER</td><td>Take pictures with the mechanical shutter.</td></tr><tr><td>ES ELECTRONIC SHUTTER</td><td>Take pictures with the electronic shutter.</td></tr><tr><td>M+E MECHANICAL + ELECTRONIC</td><td>The camera chooses the mechanical or electronic shutter according to shooting conditions.</td></tr><br><caption id='2' style='font-size:20px'>Choose the shutter type. Choose the electronic shutter to mute<br>the shutter sound.</caption></table>\n<p id='4' data-category='paragraph' style='font-size:20px'>If ES ELECTRONIC SHUTTER or M+E MECHANICAL + ELECTRONIC<br>is selected, shutter speeds faster than 1/4000 S can be chosen by<br>rotating the shutter speed dial to 4000 and then rotating the rear<br>command dial.</p>\n<p id='5' data-category='paragraph' style='font-size:16px'>● When using the electronic shutter, note the following:</p>\n<br><p id='6' data-category='list' style='font-size:16px'>- Distortion may be visible in shots of moving subjects.<br>- Distortion may also be visible in hand-held shots taken at high<br>shutter speeds; use of a tripod is recommended.<br> Banding and fog may occur in shots taken under fluorescent lights<br>or other flickering or erratic illumination.<br> When taking pictures with the shutter muted (目目 206), respect<br>your subjects'image rights and right to privacy.<br>● When MS MECHANICAL SHUTTER is selected, exposure may be less<br>accurate at wider apertures (the maximum shutter speed varies with<br>the aperture, from 1/2000 S at f/2 to 1/4000 S at f/4.5). The timing of the<br>switch from MECHANICAL SHUTTER to ELECTRONIC SHUTTER<br>when M+E MECHANICAL + ELECTRONIC is selected also varies with<br>aperture.</p>\n<p id='7' data-category='list' style='font-size:14px'>The following restrictions apply when the electronic shutter is used:<br>● \"Extended\" sensitivity values are not supported<br>● Long exposure noise reduction has no effect<br>● The flash cannot be used</p>\n<br><footer id='8' style='font-size:22px'>6<br>The<br>Shooting<br>Menus</footer>\n<footer id='9' style='font-size:20px'>147</footer>",
+        "markdown": "SHOOTING SETTING\n\n# SHUTTER TYPE\n\nChoose the shutter type. Choose the electronic shutter to mute\nthe shutter sound.\n\n| Option | Description |\n| --- | --- |\n| MS MECHANICAL SHUTTER | Take pictures with the mechanical shutter. |\n| ES ELECTRONIC SHUTTER | Take pictures with the electronic shutter. |\n| M+E MECHANICAL + ELECTRONIC | The camera chooses the mechanical or electronic shutter according to shooting conditions. |\n\n\nIf ES ELECTRONIC SHUTTER or M+E MECHANICAL + ELECTRONIC\nis selected, shutter speeds faster than 1/4000 S can be chosen by\nrotating the shutter speed dial to 4000 and then rotating the rear\ncommand dial.\n\n● When using the electronic shutter, note the following:\n\n- - Distortion may be visible in shots of moving subjects.\n- - Distortion may also be visible in hand-held shots taken at high\n- shutter speeds; use of a tripod is recommended.\n-  Banding and fog may occur in shots taken under fluorescent lights\n- or other flickering or erratic illumination.\n-  When taking pictures with the shutter muted (目目 206), respect\n- your subjects'image rights and right to privacy.\n- ● When MS MECHANICAL SHUTTER is selected, exposure may be less\n- accurate at wider apertures (the maximum shutter speed varies with\n- the aperture, from 1/2000 S at f/2 to 1/4000 S at f/4.5). The timing of the\n- switch from MECHANICAL SHUTTER to ELECTRONIC SHUTTER\n- when M+E MECHANICAL + ELECTRONIC is selected also varies with\n- aperture.\n\n\n- The following restrictions apply when the electronic shutter is used:\n- ● \"Extended\" sensitivity values are not supported\n- ● Long exposure noise reduction has no effect\n- ● The flash cannot be used\n\n\n6\nThe\nShooting\nMenus\n\n147",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:14px'>SHOOTING SETTING</header>",
+                "markdown": "SHOOTING SETTING",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.7179,
+                    "y": 0.0287
+                },
+                {
+                    "x": 0.9178,
+                    "y": 0.0287
+                },
+                {
+                    "x": 0.9178,
+                    "y": 0.0491
+                },
+                {
+                    "x": 0.7179,
+                    "y": 0.0491
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='1' style='font-size:18px'>SHUTTER TYPE</h1>",
+                "markdown": "# SHUTTER TYPE",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1064,
+                    "y": 0.0727
+                },
+                {
+                    "x": 0.3156,
+                    "y": 0.0727
+                },
+                {
+                    "x": 0.3156,
+                    "y": 0.0948
+                },
+                {
+                    "x": 0.1064,
+                    "y": 0.0948
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='2' data-category='paragraph' style='font-size:20px'>Choose the shutter type. Choose the electronic shutter to mute<br>the shutter sound.</p>",
+                "markdown": "Choose the shutter type. Choose the electronic shutter to mute\nthe shutter sound.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1059,
+                    "y": 0.1045
+                },
+                {
+                    "x": 0.918,
+                    "y": 0.1045
+                },
+                {
+                    "x": 0.918,
+                    "y": 0.1528
+                },
+                {
+                    "x": 0.1059,
+                    "y": 0.1528
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='3' style='font-size:18px'><tr><td>Option</td><td>Description</td></tr><tr><td>MS MECHANICAL SHUTTER</td><td>Take pictures with the mechanical shutter.</td></tr><tr><td>ES ELECTRONIC SHUTTER</td><td>Take pictures with the electronic shutter.</td></tr><tr><td>M+E MECHANICAL + ELECTRONIC</td><td>The camera chooses the mechanical or electronic shutter according to shooting conditions.</td></tr></table>",
+                "markdown": "| Option | Description |\n| --- | --- |\n| MS MECHANICAL SHUTTER | Take pictures with the mechanical shutter. |\n| ES ELECTRONIC SHUTTER | Take pictures with the electronic shutter. |\n| M+E MECHANICAL + ELECTRONIC | The camera chooses the mechanical or electronic shutter according to shooting conditions. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1082,
+                    "y": 0.1666
+                },
+                {
+                    "x": 0.918,
+                    "y": 0.1666
+                },
+                {
+                    "x": 0.918,
+                    "y": 0.2879
+                },
+                {
+                    "x": 0.1082,
+                    "y": 0.2879
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='4' data-category='paragraph' style='font-size:20px'>If ES ELECTRONIC SHUTTER or M+E MECHANICAL + ELECTRONIC<br>is selected, shutter speeds faster than 1/4000 S can be chosen by<br>rotating the shutter speed dial to 4000 and then rotating the rear<br>command dial.</p>",
+                "markdown": "If ES ELECTRONIC SHUTTER or M+E MECHANICAL + ELECTRONIC\nis selected, shutter speeds faster than 1/4000 S can be chosen by\nrotating the shutter speed dial to 4000 and then rotating the rear\ncommand dial.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1058,
+                    "y": 0.3034
+                },
+                {
+                    "x": 0.9198,
+                    "y": 0.3034
+                },
+                {
+                    "x": 0.9198,
+                    "y": 0.3993
+                },
+                {
+                    "x": 0.1058,
+                    "y": 0.3993
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='5' data-category='paragraph' style='font-size:16px'>● When using the electronic shutter, note the following:</p>",
+                "markdown": "● When using the electronic shutter, note the following:",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1118,
+                    "y": 0.4135
+                },
+                {
+                    "x": 0.7562,
+                    "y": 0.4135
+                },
+                {
+                    "x": 0.7562,
+                    "y": 0.4369
+                },
+                {
+                    "x": 0.1118,
+                    "y": 0.4369
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "list",
+            "content": {
+                "html": "<br><p id='6' data-category='list' style='font-size:16px'>- Distortion may be visible in shots of moving subjects.<br>- Distortion may also be visible in hand-held shots taken at high<br>shutter speeds; use of a tripod is recommended.<br> Banding and fog may occur in shots taken under fluorescent lights<br>or other flickering or erratic illumination.<br> When taking pictures with the shutter muted (目目 206), respect<br>your subjects'image rights and right to privacy.<br>● When MS MECHANICAL SHUTTER is selected, exposure may be less<br>accurate at wider apertures (the maximum shutter speed varies with<br>the aperture, from 1/2000 S at f/2 to 1/4000 S at f/4.5). The timing of the<br>switch from MECHANICAL SHUTTER to ELECTRONIC SHUTTER<br>when M+E MECHANICAL + ELECTRONIC is selected also varies with<br>aperture.</p>",
+                "markdown": "- - Distortion may be visible in shots of moving subjects.\n- - Distortion may also be visible in hand-held shots taken at high\n- shutter speeds; use of a tripod is recommended.\n-  Banding and fog may occur in shots taken under fluorescent lights\n- or other flickering or erratic illumination.\n-  When taking pictures with the shutter muted (目目 206), respect\n- your subjects'image rights and right to privacy.\n- ● When MS MECHANICAL SHUTTER is selected, exposure may be less\n- accurate at wider apertures (the maximum shutter speed varies with\n- the aperture, from 1/2000 S at f/2 to 1/4000 S at f/4.5). The timing of the\n- switch from MECHANICAL SHUTTER to ELECTRONIC SHUTTER\n- when M+E MECHANICAL + ELECTRONIC is selected also varies with\n- aperture.\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1456,
+                    "y": 0.4219
+                },
+                {
+                    "x": 0.9194,
+                    "y": 0.4219
+                },
+                {
+                    "x": 0.9194,
+                    "y": 0.7463
+                },
+                {
+                    "x": 0.1456,
+                    "y": 0.7463
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "list",
+            "content": {
+                "html": "<p id='7' data-category='list' style='font-size:14px'>The following restrictions apply when the electronic shutter is used:<br>● \"Extended\" sensitivity values are not supported<br>● Long exposure noise reduction has no effect<br>● The flash cannot be used</p>",
+                "markdown": "- The following restrictions apply when the electronic shutter is used:\n- ● \"Extended\" sensitivity values are not supported\n- ● Long exposure noise reduction has no effect\n- ● The flash cannot be used\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1461,
+                    "y": 0.7588
+                },
+                {
+                    "x": 0.8922,
+                    "y": 0.7588
+                },
+                {
+                    "x": 0.8922,
+                    "y": 0.8471
+                },
+                {
+                    "x": 0.1461,
+                    "y": 0.8471
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<br><footer id='8' style='font-size:22px'>6<br>The<br>Shooting<br>Menus</footer>",
+                "markdown": "6\nThe\nShooting\nMenus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9561,
+                    "y": 0.5408
+                },
+                {
+                    "x": 0.983,
+                    "y": 0.5408
+                },
+                {
+                    "x": 0.983,
+                    "y": 0.7321
+                },
+                {
+                    "x": 0.9561,
+                    "y": 0.7321
+                }
+            ],
+            "id": 8,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='9' style='font-size:20px'>147</footer>",
+                "markdown": "147",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.8629,
+                    "y": 0.9573
+                },
+                {
+                    "x": 0.9168,
+                    "y": 0.9573
+                },
+                {
+                    "x": 0.9168,
+                    "y": 0.9777
+                },
+                {
+                    "x": 0.8629,
+                    "y": 0.9777
+                }
+            ],
+            "id": 9,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

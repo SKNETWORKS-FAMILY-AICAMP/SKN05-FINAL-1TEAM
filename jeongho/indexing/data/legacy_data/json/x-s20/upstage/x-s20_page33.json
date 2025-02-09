@@ -1,0 +1,70 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<p id='0' data-category='paragraph' style='font-size:18px'>First Steps</p>\n<footer id='1' style='font-size:14px'>31</footer>",
+        "markdown": "First Steps\n\n31",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='0' data-category='paragraph' style='font-size:18px'>First Steps</p>",
+                "markdown": "First Steps",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.5461,
+                    "y": 0.3623
+                },
+                {
+                    "x": 0.794,
+                    "y": 0.3623
+                },
+                {
+                    "x": 0.794,
+                    "y": 0.3996
+                },
+                {
+                    "x": 0.5461,
+                    "y": 0.3996
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='1' style='font-size:14px'>31</footer>",
+                "markdown": "31",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.8776,
+                    "y": 0.9566
+                },
+                {
+                    "x": 0.9143,
+                    "y": 0.9566
+                },
+                {
+                    "x": 0.9143,
+                    "y": 0.9791
+                },
+                {
+                    "x": 0.8776,
+                    "y": 0.9791
+                }
+            ],
+            "id": 1,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

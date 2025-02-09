@@ -1,0 +1,103 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "# MOVIE SETTING (Movie Recording)\n\nAdjust movie-recording options.\n\nTo display options for movie recording, press **MENU/OK** in the movie shooting display and select the !Movie Setting Icon (MOVIE SETTING) tab.\n\n!Movie Setting Menu\n\n## MOVIE SETTING LIST\n\nView current movie recording settings.\n\n> 💡 **Note:**  \n> These options can also be viewed by pressing the **DISP/BACK** button while the movie quick menu is displayed.\n\n## IMAGE FORMAT\n\nYou can change the format of movies to be shot depending on the lens to be used. Frame size and aspect ratio are set by MOVIE MODE.\n\n| Option            | Description                                                                 |\n|-------------------|-----------------------------------------------------------------------------|\n| GF                | Shoot in the optimal format for GF Series lenses.                           |\n| Premista          | Shoot in the optimal format for Premista Series lenses.                     |\n| 35mm              | Shoot in the optimal format for 35-mm format lenses.                        |\n| ANAMORPHIC(35mm)  | Shoot in the optimal format for anamorphic lenses. You can configure the lens magnification or whether to use the desqueeze display when taking pictures. |\n\n> 💡 **Note:**  \n> - When **ANAMORPHIC(35mm)** is set, an anti-vibration function operates to match the configured magnification. Do not set **ANAMORPHIC(35mm)** when using a lens other than an anamorphic lens.\n> - When **MOVIE SETTING > HDMI OUTPUT SETTING > HDMI OUTPUT INFO DISPLAY** is set to **OFF**, HDMI output does not use the desqueeze display, even when desqueeze display is set to ON for **ANAMORPHIC(35mm)**.",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "MOVIE SETTING (Movie Recording)",
+                    "md": "# MOVIE SETTING (Movie Recording)"
+                },
+                {
+                    "type": "text",
+                    "value": "Adjust movie-recording options.\n\nTo display options for movie recording, press **MENU/OK** in the movie shooting display and select the !Movie Setting Icon (MOVIE SETTING) tab.\n\n!Movie Setting Menu",
+                    "md": "Adjust movie-recording options.\n\nTo display options for movie recording, press **MENU/OK** in the movie shooting display and select the !Movie Setting Icon (MOVIE SETTING) tab.\n\n!Movie Setting Menu"
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "MOVIE SETTING LIST",
+                    "md": "## MOVIE SETTING LIST"
+                },
+                {
+                    "type": "text",
+                    "value": "View current movie recording settings.\n\n> 💡 **Note:**  \n> These options can also be viewed by pressing the **DISP/BACK** button while the movie quick menu is displayed.",
+                    "md": "View current movie recording settings.\n\n> 💡 **Note:**  \n> These options can also be viewed by pressing the **DISP/BACK** button while the movie quick menu is displayed."
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "IMAGE FORMAT",
+                    "md": "## IMAGE FORMAT"
+                },
+                {
+                    "type": "text",
+                    "value": "You can change the format of movies to be shot depending on the lens to be used. Frame size and aspect ratio are set by MOVIE MODE.",
+                    "md": "You can change the format of movies to be shot depending on the lens to be used. Frame size and aspect ratio are set by MOVIE MODE."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Option",
+                            "Description"
+                        ],
+                        [
+                            "GF",
+                            "Shoot in the optimal format for GF Series lenses."
+                        ],
+                        [
+                            "Premista",
+                            "Shoot in the optimal format for Premista Series lenses."
+                        ],
+                        [
+                            "35mm",
+                            "Shoot in the optimal format for 35-mm format lenses."
+                        ],
+                        [
+                            "ANAMORPHIC(35mm)",
+                            "Shoot in the optimal format for anamorphic lenses. You can configure the lens magnification or whether to use the desqueeze display when taking pictures."
+                        ]
+                    ],
+                    "md": "| Option            | Description                                                                 |\n|-------------------|-----------------------------------------------------------------------------|\n| GF                | Shoot in the optimal format for GF Series lenses.                           |\n| Premista          | Shoot in the optimal format for Premista Series lenses.                     |\n| 35mm              | Shoot in the optimal format for 35-mm format lenses.                        |\n| ANAMORPHIC(35mm)  | Shoot in the optimal format for anamorphic lenses. You can configure the lens magnification or whether to use the desqueeze display when taking pictures. |",
+                    "isPerfectTable": true,
+                    "csv": "\"Option\",\"Description\"\n\"GF\",\"Shoot in the optimal format for GF Series lenses.\"\n\"Premista\",\"Shoot in the optimal format for Premista Series lenses.\"\n\"35mm\",\"Shoot in the optimal format for 35-mm format lenses.\"\n\"ANAMORPHIC(35mm)\",\"Shoot in the optimal format for anamorphic lenses. You can configure the lens magnification or whether to use the desqueeze display when taking pictures.\""
+                },
+                {
+                    "type": "text",
+                    "value": "> 💡 **Note:**  \n> - When **ANAMORPHIC(35mm)** is set, an anti-vibration function operates to match the configured magnification. Do not set **ANAMORPHIC(35mm)** when using a lens other than an anamorphic lens.\n> - When **MOVIE SETTING > HDMI OUTPUT SETTING > HDMI OUTPUT INFO DISPLAY** is set to **OFF**, HDMI output does not use the desqueeze display, even when desqueeze display is set to ON for **ANAMORPHIC(35mm)**.",
+                    "md": "> 💡 **Note:**  \n> - When **ANAMORPHIC(35mm)** is set, an anti-vibration function operates to match the configured magnification. Do not set **ANAMORPHIC(35mm)** when using a lens other than an anamorphic lens.\n> - When **MOVIE SETTING > HDMI OUTPUT SETTING > HDMI OUTPUT INFO DISPLAY** is set to **OFF**, HDMI output does not use the desqueeze display, even when desqueeze display is set to ON for **ANAMORPHIC(35mm)**."
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 46.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "6ec58969-e7bd-4cb8-b33e-ccba637aa7a3",
+    "file_path": "../data/raw_data/gfx100ii/gfx100ii_split/gfx100ii_page205.pdf"
+}

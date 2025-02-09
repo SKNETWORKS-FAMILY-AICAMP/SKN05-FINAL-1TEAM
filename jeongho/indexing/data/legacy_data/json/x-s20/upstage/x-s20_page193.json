@@ -1,0 +1,238 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:14px'>MOVIE SETTING (Movie Recording)</header>\n<h1 id='1' style='font-size:20px'>File Type and Compression</h1>\n<br><h1 id='2' style='font-size:18px'>Choose the movie file type and compression.</h1>\n<table id='3' style='font-size:16px'><tr><td>Option</td><td>Description</td></tr><tr><td>H.264 ALL-I 420 MOV</td><td>A highly-portable compressed format. Footage is recorded at a depth of 8 bits using All-I interframe compression and 4:2:0 chroma sub-sampling.</td></tr><tr><td>H.264 LongGOP 420 MOV</td><td>A highly-portable compressed format. Footage is recorded at a depth of 8 bits using Long GOP interframe compression and 4:2:0 chroma sub-sampling.</td></tr><tr><td>H.264 LongGOP 420 MP4</td><td>A format suitable for movies that will be uploaded to the web.</td></tr><tr><td>H.265 ALL-I 420 MOV</td><td>A format with a higher compression ratio than H.264. Foot- age is recorded at a depth of 10 bits using All-I interframe compression and 4:2:0 chroma sub-sampling.</td></tr><tr><td>H.265 LongGOP 420 MOV</td><td>A format with a higher compression ratio than H.264. Foot- age is recorded at a depth of 10 bits using Long GOP inter- frame compression and 4:2:0 chroma sub-sampling.</td></tr><tr><td>H.265 ALL-I 422 MOV</td><td>A format with a higher compression ratio than H.264. Foot- age is recorded at a depth of 10 bits using All-I interframe compression and 4:2:2 chroma sub-sampling.</td></tr><tr><td>H.265 LongGOP 422 MOV</td><td>A format with a higher compression ratio than H.264. Foot- age is recorded at a depth of 10 bits using Long GOP inter- frame compression and 4:2:2 chroma sub-sampling.</td></tr></table>\n<p id='4' data-category='list' style='font-size:16px'>4:2:2 chroma sub-sampling is used for footage output to external<br>devices connected via HDMI; H.264 footage is output at a bit depth of<br>8 bits and footage in other formats at a depth of 10 bits.<br>● All-I compresses each frame separately. Files are larger, but the fact<br>that the data for each frame are saved separately makes this a good<br>choice for footage that will be further processed.<br>● Long GOP balances good image quality with high compression. Files<br>are smaller, making it a good choice for longer movies.<br>● The options available for file type and compression vary with the op-<br>tions selected for MOVIE MODE, HIGH SPEED REC, and F-Log/HLG<br>RECORDING.</p>\n<br><footer id='5' style='font-size:14px'>6</footer>\n<br><footer id='6' style='font-size:22px'>The<br>Shooting<br>Menus</footer>\n<footer id='7' style='font-size:20px'>191</footer>",
+        "markdown": "MOVIE SETTING (Movie Recording)\n\n# File Type and Compression\n\n# Choose the movie file type and compression.\n\n| Option | Description |\n| --- | --- |\n| H.264 ALL-I 420 MOV | A highly-portable compressed format. Footage is recorded at a depth of 8 bits using All-I interframe compression and 4:2:0 chroma sub-sampling. |\n| H.264 LongGOP 420 MOV | A highly-portable compressed format. Footage is recorded at a depth of 8 bits using Long GOP interframe compression and 4:2:0 chroma sub-sampling. |\n| H.264 LongGOP 420 MP4 | A format suitable for movies that will be uploaded to the web. |\n| H.265 ALL-I 420 MOV | A format with a higher compression ratio than H.264. Foot- age is recorded at a depth of 10 bits using All-I interframe compression and 4:2:0 chroma sub-sampling. |\n| H.265 LongGOP 420 MOV | A format with a higher compression ratio than H.264. Foot- age is recorded at a depth of 10 bits using Long GOP inter- frame compression and 4:2:0 chroma sub-sampling. |\n| H.265 ALL-I 422 MOV | A format with a higher compression ratio than H.264. Foot- age is recorded at a depth of 10 bits using All-I interframe compression and 4:2:2 chroma sub-sampling. |\n| H.265 LongGOP 422 MOV | A format with a higher compression ratio than H.264. Foot- age is recorded at a depth of 10 bits using Long GOP inter- frame compression and 4:2:2 chroma sub-sampling. |\n\n\n- 4:2:2 chroma sub-sampling is used for footage output to external\n- devices connected via HDMI; H.264 footage is output at a bit depth of\n- 8 bits and footage in other formats at a depth of 10 bits.\n- ● All-I compresses each frame separately. Files are larger, but the fact\n- that the data for each frame are saved separately makes this a good\n- choice for footage that will be further processed.\n- ● Long GOP balances good image quality with high compression. Files\n- are smaller, making it a good choice for longer movies.\n- ● The options available for file type and compression vary with the op-\n- tions selected for MOVIE MODE, HIGH SPEED REC, and F-Log/HLG\n- RECORDING.\n\n\n6\n\nThe\nShooting\nMenus\n\n191",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:14px'>MOVIE SETTING (Movie Recording)</header>",
+                "markdown": "MOVIE SETTING (Movie Recording)",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.5772,
+                    "y": 0.0279
+                },
+                {
+                    "x": 0.917,
+                    "y": 0.0279
+                },
+                {
+                    "x": 0.917,
+                    "y": 0.051
+                },
+                {
+                    "x": 0.5772,
+                    "y": 0.051
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='1' style='font-size:20px'>File Type and Compression</h1>",
+                "markdown": "# File Type and Compression",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1063,
+                    "y": 0.072
+                },
+                {
+                    "x": 0.3881,
+                    "y": 0.072
+                },
+                {
+                    "x": 0.3881,
+                    "y": 0.0955
+                },
+                {
+                    "x": 0.1063,
+                    "y": 0.0955
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='2' style='font-size:18px'>Choose the movie file type and compression.</h1>",
+                "markdown": "# Choose the movie file type and compression.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.106,
+                    "y": 0.0988
+                },
+                {
+                    "x": 0.6778,
+                    "y": 0.0988
+                },
+                {
+                    "x": 0.6778,
+                    "y": 0.1214
+                },
+                {
+                    "x": 0.106,
+                    "y": 0.1214
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='3' style='font-size:16px'><tr><td>Option</td><td>Description</td></tr><tr><td>H.264 ALL-I 420 MOV</td><td>A highly-portable compressed format. Footage is recorded at a depth of 8 bits using All-I interframe compression and 4:2:0 chroma sub-sampling.</td></tr><tr><td>H.264 LongGOP 420 MOV</td><td>A highly-portable compressed format. Footage is recorded at a depth of 8 bits using Long GOP interframe compression and 4:2:0 chroma sub-sampling.</td></tr><tr><td>H.264 LongGOP 420 MP4</td><td>A format suitable for movies that will be uploaded to the web.</td></tr><tr><td>H.265 ALL-I 420 MOV</td><td>A format with a higher compression ratio than H.264. Foot- age is recorded at a depth of 10 bits using All-I interframe compression and 4:2:0 chroma sub-sampling.</td></tr><tr><td>H.265 LongGOP 420 MOV</td><td>A format with a higher compression ratio than H.264. Foot- age is recorded at a depth of 10 bits using Long GOP inter- frame compression and 4:2:0 chroma sub-sampling.</td></tr><tr><td>H.265 ALL-I 422 MOV</td><td>A format with a higher compression ratio than H.264. Foot- age is recorded at a depth of 10 bits using All-I interframe compression and 4:2:2 chroma sub-sampling.</td></tr><tr><td>H.265 LongGOP 422 MOV</td><td>A format with a higher compression ratio than H.264. Foot- age is recorded at a depth of 10 bits using Long GOP inter- frame compression and 4:2:2 chroma sub-sampling.</td></tr></table>",
+                "markdown": "| Option | Description |\n| --- | --- |\n| H.264 ALL-I 420 MOV | A highly-portable compressed format. Footage is recorded at a depth of 8 bits using All-I interframe compression and 4:2:0 chroma sub-sampling. |\n| H.264 LongGOP 420 MOV | A highly-portable compressed format. Footage is recorded at a depth of 8 bits using Long GOP interframe compression and 4:2:0 chroma sub-sampling. |\n| H.264 LongGOP 420 MP4 | A format suitable for movies that will be uploaded to the web. |\n| H.265 ALL-I 420 MOV | A format with a higher compression ratio than H.264. Foot- age is recorded at a depth of 10 bits using All-I interframe compression and 4:2:0 chroma sub-sampling. |\n| H.265 LongGOP 420 MOV | A format with a higher compression ratio than H.264. Foot- age is recorded at a depth of 10 bits using Long GOP inter- frame compression and 4:2:0 chroma sub-sampling. |\n| H.265 ALL-I 422 MOV | A format with a higher compression ratio than H.264. Foot- age is recorded at a depth of 10 bits using All-I interframe compression and 4:2:2 chroma sub-sampling. |\n| H.265 LongGOP 422 MOV | A format with a higher compression ratio than H.264. Foot- age is recorded at a depth of 10 bits using Long GOP inter- frame compression and 4:2:2 chroma sub-sampling. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.107,
+                    "y": 0.1326
+                },
+                {
+                    "x": 0.9196,
+                    "y": 0.1326
+                },
+                {
+                    "x": 0.9196,
+                    "y": 0.6292
+                },
+                {
+                    "x": 0.107,
+                    "y": 0.6292
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "list",
+            "content": {
+                "html": "<p id='4' data-category='list' style='font-size:16px'>4:2:2 chroma sub-sampling is used for footage output to external<br>devices connected via HDMI; H.264 footage is output at a bit depth of<br>8 bits and footage in other formats at a depth of 10 bits.<br>● All-I compresses each frame separately. Files are larger, but the fact<br>that the data for each frame are saved separately makes this a good<br>choice for footage that will be further processed.<br>● Long GOP balances good image quality with high compression. Files<br>are smaller, making it a good choice for longer movies.<br>● The options available for file type and compression vary with the op-<br>tions selected for MOVIE MODE, HIGH SPEED REC, and F-Log/HLG<br>RECORDING.</p>",
+                "markdown": "- 4:2:2 chroma sub-sampling is used for footage output to external\n- devices connected via HDMI; H.264 footage is output at a bit depth of\n- 8 bits and footage in other formats at a depth of 10 bits.\n- ● All-I compresses each frame separately. Files are larger, but the fact\n- that the data for each frame are saved separately makes this a good\n- choice for footage that will be further processed.\n- ● Long GOP balances good image quality with high compression. Files\n- are smaller, making it a good choice for longer movies.\n- ● The options available for file type and compression vary with the op-\n- tions selected for MOVIE MODE, HIGH SPEED REC, and F-Log/HLG\n- RECORDING.\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.129,
+                    "y": 0.6406
+                },
+                {
+                    "x": 0.9185,
+                    "y": 0.6406
+                },
+                {
+                    "x": 0.9185,
+                    "y": 0.8919
+                },
+                {
+                    "x": 0.129,
+                    "y": 0.8919
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<br><footer id='5' style='font-size:14px'>6</footer>",
+                "markdown": "6",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9585,
+                    "y": 0.5372
+                },
+                {
+                    "x": 0.9763,
+                    "y": 0.5372
+                },
+                {
+                    "x": 0.9763,
+                    "y": 0.5581
+                },
+                {
+                    "x": 0.9585,
+                    "y": 0.5581
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<br><footer id='6' style='font-size:22px'>The<br>Shooting<br>Menus</footer>",
+                "markdown": "The\nShooting\nMenus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9564,
+                    "y": 0.5496
+                },
+                {
+                    "x": 0.9834,
+                    "y": 0.5496
+                },
+                {
+                    "x": 0.9834,
+                    "y": 0.7291
+                },
+                {
+                    "x": 0.9564,
+                    "y": 0.7291
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='7' style='font-size:20px'>191</footer>",
+                "markdown": "191",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.8625,
+                    "y": 0.9569
+                },
+                {
+                    "x": 0.9147,
+                    "y": 0.9569
+                },
+                {
+                    "x": 0.9147,
+                    "y": 0.9788
+                },
+                {
+                    "x": 0.8625,
+                    "y": 0.9788
+                }
+            ],
+            "id": 7,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

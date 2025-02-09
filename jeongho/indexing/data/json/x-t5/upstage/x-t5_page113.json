@@ -1,0 +1,266 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:14px'>Panoramas</header>\n<h1 id='1' style='font-size:18px'>Viewing Panoramas</h1>\n\n<figure id='3'><img style='font-size:14px' alt=\"MENU\nOK\nrrrrr\nrrrrr\nrrr �����\n▼ PLAY ▶\n▲ STOP ▼ PAUSE\" data-coord=\"top-left:(247,649); bottom-right:(2468,1230)\" /><br><figcaption id='2' style='font-size:16px'>With the panorama displayed full frame, press the selector down to start<br>panorama playback. Vertical panoramas will scroll vertically, horizontal pan-<br>oramas horizontally.</figcaption></figure>\n\n<br><table id='5' style='font-size:18px'><tr><td>Selector</td><td>Full-frame playback</td><td>Panorama playback</td><td>Panorama playback paused</td></tr><tr><td>Up</td><td></td><td colspan=\"2\">End playback</td></tr><tr><td>Down</td><td>Start playback</td><td>Pause playback</td><td>Resume playback</td></tr><tr><td>Left/right</td><td>View other pictures</td><td>Choose pan direction</td><td>Scroll panorama manually</td></tr><br><caption id='4' style='font-size:14px'>● In full-frame playback, you can use the rear command dial to zoom pan-<br>oramas in or out.<br>● Panorama playback is controlled using the multi selector.</caption></table>\n<br><footer id='6' style='font-size:16px'>5</footer>\n<br><footer id='7' style='font-size:22px'>Taking<br>Photographs</footer>\n<footer id='8' style='font-size:20px'>113</footer>",
+        "markdown": "Panoramas\n\n# Viewing Panoramas\n\nWith the panorama displayed full frame, press the selector down to start\npanorama playback. Vertical panoramas will scroll vertically, horizontal pan-\noramas horizontally.\n\n![image](/image/placeholder)\nMENU\nOK\nrrrrr\nrrrrr\nrrr �����\n▼ PLAY ▶\n▲ STOP ▼ PAUSE\n\n● In full-frame playback, you can use the rear command dial to zoom pan-\noramas in or out.\n● Panorama playback is controlled using the multi selector.\n\n| Selector | Full-frame playback | Panorama playback | Panorama playback paused |\n| --- | --- | --- | --- |\n| Up |  | End playback | End playback |\n| Down | Start playback | Pause playback | Resume playback |\n| Left/right | View other pictures | Choose pan direction | Scroll panorama manually |\n\n\n5\n\nTaking\nPhotographs\n\n113",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:14px'>Panoramas</header>",
+                "markdown": "Panoramas",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.8051,
+                    "y": 0.0292
+                },
+                {
+                    "x": 0.9183,
+                    "y": 0.0292
+                },
+                {
+                    "x": 0.9183,
+                    "y": 0.0499
+                },
+                {
+                    "x": 0.8051,
+                    "y": 0.0499
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='1' style='font-size:18px'>Viewing Panoramas</h1>",
+                "markdown": "# Viewing Panoramas",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1109,
+                    "y": 0.0728
+                },
+                {
+                    "x": 0.312,
+                    "y": 0.0728
+                },
+                {
+                    "x": 0.312,
+                    "y": 0.0932
+                },
+                {
+                    "x": 0.1109,
+                    "y": 0.0932
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='2' data-category='paragraph' style='font-size:16px'>With the panorama displayed full frame, press the selector down to start<br>panorama playback. Vertical panoramas will scroll vertically, horizontal pan-<br>oramas horizontally.</p>",
+                "markdown": "With the panorama displayed full frame, press the selector down to start\npanorama playback. Vertical panoramas will scroll vertically, horizontal pan-\noramas horizontally.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1077,
+                    "y": 0.0939
+                },
+                {
+                    "x": 0.9214,
+                    "y": 0.0939
+                },
+                {
+                    "x": 0.9214,
+                    "y": 0.1615
+                },
+                {
+                    "x": 0.1077,
+                    "y": 0.1615
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "figure",
+            "content": {
+                "html": "<figure id='3'><img style='font-size:14px' alt=\"MENU\nOK\nrrrrr\nrrrrr\nrrr �����\n▼ PLAY ▶\n▲ STOP ▼ PAUSE\" data-coord=\"top-left:(247,649); bottom-right:(2468,1230)\" /></figure>",
+                "markdown": "![image](/image/placeholder)\nMENU\nOK\nrrrrr\nrrrrr\nrrr �����\n▼ PLAY ▶\n▲ STOP ▼ PAUSE",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0894,
+                    "y": 0.1666
+                },
+                {
+                    "x": 0.8932,
+                    "y": 0.1666
+                },
+                {
+                    "x": 0.8932,
+                    "y": 0.3157
+                },
+                {
+                    "x": 0.0894,
+                    "y": 0.3157
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='4' data-category='paragraph' style='font-size:14px'>● In full-frame playback, you can use the rear command dial to zoom pan-<br>oramas in or out.<br>● Panorama playback is controlled using the multi selector.</p>",
+                "markdown": "● In full-frame playback, you can use the rear command dial to zoom pan-\noramas in or out.\n● Panorama playback is controlled using the multi selector.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1085,
+                    "y": 0.3216
+                },
+                {
+                    "x": 0.9186,
+                    "y": 0.3216
+                },
+                {
+                    "x": 0.9186,
+                    "y": 0.3897
+                },
+                {
+                    "x": 0.1085,
+                    "y": 0.3897
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='5' style='font-size:18px'><tr><td>Selector</td><td>Full-frame playback</td><td>Panorama playback</td><td>Panorama playback paused</td></tr><tr><td>Up</td><td></td><td colspan=\"2\">End playback</td></tr><tr><td>Down</td><td>Start playback</td><td>Pause playback</td><td>Resume playback</td></tr><tr><td>Left/right</td><td>View other pictures</td><td>Choose pan direction</td><td>Scroll panorama manually</td></tr></table>",
+                "markdown": "| Selector | Full-frame playback | Panorama playback | Panorama playback paused |\n| --- | --- | --- | --- |\n| Up |  | End playback | End playback |\n| Down | Start playback | Pause playback | Resume playback |\n| Left/right | View other pictures | Choose pan direction | Scroll panorama manually |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1207,
+                    "y": 0.3894
+                },
+                {
+                    "x": 0.9147,
+                    "y": 0.3894
+                },
+                {
+                    "x": 0.9147,
+                    "y": 0.5402
+                },
+                {
+                    "x": 0.1207,
+                    "y": 0.5402
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<br><footer id='6' style='font-size:16px'>5</footer>",
+                "markdown": "5",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9575,
+                    "y": 0.4776
+                },
+                {
+                    "x": 0.9752,
+                    "y": 0.4776
+                },
+                {
+                    "x": 0.9752,
+                    "y": 0.4973
+                },
+                {
+                    "x": 0.9575,
+                    "y": 0.4973
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<br><footer id='7' style='font-size:22px'>Taking<br>Photographs</footer>",
+                "markdown": "Taking\nPhotographs",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9565,
+                    "y": 0.5183
+                },
+                {
+                    "x": 0.9815,
+                    "y": 0.5183
+                },
+                {
+                    "x": 0.9815,
+                    "y": 0.665
+                },
+                {
+                    "x": 0.9565,
+                    "y": 0.665
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='8' style='font-size:20px'>113</footer>",
+                "markdown": "113",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.8619,
+                    "y": 0.9563
+                },
+                {
+                    "x": 0.9178,
+                    "y": 0.9563
+                },
+                {
+                    "x": 0.9178,
+                    "y": 0.9796
+                },
+                {
+                    "x": 0.8619,
+                    "y": 0.9796
+                }
+            ],
+            "id": 8,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

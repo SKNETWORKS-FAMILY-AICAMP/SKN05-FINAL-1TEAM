@@ -1,0 +1,54 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "\n5. From the recommended apps, select “Camera Importer”. The app will automatically start and allow you to import photos and movies to your smartphone.\n\n> 💡 **Note:**  \n> If the message “There is no MTP device connected” appears on the app, please try again from step 3.\n\n## For Customers Using iOS\n\nUse a camera adapter. Given that the camera is equipped with a USB Type-C connector, you will need to supply a cable with a USB Type-A connector for connection to the camera adapter.\n\n!Camera Connection Diagram\n\n1. Select **POWER SUPPLY OFF/COMM ON** for **USB POWER SUPPLY/COMM SETTING** in the network/USB setting menu.\n\n2. Select **USB CARD READER** for **CONNECTION MODE**.\n\n3. Connect the camera and smartphone using a USB cable. Launch the Photos app to import photos and movies to your smartphone.\n\n> 💡 **Note:**  \n> - A Type-C to Type-C USB cable is required for connection to iPad and other devices equipped with USB Type-C connectors.\n> - The desired results cannot be achieved with a USB Type-C-to-Lightning cable. Use a camera adapter.\n",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "text",
+                    "value": "5. From the recommended apps, select “Camera Importer”. The app will automatically start and allow you to import photos and movies to your smartphone.\n\n> 💡 **Note:**  \n> If the message “There is no MTP device connected” appears on the app, please try again from step 3.",
+                    "md": "5. From the recommended apps, select “Camera Importer”. The app will automatically start and allow you to import photos and movies to your smartphone.\n\n> 💡 **Note:**  \n> If the message “There is no MTP device connected” appears on the app, please try again from step 3."
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "For Customers Using iOS",
+                    "md": "## For Customers Using iOS"
+                },
+                {
+                    "type": "text",
+                    "value": "Use a camera adapter. Given that the camera is equipped with a USB Type-C connector, you will need to supply a cable with a USB Type-A connector for connection to the camera adapter.\n\n!Camera Connection Diagram\n\n1. Select **POWER SUPPLY OFF/COMM ON** for **USB POWER SUPPLY/COMM SETTING** in the network/USB setting menu.\n\n2. Select **USB CARD READER** for **CONNECTION MODE**.\n\n3. Connect the camera and smartphone using a USB cable. Launch the Photos app to import photos and movies to your smartphone.\n\n> 💡 **Note:**  \n> - A Type-C to Type-C USB cable is required for connection to iPad and other devices equipped with USB Type-C connectors.\n> - The desired results cannot be achieved with a USB Type-C-to-Lightning cable. Use a camera adapter.",
+                    "md": "Use a camera adapter. Given that the camera is equipped with a USB Type-C connector, you will need to supply a cable with a USB Type-A connector for connection to the camera adapter.\n\n!Camera Connection Diagram\n\n1. Select **POWER SUPPLY OFF/COMM ON** for **USB POWER SUPPLY/COMM SETTING** in the network/USB setting menu.\n\n2. Select **USB CARD READER** for **CONNECTION MODE**.\n\n3. Connect the camera and smartphone using a USB cable. Launch the Photos app to import photos and movies to your smartphone.\n\n> 💡 **Note:**  \n> - A Type-C to Type-C USB cable is required for connection to iPad and other devices equipped with USB Type-C connectors.\n> - The desired results cannot be achieved with a USB Type-C-to-Lightning cable. Use a camera adapter."
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "parsingMode": "multimodal-openai-gpt4o",
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 448.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "af0f9062-1df4-4280-a9dd-47ff2dbde056",
+    "file_path": "../data/raw_data/x-t5/x-t5_split/x-t5_page280.pdf"
+}

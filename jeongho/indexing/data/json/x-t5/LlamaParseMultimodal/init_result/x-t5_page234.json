@@ -1,0 +1,99 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "\n## MF ASSIST\nChoose how focus is displayed in manual focus mode (📖 94).\n\n| Option                     | Description                                                                 |\n|----------------------------|-----------------------------------------------------------------------------|\n| FOCUS PEAK HIGHLIGHT       | The camera heightens high-contrast outlines. Choose a color and peaking level. |\n| FOCUS METER                | A needle indicates whether focus is in front of or behind the subject.      |\n| FOCUS METER + PEAK HIGHLIGHT | Focus is indicated by both a meter and peak highlights.                     |\n| OFF                        | Focus is displayed normally (focus peaking and the focus meter are not available). |\n\n## FOCUS CHECK\nOptions are the same as those for still photography, but settings must be adjusted separately (📖 156).\n\n## INSTANT AF SETTING\nThis item is also found in the photo menus (📖 157). Changes to one apply to the other.\n\n> ⚠️ **Note:**  \n> Instant AF is disabled during movie recording. Use instant AF to focus before recording begins.\n",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "MF ASSIST",
+                    "md": "## MF ASSIST"
+                },
+                {
+                    "type": "text",
+                    "value": "Choose how focus is displayed in manual focus mode (📖 94).",
+                    "md": "Choose how focus is displayed in manual focus mode (📖 94)."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Option",
+                            "Description"
+                        ],
+                        [
+                            "FOCUS PEAK HIGHLIGHT",
+                            "The camera heightens high-contrast outlines. Choose a color and peaking level."
+                        ],
+                        [
+                            "FOCUS METER",
+                            "A needle indicates whether focus is in front of or behind the subject."
+                        ],
+                        [
+                            "FOCUS METER + PEAK HIGHLIGHT",
+                            "Focus is indicated by both a meter and peak highlights."
+                        ],
+                        [
+                            "OFF",
+                            "Focus is displayed normally (focus peaking and the focus meter are not available)."
+                        ]
+                    ],
+                    "md": "| Option                     | Description                                                                 |\n|----------------------------|-----------------------------------------------------------------------------|\n| FOCUS PEAK HIGHLIGHT       | The camera heightens high-contrast outlines. Choose a color and peaking level. |\n| FOCUS METER                | A needle indicates whether focus is in front of or behind the subject.      |\n| FOCUS METER + PEAK HIGHLIGHT | Focus is indicated by both a meter and peak highlights.                     |\n| OFF                        | Focus is displayed normally (focus peaking and the focus meter are not available). |",
+                    "isPerfectTable": true,
+                    "csv": "\"Option\",\"Description\"\n\"FOCUS PEAK HIGHLIGHT\",\"The camera heightens high-contrast outlines. Choose a color and peaking level.\"\n\"FOCUS METER\",\"A needle indicates whether focus is in front of or behind the subject.\"\n\"FOCUS METER + PEAK HIGHLIGHT\",\"Focus is indicated by both a meter and peak highlights.\"\n\"OFF\",\"Focus is displayed normally (focus peaking and the focus meter are not available).\""
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "FOCUS CHECK",
+                    "md": "## FOCUS CHECK"
+                },
+                {
+                    "type": "text",
+                    "value": "Options are the same as those for still photography, but settings must be adjusted separately (📖 156).",
+                    "md": "Options are the same as those for still photography, but settings must be adjusted separately (📖 156)."
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "INSTANT AF SETTING",
+                    "md": "## INSTANT AF SETTING"
+                },
+                {
+                    "type": "text",
+                    "value": "This item is also found in the photo menus (📖 157). Changes to one apply to the other.\n\n> ⚠️ **Note:**  \n> Instant AF is disabled during movie recording. Use instant AF to focus before recording begins.",
+                    "md": "This item is also found in the photo menus (📖 157). Changes to one apply to the other.\n\n> ⚠️ **Note:**  \n> Instant AF is disabled during movie recording. Use instant AF to focus before recording begins."
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "parsingMode": "multimodal-openai-gpt4o",
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 500.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "b309e228-56f6-44e1-b111-9f14dadd3767",
+    "file_path": "../data/raw_data/x-t5/x-t5_split/x-t5_page234.pdf"
+}

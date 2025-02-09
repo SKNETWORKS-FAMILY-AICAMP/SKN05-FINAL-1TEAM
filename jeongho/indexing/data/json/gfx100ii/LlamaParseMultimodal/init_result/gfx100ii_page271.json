@@ -1,0 +1,105 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "# Features Accessible via Connection Settings\n\n## Features that can be accessed if set by CREATE/EDIT CONNECTION SETTING\n\n| Feature                | Description                                                                 |\n|------------------------|-----------------------------------------------------------------------------|\n| Tethered photography   | Take pictures from a computer to which the camera is connected (\"tethered\") via wireless or wired LAN. |\n| Upload to FTP servers  | Upload files to FTP servers.                                                |\n| Remote movie recording | Control the camera and take pictures remotely using a web browser on a computer or tablet. |\n\nThese features can be accessed by selecting a connection setting profile to which the desired settings and connection type have been saved using CREATE/EDIT CONNECTION SETTING.\n\n## Features that can be accessed if set by the network/USB setting menu\n\n| Feature            | Description                  |\n|--------------------|------------------------------|\n| Upload to Frame.io | Upload files to Frame.io.    |\n\nThese features can be accessed if set by the network/USB setting menu.",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "Features Accessible via Connection Settings",
+                    "md": "# Features Accessible via Connection Settings"
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "Features that can be accessed if set by CREATE/EDIT CONNECTION SETTING",
+                    "md": "## Features that can be accessed if set by CREATE/EDIT CONNECTION SETTING"
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Feature",
+                            "Description"
+                        ],
+                        [
+                            "Tethered photography",
+                            "Take pictures from a computer to which the camera is connected (\"tethered\") via wireless or wired LAN."
+                        ],
+                        [
+                            "Upload to FTP servers",
+                            "Upload files to FTP servers."
+                        ],
+                        [
+                            "Remote movie recording",
+                            "Control the camera and take pictures remotely using a web browser on a computer or tablet."
+                        ]
+                    ],
+                    "md": "| Feature                | Description                                                                 |\n|------------------------|-----------------------------------------------------------------------------|\n| Tethered photography   | Take pictures from a computer to which the camera is connected (\"tethered\") via wireless or wired LAN. |\n| Upload to FTP servers  | Upload files to FTP servers.                                                |\n| Remote movie recording | Control the camera and take pictures remotely using a web browser on a computer or tablet. |",
+                    "isPerfectTable": true,
+                    "csv": "\"Feature\",\"Description\"\n\"Tethered photography\",\"Take pictures from a computer to which the camera is connected (\"\"tethered\"\") via wireless or wired LAN.\"\n\"Upload to FTP servers\",\"Upload files to FTP servers.\"\n\"Remote movie recording\",\"Control the camera and take pictures remotely using a web browser on a computer or tablet.\""
+                },
+                {
+                    "type": "text",
+                    "value": "These features can be accessed by selecting a connection setting profile to which the desired settings and connection type have been saved using CREATE/EDIT CONNECTION SETTING.",
+                    "md": "These features can be accessed by selecting a connection setting profile to which the desired settings and connection type have been saved using CREATE/EDIT CONNECTION SETTING."
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "Features that can be accessed if set by the network/USB setting menu",
+                    "md": "## Features that can be accessed if set by the network/USB setting menu"
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Feature",
+                            "Description"
+                        ],
+                        [
+                            "Upload to Frame.io",
+                            "Upload files to Frame.io."
+                        ]
+                    ],
+                    "md": "| Feature            | Description                  |\n|--------------------|------------------------------|\n| Upload to Frame.io | Upload files to Frame.io.    |",
+                    "isPerfectTable": true,
+                    "csv": "\"Feature\",\"Description\"\n\"Upload to Frame.io\",\"Upload files to Frame.io.\""
+                },
+                {
+                    "type": "text",
+                    "value": "These features can be accessed if set by the network/USB setting menu.",
+                    "md": "These features can be accessed if set by the network/USB setting menu."
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 290.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "e0697217-8187-4fa9-83cd-386b49b9f3cb",
+    "file_path": "../data/raw_data/gfx100ii/gfx100ii_split/gfx100ii_page271.pdf"
+}

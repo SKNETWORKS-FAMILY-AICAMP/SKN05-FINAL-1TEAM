@@ -1,0 +1,266 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:22px'>The<br>Shooting<br>Menus</header>\n<br><h1 id='1' style='font-size:18px'>NOISE REDUCTION</h1>\n\n<table id='3' style='font-size:14px'><tr><td rowspan=\"2\" colspan=\"9\">Options</td></tr><tr></tr><tr><td>-4</td><td>-3</td><td>-2</td><td>-1</td><td>0</td><td>+1</td><td>+2</td><td>+3</td><td>+4</td></tr><br><caption id='2' style='font-size:18px'>Reduce noise in movies shot at high sensitivities. Choose high-<br>er values to reduce noise and smooth outlines, lower values to<br>leave outlines visible.</caption></table>\n<p id='4' data-category='paragraph' style='font-size:14px'>4K INTERFRAME NR</p>\n\n<br><table id='6' style='font-size:16px'><tr><td colspan=\"2\">Options</td></tr><tr><td>ON</td><td>OFF</td></tr><br><caption id='5' style='font-size:18px'>Select ON to enable interframe noise reduction.</caption></table>\n<p id='7' data-category='list' style='font-size:14px'>Interframe noise reduction is available only when frame rates of<br>29.97P or slower are selected at a frame size of 4K or DCI<br>● \"Ghosting\" may occur with moving subjects or if the camera is moved<br>during shooting.</p>\n<footer id='8' style='font-size:20px'>160</footer>",
+        "markdown": "The\nShooting\nMenus\n\n# NOISE REDUCTION\n\nReduce noise in movies shot at high sensitivities. Choose high-\ner values to reduce noise and smooth outlines, lower values to\nleave outlines visible.\n\n| Options | Options | Options | Options | Options | Options | Options | Options | Options |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| Options | Options | Options | Options | Options | Options | Options | Options | Options |\n| -4 | -3 | -2 | -1 | 0 | +1 | +2 | +3 | +4 |\n\n\n4K INTERFRAME NR\n\nSelect ON to enable interframe noise reduction.\n\n| Options | Options |\n| --- | --- |\n| ON | OFF |\n\n\n- Interframe noise reduction is available only when frame rates of\n- 29.97P or slower are selected at a frame size of 4K or DCI\n- ● \"Ghosting\" may occur with moving subjects or if the camera is moved\n- during shooting.\n\n\n160",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:22px'>The<br>Shooting<br>Menus</header>",
+                "markdown": "The\nShooting\nMenus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0162,
+                    "y": 0.5792
+                },
+                {
+                    "x": 0.0427,
+                    "y": 0.5792
+                },
+                {
+                    "x": 0.0427,
+                    "y": 0.7308
+                },
+                {
+                    "x": 0.0162,
+                    "y": 0.7308
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='1' style='font-size:18px'>NOISE REDUCTION</h1>",
+                "markdown": "# NOISE REDUCTION",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0838,
+                    "y": 0.0733
+                },
+                {
+                    "x": 0.3796,
+                    "y": 0.0733
+                },
+                {
+                    "x": 0.3796,
+                    "y": 0.0953
+                },
+                {
+                    "x": 0.0838,
+                    "y": 0.0953
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='2' data-category='paragraph' style='font-size:18px'>Reduce noise in movies shot at high sensitivities. Choose high-<br>er values to reduce noise and smooth outlines, lower values to<br>leave outlines visible.</p>",
+                "markdown": "Reduce noise in movies shot at high sensitivities. Choose high-\ner values to reduce noise and smooth outlines, lower values to\nleave outlines visible.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0809,
+                    "y": 0.104
+                },
+                {
+                    "x": 0.8941,
+                    "y": 0.104
+                },
+                {
+                    "x": 0.8941,
+                    "y": 0.1795
+                },
+                {
+                    "x": 0.0809,
+                    "y": 0.1795
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='3' style='font-size:14px'><tr><td rowspan=\"2\" colspan=\"9\">Options</td></tr><tr></tr><tr><td>-4</td><td>-3</td><td>-2</td><td>-1</td><td>0</td><td>+1</td><td>+2</td><td>+3</td><td>+4</td></tr></table>",
+                "markdown": "| Options | Options | Options | Options | Options | Options | Options | Options | Options |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| Options | Options | Options | Options | Options | Options | Options | Options | Options |\n| -4 | -3 | -2 | -1 | 0 | +1 | +2 | +3 | +4 |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0847,
+                    "y": 0.1928
+                },
+                {
+                    "x": 0.891,
+                    "y": 0.1928
+                },
+                {
+                    "x": 0.891,
+                    "y": 0.2453
+                },
+                {
+                    "x": 0.0847,
+                    "y": 0.2453
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='4' data-category='paragraph' style='font-size:14px'>4K INTERFRAME NR</p>",
+                "markdown": "4K INTERFRAME NR",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.084,
+                    "y": 0.2608
+                },
+                {
+                    "x": 0.3609,
+                    "y": 0.2608
+                },
+                {
+                    "x": 0.3609,
+                    "y": 0.2829
+                },
+                {
+                    "x": 0.084,
+                    "y": 0.2829
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='5' data-category='paragraph' style='font-size:18px'>Select ON to enable interframe noise reduction.</p>",
+                "markdown": "Select ON to enable interframe noise reduction.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0803,
+                    "y": 0.2919
+                },
+                {
+                    "x": 0.6873,
+                    "y": 0.2919
+                },
+                {
+                    "x": 0.6873,
+                    "y": 0.3167
+                },
+                {
+                    "x": 0.0803,
+                    "y": 0.3167
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='6' style='font-size:16px'><tr><td colspan=\"2\">Options</td></tr><tr><td>ON</td><td>OFF</td></tr></table>",
+                "markdown": "| Options | Options |\n| --- | --- |\n| ON | OFF |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1241,
+                    "y": 0.3289
+                },
+                {
+                    "x": 0.8866,
+                    "y": 0.3289
+                },
+                {
+                    "x": 0.8866,
+                    "y": 0.3813
+                },
+                {
+                    "x": 0.1241,
+                    "y": 0.3813
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "list",
+            "content": {
+                "html": "<p id='7' data-category='list' style='font-size:14px'>Interframe noise reduction is available only when frame rates of<br>29.97P or slower are selected at a frame size of 4K or DCI<br>● \"Ghosting\" may occur with moving subjects or if the camera is moved<br>during shooting.</p>",
+                "markdown": "- Interframe noise reduction is available only when frame rates of\n- 29.97P or slower are selected at a frame size of 4K or DCI\n- ● \"Ghosting\" may occur with moving subjects or if the camera is moved\n- during shooting.\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1026,
+                    "y": 0.3911
+                },
+                {
+                    "x": 0.89,
+                    "y": 0.3911
+                },
+                {
+                    "x": 0.89,
+                    "y": 0.4807
+                },
+                {
+                    "x": 0.1026,
+                    "y": 0.4807
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='8' style='font-size:20px'>160</footer>",
+                "markdown": "160",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0849,
+                    "y": 0.9569
+                },
+                {
+                    "x": 0.1402,
+                    "y": 0.9569
+                },
+                {
+                    "x": 0.1402,
+                    "y": 0.9795
+                },
+                {
+                    "x": 0.0849,
+                    "y": 0.9795
+                }
+            ],
+            "id": 8,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

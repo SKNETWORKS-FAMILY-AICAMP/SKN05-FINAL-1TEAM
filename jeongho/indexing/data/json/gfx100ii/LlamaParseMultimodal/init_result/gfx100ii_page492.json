@@ -1,0 +1,104 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "\n# System\n\n| Feature                  | Description                                                                 |\n|--------------------------|-----------------------------------------------------------------------------|\n| **Hot shoe**             | Provided (supports TTL flash control); supports sync speeds as fast as 1/125 s |\n| **Sync contact**         | X contact; supports sync speeds as fast as 1/125 s                           |\n| **Sync terminal**        | Provided                                                                     |\n| **Electronic viewfinder (EVF)** | EVF-GFX3 interchangeable electronic viewfinder (supplied)             |\n\n## LCD Monitor\n\n- **Rear monitor**: 3.2-in/8.1 cm, 2360k-dot color LCD touch screen with 3-way tilt\n- **Shoulder monitor**: 2.09-in/5.31 cm, 219 × 320-dot memory LCD monitor\n\n## Movies (with stereo sound)\n\n- **Movie size**:\n  - !CINE 2.76:1\n  - !4.6K 1.38:1\n  - !8K 16:9, 17:9\n  - !CINE 2.35:1\n  - !5.4K 17:9\n  - !4.3K 3:2\n  - !4.8K 16:9\n  - !4K 16:9, 17:9\n  - !FHD 16:9, !FHD 17:9\n\n> The size that can be selected depends on the **IMAGE FORMAT** setting.\n\n- **Frame rate**: 59.94P, 50P, 29.97P, 25P, 24P, 23.98P\n- **Recording/output format**:\n  - H.265 (10-bit MOV 4:2:2/4:2:0; 720, 360, 200, 100, or 50 Mbps)\n  - H.264 (8-bit MOV/MP4 4:2:0; 360, 200, 100, or 50Mbps)\n  - ProRes 422 HQ, ProRes 422, ProRes 422 LT (10-bit MOV 4:2:2)\n  - HDMI output supported (RAW output supported with Atomos and Blackmagic Design external recorders; 8-bit 4:2:2/10-bit 4:2:2)\n\n## High-speed Movies\n\n- **Movie size**: !FHD 16:9, !FHD 17:9\n- **Frame advance rate**: 120P, 100P\n",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "System",
+                    "md": "# System"
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Feature",
+                            "Description"
+                        ],
+                        [
+                            "**Hot shoe**",
+                            "Provided (supports TTL flash control); supports sync speeds as fast as 1/125 s"
+                        ],
+                        [
+                            "**Sync contact**",
+                            "X contact; supports sync speeds as fast as 1/125 s"
+                        ],
+                        [
+                            "**Sync terminal**",
+                            "Provided"
+                        ],
+                        [
+                            "**Electronic viewfinder (EVF)**",
+                            "EVF-GFX3 interchangeable electronic viewfinder (supplied)"
+                        ]
+                    ],
+                    "md": "| Feature                  | Description                                                                 |\n|--------------------------|-----------------------------------------------------------------------------|\n| **Hot shoe**             | Provided (supports TTL flash control); supports sync speeds as fast as 1/125 s |\n| **Sync contact**         | X contact; supports sync speeds as fast as 1/125 s                           |\n| **Sync terminal**        | Provided                                                                     |\n| **Electronic viewfinder (EVF)** | EVF-GFX3 interchangeable electronic viewfinder (supplied)             |",
+                    "isPerfectTable": true,
+                    "csv": "\"Feature\",\"Description\"\n\"**Hot shoe**\",\"Provided (supports TTL flash control); supports sync speeds as fast as 1/125 s\"\n\"**Sync contact**\",\"X contact; supports sync speeds as fast as 1/125 s\"\n\"**Sync terminal**\",\"Provided\"\n\"**Electronic viewfinder (EVF)**\",\"EVF-GFX3 interchangeable electronic viewfinder (supplied)\""
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "LCD Monitor",
+                    "md": "## LCD Monitor"
+                },
+                {
+                    "type": "text",
+                    "value": "- **Rear monitor**: 3.2-in/8.1 cm, 2360k-dot color LCD touch screen with 3-way tilt\n- **Shoulder monitor**: 2.09-in/5.31 cm, 219 × 320-dot memory LCD monitor",
+                    "md": "- **Rear monitor**: 3.2-in/8.1 cm, 2360k-dot color LCD touch screen with 3-way tilt\n- **Shoulder monitor**: 2.09-in/5.31 cm, 219 × 320-dot memory LCD monitor"
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "Movies (with stereo sound)",
+                    "md": "## Movies (with stereo sound)"
+                },
+                {
+                    "type": "text",
+                    "value": "- **Movie size**:\n  - !CINE 2.76:1\n  - !4.6K 1.38:1\n  - !8K 16:9, 17:9\n  - !CINE 2.35:1\n  - !5.4K 17:9\n  - !4.3K 3:2\n  - !4.8K 16:9\n  - !4K 16:9, 17:9\n  - !FHD 16:9, !FHD 17:9\n\n> The size that can be selected depends on the **IMAGE FORMAT** setting.\n\n- **Frame rate**: 59.94P, 50P, 29.97P, 25P, 24P, 23.98P\n- **Recording/output format**:\n  - H.265 (10-bit MOV 4:2:2/4:2:0; 720, 360, 200, 100, or 50 Mbps)\n  - H.264 (8-bit MOV/MP4 4:2:0; 360, 200, 100, or 50Mbps)\n  - ProRes 422 HQ, ProRes 422, ProRes 422 LT (10-bit MOV 4:2:2)\n  - HDMI output supported (RAW output supported with Atomos and Blackmagic Design external recorders; 8-bit 4:2:2/10-bit 4:2:2)",
+                    "md": "- **Movie size**:\n  - !CINE 2.76:1\n  - !4.6K 1.38:1\n  - !8K 16:9, 17:9\n  - !CINE 2.35:1\n  - !5.4K 17:9\n  - !4.3K 3:2\n  - !4.8K 16:9\n  - !4K 16:9, 17:9\n  - !FHD 16:9, !FHD 17:9\n\n> The size that can be selected depends on the **IMAGE FORMAT** setting.\n\n- **Frame rate**: 59.94P, 50P, 29.97P, 25P, 24P, 23.98P\n- **Recording/output format**:\n  - H.265 (10-bit MOV 4:2:2/4:2:0; 720, 360, 200, 100, or 50 Mbps)\n  - H.264 (8-bit MOV/MP4 4:2:0; 360, 200, 100, or 50Mbps)\n  - ProRes 422 HQ, ProRes 422, ProRes 422 LT (10-bit MOV 4:2:2)\n  - HDMI output supported (RAW output supported with Atomos and Blackmagic Design external recorders; 8-bit 4:2:2/10-bit 4:2:2)"
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "High-speed Movies",
+                    "md": "## High-speed Movies"
+                },
+                {
+                    "type": "text",
+                    "value": "- **Movie size**: !FHD 16:9, !FHD 17:9\n- **Frame advance rate**: 120P, 100P",
+                    "md": "- **Movie size**: !FHD 16:9, !FHD 17:9\n- **Frame advance rate**: 120P, 100P"
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 353.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "15e571fa-d981-4c93-bca1-4a88fcab6509",
+    "file_path": "../data/raw_data/gfx100ii/gfx100ii_split/gfx100ii_page492.pdf"
+}

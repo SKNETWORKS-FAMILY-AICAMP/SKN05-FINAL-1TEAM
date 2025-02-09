@@ -1,0 +1,124 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "\n# Front-of-Camera Function Buttons\n\n!Front-of-Camera Function Buttons\n\n## Function Buttons\n\n| Function Buttons | Default                  |\n|------------------|--------------------------|\n| ① VIEW MODE button | VIEW MODE SETTING        |\n| ② Fn1 button       | FACE DETECTION ON/OFF    |\n| ③ Fn2 button       | DRIVE SETTING            |\n\n## The Selector\n\n!The Selector\n\n### Function Buttons\n\n| Function Buttons | Default          |\n|------------------|------------------|\n| ① Fn3 button     | PHOTOMETRY       |\n| ② Fn5 button     | WHITE BALANCE    |\n| ③ Fn6 button     | PERFORMANCE      |\n| ④ Fn4 button     | FILM SIMULATION  |\n",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "Front-of-Camera Function Buttons",
+                    "md": "# Front-of-Camera Function Buttons"
+                },
+                {
+                    "type": "text",
+                    "value": "!Front-of-Camera Function Buttons",
+                    "md": "!Front-of-Camera Function Buttons"
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "Function Buttons",
+                    "md": "## Function Buttons"
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Function Buttons",
+                            "Default"
+                        ],
+                        [
+                            "① VIEW MODE button",
+                            "VIEW MODE SETTING"
+                        ],
+                        [
+                            "② Fn1 button",
+                            "FACE DETECTION ON/OFF"
+                        ],
+                        [
+                            "③ Fn2 button",
+                            "DRIVE SETTING"
+                        ]
+                    ],
+                    "md": "| Function Buttons | Default                  |\n|------------------|--------------------------|\n| ① VIEW MODE button | VIEW MODE SETTING        |\n| ② Fn1 button       | FACE DETECTION ON/OFF    |\n| ③ Fn2 button       | DRIVE SETTING            |",
+                    "isPerfectTable": true,
+                    "csv": "\"Function Buttons\",\"Default\"\n\"① VIEW MODE button\",\"VIEW MODE SETTING\"\n\"② Fn1 button\",\"FACE DETECTION ON/OFF\"\n\"③ Fn2 button\",\"DRIVE SETTING\""
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "The Selector",
+                    "md": "## The Selector"
+                },
+                {
+                    "type": "text",
+                    "value": "!The Selector",
+                    "md": "!The Selector"
+                },
+                {
+                    "type": "heading",
+                    "lvl": 3,
+                    "value": "Function Buttons",
+                    "md": "### Function Buttons"
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Function Buttons",
+                            "Default"
+                        ],
+                        [
+                            "① Fn3 button",
+                            "PHOTOMETRY"
+                        ],
+                        [
+                            "② Fn5 button",
+                            "WHITE BALANCE"
+                        ],
+                        [
+                            "③ Fn6 button",
+                            "PERFORMANCE"
+                        ],
+                        [
+                            "④ Fn4 button",
+                            "FILM SIMULATION"
+                        ]
+                    ],
+                    "md": "| Function Buttons | Default          |\n|------------------|------------------|\n| ① Fn3 button     | PHOTOMETRY       |\n| ② Fn5 button     | WHITE BALANCE    |\n| ③ Fn6 button     | PERFORMANCE      |\n| ④ Fn4 button     | FILM SIMULATION  |",
+                    "isPerfectTable": true,
+                    "csv": "\"Function Buttons\",\"Default\"\n\"① Fn3 button\",\"PHOTOMETRY\"\n\"② Fn5 button\",\"WHITE BALANCE\"\n\"③ Fn6 button\",\"PERFORMANCE\"\n\"④ Fn4 button\",\"FILM SIMULATION\""
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "parsingMode": "multimodal-openai-gpt4o",
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 393.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "4ec0b67c-9ccf-4b7e-a2ae-27e5283eda15",
+    "file_path": "../data/raw_data/x-t5/x-t5_split/x-t5_page348.pdf"
+}

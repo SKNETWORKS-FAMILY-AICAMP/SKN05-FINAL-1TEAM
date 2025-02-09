@@ -1,0 +1,434 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:16px'>Network/USB Setting Menus</header>\n<h1 id='1' style='font-size:20px'>EDIT/CHECK</h1>\n<br><h1 id='2' style='font-size:20px'>View or edit existing connection setting profiles.</h1>\n<p id='3' data-category='paragraph' style='font-size:18px'>The instructions that follow are devoted chiefly to choosing commu-<br>nication settings for connection setting profiles used in tethered pho-<br>tography.</p>\n<h1 id='4' style='font-size:18px'>1 Select CREATE/EDIT CONNECTION<br>SETTING > EDIT/CHECK in the net-<br>work/USB setting menu.</h1>\n<br><table id='5' style='font-size:14px'><tr><td></td><td>CREATE/EDIT CONNECTION SETTING CREATE USING WIZARD</td></tr><tr><td>EDIT/CHECK CHECK EXISTING</td><td>AND</td></tr><tr><td>EDIT CONNECTION SETTING</td><td></td></tr></table>\n<p id='6' data-category='paragraph' style='font-size:20px'>2 Choose a connection setting profile.</p>\n\n<br><table id='8' style='font-size:14px'><tr><td>SELECT</td><td></td><td>CONNECTION SETTING 1/2</td></tr><tr><td>1:</td><td>UNJUNIVERSAL SETTING</td><td></td></tr><tr><td>2:</td><td>小 CARDUSB</td><td>CARD READER</td></tr><tr><td>3:</td><td>小 AUTOUSB TETHER SHOOTING</td><td>AUTO</td></tr><tr><td>4:</td><td>�� USB TETHER SHOOTING</td><td>FIXED</td></tr><tr><td>5:</td><td>小 RAWUSB RAW CONV./BACKUP</td><td>RESTORE</td></tr><tr><td>6:</td><td>小 WEBUSB WEBCAM</td><td></td></tr><tr><td>7: 8:</td><td>司 散 NISHIAZABU STUDIO NOT CREATED</td><td></td></tr><caption id='7' style='font-size:16px'>Options 1 to 6 (1: UNIVERSAL SETTING<br>to 6: USB WEBCAM) are not available.</caption></table>\n<p id='9' data-category='paragraph' style='font-size:22px'>3 Select EDIT/CHECK.</p>\n<br><p id='10' data-category='paragraph' style='font-size:20px'>● To copy an existing connection set-<br>ting profile, select COPY. Choosing<br>an existing profile as the destina-<br>tion overwrites the profile selected<br>in Step 2.</p>\n<br><figure id='11'><img style='font-size:14px' alt=\"SELECT CONNECTION SETTING\n1: UNIUN\n2: ←CARDUSI\nEDIT / CHECK ▶\n3: AUTOUS\nCOPY\nV US\nCONNECTION TEST\nRAWUS\nERASE\n6: ←WEBUSI\n7: 司 �NISH\n8: NO\" data-coord=\"top-left:(1831,2102); bottom-right:(2532,2688)\" /></figure>\n<p id='12' data-category='list' style='font-size:18px'>● To test the connection, select CONNECTION TEST.<br>● To delete the selected connection setting profile, select<br>ERASE.</p>\n<br><footer id='13' style='font-size:22px'>Network/USB<br>Setting<br>Menus</footer>\n<footer id='14' style='font-size:22px'>315</footer>",
+        "markdown": "Network/USB Setting Menus\n\n# EDIT/CHECK\n\n# View or edit existing connection setting profiles.\n\nThe instructions that follow are devoted chiefly to choosing commu-\nnication settings for connection setting profiles used in tethered pho-\ntography.\n\n# 1 Select CREATE/EDIT CONNECTION\nSETTING > EDIT/CHECK in the net-\nwork/USB setting menu.\n\n|  | CREATE/EDIT CONNECTION SETTING CREATE USING WIZARD |\n| --- | --- |\n| EDIT/CHECK CHECK EXISTING | AND |\n| EDIT CONNECTION SETTING |  |\n\n\n2 Choose a connection setting profile.\n\nOptions 1 to 6 (1: UNIVERSAL SETTING\nto 6: USB WEBCAM) are not available.\n\n| SELECT |  | CONNECTION SETTING 1/2 |\n| --- | --- | --- |\n| 1: | UNJUNIVERSAL SETTING |  |\n| 2: | 小 CARDUSB | CARD READER |\n| 3: | 小 AUTOUSB TETHER SHOOTING | AUTO |\n| 4: | �� USB TETHER SHOOTING | FIXED |\n| 5: | 小 RAWUSB RAW CONV./BACKUP | RESTORE |\n| 6: | 小 WEBUSB WEBCAM |  |\n| 7: 8: | 司 散 NISHIAZABU STUDIO NOT CREATED |  |\n\n\n3 Select EDIT/CHECK.\n\n● To copy an existing connection set-\nting profile, select COPY. Choosing\nan existing profile as the destina-\ntion overwrites the profile selected\nin Step 2.\n\n![image](/image/placeholder)\nSELECT CONNECTION SETTING\n1: UNIUN\n2: ←CARDUSI\nEDIT / CHECK ▶\n3: AUTOUS\nCOPY\nV US\nCONNECTION TEST\nRAWUS\nERASE\n6: ←WEBUSI\n7: 司 �NISH\n8: NO\n\n- ● To test the connection, select CONNECTION TEST.\n- ● To delete the selected connection setting profile, select\n- ERASE.\n\n\nNetwork/USB\nSetting\nMenus\n\n315",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:16px'>Network/USB Setting Menus</header>",
+                "markdown": "Network/USB Setting Menus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6352,
+                    "y": 0.0285
+                },
+                {
+                    "x": 0.9181,
+                    "y": 0.0285
+                },
+                {
+                    "x": 0.9181,
+                    "y": 0.0507
+                },
+                {
+                    "x": 0.6352,
+                    "y": 0.0507
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='1' style='font-size:20px'>EDIT/CHECK</h1>",
+                "markdown": "# EDIT/CHECK",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.123,
+                    "y": 0.0741
+                },
+                {
+                    "x": 0.279,
+                    "y": 0.0741
+                },
+                {
+                    "x": 0.279,
+                    "y": 0.0968
+                },
+                {
+                    "x": 0.123,
+                    "y": 0.0968
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='2' style='font-size:20px'>View or edit existing connection setting profiles.</h1>",
+                "markdown": "# View or edit existing connection setting profiles.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1059,
+                    "y": 0.105
+                },
+                {
+                    "x": 0.7169,
+                    "y": 0.105
+                },
+                {
+                    "x": 0.7169,
+                    "y": 0.1292
+                },
+                {
+                    "x": 0.1059,
+                    "y": 0.1292
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='3' data-category='paragraph' style='font-size:18px'>The instructions that follow are devoted chiefly to choosing commu-<br>nication settings for connection setting profiles used in tethered pho-<br>tography.</p>",
+                "markdown": "The instructions that follow are devoted chiefly to choosing commu-\nnication settings for connection setting profiles used in tethered pho-\ntography.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1226,
+                    "y": 0.1424
+                },
+                {
+                    "x": 0.9164,
+                    "y": 0.1424
+                },
+                {
+                    "x": 0.9164,
+                    "y": 0.2106
+                },
+                {
+                    "x": 0.1226,
+                    "y": 0.2106
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='4' style='font-size:18px'>1 Select CREATE/EDIT CONNECTION<br>SETTING > EDIT/CHECK in the net-<br>work/USB setting menu.</h1>",
+                "markdown": "# 1 Select CREATE/EDIT CONNECTION\nSETTING > EDIT/CHECK in the net-\nwork/USB setting menu.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1271,
+                    "y": 0.2248
+                },
+                {
+                    "x": 0.6283,
+                    "y": 0.2248
+                },
+                {
+                    "x": 0.6283,
+                    "y": 0.3008
+                },
+                {
+                    "x": 0.1271,
+                    "y": 0.3008
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='5' style='font-size:14px'><tr><td></td><td>CREATE/EDIT CONNECTION SETTING CREATE USING WIZARD</td></tr><tr><td>EDIT/CHECK CHECK EXISTING</td><td>AND</td></tr><tr><td>EDIT CONNECTION SETTING</td><td></td></tr></table>",
+                "markdown": "|  | CREATE/EDIT CONNECTION SETTING CREATE USING WIZARD |\n| --- | --- |\n| EDIT/CHECK CHECK EXISTING | AND |\n| EDIT CONNECTION SETTING |  |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6502,
+                    "y": 0.2223
+                },
+                {
+                    "x": 0.9174,
+                    "y": 0.2223
+                },
+                {
+                    "x": 0.9174,
+                    "y": 0.372
+                },
+                {
+                    "x": 0.6502,
+                    "y": 0.372
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='6' data-category='paragraph' style='font-size:20px'>2 Choose a connection setting profile.</p>",
+                "markdown": "2 Choose a connection setting profile.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1237,
+                    "y": 0.3837
+                },
+                {
+                    "x": 0.6172,
+                    "y": 0.3837
+                },
+                {
+                    "x": 0.6172,
+                    "y": 0.408
+                },
+                {
+                    "x": 0.1237,
+                    "y": 0.408
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='7' data-category='paragraph' style='font-size:16px'>Options 1 to 6 (1: UNIVERSAL SETTING<br>to 6: USB WEBCAM) are not available.</p>",
+                "markdown": "Options 1 to 6 (1: UNIVERSAL SETTING\nto 6: USB WEBCAM) are not available.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1831,
+                    "y": 0.4221
+                },
+                {
+                    "x": 0.6215,
+                    "y": 0.4221
+                },
+                {
+                    "x": 0.6215,
+                    "y": 0.466
+                },
+                {
+                    "x": 0.1831,
+                    "y": 0.466
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='8' style='font-size:14px'><tr><td>SELECT</td><td></td><td>CONNECTION SETTING 1/2</td></tr><tr><td>1:</td><td>UNJUNIVERSAL SETTING</td><td></td></tr><tr><td>2:</td><td>小 CARDUSB</td><td>CARD READER</td></tr><tr><td>3:</td><td>小 AUTOUSB TETHER SHOOTING</td><td>AUTO</td></tr><tr><td>4:</td><td>�� USB TETHER SHOOTING</td><td>FIXED</td></tr><tr><td>5:</td><td>小 RAWUSB RAW CONV./BACKUP</td><td>RESTORE</td></tr><tr><td>6:</td><td>小 WEBUSB WEBCAM</td><td></td></tr><tr><td>7: 8:</td><td>司 散 NISHIAZABU STUDIO NOT CREATED</td><td></td></tr></table>",
+                "markdown": "| SELECT |  | CONNECTION SETTING 1/2 |\n| --- | --- | --- |\n| 1: | UNJUNIVERSAL SETTING |  |\n| 2: | 小 CARDUSB | CARD READER |\n| 3: | 小 AUTOUSB TETHER SHOOTING | AUTO |\n| 4: | �� USB TETHER SHOOTING | FIXED |\n| 5: | 小 RAWUSB RAW CONV./BACKUP | RESTORE |\n| 6: | 小 WEBUSB WEBCAM |  |\n| 7: 8: | 司 散 NISHIAZABU STUDIO NOT CREATED |  |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6687,
+                    "y": 0.385
+                },
+                {
+                    "x": 0.913,
+                    "y": 0.385
+                },
+                {
+                    "x": 0.913,
+                    "y": 0.525
+                },
+                {
+                    "x": 0.6687,
+                    "y": 0.525
+                }
+            ],
+            "id": 8,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='9' data-category='paragraph' style='font-size:22px'>3 Select EDIT/CHECK.</p>",
+                "markdown": "3 Select EDIT/CHECK.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1219,
+                    "y": 0.5419
+                },
+                {
+                    "x": 0.4123,
+                    "y": 0.5419
+                },
+                {
+                    "x": 0.4123,
+                    "y": 0.5646
+                },
+                {
+                    "x": 0.1219,
+                    "y": 0.5646
+                }
+            ],
+            "id": 9,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='10' data-category='paragraph' style='font-size:20px'>● To copy an existing connection set-<br>ting profile, select COPY. Choosing<br>an existing profile as the destina-<br>tion overwrites the profile selected<br>in Step 2.</p>",
+                "markdown": "● To copy an existing connection set-\nting profile, select COPY. Choosing\nan existing profile as the destina-\ntion overwrites the profile selected\nin Step 2.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1629,
+                    "y": 0.5672
+                },
+                {
+                    "x": 0.6286,
+                    "y": 0.5672
+                },
+                {
+                    "x": 0.6286,
+                    "y": 0.692
+                },
+                {
+                    "x": 0.1629,
+                    "y": 0.692
+                }
+            ],
+            "id": 10,
+            "page": 1
+        },
+        {
+            "category": "figure",
+            "content": {
+                "html": "<br><figure id='11'><img style='font-size:14px' alt=\"SELECT CONNECTION SETTING\n1: UNIUN\n2: ←CARDUSI\nEDIT / CHECK ▶\n3: AUTOUS\nCOPY\nV US\nCONNECTION TEST\nRAWUS\nERASE\n6: ←WEBUSI\n7: 司 �NISH\n8: NO\" data-coord=\"top-left:(1831,2102); bottom-right:(2532,2688)\" /></figure>",
+                "markdown": "![image](/image/placeholder)\nSELECT CONNECTION SETTING\n1: UNIUN\n2: ←CARDUSI\nEDIT / CHECK ▶\n3: AUTOUS\nCOPY\nV US\nCONNECTION TEST\nRAWUS\nERASE\n6: ←WEBUSI\n7: 司 �NISH\n8: NO",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6628,
+                    "y": 0.5395
+                },
+                {
+                    "x": 0.9164,
+                    "y": 0.5395
+                },
+                {
+                    "x": 0.9164,
+                    "y": 0.6896
+                },
+                {
+                    "x": 0.6628,
+                    "y": 0.6896
+                }
+            ],
+            "id": 11,
+            "page": 1
+        },
+        {
+            "category": "list",
+            "content": {
+                "html": "<p id='12' data-category='list' style='font-size:18px'>● To test the connection, select CONNECTION TEST.<br>● To delete the selected connection setting profile, select<br>ERASE.</p>",
+                "markdown": "- ● To test the connection, select CONNECTION TEST.\n- ● To delete the selected connection setting profile, select\n- ERASE.\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1588,
+                    "y": 0.7013
+                },
+                {
+                    "x": 0.9207,
+                    "y": 0.7013
+                },
+                {
+                    "x": 0.9207,
+                    "y": 0.7769
+                },
+                {
+                    "x": 0.1588,
+                    "y": 0.7769
+                }
+            ],
+            "id": 12,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<br><footer id='13' style='font-size:22px'>Network/USB<br>Setting<br>Menus</footer>",
+                "markdown": "Network/USB\nSetting\nMenus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9576,
+                    "y": 0.4292
+                },
+                {
+                    "x": 0.98,
+                    "y": 0.4292
+                },
+                {
+                    "x": 0.98,
+                    "y": 0.6381
+                },
+                {
+                    "x": 0.9576,
+                    "y": 0.6381
+                }
+            ],
+            "id": 13,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='14' style='font-size:22px'>315</footer>",
+                "markdown": "315",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.8604,
+                    "y": 0.9563
+                },
+                {
+                    "x": 0.918,
+                    "y": 0.9563
+                },
+                {
+                    "x": 0.918,
+                    "y": 0.9799
+                },
+                {
+                    "x": 0.8604,
+                    "y": 0.9799
+                }
+            ],
+            "id": 14,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

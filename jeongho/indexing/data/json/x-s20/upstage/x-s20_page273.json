@@ -1,0 +1,434 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:14px'>USER SETTING</header>\n<h1 id='1' style='font-size:18px'>� MY MENU SETTING</h1>\n<br><p id='2' data-category='paragraph' style='font-size:20px'>Edit the items listed in the MY (MY MENU) tab, a personalized cus-<br>tom menu of frequently-used photo menu options (□ 309).</p>\n<h1 id='3' style='font-size:16px'>MY MENU SETTING</h1>\n<br><p id='4' data-category='paragraph' style='font-size:20px'>Edit the items listed in the MY (MY MENU) tab, a personalized cus-<br>tom menu of frequently-used movie menu options (� 309).</p>\n<h1 id='5' style='font-size:18px'>SENSOR CLEANING</h1>\n\n<table id='7' style='font-size:16px'><tr><td>Option</td><td>Description</td></tr><tr><td>OK</td><td>Clean the sensor immediately.</td></tr><tr><td>WHEN SWITCHED ON</td><td>Sensor cleaning will be performed when the camera is turned on.</td></tr><tr><td>WHEN SWITCHED OFF</td><td>Sensor cleaning will be performed when the camera turns off (sensor cleaning is not however performed if the cam- era turns off in playback mode).</td></tr><br><caption id='6' style='font-size:18px'>Remove dust from the camera image sensor.</caption></table>\n<br><p id='8' data-category='paragraph' style='font-size:14px'>Dust that cannot be removed using sensor cleaning can be removed<br>using a blower (目目 367).</p>\n<p id='9' data-category='paragraph' style='font-size:16px'>BATTERY AGE</p>\n<br><p id='10' data-category='paragraph' style='font-size:20px'>Check battery age. Age is expressed as a<br>number between 0 and 4. The higher the<br>number, the older the battery.</p>\n<br><figure id='11' data-category='chart'><img style='font-size:14px' alt=\"BATTERY AGE \n0 NEW \n\" data-coord=\"top-left:(1747,2417); bottom-right:(2525,3001)\" /></figure>\n<br><p id='12' data-category='paragraph' style='font-size:16px'>The older the battery, the faster it loses its charge. We recommend that<br>batteries be replaced as they wear out.</p>\n<br><footer id='13' style='font-size:22px'>The<br>Setup<br>Menus</footer>\n<footer id='14' style='font-size:22px'>273</footer>",
+        "markdown": "USER SETTING\n\n# � MY MENU SETTING\n\nEdit the items listed in the MY (MY MENU) tab, a personalized cus-\ntom menu of frequently-used photo menu options (□ 309).\n\n# MY MENU SETTING\n\nEdit the items listed in the MY (MY MENU) tab, a personalized cus-\ntom menu of frequently-used movie menu options (� 309).\n\n# SENSOR CLEANING\n\nRemove dust from the camera image sensor.\n\n| Option | Description |\n| --- | --- |\n| OK | Clean the sensor immediately. |\n| WHEN SWITCHED ON | Sensor cleaning will be performed when the camera is turned on. |\n| WHEN SWITCHED OFF | Sensor cleaning will be performed when the camera turns off (sensor cleaning is not however performed if the cam- era turns off in playback mode). |\n\n\nDust that cannot be removed using sensor cleaning can be removed\nusing a blower (目目 367).\n\nBATTERY AGE\n\nCheck battery age. Age is expressed as a\nnumber between 0 and 4. The higher the\nnumber, the older the battery.\n\n![image](/image/placeholder)\nBATTERY AGE \n0 NEW \n\n\nThe older the battery, the faster it loses its charge. We recommend that\nbatteries be replaced as they wear out.\n\nThe\nSetup\nMenus\n\n273",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:14px'>USER SETTING</header>",
+                "markdown": "USER SETTING",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.775,
+                    "y": 0.0286
+                },
+                {
+                    "x": 0.9182,
+                    "y": 0.0286
+                },
+                {
+                    "x": 0.9182,
+                    "y": 0.0488
+                },
+                {
+                    "x": 0.775,
+                    "y": 0.0488
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='1' style='font-size:18px'>� MY MENU SETTING</h1>",
+                "markdown": "# � MY MENU SETTING",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1087,
+                    "y": 0.0724
+                },
+                {
+                    "x": 0.412,
+                    "y": 0.0724
+                },
+                {
+                    "x": 0.412,
+                    "y": 0.0946
+                },
+                {
+                    "x": 0.1087,
+                    "y": 0.0946
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='2' data-category='paragraph' style='font-size:20px'>Edit the items listed in the MY (MY MENU) tab, a personalized cus-<br>tom menu of frequently-used photo menu options (□ 309).</p>",
+                "markdown": "Edit the items listed in the MY (MY MENU) tab, a personalized cus-\ntom menu of frequently-used photo menu options (□ 309).",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1061,
+                    "y": 0.1046
+                },
+                {
+                    "x": 0.9189,
+                    "y": 0.1046
+                },
+                {
+                    "x": 0.9189,
+                    "y": 0.1563
+                },
+                {
+                    "x": 0.1061,
+                    "y": 0.1563
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='3' style='font-size:16px'>MY MENU SETTING</h1>",
+                "markdown": "# MY MENU SETTING",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.108,
+                    "y": 0.1751
+                },
+                {
+                    "x": 0.4103,
+                    "y": 0.1751
+                },
+                {
+                    "x": 0.4103,
+                    "y": 0.1979
+                },
+                {
+                    "x": 0.108,
+                    "y": 0.1979
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='4' data-category='paragraph' style='font-size:20px'>Edit the items listed in the MY (MY MENU) tab, a personalized cus-<br>tom menu of frequently-used movie menu options (� 309).</p>",
+                "markdown": "Edit the items listed in the MY (MY MENU) tab, a personalized cus-\ntom menu of frequently-used movie menu options (� 309).",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1053,
+                    "y": 0.2066
+                },
+                {
+                    "x": 0.9185,
+                    "y": 0.2066
+                },
+                {
+                    "x": 0.9185,
+                    "y": 0.2581
+                },
+                {
+                    "x": 0.1053,
+                    "y": 0.2581
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='5' style='font-size:18px'>SENSOR CLEANING</h1>",
+                "markdown": "# SENSOR CLEANING",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1062,
+                    "y": 0.2781
+                },
+                {
+                    "x": 0.3698,
+                    "y": 0.2781
+                },
+                {
+                    "x": 0.3698,
+                    "y": 0.2998
+                },
+                {
+                    "x": 0.1062,
+                    "y": 0.2998
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='6' data-category='paragraph' style='font-size:18px'>Remove dust from the camera image sensor.</p>",
+                "markdown": "Remove dust from the camera image sensor.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1066,
+                    "y": 0.31
+                },
+                {
+                    "x": 0.673,
+                    "y": 0.31
+                },
+                {
+                    "x": 0.673,
+                    "y": 0.3341
+                },
+                {
+                    "x": 0.1066,
+                    "y": 0.3341
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='7' style='font-size:16px'><tr><td>Option</td><td>Description</td></tr><tr><td>OK</td><td>Clean the sensor immediately.</td></tr><tr><td>WHEN SWITCHED ON</td><td>Sensor cleaning will be performed when the camera is turned on.</td></tr><tr><td>WHEN SWITCHED OFF</td><td>Sensor cleaning will be performed when the camera turns off (sensor cleaning is not however performed if the cam- era turns off in playback mode).</td></tr></table>",
+                "markdown": "| Option | Description |\n| --- | --- |\n| OK | Clean the sensor immediately. |\n| WHEN SWITCHED ON | Sensor cleaning will be performed when the camera is turned on. |\n| WHEN SWITCHED OFF | Sensor cleaning will be performed when the camera turns off (sensor cleaning is not however performed if the cam- era turns off in playback mode). |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1091,
+                    "y": 0.3469
+                },
+                {
+                    "x": 0.9174,
+                    "y": 0.3469
+                },
+                {
+                    "x": 0.9174,
+                    "y": 0.514
+                },
+                {
+                    "x": 0.1091,
+                    "y": 0.514
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='8' data-category='paragraph' style='font-size:14px'>Dust that cannot be removed using sensor cleaning can be removed<br>using a blower (目目 367).</p>",
+                "markdown": "Dust that cannot be removed using sensor cleaning can be removed\nusing a blower (目目 367).",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1165,
+                    "y": 0.5251
+                },
+                {
+                    "x": 0.9146,
+                    "y": 0.5251
+                },
+                {
+                    "x": 0.9146,
+                    "y": 0.5695
+                },
+                {
+                    "x": 0.1165,
+                    "y": 0.5695
+                }
+            ],
+            "id": 8,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='9' data-category='paragraph' style='font-size:16px'>BATTERY AGE</p>",
+                "markdown": "BATTERY AGE",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.109,
+                    "y": 0.5902
+                },
+                {
+                    "x": 0.2984,
+                    "y": 0.5902
+                },
+                {
+                    "x": 0.2984,
+                    "y": 0.6123
+                },
+                {
+                    "x": 0.109,
+                    "y": 0.6123
+                }
+            ],
+            "id": 9,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='10' data-category='paragraph' style='font-size:20px'>Check battery age. Age is expressed as a<br>number between 0 and 4. The higher the<br>number, the older the battery.</p>",
+                "markdown": "Check battery age. Age is expressed as a\nnumber between 0 and 4. The higher the\nnumber, the older the battery.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1066,
+                    "y": 0.6226
+                },
+                {
+                    "x": 0.6264,
+                    "y": 0.6226
+                },
+                {
+                    "x": 0.6264,
+                    "y": 0.698
+                },
+                {
+                    "x": 0.1066,
+                    "y": 0.698
+                }
+            ],
+            "id": 10,
+            "page": 1
+        },
+        {
+            "category": "figure",
+            "content": {
+                "html": "<br><figure id='11' data-category='chart'><img style='font-size:14px' alt=\"BATTERY AGE \n0 NEW \n\" data-coord=\"top-left:(1747,2417); bottom-right:(2525,3001)\" /></figure>",
+                "markdown": "![image](/image/placeholder)\nBATTERY AGE \n0 NEW \n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6323,
+                    "y": 0.6202
+                },
+                {
+                    "x": 0.9137,
+                    "y": 0.6202
+                },
+                {
+                    "x": 0.9137,
+                    "y": 0.7701
+                },
+                {
+                    "x": 0.6323,
+                    "y": 0.7701
+                }
+            ],
+            "id": 11,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='12' data-category='paragraph' style='font-size:16px'>The older the battery, the faster it loses its charge. We recommend that<br>batteries be replaced as they wear out.</p>",
+                "markdown": "The older the battery, the faster it loses its charge. We recommend that\nbatteries be replaced as they wear out.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1258,
+                    "y": 0.7799
+                },
+                {
+                    "x": 0.915,
+                    "y": 0.7799
+                },
+                {
+                    "x": 0.915,
+                    "y": 0.8257
+                },
+                {
+                    "x": 0.1258,
+                    "y": 0.8257
+                }
+            ],
+            "id": 12,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<br><footer id='13' style='font-size:22px'>The<br>Setup<br>Menus</footer>",
+                "markdown": "The\nSetup\nMenus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9582,
+                    "y": 0.5703
+                },
+                {
+                    "x": 0.9797,
+                    "y": 0.5703
+                },
+                {
+                    "x": 0.9797,
+                    "y": 0.6977
+                },
+                {
+                    "x": 0.9582,
+                    "y": 0.6977
+                }
+            ],
+            "id": 13,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='14' style='font-size:22px'>273</footer>",
+                "markdown": "273",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.8599,
+                    "y": 0.9558
+                },
+                {
+                    "x": 0.918,
+                    "y": 0.9558
+                },
+                {
+                    "x": 0.918,
+                    "y": 0.98
+                },
+                {
+                    "x": 0.8599,
+                    "y": 0.98
+                }
+            ],
+            "id": 14,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

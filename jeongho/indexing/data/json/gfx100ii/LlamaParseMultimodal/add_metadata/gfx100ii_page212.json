@@ -1,0 +1,8 @@
+{
+    "parsing_result": "# TIME CODE SETTING (Movie Recording)\n\n## Time Code Synchronization State\n\nYou can check the time code synchronization state by the icons displayed on the EVF or LCD.\n\n!Time Code Synchronization Icon\n\n| Icon | Synchronization State |\n|------|------------------------|\n| !White Icon | The time code synchronization function is not being used. |\n| !White Icon | Time codes are being synchronized. |\n| !Amber Icon | External devices have been disconnected or time codes are not being synchronized. If time codes have been synchronized once, and the camera continues to count internally after **CONNECT TO ATOMOS AirGlu BT** was set to **ON**, a value is displayed. |\n| !Red Icon | Time codes are not being synchronized because the frame rate settings are different. If time codes have been synchronized once, and the camera continues to count internally after **CONNECT TO ATOMOS AirGlu BT** was set to **ON**, a value is displayed. |",
+    "embedding_result": [],
+    "metadata": {
+        "page": 212,
+        "model": "gfx100ii"
+    }
+}

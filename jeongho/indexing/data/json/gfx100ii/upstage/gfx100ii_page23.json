@@ -1,0 +1,462 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:18px'>Camera Displays</header>\n<h1 id='1' style='font-size:20px'>Viewfinder</h1>\n\n<figure id='3' data-category='chart'><img style='font-size:16px' alt=\"⌀1⌀x⌀6 0 9999 N \nAREA \n⌀1000000000⌀ \nAF-S 0.1 0.5 1.0 1.5 2.0 3.0 5.0 10 8m \nM[⌀] s.s.1000 下5.6 図 + 1.0 ISO 12800 自 \n\" data-coord=\"top-left:(449,600); bottom-right:(1215,1185)\" /><figcaption id='2' style='font-size:16px'>Full screen</figcaption></figure>\n\n<br><figure id='5' data-category='chart'><img style='font-size:14px' alt=\"AREA \n\" data-coord=\"top-left:(1611,610); bottom-right:(2386,1190)\" /><br><figcaption id='4' style='font-size:18px'>Full screen<br>(no indicators)</figcaption></figure>\n<br><p id='6' data-category='paragraph' style='font-size:18px'>1</p>\n\n<figure id='8' data-category='chart'><img style='font-size:14px' alt=\"常立器 1 ②9999 Ⓛ N \nAREA \n⌀11:11:1000 N \nAF-S 0.1 0.5 1.0 5 3.0 5.0 10 \nM⌀ s.s. 1000 + 1 0 ISO 12800 自 \n\" data-coord=\"top-left:(450,1381); bottom-right:(1215,1964)\" /><figcaption id='7' style='font-size:18px'>Standard indicators</figcaption></figure>\n\n<figure id='10' data-category='chart'><img style='font-size:14px' alt=\"AREA \n\" data-coord=\"top-left:(1641,1413); bottom-right:(2391,1964)\" /><br><figcaption id='9' style='font-size:20px'>Standard (no indicators)</figcaption></figure>\n<h1 id='11' style='font-size:22px'>Dual display</h1>\n<br><figure id='12' data-category='chart'><img style='font-size:16px' alt=\"营V器 ② 9999 N \nAREA \n区东安东的巴西哥哥市中中 \n83 \n0.1 0.5 1.0 1.5 3.0 5.0 10 \nAF-S \nM⌀ s.s. 1000 + 1.0 ISO 12800 -00000 \n\" data-coord=\"top-left:(444,2135); bottom-right:(1220,2714)\" /></figure>\n<p id='13' data-category='paragraph' style='font-size:20px'>The dual display is available only when shooting still images with man-<br>ual focus.</p>\n<footer id='14' style='font-size:22px'>23</footer>\n<br><footer id='15' style='font-size:22px'>Before<br>You<br>Begin</footer>",
+        "markdown": "Camera Displays\n\n# Viewfinder\n\nFull screen\n\n![image](/image/placeholder)\n⌀1⌀x⌀6 0 9999 N \nAREA \n⌀1000000000⌀ \nAF-S 0.1 0.5 1.0 1.5 2.0 3.0 5.0 10 8m \nM[⌀] s.s.1000 下5.6 図 + 1.0 ISO 12800 自 \n\n\nFull screen\n(no indicators)\n\n![image](/image/placeholder)\nAREA \n\n\n1\n\nStandard indicators\n\n![image](/image/placeholder)\n常立器 1 ②9999 Ⓛ N \nAREA \n⌀11:11:1000 N \nAF-S 0.1 0.5 1.0 5 3.0 5.0 10 \nM⌀ s.s. 1000 + 1 0 ISO 12800 自 \n\n\nStandard (no indicators)\n\n![image](/image/placeholder)\nAREA \n\n\n# Dual display\n\n![image](/image/placeholder)\n营V器 ② 9999 N \nAREA \n区东安东的巴西哥哥市中中 \n83 \n0.1 0.5 1.0 1.5 3.0 5.0 10 \nAF-S \nM⌀ s.s. 1000 + 1.0 ISO 12800 -00000 \n\n\nThe dual display is available only when shooting still images with man-\nual focus.\n\n23\n\nBefore\nYou\nBegin",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:18px'>Camera Displays</header>",
+                "markdown": "Camera Displays",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.7525,
+                    "y": 0.0292
+                },
+                {
+                    "x": 0.9182,
+                    "y": 0.0292
+                },
+                {
+                    "x": 0.9182,
+                    "y": 0.0507
+                },
+                {
+                    "x": 0.7525,
+                    "y": 0.0507
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='1' style='font-size:20px'>Viewfinder</h1>",
+                "markdown": "# Viewfinder",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1232,
+                    "y": 0.0751
+                },
+                {
+                    "x": 0.2632,
+                    "y": 0.0751
+                },
+                {
+                    "x": 0.2632,
+                    "y": 0.097
+                },
+                {
+                    "x": 0.1232,
+                    "y": 0.097
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='2' data-category='paragraph' style='font-size:16px'>Full screen</p>",
+                "markdown": "Full screen",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.2405,
+                    "y": 0.1216
+                },
+                {
+                    "x": 0.3606,
+                    "y": 0.1216
+                },
+                {
+                    "x": 0.3606,
+                    "y": 0.1426
+                },
+                {
+                    "x": 0.2405,
+                    "y": 0.1426
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "figure",
+            "content": {
+                "html": "<figure id='3' data-category='chart'><img style='font-size:16px' alt=\"⌀1⌀x⌀6 0 9999 N \nAREA \n⌀1000000000⌀ \nAF-S 0.1 0.5 1.0 1.5 2.0 3.0 5.0 10 8m \nM[⌀] s.s.1000 下5.6 図 + 1.0 ISO 12800 自 \n\" data-coord=\"top-left:(449,600); bottom-right:(1215,1185)\" /></figure>",
+                "markdown": "![image](/image/placeholder)\n⌀1⌀x⌀6 0 9999 N \nAREA \n⌀1000000000⌀ \nAF-S 0.1 0.5 1.0 1.5 2.0 3.0 5.0 10 8m \nM[⌀] s.s.1000 下5.6 図 + 1.0 ISO 12800 自 \n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1627,
+                    "y": 0.1541
+                },
+                {
+                    "x": 0.4397,
+                    "y": 0.1541
+                },
+                {
+                    "x": 0.4397,
+                    "y": 0.3041
+                },
+                {
+                    "x": 0.1627,
+                    "y": 0.3041
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='4' data-category='paragraph' style='font-size:18px'>Full screen<br>(no indicators)</p>",
+                "markdown": "Full screen\n(no indicators)",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.642,
+                    "y": 0.1104
+                },
+                {
+                    "x": 0.8061,
+                    "y": 0.1104
+                },
+                {
+                    "x": 0.8061,
+                    "y": 0.1549
+                },
+                {
+                    "x": 0.642,
+                    "y": 0.1549
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "figure",
+            "content": {
+                "html": "<br><figure id='5' data-category='chart'><img style='font-size:14px' alt=\"AREA \n\" data-coord=\"top-left:(1611,610); bottom-right:(2386,1190)\" /></figure>",
+                "markdown": "![image](/image/placeholder)\nAREA \n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.5832,
+                    "y": 0.1566
+                },
+                {
+                    "x": 0.8632,
+                    "y": 0.1566
+                },
+                {
+                    "x": 0.8632,
+                    "y": 0.3054
+                },
+                {
+                    "x": 0.5832,
+                    "y": 0.3054
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='6' data-category='paragraph' style='font-size:18px'>1</p>",
+                "markdown": "1",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9602,
+                    "y": 0.2404
+                },
+                {
+                    "x": 0.9714,
+                    "y": 0.2404
+                },
+                {
+                    "x": 0.9714,
+                    "y": 0.2557
+                },
+                {
+                    "x": 0.9602,
+                    "y": 0.2557
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='7' data-category='paragraph' style='font-size:18px'>Standard indicators</p>",
+                "markdown": "Standard indicators",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.191,
+                    "y": 0.3322
+                },
+                {
+                    "x": 0.4116,
+                    "y": 0.3322
+                },
+                {
+                    "x": 0.4116,
+                    "y": 0.3523
+                },
+                {
+                    "x": 0.191,
+                    "y": 0.3523
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "figure",
+            "content": {
+                "html": "<figure id='8' data-category='chart'><img style='font-size:14px' alt=\"常立器 1 ②9999 Ⓛ N \nAREA \n⌀11:11:1000 N \nAF-S 0.1 0.5 1.0 5 3.0 5.0 10 \nM⌀ s.s. 1000 + 1 0 ISO 12800 自 \n\" data-coord=\"top-left:(450,1381); bottom-right:(1215,1964)\" /></figure>",
+                "markdown": "![image](/image/placeholder)\n常立器 1 ②9999 Ⓛ N \nAREA \n⌀11:11:1000 N \nAF-S 0.1 0.5 1.0 5 3.0 5.0 10 \nM⌀ s.s. 1000 + 1 0 ISO 12800 自 \n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1628,
+                    "y": 0.3545
+                },
+                {
+                    "x": 0.4399,
+                    "y": 0.3545
+                },
+                {
+                    "x": 0.4399,
+                    "y": 0.5039
+                },
+                {
+                    "x": 0.1628,
+                    "y": 0.5039
+                }
+            ],
+            "id": 8,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='9' data-category='paragraph' style='font-size:20px'>Standard (no indicators)</p>",
+                "markdown": "Standard (no indicators)",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.5884,
+                    "y": 0.3318
+                },
+                {
+                    "x": 0.8581,
+                    "y": 0.3318
+                },
+                {
+                    "x": 0.8581,
+                    "y": 0.3534
+                },
+                {
+                    "x": 0.5884,
+                    "y": 0.3534
+                }
+            ],
+            "id": 9,
+            "page": 1
+        },
+        {
+            "category": "figure",
+            "content": {
+                "html": "<figure id='10' data-category='chart'><img style='font-size:14px' alt=\"AREA \n\" data-coord=\"top-left:(1641,1413); bottom-right:(2391,1964)\" /></figure>",
+                "markdown": "![image](/image/placeholder)\nAREA \n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.5938,
+                    "y": 0.3625
+                },
+                {
+                    "x": 0.8651,
+                    "y": 0.3625
+                },
+                {
+                    "x": 0.8651,
+                    "y": 0.504
+                },
+                {
+                    "x": 0.5938,
+                    "y": 0.504
+                }
+            ],
+            "id": 10,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='11' style='font-size:22px'>Dual display</h1>",
+                "markdown": "# Dual display",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.231,
+                    "y": 0.5257
+                },
+                {
+                    "x": 0.3717,
+                    "y": 0.5257
+                },
+                {
+                    "x": 0.3717,
+                    "y": 0.5471
+                },
+                {
+                    "x": 0.231,
+                    "y": 0.5471
+                }
+            ],
+            "id": 11,
+            "page": 1
+        },
+        {
+            "category": "figure",
+            "content": {
+                "html": "<br><figure id='12' data-category='chart'><img style='font-size:16px' alt=\"营V器 ② 9999 N \nAREA \n区东安东的巴西哥哥市中中 \n83 \n0.1 0.5 1.0 1.5 3.0 5.0 10 \nAF-S \nM⌀ s.s. 1000 + 1.0 ISO 12800 -00000 \n\" data-coord=\"top-left:(444,2135); bottom-right:(1220,2714)\" /></figure>",
+                "markdown": "![image](/image/placeholder)\n营V器 ② 9999 N \nAREA \n区东安东的巴西哥哥市中中 \n83 \n0.1 0.5 1.0 1.5 3.0 5.0 10 \nAF-S \nM⌀ s.s. 1000 + 1.0 ISO 12800 -00000 \n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1608,
+                    "y": 0.5478
+                },
+                {
+                    "x": 0.4414,
+                    "y": 0.5478
+                },
+                {
+                    "x": 0.4414,
+                    "y": 0.6963
+                },
+                {
+                    "x": 0.1608,
+                    "y": 0.6963
+                }
+            ],
+            "id": 12,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='13' data-category='paragraph' style='font-size:20px'>The dual display is available only when shooting still images with man-<br>ual focus.</p>",
+                "markdown": "The dual display is available only when shooting still images with man-\nual focus.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1277,
+                    "y": 0.7194
+                },
+                {
+                    "x": 0.9142,
+                    "y": 0.7194
+                },
+                {
+                    "x": 0.9142,
+                    "y": 0.7636
+                },
+                {
+                    "x": 0.1277,
+                    "y": 0.7636
+                }
+            ],
+            "id": 13,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='14' style='font-size:22px'>23</footer>",
+                "markdown": "23",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.8781,
+                    "y": 0.9565
+                },
+                {
+                    "x": 0.9167,
+                    "y": 0.9565
+                },
+                {
+                    "x": 0.9167,
+                    "y": 0.9794
+                },
+                {
+                    "x": 0.8781,
+                    "y": 0.9794
+                }
+            ],
+            "id": 14,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<br><footer id='15' style='font-size:22px'>Before<br>You<br>Begin</footer>",
+                "markdown": "Before\nYou\nBegin",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9568,
+                    "y": 0.2782
+                },
+                {
+                    "x": 0.9815,
+                    "y": 0.2782
+                },
+                {
+                    "x": 0.9815,
+                    "y": 0.402
+                },
+                {
+                    "x": 0.9568,
+                    "y": 0.402
+                }
+            ],
+            "id": 15,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

@@ -1,0 +1,238 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:14px'>BUTTON/DIAL SETTING</header>\n<h1 id='1' style='font-size:16px'>LOCK</h1>\n<br><h1 id='2' style='font-size:18px'>Lock selected controls to prevent unintended operation.</h1>\n<table id='3' style='font-size:16px'><tr><td>Option</td><td>Description</td></tr><tr><td>LOCK SETTING</td><td>Choose from the following: UNLOCK: Reset lock options. ALL FUNCTION: Lock all controls in the FUNCTION SELECTION list. SELECTED FUNCTION: Lock only the controls selected in the FUNCTION SELECTION list.</td></tr><tr><td>FUNCTION SELECTION</td><td>Choose the controls locked when SELECTED FUNCTION is chosen for LOCK SETTING.</td></tr></table>\n<p id='4' data-category='paragraph' style='font-size:18px'>The controls selected using SELECTED FUNCTION can be locked at any<br>time during shooting by pressing and holding MENU/OK. To unlock the<br>controls, press and hold the button again.</p>\n<header id='5' style='font-size:22px'>The<br>Setup<br>Menus</header>\n<p id='6' data-category='paragraph' style='font-size:14px'>8</p>\n<footer id='7' style='font-size:20px'>230</footer>",
+        "markdown": "BUTTON/DIAL SETTING\n\n# LOCK\n\n# Lock selected controls to prevent unintended operation.\n\n| Option | Description |\n| --- | --- |\n| LOCK SETTING | Choose from the following: UNLOCK: Reset lock options. ALL FUNCTION: Lock all controls in the FUNCTION SELECTION list. SELECTED FUNCTION: Lock only the controls selected in the FUNCTION SELECTION list. |\n| FUNCTION SELECTION | Choose the controls locked when SELECTED FUNCTION is chosen for LOCK SETTING. |\n\n\nThe controls selected using SELECTED FUNCTION can be locked at any\ntime during shooting by pressing and holding MENU/OK. To unlock the\ncontrols, press and hold the button again.\n\nThe\nSetup\nMenus\n\n8\n\n230",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:14px'>BUTTON/DIAL SETTING</header>",
+                "markdown": "BUTTON/DIAL SETTING",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6611,
+                    "y": 0.0282
+                },
+                {
+                    "x": 0.8927,
+                    "y": 0.0282
+                },
+                {
+                    "x": 0.8927,
+                    "y": 0.0498
+                },
+                {
+                    "x": 0.6611,
+                    "y": 0.0498
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='1' style='font-size:16px'>LOCK</h1>",
+                "markdown": "# LOCK",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0821,
+                    "y": 0.0728
+                },
+                {
+                    "x": 0.1633,
+                    "y": 0.0728
+                },
+                {
+                    "x": 0.1633,
+                    "y": 0.0954
+                },
+                {
+                    "x": 0.0821,
+                    "y": 0.0954
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='2' style='font-size:18px'>Lock selected controls to prevent unintended operation.</h1>",
+                "markdown": "# Lock selected controls to prevent unintended operation.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0806,
+                    "y": 0.1043
+                },
+                {
+                    "x": 0.7926,
+                    "y": 0.1043
+                },
+                {
+                    "x": 0.7926,
+                    "y": 0.129
+                },
+                {
+                    "x": 0.0806,
+                    "y": 0.129
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='3' style='font-size:16px'><tr><td>Option</td><td>Description</td></tr><tr><td>LOCK SETTING</td><td>Choose from the following: UNLOCK: Reset lock options. ALL FUNCTION: Lock all controls in the FUNCTION SELECTION list. SELECTED FUNCTION: Lock only the controls selected in the FUNCTION SELECTION list.</td></tr><tr><td>FUNCTION SELECTION</td><td>Choose the controls locked when SELECTED FUNCTION is chosen for LOCK SETTING.</td></tr></table>",
+                "markdown": "| Option | Description |\n| --- | --- |\n| LOCK SETTING | Choose from the following: UNLOCK: Reset lock options. ALL FUNCTION: Lock all controls in the FUNCTION SELECTION list. SELECTED FUNCTION: Lock only the controls selected in the FUNCTION SELECTION list. |\n| FUNCTION SELECTION | Choose the controls locked when SELECTED FUNCTION is chosen for LOCK SETTING. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0841,
+                    "y": 0.1424
+                },
+                {
+                    "x": 0.8978,
+                    "y": 0.1424
+                },
+                {
+                    "x": 0.8978,
+                    "y": 0.3635
+                },
+                {
+                    "x": 0.0841,
+                    "y": 0.3635
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='4' data-category='paragraph' style='font-size:18px'>The controls selected using SELECTED FUNCTION can be locked at any<br>time during shooting by pressing and holding MENU/OK. To unlock the<br>controls, press and hold the button again.</p>",
+                "markdown": "The controls selected using SELECTED FUNCTION can be locked at any\ntime during shooting by pressing and holding MENU/OK. To unlock the\ncontrols, press and hold the button again.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.096,
+                    "y": 0.382
+                },
+                {
+                    "x": 0.891,
+                    "y": 0.382
+                },
+                {
+                    "x": 0.891,
+                    "y": 0.4526
+                },
+                {
+                    "x": 0.096,
+                    "y": 0.4526
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='5' style='font-size:22px'>The<br>Setup<br>Menus</header>",
+                "markdown": "The\nSetup\nMenus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0188,
+                    "y": 0.5096
+                },
+                {
+                    "x": 0.0404,
+                    "y": 0.5096
+                },
+                {
+                    "x": 0.0404,
+                    "y": 0.6377
+                },
+                {
+                    "x": 0.0188,
+                    "y": 0.6377
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='6' data-category='paragraph' style='font-size:14px'>8</p>",
+                "markdown": "8",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0284,
+                    "y": 0.6602
+                },
+                {
+                    "x": 0.0417,
+                    "y": 0.6602
+                },
+                {
+                    "x": 0.0417,
+                    "y": 0.6742
+                },
+                {
+                    "x": 0.0284,
+                    "y": 0.6742
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='7' style='font-size:20px'>230</footer>",
+                "markdown": "230",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0829,
+                    "y": 0.9563
+                },
+                {
+                    "x": 0.1402,
+                    "y": 0.9563
+                },
+                {
+                    "x": 0.1402,
+                    "y": 0.9795
+                },
+                {
+                    "x": 0.0829,
+                    "y": 0.9795
+                }
+            ],
+            "id": 7,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

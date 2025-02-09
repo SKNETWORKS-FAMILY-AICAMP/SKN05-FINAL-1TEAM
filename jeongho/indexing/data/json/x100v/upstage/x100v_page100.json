@@ -1,0 +1,210 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:16px'>5</header>\n<br><h1 id='1' style='font-size:20px'>Flash Settings</h1>\n<br><h1 id='2' style='font-size:18px'>The following settings are available with the built-in flash.</h1>\n<figure id='3'><img style='font-size:14px' alt=\"MODE\nBUILT-IN FLASH\nTTL ±0 ' 2\n-2.0 +2.0\n3 TTL MODE 红TL SYNC. 4\nFRONT\nZOOM ANGLE\n11 ADJUST BACK END\" data-coord=\"top-left:(630,544); bottom-right:(2036,1419)\" /></figure>\n<br><table id='4' style='font-size:14px'><tr><td>Setting</td><td>Description</td></tr><tr><td>① Flash control mode</td><td>Choose from the following options: TTL: TTL mode. Adjust flash compensation 2 )) and choose a flash mode (( 3 ). M: The flash fires at the selected output 2 ) regardless of subject brightness or camera settings. Output is expressed in fractions of full power, from 1/1 to 1/64. The desired results may not be achieved at low values if they exceed the limits of the flash control system; take a test shot and check the results. /통 (COMMANDER): Choose if the flash is being used to con- trol remote synced flash units, for example as part of a stu- dio flash system. ⑤OFF (OFF): The flash does not fire.</td></tr><tr><td>2 Flash compensation/ output</td><td>Adjust flash level. The options available vary with the flash control mode</td></tr></table>\n<footer id='5' style='font-size:18px'>100</footer>\n<br><header id='6' style='font-size:22px'>Taking<br>Photographs</header>",
+        "markdown": "5\n\n# Flash Settings\n\n# The following settings are available with the built-in flash.\n\n![image](/image/placeholder)\nMODE\nBUILT-IN FLASH\nTTL ±0 ' 2\n-2.0 +2.0\n3 TTL MODE 红TL SYNC. 4\nFRONT\nZOOM ANGLE\n11 ADJUST BACK END\n\n| Setting | Description |\n| --- | --- |\n| ① Flash control mode | Choose from the following options: TTL: TTL mode. Adjust flash compensation 2 )) and choose a flash mode (( 3 ). M: The flash fires at the selected output 2 ) regardless of subject brightness or camera settings. Output is expressed in fractions of full power, from 1/1 to 1/64. The desired results may not be achieved at low values if they exceed the limits of the flash control system; take a test shot and check the results. /통 (COMMANDER): Choose if the flash is being used to con- trol remote synced flash units, for example as part of a stu- dio flash system. ⑤OFF (OFF): The flash does not fire. |\n| 2 Flash compensation/ output | Adjust flash level. The options available vary with the flash control mode |\n\n\n100\n\nTaking\nPhotographs",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:16px'>5</header>",
+                "markdown": "5",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0245,
+                    "y": 0.4772
+                },
+                {
+                    "x": 0.044,
+                    "y": 0.4772
+                },
+                {
+                    "x": 0.044,
+                    "y": 0.4986
+                },
+                {
+                    "x": 0.0245,
+                    "y": 0.4986
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='1' style='font-size:20px'>Flash Settings</h1>",
+                "markdown": "# Flash Settings",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0835,
+                    "y": 0.0732
+                },
+                {
+                    "x": 0.2774,
+                    "y": 0.0732
+                },
+                {
+                    "x": 0.2774,
+                    "y": 0.0957
+                },
+                {
+                    "x": 0.0835,
+                    "y": 0.0957
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='2' style='font-size:18px'>The following settings are available with the built-in flash.</h1>",
+                "markdown": "# The following settings are available with the built-in flash.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0808,
+                    "y": 0.1043
+                },
+                {
+                    "x": 0.7882,
+                    "y": 0.1043
+                },
+                {
+                    "x": 0.7882,
+                    "y": 0.1279
+                },
+                {
+                    "x": 0.0808,
+                    "y": 0.1279
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "figure",
+            "content": {
+                "html": "<figure id='3'><img style='font-size:14px' alt=\"MODE\nBUILT-IN FLASH\nTTL ±0 ' 2\n-2.0 +2.0\n3 TTL MODE 红TL SYNC. 4\nFRONT\nZOOM ANGLE\n11 ADJUST BACK END\" data-coord=\"top-left:(630,544); bottom-right:(2036,1419)\" /></figure>",
+                "markdown": "![image](/image/placeholder)\nMODE\nBUILT-IN FLASH\nTTL ±0 ' 2\n-2.0 +2.0\n3 TTL MODE 红TL SYNC. 4\nFRONT\nZOOM ANGLE\n11 ADJUST BACK END",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.2281,
+                    "y": 0.1397
+                },
+                {
+                    "x": 0.7367,
+                    "y": 0.1397
+                },
+                {
+                    "x": 0.7367,
+                    "y": 0.364
+                },
+                {
+                    "x": 0.2281,
+                    "y": 0.364
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='4' style='font-size:14px'><tr><td>Setting</td><td>Description</td></tr><tr><td>① Flash control mode</td><td>Choose from the following options: TTL: TTL mode. Adjust flash compensation 2 )) and choose a flash mode (( 3 ). M: The flash fires at the selected output 2 ) regardless of subject brightness or camera settings. Output is expressed in fractions of full power, from 1/1 to 1/64. The desired results may not be achieved at low values if they exceed the limits of the flash control system; take a test shot and check the results. /통 (COMMANDER): Choose if the flash is being used to con- trol remote synced flash units, for example as part of a stu- dio flash system. ⑤OFF (OFF): The flash does not fire.</td></tr><tr><td>2 Flash compensation/ output</td><td>Adjust flash level. The options available vary with the flash control mode</td></tr></table>",
+                "markdown": "| Setting | Description |\n| --- | --- |\n| ① Flash control mode | Choose from the following options: TTL: TTL mode. Adjust flash compensation 2 )) and choose a flash mode (( 3 ). M: The flash fires at the selected output 2 ) regardless of subject brightness or camera settings. Output is expressed in fractions of full power, from 1/1 to 1/64. The desired results may not be achieved at low values if they exceed the limits of the flash control system; take a test shot and check the results. /통 (COMMANDER): Choose if the flash is being used to con- trol remote synced flash units, for example as part of a stu- dio flash system. ⑤OFF (OFF): The flash does not fire. |\n| 2 Flash compensation/ output | Adjust flash level. The options available vary with the flash control mode |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0861,
+                    "y": 0.3721
+                },
+                {
+                    "x": 0.8976,
+                    "y": 0.3721
+                },
+                {
+                    "x": 0.8976,
+                    "y": 0.7458
+                },
+                {
+                    "x": 0.0861,
+                    "y": 0.7458
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='5' style='font-size:18px'>100</footer>",
+                "markdown": "100",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0846,
+                    "y": 0.9563
+                },
+                {
+                    "x": 0.1408,
+                    "y": 0.9563
+                },
+                {
+                    "x": 0.1408,
+                    "y": 0.9799
+                },
+                {
+                    "x": 0.0846,
+                    "y": 0.9799
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "header",
+            "content": {
+                "html": "<br><header id='6' style='font-size:22px'>Taking<br>Photographs</header>",
+                "markdown": "Taking\nPhotographs",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0164,
+                    "y": 0.5157
+                },
+                {
+                    "x": 0.0421,
+                    "y": 0.5157
+                },
+                {
+                    "x": 0.0421,
+                    "y": 0.6665
+                },
+                {
+                    "x": 0.0164,
+                    "y": 0.6665
+                }
+            ],
+            "id": 6,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

@@ -1,0 +1,114 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "\n# POWER MANAGEMENT\n\n## EVF/LCD BOOST SETTING\n\nAdjust the behavior of the EVF and LCD monitor when BOOST is selected for PERFORMANCE.\n\n| Option                              | Description                                                                 |\n|-------------------------------------|-----------------------------------------------------------------------------|\n| **EVF/LCD LOW LIGHT PRIORITY**      | Display brightness is adjusted to make subjects in shadows easier to see. Motion blur may cause ghosting. |\n| **EVF/LCD RESOLUTION PRIORITY**     | Display resolution is increased to make details easier to see.              |\n| **EVF FRAME RATE PRIORITY (100P)**  | The refresh rate for the EVF is increased, smoothing motion.                |\n| **EVF FRAME RATE PRIORITY (200P EQUIV.)** | The refresh rate for the EVF is increased beyond EVF FRAME RATE PRIORITY (100P) smoothing motion still further. The EVF may darken. |\n\n## AUTO POWER OFF TEMP.\n\nIf its temperature rises beyond a certain point, the camera will first display a message and then, if the temperature rise continues, automatically end shooting and power down. Choose the temperature at which the camera turns off automatically.\n\n| Option     | Description                                                                                                                                                                                                 |\n|------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| **STANDARD** | The camera turns off automatically when its temperature reaches the STANDARD value.                                                                                                                        |\n| **HIGH**     | Shooting can continue at temperatures higher than the STANDARD value, extending the time available to record movies and the like. Because remaining in contact with the camera at these high temperatures could result in low-temperature burns, this option should only be used after mounting the camera on a tripod or taking other steps to avoid prolonged contact with the camera. |\n",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "POWER MANAGEMENT",
+                    "md": "# POWER MANAGEMENT"
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "EVF/LCD BOOST SETTING",
+                    "md": "## EVF/LCD BOOST SETTING"
+                },
+                {
+                    "type": "text",
+                    "value": "Adjust the behavior of the EVF and LCD monitor when BOOST is selected for PERFORMANCE.",
+                    "md": "Adjust the behavior of the EVF and LCD monitor when BOOST is selected for PERFORMANCE."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Option",
+                            "Description"
+                        ],
+                        [
+                            "**EVF/LCD LOW LIGHT PRIORITY**",
+                            "Display brightness is adjusted to make subjects in shadows easier to see. Motion blur may cause ghosting."
+                        ],
+                        [
+                            "**EVF/LCD RESOLUTION PRIORITY**",
+                            "Display resolution is increased to make details easier to see."
+                        ],
+                        [
+                            "**EVF FRAME RATE PRIORITY (100P)**",
+                            "The refresh rate for the EVF is increased, smoothing motion."
+                        ],
+                        [
+                            "**EVF FRAME RATE PRIORITY (200P EQUIV.)**",
+                            "The refresh rate for the EVF is increased beyond EVF FRAME RATE PRIORITY (100P) smoothing motion still further. The EVF may darken."
+                        ]
+                    ],
+                    "md": "| Option                              | Description                                                                 |\n|-------------------------------------|-----------------------------------------------------------------------------|\n| **EVF/LCD LOW LIGHT PRIORITY**      | Display brightness is adjusted to make subjects in shadows easier to see. Motion blur may cause ghosting. |\n| **EVF/LCD RESOLUTION PRIORITY**     | Display resolution is increased to make details easier to see.              |\n| **EVF FRAME RATE PRIORITY (100P)**  | The refresh rate for the EVF is increased, smoothing motion.                |\n| **EVF FRAME RATE PRIORITY (200P EQUIV.)** | The refresh rate for the EVF is increased beyond EVF FRAME RATE PRIORITY (100P) smoothing motion still further. The EVF may darken. |",
+                    "isPerfectTable": true,
+                    "csv": "\"Option\",\"Description\"\n\"**EVF/LCD LOW LIGHT PRIORITY**\",\"Display brightness is adjusted to make subjects in shadows easier to see. Motion blur may cause ghosting.\"\n\"**EVF/LCD RESOLUTION PRIORITY**\",\"Display resolution is increased to make details easier to see.\"\n\"**EVF FRAME RATE PRIORITY (100P)**\",\"The refresh rate for the EVF is increased, smoothing motion.\"\n\"**EVF FRAME RATE PRIORITY (200P EQUIV.)**\",\"The refresh rate for the EVF is increased beyond EVF FRAME RATE PRIORITY (100P) smoothing motion still further. The EVF may darken.\""
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "AUTO POWER OFF TEMP.",
+                    "md": "## AUTO POWER OFF TEMP."
+                },
+                {
+                    "type": "text",
+                    "value": "If its temperature rises beyond a certain point, the camera will first display a message and then, if the temperature rise continues, automatically end shooting and power down. Choose the temperature at which the camera turns off automatically.",
+                    "md": "If its temperature rises beyond a certain point, the camera will first display a message and then, if the temperature rise continues, automatically end shooting and power down. Choose the temperature at which the camera turns off automatically."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Option",
+                            "Description"
+                        ],
+                        [
+                            "**STANDARD**",
+                            "The camera turns off automatically when its temperature reaches the STANDARD value."
+                        ],
+                        [
+                            "**HIGH**",
+                            "Shooting can continue at temperatures higher than the STANDARD value, extending the time available to record movies and the like. Because remaining in contact with the camera at these high temperatures could result in low-temperature burns, this option should only be used after mounting the camera on a tripod or taking other steps to avoid prolonged contact with the camera."
+                        ]
+                    ],
+                    "md": "| Option     | Description                                                                                                                                                                                                 |\n|------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| **STANDARD** | The camera turns off automatically when its temperature reaches the STANDARD value.                                                                                                                        |\n| **HIGH**     | Shooting can continue at temperatures higher than the STANDARD value, extending the time available to record movies and the like. Because remaining in contact with the camera at these high temperatures could result in low-temperature burns, this option should only be used after mounting the camera on a tripod or taking other steps to avoid prolonged contact with the camera. |",
+                    "isPerfectTable": true,
+                    "csv": "\"Option\",\"Description\"\n\"**STANDARD**\",\"The camera turns off automatically when its temperature reaches the STANDARD value.\"\n\"**HIGH**\",\"Shooting can continue at temperatures higher than the STANDARD value, extending the time available to record movies and the like. Because remaining in contact with the camera at these high temperatures could result in low-temperature burns, this option should only be used after mounting the camera on a tripod or taking other steps to avoid prolonged contact with the camera.\""
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "parsingMode": "multimodal-openai-gpt4o",
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 542.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "cccd93fb-2dc0-45e7-ac83-5950390ea126",
+    "file_path": "../data/raw_data/x-t5/x-t5_split/x-t5_page333.pdf"
+}

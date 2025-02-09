@@ -1,0 +1,294 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:16px'>Charging the Battery</header>\n<h1 id='1' style='font-size:20px'>Charge Status</h1>\n<br><h1 id='2' style='font-size:16px'>The indicator lamp shows battery charge status<br>as follows:</h1>\n<br><figure id='3'><img alt=\"\" data-coord=\"top-left:(1758,362); bottom-right:(2504,669)\" /></figure>\n<br><table id='4' style='font-size:18px'><tr><td>Indicator lamp</td><td>Battery status</td></tr><tr><td>On</td><td>Battery charging</td></tr><tr><td>Off</td><td>Charging complete</td></tr><tr><td>Blinks</td><td>Battery fault</td></tr></table>\n<p id='5' data-category='list' style='font-size:14px'>● Do not affix labels or other objects to the battery. Failure to observe<br>this precaution could make it impossible to remove the battery from<br>the camera.<br>● Do not short the battery terminals. The battery could overheat.<br>● Read the cautions in \"The Battery and Power Supply\".<br>● Use only genuine Fujifilm rechargeable batteries designated for use<br>in this camera. Failure to observe this precaution could result in prod-<br>uct malfunction.<br>● Do not remove the labels from the battery or attempt to split or peel<br>the outer casing.<br>● The battery gradually loses its charge when not in use. Charge the<br>battery one or two days before use.<br>● If the battery fails to hold a charge, it has reached the end of its<br>charging life and must be replaced.<br>● Remove dirt from the battery terminals with a clean, dry cloth. Failure<br>to observe this precaution could prevent the battery from charging.<br>● Note that charging times increase at low or high temperatures.</p>\n<br><p id='6' data-category='list' style='font-size:14px'>Ifthe camera is turned on during charging,<br>charging will end and the USB connection<br>will instead be used to power the camera.<br>The battery level will begin to gradually<br>decline ( �� 240).<br>● The camera will display an \"external power source\" icon when pow-<br>ered via USB.</p>\n<br><footer id='7' style='font-size:14px'>2</footer>\n<br><footer id='8' style='font-size:22px'>First<br>Steps</footer>\n<footer id='9' style='font-size:20px'>37</footer>",
+        "markdown": "Charging the Battery\n\n# Charge Status\n\n# The indicator lamp shows battery charge status\nas follows:\n\n![image](/image/placeholder)\n\n\n| Indicator lamp | Battery status |\n| --- | --- |\n| On | Battery charging |\n| Off | Charging complete |\n| Blinks | Battery fault |\n\n\n- ● Do not affix labels or other objects to the battery. Failure to observe\n- this precaution could make it impossible to remove the battery from\n- the camera.\n- ● Do not short the battery terminals. The battery could overheat.\n- ● Read the cautions in \"The Battery and Power Supply\".\n- ● Use only genuine Fujifilm rechargeable batteries designated for use\n- in this camera. Failure to observe this precaution could result in prod-\n- uct malfunction.\n- ● Do not remove the labels from the battery or attempt to split or peel\n- the outer casing.\n- ● The battery gradually loses its charge when not in use. Charge the\n- battery one or two days before use.\n- ● If the battery fails to hold a charge, it has reached the end of its\n- charging life and must be replaced.\n- ● Remove dirt from the battery terminals with a clean, dry cloth. Failure\n- to observe this precaution could prevent the battery from charging.\n- ● Note that charging times increase at low or high temperatures.\n\n\n- Ifthe camera is turned on during charging,\n- charging will end and the USB connection\n- will instead be used to power the camera.\n- The battery level will begin to gradually\n- decline ( �� 240).\n- ● The camera will display an \"external power source\" icon when pow-\n- ered via USB.\n\n\n2\n\nFirst\nSteps\n\n37",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:16px'>Charging the Battery</header>",
+                "markdown": "Charging the Battery",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.7112,
+                    "y": 0.0295
+                },
+                {
+                    "x": 0.9181,
+                    "y": 0.0295
+                },
+                {
+                    "x": 0.9181,
+                    "y": 0.0509
+                },
+                {
+                    "x": 0.7112,
+                    "y": 0.0509
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='1' style='font-size:20px'>Charge Status</h1>",
+                "markdown": "# Charge Status",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1044,
+                    "y": 0.0724
+                },
+                {
+                    "x": 0.2468,
+                    "y": 0.0724
+                },
+                {
+                    "x": 0.2468,
+                    "y": 0.0932
+                },
+                {
+                    "x": 0.1044,
+                    "y": 0.0932
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='2' style='font-size:16px'>The indicator lamp shows battery charge status<br>as follows:</h1>",
+                "markdown": "# The indicator lamp shows battery charge status\nas follows:",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1061,
+                    "y": 0.0958
+                },
+                {
+                    "x": 0.6283,
+                    "y": 0.0958
+                },
+                {
+                    "x": 0.6283,
+                    "y": 0.1399
+                },
+                {
+                    "x": 0.1061,
+                    "y": 0.1399
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "figure",
+            "content": {
+                "html": "<br><figure id='3'><img alt=\"\" data-coord=\"top-left:(1758,362); bottom-right:(2504,669)\" /></figure>",
+                "markdown": "![image](/image/placeholder)\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6362,
+                    "y": 0.0931
+                },
+                {
+                    "x": 0.9062,
+                    "y": 0.0931
+                },
+                {
+                    "x": 0.9062,
+                    "y": 0.1717
+                },
+                {
+                    "x": 0.6362,
+                    "y": 0.1717
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='4' style='font-size:18px'><tr><td>Indicator lamp</td><td>Battery status</td></tr><tr><td>On</td><td>Battery charging</td></tr><tr><td>Off</td><td>Charging complete</td></tr><tr><td>Blinks</td><td>Battery fault</td></tr></table>",
+                "markdown": "| Indicator lamp | Battery status |\n| --- | --- |\n| On | Battery charging |\n| Off | Charging complete |\n| Blinks | Battery fault |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1065,
+                    "y": 0.1789
+                },
+                {
+                    "x": 0.9209,
+                    "y": 0.1789
+                },
+                {
+                    "x": 0.9209,
+                    "y": 0.2795
+                },
+                {
+                    "x": 0.1065,
+                    "y": 0.2795
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "list",
+            "content": {
+                "html": "<p id='5' data-category='list' style='font-size:14px'>● Do not affix labels or other objects to the battery. Failure to observe<br>this precaution could make it impossible to remove the battery from<br>the camera.<br>● Do not short the battery terminals. The battery could overheat.<br>● Read the cautions in \"The Battery and Power Supply\".<br>● Use only genuine Fujifilm rechargeable batteries designated for use<br>in this camera. Failure to observe this precaution could result in prod-<br>uct malfunction.<br>● Do not remove the labels from the battery or attempt to split or peel<br>the outer casing.<br>● The battery gradually loses its charge when not in use. Charge the<br>battery one or two days before use.<br>● If the battery fails to hold a charge, it has reached the end of its<br>charging life and must be replaced.<br>● Remove dirt from the battery terminals with a clean, dry cloth. Failure<br>to observe this precaution could prevent the battery from charging.<br>● Note that charging times increase at low or high temperatures.</p>",
+                "markdown": "- ● Do not affix labels or other objects to the battery. Failure to observe\n- this precaution could make it impossible to remove the battery from\n- the camera.\n- ● Do not short the battery terminals. The battery could overheat.\n- ● Read the cautions in \"The Battery and Power Supply\".\n- ● Use only genuine Fujifilm rechargeable batteries designated for use\n- in this camera. Failure to observe this precaution could result in prod-\n- uct malfunction.\n- ● Do not remove the labels from the battery or attempt to split or peel\n- the outer casing.\n- ● The battery gradually loses its charge when not in use. Charge the\n- battery one or two days before use.\n- ● If the battery fails to hold a charge, it has reached the end of its\n- charging life and must be replaced.\n- ● Remove dirt from the battery terminals with a clean, dry cloth. Failure\n- to observe this precaution could prevent the battery from charging.\n- ● Note that charging times increase at low or high temperatures.\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1312,
+                    "y": 0.3016
+                },
+                {
+                    "x": 0.9182,
+                    "y": 0.3016
+                },
+                {
+                    "x": 0.9182,
+                    "y": 0.6967
+                },
+                {
+                    "x": 0.1312,
+                    "y": 0.6967
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "list",
+            "content": {
+                "html": "<br><p id='6' data-category='list' style='font-size:14px'>Ifthe camera is turned on during charging,<br>charging will end and the USB connection<br>will instead be used to power the camera.<br>The battery level will begin to gradually<br>decline ( �� 240).<br>● The camera will display an \"external power source\" icon when pow-<br>ered via USB.</p>",
+                "markdown": "- Ifthe camera is turned on during charging,\n- charging will end and the USB connection\n- will instead be used to power the camera.\n- The battery level will begin to gradually\n- decline ( �� 240).\n- ● The camera will display an \"external power source\" icon when pow-\n- ered via USB.\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.128,
+                    "y": 0.6983
+                },
+                {
+                    "x": 0.9121,
+                    "y": 0.6983
+                },
+                {
+                    "x": 0.9121,
+                    "y": 0.8545
+                },
+                {
+                    "x": 0.128,
+                    "y": 0.8545
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<br><footer id='7' style='font-size:14px'>2</footer>",
+                "markdown": "2",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9572,
+                    "y": 0.2976
+                },
+                {
+                    "x": 0.9757,
+                    "y": 0.2976
+                },
+                {
+                    "x": 0.9757,
+                    "y": 0.317
+                },
+                {
+                    "x": 0.9572,
+                    "y": 0.317
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<br><footer id='8' style='font-size:22px'>First<br>Steps</footer>",
+                "markdown": "First\nSteps",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9573,
+                    "y": 0.3395
+                },
+                {
+                    "x": 0.981,
+                    "y": 0.3395
+                },
+                {
+                    "x": 0.981,
+                    "y": 0.4153
+                },
+                {
+                    "x": 0.9573,
+                    "y": 0.4153
+                }
+            ],
+            "id": 8,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='9' style='font-size:20px'>37</footer>",
+                "markdown": "37",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.878,
+                    "y": 0.9572
+                },
+                {
+                    "x": 0.9165,
+                    "y": 0.9572
+                },
+                {
+                    "x": 0.9165,
+                    "y": 0.9796
+                },
+                {
+                    "x": 0.878,
+                    "y": 0.9796
+                }
+            ],
+            "id": 9,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

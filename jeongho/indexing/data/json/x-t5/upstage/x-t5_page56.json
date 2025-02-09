@@ -1,0 +1,322 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:22px'>Basic<br>Photography<br>and<br>Playback</header>\n<br><header id='1' style='font-size:18px'>Pictures can be viewed in the viewfinder or LCD monitor.</header>\n<br><h1 id='2' style='font-size:22px'>Viewing Pictures</h1>\n<h1 id='3' style='font-size:20px'>To view pictures full frame, press</h1>\n<h1 id='4' style='font-size:14px'>3</h1>\n<br><figure id='5'><img style='font-size:14px' alt=\"100-0001\" data-coord=\"top-left:(488,718); bottom-right:(2221,1241)\" /></figure>\n<p id='6' data-category='paragraph' style='font-size:20px'>Additional pictures can be viewed by pressing the selector left<br>or right or rotating the front command dial. Press the selector or<br>rotate the dial right to view pictures in the order recorded, left to<br>view pictures in reverse order. Keep the selector pressed to scroll<br>rapidly to the desired frame.</p>\n<br><p id='7' data-category='paragraph' style='font-size:16px'>Pictures taken using other cameras are marked with a � (\"gift image\")<br>icon to warn that they may not display correctly and that playback<br>zoom may not be available.</p>\n<br><p id='8' data-category='paragraph' style='font-size:18px'>Two Memory Cards</p>\n<br><p id='9' data-category='paragraph' style='font-size:16px'>If two memory cards are inserted, you can press and hold the button<br>to choose a card for playback. You can also select a card using the PLAY<br>BACK MENU > SWITCH SLOT option.</p>\n<footer id='10' style='font-size:20px'>56</footer>",
+        "markdown": "Basic\nPhotography\nand\nPlayback\n\nPictures can be viewed in the viewfinder or LCD monitor.\n\n# Viewing Pictures\n\n# To view pictures full frame, press\n\n# 3\n\n![image](/image/placeholder)\n100-0001\n\nAdditional pictures can be viewed by pressing the selector left\nor right or rotating the front command dial. Press the selector or\nrotate the dial right to view pictures in the order recorded, left to\nview pictures in reverse order. Keep the selector pressed to scroll\nrapidly to the desired frame.\n\nPictures taken using other cameras are marked with a � (\"gift image\")\nicon to warn that they may not display correctly and that playback\nzoom may not be available.\n\nTwo Memory Cards\n\nIf two memory cards are inserted, you can press and hold the button\nto choose a card for playback. You can also select a card using the PLAY\nBACK MENU > SWITCH SLOT option.\n\n56",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:22px'>Basic<br>Photography<br>and<br>Playback</header>",
+                "markdown": "Basic\nPhotography\nand\nPlayback",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0158,
+                    "y": 0.3826
+                },
+                {
+                    "x": 0.0426,
+                    "y": 0.3826
+                },
+                {
+                    "x": 0.0426,
+                    "y": 0.6314
+                },
+                {
+                    "x": 0.0158,
+                    "y": 0.6314
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "header",
+            "content": {
+                "html": "<br><header id='1' style='font-size:18px'>Pictures can be viewed in the viewfinder or LCD monitor.</header>",
+                "markdown": "Pictures can be viewed in the viewfinder or LCD monitor.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1557,
+                    "y": 0.1102
+                },
+                {
+                    "x": 0.8694,
+                    "y": 0.1102
+                },
+                {
+                    "x": 0.8694,
+                    "y": 0.1321
+                },
+                {
+                    "x": 0.1557,
+                    "y": 0.1321
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='2' style='font-size:22px'>Viewing Pictures</h1>",
+                "markdown": "# Viewing Pictures",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1532,
+                    "y": 0.0736
+                },
+                {
+                    "x": 0.4406,
+                    "y": 0.0736
+                },
+                {
+                    "x": 0.4406,
+                    "y": 0.1001
+                },
+                {
+                    "x": 0.1532,
+                    "y": 0.1001
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='3' style='font-size:20px'>To view pictures full frame, press</h1>",
+                "markdown": "# To view pictures full frame, press",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0828,
+                    "y": 0.1485
+                },
+                {
+                    "x": 0.5372,
+                    "y": 0.1485
+                },
+                {
+                    "x": 0.5372,
+                    "y": 0.1727
+                },
+                {
+                    "x": 0.0828,
+                    "y": 0.1727
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='4' style='font-size:14px'>3</h1>",
+                "markdown": "# 3",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0272,
+                    "y": 0.3601
+                },
+                {
+                    "x": 0.0418,
+                    "y": 0.3601
+                },
+                {
+                    "x": 0.0418,
+                    "y": 0.3759
+                },
+                {
+                    "x": 0.0272,
+                    "y": 0.3759
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "figure",
+            "content": {
+                "html": "<br><figure id='5'><img style='font-size:14px' alt=\"100-0001\" data-coord=\"top-left:(488,718); bottom-right:(2221,1241)\" /></figure>",
+                "markdown": "![image](/image/placeholder)\n100-0001",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1767,
+                    "y": 0.1844
+                },
+                {
+                    "x": 0.8037,
+                    "y": 0.1844
+                },
+                {
+                    "x": 0.8037,
+                    "y": 0.3185
+                },
+                {
+                    "x": 0.1767,
+                    "y": 0.3185
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='6' data-category='paragraph' style='font-size:20px'>Additional pictures can be viewed by pressing the selector left<br>or right or rotating the front command dial. Press the selector or<br>rotate the dial right to view pictures in the order recorded, left to<br>view pictures in reverse order. Keep the selector pressed to scroll<br>rapidly to the desired frame.</p>",
+                "markdown": "Additional pictures can be viewed by pressing the selector left\nor right or rotating the front command dial. Press the selector or\nrotate the dial right to view pictures in the order recorded, left to\nview pictures in reverse order. Keep the selector pressed to scroll\nrapidly to the desired frame.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0817,
+                    "y": 0.3397
+                },
+                {
+                    "x": 0.8956,
+                    "y": 0.3397
+                },
+                {
+                    "x": 0.8956,
+                    "y": 0.4658
+                },
+                {
+                    "x": 0.0817,
+                    "y": 0.4658
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='7' data-category='paragraph' style='font-size:16px'>Pictures taken using other cameras are marked with a � (\"gift image\")<br>icon to warn that they may not display correctly and that playback<br>zoom may not be available.</p>",
+                "markdown": "Pictures taken using other cameras are marked with a � (\"gift image\")\nicon to warn that they may not display correctly and that playback\nzoom may not be available.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1038,
+                    "y": 0.4747
+                },
+                {
+                    "x": 0.8887,
+                    "y": 0.4747
+                },
+                {
+                    "x": 0.8887,
+                    "y": 0.5408
+                },
+                {
+                    "x": 0.1038,
+                    "y": 0.5408
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='8' data-category='paragraph' style='font-size:18px'>Two Memory Cards</p>",
+                "markdown": "Two Memory Cards",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0864,
+                    "y": 0.5514
+                },
+                {
+                    "x": 0.2772,
+                    "y": 0.5514
+                },
+                {
+                    "x": 0.2772,
+                    "y": 0.572
+                },
+                {
+                    "x": 0.0864,
+                    "y": 0.572
+                }
+            ],
+            "id": 8,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='9' data-category='paragraph' style='font-size:16px'>If two memory cards are inserted, you can press and hold the button<br>to choose a card for playback. You can also select a card using the PLAY<br>BACK MENU > SWITCH SLOT option.</p>",
+                "markdown": "If two memory cards are inserted, you can press and hold the button\nto choose a card for playback. You can also select a card using the PLAY\nBACK MENU > SWITCH SLOT option.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0824,
+                    "y": 0.5729
+                },
+                {
+                    "x": 0.8912,
+                    "y": 0.5729
+                },
+                {
+                    "x": 0.8912,
+                    "y": 0.6433
+                },
+                {
+                    "x": 0.0824,
+                    "y": 0.6433
+                }
+            ],
+            "id": 9,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='10' style='font-size:20px'>56</footer>",
+                "markdown": "56",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0828,
+                    "y": 0.9565
+                },
+                {
+                    "x": 0.1226,
+                    "y": 0.9565
+                },
+                {
+                    "x": 0.1226,
+                    "y": 0.98
+                },
+                {
+                    "x": 0.0828,
+                    "y": 0.98
+                }
+            ],
+            "id": 10,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

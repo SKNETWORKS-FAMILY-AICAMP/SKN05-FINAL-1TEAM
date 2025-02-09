@@ -1,0 +1,266 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:14px'>SAVE DATA SETTING</header>\n<h1 id='1' style='font-size:14px'>SAVE ORG IMAGE</h1>\n\n<br><table id='3' style='font-size:14px'><tr><td colspan=\"2\">Options</td></tr><tr><td>ON</td><td>OFF</td></tr><br><caption id='2' style='font-size:16px'>Choose ON to save unprocessed copies of pictures taken using<br>RED EYE REMOVAL.</caption></table>\n<p id='4' data-category='paragraph' style='font-size:14px'>EDIT FILE NAME</p>\n\n<br><table id='6' style='font-size:14px'><tr><td>Option</td><td>Default prefix</td><td>Sample file name</td></tr><tr><td>sRGB</td><td>DSCF</td><td>ABCD0001</td></tr><tr><td>AdobeRGB</td><td>DSF</td><td>ABC0001</td></tr><br><caption id='5' style='font-size:18px'>Change the file name prefix. sRGB images use a four-letter prefix<br>(default \"DSCF\"), Adobe RGB images a three-letter prefix (\"DSF\")<br>preceded by an underscore.</caption></table>\n<footer id='7' style='font-size:20px'>235</footer>\n<br><footer id='8' style='font-size:22px'>The<br>Setup<br>Menus</footer>",
+        "markdown": "SAVE DATA SETTING\n\n# SAVE ORG IMAGE\n\nChoose ON to save unprocessed copies of pictures taken using\nRED EYE REMOVAL.\n\n| Options | Options |\n| --- | --- |\n| ON | OFF |\n\n\nEDIT FILE NAME\n\nChange the file name prefix. sRGB images use a four-letter prefix\n(default \"DSCF\"), Adobe RGB images a three-letter prefix (\"DSF\")\npreceded by an underscore.\n\n| Option | Default prefix | Sample file name |\n| --- | --- | --- |\n| sRGB | DSCF | ABCD0001 |\n| AdobeRGB | DSF | ABC0001 |\n\n\n235\n\nThe\nSetup\nMenus",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:14px'>SAVE DATA SETTING</header>",
+                "markdown": "SAVE DATA SETTING",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.7187,
+                    "y": 0.0286
+                },
+                {
+                    "x": 0.9182,
+                    "y": 0.0286
+                },
+                {
+                    "x": 0.9182,
+                    "y": 0.0493
+                },
+                {
+                    "x": 0.7187,
+                    "y": 0.0493
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='1' style='font-size:14px'>SAVE ORG IMAGE</h1>",
+                "markdown": "# SAVE ORG IMAGE",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1059,
+                    "y": 0.0721
+                },
+                {
+                    "x": 0.3497,
+                    "y": 0.0721
+                },
+                {
+                    "x": 0.3497,
+                    "y": 0.0955
+                },
+                {
+                    "x": 0.1059,
+                    "y": 0.0955
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='2' data-category='paragraph' style='font-size:16px'>Choose ON to save unprocessed copies of pictures taken using<br>RED EYE REMOVAL.</p>",
+                "markdown": "Choose ON to save unprocessed copies of pictures taken using\nRED EYE REMOVAL.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1063,
+                    "y": 0.1049
+                },
+                {
+                    "x": 0.9181,
+                    "y": 0.1049
+                },
+                {
+                    "x": 0.9181,
+                    "y": 0.1534
+                },
+                {
+                    "x": 0.1063,
+                    "y": 0.1534
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='3' style='font-size:14px'><tr><td colspan=\"2\">Options</td></tr><tr><td>ON</td><td>OFF</td></tr></table>",
+                "markdown": "| Options | Options |\n| --- | --- |\n| ON | OFF |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1097,
+                    "y": 0.1669
+                },
+                {
+                    "x": 0.9165,
+                    "y": 0.1669
+                },
+                {
+                    "x": 0.9165,
+                    "y": 0.2185
+                },
+                {
+                    "x": 0.1097,
+                    "y": 0.2185
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='4' data-category='paragraph' style='font-size:14px'>EDIT FILE NAME</p>",
+                "markdown": "EDIT FILE NAME",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.109,
+                    "y": 0.2352
+                },
+                {
+                    "x": 0.3286,
+                    "y": 0.2352
+                },
+                {
+                    "x": 0.3286,
+                    "y": 0.2573
+                },
+                {
+                    "x": 0.109,
+                    "y": 0.2573
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='5' data-category='paragraph' style='font-size:18px'>Change the file name prefix. sRGB images use a four-letter prefix<br>(default \"DSCF\"), Adobe RGB images a three-letter prefix (\"DSF\")<br>preceded by an underscore.</p>",
+                "markdown": "Change the file name prefix. sRGB images use a four-letter prefix\n(default \"DSCF\"), Adobe RGB images a three-letter prefix (\"DSF\")\npreceded by an underscore.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.107,
+                    "y": 0.2665
+                },
+                {
+                    "x": 0.9188,
+                    "y": 0.2665
+                },
+                {
+                    "x": 0.9188,
+                    "y": 0.3415
+                },
+                {
+                    "x": 0.107,
+                    "y": 0.3415
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='6' style='font-size:14px'><tr><td>Option</td><td>Default prefix</td><td>Sample file name</td></tr><tr><td>sRGB</td><td>DSCF</td><td>ABCD0001</td></tr><tr><td>AdobeRGB</td><td>DSF</td><td>ABC0001</td></tr></table>",
+                "markdown": "| Option | Default prefix | Sample file name |\n| --- | --- | --- |\n| sRGB | DSCF | ABCD0001 |\n| AdobeRGB | DSF | ABC0001 |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1077,
+                    "y": 0.3533
+                },
+                {
+                    "x": 0.9138,
+                    "y": 0.3533
+                },
+                {
+                    "x": 0.9138,
+                    "y": 0.4295
+                },
+                {
+                    "x": 0.1077,
+                    "y": 0.4295
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='7' style='font-size:20px'>235</footer>",
+                "markdown": "235",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.8602,
+                    "y": 0.9561
+                },
+                {
+                    "x": 0.9177,
+                    "y": 0.9561
+                },
+                {
+                    "x": 0.9177,
+                    "y": 0.9802
+                },
+                {
+                    "x": 0.8602,
+                    "y": 0.9802
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<br><footer id='8' style='font-size:22px'>The<br>Setup<br>Menus</footer>",
+                "markdown": "The\nSetup\nMenus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9565,
+                    "y": 0.5063
+                },
+                {
+                    "x": 0.9825,
+                    "y": 0.5063
+                },
+                {
+                    "x": 0.9825,
+                    "y": 0.674
+                },
+                {
+                    "x": 0.9565,
+                    "y": 0.674
+                }
+            ],
+            "id": 8,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

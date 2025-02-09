@@ -1,0 +1,86 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "# Viewing Movies\n\nView movies on the camera.\n\nIn full-frame playback, movies are identified by a !Movie Icon icon. Press the focus stick (focus lever) down to start movie playback.\n\n!Playback Screen\n\nThe following operations can be performed while a movie is displayed:\n\n!Focus Stick Operations\n\n| Focus stick (focus lever) | Full-frame playback | Playback in progress (!Play Icon) | Playback paused (!Pause Icon) |\n|---------------------------|---------------------|-------------------------------------------------------|---------------------------------------------------|\n| Up                        | —                   | End playback                                           | —                                                 |\n| Down                      | Start playback      | Pause playback                                         | Start/resume playback                              |\n| Left/right                | View other pictures | Adjust speed                                           | Single frame rewind/advance                        |\n\nProgress is shown in the display during playback.\n\n!Progress Display\n\n> 💡 **Note:**\n> - Do not cover the speaker during playback.\n> - Sound is not played back if **OFF** is selected for !Sound & Flash Icon **USER SETTING > SOUND & FLASH**.\n> - Press **MENU/OK** to pause playback and display volume controls. Press the focus stick (focus lever) up or down to adjust the volume; press **MENU/OK** again to resume playback. Volume can also be adjusted using !Sound Set-Up Icon **SOUND SET-UP > PLAYBACK VOLUME**.\n> - Audio can be played back over headphones or other devices connected via USB using the supplied headphone adapter.",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "Viewing Movies",
+                    "md": "# Viewing Movies"
+                },
+                {
+                    "type": "text",
+                    "value": "View movies on the camera.\n\nIn full-frame playback, movies are identified by a !Movie Icon icon. Press the focus stick (focus lever) down to start movie playback.\n\n!Playback Screen\n\nThe following operations can be performed while a movie is displayed:\n\n!Focus Stick Operations",
+                    "md": "View movies on the camera.\n\nIn full-frame playback, movies are identified by a !Movie Icon icon. Press the focus stick (focus lever) down to start movie playback.\n\n!Playback Screen\n\nThe following operations can be performed while a movie is displayed:\n\n!Focus Stick Operations"
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Focus stick (focus lever)",
+                            "Full-frame playback",
+                            "Playback in progress (!Play Icon)",
+                            "Playback paused (!Pause Icon)"
+                        ],
+                        [
+                            "Up",
+                            "—",
+                            "End playback",
+                            "—"
+                        ],
+                        [
+                            "Down",
+                            "Start playback",
+                            "Pause playback",
+                            "Start/resume playback"
+                        ],
+                        [
+                            "Left/right",
+                            "View other pictures",
+                            "Adjust speed",
+                            "Single frame rewind/advance"
+                        ]
+                    ],
+                    "md": "| Focus stick (focus lever) | Full-frame playback | Playback in progress (!Play Icon) | Playback paused (!Pause Icon) |\n|---------------------------|---------------------|-------------------------------------------------------|---------------------------------------------------|\n| Up                        | —                   | End playback                                           | —                                                 |\n| Down                      | Start playback      | Pause playback                                         | Start/resume playback                              |\n| Left/right                | View other pictures | Adjust speed                                           | Single frame rewind/advance                        |",
+                    "isPerfectTable": true,
+                    "csv": "\"Focus stick (focus lever)\",\"Full-frame playback\",\"Playback in progress (!Play Icon)\",\"Playback paused (!Pause Icon)\"\n\"Up\",\"—\",\"End playback\",\"—\"\n\"Down\",\"Start playback\",\"Pause playback\",\"Start/resume playback\"\n\"Left/right\",\"View other pictures\",\"Adjust speed\",\"Single frame rewind/advance\""
+                },
+                {
+                    "type": "text",
+                    "value": "Progress is shown in the display during playback.\n\n!Progress Display\n\n> 💡 **Note:**\n> - Do not cover the speaker during playback.\n> - Sound is not played back if **OFF** is selected for !Sound & Flash Icon **USER SETTING > SOUND & FLASH**.\n> - Press **MENU/OK** to pause playback and display volume controls. Press the focus stick (focus lever) up or down to adjust the volume; press **MENU/OK** again to resume playback. Volume can also be adjusted using !Sound Set-Up Icon **SOUND SET-UP > PLAYBACK VOLUME**.\n> - Audio can be played back over headphones or other devices connected via USB using the supplied headphone adapter.",
+                    "md": "Progress is shown in the display during playback.\n\n!Progress Display\n\n> 💡 **Note:**\n> - Do not cover the speaker during playback.\n> - Sound is not played back if **OFF** is selected for !Sound & Flash Icon **USER SETTING > SOUND & FLASH**.\n> - Press **MENU/OK** to pause playback and display volume controls. Press the focus stick (focus lever) up or down to adjust the volume; press **MENU/OK** again to resume playback. Volume can also be adjusted using !Sound Set-Up Icon **SOUND SET-UP > PLAYBACK VOLUME**.\n> - Audio can be played back over headphones or other devices connected via USB using the supplied headphone adapter."
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "parsingMode": "multimodal-openai-gpt4o",
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 31.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "3435d1b0-0a3b-41dc-a0d5-5e972726088e",
+    "file_path": "../data/raw_data/x-e4/x-e4_split/x-e4_page76.pdf"
+}

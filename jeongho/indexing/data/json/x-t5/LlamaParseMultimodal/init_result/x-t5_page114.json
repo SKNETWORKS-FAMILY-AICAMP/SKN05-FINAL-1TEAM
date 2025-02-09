@@ -1,0 +1,89 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "## The Focus-Point Display\n\nThe focus-point display varies with the option selected for AF mode.\n\n- **Manual focus-point selection is not available when WIDE/TRACKING is selected in focus mode S.**\n- **If ALL is selected for AF mode, you can rotate the rear command dial in the focus-point selection display to cycle through AF modes in the following order: SINGLE POINT (6 frame sizes), ZONE (3 frame sizes), and either WIDE (focus mode S) or TRACKING (focus mode C).**\n\n### Focus Frames\n\nFocus frames are shown by small squares (□), focus zones by the large squares.\n\n| AF Mode         | Description                                                                 |\n|-----------------|-----------------------------------------------------------------------------|\n| SINGLE POINT    | !Single Point                                           |\n| ZONE            | !Zone                                                   |\n| WIDE/TRACKING   | !Wide/Tracking                                          |\n\n- **SINGLE POINT:** Number of points available can be selected using AF/MF SETTING > NUMBER OF FOCUS POINTS.\n- **ZONE:** Choose from zones with 7 x 7, 5 x 5, or 3 x 3 focus points.\n- **WIDE/TRACKING:** Position focus frame over subject you want to track using continuous AF.",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "The Focus-Point Display",
+                    "md": "## The Focus-Point Display"
+                },
+                {
+                    "type": "text",
+                    "value": "The focus-point display varies with the option selected for AF mode.\n\n- **Manual focus-point selection is not available when WIDE/TRACKING is selected in focus mode S.**\n- **If ALL is selected for AF mode, you can rotate the rear command dial in the focus-point selection display to cycle through AF modes in the following order: SINGLE POINT (6 frame sizes), ZONE (3 frame sizes), and either WIDE (focus mode S) or TRACKING (focus mode C).**",
+                    "md": "The focus-point display varies with the option selected for AF mode.\n\n- **Manual focus-point selection is not available when WIDE/TRACKING is selected in focus mode S.**\n- **If ALL is selected for AF mode, you can rotate the rear command dial in the focus-point selection display to cycle through AF modes in the following order: SINGLE POINT (6 frame sizes), ZONE (3 frame sizes), and either WIDE (focus mode S) or TRACKING (focus mode C).**"
+                },
+                {
+                    "type": "heading",
+                    "lvl": 3,
+                    "value": "Focus Frames",
+                    "md": "### Focus Frames"
+                },
+                {
+                    "type": "text",
+                    "value": "Focus frames are shown by small squares (□), focus zones by the large squares.",
+                    "md": "Focus frames are shown by small squares (□), focus zones by the large squares."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "AF Mode",
+                            "Description"
+                        ],
+                        [
+                            "SINGLE POINT",
+                            "!Single Point"
+                        ],
+                        [
+                            "ZONE",
+                            "!Zone"
+                        ],
+                        [
+                            "WIDE/TRACKING",
+                            "!Wide/Tracking"
+                        ]
+                    ],
+                    "md": "| AF Mode         | Description                                                                 |\n|-----------------|-----------------------------------------------------------------------------|\n| SINGLE POINT    | !Single Point                                           |\n| ZONE            | !Zone                                                   |\n| WIDE/TRACKING   | !Wide/Tracking                                          |",
+                    "isPerfectTable": true,
+                    "csv": "\"AF Mode\",\"Description\"\n\"SINGLE POINT\",\"!Single Point\"\n\"ZONE\",\"!Zone\"\n\"WIDE/TRACKING\",\"!Wide/Tracking\""
+                },
+                {
+                    "type": "text",
+                    "value": "- **SINGLE POINT:** Number of points available can be selected using AF/MF SETTING > NUMBER OF FOCUS POINTS.\n- **ZONE:** Choose from zones with 7 x 7, 5 x 5, or 3 x 3 focus points.\n- **WIDE/TRACKING:** Position focus frame over subject you want to track using continuous AF.",
+                    "md": "- **SINGLE POINT:** Number of points available can be selected using AF/MF SETTING > NUMBER OF FOCUS POINTS.\n- **ZONE:** Choose from zones with 7 x 7, 5 x 5, or 3 x 3 focus points.\n- **WIDE/TRACKING:** Position focus frame over subject you want to track using continuous AF."
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "parsingMode": "multimodal-openai-gpt4o",
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 646.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "a5b598ff-bb12-4148-bf43-db279344baea",
+    "file_path": "../data/raw_data/x-t5/x-t5_split/x-t5_page114.pdf"
+}

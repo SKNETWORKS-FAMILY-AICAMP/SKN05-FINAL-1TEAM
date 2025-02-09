@@ -1,0 +1,294 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<h1 id='0' style='font-size:18px'>IS MODE</h1>\n<br><h1 id='1' style='font-size:18px'>Choose the image stabilization mode.</h1>\n<br><table id='2' style='font-size:18px'><tr><td>Option</td><td>Description</td></tr><tr><td>IBIS/OIS</td><td>Enable in-body (IBIS) and optical (OIS) image stabilization. IBIS is used with lenses that do not support OIS.</td></tr><tr><td>IBIS/OIS + DIS</td><td>Enable in-body (IBIS), optical (OIS), and digital (DIS) image stabilization. The crop is adjusted according to the option selected for MOVIE MODE. This setting can compensate for more severe camera shake.</td></tr><tr><td>OFF</td><td>Image stabilization off; appears in the display.</td></tr></table>\n<p id='3' data-category='list' style='font-size:14px'>● The setting selected with the lens image stabilization switch, if any,<br>takes priority over the setting chosen with the IS mode.<br>● Note that vibration or camera sounds may be noticeable as image<br>stabilization takes effect.</p>\n<p id='4' data-category='paragraph' style='font-size:18px'>IS MODE BOOST</p>\n\n<table id='6' style='font-size:16px'><tr><td>Option</td><td>Description</td></tr><tr><td>ON</td><td>Suitable for shots with no panning.</td></tr><tr><td>OFF</td><td>Suitable for shots with panning.</td></tr><br><caption id='5' style='font-size:18px'>Choose the image stabilization level.</caption></table>\n<br><p id='7' data-category='paragraph' style='font-size:14px'>Assigning IS MODE BOOST to a function button allows the image sta-<br>bilization level to be changed while recording is in progress (目日 385).</p>\n<br><header id='8' style='font-size:22px'>The<br>Shooting<br>Menus</header>\n<footer id='9' style='font-size:20px'>188</footer>",
+        "markdown": "# IS MODE\n\n# Choose the image stabilization mode.\n\n| Option | Description |\n| --- | --- |\n| IBIS/OIS | Enable in-body (IBIS) and optical (OIS) image stabilization. IBIS is used with lenses that do not support OIS. |\n| IBIS/OIS + DIS | Enable in-body (IBIS), optical (OIS), and digital (DIS) image stabilization. The crop is adjusted according to the option selected for MOVIE MODE. This setting can compensate for more severe camera shake. |\n| OFF | Image stabilization off; appears in the display. |\n\n\n- ● The setting selected with the lens image stabilization switch, if any,\n- takes priority over the setting chosen with the IS mode.\n- ● Note that vibration or camera sounds may be noticeable as image\n- stabilization takes effect.\n\n\nIS MODE BOOST\n\nChoose the image stabilization level.\n\n| Option | Description |\n| --- | --- |\n| ON | Suitable for shots with no panning. |\n| OFF | Suitable for shots with panning. |\n\n\nAssigning IS MODE BOOST to a function button allows the image sta-\nbilization level to be changed while recording is in progress (目日 385).\n\nThe\nShooting\nMenus\n\n188",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='0' style='font-size:18px'>IS MODE</h1>",
+                "markdown": "# IS MODE",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0835,
+                    "y": 0.0732
+                },
+                {
+                    "x": 0.2445,
+                    "y": 0.0732
+                },
+                {
+                    "x": 0.2445,
+                    "y": 0.0948
+                },
+                {
+                    "x": 0.0835,
+                    "y": 0.0948
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='1' style='font-size:18px'>Choose the image stabilization mode.</h1>",
+                "markdown": "# Choose the image stabilization mode.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0815,
+                    "y": 0.1044
+                },
+                {
+                    "x": 0.5622,
+                    "y": 0.1044
+                },
+                {
+                    "x": 0.5622,
+                    "y": 0.1287
+                },
+                {
+                    "x": 0.0815,
+                    "y": 0.1287
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='2' style='font-size:18px'><tr><td>Option</td><td>Description</td></tr><tr><td>IBIS/OIS</td><td>Enable in-body (IBIS) and optical (OIS) image stabilization. IBIS is used with lenses that do not support OIS.</td></tr><tr><td>IBIS/OIS + DIS</td><td>Enable in-body (IBIS), optical (OIS), and digital (DIS) image stabilization. The crop is adjusted according to the option selected for MOVIE MODE. This setting can compensate for more severe camera shake.</td></tr><tr><td>OFF</td><td>Image stabilization off; appears in the display.</td></tr></table>",
+                "markdown": "| Option | Description |\n| --- | --- |\n| IBIS/OIS | Enable in-body (IBIS) and optical (OIS) image stabilization. IBIS is used with lenses that do not support OIS. |\n| IBIS/OIS + DIS | Enable in-body (IBIS), optical (OIS), and digital (DIS) image stabilization. The crop is adjusted according to the option selected for MOVIE MODE. This setting can compensate for more severe camera shake. |\n| OFF | Image stabilization off; appears in the display. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0876,
+                    "y": 0.1394
+                },
+                {
+                    "x": 0.8947,
+                    "y": 0.1394
+                },
+                {
+                    "x": 0.8947,
+                    "y": 0.3322
+                },
+                {
+                    "x": 0.0876,
+                    "y": 0.3322
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "list",
+            "content": {
+                "html": "<p id='3' data-category='list' style='font-size:14px'>● The setting selected with the lens image stabilization switch, if any,<br>takes priority over the setting chosen with the IS mode.<br>● Note that vibration or camera sounds may be noticeable as image<br>stabilization takes effect.</p>",
+                "markdown": "- ● The setting selected with the lens image stabilization switch, if any,\n- takes priority over the setting chosen with the IS mode.\n- ● Note that vibration or camera sounds may be noticeable as image\n- stabilization takes effect.\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0978,
+                    "y": 0.3435
+                },
+                {
+                    "x": 0.8892,
+                    "y": 0.3435
+                },
+                {
+                    "x": 0.8892,
+                    "y": 0.4334
+                },
+                {
+                    "x": 0.0978,
+                    "y": 0.4334
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='4' data-category='paragraph' style='font-size:18px'>IS MODE BOOST</p>",
+                "markdown": "IS MODE BOOST",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.082,
+                    "y": 0.4537
+                },
+                {
+                    "x": 0.3437,
+                    "y": 0.4537
+                },
+                {
+                    "x": 0.3437,
+                    "y": 0.4768
+                },
+                {
+                    "x": 0.082,
+                    "y": 0.4768
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='5' data-category='paragraph' style='font-size:18px'>Choose the image stabilization level.</p>",
+                "markdown": "Choose the image stabilization level.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0815,
+                    "y": 0.4865
+                },
+                {
+                    "x": 0.5466,
+                    "y": 0.4865
+                },
+                {
+                    "x": 0.5466,
+                    "y": 0.5098
+                },
+                {
+                    "x": 0.0815,
+                    "y": 0.5098
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='6' style='font-size:16px'><tr><td>Option</td><td>Description</td></tr><tr><td>ON</td><td>Suitable for shots with no panning.</td></tr><tr><td>OFF</td><td>Suitable for shots with panning.</td></tr></table>",
+                "markdown": "| Option | Description |\n| --- | --- |\n| ON | Suitable for shots with no panning. |\n| OFF | Suitable for shots with panning. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0832,
+                    "y": 0.5229
+                },
+                {
+                    "x": 0.8906,
+                    "y": 0.5229
+                },
+                {
+                    "x": 0.8906,
+                    "y": 0.5972
+                },
+                {
+                    "x": 0.0832,
+                    "y": 0.5972
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='7' data-category='paragraph' style='font-size:14px'>Assigning IS MODE BOOST to a function button allows the image sta-<br>bilization level to be changed while recording is in progress (目日 385).</p>",
+                "markdown": "Assigning IS MODE BOOST to a function button allows the image sta-\nbilization level to be changed while recording is in progress (目日 385).",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0904,
+                    "y": 0.6084
+                },
+                {
+                    "x": 0.8895,
+                    "y": 0.6084
+                },
+                {
+                    "x": 0.8895,
+                    "y": 0.655
+                },
+                {
+                    "x": 0.0904,
+                    "y": 0.655
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "header",
+            "content": {
+                "html": "<br><header id='8' style='font-size:22px'>The<br>Shooting<br>Menus</header>",
+                "markdown": "The\nShooting\nMenus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0164,
+                    "y": 0.5771
+                },
+                {
+                    "x": 0.0422,
+                    "y": 0.5771
+                },
+                {
+                    "x": 0.0422,
+                    "y": 0.7309
+                },
+                {
+                    "x": 0.0164,
+                    "y": 0.7309
+                }
+            ],
+            "id": 8,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='9' style='font-size:20px'>188</footer>",
+                "markdown": "188",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.085,
+                    "y": 0.9565
+                },
+                {
+                    "x": 0.1399,
+                    "y": 0.9565
+                },
+                {
+                    "x": 0.1399,
+                    "y": 0.9791
+                },
+                {
+                    "x": 0.085,
+                    "y": 0.9791
+                }
+            ],
+            "id": 9,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

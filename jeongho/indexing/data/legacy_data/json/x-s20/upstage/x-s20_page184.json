@@ -1,0 +1,406 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<h1 id='0' style='font-size:14px'>IS MODE</h1>\n<br><p id='1' data-category='paragraph' style='font-size:18px'>This item is also found in the movie menus (□□ 197). Changes<br>here also apply to the item in the movie menus.</p>\n<h1 id='2' style='font-size:14px'>IS MODE BOOST</h1>\n<br><p id='3' data-category='paragraph' style='font-size:18px'>This item is also found in the movie menus (□ 197). Changes<br>here also apply to the item in the movie menus.</p>\n<h1 id='4' style='font-size:16px'>AUDIO SETTING</h1>\n<br><p id='5' data-category='paragraph' style='font-size:22px'>Adjust audio-related settings for movie recording.</p>\n<p id='6' data-category='paragraph' style='font-size:16px'>INTERNAL MIC LEVEL ADJUSTMENT</p>\n\n<br><table id='8' style='font-size:16px'><tr><td>Option</td><td>Description</td></tr><tr><td>AUTO</td><td>The camera adjusts the recording level automatically.</td></tr><tr><td>MANUAL</td><td>Adjust the recording level manually. Choose from 25 recording levels.</td></tr><tr><td>OFF</td><td>Turn the built-in microphone off.</td></tr><br><caption id='7' style='font-size:20px'>Adjust the recording level for the built-in microphone.</caption></table>\n<p id='9' data-category='paragraph' style='font-size:14px'>EXTERNAL MIC LEVEL ADJUSTMENT</p>\n\n<br><table id='11' style='font-size:16px'><tr><td>Option</td><td>Description</td></tr><tr><td>AUTO</td><td>The camera adjusts the recording level automatically.</td></tr><tr><td>MANUAL</td><td>Adjust the recording level manually. Choose from 25 recording levels.</td></tr><tr><td>OFF</td><td>Disable recording using external microphones.</td></tr><br><caption id='10' style='font-size:20px'>Adjust the recording level for external microphones.</caption></table>\n<br><header id='12' style='font-size:22px'>The<br>Shooting<br>Menus</header>\n<footer id='13' style='font-size:18px'>182</footer>",
+        "markdown": "# IS MODE\n\nThis item is also found in the movie menus (□□ 197). Changes\nhere also apply to the item in the movie menus.\n\n# IS MODE BOOST\n\nThis item is also found in the movie menus (□ 197). Changes\nhere also apply to the item in the movie menus.\n\n# AUDIO SETTING\n\nAdjust audio-related settings for movie recording.\n\nINTERNAL MIC LEVEL ADJUSTMENT\n\nAdjust the recording level for the built-in microphone.\n\n| Option | Description |\n| --- | --- |\n| AUTO | The camera adjusts the recording level automatically. |\n| MANUAL | Adjust the recording level manually. Choose from 25 recording levels. |\n| OFF | Turn the built-in microphone off. |\n\n\nEXTERNAL MIC LEVEL ADJUSTMENT\n\nAdjust the recording level for external microphones.\n\n| Option | Description |\n| --- | --- |\n| AUTO | The camera adjusts the recording level automatically. |\n| MANUAL | Adjust the recording level manually. Choose from 25 recording levels. |\n| OFF | Disable recording using external microphones. |\n\n\nThe\nShooting\nMenus\n\n182",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='0' style='font-size:14px'>IS MODE</h1>",
+                "markdown": "# IS MODE",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0835,
+                    "y": 0.0731
+                },
+                {
+                    "x": 0.2445,
+                    "y": 0.0731
+                },
+                {
+                    "x": 0.2445,
+                    "y": 0.0949
+                },
+                {
+                    "x": 0.0835,
+                    "y": 0.0949
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='1' data-category='paragraph' style='font-size:18px'>This item is also found in the movie menus (□□ 197). Changes<br>here also apply to the item in the movie menus.</p>",
+                "markdown": "This item is also found in the movie menus (□□ 197). Changes\nhere also apply to the item in the movie menus.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0812,
+                    "y": 0.1051
+                },
+                {
+                    "x": 0.8932,
+                    "y": 0.1051
+                },
+                {
+                    "x": 0.8932,
+                    "y": 0.1551
+                },
+                {
+                    "x": 0.0812,
+                    "y": 0.1551
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='2' style='font-size:14px'>IS MODE BOOST</h1>",
+                "markdown": "# IS MODE BOOST",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0822,
+                    "y": 0.1744
+                },
+                {
+                    "x": 0.3448,
+                    "y": 0.1744
+                },
+                {
+                    "x": 0.3448,
+                    "y": 0.1995
+                },
+                {
+                    "x": 0.0822,
+                    "y": 0.1995
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='3' data-category='paragraph' style='font-size:18px'>This item is also found in the movie menus (□ 197). Changes<br>here also apply to the item in the movie menus.</p>",
+                "markdown": "This item is also found in the movie menus (□ 197). Changes\nhere also apply to the item in the movie menus.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0802,
+                    "y": 0.2071
+                },
+                {
+                    "x": 0.8934,
+                    "y": 0.2071
+                },
+                {
+                    "x": 0.8934,
+                    "y": 0.2576
+                },
+                {
+                    "x": 0.0802,
+                    "y": 0.2576
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='4' style='font-size:16px'>AUDIO SETTING</h1>",
+                "markdown": "# AUDIO SETTING",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0819,
+                    "y": 0.2775
+                },
+                {
+                    "x": 0.3043,
+                    "y": 0.2775
+                },
+                {
+                    "x": 0.3043,
+                    "y": 0.2999
+                },
+                {
+                    "x": 0.0819,
+                    "y": 0.2999
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='5' data-category='paragraph' style='font-size:22px'>Adjust audio-related settings for movie recording.</p>",
+                "markdown": "Adjust audio-related settings for movie recording.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0806,
+                    "y": 0.3094
+                },
+                {
+                    "x": 0.7132,
+                    "y": 0.3094
+                },
+                {
+                    "x": 0.7132,
+                    "y": 0.3352
+                },
+                {
+                    "x": 0.0806,
+                    "y": 0.3352
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='6' data-category='paragraph' style='font-size:16px'>INTERNAL MIC LEVEL ADJUSTMENT</p>",
+                "markdown": "INTERNAL MIC LEVEL ADJUSTMENT",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0932,
+                    "y": 0.356
+                },
+                {
+                    "x": 0.5275,
+                    "y": 0.356
+                },
+                {
+                    "x": 0.5275,
+                    "y": 0.3786
+                },
+                {
+                    "x": 0.0932,
+                    "y": 0.3786
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='7' data-category='paragraph' style='font-size:20px'>Adjust the recording level for the built-in microphone.</p>",
+                "markdown": "Adjust the recording level for the built-in microphone.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0806,
+                    "y": 0.387
+                },
+                {
+                    "x": 0.7648,
+                    "y": 0.387
+                },
+                {
+                    "x": 0.7648,
+                    "y": 0.4114
+                },
+                {
+                    "x": 0.0806,
+                    "y": 0.4114
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='8' style='font-size:16px'><tr><td>Option</td><td>Description</td></tr><tr><td>AUTO</td><td>The camera adjusts the recording level automatically.</td></tr><tr><td>MANUAL</td><td>Adjust the recording level manually. Choose from 25 recording levels.</td></tr><tr><td>OFF</td><td>Turn the built-in microphone off.</td></tr></table>",
+                "markdown": "| Option | Description |\n| --- | --- |\n| AUTO | The camera adjusts the recording level automatically. |\n| MANUAL | Adjust the recording level manually. Choose from 25 recording levels. |\n| OFF | Turn the built-in microphone off. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0822,
+                    "y": 0.4224
+                },
+                {
+                    "x": 0.8939,
+                    "y": 0.4224
+                },
+                {
+                    "x": 0.8939,
+                    "y": 0.5423
+                },
+                {
+                    "x": 0.0822,
+                    "y": 0.5423
+                }
+            ],
+            "id": 8,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='9' data-category='paragraph' style='font-size:14px'>EXTERNAL MIC LEVEL ADJUSTMENT</p>",
+                "markdown": "EXTERNAL MIC LEVEL ADJUSTMENT",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0949,
+                    "y": 0.5604
+                },
+                {
+                    "x": 0.532,
+                    "y": 0.5604
+                },
+                {
+                    "x": 0.532,
+                    "y": 0.584
+                },
+                {
+                    "x": 0.0949,
+                    "y": 0.584
+                }
+            ],
+            "id": 9,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='10' data-category='paragraph' style='font-size:20px'>Adjust the recording level for external microphones.</p>",
+                "markdown": "Adjust the recording level for external microphones.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0809,
+                    "y": 0.5922
+                },
+                {
+                    "x": 0.7396,
+                    "y": 0.5922
+                },
+                {
+                    "x": 0.7396,
+                    "y": 0.6163
+                },
+                {
+                    "x": 0.0809,
+                    "y": 0.6163
+                }
+            ],
+            "id": 10,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='11' style='font-size:16px'><tr><td>Option</td><td>Description</td></tr><tr><td>AUTO</td><td>The camera adjusts the recording level automatically.</td></tr><tr><td>MANUAL</td><td>Adjust the recording level manually. Choose from 25 recording levels.</td></tr><tr><td>OFF</td><td>Disable recording using external microphones.</td></tr></table>",
+                "markdown": "| Option | Description |\n| --- | --- |\n| AUTO | The camera adjusts the recording level automatically. |\n| MANUAL | Adjust the recording level manually. Choose from 25 recording levels. |\n| OFF | Disable recording using external microphones. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0859,
+                    "y": 0.6281
+                },
+                {
+                    "x": 0.8925,
+                    "y": 0.6281
+                },
+                {
+                    "x": 0.8925,
+                    "y": 0.7461
+                },
+                {
+                    "x": 0.0859,
+                    "y": 0.7461
+                }
+            ],
+            "id": 11,
+            "page": 1
+        },
+        {
+            "category": "header",
+            "content": {
+                "html": "<br><header id='12' style='font-size:22px'>The<br>Shooting<br>Menus</header>",
+                "markdown": "The\nShooting\nMenus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0158,
+                    "y": 0.5725
+                },
+                {
+                    "x": 0.0422,
+                    "y": 0.5725
+                },
+                {
+                    "x": 0.0422,
+                    "y": 0.7306
+                },
+                {
+                    "x": 0.0158,
+                    "y": 0.7306
+                }
+            ],
+            "id": 12,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='13' style='font-size:18px'>182</footer>",
+                "markdown": "182",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0851,
+                    "y": 0.9566
+                },
+                {
+                    "x": 0.1395,
+                    "y": 0.9566
+                },
+                {
+                    "x": 0.1395,
+                    "y": 0.9797
+                },
+                {
+                    "x": 0.0851,
+                    "y": 0.9797
+                }
+            ],
+            "id": 13,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

@@ -1,0 +1,322 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:14px'>FLASH SETTING</header>\n<h1 id='1' style='font-size:18px'>TTL-LOCK MODE</h1>\n\n<table id='3' style='font-size:16px'><tr><td>Option</td><td>Description</td></tr><tr><td>LOCK WITH LAST FLASH</td><td>Flash output is locked at the value metered for the most recent photo.</td></tr><tr><td>LOCK WITH METERING FLASH</td><td>The camera emits a series of pre-flashes and locks flash output at the metered value.</td></tr><br><caption id='2' style='font-size:20px'>Instead of adjusting flash level with each shot, TTL flash control<br>can be locked for consistent results across a series of photo-<br>graphs.</caption></table>\n<p id='4' data-category='list' style='font-size:14px'>To use TTL lock, assign TTL-LOCK to a camera control and then use<br>the control to enable or disable TTL lock (目目 252).<br>● Flash compensation can be adjusted while TTL lock is in effect.<br>● Selecting LOCK WITH LAST FLASH displays an error message if no<br>previously metered value exists.</p>\n<p id='5' data-category='paragraph' style='font-size:16px'>LED LIGHT SETTING</p>\n\n<br><table id='7' style='font-size:16px'><tr><td>Option</td><td>Role of LED video light in still photography</td></tr><tr><td>CATCHLIGHT</td><td>Catchlight</td></tr><tr><td>AF ASSIST</td><td>AF-assist illuminator</td></tr><tr><td>AF ASSIST+CATCHLIGHT</td><td>AF-assist illuminator and catchlight</td></tr><tr><td>OFF</td><td>None</td></tr><br><caption id='6' style='font-size:20px'>Choose whether to use the flash unit's LED video light (if avail-<br>able) as a catchlight or AF-assist illuminator when taking photos.</caption></table>\n<br><p id='8' data-category='paragraph' style='font-size:14px'>In some cases, this option can also be accessed via the FLASH FUNCTION<br>SETTING menu.</p>\n<br><footer id='9' style='font-size:22px'>6<br>The<br>Shooting<br>Menus</footer>\n<footer id='10' style='font-size:20px'>153</footer>",
+        "markdown": "FLASH SETTING\n\n# TTL-LOCK MODE\n\nInstead of adjusting flash level with each shot, TTL flash control\ncan be locked for consistent results across a series of photo-\ngraphs.\n\n| Option | Description |\n| --- | --- |\n| LOCK WITH LAST FLASH | Flash output is locked at the value metered for the most recent photo. |\n| LOCK WITH METERING FLASH | The camera emits a series of pre-flashes and locks flash output at the metered value. |\n\n\n- To use TTL lock, assign TTL-LOCK to a camera control and then use\n- the control to enable or disable TTL lock (目目 252).\n- ● Flash compensation can be adjusted while TTL lock is in effect.\n- ● Selecting LOCK WITH LAST FLASH displays an error message if no\n- previously metered value exists.\n\n\nLED LIGHT SETTING\n\nChoose whether to use the flash unit's LED video light (if avail-\nable) as a catchlight or AF-assist illuminator when taking photos.\n\n| Option | Role of LED video light in still photography |\n| --- | --- |\n| CATCHLIGHT | Catchlight |\n| AF ASSIST | AF-assist illuminator |\n| AF ASSIST+CATCHLIGHT | AF-assist illuminator and catchlight |\n| OFF | None |\n\n\nIn some cases, this option can also be accessed via the FLASH FUNCTION\nSETTING menu.\n\n6\nThe\nShooting\nMenus\n\n153",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:14px'>FLASH SETTING</header>",
+                "markdown": "FLASH SETTING",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.7603,
+                    "y": 0.0284
+                },
+                {
+                    "x": 0.9182,
+                    "y": 0.0284
+                },
+                {
+                    "x": 0.9182,
+                    "y": 0.049
+                },
+                {
+                    "x": 0.7603,
+                    "y": 0.049
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='1' style='font-size:18px'>TTL-LOCK MODE</h1>",
+                "markdown": "# TTL-LOCK MODE",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1086,
+                    "y": 0.0723
+                },
+                {
+                    "x": 0.3371,
+                    "y": 0.0723
+                },
+                {
+                    "x": 0.3371,
+                    "y": 0.0955
+                },
+                {
+                    "x": 0.1086,
+                    "y": 0.0955
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='2' data-category='paragraph' style='font-size:20px'>Instead of adjusting flash level with each shot, TTL flash control<br>can be locked for consistent results across a series of photo-<br>graphs.</p>",
+                "markdown": "Instead of adjusting flash level with each shot, TTL flash control\ncan be locked for consistent results across a series of photo-\ngraphs.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1055,
+                    "y": 0.1035
+                },
+                {
+                    "x": 0.9198,
+                    "y": 0.1035
+                },
+                {
+                    "x": 0.9198,
+                    "y": 0.1801
+                },
+                {
+                    "x": 0.1055,
+                    "y": 0.1801
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='3' style='font-size:16px'><tr><td>Option</td><td>Description</td></tr><tr><td>LOCK WITH LAST FLASH</td><td>Flash output is locked at the value metered for the most recent photo.</td></tr><tr><td>LOCK WITH METERING FLASH</td><td>The camera emits a series of pre-flashes and locks flash output at the metered value.</td></tr></table>",
+                "markdown": "| Option | Description |\n| --- | --- |\n| LOCK WITH LAST FLASH | Flash output is locked at the value metered for the most recent photo. |\n| LOCK WITH METERING FLASH | The camera emits a series of pre-flashes and locks flash output at the metered value. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1107,
+                    "y": 0.1925
+                },
+                {
+                    "x": 0.9181,
+                    "y": 0.1925
+                },
+                {
+                    "x": 0.9181,
+                    "y": 0.3121
+                },
+                {
+                    "x": 0.1107,
+                    "y": 0.3121
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "list",
+            "content": {
+                "html": "<p id='4' data-category='list' style='font-size:14px'>To use TTL lock, assign TTL-LOCK to a camera control and then use<br>the control to enable or disable TTL lock (目目 252).<br>● Flash compensation can be adjusted while TTL lock is in effect.<br>● Selecting LOCK WITH LAST FLASH displays an error message if no<br>previously metered value exists.</p>",
+                "markdown": "- To use TTL lock, assign TTL-LOCK to a camera control and then use\n- the control to enable or disable TTL lock (目目 252).\n- ● Flash compensation can be adjusted while TTL lock is in effect.\n- ● Selecting LOCK WITH LAST FLASH displays an error message if no\n- previously metered value exists.\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1347,
+                    "y": 0.3245
+                },
+                {
+                    "x": 0.9148,
+                    "y": 0.3245
+                },
+                {
+                    "x": 0.9148,
+                    "y": 0.437
+                },
+                {
+                    "x": 0.1347,
+                    "y": 0.437
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='5' data-category='paragraph' style='font-size:16px'>LED LIGHT SETTING</p>",
+                "markdown": "LED LIGHT SETTING",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1079,
+                    "y": 0.4578
+                },
+                {
+                    "x": 0.3797,
+                    "y": 0.4578
+                },
+                {
+                    "x": 0.3797,
+                    "y": 0.48
+                },
+                {
+                    "x": 0.1079,
+                    "y": 0.48
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='6' data-category='paragraph' style='font-size:20px'>Choose whether to use the flash unit's LED video light (if avail-<br>able) as a catchlight or AF-assist illuminator when taking photos.</p>",
+                "markdown": "Choose whether to use the flash unit's LED video light (if avail-\nable) as a catchlight or AF-assist illuminator when taking photos.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1057,
+                    "y": 0.4895
+                },
+                {
+                    "x": 0.9177,
+                    "y": 0.4895
+                },
+                {
+                    "x": 0.9177,
+                    "y": 0.5409
+                },
+                {
+                    "x": 0.1057,
+                    "y": 0.5409
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='7' style='font-size:16px'><tr><td>Option</td><td>Role of LED video light in still photography</td></tr><tr><td>CATCHLIGHT</td><td>Catchlight</td></tr><tr><td>AF ASSIST</td><td>AF-assist illuminator</td></tr><tr><td>AF ASSIST+CATCHLIGHT</td><td>AF-assist illuminator and catchlight</td></tr><tr><td>OFF</td><td>None</td></tr></table>",
+                "markdown": "| Option | Role of LED video light in still photography |\n| --- | --- |\n| CATCHLIGHT | Catchlight |\n| AF ASSIST | AF-assist illuminator |\n| AF ASSIST+CATCHLIGHT | AF-assist illuminator and catchlight |\n| OFF | None |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1073,
+                    "y": 0.552
+                },
+                {
+                    "x": 0.9157,
+                    "y": 0.552
+                },
+                {
+                    "x": 0.9157,
+                    "y": 0.675
+                },
+                {
+                    "x": 0.1073,
+                    "y": 0.675
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='8' data-category='paragraph' style='font-size:14px'>In some cases, this option can also be accessed via the FLASH FUNCTION<br>SETTING menu.</p>",
+                "markdown": "In some cases, this option can also be accessed via the FLASH FUNCTION\nSETTING menu.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.124,
+                    "y": 0.6859
+                },
+                {
+                    "x": 0.9142,
+                    "y": 0.6859
+                },
+                {
+                    "x": 0.9142,
+                    "y": 0.7289
+                },
+                {
+                    "x": 0.124,
+                    "y": 0.7289
+                }
+            ],
+            "id": 8,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<br><footer id='9' style='font-size:22px'>6<br>The<br>Shooting<br>Menus</footer>",
+                "markdown": "6\nThe\nShooting\nMenus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9562,
+                    "y": 0.5387
+                },
+                {
+                    "x": 0.9835,
+                    "y": 0.5387
+                },
+                {
+                    "x": 0.9835,
+                    "y": 0.7323
+                },
+                {
+                    "x": 0.9562,
+                    "y": 0.7323
+                }
+            ],
+            "id": 9,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='10' style='font-size:20px'>153</footer>",
+                "markdown": "153",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.8622,
+                    "y": 0.957
+                },
+                {
+                    "x": 0.9172,
+                    "y": 0.957
+                },
+                {
+                    "x": 0.9172,
+                    "y": 0.9788
+                },
+                {
+                    "x": 0.8622,
+                    "y": 0.9788
+                }
+            ],
+            "id": 10,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

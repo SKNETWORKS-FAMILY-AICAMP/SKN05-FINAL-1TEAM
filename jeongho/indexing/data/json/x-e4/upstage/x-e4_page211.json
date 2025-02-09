@@ -1,0 +1,294 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:14px'>USER SETTING</header>\n<h1 id='1' style='font-size:18px'>SENSOR CLEANING</h1>\n<br><h1 id='2' style='font-size:18px'>Remove dust from the camera image sensor.</h1>\n<br><table id='3' style='font-size:16px'><tr><td>Option</td><td>Description</td></tr><tr><td>OK</td><td>Clean the sensor immediately.</td></tr><tr><td>WHEN SWITCHED ON</td><td>Sensor cleaning will be performed when the camera is turned on.</td></tr><tr><td>WHEN SWITCHED OFF</td><td>Sensor cleaning will be performed when the camera turns off (sensor cleaning is not however performed if the cam- era turns off in playback mode).</td></tr></table>\n<br><p id='4' data-category='paragraph' style='font-size:14px'>Dust that cannot be removed using sensor cleaning can be removed<br>using a blower (�� 313).</p>\n<p id='5' data-category='paragraph' style='font-size:18px'>SOUND & FLASH</p>\n\n<table id='7' style='font-size:16px'><tr><td colspan=\"2\">Options</td></tr><tr><td>ON</td><td>OFF</td></tr><br><caption id='6' style='font-size:20px'>Select OFF to disable the speaker, flash, illuminator, and self-tim-<br>er lamp in situations in which camera sounds and lights may be<br>unwelcome.</caption></table>\n<footer id='8' style='font-size:20px'>211</footer>\n<br><footer id='9' style='font-size:22px'>The<br>Setup<br>Menus</footer>",
+        "markdown": "USER SETTING\n\n# SENSOR CLEANING\n\n# Remove dust from the camera image sensor.\n\n| Option | Description |\n| --- | --- |\n| OK | Clean the sensor immediately. |\n| WHEN SWITCHED ON | Sensor cleaning will be performed when the camera is turned on. |\n| WHEN SWITCHED OFF | Sensor cleaning will be performed when the camera turns off (sensor cleaning is not however performed if the cam- era turns off in playback mode). |\n\n\nDust that cannot be removed using sensor cleaning can be removed\nusing a blower (�� 313).\n\nSOUND & FLASH\n\nSelect OFF to disable the speaker, flash, illuminator, and self-tim-\ner lamp in situations in which camera sounds and lights may be\nunwelcome.\n\n| Options | Options |\n| --- | --- |\n| ON | OFF |\n\n\n211\n\nThe\nSetup\nMenus",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:14px'>USER SETTING</header>",
+                "markdown": "USER SETTING",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.7752,
+                    "y": 0.0284
+                },
+                {
+                    "x": 0.9185,
+                    "y": 0.0284
+                },
+                {
+                    "x": 0.9185,
+                    "y": 0.0492
+                },
+                {
+                    "x": 0.7752,
+                    "y": 0.0492
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='1' style='font-size:18px'>SENSOR CLEANING</h1>",
+                "markdown": "# SENSOR CLEANING",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1063,
+                    "y": 0.0729
+                },
+                {
+                    "x": 0.3696,
+                    "y": 0.0729
+                },
+                {
+                    "x": 0.3696,
+                    "y": 0.0946
+                },
+                {
+                    "x": 0.1063,
+                    "y": 0.0946
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='2' style='font-size:18px'>Remove dust from the camera image sensor.</h1>",
+                "markdown": "# Remove dust from the camera image sensor.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1058,
+                    "y": 0.1047
+                },
+                {
+                    "x": 0.6731,
+                    "y": 0.1047
+                },
+                {
+                    "x": 0.6731,
+                    "y": 0.1288
+                },
+                {
+                    "x": 0.1058,
+                    "y": 0.1288
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='3' style='font-size:16px'><tr><td>Option</td><td>Description</td></tr><tr><td>OK</td><td>Clean the sensor immediately.</td></tr><tr><td>WHEN SWITCHED ON</td><td>Sensor cleaning will be performed when the camera is turned on.</td></tr><tr><td>WHEN SWITCHED OFF</td><td>Sensor cleaning will be performed when the camera turns off (sensor cleaning is not however performed if the cam- era turns off in playback mode).</td></tr></table>",
+                "markdown": "| Option | Description |\n| --- | --- |\n| OK | Clean the sensor immediately. |\n| WHEN SWITCHED ON | Sensor cleaning will be performed when the camera is turned on. |\n| WHEN SWITCHED OFF | Sensor cleaning will be performed when the camera turns off (sensor cleaning is not however performed if the cam- era turns off in playback mode). |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1091,
+                    "y": 0.1402
+                },
+                {
+                    "x": 0.9181,
+                    "y": 0.1402
+                },
+                {
+                    "x": 0.9181,
+                    "y": 0.3099
+                },
+                {
+                    "x": 0.1091,
+                    "y": 0.3099
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='4' data-category='paragraph' style='font-size:14px'>Dust that cannot be removed using sensor cleaning can be removed<br>using a blower (�� 313).</p>",
+                "markdown": "Dust that cannot be removed using sensor cleaning can be removed\nusing a blower (�� 313).",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1109,
+                    "y": 0.3193
+                },
+                {
+                    "x": 0.9166,
+                    "y": 0.3193
+                },
+                {
+                    "x": 0.9166,
+                    "y": 0.3643
+                },
+                {
+                    "x": 0.1109,
+                    "y": 0.3643
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='5' data-category='paragraph' style='font-size:18px'>SOUND & FLASH</p>",
+                "markdown": "SOUND & FLASH",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.106,
+                    "y": 0.3845
+                },
+                {
+                    "x": 0.3362,
+                    "y": 0.3845
+                },
+                {
+                    "x": 0.3362,
+                    "y": 0.4065
+                },
+                {
+                    "x": 0.106,
+                    "y": 0.4065
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='6' data-category='paragraph' style='font-size:20px'>Select OFF to disable the speaker, flash, illuminator, and self-tim-<br>er lamp in situations in which camera sounds and lights may be<br>unwelcome.</p>",
+                "markdown": "Select OFF to disable the speaker, flash, illuminator, and self-tim-\ner lamp in situations in which camera sounds and lights may be\nunwelcome.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1072,
+                    "y": 0.4157
+                },
+                {
+                    "x": 0.919,
+                    "y": 0.4157
+                },
+                {
+                    "x": 0.919,
+                    "y": 0.4907
+                },
+                {
+                    "x": 0.1072,
+                    "y": 0.4907
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='7' style='font-size:16px'><tr><td colspan=\"2\">Options</td></tr><tr><td>ON</td><td>OFF</td></tr></table>",
+                "markdown": "| Options | Options |\n| --- | --- |\n| ON | OFF |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.107,
+                    "y": 0.5068
+                },
+                {
+                    "x": 0.9146,
+                    "y": 0.5068
+                },
+                {
+                    "x": 0.9146,
+                    "y": 0.5609
+                },
+                {
+                    "x": 0.107,
+                    "y": 0.5609
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='8' style='font-size:20px'>211</footer>",
+                "markdown": "211",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.8597,
+                    "y": 0.9555
+                },
+                {
+                    "x": 0.916,
+                    "y": 0.9555
+                },
+                {
+                    "x": 0.916,
+                    "y": 0.9801
+                },
+                {
+                    "x": 0.8597,
+                    "y": 0.9801
+                }
+            ],
+            "id": 8,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<br><footer id='9' style='font-size:22px'>The<br>Setup<br>Menus</footer>",
+                "markdown": "The\nSetup\nMenus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9553,
+                    "y": 0.5039
+                },
+                {
+                    "x": 0.9895,
+                    "y": 0.5039
+                },
+                {
+                    "x": 0.9895,
+                    "y": 0.6796
+                },
+                {
+                    "x": 0.9553,
+                    "y": 0.6796
+                }
+            ],
+            "id": 9,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "# FOCUS BKT SETTING\n\nChoose from **AUTO** and **MANUAL** focus bracketing modes.\n\n## MANUAL\n\nIn **MANUAL** mode, you choose the following:\n\n| Option   | Description                                           |\n|----------|-------------------------------------------------------|\n| FRAMES   | Choose the number of shots.                           |\n| STEP     | Choose the amount focus changes with each shot.       |\n| INTERVAL | Choose the interval between shots.                    |\n\n### Focus and FRAMES/STEP\n\nThe relation between focus and the options chosen for **FRAMES** and **STEP** is shown in the illustration.\n\n!Focus and Frames/Step Illustration\n\n- Focus proceeds from the starting position toward infinity.\n- Small **STEP** values translate to small changes in focus, larger values to larger changes.\n- Regardless of the option chosen for **FRAMES**, shooting ends when focus reaches infinity.",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "FOCUS BKT SETTING",
+                    "md": "# FOCUS BKT SETTING"
+                },
+                {
+                    "type": "text",
+                    "value": "Choose from **AUTO** and **MANUAL** focus bracketing modes.",
+                    "md": "Choose from **AUTO** and **MANUAL** focus bracketing modes."
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "MANUAL",
+                    "md": "## MANUAL"
+                },
+                {
+                    "type": "text",
+                    "value": "In **MANUAL** mode, you choose the following:",
+                    "md": "In **MANUAL** mode, you choose the following:"
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Option",
+                            "Description"
+                        ],
+                        [
+                            "FRAMES",
+                            "Choose the number of shots."
+                        ],
+                        [
+                            "STEP",
+                            "Choose the amount focus changes with each shot."
+                        ],
+                        [
+                            "INTERVAL",
+                            "Choose the interval between shots."
+                        ]
+                    ],
+                    "md": "| Option   | Description                                           |\n|----------|-------------------------------------------------------|\n| FRAMES   | Choose the number of shots.                           |\n| STEP     | Choose the amount focus changes with each shot.       |\n| INTERVAL | Choose the interval between shots.                    |",
+                    "isPerfectTable": true,
+                    "csv": "\"Option\",\"Description\"\n\"FRAMES\",\"Choose the number of shots.\"\n\"STEP\",\"Choose the amount focus changes with each shot.\"\n\"INTERVAL\",\"Choose the interval between shots.\""
+                },
+                {
+                    "type": "heading",
+                    "lvl": 3,
+                    "value": "Focus and FRAMES/STEP",
+                    "md": "### Focus and FRAMES/STEP"
+                },
+                {
+                    "type": "text",
+                    "value": "The relation between focus and the options chosen for **FRAMES** and **STEP** is shown in the illustration.\n\n!Focus and Frames/Step Illustration\n\n- Focus proceeds from the starting position toward infinity.\n- Small **STEP** values translate to small changes in focus, larger values to larger changes.\n- Regardless of the option chosen for **FRAMES**, shooting ends when focus reaches infinity.",
+                    "md": "The relation between focus and the options chosen for **FRAMES** and **STEP** is shown in the illustration.\n\n!Focus and Frames/Step Illustration\n\n- Focus proceeds from the starting position toward infinity.\n- Small **STEP** values translate to small changes in focus, larger values to larger changes.\n- Regardless of the option chosen for **FRAMES**, shooting ends when focus reaches infinity."
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 839.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "70137466-bdc4-44e7-acf0-0d33c72d6d27",
+    "file_path": "../data/raw_data/x100v/x100v_split/x100v_page163.pdf"
+}

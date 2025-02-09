@@ -1,0 +1,350 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:22px'>Playback<br>and<br>the<br>Playback<br>Menu</header>\n<br><header id='1' style='font-size:14px'>7</header>\n<br><h1 id='2' style='font-size:16px'>COPY</h1>\n<br><p id='3' data-category='paragraph' style='font-size:18px'>Copy pictures between a card in the first slot, a card in the sec-<br>ond slot, and an SSD connected to the USB connector.</p>\n<br><p id='4' data-category='list' style='font-size:18px'>1 Select COPY in the playback menu.</p>\n<p id='5' data-category='list' style='font-size:22px'>2 Highlight one of the following options.</p>\n<table id='6' style='font-size:14px'><tr><td>Option</td><td>Description</td></tr><tr><td>SSD → SLOT1</td><td>Copy pictures from the SSD to the card in the first slot.</td></tr><tr><td>SSD → SLOT2</td><td>Copy pictures from the SSD to the card in the second slot.</td></tr><tr><td>SLOT1 → SSD</td><td>Copy pictures from the card in the first slot to the SSD.</td></tr><tr><td>SLOT1 → SLOT2</td><td>Copy pictures from the card in the first slot to the card in the second slot.</td></tr><tr><td>SLOT2 → SSD</td><td>Copy pictures from the card in the second slot to the SSD.</td></tr><tr><td>SLOT2 → SLOT1</td><td>Copy pictures from the card in the second slot to the card in the first slot.</td></tr></table>\n<br><p id='7' data-category='list' style='font-size:22px'>3 Press the focus stick (focus lever) right.</p>\n<br><p id='8' data-category='list' style='font-size:20px'>4 Highlight one of the following options and press MENU/OK.</p>\n<br><table id='9' style='font-size:16px'><tr><td>Option</td><td>Description</td></tr><tr><td>FRAME</td><td>Copy selected pictures. Press the focus stick left or right to view pictures and press MENU/OK to copy the current picture.</td></tr><tr><td>ALL FRAMES</td><td>Copy all pictures.</td></tr></table>\n<p id='10' data-category='list' style='font-size:14px'>● Copying ends when the destination is full.<br>● If you attempt to copy a file over 4 GB in size to a memory card with<br>a capacity of 32 GB or less, copying will end and the file will not be<br>copied.</p>\n<footer id='11' style='font-size:20px'>232</footer>",
+        "markdown": "Playback\nand\nthe\nPlayback\nMenu\n\n7\n\n# COPY\n\nCopy pictures between a card in the first slot, a card in the sec-\nond slot, and an SSD connected to the USB connector.\n\n- 1 Select COPY in the playback menu.\n\n\n- 2 Highlight one of the following options.\n\n\n| Option | Description |\n| --- | --- |\n| SSD → SLOT1 | Copy pictures from the SSD to the card in the first slot. |\n| SSD → SLOT2 | Copy pictures from the SSD to the card in the second slot. |\n| SLOT1 → SSD | Copy pictures from the card in the first slot to the SSD. |\n| SLOT1 → SLOT2 | Copy pictures from the card in the first slot to the card in the second slot. |\n| SLOT2 → SSD | Copy pictures from the card in the second slot to the SSD. |\n| SLOT2 → SLOT1 | Copy pictures from the card in the second slot to the card in the first slot. |\n\n\n- 3 Press the focus stick (focus lever) right.\n\n\n- 4 Highlight one of the following options and press MENU/OK.\n\n\n| Option | Description |\n| --- | --- |\n| FRAME | Copy selected pictures. Press the focus stick left or right to view pictures and press MENU/OK to copy the current picture. |\n| ALL FRAMES | Copy all pictures. |\n\n\n- ● Copying ends when the destination is full.\n- ● If you attempt to copy a file over 4 GB in size to a memory card with\n- a capacity of 32 GB or less, copying will end and the file will not be\n- copied.\n\n\n232",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:22px'>Playback<br>and<br>the<br>Playback<br>Menu</header>",
+                "markdown": "Playback\nand\nthe\nPlayback\nMenu",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0168,
+                    "y": 0.3387
+                },
+                {
+                    "x": 0.0429,
+                    "y": 0.3387
+                },
+                {
+                    "x": 0.0429,
+                    "y": 0.5954
+                },
+                {
+                    "x": 0.0168,
+                    "y": 0.5954
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "header",
+            "content": {
+                "html": "<br><header id='1' style='font-size:14px'>7</header>",
+                "markdown": "7",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0254,
+                    "y": 0.5968
+                },
+                {
+                    "x": 0.0445,
+                    "y": 0.5968
+                },
+                {
+                    "x": 0.0445,
+                    "y": 0.618
+                },
+                {
+                    "x": 0.0254,
+                    "y": 0.618
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='2' style='font-size:16px'>COPY</h1>",
+                "markdown": "# COPY",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0813,
+                    "y": 0.0722
+                },
+                {
+                    "x": 0.1634,
+                    "y": 0.0722
+                },
+                {
+                    "x": 0.1634,
+                    "y": 0.0957
+                },
+                {
+                    "x": 0.0813,
+                    "y": 0.0957
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='3' data-category='paragraph' style='font-size:18px'>Copy pictures between a card in the first slot, a card in the sec-<br>ond slot, and an SSD connected to the USB connector.</p>",
+                "markdown": "Copy pictures between a card in the first slot, a card in the sec-\nond slot, and an SSD connected to the USB connector.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0802,
+                    "y": 0.1051
+                },
+                {
+                    "x": 0.8907,
+                    "y": 0.1051
+                },
+                {
+                    "x": 0.8907,
+                    "y": 0.1544
+                },
+                {
+                    "x": 0.0802,
+                    "y": 0.1544
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "list",
+            "content": {
+                "html": "<br><p id='4' data-category='list' style='font-size:18px'>1 Select COPY in the playback menu.</p>",
+                "markdown": "- 1 Select COPY in the playback menu.\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.093,
+                    "y": 0.1678
+                },
+                {
+                    "x": 0.5763,
+                    "y": 0.1678
+                },
+                {
+                    "x": 0.5763,
+                    "y": 0.1925
+                },
+                {
+                    "x": 0.093,
+                    "y": 0.1925
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "list",
+            "content": {
+                "html": "<p id='5' data-category='list' style='font-size:22px'>2 Highlight one of the following options.</p>",
+                "markdown": "- 2 Highlight one of the following options.\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0951,
+                    "y": 0.2072
+                },
+                {
+                    "x": 0.6227,
+                    "y": 0.2072
+                },
+                {
+                    "x": 0.6227,
+                    "y": 0.2319
+                },
+                {
+                    "x": 0.0951,
+                    "y": 0.2319
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='6' style='font-size:14px'><tr><td>Option</td><td>Description</td></tr><tr><td>SSD → SLOT1</td><td>Copy pictures from the SSD to the card in the first slot.</td></tr><tr><td>SSD → SLOT2</td><td>Copy pictures from the SSD to the card in the second slot.</td></tr><tr><td>SLOT1 → SSD</td><td>Copy pictures from the card in the first slot to the SSD.</td></tr><tr><td>SLOT1 → SLOT2</td><td>Copy pictures from the card in the first slot to the card in the second slot.</td></tr><tr><td>SLOT2 → SSD</td><td>Copy pictures from the card in the second slot to the SSD.</td></tr><tr><td>SLOT2 → SLOT1</td><td>Copy pictures from the card in the second slot to the card in the first slot.</td></tr></table>",
+                "markdown": "| Option | Description |\n| --- | --- |\n| SSD → SLOT1 | Copy pictures from the SSD to the card in the first slot. |\n| SSD → SLOT2 | Copy pictures from the SSD to the card in the second slot. |\n| SLOT1 → SSD | Copy pictures from the card in the first slot to the SSD. |\n| SLOT1 → SLOT2 | Copy pictures from the card in the first slot to the card in the second slot. |\n| SLOT2 → SSD | Copy pictures from the card in the second slot to the SSD. |\n| SLOT2 → SLOT1 | Copy pictures from the card in the second slot to the card in the first slot. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1321,
+                    "y": 0.2456
+                },
+                {
+                    "x": 0.8933,
+                    "y": 0.2456
+                },
+                {
+                    "x": 0.8933,
+                    "y": 0.4571
+                },
+                {
+                    "x": 0.1321,
+                    "y": 0.4571
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "list",
+            "content": {
+                "html": "<br><p id='7' data-category='list' style='font-size:22px'>3 Press the focus stick (focus lever) right.</p>",
+                "markdown": "- 3 Press the focus stick (focus lever) right.\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0979,
+                    "y": 0.4691
+                },
+                {
+                    "x": 0.6181,
+                    "y": 0.4691
+                },
+                {
+                    "x": 0.6181,
+                    "y": 0.4952
+                },
+                {
+                    "x": 0.0979,
+                    "y": 0.4952
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "list",
+            "content": {
+                "html": "<br><p id='8' data-category='list' style='font-size:20px'>4 Highlight one of the following options and press MENU/OK.</p>",
+                "markdown": "- 4 Highlight one of the following options and press MENU/OK.\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0974,
+                    "y": 0.5081
+                },
+                {
+                    "x": 0.8561,
+                    "y": 0.5081
+                },
+                {
+                    "x": 0.8561,
+                    "y": 0.5341
+                },
+                {
+                    "x": 0.0974,
+                    "y": 0.5341
+                }
+            ],
+            "id": 8,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='9' style='font-size:16px'><tr><td>Option</td><td>Description</td></tr><tr><td>FRAME</td><td>Copy selected pictures. Press the focus stick left or right to view pictures and press MENU/OK to copy the current picture.</td></tr><tr><td>ALL FRAMES</td><td>Copy all pictures.</td></tr></table>",
+                "markdown": "| Option | Description |\n| --- | --- |\n| FRAME | Copy selected pictures. Press the focus stick left or right to view pictures and press MENU/OK to copy the current picture. |\n| ALL FRAMES | Copy all pictures. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1304,
+                    "y": 0.5451
+                },
+                {
+                    "x": 0.893,
+                    "y": 0.5451
+                },
+                {
+                    "x": 0.893,
+                    "y": 0.6424
+                },
+                {
+                    "x": 0.1304,
+                    "y": 0.6424
+                }
+            ],
+            "id": 9,
+            "page": 1
+        },
+        {
+            "category": "list",
+            "content": {
+                "html": "<p id='10' data-category='list' style='font-size:14px'>● Copying ends when the destination is full.<br>● If you attempt to copy a file over 4 GB in size to a memory card with<br>a capacity of 32 GB or less, copying will end and the file will not be<br>copied.</p>",
+                "markdown": "- ● Copying ends when the destination is full.\n- ● If you attempt to copy a file over 4 GB in size to a memory card with\n- a capacity of 32 GB or less, copying will end and the file will not be\n- copied.\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0953,
+                    "y": 0.6612
+                },
+                {
+                    "x": 0.8877,
+                    "y": 0.6612
+                },
+                {
+                    "x": 0.8877,
+                    "y": 0.7511
+                },
+                {
+                    "x": 0.0953,
+                    "y": 0.7511
+                }
+            ],
+            "id": 10,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='11' style='font-size:20px'>232</footer>",
+                "markdown": "232",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0832,
+                    "y": 0.9564
+                },
+                {
+                    "x": 0.1392,
+                    "y": 0.9564
+                },
+                {
+                    "x": 0.1392,
+                    "y": 0.9796
+                },
+                {
+                    "x": 0.0832,
+                    "y": 0.9796
+                }
+            ],
+            "id": 11,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

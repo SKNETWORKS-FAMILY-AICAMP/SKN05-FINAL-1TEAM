@@ -1,0 +1,350 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<h1 id='0' style='font-size:14px'>REC START/STOP VOLUME</h1>\n\n<br><table id='2' style='font-size:16px'><tr><td colspan=\"4\">Options</td></tr><tr><td>1) (high)</td><td>(medium)</td><td>(low)</td><td>OFF (mute)</td></tr><br><caption id='1' style='font-size:16px'>Choose the volume at the start and end of movie recording.</caption></table>\n<br><h1 id='3' style='font-size:16px'>MS ELECTRONIC SHUTTER VOLUME</h1>\n\n<table id='5' style='font-size:16px'><tr><td colspan=\"4\">Options</td></tr><tr><td>11 (high)</td><td>(medium)</td><td>(low)</td><td>OFF (mute)</td></tr><br><caption id='4' style='font-size:20px'>Adjust the volume of the sounds produced by the mechanical<br>shutter.</caption></table>\n<br><p id='6' data-category='paragraph' style='font-size:16px'>MS ELECTRONIC SHUTTER SOUND</p>\n\n<br><table id='8' style='font-size:14px'><tr><td colspan=\"3\">Options</td></tr><tr><td>♪ 1SOUND 1</td><td>♪2 SOUND 2</td><td>♪ 3 SOUND 3</td></tr><br><caption id='7' style='font-size:18px'>Choose the sound made by the mechanical shutter.</caption></table>\n<header id='9' style='font-size:22px'>The<br>Setup<br>Menus</header>\n<p id='10' data-category='paragraph' style='font-size:14px'>9</p>\n<footer id='11' style='font-size:20px'>276</footer>",
+        "markdown": "# REC START/STOP VOLUME\n\nChoose the volume at the start and end of movie recording.\n\n| Options | Options | Options | Options |\n| --- | --- | --- | --- |\n| 1) (high) | (medium) | (low) | OFF (mute) |\n\n\n# MS ELECTRONIC SHUTTER VOLUME\n\nAdjust the volume of the sounds produced by the mechanical\nshutter.\n\n| Options | Options | Options | Options |\n| --- | --- | --- | --- |\n| 11 (high) | (medium) | (low) | OFF (mute) |\n\n\nMS ELECTRONIC SHUTTER SOUND\n\nChoose the sound made by the mechanical shutter.\n\n| Options | Options | Options |\n| --- | --- | --- |\n| ♪ 1SOUND 1 | ♪2 SOUND 2 | ♪ 3 SOUND 3 |\n\n\nThe\nSetup\nMenus\n\n9\n\n276",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='0' style='font-size:14px'>REC START/STOP VOLUME</h1>",
+                "markdown": "# REC START/STOP VOLUME",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0837,
+                    "y": 0.0727
+                },
+                {
+                    "x": 0.4744,
+                    "y": 0.0727
+                },
+                {
+                    "x": 0.4744,
+                    "y": 0.0949
+                },
+                {
+                    "x": 0.0837,
+                    "y": 0.0949
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='1' data-category='paragraph' style='font-size:16px'>Choose the volume at the start and end of movie recording.</p>",
+                "markdown": "Choose the volume at the start and end of movie recording.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0807,
+                    "y": 0.1045
+                },
+                {
+                    "x": 0.8365,
+                    "y": 0.1045
+                },
+                {
+                    "x": 0.8365,
+                    "y": 0.1297
+                },
+                {
+                    "x": 0.0807,
+                    "y": 0.1297
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='2' style='font-size:16px'><tr><td colspan=\"4\">Options</td></tr><tr><td>1) (high)</td><td>(medium)</td><td>(low)</td><td>OFF (mute)</td></tr></table>",
+                "markdown": "| Options | Options | Options | Options |\n| --- | --- | --- | --- |\n| 1) (high) | (medium) | (low) | OFF (mute) |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0836,
+                    "y": 0.1424
+                },
+                {
+                    "x": 0.89,
+                    "y": 0.1424
+                },
+                {
+                    "x": 0.89,
+                    "y": 0.1942
+                },
+                {
+                    "x": 0.0836,
+                    "y": 0.1942
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='3' style='font-size:16px'>MS ELECTRONIC SHUTTER VOLUME</h1>",
+                "markdown": "# MS ELECTRONIC SHUTTER VOLUME",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.082,
+                    "y": 0.209
+                },
+                {
+                    "x": 0.5535,
+                    "y": 0.209
+                },
+                {
+                    "x": 0.5535,
+                    "y": 0.2321
+                },
+                {
+                    "x": 0.082,
+                    "y": 0.2321
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='4' data-category='paragraph' style='font-size:20px'>Adjust the volume of the sounds produced by the mechanical<br>shutter.</p>",
+                "markdown": "Adjust the volume of the sounds produced by the mechanical\nshutter.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0807,
+                    "y": 0.2413
+                },
+                {
+                    "x": 0.8915,
+                    "y": 0.2413
+                },
+                {
+                    "x": 0.8915,
+                    "y": 0.2897
+                },
+                {
+                    "x": 0.0807,
+                    "y": 0.2897
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='5' style='font-size:16px'><tr><td colspan=\"4\">Options</td></tr><tr><td>11 (high)</td><td>(medium)</td><td>(low)</td><td>OFF (mute)</td></tr></table>",
+                "markdown": "| Options | Options | Options | Options |\n| --- | --- | --- | --- |\n| 11 (high) | (medium) | (low) | OFF (mute) |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.086,
+                    "y": 0.3041
+                },
+                {
+                    "x": 0.8855,
+                    "y": 0.3041
+                },
+                {
+                    "x": 0.8855,
+                    "y": 0.3584
+                },
+                {
+                    "x": 0.086,
+                    "y": 0.3584
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='6' data-category='paragraph' style='font-size:16px'>MS ELECTRONIC SHUTTER SOUND</p>",
+                "markdown": "MS ELECTRONIC SHUTTER SOUND",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0821,
+                    "y": 0.372
+                },
+                {
+                    "x": 0.5358,
+                    "y": 0.372
+                },
+                {
+                    "x": 0.5358,
+                    "y": 0.395
+                },
+                {
+                    "x": 0.0821,
+                    "y": 0.395
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='7' data-category='paragraph' style='font-size:18px'>Choose the sound made by the mechanical shutter.</p>",
+                "markdown": "Choose the sound made by the mechanical shutter.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0807,
+                    "y": 0.4036
+                },
+                {
+                    "x": 0.734,
+                    "y": 0.4036
+                },
+                {
+                    "x": 0.734,
+                    "y": 0.4283
+                },
+                {
+                    "x": 0.0807,
+                    "y": 0.4283
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='8' style='font-size:14px'><tr><td colspan=\"3\">Options</td></tr><tr><td>♪ 1SOUND 1</td><td>♪2 SOUND 2</td><td>♪ 3 SOUND 3</td></tr></table>",
+                "markdown": "| Options | Options | Options |\n| --- | --- | --- |\n| ♪ 1SOUND 1 | ♪2 SOUND 2 | ♪ 3 SOUND 3 |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1098,
+                    "y": 0.4407
+                },
+                {
+                    "x": 0.8835,
+                    "y": 0.4407
+                },
+                {
+                    "x": 0.8835,
+                    "y": 0.4915
+                },
+                {
+                    "x": 0.1098,
+                    "y": 0.4915
+                }
+            ],
+            "id": 8,
+            "page": 1
+        },
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='9' style='font-size:22px'>The<br>Setup<br>Menus</header>",
+                "markdown": "The\nSetup\nMenus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0191,
+                    "y": 0.5705
+                },
+                {
+                    "x": 0.0406,
+                    "y": 0.5705
+                },
+                {
+                    "x": 0.0406,
+                    "y": 0.6987
+                },
+                {
+                    "x": 0.0191,
+                    "y": 0.6987
+                }
+            ],
+            "id": 9,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='10' data-category='paragraph' style='font-size:14px'>9</p>",
+                "markdown": "9",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0278,
+                    "y": 0.7187
+                },
+                {
+                    "x": 0.0417,
+                    "y": 0.7187
+                },
+                {
+                    "x": 0.0417,
+                    "y": 0.7348
+                },
+                {
+                    "x": 0.0278,
+                    "y": 0.7348
+                }
+            ],
+            "id": 10,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='11' style='font-size:20px'>276</footer>",
+                "markdown": "276",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0824,
+                    "y": 0.9558
+                },
+                {
+                    "x": 0.1405,
+                    "y": 0.9558
+                },
+                {
+                    "x": 0.1405,
+                    "y": 0.9801
+                },
+                {
+                    "x": 0.0824,
+                    "y": 0.9801
+                }
+            ],
+            "id": 11,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

@@ -1,0 +1,210 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<p id='0' data-category='paragraph' style='font-size:18px'>Specifications</p>\n<h1 id='1' style='font-size:18px'>Power supply/other</h1>\n<br><table id='2' style='font-size:14px'><tr><td>Camera size (W xHx D)</td><td>152.4 mm X 117.4 mm X 98.6 mm (46.5 mm excluding projections, measured at thinnest part)/6.00 in. X 4.62 in. X 3.88 in. (1.83 in.)</td></tr><tr><td>Camera weight</td><td>Approx. 949 g/33.5 OZ., excluding battery, accessories, and memory card</td></tr><tr><td>Shooting weight</td><td>Approx. 1030 g/36.3 OZ., including battery and memory card</td></tr><tr><td>Operating conditions</td><td>● Temperature: -10 °C to +40 °C/+14 °F to + 104 °F (+5 °C to +40 °C/+41 °F to +104 oF when battery is charging) ● Humidity: 10% to 80% (no condensation)</td></tr></table>\n<br><p id='3' data-category='paragraph' style='font-size:14px'>Wireless transmitter</p>\n<br><table id='4' style='font-size:16px'><tr><td colspan=\"2\">Wireless LAN</td></tr><tr><td>Standards</td><td>IEEE 802.11a/b/g/n/ac (standard wireless protocol)</td></tr><tr><td>Operating frequency (center frequency)</td><td>● Israel, Indonesia : 2,412 MHz-2,462 MHz (11 channels) ● USA, Canada, Brazil, China, India, Korea, Malaysia : 2,412 MHz-2,462 MHz (11 channels) : 5,180 MHz-5,320 MHz (W52, W53) : 5,745 MHz-5,825 MHz (UNII-3) ● European Union, Japan, United Kingdom, Australia, Norway, New zealand, Turkey, Hong Kong, Philippines, Vietnam, Singapore, Thailand, UAE, Russia, Taiwan, Saudi Arabia, Qatar, Bahrain, Oman, Egypt, Iran, Kuwait, Lebanon, Uzbekistan : 2,412 MHz-2,462 MHz (11 channels) : 5,180 MHz-5,320 MHz (W52, W53) : 5,500 MHz-5,700 MHz (W56)</td></tr><tr><td>Access protocols</td><td>Infrastructure</td></tr><tr><td colspan=\"2\">Bluetooth�</td></tr><tr><td>Standards</td><td>Bluetooth version 4.2 (Bluetooth Low Energy)</td></tr><tr><td colspan=\"2\">Operating frequency 2,402 MHz-2,480 MHz (center frequency)</td></tr></table>\n<br><footer id='5' style='font-size:22px'>Technical<br>Notes<br>12</footer>\n<footer id='6' style='font-size:20px'>467</footer>",
+        "markdown": "Specifications\n\n# Power supply/other\n\n| Camera size (W xHx D) | 152.4 mm X 117.4 mm X 98.6 mm (46.5 mm excluding projections, measured at thinnest part)/6.00 in. X 4.62 in. X 3.88 in. (1.83 in.) |\n| --- | --- |\n| Camera weight | Approx. 949 g/33.5 OZ., excluding battery, accessories, and memory card |\n| Shooting weight | Approx. 1030 g/36.3 OZ., including battery and memory card |\n| Operating conditions | ● Temperature: -10 °C to +40 °C/+14 °F to + 104 °F (+5 °C to +40 °C/+41 °F to +104 oF when battery is charging) ● Humidity: 10% to 80% (no condensation) |\n\n\nWireless transmitter\n\n| Wireless LAN | Wireless LAN |\n| --- | --- |\n| Standards | IEEE 802.11a/b/g/n/ac (standard wireless protocol) |\n| Operating frequency (center frequency) | ● Israel, Indonesia : 2,412 MHz-2,462 MHz (11 channels) ● USA, Canada, Brazil, China, India, Korea, Malaysia : 2,412 MHz-2,462 MHz (11 channels) : 5,180 MHz-5,320 MHz (W52, W53) : 5,745 MHz-5,825 MHz (UNII-3) ● European Union, Japan, United Kingdom, Australia, Norway, New zealand, Turkey, Hong Kong, Philippines, Vietnam, Singapore, Thailand, UAE, Russia, Taiwan, Saudi Arabia, Qatar, Bahrain, Oman, Egypt, Iran, Kuwait, Lebanon, Uzbekistan : 2,412 MHz-2,462 MHz (11 channels) : 5,180 MHz-5,320 MHz (W52, W53) : 5,500 MHz-5,700 MHz (W56) |\n| Access protocols | Infrastructure |\n| Bluetooth� | Bluetooth� |\n| Standards | Bluetooth version 4.2 (Bluetooth Low Energy) |\n| Operating frequency 2,402 MHz-2,480 MHz (center frequency) | Operating frequency 2,402 MHz-2,480 MHz (center frequency) |\n\n\nTechnical\nNotes\n12\n\n467",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='0' data-category='paragraph' style='font-size:18px'>Specifications</p>",
+                "markdown": "Specifications",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.7777,
+                    "y": 0.0295
+                },
+                {
+                    "x": 0.9177,
+                    "y": 0.0295
+                },
+                {
+                    "x": 0.9177,
+                    "y": 0.0494
+                },
+                {
+                    "x": 0.7777,
+                    "y": 0.0494
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='1' style='font-size:18px'>Power supply/other</h1>",
+                "markdown": "# Power supply/other",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1078,
+                    "y": 0.0735
+                },
+                {
+                    "x": 0.3002,
+                    "y": 0.0735
+                },
+                {
+                    "x": 0.3002,
+                    "y": 0.0933
+                },
+                {
+                    "x": 0.1078,
+                    "y": 0.0933
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='2' style='font-size:14px'><tr><td>Camera size (W xHx D)</td><td>152.4 mm X 117.4 mm X 98.6 mm (46.5 mm excluding projections, measured at thinnest part)/6.00 in. X 4.62 in. X 3.88 in. (1.83 in.)</td></tr><tr><td>Camera weight</td><td>Approx. 949 g/33.5 OZ., excluding battery, accessories, and memory card</td></tr><tr><td>Shooting weight</td><td>Approx. 1030 g/36.3 OZ., including battery and memory card</td></tr><tr><td>Operating conditions</td><td>● Temperature: -10 °C to +40 °C/+14 °F to + 104 °F (+5 °C to +40 °C/+41 °F to +104 oF when battery is charging) ● Humidity: 10% to 80% (no condensation)</td></tr></table>",
+                "markdown": "| Camera size (W xHx D) | 152.4 mm X 117.4 mm X 98.6 mm (46.5 mm excluding projections, measured at thinnest part)/6.00 in. X 4.62 in. X 3.88 in. (1.83 in.) |\n| --- | --- |\n| Camera weight | Approx. 949 g/33.5 OZ., excluding battery, accessories, and memory card |\n| Shooting weight | Approx. 1030 g/36.3 OZ., including battery and memory card |\n| Operating conditions | ● Temperature: -10 °C to +40 °C/+14 °F to + 104 °F (+5 °C to +40 °C/+41 °F to +104 oF when battery is charging) ● Humidity: 10% to 80% (no condensation) |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1047,
+                    "y": 0.0811
+                },
+                {
+                    "x": 0.9199,
+                    "y": 0.0811
+                },
+                {
+                    "x": 0.9199,
+                    "y": 0.2823
+                },
+                {
+                    "x": 0.1047,
+                    "y": 0.2823
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='3' data-category='paragraph' style='font-size:14px'>Wireless transmitter</p>",
+                "markdown": "Wireless transmitter",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.108,
+                    "y": 0.2954
+                },
+                {
+                    "x": 0.3084,
+                    "y": 0.2954
+                },
+                {
+                    "x": 0.3084,
+                    "y": 0.3151
+                },
+                {
+                    "x": 0.108,
+                    "y": 0.3151
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='4' style='font-size:16px'><tr><td colspan=\"2\">Wireless LAN</td></tr><tr><td>Standards</td><td>IEEE 802.11a/b/g/n/ac (standard wireless protocol)</td></tr><tr><td>Operating frequency (center frequency)</td><td>● Israel, Indonesia : 2,412 MHz-2,462 MHz (11 channels) ● USA, Canada, Brazil, China, India, Korea, Malaysia : 2,412 MHz-2,462 MHz (11 channels) : 5,180 MHz-5,320 MHz (W52, W53) : 5,745 MHz-5,825 MHz (UNII-3) ● European Union, Japan, United Kingdom, Australia, Norway, New zealand, Turkey, Hong Kong, Philippines, Vietnam, Singapore, Thailand, UAE, Russia, Taiwan, Saudi Arabia, Qatar, Bahrain, Oman, Egypt, Iran, Kuwait, Lebanon, Uzbekistan : 2,412 MHz-2,462 MHz (11 channels) : 5,180 MHz-5,320 MHz (W52, W53) : 5,500 MHz-5,700 MHz (W56)</td></tr><tr><td>Access protocols</td><td>Infrastructure</td></tr><tr><td colspan=\"2\">Bluetooth�</td></tr><tr><td>Standards</td><td>Bluetooth version 4.2 (Bluetooth Low Energy)</td></tr><tr><td colspan=\"2\">Operating frequency 2,402 MHz-2,480 MHz (center frequency)</td></tr></table>",
+                "markdown": "| Wireless LAN | Wireless LAN |\n| --- | --- |\n| Standards | IEEE 802.11a/b/g/n/ac (standard wireless protocol) |\n| Operating frequency (center frequency) | ● Israel, Indonesia : 2,412 MHz-2,462 MHz (11 channels) ● USA, Canada, Brazil, China, India, Korea, Malaysia : 2,412 MHz-2,462 MHz (11 channels) : 5,180 MHz-5,320 MHz (W52, W53) : 5,745 MHz-5,825 MHz (UNII-3) ● European Union, Japan, United Kingdom, Australia, Norway, New zealand, Turkey, Hong Kong, Philippines, Vietnam, Singapore, Thailand, UAE, Russia, Taiwan, Saudi Arabia, Qatar, Bahrain, Oman, Egypt, Iran, Kuwait, Lebanon, Uzbekistan : 2,412 MHz-2,462 MHz (11 channels) : 5,180 MHz-5,320 MHz (W52, W53) : 5,500 MHz-5,700 MHz (W56) |\n| Access protocols | Infrastructure |\n| Bluetooth� | Bluetooth� |\n| Standards | Bluetooth version 4.2 (Bluetooth Low Energy) |\n| Operating frequency 2,402 MHz-2,480 MHz (center frequency) | Operating frequency 2,402 MHz-2,480 MHz (center frequency) |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.111,
+                    "y": 0.3047
+                },
+                {
+                    "x": 0.9205,
+                    "y": 0.3047
+                },
+                {
+                    "x": 0.9205,
+                    "y": 0.7804
+                },
+                {
+                    "x": 0.111,
+                    "y": 0.7804
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<br><footer id='5' style='font-size:22px'>Technical<br>Notes<br>12</footer>",
+                "markdown": "Technical\nNotes\n12",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9575,
+                    "y": 0.7587
+                },
+                {
+                    "x": 0.9851,
+                    "y": 0.7587
+                },
+                {
+                    "x": 0.9851,
+                    "y": 0.9152
+                },
+                {
+                    "x": 0.9575,
+                    "y": 0.9152
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='6' style='font-size:20px'>467</footer>",
+                "markdown": "467",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.8609,
+                    "y": 0.9577
+                },
+                {
+                    "x": 0.9169,
+                    "y": 0.9577
+                },
+                {
+                    "x": 0.9169,
+                    "y": 0.9783
+                },
+                {
+                    "x": 0.8609,
+                    "y": 0.9783
+                }
+            ],
+            "id": 6,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

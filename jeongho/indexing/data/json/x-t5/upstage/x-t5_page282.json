@@ -1,0 +1,434 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<h1 id='0' style='font-size:22px'>SCREEN SETTING</h1>\n<br><h1 id='1' style='font-size:20px'>Make changes to display settings.</h1>\n<h1 id='2' style='font-size:18px'>To access display settings, press MENU/OK,<br>select the 8 (SET UP) tab, and choose<br>SCREEN SET-UP.</h1>\n<br><table id='3' style='font-size:14px'><tr><td></td><td>I /4 SCREEN SETTING</td></tr><tr><td rowspan=\"8\">AF MF</td><td>VIEW MODE SETTING</td></tr><tr><td>EVF BRIGHTNESS</td></tr><tr><td>EVF COLOR</td></tr><tr><td>EVF COLOR ADJUSTMENT</td></tr><tr><td>LCD BRIGHTNESS</td></tr><tr><td>LCD COLOR</td></tr><tr><td>LCD COLOR ADJUSTMENT 2</td></tr><tr><td>IMAGE DISP. BACK EXIT</td></tr></table>\n<p id='4' data-category='paragraph' style='font-size:16px'>VIEW MODE SETTING</p>\n<br><p id='5' data-category='paragraph' style='font-size:20px'>Adjust settings for eye sensor, EVF (electronic viewfinder), or LCD<br>monitor view modes (□ 16).</p>\n<p id='6' data-category='paragraph' style='font-size:16px'>EVF BRIGHTNESS</p>\n\n<table id='8' style='font-size:16px'><tr><td>Option</td><td>Description</td></tr><tr><td>AUTO</td><td>The camera automatically adjusts brightness around a selected level in response to changes in ambient lighting conditions.</td></tr><tr><td>MANUAL</td><td>Adjust brightness manually; choose from options between -7 and +5.</td></tr><br><caption id='7' style='font-size:20px'>Adjust the brightness of the display in the electronic viewfinder.</caption></table>\n<p id='9' data-category='paragraph' style='font-size:16px'>EVF COLOR</p>\n\n<br><header id='11' style='font-size:22px'>The<br>Setup<br>Menus</header>\n<br><table id='12' style='font-size:14px'><tr><td rowspan=\"2\" colspan=\"11\">Options</td></tr><tr></tr><tr><td>-5</td><td>-4</td><td>-3</td><td>-2</td><td>-1</td><td>0</td><td>+1</td><td>+2</td><td>+3</td><td>+4</td><td>+5</td></tr><br><caption id='10' style='font-size:18px'>Adjust the saturation of the display in the electronic viewfinder.</caption></table>\n<br><header id='13' style='font-size:14px'>9</header>\n<footer id='14' style='font-size:18px'>282</footer>",
+        "markdown": "# SCREEN SETTING\n\n# Make changes to display settings.\n\n# To access display settings, press MENU/OK,\nselect the 8 (SET UP) tab, and choose\nSCREEN SET-UP.\n\n|  | I /4 SCREEN SETTING |\n| --- | --- |\n| AF MF | VIEW MODE SETTING |\n| AF MF | EVF BRIGHTNESS |\n| AF MF | EVF COLOR |\n| AF MF | EVF COLOR ADJUSTMENT |\n| AF MF | LCD BRIGHTNESS |\n| AF MF | LCD COLOR |\n| AF MF | LCD COLOR ADJUSTMENT 2 |\n| AF MF | IMAGE DISP. BACK EXIT |\n\n\nVIEW MODE SETTING\n\nAdjust settings for eye sensor, EVF (electronic viewfinder), or LCD\nmonitor view modes (□ 16).\n\nEVF BRIGHTNESS\n\nAdjust the brightness of the display in the electronic viewfinder.\n\n| Option | Description |\n| --- | --- |\n| AUTO | The camera automatically adjusts brightness around a selected level in response to changes in ambient lighting conditions. |\n| MANUAL | Adjust brightness manually; choose from options between -7 and +5. |\n\n\nEVF COLOR\n\nAdjust the saturation of the display in the electronic viewfinder.\n\nThe\nSetup\nMenus\n\n| Options | Options | Options | Options | Options | Options | Options | Options | Options | Options | Options |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| Options | Options | Options | Options | Options | Options | Options | Options | Options | Options | Options |\n| -5 | -4 | -3 | -2 | -1 | 0 | +1 | +2 | +3 | +4 | +5 |\n\n\n9\n\n282",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='0' style='font-size:22px'>SCREEN SETTING</h1>",
+                "markdown": "# SCREEN SETTING",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1525,
+                    "y": 0.0739
+                },
+                {
+                    "x": 0.4463,
+                    "y": 0.0739
+                },
+                {
+                    "x": 0.4463,
+                    "y": 0.0982
+                },
+                {
+                    "x": 0.1525,
+                    "y": 0.0982
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='1' style='font-size:20px'>Make changes to display settings.</h1>",
+                "markdown": "# Make changes to display settings.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1533,
+                    "y": 0.1099
+                },
+                {
+                    "x": 0.5782,
+                    "y": 0.1099
+                },
+                {
+                    "x": 0.5782,
+                    "y": 0.1329
+                },
+                {
+                    "x": 0.1533,
+                    "y": 0.1329
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='2' style='font-size:18px'>To access display settings, press MENU/OK,<br>select the 8 (SET UP) tab, and choose<br>SCREEN SET-UP.</h1>",
+                "markdown": "# To access display settings, press MENU/OK,\nselect the 8 (SET UP) tab, and choose\nSCREEN SET-UP.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0821,
+                    "y": 0.1475
+                },
+                {
+                    "x": 0.6014,
+                    "y": 0.1475
+                },
+                {
+                    "x": 0.6014,
+                    "y": 0.2226
+                },
+                {
+                    "x": 0.0821,
+                    "y": 0.2226
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='3' style='font-size:14px'><tr><td></td><td>I /4 SCREEN SETTING</td></tr><tr><td rowspan=\"8\">AF MF</td><td>VIEW MODE SETTING</td></tr><tr><td>EVF BRIGHTNESS</td></tr><tr><td>EVF COLOR</td></tr><tr><td>EVF COLOR ADJUSTMENT</td></tr><tr><td>LCD BRIGHTNESS</td></tr><tr><td>LCD COLOR</td></tr><tr><td>LCD COLOR ADJUSTMENT 2</td></tr><tr><td>IMAGE DISP. BACK EXIT</td></tr></table>",
+                "markdown": "|  | I /4 SCREEN SETTING |\n| --- | --- |\n| AF MF | VIEW MODE SETTING |\n| AF MF | EVF BRIGHTNESS |\n| AF MF | EVF COLOR |\n| AF MF | EVF COLOR ADJUSTMENT |\n| AF MF | LCD BRIGHTNESS |\n| AF MF | LCD COLOR |\n| AF MF | LCD COLOR ADJUSTMENT 2 |\n| AF MF | IMAGE DISP. BACK EXIT |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.611,
+                    "y": 0.1467
+                },
+                {
+                    "x": 0.8907,
+                    "y": 0.1467
+                },
+                {
+                    "x": 0.8907,
+                    "y": 0.2785
+                },
+                {
+                    "x": 0.611,
+                    "y": 0.2785
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='4' data-category='paragraph' style='font-size:16px'>VIEW MODE SETTING</p>",
+                "markdown": "VIEW MODE SETTING",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0809,
+                    "y": 0.2955
+                },
+                {
+                    "x": 0.3742,
+                    "y": 0.2955
+                },
+                {
+                    "x": 0.3742,
+                    "y": 0.3191
+                },
+                {
+                    "x": 0.0809,
+                    "y": 0.3191
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='5' data-category='paragraph' style='font-size:20px'>Adjust settings for eye sensor, EVF (electronic viewfinder), or LCD<br>monitor view modes (□ 16).</p>",
+                "markdown": "Adjust settings for eye sensor, EVF (electronic viewfinder), or LCD\nmonitor view modes (□ 16).",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0797,
+                    "y": 0.3275
+                },
+                {
+                    "x": 0.8914,
+                    "y": 0.3275
+                },
+                {
+                    "x": 0.8914,
+                    "y": 0.3778
+                },
+                {
+                    "x": 0.0797,
+                    "y": 0.3778
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='6' data-category='paragraph' style='font-size:16px'>EVF BRIGHTNESS</p>",
+                "markdown": "EVF BRIGHTNESS",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.083,
+                    "y": 0.3985
+                },
+                {
+                    "x": 0.3202,
+                    "y": 0.3985
+                },
+                {
+                    "x": 0.3202,
+                    "y": 0.4213
+                },
+                {
+                    "x": 0.083,
+                    "y": 0.4213
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='7' data-category='paragraph' style='font-size:20px'>Adjust the brightness of the display in the electronic viewfinder.</p>",
+                "markdown": "Adjust the brightness of the display in the electronic viewfinder.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0812,
+                    "y": 0.4301
+                },
+                {
+                    "x": 0.8872,
+                    "y": 0.4301
+                },
+                {
+                    "x": 0.8872,
+                    "y": 0.4554
+                },
+                {
+                    "x": 0.0812,
+                    "y": 0.4554
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='8' style='font-size:16px'><tr><td>Option</td><td>Description</td></tr><tr><td>AUTO</td><td>The camera automatically adjusts brightness around a selected level in response to changes in ambient lighting conditions.</td></tr><tr><td>MANUAL</td><td>Adjust brightness manually; choose from options between -7 and +5.</td></tr></table>",
+                "markdown": "| Option | Description |\n| --- | --- |\n| AUTO | The camera automatically adjusts brightness around a selected level in response to changes in ambient lighting conditions. |\n| MANUAL | Adjust brightness manually; choose from options between -7 and +5. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0853,
+                    "y": 0.4681
+                },
+                {
+                    "x": 0.8949,
+                    "y": 0.4681
+                },
+                {
+                    "x": 0.8949,
+                    "y": 0.5855
+                },
+                {
+                    "x": 0.0853,
+                    "y": 0.5855
+                }
+            ],
+            "id": 8,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='9' data-category='paragraph' style='font-size:16px'>EVF COLOR</p>",
+                "markdown": "EVF COLOR",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0826,
+                    "y": 0.6048
+                },
+                {
+                    "x": 0.2405,
+                    "y": 0.6048
+                },
+                {
+                    "x": 0.2405,
+                    "y": 0.6276
+                },
+                {
+                    "x": 0.0826,
+                    "y": 0.6276
+                }
+            ],
+            "id": 9,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='10' data-category='paragraph' style='font-size:18px'>Adjust the saturation of the display in the electronic viewfinder.</p>",
+                "markdown": "Adjust the saturation of the display in the electronic viewfinder.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0802,
+                    "y": 0.6368
+                },
+                {
+                    "x": 0.8816,
+                    "y": 0.6368
+                },
+                {
+                    "x": 0.8816,
+                    "y": 0.6624
+                },
+                {
+                    "x": 0.0802,
+                    "y": 0.6624
+                }
+            ],
+            "id": 10,
+            "page": 1
+        },
+        {
+            "category": "header",
+            "content": {
+                "html": "<br><header id='11' style='font-size:22px'>The<br>Setup<br>Menus</header>",
+                "markdown": "The\nSetup\nMenus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.018,
+                    "y": 0.5682
+                },
+                {
+                    "x": 0.0413,
+                    "y": 0.5682
+                },
+                {
+                    "x": 0.0413,
+                    "y": 0.6977
+                },
+                {
+                    "x": 0.018,
+                    "y": 0.6977
+                }
+            ],
+            "id": 11,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='12' style='font-size:14px'><tr><td rowspan=\"2\" colspan=\"11\">Options</td></tr><tr></tr><tr><td>-5</td><td>-4</td><td>-3</td><td>-2</td><td>-1</td><td>0</td><td>+1</td><td>+2</td><td>+3</td><td>+4</td><td>+5</td></tr></table>",
+                "markdown": "| Options | Options | Options | Options | Options | Options | Options | Options | Options | Options | Options |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| Options | Options | Options | Options | Options | Options | Options | Options | Options | Options | Options |\n| -5 | -4 | -3 | -2 | -1 | 0 | +1 | +2 | +3 | +4 | +5 |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0858,
+                    "y": 0.6734
+                },
+                {
+                    "x": 0.8927,
+                    "y": 0.6734
+                },
+                {
+                    "x": 0.8927,
+                    "y": 0.7256
+                },
+                {
+                    "x": 0.0858,
+                    "y": 0.7256
+                }
+            ],
+            "id": 12,
+            "page": 1
+        },
+        {
+            "category": "header",
+            "content": {
+                "html": "<br><header id='13' style='font-size:14px'>9</header>",
+                "markdown": "9",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0249,
+                    "y": 0.7173
+                },
+                {
+                    "x": 0.044,
+                    "y": 0.7173
+                },
+                {
+                    "x": 0.044,
+                    "y": 0.7375
+                },
+                {
+                    "x": 0.0249,
+                    "y": 0.7375
+                }
+            ],
+            "id": 13,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='14' style='font-size:18px'>282</footer>",
+                "markdown": "282",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0828,
+                    "y": 0.9561
+                },
+                {
+                    "x": 0.1397,
+                    "y": 0.9561
+                },
+                {
+                    "x": 0.1397,
+                    "y": 0.9796
+                },
+                {
+                    "x": 0.0828,
+                    "y": 0.9796
+                }
+            ],
+            "id": 14,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

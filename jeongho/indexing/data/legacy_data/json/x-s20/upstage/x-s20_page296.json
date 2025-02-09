@@ -1,0 +1,378 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:22px'>The<br>Setup<br>Menus</header>\n<header id='1' style='font-size:14px'>9</header>\n<br><h1 id='2' style='font-size:18px'>LENS ZOOM/FOCUS SETTING</h1>\n<br><h1 id='3' style='font-size:20px'>Adjust settings for compatible lenses with focus rings or power zoom.</h1>\n<h1 id='4' style='font-size:18px'>FOCUS RING ROTATE</h1>\n<br><p id='5' data-category='paragraph' style='font-size:18px'>Choose the direction in which the focus ring is rotated to in-<br>crease the focus distance.</p>\n<p id='6' data-category='paragraph' style='font-size:18px'>FOCUS RING OPERATION</p>\n<br><table id='7' style='font-size:16px'><tr><td colspan=\"2\">Options</td></tr><tr><td>C CW (clockwise)</td><td>� CCW (counterclockwise)</td></tr></table>\n\n<table id='9' style='font-size:16px'><tr><td>Option</td><td>Description</td></tr><tr><td>NONLINEAR</td><td>Focus is adjusted at the same rate as the ring is rotated.</td></tr><tr><td>LINEAR</td><td>Focus is adjusted linearly according to the amount the ring iS rotated, but the focusing speed is unaffected by the speed the ring is rotated.</td></tr><caption id='8' style='font-size:20px'>Choose how the camera adjusts focus in response to the move-<br>ment of the focus ring.</caption></table>\n\n<br><p id='11' data-category='paragraph' style='font-size:22px'>Choose the rate at which the focus distance changes when adjust-<br>ed using function buttons during manual focus with compatible<br>power zoom lenses. The higher the number, the higher the rate.</p>\n<br><table id='12' style='font-size:14px'><tr><td colspan=\"8\">Options</td></tr><tr><td>1(SLOW)</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8(FAST)</td></tr><tr><td>294</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><caption id='10' style='font-size:16px'>MF CONSTANT SPEED FOCUS (Fn)</caption></table>",
+        "markdown": "The\nSetup\nMenus\n\n9\n\n# LENS ZOOM/FOCUS SETTING\n\n# Adjust settings for compatible lenses with focus rings or power zoom.\n\n# FOCUS RING ROTATE\n\nChoose the direction in which the focus ring is rotated to in-\ncrease the focus distance.\n\nFOCUS RING OPERATION\n\n| Options | Options |\n| --- | --- |\n| C CW (clockwise) | � CCW (counterclockwise) |\n\n\nChoose how the camera adjusts focus in response to the move-\nment of the focus ring.\n\n| Option | Description |\n| --- | --- |\n| NONLINEAR | Focus is adjusted at the same rate as the ring is rotated. |\n| LINEAR | Focus is adjusted linearly according to the amount the ring iS rotated, but the focusing speed is unaffected by the speed the ring is rotated. |\n\n\nMF CONSTANT SPEED FOCUS (Fn)\n\nChoose the rate at which the focus distance changes when adjust-\ned using function buttons during manual focus with compatible\npower zoom lenses. The higher the number, the higher the rate.\n\n| Options | Options | Options | Options | Options | Options | Options | Options |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n| 1(SLOW) | 2 | 3 | 4 | 5 | 6 | 7 | 8(FAST) |\n| 294 |  |  |  |  |  |  |  |",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:22px'>The<br>Setup<br>Menus</header>",
+                "markdown": "The\nSetup\nMenus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0183,
+                    "y": 0.5678
+                },
+                {
+                    "x": 0.0407,
+                    "y": 0.5678
+                },
+                {
+                    "x": 0.0407,
+                    "y": 0.6984
+                },
+                {
+                    "x": 0.0183,
+                    "y": 0.6984
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='1' style='font-size:14px'>9</header>",
+                "markdown": "9",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.025,
+                    "y": 0.7174
+                },
+                {
+                    "x": 0.0441,
+                    "y": 0.7174
+                },
+                {
+                    "x": 0.0441,
+                    "y": 0.7375
+                },
+                {
+                    "x": 0.025,
+                    "y": 0.7375
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='2' style='font-size:18px'>LENS ZOOM/FOCUS SETTING</h1>",
+                "markdown": "# LENS ZOOM/FOCUS SETTING",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0837,
+                    "y": 0.0731
+                },
+                {
+                    "x": 0.4757,
+                    "y": 0.0731
+                },
+                {
+                    "x": 0.4757,
+                    "y": 0.0952
+                },
+                {
+                    "x": 0.0837,
+                    "y": 0.0952
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='3' style='font-size:20px'>Adjust settings for compatible lenses with focus rings or power zoom.</h1>",
+                "markdown": "# Adjust settings for compatible lenses with focus rings or power zoom.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0813,
+                    "y": 0.1054
+                },
+                {
+                    "x": 0.8912,
+                    "y": 0.1054
+                },
+                {
+                    "x": 0.8912,
+                    "y": 0.1297
+                },
+                {
+                    "x": 0.0813,
+                    "y": 0.1297
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='4' style='font-size:18px'>FOCUS RING ROTATE</h1>",
+                "markdown": "# FOCUS RING ROTATE",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0938,
+                    "y": 0.1509
+                },
+                {
+                    "x": 0.3504,
+                    "y": 0.1509
+                },
+                {
+                    "x": 0.3504,
+                    "y": 0.1737
+                },
+                {
+                    "x": 0.0938,
+                    "y": 0.1737
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='5' data-category='paragraph' style='font-size:18px'>Choose the direction in which the focus ring is rotated to in-<br>crease the focus distance.</p>",
+                "markdown": "Choose the direction in which the focus ring is rotated to in-\ncrease the focus distance.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0827,
+                    "y": 0.1811
+                },
+                {
+                    "x": 0.892,
+                    "y": 0.1811
+                },
+                {
+                    "x": 0.892,
+                    "y": 0.2306
+                },
+                {
+                    "x": 0.0827,
+                    "y": 0.2306
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='6' data-category='paragraph' style='font-size:18px'>FOCUS RING OPERATION</p>",
+                "markdown": "FOCUS RING OPERATION",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.092,
+                    "y": 0.3111
+                },
+                {
+                    "x": 0.4012,
+                    "y": 0.3111
+                },
+                {
+                    "x": 0.4012,
+                    "y": 0.3369
+                },
+                {
+                    "x": 0.092,
+                    "y": 0.3369
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='7' style='font-size:16px'><tr><td colspan=\"2\">Options</td></tr><tr><td>C CW (clockwise)</td><td>� CCW (counterclockwise)</td></tr></table>",
+                "markdown": "| Options | Options |\n| --- | --- |\n| C CW (clockwise) | � CCW (counterclockwise) |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1311,
+                    "y": 0.2441
+                },
+                {
+                    "x": 0.8901,
+                    "y": 0.2441
+                },
+                {
+                    "x": 0.8901,
+                    "y": 0.2969
+                },
+                {
+                    "x": 0.1311,
+                    "y": 0.2969
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='8' data-category='paragraph' style='font-size:20px'>Choose how the camera adjusts focus in response to the move-<br>ment of the focus ring.</p>",
+                "markdown": "Choose how the camera adjusts focus in response to the move-\nment of the focus ring.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0805,
+                    "y": 0.3431
+                },
+                {
+                    "x": 0.8906,
+                    "y": 0.3431
+                },
+                {
+                    "x": 0.8906,
+                    "y": 0.3935
+                },
+                {
+                    "x": 0.0805,
+                    "y": 0.3935
+                }
+            ],
+            "id": 8,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='9' style='font-size:16px'><tr><td>Option</td><td>Description</td></tr><tr><td>NONLINEAR</td><td>Focus is adjusted at the same rate as the ring is rotated.</td></tr><tr><td>LINEAR</td><td>Focus is adjusted linearly according to the amount the ring iS rotated, but the focusing speed is unaffected by the speed the ring is rotated.</td></tr></table>",
+                "markdown": "| Option | Description |\n| --- | --- |\n| NONLINEAR | Focus is adjusted at the same rate as the ring is rotated. |\n| LINEAR | Focus is adjusted linearly according to the amount the ring iS rotated, but the focusing speed is unaffected by the speed the ring is rotated. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0843,
+                    "y": 0.4063
+                },
+                {
+                    "x": 0.8952,
+                    "y": 0.4063
+                },
+                {
+                    "x": 0.8952,
+                    "y": 0.5032
+                },
+                {
+                    "x": 0.0843,
+                    "y": 0.5032
+                }
+            ],
+            "id": 9,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='10' data-category='paragraph' style='font-size:16px'>MF CONSTANT SPEED FOCUS (Fn)</p>",
+                "markdown": "MF CONSTANT SPEED FOCUS (Fn)",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0995,
+                    "y": 0.5223
+                },
+                {
+                    "x": 0.5013,
+                    "y": 0.5223
+                },
+                {
+                    "x": 0.5013,
+                    "y": 0.5458
+                },
+                {
+                    "x": 0.0995,
+                    "y": 0.5458
+                }
+            ],
+            "id": 10,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='11' data-category='paragraph' style='font-size:22px'>Choose the rate at which the focus distance changes when adjust-<br>ed using function buttons during manual focus with compatible<br>power zoom lenses. The higher the number, the higher the rate.</p>",
+                "markdown": "Choose the rate at which the focus distance changes when adjust-\ned using function buttons during manual focus with compatible\npower zoom lenses. The higher the number, the higher the rate.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.082,
+                    "y": 0.5524
+                },
+                {
+                    "x": 0.8926,
+                    "y": 0.5524
+                },
+                {
+                    "x": 0.8926,
+                    "y": 0.6285
+                },
+                {
+                    "x": 0.082,
+                    "y": 0.6285
+                }
+            ],
+            "id": 11,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='12' style='font-size:14px'><tr><td colspan=\"8\">Options</td></tr><tr><td>1(SLOW)</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8(FAST)</td></tr><tr><td>294</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table>",
+                "markdown": "| Options | Options | Options | Options | Options | Options | Options | Options |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n| 1(SLOW) | 2 | 3 | 4 | 5 | 6 | 7 | 8(FAST) |\n| 294 |  |  |  |  |  |  |  |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0801,
+                    "y": 0.6297
+                },
+                {
+                    "x": 0.8912,
+                    "y": 0.6297
+                },
+                {
+                    "x": 0.8912,
+                    "y": 1
+                },
+                {
+                    "x": 0.0801,
+                    "y": 1
+                }
+            ],
+            "id": 12,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

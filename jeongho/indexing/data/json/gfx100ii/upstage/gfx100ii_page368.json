@@ -1,0 +1,378 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:14px'>POWER MANAGEMENT</header>\n<h1 id='1' style='font-size:18px'>SHOOTING STAND BY MODE</h1>\n<br><h1 id='2' style='font-size:20px'>Choose the delay before the camera enters shooting standby<br>mode.</h1>\n<table id='3' style='font-size:14px'><tr><td>Option</td><td>Description</td></tr><tr><td>5 MIN</td><td rowspan=\"5\">The camera will suspend all functions and enter power- ing-saving (standby) mode if no operations are performed for the selected period.</td></tr><tr><td>2 MIN</td></tr><tr><td>1 MIN</td></tr><tr><td>30 SEC</td></tr><tr><td>15 SEC</td></tr><tr><td>OFF</td><td>Shooting standby mode disabled.</td></tr></table>\n<p id='4' data-category='paragraph' style='font-size:18px'>AUTO POWER SAVE</p>\n<table id='5' style='font-size:16px'><tr><td colspan=\"2\">Options</td></tr><tr><td>ON</td><td>OFF</td></tr><br><caption id='6' style='font-size:18px'>If ON is selected, the display frame rate will drop to save power if<br>no operations are performed for a short period, but the normal<br>frame rate can be restored by operating camera controls.</caption></table>\n\n<p id='7' data-category='paragraph' style='font-size:16px'>AUTO POWER OFF TEMP.</p>\n\n<br><header id='9' style='font-size:22px'>The<br>Setup<br>Menus</header>\n<header id='10' style='font-size:14px'>9</header>\n<br><table id='11' style='font-size:14px'><tr><td>Option</td><td>Description</td></tr><tr><td>STANDARD</td><td>The camera turns off automatically when its temperature reaches the STANDARD value.</td></tr><tr><td>HIGH</td><td>Shooting can continue at temperatures higher than the STANDARD value, extending the time available to record movies and the like. Because remaining in contact with the camera at these high temperatures could result in low-temperature burns, this option should only be used after mounting the camera on a tripod or taking other steps to avoid prolonged contact with the camera.</td></tr><br><caption id='8' style='font-size:20px'>If its temperature rises beyond a certain point, the camera will first<br>display a message and then, if the temperature rise continues, auto-<br>matically end shooting and power down. Choose the temperature<br>at which the camera turns off automatically.</caption></table>\n<footer id='12' style='font-size:22px'>368</footer>",
+        "markdown": "POWER MANAGEMENT\n\n# SHOOTING STAND BY MODE\n\n# Choose the delay before the camera enters shooting standby\nmode.\n\n| Option | Description |\n| --- | --- |\n| 5 MIN | The camera will suspend all functions and enter power- ing-saving (standby) mode if no operations are performed for the selected period. |\n| 2 MIN | The camera will suspend all functions and enter power- ing-saving (standby) mode if no operations are performed for the selected period. |\n| 1 MIN | The camera will suspend all functions and enter power- ing-saving (standby) mode if no operations are performed for the selected period. |\n| 30 SEC | The camera will suspend all functions and enter power- ing-saving (standby) mode if no operations are performed for the selected period. |\n| 15 SEC | The camera will suspend all functions and enter power- ing-saving (standby) mode if no operations are performed for the selected period. |\n| OFF | Shooting standby mode disabled. |\n\n\nAUTO POWER SAVE\n\n| Options | Options |\n| --- | --- |\n| ON | OFF |\n\n\nIf ON is selected, the display frame rate will drop to save power if\nno operations are performed for a short period, but the normal\nframe rate can be restored by operating camera controls.\n\nAUTO POWER OFF TEMP.\n\nIf its temperature rises beyond a certain point, the camera will first\ndisplay a message and then, if the temperature rise continues, auto-\nmatically end shooting and power down. Choose the temperature\nat which the camera turns off automatically.\n\nThe\nSetup\nMenus\n\n9\n\n| Option | Description |\n| --- | --- |\n| STANDARD | The camera turns off automatically when its temperature reaches the STANDARD value. |\n| HIGH | Shooting can continue at temperatures higher than the STANDARD value, extending the time available to record movies and the like. Because remaining in contact with the camera at these high temperatures could result in low-temperature burns, this option should only be used after mounting the camera on a tripod or taking other steps to avoid prolonged contact with the camera. |\n\n\n368",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:14px'>POWER MANAGEMENT</header>",
+                "markdown": "POWER MANAGEMENT",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6614,
+                    "y": 0.028
+                },
+                {
+                    "x": 0.8922,
+                    "y": 0.028
+                },
+                {
+                    "x": 0.8922,
+                    "y": 0.0494
+                },
+                {
+                    "x": 0.6614,
+                    "y": 0.0494
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='1' style='font-size:18px'>SHOOTING STAND BY MODE</h1>",
+                "markdown": "# SHOOTING STAND BY MODE",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0813,
+                    "y": 0.0727
+                },
+                {
+                    "x": 0.4676,
+                    "y": 0.0727
+                },
+                {
+                    "x": 0.4676,
+                    "y": 0.0954
+                },
+                {
+                    "x": 0.0813,
+                    "y": 0.0954
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='2' style='font-size:20px'>Choose the delay before the camera enters shooting standby<br>mode.</h1>",
+                "markdown": "# Choose the delay before the camera enters shooting standby\nmode.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0809,
+                    "y": 0.1044
+                },
+                {
+                    "x": 0.894,
+                    "y": 0.1044
+                },
+                {
+                    "x": 0.894,
+                    "y": 0.1536
+                },
+                {
+                    "x": 0.0809,
+                    "y": 0.1536
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='3' style='font-size:14px'><tr><td>Option</td><td>Description</td></tr><tr><td>5 MIN</td><td rowspan=\"5\">The camera will suspend all functions and enter power- ing-saving (standby) mode if no operations are performed for the selected period.</td></tr><tr><td>2 MIN</td></tr><tr><td>1 MIN</td></tr><tr><td>30 SEC</td></tr><tr><td>15 SEC</td></tr><tr><td>OFF</td><td>Shooting standby mode disabled.</td></tr></table>",
+                "markdown": "| Option | Description |\n| --- | --- |\n| 5 MIN | The camera will suspend all functions and enter power- ing-saving (standby) mode if no operations are performed for the selected period. |\n| 2 MIN | The camera will suspend all functions and enter power- ing-saving (standby) mode if no operations are performed for the selected period. |\n| 1 MIN | The camera will suspend all functions and enter power- ing-saving (standby) mode if no operations are performed for the selected period. |\n| 30 SEC | The camera will suspend all functions and enter power- ing-saving (standby) mode if no operations are performed for the selected period. |\n| 15 SEC | The camera will suspend all functions and enter power- ing-saving (standby) mode if no operations are performed for the selected period. |\n| OFF | Shooting standby mode disabled. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0823,
+                    "y": 0.1674
+                },
+                {
+                    "x": 0.893,
+                    "y": 0.1674
+                },
+                {
+                    "x": 0.893,
+                    "y": 0.3359
+                },
+                {
+                    "x": 0.0823,
+                    "y": 0.3359
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='4' data-category='paragraph' style='font-size:18px'>AUTO POWER SAVE</p>",
+                "markdown": "AUTO POWER SAVE",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.081,
+                    "y": 0.3533
+                },
+                {
+                    "x": 0.3494,
+                    "y": 0.3533
+                },
+                {
+                    "x": 0.3494,
+                    "y": 0.3745
+                },
+                {
+                    "x": 0.081,
+                    "y": 0.3745
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='5' style='font-size:16px'><tr><td colspan=\"2\">Options</td></tr><tr><td>ON</td><td>OFF</td></tr></table>",
+                "markdown": "| Options | Options |\n| --- | --- |\n| ON | OFF |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.085,
+                    "y": 0.472
+                },
+                {
+                    "x": 0.8908,
+                    "y": 0.472
+                },
+                {
+                    "x": 0.8908,
+                    "y": 0.5248
+                },
+                {
+                    "x": 0.085,
+                    "y": 0.5248
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='6' data-category='paragraph' style='font-size:18px'>If ON is selected, the display frame rate will drop to save power if<br>no operations are performed for a short period, but the normal<br>frame rate can be restored by operating camera controls.</p>",
+                "markdown": "If ON is selected, the display frame rate will drop to save power if\nno operations are performed for a short period, but the normal\nframe rate can be restored by operating camera controls.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0801,
+                    "y": 0.3843
+                },
+                {
+                    "x": 0.8939,
+                    "y": 0.3843
+                },
+                {
+                    "x": 0.8939,
+                    "y": 0.4608
+                },
+                {
+                    "x": 0.0801,
+                    "y": 0.4608
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='7' data-category='paragraph' style='font-size:16px'>AUTO POWER OFF TEMP.</p>",
+                "markdown": "AUTO POWER OFF TEMP.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.081,
+                    "y": 0.5406
+                },
+                {
+                    "x": 0.4159,
+                    "y": 0.5406
+                },
+                {
+                    "x": 0.4159,
+                    "y": 0.5633
+                },
+                {
+                    "x": 0.081,
+                    "y": 0.5633
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='8' data-category='paragraph' style='font-size:20px'>If its temperature rises beyond a certain point, the camera will first<br>display a message and then, if the temperature rise continues, auto-<br>matically end shooting and power down. Choose the temperature<br>at which the camera turns off automatically.</p>",
+                "markdown": "If its temperature rises beyond a certain point, the camera will first\ndisplay a message and then, if the temperature rise continues, auto-\nmatically end shooting and power down. Choose the temperature\nat which the camera turns off automatically.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0798,
+                    "y": 0.5737
+                },
+                {
+                    "x": 0.8936,
+                    "y": 0.5737
+                },
+                {
+                    "x": 0.8936,
+                    "y": 0.6734
+                },
+                {
+                    "x": 0.0798,
+                    "y": 0.6734
+                }
+            ],
+            "id": 8,
+            "page": 1
+        },
+        {
+            "category": "header",
+            "content": {
+                "html": "<br><header id='9' style='font-size:22px'>The<br>Setup<br>Menus</header>",
+                "markdown": "The\nSetup\nMenus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0182,
+                    "y": 0.5682
+                },
+                {
+                    "x": 0.0407,
+                    "y": 0.5682
+                },
+                {
+                    "x": 0.0407,
+                    "y": 0.6979
+                },
+                {
+                    "x": 0.0182,
+                    "y": 0.6979
+                }
+            ],
+            "id": 9,
+            "page": 1
+        },
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='10' style='font-size:14px'>9</header>",
+                "markdown": "9",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0249,
+                    "y": 0.7172
+                },
+                {
+                    "x": 0.0442,
+                    "y": 0.7172
+                },
+                {
+                    "x": 0.0442,
+                    "y": 0.7375
+                },
+                {
+                    "x": 0.0249,
+                    "y": 0.7375
+                }
+            ],
+            "id": 10,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='11' style='font-size:14px'><tr><td>Option</td><td>Description</td></tr><tr><td>STANDARD</td><td>The camera turns off automatically when its temperature reaches the STANDARD value.</td></tr><tr><td>HIGH</td><td>Shooting can continue at temperatures higher than the STANDARD value, extending the time available to record movies and the like. Because remaining in contact with the camera at these high temperatures could result in low-temperature burns, this option should only be used after mounting the camera on a tripod or taking other steps to avoid prolonged contact with the camera.</td></tr></table>",
+                "markdown": "| Option | Description |\n| --- | --- |\n| STANDARD | The camera turns off automatically when its temperature reaches the STANDARD value. |\n| HIGH | Shooting can continue at temperatures higher than the STANDARD value, extending the time available to record movies and the like. Because remaining in contact with the camera at these high temperatures could result in low-temperature burns, this option should only be used after mounting the camera on a tripod or taking other steps to avoid prolonged contact with the camera. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0819,
+                    "y": 0.6875
+                },
+                {
+                    "x": 0.8943,
+                    "y": 0.6875
+                },
+                {
+                    "x": 0.8943,
+                    "y": 0.9232
+                },
+                {
+                    "x": 0.0819,
+                    "y": 0.9232
+                }
+            ],
+            "id": 11,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='12' style='font-size:22px'>368</footer>",
+                "markdown": "368",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0833,
+                    "y": 0.9571
+                },
+                {
+                    "x": 0.1393,
+                    "y": 0.9571
+                },
+                {
+                    "x": 0.1393,
+                    "y": 0.9794
+                },
+                {
+                    "x": 0.0833,
+                    "y": 0.9794
+                }
+            ],
+            "id": 12,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

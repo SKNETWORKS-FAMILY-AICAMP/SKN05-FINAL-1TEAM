@@ -1,0 +1,88 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "# Checking the Battery Level\n\nAfter turning the camera on, check the battery level in the display.\n\nBattery level is shown as follows:\n\n!Battery Level Display\n\n| Indicator       | Description                                      |\n|-----------------|--------------------------------------------------|\n| !Icon | Battery partially discharged.                  |\n| !Icon | Battery about 80% full.                        |\n| !Icon | Battery about 60% full.                        |\n| !Icon | Battery about 40% full.                        |\n| !Icon | Battery about 20% full.                        |\n| !Icon | Low battery. Charge as soon as possible.       |\n| (blinks red)    | Battery exhausted. Turn camera off and recharge battery. |",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "Checking the Battery Level",
+                    "md": "# Checking the Battery Level"
+                },
+                {
+                    "type": "text",
+                    "value": "After turning the camera on, check the battery level in the display.\n\nBattery level is shown as follows:\n\n!Battery Level Display",
+                    "md": "After turning the camera on, check the battery level in the display.\n\nBattery level is shown as follows:\n\n!Battery Level Display"
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Indicator",
+                            "Description"
+                        ],
+                        [
+                            "!Icon",
+                            "Battery partially discharged."
+                        ],
+                        [
+                            "!Icon",
+                            "Battery about 80% full."
+                        ],
+                        [
+                            "!Icon",
+                            "Battery about 60% full."
+                        ],
+                        [
+                            "!Icon",
+                            "Battery about 40% full."
+                        ],
+                        [
+                            "!Icon",
+                            "Battery about 20% full."
+                        ],
+                        [
+                            "!Icon",
+                            "Low battery. Charge as soon as possible."
+                        ],
+                        [
+                            "(blinks red)",
+                            "Battery exhausted. Turn camera off and recharge battery."
+                        ]
+                    ],
+                    "md": "| Indicator       | Description                                      |\n|-----------------|--------------------------------------------------|\n| !Icon | Battery partially discharged.                  |\n| !Icon | Battery about 80% full.                        |\n| !Icon | Battery about 60% full.                        |\n| !Icon | Battery about 40% full.                        |\n| !Icon | Battery about 20% full.                        |\n| !Icon | Low battery. Charge as soon as possible.       |\n| (blinks red)    | Battery exhausted. Turn camera off and recharge battery. |",
+                    "isPerfectTable": true,
+                    "csv": "\"Indicator\",\"Description\"\n\"!Icon\",\"Battery partially discharged.\"\n\"!Icon\",\"Battery about 80% full.\"\n\"!Icon\",\"Battery about 60% full.\"\n\"!Icon\",\"Battery about 40% full.\"\n\"!Icon\",\"Battery about 20% full.\"\n\"!Icon\",\"Low battery. Charge as soon as possible.\"\n\"(blinks red)\",\"Battery exhausted. Turn camera off and recharge battery.\""
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 832.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "ef99495d-f73a-4c3c-8a44-77e8b14da8f7",
+    "file_path": "../data/raw_data/x100v/x100v_split/x100v_page59.pdf"
+}

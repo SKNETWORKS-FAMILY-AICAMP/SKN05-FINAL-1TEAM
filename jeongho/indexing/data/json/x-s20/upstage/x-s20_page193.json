@@ -1,0 +1,406 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:14px'>MOVIE SETTING (Movie Recording)</header>\n<h1 id='1' style='font-size:16px'>HDMI OUTPUT SETTING</h1>\n<br><p id='2' data-category='paragraph' style='font-size:20px'>Adjust settings for use when the shooting display is output to an<br>HDMI device.</p>\n<h1 id='3' style='font-size:16px'>HDMI OUTPUT INFO DISPLAY</h1>\n\n<br><table id='5' style='font-size:16px'><tr><td colspan=\"2\">Options</td></tr><tr><td>ON</td><td>OFF</td></tr><br><caption id='4' style='font-size:18px'>If ON is selected, HDMI devices to which the camera is connected<br>will mirror the information in the camera display.</caption></table>\n<p id='6' data-category='paragraph' style='font-size:16px'>HDMI REC CONTROL</p>\n\n<br><table id='8' style='font-size:14px'><tr><td colspan=\"2\">Options</td></tr><tr><td>ON</td><td>OFF</td></tr><br><caption id='7' style='font-size:18px'>Choose whether the camera sends movie start and stop signals<br>to the HDMI device when the shutter button is pressed to start<br>and stop movie recording.</caption></table>\n\n<br><p id='10' data-category='paragraph' style='font-size:18px'>Choose whether to output RAW footage to external recorders<br>connected via HDMI.</p>\n<table id='11' style='font-size:14px'><tr><td>Option</td><td>Description</td></tr><tr><td>RAW OUTPUT SETTING ATOMOS</td><td>Output RAW footage to ATOMOS video recorders.</td></tr><tr><td>RAW OUTPUT SETTING Blackmagic</td><td>Output RAW footage to Blackmagic Design video recorders.</td></tr><tr><td>OFF</td><td>Do not output RAW footage to external recorders.</td></tr><caption id='9' style='font-size:16px'>RAW OUTPUT SETTING</caption></table>\n<footer id='12' style='font-size:20px'>193</footer>\n<br><footer id='13' style='font-size:22px'>6<br>The<br>Shooting<br>Menus</footer>",
+        "markdown": "MOVIE SETTING (Movie Recording)\n\n# HDMI OUTPUT SETTING\n\nAdjust settings for use when the shooting display is output to an\nHDMI device.\n\n# HDMI OUTPUT INFO DISPLAY\n\nIf ON is selected, HDMI devices to which the camera is connected\nwill mirror the information in the camera display.\n\n| Options | Options |\n| --- | --- |\n| ON | OFF |\n\n\nHDMI REC CONTROL\n\nChoose whether the camera sends movie start and stop signals\nto the HDMI device when the shutter button is pressed to start\nand stop movie recording.\n\n| Options | Options |\n| --- | --- |\n| ON | OFF |\n\n\nRAW OUTPUT SETTING\n\nChoose whether to output RAW footage to external recorders\nconnected via HDMI.\n\n| Option | Description |\n| --- | --- |\n| RAW OUTPUT SETTING ATOMOS | Output RAW footage to ATOMOS video recorders. |\n| RAW OUTPUT SETTING Blackmagic | Output RAW footage to Blackmagic Design video recorders. |\n| OFF | Do not output RAW footage to external recorders. |\n\n\n193\n\n6\nThe\nShooting\nMenus",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:14px'>MOVIE SETTING (Movie Recording)</header>",
+                "markdown": "MOVIE SETTING (Movie Recording)",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.5768,
+                    "y": 0.0276
+                },
+                {
+                    "x": 0.9179,
+                    "y": 0.0276
+                },
+                {
+                    "x": 0.9179,
+                    "y": 0.0513
+                },
+                {
+                    "x": 0.5768,
+                    "y": 0.0513
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='1' style='font-size:16px'>HDMI OUTPUT SETTING</h1>",
+                "markdown": "# HDMI OUTPUT SETTING",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1083,
+                    "y": 0.0725
+                },
+                {
+                    "x": 0.4337,
+                    "y": 0.0725
+                },
+                {
+                    "x": 0.4337,
+                    "y": 0.0954
+                },
+                {
+                    "x": 0.1083,
+                    "y": 0.0954
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='2' data-category='paragraph' style='font-size:20px'>Adjust settings for use when the shooting display is output to an<br>HDMI device.</p>",
+                "markdown": "Adjust settings for use when the shooting display is output to an\nHDMI device.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1066,
+                    "y": 0.1043
+                },
+                {
+                    "x": 0.9175,
+                    "y": 0.1043
+                },
+                {
+                    "x": 0.9175,
+                    "y": 0.1529
+                },
+                {
+                    "x": 0.1066,
+                    "y": 0.1529
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='3' style='font-size:16px'>HDMI OUTPUT INFO DISPLAY</h1>",
+                "markdown": "# HDMI OUTPUT INFO DISPLAY",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1177,
+                    "y": 0.1751
+                },
+                {
+                    "x": 0.4809,
+                    "y": 0.1751
+                },
+                {
+                    "x": 0.4809,
+                    "y": 0.1996
+                },
+                {
+                    "x": 0.1177,
+                    "y": 0.1996
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='4' data-category='paragraph' style='font-size:18px'>If ON is selected, HDMI devices to which the camera is connected<br>will mirror the information in the camera display.</p>",
+                "markdown": "If ON is selected, HDMI devices to which the camera is connected\nwill mirror the information in the camera display.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1046,
+                    "y": 0.206
+                },
+                {
+                    "x": 0.9176,
+                    "y": 0.206
+                },
+                {
+                    "x": 0.9176,
+                    "y": 0.2577
+                },
+                {
+                    "x": 0.1046,
+                    "y": 0.2577
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='5' style='font-size:16px'><tr><td colspan=\"2\">Options</td></tr><tr><td>ON</td><td>OFF</td></tr></table>",
+                "markdown": "| Options | Options |\n| --- | --- |\n| ON | OFF |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1095,
+                    "y": 0.2696
+                },
+                {
+                    "x": 0.9178,
+                    "y": 0.2696
+                },
+                {
+                    "x": 0.9178,
+                    "y": 0.319
+                },
+                {
+                    "x": 0.1095,
+                    "y": 0.319
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='6' data-category='paragraph' style='font-size:16px'>HDMI REC CONTROL</p>",
+                "markdown": "HDMI REC CONTROL",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1182,
+                    "y": 0.3373
+                },
+                {
+                    "x": 0.3719,
+                    "y": 0.3373
+                },
+                {
+                    "x": 0.3719,
+                    "y": 0.362
+                },
+                {
+                    "x": 0.1182,
+                    "y": 0.362
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='7' data-category='paragraph' style='font-size:18px'>Choose whether the camera sends movie start and stop signals<br>to the HDMI device when the shutter button is pressed to start<br>and stop movie recording.</p>",
+                "markdown": "Choose whether the camera sends movie start and stop signals\nto the HDMI device when the shutter button is pressed to start\nand stop movie recording.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1061,
+                    "y": 0.3676
+                },
+                {
+                    "x": 0.9194,
+                    "y": 0.3676
+                },
+                {
+                    "x": 0.9194,
+                    "y": 0.4456
+                },
+                {
+                    "x": 0.1061,
+                    "y": 0.4456
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='8' style='font-size:14px'><tr><td colspan=\"2\">Options</td></tr><tr><td>ON</td><td>OFF</td></tr></table>",
+                "markdown": "| Options | Options |\n| --- | --- |\n| ON | OFF |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1076,
+                    "y": 0.4584
+                },
+                {
+                    "x": 0.9169,
+                    "y": 0.4584
+                },
+                {
+                    "x": 0.9169,
+                    "y": 0.5072
+                },
+                {
+                    "x": 0.1076,
+                    "y": 0.5072
+                }
+            ],
+            "id": 8,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='9' data-category='paragraph' style='font-size:16px'>RAW OUTPUT SETTING</p>",
+                "markdown": "RAW OUTPUT SETTING",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1179,
+                    "y": 0.525
+                },
+                {
+                    "x": 0.4057,
+                    "y": 0.525
+                },
+                {
+                    "x": 0.4057,
+                    "y": 0.5495
+                },
+                {
+                    "x": 0.1179,
+                    "y": 0.5495
+                }
+            ],
+            "id": 9,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='10' data-category='paragraph' style='font-size:18px'>Choose whether to output RAW footage to external recorders<br>connected via HDMI.</p>",
+                "markdown": "Choose whether to output RAW footage to external recorders\nconnected via HDMI.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1052,
+                    "y": 0.5569
+                },
+                {
+                    "x": 0.9175,
+                    "y": 0.5569
+                },
+                {
+                    "x": 0.9175,
+                    "y": 0.6062
+                },
+                {
+                    "x": 0.1052,
+                    "y": 0.6062
+                }
+            ],
+            "id": 10,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='11' style='font-size:14px'><tr><td>Option</td><td>Description</td></tr><tr><td>RAW OUTPUT SETTING ATOMOS</td><td>Output RAW footage to ATOMOS video recorders.</td></tr><tr><td>RAW OUTPUT SETTING Blackmagic</td><td>Output RAW footage to Blackmagic Design video recorders.</td></tr><tr><td>OFF</td><td>Do not output RAW footage to external recorders.</td></tr></table>",
+                "markdown": "| Option | Description |\n| --- | --- |\n| RAW OUTPUT SETTING ATOMOS | Output RAW footage to ATOMOS video recorders. |\n| RAW OUTPUT SETTING Blackmagic | Output RAW footage to Blackmagic Design video recorders. |\n| OFF | Do not output RAW footage to external recorders. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1078,
+                    "y": 0.6192
+                },
+                {
+                    "x": 0.9154,
+                    "y": 0.6192
+                },
+                {
+                    "x": 0.9154,
+                    "y": 0.7644
+                },
+                {
+                    "x": 0.1078,
+                    "y": 0.7644
+                }
+            ],
+            "id": 11,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='12' style='font-size:20px'>193</footer>",
+                "markdown": "193",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.8627,
+                    "y": 0.957
+                },
+                {
+                    "x": 0.9171,
+                    "y": 0.957
+                },
+                {
+                    "x": 0.9171,
+                    "y": 0.9789
+                },
+                {
+                    "x": 0.8627,
+                    "y": 0.9789
+                }
+            ],
+            "id": 12,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<br><footer id='13' style='font-size:22px'>6<br>The<br>Shooting<br>Menus</footer>",
+                "markdown": "6\nThe\nShooting\nMenus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9566,
+                    "y": 0.5429
+                },
+                {
+                    "x": 0.983,
+                    "y": 0.5429
+                },
+                {
+                    "x": 0.983,
+                    "y": 0.7308
+                },
+                {
+                    "x": 0.9566,
+                    "y": 0.7308
+                }
+            ],
+            "id": 13,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

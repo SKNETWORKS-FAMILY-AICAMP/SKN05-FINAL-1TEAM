@@ -1,0 +1,294 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:22px'>The<br>Shooting<br>Menus</header>\n<br><h1 id='1' style='font-size:16px'>SHUTTER TYPE</h1>\n\n<br><table id='3' style='font-size:16px'><tr><td>Option</td><td>Description</td></tr><tr><td>MS MECHANICAL SHUTTER</td><td>Take pictures with the mechanical shutter.</td></tr><tr><td>ES ELECTRONIC SHUTTER</td><td>Take pictures with the electronic shutter.</td></tr><tr><td>EF E-FRONT CURTAIN SHUTTER</td><td>The camera chooses the mechanical or electronic front curtain shutter according to shooting conditions.</td></tr><tr><td>M+E MECHANICAL + ELECTRONIC</td><td>The camera chooses the mechanical or electronic shutter according to shooting conditions.</td></tr><tr><td>타밭 E-FRONT + ELECTRONIC</td><td>The camera chooses the mechanical, electronic, or electronic front curtain shutter according to shooting conditions.</td></tr><br><caption id='2' style='font-size:20px'>Choose the shutter type. Choose the electronic shutter to mute<br>the shutter sound.</caption></table>\n<br><p id='4' data-category='paragraph' style='font-size:20px'>If EF E-FRONT CURTAIN SHUTTER is selected, MS MECHANICAL<br>SHUTTER will automatically take effect at high shutter speeds.</p>\n<br><p id='5' data-category='paragraph' style='font-size:18px'>When using the electronic shutter, note the following:</p>\n<p id='6' data-category='paragraph' style='font-size:14px'>●</p>\n<br><p id='7' data-category='list' style='font-size:16px'> Distortion may be visible in shots of moving subjects.<br> Distortion may also be visible in hand-held shots taken at high<br>shutter speeds; use of a tripod is recommended.<br> Banding and fog may occur in shots taken under fluorescent lights<br>or other flickering or erratic illumination.<br> When taking pictures with the shutter muted ( ⌀ 340), respect<br>your subjects' image rights and right to privacy.<br>When using the electronic front-curtain shutter, note the following:<br> Faster shutter speeds are more likely to result in uneven exposure<br>and loss of resolution in out-of-focus areas of the frame.</p>\n<p id='8' data-category='list' style='font-size:14px'>The following restrictions apply when the electronic shutter is used:<br>● Sensitivity is restricted to values of ISO 80-12800<br>● Long exposure noise reduction has no effect<br>● The flash will not fire unless pixel-shift multi-shot is enabled.</p>\n<footer id='9' style='font-size:20px'>170</footer>",
+        "markdown": "The\nShooting\nMenus\n\n# SHUTTER TYPE\n\nChoose the shutter type. Choose the electronic shutter to mute\nthe shutter sound.\n\n| Option | Description |\n| --- | --- |\n| MS MECHANICAL SHUTTER | Take pictures with the mechanical shutter. |\n| ES ELECTRONIC SHUTTER | Take pictures with the electronic shutter. |\n| EF E-FRONT CURTAIN SHUTTER | The camera chooses the mechanical or electronic front curtain shutter according to shooting conditions. |\n| M+E MECHANICAL + ELECTRONIC | The camera chooses the mechanical or electronic shutter according to shooting conditions. |\n| 타밭 E-FRONT + ELECTRONIC | The camera chooses the mechanical, electronic, or electronic front curtain shutter according to shooting conditions. |\n\n\nIf EF E-FRONT CURTAIN SHUTTER is selected, MS MECHANICAL\nSHUTTER will automatically take effect at high shutter speeds.\n\nWhen using the electronic shutter, note the following:\n\n●\n\n-  Distortion may be visible in shots of moving subjects.\n-  Distortion may also be visible in hand-held shots taken at high\n- shutter speeds; use of a tripod is recommended.\n-  Banding and fog may occur in shots taken under fluorescent lights\n- or other flickering or erratic illumination.\n-  When taking pictures with the shutter muted ( ⌀ 340), respect\n- your subjects' image rights and right to privacy.\n- When using the electronic front-curtain shutter, note the following:\n-  Faster shutter speeds are more likely to result in uneven exposure\n- and loss of resolution in out-of-focus areas of the frame.\n\n\n- The following restrictions apply when the electronic shutter is used:\n- ● Sensitivity is restricted to values of ISO 80-12800\n- ● Long exposure noise reduction has no effect\n- ● The flash will not fire unless pixel-shift multi-shot is enabled.\n\n\n170",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:22px'>The<br>Shooting<br>Menus</header>",
+                "markdown": "The\nShooting\nMenus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0171,
+                    "y": 0.5787
+                },
+                {
+                    "x": 0.0412,
+                    "y": 0.5787
+                },
+                {
+                    "x": 0.0412,
+                    "y": 0.7319
+                },
+                {
+                    "x": 0.0171,
+                    "y": 0.7319
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='1' style='font-size:16px'>SHUTTER TYPE</h1>",
+                "markdown": "# SHUTTER TYPE",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0819,
+                    "y": 0.0729
+                },
+                {
+                    "x": 0.2898,
+                    "y": 0.0729
+                },
+                {
+                    "x": 0.2898,
+                    "y": 0.0944
+                },
+                {
+                    "x": 0.0819,
+                    "y": 0.0944
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='2' data-category='paragraph' style='font-size:20px'>Choose the shutter type. Choose the electronic shutter to mute<br>the shutter sound.</p>",
+                "markdown": "Choose the shutter type. Choose the electronic shutter to mute\nthe shutter sound.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.081,
+                    "y": 0.1042
+                },
+                {
+                    "x": 0.8915,
+                    "y": 0.1042
+                },
+                {
+                    "x": 0.8915,
+                    "y": 0.1524
+                },
+                {
+                    "x": 0.081,
+                    "y": 0.1524
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='3' style='font-size:16px'><tr><td>Option</td><td>Description</td></tr><tr><td>MS MECHANICAL SHUTTER</td><td>Take pictures with the mechanical shutter.</td></tr><tr><td>ES ELECTRONIC SHUTTER</td><td>Take pictures with the electronic shutter.</td></tr><tr><td>EF E-FRONT CURTAIN SHUTTER</td><td>The camera chooses the mechanical or electronic front curtain shutter according to shooting conditions.</td></tr><tr><td>M+E MECHANICAL + ELECTRONIC</td><td>The camera chooses the mechanical or electronic shutter according to shooting conditions.</td></tr><tr><td>타밭 E-FRONT + ELECTRONIC</td><td>The camera chooses the mechanical, electronic, or electronic front curtain shutter according to shooting conditions.</td></tr></table>",
+                "markdown": "| Option | Description |\n| --- | --- |\n| MS MECHANICAL SHUTTER | Take pictures with the mechanical shutter. |\n| ES ELECTRONIC SHUTTER | Take pictures with the electronic shutter. |\n| EF E-FRONT CURTAIN SHUTTER | The camera chooses the mechanical or electronic front curtain shutter according to shooting conditions. |\n| M+E MECHANICAL + ELECTRONIC | The camera chooses the mechanical or electronic shutter according to shooting conditions. |\n| 타밭 E-FRONT + ELECTRONIC | The camera chooses the mechanical, electronic, or electronic front curtain shutter according to shooting conditions. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0844,
+                    "y": 0.1529
+                },
+                {
+                    "x": 0.894,
+                    "y": 0.1529
+                },
+                {
+                    "x": 0.894,
+                    "y": 0.3907
+                },
+                {
+                    "x": 0.0844,
+                    "y": 0.3907
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='4' data-category='paragraph' style='font-size:20px'>If EF E-FRONT CURTAIN SHUTTER is selected, MS MECHANICAL<br>SHUTTER will automatically take effect at high shutter speeds.</p>",
+                "markdown": "If EF E-FRONT CURTAIN SHUTTER is selected, MS MECHANICAL\nSHUTTER will automatically take effect at high shutter speeds.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0811,
+                    "y": 0.3988
+                },
+                {
+                    "x": 0.8907,
+                    "y": 0.3988
+                },
+                {
+                    "x": 0.8907,
+                    "y": 0.4492
+                },
+                {
+                    "x": 0.0811,
+                    "y": 0.4492
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='5' data-category='paragraph' style='font-size:18px'>When using the electronic shutter, note the following:</p>",
+                "markdown": "When using the electronic shutter, note the following:",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0878,
+                    "y": 0.4618
+                },
+                {
+                    "x": 0.7341,
+                    "y": 0.4618
+                },
+                {
+                    "x": 0.7341,
+                    "y": 0.4824
+                },
+                {
+                    "x": 0.0878,
+                    "y": 0.4824
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='6' data-category='paragraph' style='font-size:14px'>●</p>",
+                "markdown": "●",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1268,
+                    "y": 0.653
+                },
+                {
+                    "x": 0.1394,
+                    "y": 0.653
+                },
+                {
+                    "x": 0.1394,
+                    "y": 0.6619
+                },
+                {
+                    "x": 0.1268,
+                    "y": 0.6619
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "list",
+            "content": {
+                "html": "<br><p id='7' data-category='list' style='font-size:16px'> Distortion may be visible in shots of moving subjects.<br> Distortion may also be visible in hand-held shots taken at high<br>shutter speeds; use of a tripod is recommended.<br> Banding and fog may occur in shots taken under fluorescent lights<br>or other flickering or erratic illumination.<br> When taking pictures with the shutter muted ( ⌀ 340), respect<br>your subjects' image rights and right to privacy.<br>When using the electronic front-curtain shutter, note the following:<br> Faster shutter speeds are more likely to result in uneven exposure<br>and loss of resolution in out-of-focus areas of the frame.</p>",
+                "markdown": "-  Distortion may be visible in shots of moving subjects.\n-  Distortion may also be visible in hand-held shots taken at high\n- shutter speeds; use of a tripod is recommended.\n-  Banding and fog may occur in shots taken under fluorescent lights\n- or other flickering or erratic illumination.\n-  When taking pictures with the shutter muted ( ⌀ 340), respect\n- your subjects' image rights and right to privacy.\n- When using the electronic front-curtain shutter, note the following:\n-  Faster shutter speeds are more likely to result in uneven exposure\n- and loss of resolution in out-of-focus areas of the frame.\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1341,
+                    "y": 0.4671
+                },
+                {
+                    "x": 0.8912,
+                    "y": 0.4671
+                },
+                {
+                    "x": 0.8912,
+                    "y": 0.7092
+                },
+                {
+                    "x": 0.1341,
+                    "y": 0.7092
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "list",
+            "content": {
+                "html": "<p id='8' data-category='list' style='font-size:14px'>The following restrictions apply when the electronic shutter is used:<br>● Sensitivity is restricted to values of ISO 80-12800<br>● Long exposure noise reduction has no effect<br>● The flash will not fire unless pixel-shift multi-shot is enabled.</p>",
+                "markdown": "- The following restrictions apply when the electronic shutter is used:\n- ● Sensitivity is restricted to values of ISO 80-12800\n- ● Long exposure noise reduction has no effect\n- ● The flash will not fire unless pixel-shift multi-shot is enabled.\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1207,
+                    "y": 0.7289
+                },
+                {
+                    "x": 0.8701,
+                    "y": 0.7289
+                },
+                {
+                    "x": 0.8701,
+                    "y": 0.8166
+                },
+                {
+                    "x": 0.1207,
+                    "y": 0.8166
+                }
+            ],
+            "id": 8,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='9' style='font-size:20px'>170</footer>",
+                "markdown": "170",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0851,
+                    "y": 0.9568
+                },
+                {
+                    "x": 0.14,
+                    "y": 0.9568
+                },
+                {
+                    "x": 0.14,
+                    "y": 0.9787
+                },
+                {
+                    "x": 0.0851,
+                    "y": 0.9787
+                }
+            ],
+            "id": 9,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

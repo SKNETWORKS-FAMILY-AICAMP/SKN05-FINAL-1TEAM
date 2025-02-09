@@ -1,0 +1,18 @@
+{
+    "parsing_result": "# Audio Settings\n\n## MIC Jack Setting\nSpecify the type of hardware connected to the microphone jack.\n\n| Option | Description |\n|--------|-------------|\n| MIC    | Choose this option for direct connection to an external microphone. |\n| LINE   | Choose this option for external audio devices connected via line output. |\n\n## MIC Level Limiter\nReduces distortion caused by input that exceeds the limits of the microphone’s audio circuits.\n\n**Options:**  \n- ON  \n- OFF  \n\n## Wind Filter\nChoose whether to enable wind noise reduction during movie recording.\n\n**Options:**  \n- ON  \n- OFF  \n\n## Low Cut Filter\nChoose whether to enable the low-cut filter, reducing low-frequency noise during movie recording.\n\n**Options:**  \n- ON  \n- OFF  \n\n## Headphones Volume\nAdjust the headphone volume.\n\n| Option | Description |\n|--------|-------------|\n| 0      | Mute output to the headphones. |\n| 1–10   | Choose a volume of from 1 to 10. |",
+    "metadata": {
+        "page": 214,
+        "model": "x-t5",
+        "chapter": "The Shooting Menus",
+        "section": "AUDIO SETTING (Movie Recording)",
+        "subsection": [
+            "MIC JACK SETTING",
+            "MIC LEVEL LIMITER",
+            "WIND FILTER",
+            "LOW CUT FILTER",
+            "HEADPHONES VOLUME"
+        ],
+        "embedding_model": "text-embedding-3-small",
+        "token": 205
+    }
+}

@@ -1,0 +1,183 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "# FTP Optional Setting\n\nAdjust settings for FTP upload.\n\n## Select Image & Transfer\nMark picture for upload (see page 288).\n\n## Auto Image Transfer Order\nSelect **ON** to automatically mark pictures for upload as they are taken.\n\n| Options |        |\n|---------|--------|\n| ON      | OFF    |\n\n## Select File Type\nChoose the types of files uploaded to the FTP server. You can select or deselect each file type individually.\n\n| Options |        |      |      |     |     |\n|---------|--------|------|------|-----|-----|\n| JPEG    | RAW    | HEIF | TIFF | MOV | MP4 |\n\n## Caption for FTP Transfer\nAdd captions to photos and movies during upload.\n\n| Option           | Description                                                                 |\n|------------------|-----------------------------------------------------------------------------|\n| DEFAULT CAPTION  | Add the caption selected for **SAVE DATA SETTING > DEFAULT CAPTION**.       |\n| CREATED CAPTION  | Create new captions or select existing captions.                            |\n| NO CAPTION       | Do not add captions to pictures during upload.                              |\n\n## Transfer/Suspend\nPause or resume FTP upload.\n\n| Options  |          |\n|----------|----------|\n| TRANSFER | SUSPEND  |",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "FTP Optional Setting",
+                    "md": "# FTP Optional Setting"
+                },
+                {
+                    "type": "text",
+                    "value": "Adjust settings for FTP upload.",
+                    "md": "Adjust settings for FTP upload."
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "Select Image & Transfer",
+                    "md": "## Select Image & Transfer"
+                },
+                {
+                    "type": "text",
+                    "value": "Mark picture for upload (see page 288).",
+                    "md": "Mark picture for upload (see page 288)."
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "Auto Image Transfer Order",
+                    "md": "## Auto Image Transfer Order"
+                },
+                {
+                    "type": "text",
+                    "value": "Select **ON** to automatically mark pictures for upload as they are taken.",
+                    "md": "Select **ON** to automatically mark pictures for upload as they are taken."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Options",
+                            ""
+                        ],
+                        [
+                            "ON",
+                            "OFF"
+                        ]
+                    ],
+                    "md": "| Options |        |\n|---------|--------|\n| ON      | OFF    |",
+                    "isPerfectTable": true,
+                    "csv": "\"Options\",\"\"\n\"ON\",\"OFF\""
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "Select File Type",
+                    "md": "## Select File Type"
+                },
+                {
+                    "type": "text",
+                    "value": "Choose the types of files uploaded to the FTP server. You can select or deselect each file type individually.",
+                    "md": "Choose the types of files uploaded to the FTP server. You can select or deselect each file type individually."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Options",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        [
+                            "JPEG",
+                            "RAW",
+                            "HEIF",
+                            "TIFF",
+                            "MOV",
+                            "MP4"
+                        ]
+                    ],
+                    "md": "| Options |        |      |      |     |     |\n|---------|--------|------|------|-----|-----|\n| JPEG    | RAW    | HEIF | TIFF | MOV | MP4 |",
+                    "isPerfectTable": true,
+                    "csv": "\"Options\",\"\",\"\",\"\",\"\",\"\"\n\"JPEG\",\"RAW\",\"HEIF\",\"TIFF\",\"MOV\",\"MP4\""
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "Caption for FTP Transfer",
+                    "md": "## Caption for FTP Transfer"
+                },
+                {
+                    "type": "text",
+                    "value": "Add captions to photos and movies during upload.",
+                    "md": "Add captions to photos and movies during upload."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Option",
+                            "Description"
+                        ],
+                        [
+                            "DEFAULT CAPTION",
+                            "Add the caption selected for **SAVE DATA SETTING > DEFAULT CAPTION**."
+                        ],
+                        [
+                            "CREATED CAPTION",
+                            "Create new captions or select existing captions."
+                        ],
+                        [
+                            "NO CAPTION",
+                            "Do not add captions to pictures during upload."
+                        ]
+                    ],
+                    "md": "| Option           | Description                                                                 |\n|------------------|-----------------------------------------------------------------------------|\n| DEFAULT CAPTION  | Add the caption selected for **SAVE DATA SETTING > DEFAULT CAPTION**.       |\n| CREATED CAPTION  | Create new captions or select existing captions.                            |\n| NO CAPTION       | Do not add captions to pictures during upload.                              |",
+                    "isPerfectTable": true,
+                    "csv": "\"Option\",\"Description\"\n\"DEFAULT CAPTION\",\"Add the caption selected for **SAVE DATA SETTING > DEFAULT CAPTION**.\"\n\"CREATED CAPTION\",\"Create new captions or select existing captions.\"\n\"NO CAPTION\",\"Do not add captions to pictures during upload.\""
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "Transfer/Suspend",
+                    "md": "## Transfer/Suspend"
+                },
+                {
+                    "type": "text",
+                    "value": "Pause or resume FTP upload.",
+                    "md": "Pause or resume FTP upload."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Options",
+                            ""
+                        ],
+                        [
+                            "TRANSFER",
+                            "SUSPEND"
+                        ]
+                    ],
+                    "md": "| Options  |          |\n|----------|----------|\n| TRANSFER | SUSPEND  |",
+                    "isPerfectTable": true,
+                    "csv": "\"Options\",\"\"\n\"TRANSFER\",\"SUSPEND\""
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 400.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "e9ce38bd-b72f-4712-b42c-58a0cb6bff4f",
+    "file_path": "../data/raw_data/gfx100ii/gfx100ii_split/gfx100ii_page354.pdf"
+}

@@ -1,0 +1,294 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<h1 id='0' style='font-size:20px'>The Quick Menu</h1>\n<br><p id='1' data-category='paragraph' style='font-size:16px'>Use the quick menu for quick access to selected options. To<br>view the quick menu, press the Q button.</p>\n<h1 id='2' style='font-size:18px'>The Quick Menu Display</h1>\n<br><p id='3' data-category='paragraph' style='font-size:16px'>The quick menu offers different options in photo and movie<br>modes. At default settings, it contains the following items:</p>\n\n<figure id='5'><img style='font-size:14px' alt=\"←0 SELECT CUSTO M SETTING\nISO AUTO 3 WB 品 100\nP 12800 AUTO\n\nISO 0 3:2 FINE 8\n5 NR\n6\nOFF AF-S ⌀OFF 0\nSET Q LONG PRESS EDIT/SAVE CUSTOM\n1\n1 ●\" data-coord=\"top-left:(688,1227); bottom-right:(2168,2295)\" /><figcaption id='4' style='font-size:20px'>Still photography</figcaption></figure>\n<table id='6' style='font-size:14px'><tr><td colspan=\"2\">Default</td></tr><tr><td>SHOOTING MODE/ SELECT CUSTOM SETTING</td><td>IMAGE QUALITY</td></tr><tr><td>2 ISO</td><td>8 FILM SIMULATION</td></tr><tr><td>3 WHITE BALANCE</td><td>9 SELF-TIMER</td></tr><tr><td>4 DYNAMIC RANGE</td><td>10 FOCUS MODE</td></tr><tr><td>5 HIGH ISO NR</td><td>11 FACE/EYE DETECTION SETTING</td></tr><tr><td>IMAGE SIZE</td><td>12 EVF/LCD BRIGHTNESS</td></tr><caption id='4' style='font-size:20px'>Still photography</caption></table>\n<br><p id='7' data-category='paragraph' style='font-size:18px'>The quick menu shows the options currently selected for items<br>② 12, which can be changed.</p>\n<br><footer id='8' style='font-size:22px'>Shortcuts</footer>\n<footer id='9' style='font-size:16px'>247</footer>",
+        "markdown": "# The Quick Menu\n\nUse the quick menu for quick access to selected options. To\nview the quick menu, press the Q button.\n\n# The Quick Menu Display\n\nThe quick menu offers different options in photo and movie\nmodes. At default settings, it contains the following items:\n\nStill photography\n\n![image](/image/placeholder)\n←0 SELECT CUSTO M SETTING\nISO AUTO 3 WB 品 100\nP 12800 AUTO\n\nISO 0 3:2 FINE 8\n5 NR\n6\nOFF AF-S ⌀OFF 0\nSET Q LONG PRESS EDIT/SAVE CUSTOM\n1\n1 ●\n\n| Default | Default |\n| --- | --- |\n| SHOOTING MODE/ SELECT CUSTOM SETTING | IMAGE QUALITY |\n| 2 ISO | 8 FILM SIMULATION |\n| 3 WHITE BALANCE | 9 SELF-TIMER |\n| 4 DYNAMIC RANGE | 10 FOCUS MODE |\n| 5 HIGH ISO NR | 11 FACE/EYE DETECTION SETTING |\n| IMAGE SIZE | 12 EVF/LCD BRIGHTNESS |\n\n\nThe quick menu shows the options currently selected for items\n② 12, which can be changed.\n\nShortcuts\n\n247",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='0' style='font-size:20px'>The Quick Menu</h1>",
+                "markdown": "# The Quick Menu",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1812,
+                    "y": 0.0733
+                },
+                {
+                    "x": 0.4565,
+                    "y": 0.0733
+                },
+                {
+                    "x": 0.4565,
+                    "y": 0.0997
+                },
+                {
+                    "x": 0.1812,
+                    "y": 0.0997
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='1' data-category='paragraph' style='font-size:16px'>Use the quick menu for quick access to selected options. To<br>view the quick menu, press the Q button.</p>",
+                "markdown": "Use the quick menu for quick access to selected options. To\nview the quick menu, press the Q button.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1773,
+                    "y": 0.1095
+                },
+                {
+                    "x": 0.9164,
+                    "y": 0.1095
+                },
+                {
+                    "x": 0.9164,
+                    "y": 0.1589
+                },
+                {
+                    "x": 0.1773,
+                    "y": 0.1589
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='2' style='font-size:18px'>The Quick Menu Display</h1>",
+                "markdown": "# The Quick Menu Display",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.107,
+                    "y": 0.1794
+                },
+                {
+                    "x": 0.4397,
+                    "y": 0.1794
+                },
+                {
+                    "x": 0.4397,
+                    "y": 0.2049
+                },
+                {
+                    "x": 0.107,
+                    "y": 0.2049
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='3' data-category='paragraph' style='font-size:16px'>The quick menu offers different options in photo and movie<br>modes. At default settings, it contains the following items:</p>",
+                "markdown": "The quick menu offers different options in photo and movie\nmodes. At default settings, it contains the following items:",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1066,
+                    "y": 0.2117
+                },
+                {
+                    "x": 0.9181,
+                    "y": 0.2117
+                },
+                {
+                    "x": 0.9181,
+                    "y": 0.2625
+                },
+                {
+                    "x": 0.1066,
+                    "y": 0.2625
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='4' data-category='paragraph' style='font-size:20px'>Still photography</p>",
+                "markdown": "Still photography",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1187,
+                    "y": 0.2829
+                },
+                {
+                    "x": 0.343,
+                    "y": 0.2829
+                },
+                {
+                    "x": 0.343,
+                    "y": 0.309
+                },
+                {
+                    "x": 0.1187,
+                    "y": 0.309
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "figure",
+            "content": {
+                "html": "<figure id='5'><img style='font-size:14px' alt=\"←0 SELECT CUSTO M SETTING\nISO AUTO 3 WB 品 100\nP 12800 AUTO\n\nISO 0 3:2 FINE 8\n5 NR\n6\nOFF AF-S ⌀OFF 0\nSET Q LONG PRESS EDIT/SAVE CUSTOM\n1\n1 ●\" data-coord=\"top-left:(688,1227); bottom-right:(2168,2295)\" /></figure>",
+                "markdown": "![image](/image/placeholder)\n←0 SELECT CUSTO M SETTING\nISO AUTO 3 WB 品 100\nP 12800 AUTO\n\nISO 0 3:2 FINE 8\n5 NR\n6\nOFF AF-S ⌀OFF 0\nSET Q LONG PRESS EDIT/SAVE CUSTOM\n1\n1 ●",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.249,
+                    "y": 0.3149
+                },
+                {
+                    "x": 0.7846,
+                    "y": 0.3149
+                },
+                {
+                    "x": 0.7846,
+                    "y": 0.5889
+                },
+                {
+                    "x": 0.249,
+                    "y": 0.5889
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='6' style='font-size:14px'><tr><td colspan=\"2\">Default</td></tr><tr><td>SHOOTING MODE/ SELECT CUSTOM SETTING</td><td>IMAGE QUALITY</td></tr><tr><td>2 ISO</td><td>8 FILM SIMULATION</td></tr><tr><td>3 WHITE BALANCE</td><td>9 SELF-TIMER</td></tr><tr><td>4 DYNAMIC RANGE</td><td>10 FOCUS MODE</td></tr><tr><td>5 HIGH ISO NR</td><td>11 FACE/EYE DETECTION SETTING</td></tr><tr><td>IMAGE SIZE</td><td>12 EVF/LCD BRIGHTNESS</td></tr></table>",
+                "markdown": "| Default | Default |\n| --- | --- |\n| SHOOTING MODE/ SELECT CUSTOM SETTING | IMAGE QUALITY |\n| 2 ISO | 8 FILM SIMULATION |\n| 3 WHITE BALANCE | 9 SELF-TIMER |\n| 4 DYNAMIC RANGE | 10 FOCUS MODE |\n| 5 HIGH ISO NR | 11 FACE/EYE DETECTION SETTING |\n| IMAGE SIZE | 12 EVF/LCD BRIGHTNESS |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1065,
+                    "y": 0.6078
+                },
+                {
+                    "x": 0.919,
+                    "y": 0.6078
+                },
+                {
+                    "x": 0.919,
+                    "y": 0.8044
+                },
+                {
+                    "x": 0.1065,
+                    "y": 0.8044
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='7' data-category='paragraph' style='font-size:18px'>The quick menu shows the options currently selected for items<br>② 12, which can be changed.</p>",
+                "markdown": "The quick menu shows the options currently selected for items\n② 12, which can be changed.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1079,
+                    "y": 0.8152
+                },
+                {
+                    "x": 0.9187,
+                    "y": 0.8152
+                },
+                {
+                    "x": 0.9187,
+                    "y": 0.8678
+                },
+                {
+                    "x": 0.1079,
+                    "y": 0.8678
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<br><footer id='8' style='font-size:22px'>Shortcuts</footer>",
+                "markdown": "Shortcuts",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9559,
+                    "y": 0.6213
+                },
+                {
+                    "x": 0.9828,
+                    "y": 0.6213
+                },
+                {
+                    "x": 0.9828,
+                    "y": 0.7401
+                },
+                {
+                    "x": 0.9559,
+                    "y": 0.7401
+                }
+            ],
+            "id": 8,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='9' style='font-size:16px'>247</footer>",
+                "markdown": "247",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.8602,
+                    "y": 0.9566
+                },
+                {
+                    "x": 0.9177,
+                    "y": 0.9566
+                },
+                {
+                    "x": 0.9177,
+                    "y": 0.9792
+                },
+                {
+                    "x": 0.8602,
+                    "y": 0.9792
+                }
+            ],
+            "id": 9,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

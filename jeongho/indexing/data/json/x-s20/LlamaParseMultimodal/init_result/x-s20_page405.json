@@ -1,0 +1,63 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "\n# Troubleshooting\n\n| Problem                          | Solution                                                                                                                                                       |\n|----------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Cannot connect to iPhones or iPads. | **POWER SUPPLY ON/COMM OFF** is selected for **USB POWER SUPPLY/COMM SETTING**. Select **POWER SUPPLY OFF/COMM ON** when the camera is connected via a Lightning connection to a device that does not supply power (📖 268). |\n| Cannot connect to smartphone.    | Confirm that the camera is correctly connected: The procedure for connecting the camera varies with the type of connector with which the smartphone is equipped (📖 250). |\n",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "Troubleshooting",
+                    "md": "# Troubleshooting"
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Problem",
+                            "Solution"
+                        ],
+                        [
+                            "Cannot connect to iPhones or iPads.",
+                            "**POWER SUPPLY ON/COMM OFF** is selected for **USB POWER SUPPLY/COMM SETTING**. Select **POWER SUPPLY OFF/COMM ON** when the camera is connected via a Lightning connection to a device that does not supply power (📖 268)."
+                        ],
+                        [
+                            "Cannot connect to smartphone.",
+                            "Confirm that the camera is correctly connected: The procedure for connecting the camera varies with the type of connector with which the smartphone is equipped (📖 250)."
+                        ]
+                    ],
+                    "md": "| Problem                          | Solution                                                                                                                                                       |\n|----------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Cannot connect to iPhones or iPads. | **POWER SUPPLY ON/COMM OFF** is selected for **USB POWER SUPPLY/COMM SETTING**. Select **POWER SUPPLY OFF/COMM ON** when the camera is connected via a Lightning connection to a device that does not supply power (📖 268). |\n| Cannot connect to smartphone.    | Confirm that the camera is correctly connected: The procedure for connecting the camera varies with the type of connector with which the smartphone is equipped (📖 250). |",
+                    "isPerfectTable": true,
+                    "csv": "\"Problem\",\"Solution\"\n\"Cannot connect to iPhones or iPads.\",\"**POWER SUPPLY ON/COMM OFF** is selected for **USB POWER SUPPLY/COMM SETTING**. Select **POWER SUPPLY OFF/COMM ON** when the camera is connected via a Lightning connection to a device that does not supply power (📖 268).\"\n\"Cannot connect to smartphone.\",\"Confirm that the camera is correctly connected: The procedure for connecting the camera varies with the type of connector with which the smartphone is equipped (📖 250).\""
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 337.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "ad79d6e3-77b0-4e02-868d-f78413b6b6a6",
+    "file_path": "../data/raw_data/x-s20/x-s20_split/x-s20_page405.pdf"
+}

@@ -1,0 +1,88 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "# POWER MANAGEMENT\n\nAdjust power management settings.\n\nTo access power management settings, press **MENU/OK**, select the !Setup Icon **(SET UP)** tab, and choose **POWER MANAGEMENT**.\n\n!Power Management Menu\n\n## AUTO POWER OFF\n\nChoose the length of time before the camera turns off automatically when no operations are performed. Shorter times increase battery life; if **OFF** is selected, the camera must be turned off manually.\n\n| Options | \n|---------|\n| 5 MIN   |\n| 2 MIN   |\n| 1 MIN   |\n| 30 SEC  |\n| 15 SEC  |\n| OFF     |",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "POWER MANAGEMENT",
+                    "md": "# POWER MANAGEMENT"
+                },
+                {
+                    "type": "text",
+                    "value": "Adjust power management settings.\n\nTo access power management settings, press **MENU/OK**, select the !Setup Icon **(SET UP)** tab, and choose **POWER MANAGEMENT**.\n\n!Power Management Menu",
+                    "md": "Adjust power management settings.\n\nTo access power management settings, press **MENU/OK**, select the !Setup Icon **(SET UP)** tab, and choose **POWER MANAGEMENT**.\n\n!Power Management Menu"
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "AUTO POWER OFF",
+                    "md": "## AUTO POWER OFF"
+                },
+                {
+                    "type": "text",
+                    "value": "Choose the length of time before the camera turns off automatically when no operations are performed. Shorter times increase battery life; if **OFF** is selected, the camera must be turned off manually.",
+                    "md": "Choose the length of time before the camera turns off automatically when no operations are performed. Shorter times increase battery life; if **OFF** is selected, the camera must be turned off manually."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Options"
+                        ],
+                        [
+                            "5 MIN"
+                        ],
+                        [
+                            "2 MIN"
+                        ],
+                        [
+                            "1 MIN"
+                        ],
+                        [
+                            "30 SEC"
+                        ],
+                        [
+                            "15 SEC"
+                        ],
+                        [
+                            "OFF"
+                        ]
+                    ],
+                    "md": "| Options | \n|---------|\n| 5 MIN   |\n| 2 MIN   |\n| 1 MIN   |\n| 30 SEC  |\n| 15 SEC  |\n| OFF     |",
+                    "isPerfectTable": true,
+                    "csv": "\"Options\"\n\"5 MIN\"\n\"2 MIN\"\n\"1 MIN\"\n\"30 SEC\"\n\"15 SEC\"\n\"OFF\""
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 452.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "9a526513-a378-44cc-a356-eab7b9f845aa",
+    "file_path": "../data/raw_data/gfx100ii/gfx100ii_split/gfx100ii_page394.pdf"
+}

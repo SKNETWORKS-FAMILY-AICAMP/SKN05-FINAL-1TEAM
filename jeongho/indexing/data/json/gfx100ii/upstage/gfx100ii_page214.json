@@ -1,0 +1,210 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<h1 id='0' style='font-size:20px'>The Playback Display</h1>\n<br><h1 id='1' style='font-size:18px'>This section lists the indicators that may be displayed during<br>playback.</h1>\n<br><p id='2' data-category='paragraph' style='font-size:16px'>For illustrative purposes, displays are shown with all indicators lit.</p>\n<br><figure id='3'><img style='font-size:14px' alt=\"6 7 8\nnon 100 部100 100\n12/31/2023 - /999 GEO� > ⌀1100 On 1 2 SSD 100-0001\n10\n39\n11\nSHIFT 16/16 12\nframe.io 13\n35\n34\n33\n32\n4ch\nTC00:00:00:00\nFHD\n▶ 1/1000 F 5.6 ⌀+1.0 ISO 12800 总器 与\n59.94\n30\nMOV S HEIF 59.94 F\nFHD\n20 19 18 17 16\" data-coord=\"top-left:(248,740); bottom-right:(2473,2566)\" /></figure>\n<br><header id='4' style='font-size:14px'>7</header>\n<br><header id='5' style='font-size:22px'>Playback<br>and<br>the<br>Playback<br>Menu</header>\n<footer id='6' style='font-size:18px'>214</footer>",
+        "markdown": "# The Playback Display\n\n# This section lists the indicators that may be displayed during\nplayback.\n\nFor illustrative purposes, displays are shown with all indicators lit.\n\n![image](/image/placeholder)\n6 7 8\nnon 100 部100 100\n12/31/2023 - /999 GEO� > ⌀1100 On 1 2 SSD 100-0001\n10\n39\n11\nSHIFT 16/16 12\nframe.io 13\n35\n34\n33\n32\n4ch\nTC00:00:00:00\nFHD\n▶ 1/1000 F 5.6 ⌀+1.0 ISO 12800 总器 与\n59.94\n30\nMOV S HEIF 59.94 F\nFHD\n20 19 18 17 16\n\n7\n\nPlayback\nand\nthe\nPlayback\nMenu\n\n214",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='0' style='font-size:20px'>The Playback Display</h1>",
+                "markdown": "# The Playback Display",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1558,
+                    "y": 0.0726
+                },
+                {
+                    "x": 0.5148,
+                    "y": 0.0726
+                },
+                {
+                    "x": 0.5148,
+                    "y": 0.1012
+                },
+                {
+                    "x": 0.1558,
+                    "y": 0.1012
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='1' style='font-size:18px'>This section lists the indicators that may be displayed during<br>playback.</h1>",
+                "markdown": "# This section lists the indicators that may be displayed during\nplayback.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1501,
+                    "y": 0.1102
+                },
+                {
+                    "x": 0.8911,
+                    "y": 0.1102
+                },
+                {
+                    "x": 0.8911,
+                    "y": 0.1578
+                },
+                {
+                    "x": 0.1501,
+                    "y": 0.1578
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='2' data-category='paragraph' style='font-size:16px'>For illustrative purposes, displays are shown with all indicators lit.</p>",
+                "markdown": "For illustrative purposes, displays are shown with all indicators lit.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0884,
+                    "y": 0.1655
+                },
+                {
+                    "x": 0.8309,
+                    "y": 0.1655
+                },
+                {
+                    "x": 0.8309,
+                    "y": 0.1874
+                },
+                {
+                    "x": 0.0884,
+                    "y": 0.1874
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "figure",
+            "content": {
+                "html": "<br><figure id='3'><img style='font-size:14px' alt=\"6 7 8\nnon 100 部100 100\n12/31/2023 - /999 GEO� > ⌀1100 On 1 2 SSD 100-0001\n10\n39\n11\nSHIFT 16/16 12\nframe.io 13\n35\n34\n33\n32\n4ch\nTC00:00:00:00\nFHD\n▶ 1/1000 F 5.6 ⌀+1.0 ISO 12800 总器 与\n59.94\n30\nMOV S HEIF 59.94 F\nFHD\n20 19 18 17 16\" data-coord=\"top-left:(248,740); bottom-right:(2473,2566)\" /></figure>",
+                "markdown": "![image](/image/placeholder)\n6 7 8\nnon 100 部100 100\n12/31/2023 - /999 GEO� > ⌀1100 On 1 2 SSD 100-0001\n10\n39\n11\nSHIFT 16/16 12\nframe.io 13\n35\n34\n33\n32\n4ch\nTC00:00:00:00\nFHD\n▶ 1/1000 F 5.6 ⌀+1.0 ISO 12800 总器 与\n59.94\n30\nMOV S HEIF 59.94 F\nFHD\n20 19 18 17 16",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0899,
+                    "y": 0.1901
+                },
+                {
+                    "x": 0.8948,
+                    "y": 0.1901
+                },
+                {
+                    "x": 0.8948,
+                    "y": 0.6585
+                },
+                {
+                    "x": 0.0899,
+                    "y": 0.6585
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "header",
+            "content": {
+                "html": "<br><header id='4' style='font-size:14px'>7</header>",
+                "markdown": "7",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0258,
+                    "y": 0.5968
+                },
+                {
+                    "x": 0.0442,
+                    "y": 0.5968
+                },
+                {
+                    "x": 0.0442,
+                    "y": 0.6179
+                },
+                {
+                    "x": 0.0258,
+                    "y": 0.6179
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "header",
+            "content": {
+                "html": "<br><header id='5' style='font-size:22px'>Playback<br>and<br>the<br>Playback<br>Menu</header>",
+                "markdown": "Playback\nand\nthe\nPlayback\nMenu",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0181,
+                    "y": 0.3409
+                },
+                {
+                    "x": 0.0425,
+                    "y": 0.3409
+                },
+                {
+                    "x": 0.0425,
+                    "y": 0.5835
+                },
+                {
+                    "x": 0.0181,
+                    "y": 0.5835
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='6' style='font-size:18px'>214</footer>",
+                "markdown": "214",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0822,
+                    "y": 0.9566
+                },
+                {
+                    "x": 0.1408,
+                    "y": 0.9566
+                },
+                {
+                    "x": 0.1408,
+                    "y": 0.9789
+                },
+                {
+                    "x": 0.0822,
+                    "y": 0.9789
+                }
+            ],
+            "id": 6,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

@@ -1,0 +1,238 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:14px'>2</header>\n<br><h1 id='1' style='font-size:20px'>Attaching the Strap</h1>\n<br><p id='2' data-category='paragraph' style='font-size:18px'>Attach the strap.</p>\n\n<br><figure id='4'><img style='font-size:14px' alt=\"2\" data-coord=\"top-left:(222,671); bottom-right:(2443,1462)\" /><figcaption id='3' style='font-size:18px'>Attach the strap to the two strap eyelets as shown below.</figcaption></figure>\n<br><p id='5' data-category='paragraph' style='font-size:16px'>To avoid dropping the camera, be sure the strap is correctly secured.</p>\n<br><header id='6' style='font-size:22px'>First<br>Steps</header>\n<footer id='7' style='font-size:18px'>40</footer>",
+        "markdown": "2\n\n# Attaching the Strap\n\nAttach the strap.\n\nAttach the strap to the two strap eyelets as shown below.\n\n![image](/image/placeholder)\n2\n\nTo avoid dropping the camera, be sure the strap is correctly secured.\n\nFirst\nSteps\n\n40",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:14px'>2</header>",
+                "markdown": "2",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0246,
+                    "y": 0.2974
+                },
+                {
+                    "x": 0.0439,
+                    "y": 0.2974
+                },
+                {
+                    "x": 0.0439,
+                    "y": 0.3185
+                },
+                {
+                    "x": 0.0246,
+                    "y": 0.3185
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='1' style='font-size:20px'>Attaching the Strap</h1>",
+                "markdown": "# Attaching the Strap",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1541,
+                    "y": 0.0741
+                },
+                {
+                    "x": 0.4869,
+                    "y": 0.0741
+                },
+                {
+                    "x": 0.4869,
+                    "y": 0.0999
+                },
+                {
+                    "x": 0.1541,
+                    "y": 0.0999
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='2' data-category='paragraph' style='font-size:18px'>Attach the strap.</p>",
+                "markdown": "Attach the strap.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1538,
+                    "y": 0.1101
+                },
+                {
+                    "x": 0.3662,
+                    "y": 0.1101
+                },
+                {
+                    "x": 0.3662,
+                    "y": 0.1321
+                },
+                {
+                    "x": 0.1538,
+                    "y": 0.1321
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='3' data-category='paragraph' style='font-size:18px'>Attach the strap to the two strap eyelets as shown below.</p>",
+                "markdown": "Attach the strap to the two strap eyelets as shown below.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0816,
+                    "y": 0.147
+                },
+                {
+                    "x": 0.8048,
+                    "y": 0.147
+                },
+                {
+                    "x": 0.8048,
+                    "y": 0.1722
+                },
+                {
+                    "x": 0.0816,
+                    "y": 0.1722
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "figure",
+            "content": {
+                "html": "<br><figure id='4'><img style='font-size:14px' alt=\"2\" data-coord=\"top-left:(222,671); bottom-right:(2443,1462)\" /></figure>",
+                "markdown": "![image](/image/placeholder)\n2",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0804,
+                    "y": 0.1723
+                },
+                {
+                    "x": 0.884,
+                    "y": 0.1723
+                },
+                {
+                    "x": 0.884,
+                    "y": 0.3751
+                },
+                {
+                    "x": 0.0804,
+                    "y": 0.3751
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='5' data-category='paragraph' style='font-size:16px'>To avoid dropping the camera, be sure the strap is correctly secured.</p>",
+                "markdown": "To avoid dropping the camera, be sure the strap is correctly secured.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0856,
+                    "y": 0.3773
+                },
+                {
+                    "x": 0.872,
+                    "y": 0.3773
+                },
+                {
+                    "x": 0.872,
+                    "y": 0.4004
+                },
+                {
+                    "x": 0.0856,
+                    "y": 0.4004
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "header",
+            "content": {
+                "html": "<br><header id='6' style='font-size:22px'>First<br>Steps</header>",
+                "markdown": "First\nSteps",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0172,
+                    "y": 0.3401
+                },
+                {
+                    "x": 0.0417,
+                    "y": 0.3401
+                },
+                {
+                    "x": 0.0417,
+                    "y": 0.4167
+                },
+                {
+                    "x": 0.0172,
+                    "y": 0.4167
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='7' style='font-size:18px'>40</footer>",
+                "markdown": "40",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0824,
+                    "y": 0.9575
+                },
+                {
+                    "x": 0.1231,
+                    "y": 0.9575
+                },
+                {
+                    "x": 0.1231,
+                    "y": 0.9792
+                },
+                {
+                    "x": 0.0824,
+                    "y": 0.9792
+                }
+            ],
+            "id": 7,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

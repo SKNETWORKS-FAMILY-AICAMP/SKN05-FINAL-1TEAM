@@ -1,0 +1,150 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "\n# EVF COLOR ADJUSTMENT\nAdjust the color of the display in the electronic viewfinder.\n\n1. Adjust colors using the focus stick (focus lever).\n\n   !EVF Color Adjustment\n\n2. Press **MENU/OK**.\n\n# LCD BRIGHTNESS\nAdjust monitor brightness.\n\n| Options |     |     |     |     |     |     |     |     |     |     |\n|---------|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|\n| -5      | -4  | -3  | -2  | -1  | 0   | +1  | +2  | +3  | +4  | +5  |\n\n# LCD COLOR\nAdjust monitor hue.\n\n| Options |     |     |     |     |     |     |     |     |     |     |\n|---------|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|\n| -5      | -4  | -3  | -2  | -1  | 0   | +1  | +2  | +3  | +4  | +5  |\n\n# LCD COLOR ADJUSTMENT\nAdjust the color of the display in the LCD monitor.\n\n1. Adjust colors using the focus stick (focus lever).\n\n2. Press **MENU/OK**.\n",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "EVF COLOR ADJUSTMENT",
+                    "md": "# EVF COLOR ADJUSTMENT"
+                },
+                {
+                    "type": "text",
+                    "value": "Adjust the color of the display in the electronic viewfinder.\n\n1. Adjust colors using the focus stick (focus lever).\n\n   !EVF Color Adjustment\n\n2. Press **MENU/OK**.",
+                    "md": "Adjust the color of the display in the electronic viewfinder.\n\n1. Adjust colors using the focus stick (focus lever).\n\n   !EVF Color Adjustment\n\n2. Press **MENU/OK**."
+                },
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "LCD BRIGHTNESS",
+                    "md": "# LCD BRIGHTNESS"
+                },
+                {
+                    "type": "text",
+                    "value": "Adjust monitor brightness.",
+                    "md": "Adjust monitor brightness."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Options",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        [
+                            "-5",
+                            "-4",
+                            "-3",
+                            "-2",
+                            "-1",
+                            "0",
+                            "+1",
+                            "+2",
+                            "+3",
+                            "+4",
+                            "+5"
+                        ]
+                    ],
+                    "md": "| Options |     |     |     |     |     |     |     |     |     |     |\n|---------|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|\n| -5      | -4  | -3  | -2  | -1  | 0   | +1  | +2  | +3  | +4  | +5  |",
+                    "isPerfectTable": true,
+                    "csv": "\"Options\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\"\n\"-5\",\"-4\",\"-3\",\"-2\",\"-1\",\"0\",\"+1\",\"+2\",\"+3\",\"+4\",\"+5\""
+                },
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "LCD COLOR",
+                    "md": "# LCD COLOR"
+                },
+                {
+                    "type": "text",
+                    "value": "Adjust monitor hue.",
+                    "md": "Adjust monitor hue."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Options",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        [
+                            "-5",
+                            "-4",
+                            "-3",
+                            "-2",
+                            "-1",
+                            "0",
+                            "+1",
+                            "+2",
+                            "+3",
+                            "+4",
+                            "+5"
+                        ]
+                    ],
+                    "md": "| Options |     |     |     |     |     |     |     |     |     |     |\n|---------|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|\n| -5      | -4  | -3  | -2  | -1  | 0   | +1  | +2  | +3  | +4  | +5  |",
+                    "isPerfectTable": true,
+                    "csv": "\"Options\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\"\n\"-5\",\"-4\",\"-3\",\"-2\",\"-1\",\"0\",\"+1\",\"+2\",\"+3\",\"+4\",\"+5\""
+                },
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "LCD COLOR ADJUSTMENT",
+                    "md": "# LCD COLOR ADJUSTMENT"
+                },
+                {
+                    "type": "text",
+                    "value": "Adjust the color of the display in the LCD monitor.\n\n1. Adjust colors using the focus stick (focus lever).\n\n2. Press **MENU/OK**.",
+                    "md": "Adjust the color of the display in the LCD monitor.\n\n1. Adjust colors using the focus stick (focus lever).\n\n2. Press **MENU/OK**."
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "parsingMode": "multimodal-openai-gpt4o",
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 105.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "a7c7bb3d-d420-475f-8f07-3380586317a2",
+    "file_path": "../data/raw_data/x-e4/x-e4_split/x-e4_page240.pdf"
+}

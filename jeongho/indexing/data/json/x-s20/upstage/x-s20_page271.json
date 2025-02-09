@@ -1,0 +1,434 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:14px'>USER SETTING</header>\n<p id='1' data-category='paragraph' style='font-size:14px'>↑ AREA SETTING</p>\n<br><h1 id='2' style='font-size:20px'>Adjust settings for your current time zone.</h1>\n<p id='3' data-category='paragraph' style='font-size:16px'>AREA SETTING</p>\n<br><h1 id='4' style='font-size:14px'>Choose your time zone from a map.</h1>\n<h1 id='5' style='font-size:18px'>DAYLIGHT SAVINGS</h1>\n<br><h1 id='6' style='font-size:16px'>Turn daylight saving time on or off.</h1>\n<table id='7' style='font-size:16px'><tr><td>Option</td><td>Description</td></tr><tr><td>ON</td><td>Daylight saving time on.</td></tr><tr><td>OFF</td><td>Daylight saving time off.</td></tr></table>\n<br><p id='8' data-category='paragraph' style='font-size:16px'>DATE/TIME</p>\n<br><p id='9' data-category='paragraph' style='font-size:14px'>To set the camera clock:</p>\n<p id='10' data-category='paragraph' style='font-size:18px'>1 Select 8 USER SETTING > DATE/TIME in the 8 (SET UP) tab.</p>\n<p id='11' data-category='list' style='font-size:20px'>2 Press the focus stick (focus lever) left or right to highlight the<br>year, month, day, hour, or minute and press up or down to<br>change. To change the order in which the year, month, and<br>day are displayed, highlight the date format and press the<br>focus stick up or down.</p>\n<p id='12' data-category='list' style='font-size:16px'>3 Press MENU/OK to set the clock.</p>\n<br><footer id='13' style='font-size:22px'>The<br>Setup<br>Menus</footer>\n<footer id='14' style='font-size:22px'>271</footer>",
+        "markdown": "USER SETTING\n\n↑ AREA SETTING\n\n# Adjust settings for your current time zone.\n\nAREA SETTING\n\n# Choose your time zone from a map.\n\n# DAYLIGHT SAVINGS\n\n# Turn daylight saving time on or off.\n\n| Option | Description |\n| --- | --- |\n| ON | Daylight saving time on. |\n| OFF | Daylight saving time off. |\n\n\nDATE/TIME\n\nTo set the camera clock:\n\n1 Select 8 USER SETTING > DATE/TIME in the 8 (SET UP) tab.\n\n- 2 Press the focus stick (focus lever) left or right to highlight the\n- year, month, day, hour, or minute and press up or down to\n- change. To change the order in which the year, month, and\n- day are displayed, highlight the date format and press the\n- focus stick up or down.\n\n\n- 3 Press MENU/OK to set the clock.\n\n\nThe\nSetup\nMenus\n\n271",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:14px'>USER SETTING</header>",
+                "markdown": "USER SETTING",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.7757,
+                    "y": 0.0285
+                },
+                {
+                    "x": 0.9186,
+                    "y": 0.0285
+                },
+                {
+                    "x": 0.9186,
+                    "y": 0.0489
+                },
+                {
+                    "x": 0.7757,
+                    "y": 0.0489
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='1' data-category='paragraph' style='font-size:14px'>↑ AREA SETTING</p>",
+                "markdown": "↑ AREA SETTING",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1103,
+                    "y": 0.074
+                },
+                {
+                    "x": 0.3601,
+                    "y": 0.074
+                },
+                {
+                    "x": 0.3601,
+                    "y": 0.095
+                },
+                {
+                    "x": 0.1103,
+                    "y": 0.095
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='2' style='font-size:20px'>Adjust settings for your current time zone.</h1>",
+                "markdown": "# Adjust settings for your current time zone.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1068,
+                    "y": 0.1057
+                },
+                {
+                    "x": 0.6404,
+                    "y": 0.1057
+                },
+                {
+                    "x": 0.6404,
+                    "y": 0.13
+                },
+                {
+                    "x": 0.1068,
+                    "y": 0.13
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='3' data-category='paragraph' style='font-size:16px'>AREA SETTING</p>",
+                "markdown": "AREA SETTING",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1194,
+                    "y": 0.1515
+                },
+                {
+                    "x": 0.306,
+                    "y": 0.1515
+                },
+                {
+                    "x": 0.306,
+                    "y": 0.1735
+                },
+                {
+                    "x": 0.1194,
+                    "y": 0.1735
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='4' style='font-size:14px'>Choose your time zone from a map.</h1>",
+                "markdown": "# Choose your time zone from a map.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.107,
+                    "y": 0.1821
+                },
+                {
+                    "x": 0.5599,
+                    "y": 0.1821
+                },
+                {
+                    "x": 0.5599,
+                    "y": 0.2064
+                },
+                {
+                    "x": 0.107,
+                    "y": 0.2064
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='5' style='font-size:18px'>DAYLIGHT SAVINGS</h1>",
+                "markdown": "# DAYLIGHT SAVINGS",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1207,
+                    "y": 0.2276
+                },
+                {
+                    "x": 0.3664,
+                    "y": 0.2276
+                },
+                {
+                    "x": 0.3664,
+                    "y": 0.251
+                },
+                {
+                    "x": 0.1207,
+                    "y": 0.251
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='6' style='font-size:16px'>Turn daylight saving time on or off.</h1>",
+                "markdown": "# Turn daylight saving time on or off.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1068,
+                    "y": 0.2587
+                },
+                {
+                    "x": 0.5512,
+                    "y": 0.2587
+                },
+                {
+                    "x": 0.5512,
+                    "y": 0.2827
+                },
+                {
+                    "x": 0.1068,
+                    "y": 0.2827
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='7' style='font-size:16px'><tr><td>Option</td><td>Description</td></tr><tr><td>ON</td><td>Daylight saving time on.</td></tr><tr><td>OFF</td><td>Daylight saving time off.</td></tr></table>",
+                "markdown": "| Option | Description |\n| --- | --- |\n| ON | Daylight saving time on. |\n| OFF | Daylight saving time off. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.108,
+                    "y": 0.2945
+                },
+                {
+                    "x": 0.917,
+                    "y": 0.2945
+                },
+                {
+                    "x": 0.917,
+                    "y": 0.371
+                },
+                {
+                    "x": 0.108,
+                    "y": 0.371
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='8' data-category='paragraph' style='font-size:16px'>DATE/TIME</p>",
+                "markdown": "DATE/TIME",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1084,
+                    "y": 0.3863
+                },
+                {
+                    "x": 0.2645,
+                    "y": 0.3863
+                },
+                {
+                    "x": 0.2645,
+                    "y": 0.4092
+                },
+                {
+                    "x": 0.1084,
+                    "y": 0.4092
+                }
+            ],
+            "id": 8,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='9' data-category='paragraph' style='font-size:14px'>To set the camera clock:</p>",
+                "markdown": "To set the camera clock:",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1072,
+                    "y": 0.419
+                },
+                {
+                    "x": 0.4155,
+                    "y": 0.419
+                },
+                {
+                    "x": 0.4155,
+                    "y": 0.4424
+                },
+                {
+                    "x": 0.1072,
+                    "y": 0.4424
+                }
+            ],
+            "id": 9,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='10' data-category='paragraph' style='font-size:18px'>1 Select 8 USER SETTING > DATE/TIME in the 8 (SET UP) tab.</p>",
+                "markdown": "1 Select 8 USER SETTING > DATE/TIME in the 8 (SET UP) tab.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1182,
+                    "y": 0.4567
+                },
+                {
+                    "x": 0.9178,
+                    "y": 0.4567
+                },
+                {
+                    "x": 0.9178,
+                    "y": 0.4804
+                },
+                {
+                    "x": 0.1182,
+                    "y": 0.4804
+                }
+            ],
+            "id": 10,
+            "page": 1
+        },
+        {
+            "category": "list",
+            "content": {
+                "html": "<p id='11' data-category='list' style='font-size:20px'>2 Press the focus stick (focus lever) left or right to highlight the<br>year, month, day, hour, or minute and press up or down to<br>change. To change the order in which the year, month, and<br>day are displayed, highlight the date format and press the<br>focus stick up or down.</p>",
+                "markdown": "- 2 Press the focus stick (focus lever) left or right to highlight the\n- year, month, day, hour, or minute and press up or down to\n- change. To change the order in which the year, month, and\n- day are displayed, highlight the date format and press the\n- focus stick up or down.\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1223,
+                    "y": 0.4938
+                },
+                {
+                    "x": 0.9198,
+                    "y": 0.4938
+                },
+                {
+                    "x": 0.9198,
+                    "y": 0.6217
+                },
+                {
+                    "x": 0.1223,
+                    "y": 0.6217
+                }
+            ],
+            "id": 11,
+            "page": 1
+        },
+        {
+            "category": "list",
+            "content": {
+                "html": "<p id='12' data-category='list' style='font-size:16px'>3 Press MENU/OK to set the clock.</p>",
+                "markdown": "- 3 Press MENU/OK to set the clock.\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1229,
+                    "y": 0.6368
+                },
+                {
+                    "x": 0.538,
+                    "y": 0.6368
+                },
+                {
+                    "x": 0.538,
+                    "y": 0.6605
+                },
+                {
+                    "x": 0.1229,
+                    "y": 0.6605
+                }
+            ],
+            "id": 12,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<br><footer id='13' style='font-size:22px'>The<br>Setup<br>Menus</footer>",
+                "markdown": "The\nSetup\nMenus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9576,
+                    "y": 0.5702
+                },
+                {
+                    "x": 0.9798,
+                    "y": 0.5702
+                },
+                {
+                    "x": 0.9798,
+                    "y": 0.6978
+                },
+                {
+                    "x": 0.9576,
+                    "y": 0.6978
+                }
+            ],
+            "id": 13,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='14' style='font-size:22px'>271</footer>",
+                "markdown": "271",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.8605,
+                    "y": 0.9565
+                },
+                {
+                    "x": 0.9148,
+                    "y": 0.9565
+                },
+                {
+                    "x": 0.9148,
+                    "y": 0.9791
+                },
+                {
+                    "x": 0.8605,
+                    "y": 0.9791
+                }
+            ],
+            "id": 14,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

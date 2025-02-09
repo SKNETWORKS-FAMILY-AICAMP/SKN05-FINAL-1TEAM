@@ -1,0 +1,116 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "# User Setting\n\n## My Menu Setting\n\nEdit the items listed in the **MY MENU** tab, a personalized custom menu of frequently-used photo menu options (page 309).\n\n## My Menu Setting\n\nEdit the items listed in the **MY MENU** tab, a personalized custom menu of frequently-used movie menu options (page 309).\n\n## Sensor Cleaning\n\nRemove dust from the camera image sensor.\n\n| Option            | Description                                                                 |\n|-------------------|-----------------------------------------------------------------------------|\n| OK                | Clean the sensor immediately.                                               |\n| WHEN SWITCHED ON  | Sensor cleaning will be performed when the camera is turned on.             |\n| WHEN SWITCHED OFF | Sensor cleaning will be performed when the camera turns off (sensor cleaning is not performed if the camera turns off in playback mode). |\n\n> 💡 **Note:**  \n> Dust that cannot be removed using sensor cleaning can be removed using a blower (page 367).\n\n## Battery Age\n\nCheck battery age. Age is expressed as a number between 0 and 4. The higher the number, the older the battery.\n\n!Battery Age Display\n\n> 💡 **Note:**  \n> The older the battery, the faster it loses its charge. We recommend that batteries be replaced as they wear out.",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "User Setting",
+                    "md": "# User Setting"
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "My Menu Setting",
+                    "md": "## My Menu Setting"
+                },
+                {
+                    "type": "text",
+                    "value": "Edit the items listed in the **MY MENU** tab, a personalized custom menu of frequently-used photo menu options (page 309).",
+                    "md": "Edit the items listed in the **MY MENU** tab, a personalized custom menu of frequently-used photo menu options (page 309)."
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "My Menu Setting",
+                    "md": "## My Menu Setting"
+                },
+                {
+                    "type": "text",
+                    "value": "Edit the items listed in the **MY MENU** tab, a personalized custom menu of frequently-used movie menu options (page 309).",
+                    "md": "Edit the items listed in the **MY MENU** tab, a personalized custom menu of frequently-used movie menu options (page 309)."
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "Sensor Cleaning",
+                    "md": "## Sensor Cleaning"
+                },
+                {
+                    "type": "text",
+                    "value": "Remove dust from the camera image sensor.",
+                    "md": "Remove dust from the camera image sensor."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Option",
+                            "Description"
+                        ],
+                        [
+                            "OK",
+                            "Clean the sensor immediately."
+                        ],
+                        [
+                            "WHEN SWITCHED ON",
+                            "Sensor cleaning will be performed when the camera is turned on."
+                        ],
+                        [
+                            "WHEN SWITCHED OFF",
+                            "Sensor cleaning will be performed when the camera turns off (sensor cleaning is not performed if the camera turns off in playback mode)."
+                        ]
+                    ],
+                    "md": "| Option            | Description                                                                 |\n|-------------------|-----------------------------------------------------------------------------|\n| OK                | Clean the sensor immediately.                                               |\n| WHEN SWITCHED ON  | Sensor cleaning will be performed when the camera is turned on.             |\n| WHEN SWITCHED OFF | Sensor cleaning will be performed when the camera turns off (sensor cleaning is not performed if the camera turns off in playback mode). |",
+                    "isPerfectTable": true,
+                    "csv": "\"Option\",\"Description\"\n\"OK\",\"Clean the sensor immediately.\"\n\"WHEN SWITCHED ON\",\"Sensor cleaning will be performed when the camera is turned on.\"\n\"WHEN SWITCHED OFF\",\"Sensor cleaning will be performed when the camera turns off (sensor cleaning is not performed if the camera turns off in playback mode).\""
+                },
+                {
+                    "type": "text",
+                    "value": "> 💡 **Note:**  \n> Dust that cannot be removed using sensor cleaning can be removed using a blower (page 367).",
+                    "md": "> 💡 **Note:**  \n> Dust that cannot be removed using sensor cleaning can be removed using a blower (page 367)."
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "Battery Age",
+                    "md": "## Battery Age"
+                },
+                {
+                    "type": "text",
+                    "value": "Check battery age. Age is expressed as a number between 0 and 4. The higher the number, the older the battery.\n\n!Battery Age Display\n\n> 💡 **Note:**  \n> The older the battery, the faster it loses its charge. We recommend that batteries be replaced as they wear out.",
+                    "md": "Check battery age. Age is expressed as a number between 0 and 4. The higher the number, the older the battery.\n\n!Battery Age Display\n\n> 💡 **Note:**  \n> The older the battery, the faster it loses its charge. We recommend that batteries be replaced as they wear out."
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 284.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "638dc956-7b16-452f-987d-1f10b8a5a5bb",
+    "file_path": "../data/raw_data/x-s20/x-s20_split/x-s20_page299.pdf"
+}

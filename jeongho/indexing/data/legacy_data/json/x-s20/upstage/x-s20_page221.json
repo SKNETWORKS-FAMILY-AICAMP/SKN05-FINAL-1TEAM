@@ -1,0 +1,70 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<p id='0' data-category='paragraph' style='font-size:18px'>Playback and the Playback<br>Menu</p>\n<footer id='1' style='font-size:14px'>219</footer>",
+        "markdown": "Playback and the Playback\nMenu\n\n219",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='0' data-category='paragraph' style='font-size:18px'>Playback and the Playback<br>Menu</p>",
+                "markdown": "Playback and the Playback\nMenu",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1603,
+                    "y": 0.315
+                },
+                {
+                    "x": 0.8016,
+                    "y": 0.315
+                },
+                {
+                    "x": 0.8016,
+                    "y": 0.3986
+                },
+                {
+                    "x": 0.1603,
+                    "y": 0.3986
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='1' style='font-size:14px'>219</footer>",
+                "markdown": "219",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.8604,
+                    "y": 0.9559
+                },
+                {
+                    "x": 0.9178,
+                    "y": 0.9559
+                },
+                {
+                    "x": 0.9178,
+                    "y": 0.9794
+                },
+                {
+                    "x": 0.8604,
+                    "y": 0.9794
+                }
+            ],
+            "id": 1,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

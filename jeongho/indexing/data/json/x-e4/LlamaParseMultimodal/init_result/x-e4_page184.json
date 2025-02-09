@@ -1,0 +1,134 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "\n# HDMI OUTPUT INFO DISPLAY\n\nIf **ON** is selected, HDMI devices to which the camera is connected will mirror the information in the camera display.\n\n| Options |      |\n|---------|------|\n| ON      | OFF  |\n\n# 4K HDMI STANDBY QUALITY\n\nChoose whether output to connected HDMI devices switches from 4K to Full HD during standby.\n\n| Option | Description                                                                 |\n|--------|-----------------------------------------------------------------------------|\n| 4K     | Output to HDMI devices continues at 4K during standby.                      |\n| FHD    | Output to HDMI devices switches to Full HD during standby, reducing the drain on the battery. |\n\n# HDMI REC CONTROL\n\nChoose whether the camera sends movie start and stop signals to the HDMI device when the shutter button is pressed to start and stop movie recording.\n\n| Options |      |\n|---------|------|\n| ON      | OFF  |\n\n# PHOTOMETRY\n\nOptions are the same as those for still photography, but settings must be adjusted separately (see page 84).\n\n> The photometry option selected in the photo menus applies to movies recorded using function buttons that have been assigned **MOVIE RECORDING RELEASE**.\n",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "HDMI OUTPUT INFO DISPLAY",
+                    "md": "# HDMI OUTPUT INFO DISPLAY"
+                },
+                {
+                    "type": "text",
+                    "value": "If **ON** is selected, HDMI devices to which the camera is connected will mirror the information in the camera display.",
+                    "md": "If **ON** is selected, HDMI devices to which the camera is connected will mirror the information in the camera display."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Options",
+                            ""
+                        ],
+                        [
+                            "ON",
+                            "OFF"
+                        ]
+                    ],
+                    "md": "| Options |      |\n|---------|------|\n| ON      | OFF  |",
+                    "isPerfectTable": true,
+                    "csv": "\"Options\",\"\"\n\"ON\",\"OFF\""
+                },
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "4K HDMI STANDBY QUALITY",
+                    "md": "# 4K HDMI STANDBY QUALITY"
+                },
+                {
+                    "type": "text",
+                    "value": "Choose whether output to connected HDMI devices switches from 4K to Full HD during standby.",
+                    "md": "Choose whether output to connected HDMI devices switches from 4K to Full HD during standby."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Option",
+                            "Description"
+                        ],
+                        [
+                            "4K",
+                            "Output to HDMI devices continues at 4K during standby."
+                        ],
+                        [
+                            "FHD",
+                            "Output to HDMI devices switches to Full HD during standby, reducing the drain on the battery."
+                        ]
+                    ],
+                    "md": "| Option | Description                                                                 |\n|--------|-----------------------------------------------------------------------------|\n| 4K     | Output to HDMI devices continues at 4K during standby.                      |\n| FHD    | Output to HDMI devices switches to Full HD during standby, reducing the drain on the battery. |",
+                    "isPerfectTable": true,
+                    "csv": "\"Option\",\"Description\"\n\"4K\",\"Output to HDMI devices continues at 4K during standby.\"\n\"FHD\",\"Output to HDMI devices switches to Full HD during standby, reducing the drain on the battery.\""
+                },
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "HDMI REC CONTROL",
+                    "md": "# HDMI REC CONTROL"
+                },
+                {
+                    "type": "text",
+                    "value": "Choose whether the camera sends movie start and stop signals to the HDMI device when the shutter button is pressed to start and stop movie recording.",
+                    "md": "Choose whether the camera sends movie start and stop signals to the HDMI device when the shutter button is pressed to start and stop movie recording."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Options",
+                            ""
+                        ],
+                        [
+                            "ON",
+                            "OFF"
+                        ]
+                    ],
+                    "md": "| Options |      |\n|---------|------|\n| ON      | OFF  |",
+                    "isPerfectTable": true,
+                    "csv": "\"Options\",\"\"\n\"ON\",\"OFF\""
+                },
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "PHOTOMETRY",
+                    "md": "# PHOTOMETRY"
+                },
+                {
+                    "type": "text",
+                    "value": "Options are the same as those for still photography, but settings must be adjusted separately (see page 84).\n\n> The photometry option selected in the photo menus applies to movies recorded using function buttons that have been assigned **MOVIE RECORDING RELEASE**.",
+                    "md": "Options are the same as those for still photography, but settings must be adjusted separately (see page 84).\n\n> The photometry option selected in the photo menus applies to movies recorded using function buttons that have been assigned **MOVIE RECORDING RELEASE**."
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "parsingMode": "multimodal-openai-gpt4o",
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 206.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "d1e9114d-07e6-4e28-b4bd-36b59617599c",
+    "file_path": "../data/raw_data/x-e4/x-e4_split/x-e4_page184.pdf"
+}

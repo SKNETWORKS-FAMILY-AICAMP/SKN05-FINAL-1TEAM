@@ -1,0 +1,85 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "# SYNC TERMINAL\n\nDisplayed when no compatible flash unit is connected.\n\n!Sync Terminal Menu\n\n## Settings\n\n| Setting              | Description                                                                                                                                                                                                 |\n|----------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| ① Flash control mode | Choose from the following options:  - **M**: A trigger signal is transmitted via the hot shoe X contacts when a picture is taken. Choose a shutter speed slower than the sync speed; even slower speeds may be required if the unit uses long flashes or has a slow response time.  - **⚪OFF (OFF)**: The trigger signal is disabled. |\n| ② Sync               | Choose whether the flash is timed to fire immediately after the shutter opens (**📷FRONT / 1ST CURTAIN**) or immediately before it closes (**📷REAR / 2ND CURTAIN**). **1ST CURTAIN** is recommended in most circumstances. |\n\n### The Sync Terminal\n\nFlash units requiring a sync cable connection cannot be used.",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "SYNC TERMINAL",
+                    "md": "# SYNC TERMINAL"
+                },
+                {
+                    "type": "text",
+                    "value": "Displayed when no compatible flash unit is connected.\n\n!Sync Terminal Menu",
+                    "md": "Displayed when no compatible flash unit is connected.\n\n!Sync Terminal Menu"
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "Settings",
+                    "md": "## Settings"
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Setting",
+                            "Description"
+                        ],
+                        [
+                            "① Flash control mode",
+                            "Choose from the following options:  - **M**: A trigger signal is transmitted via the hot shoe X contacts when a picture is taken. Choose a shutter speed slower than the sync speed; even slower speeds may be required if the unit uses long flashes or has a slow response time.  - **⚪OFF (OFF)**: The trigger signal is disabled."
+                        ],
+                        [
+                            "② Sync",
+                            "Choose whether the flash is timed to fire immediately after the shutter opens (**📷FRONT / 1ST CURTAIN**) or immediately before it closes (**📷REAR / 2ND CURTAIN**). **1ST CURTAIN** is recommended in most circumstances."
+                        ]
+                    ],
+                    "md": "| Setting              | Description                                                                                                                                                                                                 |\n|----------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| ① Flash control mode | Choose from the following options:  - **M**: A trigger signal is transmitted via the hot shoe X contacts when a picture is taken. Choose a shutter speed slower than the sync speed; even slower speeds may be required if the unit uses long flashes or has a slow response time.  - **⚪OFF (OFF)**: The trigger signal is disabled. |\n| ② Sync               | Choose whether the flash is timed to fire immediately after the shutter opens (**📷FRONT / 1ST CURTAIN**) or immediately before it closes (**📷REAR / 2ND CURTAIN**). **1ST CURTAIN** is recommended in most circumstances. |",
+                    "isPerfectTable": true,
+                    "csv": "\"Setting\",\"Description\"\n\"① Flash control mode\",\"Choose from the following options:  - **M**: A trigger signal is transmitted via the hot shoe X contacts when a picture is taken. Choose a shutter speed slower than the sync speed; even slower speeds may be required if the unit uses long flashes or has a slow response time.  - **⚪OFF (OFF)**: The trigger signal is disabled.\"\n\"② Sync\",\"Choose whether the flash is timed to fire immediately after the shutter opens (**📷FRONT / 1ST CURTAIN**) or immediately before it closes (**📷REAR / 2ND CURTAIN**). **1ST CURTAIN** is recommended in most circumstances.\""
+                },
+                {
+                    "type": "heading",
+                    "lvl": 3,
+                    "value": "The Sync Terminal",
+                    "md": "### The Sync Terminal"
+                },
+                {
+                    "type": "text",
+                    "value": "Flash units requiring a sync cable connection cannot be used.",
+                    "md": "Flash units requiring a sync cable connection cannot be used."
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 801.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "e88c2b6f-df08-420f-a1d9-05c7c1ccf3d2",
+    "file_path": "../data/raw_data/x100v/x100v_split/x100v_page282.pdf"
+}

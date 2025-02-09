@@ -1,0 +1,378 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<h1 id='0' style='font-size:18px'>SHUTTER AE</h1>\n<br><p id='1' data-category='paragraph' style='font-size:20px'>If ON is selected, exposure will lock while the shutter button is<br>pressed halfway. The setting for focus mode C (AF-C) can be ad-<br>justed separately from that for modes S (AF-S) and M (manual fo-<br>cus).</p>\n<table id='2' style='font-size:16px'><tr><td colspan=\"2\">Options</td></tr><tr><td>ON</td><td>OFF</td></tr></table>\n<br><p id='3' data-category='paragraph' style='font-size:14px'>Select OFF to allow the camera to adjust exposure before each shot<br>taken in burst mode.</p>\n\n<table id='5' style='font-size:18px'><tr><td colspan=\"2\">Options</td></tr><tr><td>ON</td><td>OFF</td></tr><caption id='4' style='font-size:18px'>SHOOT WITHOUT LENS</caption></table>\n<br><p id='6' data-category='paragraph' style='font-size:18px'>Choose ON to enable the shutter release when no lens is at-<br>tached.</p>\n<p id='7' data-category='paragraph' style='font-size:18px'>SHOOT WITHOUT CARD</p>\n\n<table id='9' style='font-size:16px'><tr><td>Option</td><td>Description</td></tr><tr><td>ON</td><td>When no memory card is inserted, the shutter can be released to test camera function and the shooting and setup menus can be displayed.</td></tr><tr><td>OFF</td><td>The shutter is disabled if no memory card is inserted, preventing accidental loss of pictures taken without a memory card.</td></tr><br><caption id='8' style='font-size:18px'>Choose whether the shutter can be released without a memory<br>card inserted in the camera.</caption></table>\n<br><header id='10' style='font-size:22px'>The<br>Setup<br>Menus</header>\n<header id='11' style='font-size:14px'>9</header>\n<footer id='12' style='font-size:20px'>360</footer>",
+        "markdown": "# SHUTTER AE\n\nIf ON is selected, exposure will lock while the shutter button is\npressed halfway. The setting for focus mode C (AF-C) can be ad-\njusted separately from that for modes S (AF-S) and M (manual fo-\ncus).\n\n| Options | Options |\n| --- | --- |\n| ON | OFF |\n\n\nSelect OFF to allow the camera to adjust exposure before each shot\ntaken in burst mode.\n\nSHOOT WITHOUT LENS\n\n| Options | Options |\n| --- | --- |\n| ON | OFF |\n\n\nChoose ON to enable the shutter release when no lens is at-\ntached.\n\nSHOOT WITHOUT CARD\n\nChoose whether the shutter can be released without a memory\ncard inserted in the camera.\n\n| Option | Description |\n| --- | --- |\n| ON | When no memory card is inserted, the shutter can be released to test camera function and the shooting and setup menus can be displayed. |\n| OFF | The shutter is disabled if no memory card is inserted, preventing accidental loss of pictures taken without a memory card. |\n\n\nThe\nSetup\nMenus\n\n9\n\n360",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='0' style='font-size:18px'>SHUTTER AE</h1>",
+                "markdown": "# SHUTTER AE",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0819,
+                    "y": 0.0731
+                },
+                {
+                    "x": 0.2561,
+                    "y": 0.0731
+                },
+                {
+                    "x": 0.2561,
+                    "y": 0.0942
+                },
+                {
+                    "x": 0.0819,
+                    "y": 0.0942
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='1' data-category='paragraph' style='font-size:20px'>If ON is selected, exposure will lock while the shutter button is<br>pressed halfway. The setting for focus mode C (AF-C) can be ad-<br>justed separately from that for modes S (AF-S) and M (manual fo-<br>cus).</p>",
+                "markdown": "If ON is selected, exposure will lock while the shutter button is\npressed halfway. The setting for focus mode C (AF-C) can be ad-\njusted separately from that for modes S (AF-S) and M (manual fo-\ncus).",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0801,
+                    "y": 0.1041
+                },
+                {
+                    "x": 0.8947,
+                    "y": 0.1041
+                },
+                {
+                    "x": 0.8947,
+                    "y": 0.2048
+                },
+                {
+                    "x": 0.0801,
+                    "y": 0.2048
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='2' style='font-size:16px'><tr><td colspan=\"2\">Options</td></tr><tr><td>ON</td><td>OFF</td></tr></table>",
+                "markdown": "| Options | Options |\n| --- | --- |\n| ON | OFF |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.089,
+                    "y": 0.2188
+                },
+                {
+                    "x": 0.8924,
+                    "y": 0.2188
+                },
+                {
+                    "x": 0.8924,
+                    "y": 0.2681
+                },
+                {
+                    "x": 0.089,
+                    "y": 0.2681
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='3' data-category='paragraph' style='font-size:14px'>Select OFF to allow the camera to adjust exposure before each shot<br>taken in burst mode.</p>",
+                "markdown": "Select OFF to allow the camera to adjust exposure before each shot\ntaken in burst mode.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0834,
+                    "y": 0.2784
+                },
+                {
+                    "x": 0.8892,
+                    "y": 0.2784
+                },
+                {
+                    "x": 0.8892,
+                    "y": 0.3247
+                },
+                {
+                    "x": 0.0834,
+                    "y": 0.3247
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='4' data-category='paragraph' style='font-size:18px'>SHOOT WITHOUT LENS</p>",
+                "markdown": "SHOOT WITHOUT LENS",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0814,
+                    "y": 0.3443
+                },
+                {
+                    "x": 0.3987,
+                    "y": 0.3443
+                },
+                {
+                    "x": 0.3987,
+                    "y": 0.3675
+                },
+                {
+                    "x": 0.0814,
+                    "y": 0.3675
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='5' style='font-size:18px'><tr><td colspan=\"2\">Options</td></tr><tr><td>ON</td><td>OFF</td></tr></table>",
+                "markdown": "| Options | Options |\n| --- | --- |\n| ON | OFF |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0899,
+                    "y": 0.4392
+                },
+                {
+                    "x": 0.8916,
+                    "y": 0.4392
+                },
+                {
+                    "x": 0.8916,
+                    "y": 0.4901
+                },
+                {
+                    "x": 0.0899,
+                    "y": 0.4901
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='6' data-category='paragraph' style='font-size:18px'>Choose ON to enable the shutter release when no lens is at-<br>tached.</p>",
+                "markdown": "Choose ON to enable the shutter release when no lens is at-\ntached.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0808,
+                    "y": 0.376
+                },
+                {
+                    "x": 0.8922,
+                    "y": 0.376
+                },
+                {
+                    "x": 0.8922,
+                    "y": 0.4258
+                },
+                {
+                    "x": 0.0808,
+                    "y": 0.4258
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='7' data-category='paragraph' style='font-size:18px'>SHOOT WITHOUT CARD</p>",
+                "markdown": "SHOOT WITHOUT CARD",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0814,
+                    "y": 0.5056
+                },
+                {
+                    "x": 0.4045,
+                    "y": 0.5056
+                },
+                {
+                    "x": 0.4045,
+                    "y": 0.5299
+                },
+                {
+                    "x": 0.0814,
+                    "y": 0.5299
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='8' data-category='paragraph' style='font-size:18px'>Choose whether the shutter can be released without a memory<br>card inserted in the camera.</p>",
+                "markdown": "Choose whether the shutter can be released without a memory\ncard inserted in the camera.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0807,
+                    "y": 0.5388
+                },
+                {
+                    "x": 0.8928,
+                    "y": 0.5388
+                },
+                {
+                    "x": 0.8928,
+                    "y": 0.5888
+                },
+                {
+                    "x": 0.0807,
+                    "y": 0.5888
+                }
+            ],
+            "id": 8,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='9' style='font-size:16px'><tr><td>Option</td><td>Description</td></tr><tr><td>ON</td><td>When no memory card is inserted, the shutter can be released to test camera function and the shooting and setup menus can be displayed.</td></tr><tr><td>OFF</td><td>The shutter is disabled if no memory card is inserted, preventing accidental loss of pictures taken without a memory card.</td></tr></table>",
+                "markdown": "| Option | Description |\n| --- | --- |\n| ON | When no memory card is inserted, the shutter can be released to test camera function and the shooting and setup menus can be displayed. |\n| OFF | The shutter is disabled if no memory card is inserted, preventing accidental loss of pictures taken without a memory card. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0876,
+                    "y": 0.6004
+                },
+                {
+                    "x": 0.8944,
+                    "y": 0.6004
+                },
+                {
+                    "x": 0.8944,
+                    "y": 0.7448
+                },
+                {
+                    "x": 0.0876,
+                    "y": 0.7448
+                }
+            ],
+            "id": 9,
+            "page": 1
+        },
+        {
+            "category": "header",
+            "content": {
+                "html": "<br><header id='10' style='font-size:22px'>The<br>Setup<br>Menus</header>",
+                "markdown": "The\nSetup\nMenus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0184,
+                    "y": 0.5679
+                },
+                {
+                    "x": 0.0404,
+                    "y": 0.5679
+                },
+                {
+                    "x": 0.0404,
+                    "y": 0.6981
+                },
+                {
+                    "x": 0.0184,
+                    "y": 0.6981
+                }
+            ],
+            "id": 10,
+            "page": 1
+        },
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='11' style='font-size:14px'>9</header>",
+                "markdown": "9",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0248,
+                    "y": 0.7173
+                },
+                {
+                    "x": 0.0442,
+                    "y": 0.7173
+                },
+                {
+                    "x": 0.0442,
+                    "y": 0.7374
+                },
+                {
+                    "x": 0.0248,
+                    "y": 0.7374
+                }
+            ],
+            "id": 11,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='12' style='font-size:20px'>360</footer>",
+                "markdown": "360",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0831,
+                    "y": 0.9564
+                },
+                {
+                    "x": 0.1403,
+                    "y": 0.9564
+                },
+                {
+                    "x": 0.1403,
+                    "y": 0.9802
+                },
+                {
+                    "x": 0.0831,
+                    "y": 0.9802
+                }
+            ],
+            "id": 12,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

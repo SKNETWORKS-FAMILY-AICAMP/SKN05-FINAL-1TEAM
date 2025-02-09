@@ -1,0 +1,79 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "\n| Setting                  | Description                                                                 |\n|--------------------------|-----------------------------------------------------------------------------|\n| HIGH ISO NR              | Process the copy to reduce mottling.                                        |\n| CLARITY                  | Increase definition.                                                        |\n| LENS MODULATION OPTIMIZER| Improve definition by adjusting for diffraction and the slight loss of focus at the periphery of the lens. |\n| COLOR SPACE              | Choose the color space used for color reproduction.                         |\n| HDR MODE                 | Reduce loss of detail in highlights and shadows.                            |\n| DIGITAL TELE-CONV.       | Switch to the crop in effect when the photo was taken.                      |\n\n> 💡 **Note:**  \n> Some settings may be unavailable depending on the options chosen when the picture was taken.\n",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Setting",
+                            "Description"
+                        ],
+                        [
+                            "HIGH ISO NR",
+                            "Process the copy to reduce mottling."
+                        ],
+                        [
+                            "CLARITY",
+                            "Increase definition."
+                        ],
+                        [
+                            "LENS MODULATION OPTIMIZER",
+                            "Improve definition by adjusting for diffraction and the slight loss of focus at the periphery of the lens."
+                        ],
+                        [
+                            "COLOR SPACE",
+                            "Choose the color space used for color reproduction."
+                        ],
+                        [
+                            "HDR MODE",
+                            "Reduce loss of detail in highlights and shadows."
+                        ],
+                        [
+                            "DIGITAL TELE-CONV.",
+                            "Switch to the crop in effect when the photo was taken."
+                        ]
+                    ],
+                    "md": "| Setting                  | Description                                                                 |\n|--------------------------|-----------------------------------------------------------------------------|\n| HIGH ISO NR              | Process the copy to reduce mottling.                                        |\n| CLARITY                  | Increase definition.                                                        |\n| LENS MODULATION OPTIMIZER| Improve definition by adjusting for diffraction and the slight loss of focus at the periphery of the lens. |\n| COLOR SPACE              | Choose the color space used for color reproduction.                         |\n| HDR MODE                 | Reduce loss of detail in highlights and shadows.                            |\n| DIGITAL TELE-CONV.       | Switch to the crop in effect when the photo was taken.                      |",
+                    "isPerfectTable": true,
+                    "csv": "\"Setting\",\"Description\"\n\"HIGH ISO NR\",\"Process the copy to reduce mottling.\"\n\"CLARITY\",\"Increase definition.\"\n\"LENS MODULATION OPTIMIZER\",\"Improve definition by adjusting for diffraction and the slight loss of focus at the periphery of the lens.\"\n\"COLOR SPACE\",\"Choose the color space used for color reproduction.\"\n\"HDR MODE\",\"Reduce loss of detail in highlights and shadows.\"\n\"DIGITAL TELE-CONV.\",\"Switch to the crop in effect when the photo was taken.\""
+                },
+                {
+                    "type": "text",
+                    "value": "> 💡 **Note:**  \n> Some settings may be unavailable depending on the options chosen when the picture was taken.",
+                    "md": "> 💡 **Note:**  \n> Some settings may be unavailable depending on the options chosen when the picture was taken."
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "parsingMode": "multimodal-openai-gpt4o",
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 411.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "6e10333f-6d1a-4867-a085-66d7019ac070",
+    "file_path": "../data/raw_data/x-t5/x-t5_split/x-t5_page254.pdf"
+}

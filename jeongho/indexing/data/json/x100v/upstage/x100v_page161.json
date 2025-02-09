@@ -1,0 +1,378 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:14px'>MOVIE SETTING</header>\n<h1 id='1' style='font-size:22px'>F-Log RECORDING</h1>\n\n<br><table id='3' style='font-size:16px'><tr><td colspan=\"2\">Options</td></tr><tr><td>ON</td><td>OFF</td></tr><br><caption id='2' style='font-size:18px'>Select ON to record movies using a soft gamma curve with a wide<br>gamut suitable for further processing post-production. Sensitivi-<br>ty is restricted to values between ISO 640 and 12800.</caption></table>\n<h1 id='4' style='font-size:16px'>PERIPHERAL LIGHT CORRECTION</h1>\n\n<br><table id='6' style='font-size:16px'><tr><td colspan=\"2\">Options</td></tr><tr><td>ON</td><td>OFF</td></tr><br><caption id='5' style='font-size:20px'>Select ON to enable peripheral illumination correction during<br>movie recording.</caption></table>\n<br><p id='7' data-category='paragraph' style='font-size:16px'>Select OFF if you notice banding in movies recorded using this option.</p>\n<p id='8' data-category='paragraph' style='font-size:16px'>FOCUS AREA</p>\n<br><p id='9' data-category='paragraph' style='font-size:18px'>Choose the focus area for movies shot using autofocus. You can<br>also choose the focus area (and consequently also the focus<br>zoom position) for movies shot using manual focus.</p>\n<br><footer id='10' style='font-size:14px'>6</footer>\n<footer id='11' style='font-size:20px'>161</footer>\n<br><footer id='12' style='font-size:22px'>The<br>Shooting<br>Menus</footer>",
+        "markdown": "MOVIE SETTING\n\n# F-Log RECORDING\n\nSelect ON to record movies using a soft gamma curve with a wide\ngamut suitable for further processing post-production. Sensitivi-\nty is restricted to values between ISO 640 and 12800.\n\n| Options | Options |\n| --- | --- |\n| ON | OFF |\n\n\n# PERIPHERAL LIGHT CORRECTION\n\nSelect ON to enable peripheral illumination correction during\nmovie recording.\n\n| Options | Options |\n| --- | --- |\n| ON | OFF |\n\n\nSelect OFF if you notice banding in movies recorded using this option.\n\nFOCUS AREA\n\nChoose the focus area for movies shot using autofocus. You can\nalso choose the focus area (and consequently also the focus\nzoom position) for movies shot using manual focus.\n\n6\n\n161\n\nThe\nShooting\nMenus",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:14px'>MOVIE SETTING</header>",
+                "markdown": "MOVIE SETTING",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.7587,
+                    "y": 0.0287
+                },
+                {
+                    "x": 0.9182,
+                    "y": 0.0287
+                },
+                {
+                    "x": 0.9182,
+                    "y": 0.0488
+                },
+                {
+                    "x": 0.7587,
+                    "y": 0.0488
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='1' style='font-size:22px'>F-Log RECORDING</h1>",
+                "markdown": "# F-Log RECORDING",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1098,
+                    "y": 0.0731
+                },
+                {
+                    "x": 0.3589,
+                    "y": 0.0731
+                },
+                {
+                    "x": 0.3589,
+                    "y": 0.0952
+                },
+                {
+                    "x": 0.1098,
+                    "y": 0.0952
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='2' data-category='paragraph' style='font-size:18px'>Select ON to record movies using a soft gamma curve with a wide<br>gamut suitable for further processing post-production. Sensitivi-<br>ty is restricted to values between ISO 640 and 12800.</p>",
+                "markdown": "Select ON to record movies using a soft gamma curve with a wide\ngamut suitable for further processing post-production. Sensitivi-\nty is restricted to values between ISO 640 and 12800.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1054,
+                    "y": 0.1044
+                },
+                {
+                    "x": 0.9206,
+                    "y": 0.1044
+                },
+                {
+                    "x": 0.9206,
+                    "y": 0.1804
+                },
+                {
+                    "x": 0.1054,
+                    "y": 0.1804
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='3' style='font-size:16px'><tr><td colspan=\"2\">Options</td></tr><tr><td>ON</td><td>OFF</td></tr></table>",
+                "markdown": "| Options | Options |\n| --- | --- |\n| ON | OFF |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.106,
+                    "y": 0.1928
+                },
+                {
+                    "x": 0.918,
+                    "y": 0.1928
+                },
+                {
+                    "x": 0.918,
+                    "y": 0.2427
+                },
+                {
+                    "x": 0.106,
+                    "y": 0.2427
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='4' style='font-size:16px'>PERIPHERAL LIGHT CORRECTION</h1>",
+                "markdown": "# PERIPHERAL LIGHT CORRECTION",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1076,
+                    "y": 0.2601
+                },
+                {
+                    "x": 0.5916,
+                    "y": 0.2601
+                },
+                {
+                    "x": 0.5916,
+                    "y": 0.2831
+                },
+                {
+                    "x": 0.1076,
+                    "y": 0.2831
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='5' data-category='paragraph' style='font-size:20px'>Select ON to enable peripheral illumination correction during<br>movie recording.</p>",
+                "markdown": "Select ON to enable peripheral illumination correction during\nmovie recording.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1067,
+                    "y": 0.2917
+                },
+                {
+                    "x": 0.9182,
+                    "y": 0.2917
+                },
+                {
+                    "x": 0.9182,
+                    "y": 0.3423
+                },
+                {
+                    "x": 0.1067,
+                    "y": 0.3423
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='6' style='font-size:16px'><tr><td colspan=\"2\">Options</td></tr><tr><td>ON</td><td>OFF</td></tr></table>",
+                "markdown": "| Options | Options |\n| --- | --- |\n| ON | OFF |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1078,
+                    "y": 0.3545
+                },
+                {
+                    "x": 0.9167,
+                    "y": 0.3545
+                },
+                {
+                    "x": 0.9167,
+                    "y": 0.407
+                },
+                {
+                    "x": 0.1078,
+                    "y": 0.407
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='7' data-category='paragraph' style='font-size:16px'>Select OFF if you notice banding in movies recorded using this option.</p>",
+                "markdown": "Select OFF if you notice banding in movies recorded using this option.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1091,
+                    "y": 0.4143
+                },
+                {
+                    "x": 0.9167,
+                    "y": 0.4143
+                },
+                {
+                    "x": 0.9167,
+                    "y": 0.4392
+                },
+                {
+                    "x": 0.1091,
+                    "y": 0.4392
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='8' data-category='paragraph' style='font-size:16px'>FOCUS AREA</p>",
+                "markdown": "FOCUS AREA",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.108,
+                    "y": 0.4576
+                },
+                {
+                    "x": 0.3261,
+                    "y": 0.4576
+                },
+                {
+                    "x": 0.3261,
+                    "y": 0.4803
+                },
+                {
+                    "x": 0.108,
+                    "y": 0.4803
+                }
+            ],
+            "id": 8,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='9' data-category='paragraph' style='font-size:18px'>Choose the focus area for movies shot using autofocus. You can<br>also choose the focus area (and consequently also the focus<br>zoom position) for movies shot using manual focus.</p>",
+                "markdown": "Choose the focus area for movies shot using autofocus. You can\nalso choose the focus area (and consequently also the focus\nzoom position) for movies shot using manual focus.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1057,
+                    "y": 0.4902
+                },
+                {
+                    "x": 0.9195,
+                    "y": 0.4902
+                },
+                {
+                    "x": 0.9195,
+                    "y": 0.5673
+                },
+                {
+                    "x": 0.1057,
+                    "y": 0.5673
+                }
+            ],
+            "id": 9,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<br><footer id='10' style='font-size:14px'>6</footer>",
+                "markdown": "6",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9582,
+                    "y": 0.5371
+                },
+                {
+                    "x": 0.9765,
+                    "y": 0.5371
+                },
+                {
+                    "x": 0.9765,
+                    "y": 0.558
+                },
+                {
+                    "x": 0.9582,
+                    "y": 0.558
+                }
+            ],
+            "id": 10,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='11' style='font-size:20px'>161</footer>",
+                "markdown": "161",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.8625,
+                    "y": 0.9566
+                },
+                {
+                    "x": 0.9146,
+                    "y": 0.9566
+                },
+                {
+                    "x": 0.9146,
+                    "y": 0.979
+                },
+                {
+                    "x": 0.8625,
+                    "y": 0.979
+                }
+            ],
+            "id": 11,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<br><footer id='12' style='font-size:22px'>The<br>Shooting<br>Menus</footer>",
+                "markdown": "The\nShooting\nMenus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9565,
+                    "y": 0.5447
+                },
+                {
+                    "x": 0.9825,
+                    "y": 0.5447
+                },
+                {
+                    "x": 0.9825,
+                    "y": 0.7305
+                },
+                {
+                    "x": 0.9565,
+                    "y": 0.7305
+                }
+            ],
+            "id": 12,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

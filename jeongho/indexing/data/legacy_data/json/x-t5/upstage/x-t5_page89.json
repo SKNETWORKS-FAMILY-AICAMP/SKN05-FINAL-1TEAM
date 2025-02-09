@@ -1,0 +1,182 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<p id='0' data-category='paragraph' style='font-size:14px'>Autofocus</p>\n<p id='1' data-category='paragraph' style='font-size:18px'>Autofocus</p>\n<p id='2' data-category='list' style='font-size:16px'>Although the camera boasts a high-precision autofocus system, it may be<br>unable to focus on the subjects listed below.<br>● Very shiny subjects such as mirrors or car bodies.<br>● Subjects photographed through a window or other reflective object.<br>● Dark subjects and subjects that absorb rather than reflect light, such as<br>hair or fur.<br>● Insubstantial subjects, such as smoke or flame.<br>● Subjects that show little contrast with the background.<br>● Subjects positioned in front of or behind a high-contrast object that is<br>also in the focus frame (for example, a subject photographed against a<br>backdrop of highly contrasting elements).</p>\n<footer id='3' style='font-size:18px'>5</footer>\n<br><footer id='4' style='font-size:22px'>Taking<br>Photographs</footer>\n<footer id='5' style='font-size:20px'>89</footer>",
+        "markdown": "Autofocus\n\nAutofocus\n\n- Although the camera boasts a high-precision autofocus system, it may be\n- unable to focus on the subjects listed below.\n- ● Very shiny subjects such as mirrors or car bodies.\n- ● Subjects photographed through a window or other reflective object.\n- ● Dark subjects and subjects that absorb rather than reflect light, such as\n- hair or fur.\n- ● Insubstantial subjects, such as smoke or flame.\n- ● Subjects that show little contrast with the background.\n- ● Subjects positioned in front of or behind a high-contrast object that is\n- also in the focus frame (for example, a subject photographed against a\n- backdrop of highly contrasting elements).\n\n\n5\n\nTaking\nPhotographs\n\n89",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='0' data-category='paragraph' style='font-size:14px'>Autofocus</p>",
+                "markdown": "Autofocus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.8126,
+                    "y": 0.0301
+                },
+                {
+                    "x": 0.9182,
+                    "y": 0.0301
+                },
+                {
+                    "x": 0.9182,
+                    "y": 0.0487
+                },
+                {
+                    "x": 0.8126,
+                    "y": 0.0487
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='1' data-category='paragraph' style='font-size:18px'>Autofocus</p>",
+                "markdown": "Autofocus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1129,
+                    "y": 0.0731
+                },
+                {
+                    "x": 0.22,
+                    "y": 0.0731
+                },
+                {
+                    "x": 0.22,
+                    "y": 0.0925
+                },
+                {
+                    "x": 0.1129,
+                    "y": 0.0925
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "list",
+            "content": {
+                "html": "<p id='2' data-category='list' style='font-size:16px'>Although the camera boasts a high-precision autofocus system, it may be<br>unable to focus on the subjects listed below.<br>● Very shiny subjects such as mirrors or car bodies.<br>● Subjects photographed through a window or other reflective object.<br>● Dark subjects and subjects that absorb rather than reflect light, such as<br>hair or fur.<br>● Insubstantial subjects, such as smoke or flame.<br>● Subjects that show little contrast with the background.<br>● Subjects positioned in front of or behind a high-contrast object that is<br>also in the focus frame (for example, a subject photographed against a<br>backdrop of highly contrasting elements).</p>",
+                "markdown": "- Although the camera boasts a high-precision autofocus system, it may be\n- unable to focus on the subjects listed below.\n- ● Very shiny subjects such as mirrors or car bodies.\n- ● Subjects photographed through a window or other reflective object.\n- ● Dark subjects and subjects that absorb rather than reflect light, such as\n- hair or fur.\n- ● Insubstantial subjects, such as smoke or flame.\n- ● Subjects that show little contrast with the background.\n- ● Subjects positioned in front of or behind a high-contrast object that is\n- also in the focus frame (for example, a subject photographed against a\n- backdrop of highly contrasting elements).\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1053,
+                    "y": 0.1019
+                },
+                {
+                    "x": 0.9247,
+                    "y": 0.1019
+                },
+                {
+                    "x": 0.9247,
+                    "y": 0.3507
+                },
+                {
+                    "x": 0.1053,
+                    "y": 0.3507
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='3' style='font-size:18px'>5</footer>",
+                "markdown": "5",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9572,
+                    "y": 0.4776
+                },
+                {
+                    "x": 0.9756,
+                    "y": 0.4776
+                },
+                {
+                    "x": 0.9756,
+                    "y": 0.4974
+                },
+                {
+                    "x": 0.9572,
+                    "y": 0.4974
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<br><footer id='4' style='font-size:22px'>Taking<br>Photographs</footer>",
+                "markdown": "Taking\nPhotographs",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9558,
+                    "y": 0.5175
+                },
+                {
+                    "x": 0.982,
+                    "y": 0.5175
+                },
+                {
+                    "x": 0.982,
+                    "y": 0.6651
+                },
+                {
+                    "x": 0.9558,
+                    "y": 0.6651
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='5' style='font-size:20px'>89</footer>",
+                "markdown": "89",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.878,
+                    "y": 0.9571
+                },
+                {
+                    "x": 0.9168,
+                    "y": 0.9571
+                },
+                {
+                    "x": 0.9168,
+                    "y": 0.9794
+                },
+                {
+                    "x": 0.878,
+                    "y": 0.9794
+                }
+            ],
+            "id": 5,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

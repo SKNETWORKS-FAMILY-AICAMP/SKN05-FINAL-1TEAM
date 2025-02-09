@@ -1,0 +1,103 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "\n# BUTTON/DIAL SETTING\n\n## S.S OPERATION\nSelect **OFF** to disable shutter-speed fine-tuning using the command dials.\n\n| Options |\n|---------|\n| ON      |\n| OFF     |\n\n## COMMAND DIAL DIRECTION\nChoose the direction in which the command dials are rotated to choose values. Settings for the front and rear command dials can be adjusted separately.\n\n| Option | Description                                                                 |\n|--------|-----------------------------------------------------------------------------|\n| - ➔ +  | Rotate the dial right for higher values or to move to the next item.        |\n| + ➔ -  | Rotate the dial left for higher values or to move to the next item.         |\n",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "BUTTON/DIAL SETTING",
+                    "md": "# BUTTON/DIAL SETTING"
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "S.S OPERATION",
+                    "md": "## S.S OPERATION"
+                },
+                {
+                    "type": "text",
+                    "value": "Select **OFF** to disable shutter-speed fine-tuning using the command dials.",
+                    "md": "Select **OFF** to disable shutter-speed fine-tuning using the command dials."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Options"
+                        ],
+                        [
+                            "ON"
+                        ],
+                        [
+                            "OFF"
+                        ]
+                    ],
+                    "md": "| Options |\n|---------|\n| ON      |\n| OFF     |",
+                    "isPerfectTable": true,
+                    "csv": "\"Options\"\n\"ON\"\n\"OFF\""
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "COMMAND DIAL DIRECTION",
+                    "md": "## COMMAND DIAL DIRECTION"
+                },
+                {
+                    "type": "text",
+                    "value": "Choose the direction in which the command dials are rotated to choose values. Settings for the front and rear command dials can be adjusted separately.",
+                    "md": "Choose the direction in which the command dials are rotated to choose values. Settings for the front and rear command dials can be adjusted separately."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Option",
+                            "Description"
+                        ],
+                        [
+                            "- ➔ +",
+                            "Rotate the dial right for higher values or to move to the next item."
+                        ],
+                        [
+                            "+ ➔ -",
+                            "Rotate the dial left for higher values or to move to the next item."
+                        ]
+                    ],
+                    "md": "| Option | Description                                                                 |\n|--------|-----------------------------------------------------------------------------|\n| - ➔ +  | Rotate the dial right for higher values or to move to the next item.        |\n| + ➔ -  | Rotate the dial left for higher values or to move to the next item.         |",
+                    "isPerfectTable": true,
+                    "csv": "\"Option\",\"Description\"\n\"- ➔ +\",\"Rotate the dial right for higher values or to move to the next item.\"\n\"+ ➔ -\",\"Rotate the dial left for higher values or to move to the next item.\""
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "parsingMode": "multimodal-openai-gpt4o",
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 376.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "1d830497-7b6d-49c4-b900-9cf3aec4f9ba",
+    "file_path": "../data/raw_data/x-t5/x-t5_split/x-t5_page323.pdf"
+}

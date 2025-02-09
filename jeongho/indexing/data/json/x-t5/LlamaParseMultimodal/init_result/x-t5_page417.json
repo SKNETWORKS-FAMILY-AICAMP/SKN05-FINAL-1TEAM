@@ -1,0 +1,64 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "# Warning Messages and Displays\n\n| Warning       | Description                                                                                                                                                                                                 |\n|---------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| **WRITE ERROR** | - **Memory card error or connection error.** Reinsert the card or turn the camera off and then on again. If the message persists, contact a Fujifilm dealer. <br> - **Not enough memory remaining to record additional pictures:** Delete pictures or insert a memory card with more free space. <br> - **The memory card is not formatted:** Format the memory card. <br> - **The memory card was removed while data were being recorded:** Do not remove the memory card during recording. <br> - **The memory card write speed is slow:** When recording movies, be sure the memory card write speed is fast enough. |\n| **FRAME NO. FULL** | The camera has run out of frame numbers (current frame number is 999-9999). Insert a formatted memory card and select **RENEW** for **SAVE DATA SET-UP > FRAME NO.** Take a picture to reset frame numbering to 100-0001, then select **CONTINUOUS** for **FRAME NO.** |",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "Warning Messages and Displays",
+                    "md": "# Warning Messages and Displays"
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Warning",
+                            "Description"
+                        ],
+                        [
+                            "**WRITE ERROR**",
+                            "- **Memory card error or connection error.** Reinsert the card or turn the camera off and then on again. If the message persists, contact a Fujifilm dealer. <br> - **Not enough memory remaining to record additional pictures:** Delete pictures or insert a memory card with more free space. <br> - **The memory card is not formatted:** Format the memory card. <br> - **The memory card was removed while data were being recorded:** Do not remove the memory card during recording. <br> - **The memory card write speed is slow:** When recording movies, be sure the memory card write speed is fast enough."
+                        ],
+                        [
+                            "**FRAME NO. FULL**",
+                            "The camera has run out of frame numbers (current frame number is 999-9999). Insert a formatted memory card and select **RENEW** for **SAVE DATA SET-UP > FRAME NO.** Take a picture to reset frame numbering to 100-0001, then select **CONTINUOUS** for **FRAME NO.**"
+                        ]
+                    ],
+                    "md": "| Warning       | Description                                                                                                                                                                                                 |\n|---------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| **WRITE ERROR** | - **Memory card error or connection error.** Reinsert the card or turn the camera off and then on again. If the message persists, contact a Fujifilm dealer. <br> - **Not enough memory remaining to record additional pictures:** Delete pictures or insert a memory card with more free space. <br> - **The memory card is not formatted:** Format the memory card. <br> - **The memory card was removed while data were being recorded:** Do not remove the memory card during recording. <br> - **The memory card write speed is slow:** When recording movies, be sure the memory card write speed is fast enough. |\n| **FRAME NO. FULL** | The camera has run out of frame numbers (current frame number is 999-9999). Insert a formatted memory card and select **RENEW** for **SAVE DATA SET-UP > FRAME NO.** Take a picture to reset frame numbering to 100-0001, then select **CONTINUOUS** for **FRAME NO.** |",
+                    "isPerfectTable": true,
+                    "csv": "\"Warning\",\"Description\"\n\"**WRITE ERROR**\",\"- **Memory card error or connection error.** Reinsert the card or turn the camera off and then on again. If the message persists, contact a Fujifilm dealer. <br> - **Not enough memory remaining to record additional pictures:** Delete pictures or insert a memory card with more free space. <br> - **The memory card is not formatted:** Format the memory card. <br> - **The memory card was removed while data were being recorded:** Do not remove the memory card during recording. <br> - **The memory card write speed is slow:** When recording movies, be sure the memory card write speed is fast enough.\"\n\"**FRAME NO. FULL**\",\"The camera has run out of frame numbers (current frame number is 999-9999). Insert a formatted memory card and select **RENEW** for **SAVE DATA SET-UP > FRAME NO.** Take a picture to reset frame numbering to 100-0001, then select **CONTINUOUS** for **FRAME NO.**\""
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "parsingMode": "multimodal-openai-gpt4o",
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 704.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "7923fd38-c234-4b10-8807-1ee8d037f6f9",
+    "file_path": "../data/raw_data/x-t5/x-t5_split/x-t5_page417.pdf"
+}

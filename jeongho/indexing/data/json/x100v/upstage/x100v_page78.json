@@ -1,0 +1,266 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<p id='0' data-category='paragraph' style='font-size:16px'>Sensitivity</p>\n<h1 id='1' style='font-size:20px'>Auto Sensitivity (A)</h1>\n<br><p id='2' data-category='paragraph' style='font-size:16px'>Use □ SHOOTING SETTING > ISO AUTO SETTING to choose<br>the base sensitivity, maximum sensitivity, and minimum shut-<br>ter speed for the A position on the sensitivity dial. Settings for<br>AUTO1, AUTO2, and AUTO3 can be stored separately; the de-<br>faults are shown below.</p>\n<br><table id='3' style='font-size:14px'><tr><td rowspan=\"2\">Item</td><td rowspan=\"2\">Options</td><td colspan=\"3\">Default</td></tr><tr><td>AUT01</td><td>AUTO2</td><td>AUT03</td></tr><tr><td>DEFAULT SENSITIVITY</td><td>160-12800</td><td colspan=\"3\">160</td></tr><tr><td>MAX. SENSITIVITY</td><td>400-12800</td><td>800</td><td>1600</td><td>3200</td></tr><tr><td>MIN. SHUTTER SPEED</td><td>1/500-1/4 SEC</td><td colspan=\"3\">1/60 SEC</td></tr></table>\n<p id='4' data-category='paragraph' style='font-size:18px'>The camera automatically chooses a sensitivity between the de-<br>fault and maximum values; sensitivity is only raised above the<br>default value if the shutter speed required for optimal exposure<br>would be slower than the value selected for MIN. SHUTTER SPEED.</p>\n<br><header id='5' style='font-size:16px'>5</header>\n<br><p id='6' data-category='list' style='font-size:14px'>If the value selected for DEFAULT SENSITIVITY is higher than that<br>selected for MAX. SENSITIVITY, DEFAULT SENSITIVITY will be set to<br>the value selected for MAX. SENSITIVITY.<br>● The camera may select shutter speeds slower than MIN. SHUTTER<br>SPEED if pictures would still be underexposed at the value selected<br>for MAX. SENSITIVITY.</p>\n<br><header id='7' style='font-size:22px'>Taking<br>Photographs</header>\n<footer id='8' style='font-size:20px'>78</footer>",
+        "markdown": "Sensitivity\n\n# Auto Sensitivity (A)\n\nUse □ SHOOTING SETTING > ISO AUTO SETTING to choose\nthe base sensitivity, maximum sensitivity, and minimum shut-\nter speed for the A position on the sensitivity dial. Settings for\nAUTO1, AUTO2, and AUTO3 can be stored separately; the de-\nfaults are shown below.\n\n| Item | Options | Default | Default | Default |\n| --- | --- | --- | --- | --- |\n| Item | Options | AUT01 | AUTO2 | AUT03 |\n| DEFAULT SENSITIVITY | 160-12800 | 160 | 160 | 160 |\n| MAX. SENSITIVITY | 400-12800 | 800 | 1600 | 3200 |\n| MIN. SHUTTER SPEED | 1/500-1/4 SEC | 1/60 SEC | 1/60 SEC | 1/60 SEC |\n\n\nThe camera automatically chooses a sensitivity between the de-\nfault and maximum values; sensitivity is only raised above the\ndefault value if the shutter speed required for optimal exposure\nwould be slower than the value selected for MIN. SHUTTER SPEED.\n\n5\n\n- If the value selected for DEFAULT SENSITIVITY is higher than that\n- selected for MAX. SENSITIVITY, DEFAULT SENSITIVITY will be set to\n- the value selected for MAX. SENSITIVITY.\n- ● The camera may select shutter speeds slower than MIN. SHUTTER\n- SPEED if pictures would still be underexposed at the value selected\n- for MAX. SENSITIVITY.\n\n\nTaking\nPhotographs\n\n78",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='0' data-category='paragraph' style='font-size:16px'>Sensitivity</p>",
+                "markdown": "Sensitivity",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.789,
+                    "y": 0.0306
+                },
+                {
+                    "x": 0.8911,
+                    "y": 0.0306
+                },
+                {
+                    "x": 0.8911,
+                    "y": 0.0489
+                },
+                {
+                    "x": 0.789,
+                    "y": 0.0489
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='1' style='font-size:20px'>Auto Sensitivity (A)</h1>",
+                "markdown": "# Auto Sensitivity (A)",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0811,
+                    "y": 0.0729
+                },
+                {
+                    "x": 0.3481,
+                    "y": 0.0729
+                },
+                {
+                    "x": 0.3481,
+                    "y": 0.0953
+                },
+                {
+                    "x": 0.0811,
+                    "y": 0.0953
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='2' data-category='paragraph' style='font-size:16px'>Use □ SHOOTING SETTING > ISO AUTO SETTING to choose<br>the base sensitivity, maximum sensitivity, and minimum shut-<br>ter speed for the A position on the sensitivity dial. Settings for<br>AUTO1, AUTO2, and AUTO3 can be stored separately; the de-<br>faults are shown below.</p>",
+                "markdown": "Use □ SHOOTING SETTING > ISO AUTO SETTING to choose\nthe base sensitivity, maximum sensitivity, and minimum shut-\nter speed for the A position on the sensitivity dial. Settings for\nAUTO1, AUTO2, and AUTO3 can be stored separately; the de-\nfaults are shown below.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0794,
+                    "y": 0.1042
+                },
+                {
+                    "x": 0.8943,
+                    "y": 0.1042
+                },
+                {
+                    "x": 0.8943,
+                    "y": 0.2307
+                },
+                {
+                    "x": 0.0794,
+                    "y": 0.2307
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='3' style='font-size:14px'><tr><td rowspan=\"2\">Item</td><td rowspan=\"2\">Options</td><td colspan=\"3\">Default</td></tr><tr><td>AUT01</td><td>AUTO2</td><td>AUT03</td></tr><tr><td>DEFAULT SENSITIVITY</td><td>160-12800</td><td colspan=\"3\">160</td></tr><tr><td>MAX. SENSITIVITY</td><td>400-12800</td><td>800</td><td>1600</td><td>3200</td></tr><tr><td>MIN. SHUTTER SPEED</td><td>1/500-1/4 SEC</td><td colspan=\"3\">1/60 SEC</td></tr></table>",
+                "markdown": "| Item | Options | Default | Default | Default |\n| --- | --- | --- | --- | --- |\n| Item | Options | AUT01 | AUTO2 | AUT03 |\n| DEFAULT SENSITIVITY | 160-12800 | 160 | 160 | 160 |\n| MAX. SENSITIVITY | 400-12800 | 800 | 1600 | 3200 |\n| MIN. SHUTTER SPEED | 1/500-1/4 SEC | 1/60 SEC | 1/60 SEC | 1/60 SEC |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.082,
+                    "y": 0.2432
+                },
+                {
+                    "x": 0.89,
+                    "y": 0.2432
+                },
+                {
+                    "x": 0.89,
+                    "y": 0.3639
+                },
+                {
+                    "x": 0.082,
+                    "y": 0.3639
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='4' data-category='paragraph' style='font-size:18px'>The camera automatically chooses a sensitivity between the de-<br>fault and maximum values; sensitivity is only raised above the<br>default value if the shutter speed required for optimal exposure<br>would be slower than the value selected for MIN. SHUTTER SPEED.</p>",
+                "markdown": "The camera automatically chooses a sensitivity between the de-\nfault and maximum values; sensitivity is only raised above the\ndefault value if the shutter speed required for optimal exposure\nwould be slower than the value selected for MIN. SHUTTER SPEED.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0805,
+                    "y": 0.3764
+                },
+                {
+                    "x": 0.8931,
+                    "y": 0.3764
+                },
+                {
+                    "x": 0.8931,
+                    "y": 0.4772
+                },
+                {
+                    "x": 0.0805,
+                    "y": 0.4772
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "header",
+            "content": {
+                "html": "<br><header id='5' style='font-size:16px'>5</header>",
+                "markdown": "5",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0243,
+                    "y": 0.4772
+                },
+                {
+                    "x": 0.0442,
+                    "y": 0.4772
+                },
+                {
+                    "x": 0.0442,
+                    "y": 0.4988
+                },
+                {
+                    "x": 0.0243,
+                    "y": 0.4988
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "list",
+            "content": {
+                "html": "<br><p id='6' data-category='list' style='font-size:14px'>If the value selected for DEFAULT SENSITIVITY is higher than that<br>selected for MAX. SENSITIVITY, DEFAULT SENSITIVITY will be set to<br>the value selected for MAX. SENSITIVITY.<br>● The camera may select shutter speeds slower than MIN. SHUTTER<br>SPEED if pictures would still be underexposed at the value selected<br>for MAX. SENSITIVITY.</p>",
+                "markdown": "- If the value selected for DEFAULT SENSITIVITY is higher than that\n- selected for MAX. SENSITIVITY, DEFAULT SENSITIVITY will be set to\n- the value selected for MAX. SENSITIVITY.\n- ● The camera may select shutter speeds slower than MIN. SHUTTER\n- SPEED if pictures would still be underexposed at the value selected\n- for MAX. SENSITIVITY.\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1067,
+                    "y": 0.4835
+                },
+                {
+                    "x": 0.8902,
+                    "y": 0.4835
+                },
+                {
+                    "x": 0.8902,
+                    "y": 0.6186
+                },
+                {
+                    "x": 0.1067,
+                    "y": 0.6186
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "header",
+            "content": {
+                "html": "<br><header id='7' style='font-size:22px'>Taking<br>Photographs</header>",
+                "markdown": "Taking\nPhotographs",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0163,
+                    "y": 0.5158
+                },
+                {
+                    "x": 0.0422,
+                    "y": 0.5158
+                },
+                {
+                    "x": 0.0422,
+                    "y": 0.6668
+                },
+                {
+                    "x": 0.0163,
+                    "y": 0.6668
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='8' style='font-size:20px'>78</footer>",
+                "markdown": "78",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0827,
+                    "y": 0.9572
+                },
+                {
+                    "x": 0.1226,
+                    "y": 0.9572
+                },
+                {
+                    "x": 0.1226,
+                    "y": 0.9794
+                },
+                {
+                    "x": 0.0827,
+                    "y": 0.9794
+                }
+            ],
+            "id": 8,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

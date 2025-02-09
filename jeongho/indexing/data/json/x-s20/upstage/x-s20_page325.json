@@ -1,0 +1,378 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:14px'>Function Controls</header>\n<p id='1' data-category='list' style='font-size:14px'>● PLAYBACK<br>● NONE</p>\n<br><p id='2' data-category='list' style='font-size:14px'>● AUTO IMAGE TRANSFER ORDER<br>● Bluetooth ON/OFF<br>● QUICK MENU</p>\n<h1 id='3' style='font-size:16px'>To disable touch-function gestures, choose NONE.</h1>\n<h1 id='4' style='font-size:18px'>Lens Function Buttons</h1>\n<br><p id='5' data-category='paragraph' style='font-size:20px'>Choose the roles played by the function buttons on the lens<br>(where applicable).</p>\n<p id='6' data-category='paragraph' style='font-size:20px'>Lens Function Button Defaults</p>\n<br><p id='7' data-category='paragraph' style='font-size:18px'>The default assignments are:</p>\n<br><p id='8' data-category='paragraph' style='font-size:16px'>A XF18-120mmF4 LM PZ WR lens is used here for illustrative purposes.</p>\n<figure id='9'><img alt=\"\" data-coord=\"top-left:(932,1631); bottom-right:(1928,2266)\" /></figure>\n<br><table id='10' style='font-size:16px'><tr><td>Lens function button</td><td>Default</td></tr><tr><td>1 Z/F</td><td>ZOOM/FOCUS CONTROL RING</td></tr><tr><td>2 L-Fn1 (rocker zoom button pressed up)</td><td>CONSTANT SPEED ZOOM )</td></tr><tr><td>L-Fn2 (rocker zoom button pressed down)</td><td>CONSTANT SPEED ZOOM (W)</td></tr></table>\n<br><footer id='11' style='font-size:22px'>Shortcuts<br>10</footer>\n<footer id='12' style='font-size:22px'>325</footer>",
+        "markdown": "Function Controls\n\n- ● PLAYBACK\n- ● NONE\n\n\n- ● AUTO IMAGE TRANSFER ORDER\n- ● Bluetooth ON/OFF\n- ● QUICK MENU\n\n\n# To disable touch-function gestures, choose NONE.\n\n# Lens Function Buttons\n\nChoose the roles played by the function buttons on the lens\n(where applicable).\n\nLens Function Button Defaults\n\nThe default assignments are:\n\nA XF18-120mmF4 LM PZ WR lens is used here for illustrative purposes.\n\n![image](/image/placeholder)\n\n\n| Lens function button | Default |\n| --- | --- |\n| 1 Z/F | ZOOM/FOCUS CONTROL RING |\n| 2 L-Fn1 (rocker zoom button pressed up) | CONSTANT SPEED ZOOM ) |\n| L-Fn2 (rocker zoom button pressed down) | CONSTANT SPEED ZOOM (W) |\n\n\nShortcuts\n10\n\n325",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:14px'>Function Controls</header>",
+                "markdown": "Function Controls",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.7392,
+                    "y": 0.0288
+                },
+                {
+                    "x": 0.9181,
+                    "y": 0.0288
+                },
+                {
+                    "x": 0.9181,
+                    "y": 0.0497
+                },
+                {
+                    "x": 0.7392,
+                    "y": 0.0497
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "list",
+            "content": {
+                "html": "<p id='1' data-category='list' style='font-size:14px'>● PLAYBACK<br>● NONE</p>",
+                "markdown": "- ● PLAYBACK\n- ● NONE\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.5174,
+                    "y": 0.0714
+                },
+                {
+                    "x": 0.6465,
+                    "y": 0.0714
+                },
+                {
+                    "x": 0.6465,
+                    "y": 0.1161
+                },
+                {
+                    "x": 0.5174,
+                    "y": 0.1161
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "list",
+            "content": {
+                "html": "<br><p id='2' data-category='list' style='font-size:14px'>● AUTO IMAGE TRANSFER ORDER<br>● Bluetooth ON/OFF<br>● QUICK MENU</p>",
+                "markdown": "- ● AUTO IMAGE TRANSFER ORDER\n- ● Bluetooth ON/OFF\n- ● QUICK MENU\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.106,
+                    "y": 0.0722
+                },
+                {
+                    "x": 0.4389,
+                    "y": 0.0722
+                },
+                {
+                    "x": 0.4389,
+                    "y": 0.14
+                },
+                {
+                    "x": 0.106,
+                    "y": 0.14
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='3' style='font-size:16px'>To disable touch-function gestures, choose NONE.</h1>",
+                "markdown": "# To disable touch-function gestures, choose NONE.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1246,
+                    "y": 0.1552
+                },
+                {
+                    "x": 0.7007,
+                    "y": 0.1552
+                },
+                {
+                    "x": 0.7007,
+                    "y": 0.1785
+                },
+                {
+                    "x": 0.1246,
+                    "y": 0.1785
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='4' style='font-size:18px'>Lens Function Buttons</h1>",
+                "markdown": "# Lens Function Buttons",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1123,
+                    "y": 0.2063
+                },
+                {
+                    "x": 0.4157,
+                    "y": 0.2063
+                },
+                {
+                    "x": 0.4157,
+                    "y": 0.2261
+                },
+                {
+                    "x": 0.1123,
+                    "y": 0.2261
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='5' data-category='paragraph' style='font-size:20px'>Choose the roles played by the function buttons on the lens<br>(where applicable).</p>",
+                "markdown": "Choose the roles played by the function buttons on the lens\n(where applicable).",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1077,
+                    "y": 0.236
+                },
+                {
+                    "x": 0.9186,
+                    "y": 0.236
+                },
+                {
+                    "x": 0.9186,
+                    "y": 0.2864
+                },
+                {
+                    "x": 0.1077,
+                    "y": 0.2864
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='6' data-category='paragraph' style='font-size:20px'>Lens Function Button Defaults</p>",
+                "markdown": "Lens Function Button Defaults",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1173,
+                    "y": 0.3078
+                },
+                {
+                    "x": 0.4978,
+                    "y": 0.3078
+                },
+                {
+                    "x": 0.4978,
+                    "y": 0.3326
+                },
+                {
+                    "x": 0.1173,
+                    "y": 0.3326
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='7' data-category='paragraph' style='font-size:18px'>The default assignments are:</p>",
+                "markdown": "The default assignments are:",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1078,
+                    "y": 0.3393
+                },
+                {
+                    "x": 0.4747,
+                    "y": 0.3393
+                },
+                {
+                    "x": 0.4747,
+                    "y": 0.3633
+                },
+                {
+                    "x": 0.1078,
+                    "y": 0.3633
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='8' data-category='paragraph' style='font-size:16px'>A XF18-120mmF4 LM PZ WR lens is used here for illustrative purposes.</p>",
+                "markdown": "A XF18-120mmF4 LM PZ WR lens is used here for illustrative purposes.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1145,
+                    "y": 0.3767
+                },
+                {
+                    "x": 0.9113,
+                    "y": 0.3767
+                },
+                {
+                    "x": 0.9113,
+                    "y": 0.401
+                },
+                {
+                    "x": 0.1145,
+                    "y": 0.401
+                }
+            ],
+            "id": 8,
+            "page": 1
+        },
+        {
+            "category": "figure",
+            "content": {
+                "html": "<figure id='9'><img alt=\"\" data-coord=\"top-left:(932,1631); bottom-right:(1928,2266)\" /></figure>",
+                "markdown": "![image](/image/placeholder)\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.3373,
+                    "y": 0.4186
+                },
+                {
+                    "x": 0.6978,
+                    "y": 0.4186
+                },
+                {
+                    "x": 0.6978,
+                    "y": 0.5815
+                },
+                {
+                    "x": 0.3373,
+                    "y": 0.5815
+                }
+            ],
+            "id": 9,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='10' style='font-size:16px'><tr><td>Lens function button</td><td>Default</td></tr><tr><td>1 Z/F</td><td>ZOOM/FOCUS CONTROL RING</td></tr><tr><td>2 L-Fn1 (rocker zoom button pressed up)</td><td>CONSTANT SPEED ZOOM )</td></tr><tr><td>L-Fn2 (rocker zoom button pressed down)</td><td>CONSTANT SPEED ZOOM (W)</td></tr></table>",
+                "markdown": "| Lens function button | Default |\n| --- | --- |\n| 1 Z/F | ZOOM/FOCUS CONTROL RING |\n| 2 L-Fn1 (rocker zoom button pressed up) | CONSTANT SPEED ZOOM ) |\n| L-Fn2 (rocker zoom button pressed down) | CONSTANT SPEED ZOOM (W) |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1088,
+                    "y": 0.5809
+                },
+                {
+                    "x": 0.9169,
+                    "y": 0.5809
+                },
+                {
+                    "x": 0.9169,
+                    "y": 0.6901
+                },
+                {
+                    "x": 0.1088,
+                    "y": 0.6901
+                }
+            ],
+            "id": 10,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<br><footer id='11' style='font-size:22px'>Shortcuts<br>10</footer>",
+                "markdown": "Shortcuts\n10",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9565,
+                    "y": 0.6799
+                },
+                {
+                    "x": 0.9847,
+                    "y": 0.6799
+                },
+                {
+                    "x": 0.9847,
+                    "y": 0.8006
+                },
+                {
+                    "x": 0.9565,
+                    "y": 0.8006
+                }
+            ],
+            "id": 11,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='12' style='font-size:22px'>325</footer>",
+                "markdown": "325",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.8606,
+                    "y": 0.9566
+                },
+                {
+                    "x": 0.9173,
+                    "y": 0.9566
+                },
+                {
+                    "x": 0.9173,
+                    "y": 0.9793
+                },
+                {
+                    "x": 0.8606,
+                    "y": 0.9793
+                }
+            ],
+            "id": 12,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

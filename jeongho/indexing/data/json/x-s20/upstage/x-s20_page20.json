@@ -1,0 +1,434 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<h1 id='0' style='font-size:20px'>Framing Outline</h1>\n<br><p id='1' data-category='paragraph' style='font-size:16px'>Enable FRAMING OUTLINE to make the borders of the frame easier to see<br>against dark backgrounds.</p>\n<br><h1 id='2' style='font-size:22px'>Histograms</h1>\n<br><p id='3' data-category='paragraph' style='font-size:18px'>Histograms show the distribution of tones in the image. Brightness is<br>shown by the horizontal axis, the number of pixels by the vertical axis.</p>\n\n<br><figure id='5'><img style='font-size:20px' alt=\"Number of pixels ↕\nShadows → Highlights\nPixel brightness\" data-coord=\"top-left:(441,815); bottom-right:(2044,1243)\" /><figcaption id='4' style='font-size:14px'>1</figcaption></figure>\n<p id='6' data-category='paragraph' style='font-size:14px'>● Optimal exposure: Pixels are distributed in an even curve<br>throughout the tone range.</p>\n<p id='7' data-category='list' style='font-size:16px'>● Overexposed: Pixels are clustered on the right side of<br>the graph.</p>\n<br><header id='8' style='font-size:22px'>Before<br>You<br>Begin</header>\n\n<br><figure id='10'><img alt=\"\" data-coord=\"top-left:(1881,1289); bottom-right:(2461,1923)\" /><figcaption id='9' style='font-size:14px'>● Underexposed: Pixels are clustered on the left side of<br>the graph.</figcaption></figure>\n<br><p id='11' data-category='paragraph' style='font-size:18px'>To view separate RGB histograms and a dis-<br>play showing areas of the frame that will be<br>overexposed at current settings superimposed<br>on the view through the lens, press the func-<br>tion button to which HISTOGRAM is assigned<br>(�� 290, 317).<br>1 Overexposed areas blink</p>\n<br><figure id='12'><img alt=\"\" data-coord=\"top-left:(1682,1958); bottom-right:(2472,2600)\" /><br><figcaption id='13' style='font-size:14px'>2 RGB histograms</figcaption></figure>\n\n<footer id='14' style='font-size:20px'>20</footer>",
+        "markdown": "# Framing Outline\n\nEnable FRAMING OUTLINE to make the borders of the frame easier to see\nagainst dark backgrounds.\n\n# Histograms\n\nHistograms show the distribution of tones in the image. Brightness is\nshown by the horizontal axis, the number of pixels by the vertical axis.\n\n1\n\n![image](/image/placeholder)\nNumber of pixels ↕\nShadows → Highlights\nPixel brightness\n\n● Optimal exposure: Pixels are distributed in an even curve\nthroughout the tone range.\n\n- ● Overexposed: Pixels are clustered on the right side of\n- the graph.\n\n\nBefore\nYou\nBegin\n\n● Underexposed: Pixels are clustered on the left side of\nthe graph.\n\n![image](/image/placeholder)\n\n\nTo view separate RGB histograms and a dis-\nplay showing areas of the frame that will be\noverexposed at current settings superimposed\non the view through the lens, press the func-\ntion button to which HISTOGRAM is assigned\n(�� 290, 317).\n1 Overexposed areas blink\n\n![image](/image/placeholder)\n\n\n2 RGB histograms\n\n20",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='0' style='font-size:20px'>Framing Outline</h1>",
+                "markdown": "# Framing Outline",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0883,
+                    "y": 0.0732
+                },
+                {
+                    "x": 0.2523,
+                    "y": 0.0732
+                },
+                {
+                    "x": 0.2523,
+                    "y": 0.0931
+                },
+                {
+                    "x": 0.0883,
+                    "y": 0.0931
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='1' data-category='paragraph' style='font-size:16px'>Enable FRAMING OUTLINE to make the borders of the frame easier to see<br>against dark backgrounds.</p>",
+                "markdown": "Enable FRAMING OUTLINE to make the borders of the frame easier to see\nagainst dark backgrounds.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0814,
+                    "y": 0.0953
+                },
+                {
+                    "x": 0.8931,
+                    "y": 0.0953
+                },
+                {
+                    "x": 0.8931,
+                    "y": 0.1392
+                },
+                {
+                    "x": 0.0814,
+                    "y": 0.1392
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='2' style='font-size:22px'>Histograms</h1>",
+                "markdown": "# Histograms",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0886,
+                    "y": 0.1417
+                },
+                {
+                    "x": 0.2054,
+                    "y": 0.1417
+                },
+                {
+                    "x": 0.2054,
+                    "y": 0.1615
+                },
+                {
+                    "x": 0.0886,
+                    "y": 0.1615
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='3' data-category='paragraph' style='font-size:18px'>Histograms show the distribution of tones in the image. Brightness is<br>shown by the horizontal axis, the number of pixels by the vertical axis.</p>",
+                "markdown": "Histograms show the distribution of tones in the image. Brightness is\nshown by the horizontal axis, the number of pixels by the vertical axis.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0805,
+                    "y": 0.1647
+                },
+                {
+                    "x": 0.8911,
+                    "y": 0.1647
+                },
+                {
+                    "x": 0.8911,
+                    "y": 0.2086
+                },
+                {
+                    "x": 0.0805,
+                    "y": 0.2086
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='4' data-category='paragraph' style='font-size:14px'>1</p>",
+                "markdown": "1",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0286,
+                    "y": 0.2404
+                },
+                {
+                    "x": 0.0398,
+                    "y": 0.2404
+                },
+                {
+                    "x": 0.0398,
+                    "y": 0.2557
+                },
+                {
+                    "x": 0.0286,
+                    "y": 0.2557
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "figure",
+            "content": {
+                "html": "<br><figure id='5'><img style='font-size:20px' alt=\"Number of pixels ↕\nShadows → Highlights\nPixel brightness\" data-coord=\"top-left:(441,815); bottom-right:(2044,1243)\" /></figure>",
+                "markdown": "![image](/image/placeholder)\nNumber of pixels ↕\nShadows → Highlights\nPixel brightness",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1596,
+                    "y": 0.2092
+                },
+                {
+                    "x": 0.7397,
+                    "y": 0.2092
+                },
+                {
+                    "x": 0.7397,
+                    "y": 0.319
+                },
+                {
+                    "x": 0.1596,
+                    "y": 0.319
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='6' data-category='paragraph' style='font-size:14px'>● Optimal exposure: Pixels are distributed in an even curve<br>throughout the tone range.</p>",
+                "markdown": "● Optimal exposure: Pixels are distributed in an even curve\nthroughout the tone range.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0814,
+                    "y": 0.331
+                },
+                {
+                    "x": 0.6739,
+                    "y": 0.331
+                },
+                {
+                    "x": 0.6739,
+                    "y": 0.3762
+                },
+                {
+                    "x": 0.0814,
+                    "y": 0.3762
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "list",
+            "content": {
+                "html": "<p id='7' data-category='list' style='font-size:16px'>● Overexposed: Pixels are clustered on the right side of<br>the graph.</p>",
+                "markdown": "- ● Overexposed: Pixels are clustered on the right side of\n- the graph.\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0842,
+                    "y": 0.386
+                },
+                {
+                    "x": 0.6727,
+                    "y": 0.386
+                },
+                {
+                    "x": 0.6727,
+                    "y": 0.4304
+                },
+                {
+                    "x": 0.0842,
+                    "y": 0.4304
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "header",
+            "content": {
+                "html": "<br><header id='8' style='font-size:22px'>Before<br>You<br>Begin</header>",
+                "markdown": "Before\nYou\nBegin",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0178,
+                    "y": 0.2759
+                },
+                {
+                    "x": 0.0424,
+                    "y": 0.2759
+                },
+                {
+                    "x": 0.0424,
+                    "y": 0.403
+                },
+                {
+                    "x": 0.0178,
+                    "y": 0.403
+                }
+            ],
+            "id": 8,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='9' data-category='paragraph' style='font-size:14px'>● Underexposed: Pixels are clustered on the left side of<br>the graph.</p>",
+                "markdown": "● Underexposed: Pixels are clustered on the left side of\nthe graph.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.083,
+                    "y": 0.4398
+                },
+                {
+                    "x": 0.6722,
+                    "y": 0.4398
+                },
+                {
+                    "x": 0.6722,
+                    "y": 0.4856
+                },
+                {
+                    "x": 0.083,
+                    "y": 0.4856
+                }
+            ],
+            "id": 9,
+            "page": 1
+        },
+        {
+            "category": "figure",
+            "content": {
+                "html": "<br><figure id='10'><img alt=\"\" data-coord=\"top-left:(1881,1289); bottom-right:(2461,1923)\" /></figure>",
+                "markdown": "![image](/image/placeholder)\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6808,
+                    "y": 0.3308
+                },
+                {
+                    "x": 0.8905,
+                    "y": 0.3308
+                },
+                {
+                    "x": 0.8905,
+                    "y": 0.4933
+                },
+                {
+                    "x": 0.6808,
+                    "y": 0.4933
+                }
+            ],
+            "id": 10,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='11' data-category='paragraph' style='font-size:18px'>To view separate RGB histograms and a dis-<br>play showing areas of the frame that will be<br>overexposed at current settings superimposed<br>on the view through the lens, press the func-<br>tion button to which HISTOGRAM is assigned<br>(�� 290, 317).<br>1 Overexposed areas blink</p>",
+                "markdown": "To view separate RGB histograms and a dis-\nplay showing areas of the frame that will be\noverexposed at current settings superimposed\non the view through the lens, press the func-\ntion button to which HISTOGRAM is assigned\n(�� 290, 317).\n1 Overexposed areas blink",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0838,
+                    "y": 0.5038
+                },
+                {
+                    "x": 0.6014,
+                    "y": 0.5038
+                },
+                {
+                    "x": 0.6014,
+                    "y": 0.6572
+                },
+                {
+                    "x": 0.0838,
+                    "y": 0.6572
+                }
+            ],
+            "id": 11,
+            "page": 1
+        },
+        {
+            "category": "figure",
+            "content": {
+                "html": "<br><figure id='12'><img alt=\"\" data-coord=\"top-left:(1682,1958); bottom-right:(2472,2600)\" /></figure>",
+                "markdown": "![image](/image/placeholder)\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6086,
+                    "y": 0.5025
+                },
+                {
+                    "x": 0.8947,
+                    "y": 0.5025
+                },
+                {
+                    "x": 0.8947,
+                    "y": 0.6671
+                },
+                {
+                    "x": 0.6086,
+                    "y": 0.6671
+                }
+            ],
+            "id": 12,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='13' data-category='paragraph' style='font-size:14px'>2 RGB histograms</p>",
+                "markdown": "2 RGB histograms",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0911,
+                    "y": 0.6628
+                },
+                {
+                    "x": 0.2583,
+                    "y": 0.6628
+                },
+                {
+                    "x": 0.2583,
+                    "y": 0.6825
+                },
+                {
+                    "x": 0.0911,
+                    "y": 0.6825
+                }
+            ],
+            "id": 13,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='14' style='font-size:20px'>20</footer>",
+                "markdown": "20",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0822,
+                    "y": 0.956
+                },
+                {
+                    "x": 0.1231,
+                    "y": 0.956
+                },
+                {
+                    "x": 0.1231,
+                    "y": 0.9795
+                },
+                {
+                    "x": 0.0822,
+                    "y": 0.9795
+                }
+            ],
+            "id": 14,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

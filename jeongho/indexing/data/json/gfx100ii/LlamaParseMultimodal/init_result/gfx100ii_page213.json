@@ -1,0 +1,110 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "# MOVIE SETTING (Movie Recording)\n\n## RAW OUTPUT SETTING\n\nChoose whether to output RAW footage to external recorders connected via HDMI.\n\n| Option                        | Description                                                   |\n|-------------------------------|---------------------------------------------------------------|\n| RAW OUTPUT SETTING ATOMOS     | Output RAW footage to ATOMOS video recorders.                 |\n| RAW OUTPUT SETTING Blackmagic | Output RAW footage to Blackmagic Design video recorders.      |\n| OFF                           | Do not output RAW footage to external recorders.              |\n\n- Movie frame size automatically changes to 8K.\n- RAW footage output to external devices is not saved to the memory cards inserted in the camera.\n- In-camera image enhancements are not applied to the RAW output.\n- ISO sensitivity is restricted to values between ISO 640 and ISO 12800.\n- Footage output to external devices is generated from the original RAW data and its quality, which varies with device specifications, may not be equal to that achieved as the end result of post-production or the like.\n- Focus zoom is not available when RAW is selected for HDMI output.\n- RAW footage output via HDMI to incompatible devices will not display correctly but will instead display as a mosaic.\n- RAW output is disabled in some movie and high-speed recording modes.\n\n## FIX MOVIE CROP MAGNIFICATION\n\nFix the movie crop ratio according to the IMAGE FORMAT setting. This makes it easier to match crops after changing movie settings.\n\n| Options |      |\n|---------|------|\n| ON      | OFF  |",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "MOVIE SETTING (Movie Recording)",
+                    "md": "# MOVIE SETTING (Movie Recording)"
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "RAW OUTPUT SETTING",
+                    "md": "## RAW OUTPUT SETTING"
+                },
+                {
+                    "type": "text",
+                    "value": "Choose whether to output RAW footage to external recorders connected via HDMI.",
+                    "md": "Choose whether to output RAW footage to external recorders connected via HDMI."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Option",
+                            "Description"
+                        ],
+                        [
+                            "RAW OUTPUT SETTING ATOMOS",
+                            "Output RAW footage to ATOMOS video recorders."
+                        ],
+                        [
+                            "RAW OUTPUT SETTING Blackmagic",
+                            "Output RAW footage to Blackmagic Design video recorders."
+                        ],
+                        [
+                            "OFF",
+                            "Do not output RAW footage to external recorders."
+                        ]
+                    ],
+                    "md": "| Option                        | Description                                                   |\n|-------------------------------|---------------------------------------------------------------|\n| RAW OUTPUT SETTING ATOMOS     | Output RAW footage to ATOMOS video recorders.                 |\n| RAW OUTPUT SETTING Blackmagic | Output RAW footage to Blackmagic Design video recorders.      |\n| OFF                           | Do not output RAW footage to external recorders.              |",
+                    "isPerfectTable": true,
+                    "csv": "\"Option\",\"Description\"\n\"RAW OUTPUT SETTING ATOMOS\",\"Output RAW footage to ATOMOS video recorders.\"\n\"RAW OUTPUT SETTING Blackmagic\",\"Output RAW footage to Blackmagic Design video recorders.\"\n\"OFF\",\"Do not output RAW footage to external recorders.\""
+                },
+                {
+                    "type": "text",
+                    "value": "- Movie frame size automatically changes to 8K.\n- RAW footage output to external devices is not saved to the memory cards inserted in the camera.\n- In-camera image enhancements are not applied to the RAW output.\n- ISO sensitivity is restricted to values between ISO 640 and ISO 12800.\n- Footage output to external devices is generated from the original RAW data and its quality, which varies with device specifications, may not be equal to that achieved as the end result of post-production or the like.\n- Focus zoom is not available when RAW is selected for HDMI output.\n- RAW footage output via HDMI to incompatible devices will not display correctly but will instead display as a mosaic.\n- RAW output is disabled in some movie and high-speed recording modes.",
+                    "md": "- Movie frame size automatically changes to 8K.\n- RAW footage output to external devices is not saved to the memory cards inserted in the camera.\n- In-camera image enhancements are not applied to the RAW output.\n- ISO sensitivity is restricted to values between ISO 640 and ISO 12800.\n- Footage output to external devices is generated from the original RAW data and its quality, which varies with device specifications, may not be equal to that achieved as the end result of post-production or the like.\n- Focus zoom is not available when RAW is selected for HDMI output.\n- RAW footage output via HDMI to incompatible devices will not display correctly but will instead display as a mosaic.\n- RAW output is disabled in some movie and high-speed recording modes."
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "FIX MOVIE CROP MAGNIFICATION",
+                    "md": "## FIX MOVIE CROP MAGNIFICATION"
+                },
+                {
+                    "type": "text",
+                    "value": "Fix the movie crop ratio according to the IMAGE FORMAT setting. This makes it easier to match crops after changing movie settings.",
+                    "md": "Fix the movie crop ratio according to the IMAGE FORMAT setting. This makes it easier to match crops after changing movie settings."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Options",
+                            ""
+                        ],
+                        [
+                            "ON",
+                            "OFF"
+                        ]
+                    ],
+                    "md": "| Options |      |\n|---------|------|\n| ON      | OFF  |",
+                    "isPerfectTable": true,
+                    "csv": "\"Options\",\"\"\n\"ON\",\"OFF\""
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 442.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "c440e03e-0958-419b-80f6-43cdf71e9725",
+    "file_path": "../data/raw_data/gfx100ii/gfx100ii_split/gfx100ii_page213.pdf"
+}

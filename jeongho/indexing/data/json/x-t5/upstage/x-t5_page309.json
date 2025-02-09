@@ -1,0 +1,350 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:14px'>SAVE DATA SETTING</header>\n<h1 id='1' style='font-size:16px'>EDIT FILE NAME</h1>\n\n<br><table id='3' style='font-size:16px'><tr><td>Option</td><td>Default prefix</td><td>Sample file name</td></tr><tr><td>sRGB</td><td>DSCF</td><td>ABCD0001</td></tr><tr><td>AdobeRGB</td><td>DSF</td><td>ABC0001</td></tr><br><caption id='2' style='font-size:20px'>Change the file name prefix. sRGB images use a four-letter prefix<br>(default \"DSCF\"), Adobe RGB images a three-letter prefix (\"DSF\")<br>preceded by an underscore.</caption></table>\n<p id='4' data-category='paragraph' style='font-size:18px'>� CARD SLOT SETTING</p>\n\n<br><table id='6' style='font-size:14px'><tr><td>Option</td><td>Description</td></tr><tr><td>SEQUENTIAL</td><td>The card in the second slot is used only when the card in the first slot is full.</td></tr><tr><td>BACKUP</td><td>Each picture is recorded twice, once to each card.</td></tr><tr><td>SEPARATE</td><td>RAW pictures will be saved to the card in the first slot and JPEG or HEIF pictures to the card in the second slot. This option only takes effect when FINE+RAW or NORMAL+RAW is selected for I.Q. IMAGE QUALITY SETTING > IMAGE QUALITY.</td></tr><br><caption id='5' style='font-size:18px'>Choose the role played by the card in the second slot.</caption></table>\n<p id='7' data-category='paragraph' style='font-size:20px'>SELECT SLOT( � SEQUENTIAL)</p>\n\n<br><table id='9' style='font-size:14px'><tr><td colspan=\"2\">Options</td></tr><tr><td>SLOT 1</td><td>SLOT 2</td></tr><br><caption id='8' style='font-size:16px'>Choose the card that is recorded to first when SEQUENTIAL is<br>selected for CARD SLOT SETTING.</caption></table>\n<br><footer id='10' style='font-size:22px'>The<br>Setup<br>Menus</footer>\n<footer id='11' style='font-size:20px'>309</footer>",
+        "markdown": "SAVE DATA SETTING\n\n# EDIT FILE NAME\n\nChange the file name prefix. sRGB images use a four-letter prefix\n(default \"DSCF\"), Adobe RGB images a three-letter prefix (\"DSF\")\npreceded by an underscore.\n\n| Option | Default prefix | Sample file name |\n| --- | --- | --- |\n| sRGB | DSCF | ABCD0001 |\n| AdobeRGB | DSF | ABC0001 |\n\n\n� CARD SLOT SETTING\n\nChoose the role played by the card in the second slot.\n\n| Option | Description |\n| --- | --- |\n| SEQUENTIAL | The card in the second slot is used only when the card in the first slot is full. |\n| BACKUP | Each picture is recorded twice, once to each card. |\n| SEPARATE | RAW pictures will be saved to the card in the first slot and JPEG or HEIF pictures to the card in the second slot. This option only takes effect when FINE+RAW or NORMAL+RAW is selected for I.Q. IMAGE QUALITY SETTING > IMAGE QUALITY. |\n\n\nSELECT SLOT( � SEQUENTIAL)\n\nChoose the card that is recorded to first when SEQUENTIAL is\nselected for CARD SLOT SETTING.\n\n| Options | Options |\n| --- | --- |\n| SLOT 1 | SLOT 2 |\n\n\nThe\nSetup\nMenus\n\n309",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:14px'>SAVE DATA SETTING</header>",
+                "markdown": "SAVE DATA SETTING",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.7188,
+                    "y": 0.0288
+                },
+                {
+                    "x": 0.9183,
+                    "y": 0.0288
+                },
+                {
+                    "x": 0.9183,
+                    "y": 0.0492
+                },
+                {
+                    "x": 0.7188,
+                    "y": 0.0492
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='1' style='font-size:16px'>EDIT FILE NAME</h1>",
+                "markdown": "# EDIT FILE NAME",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1086,
+                    "y": 0.0732
+                },
+                {
+                    "x": 0.3294,
+                    "y": 0.0732
+                },
+                {
+                    "x": 0.3294,
+                    "y": 0.0943
+                },
+                {
+                    "x": 0.1086,
+                    "y": 0.0943
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='2' data-category='paragraph' style='font-size:20px'>Change the file name prefix. sRGB images use a four-letter prefix<br>(default \"DSCF\"), Adobe RGB images a three-letter prefix (\"DSF\")<br>preceded by an underscore.</p>",
+                "markdown": "Change the file name prefix. sRGB images use a four-letter prefix\n(default \"DSCF\"), Adobe RGB images a three-letter prefix (\"DSF\")\npreceded by an underscore.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1066,
+                    "y": 0.1042
+                },
+                {
+                    "x": 0.9197,
+                    "y": 0.1042
+                },
+                {
+                    "x": 0.9197,
+                    "y": 0.1798
+                },
+                {
+                    "x": 0.1066,
+                    "y": 0.1798
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='3' style='font-size:16px'><tr><td>Option</td><td>Default prefix</td><td>Sample file name</td></tr><tr><td>sRGB</td><td>DSCF</td><td>ABCD0001</td></tr><tr><td>AdobeRGB</td><td>DSF</td><td>ABC0001</td></tr></table>",
+                "markdown": "| Option | Default prefix | Sample file name |\n| --- | --- | --- |\n| sRGB | DSCF | ABCD0001 |\n| AdobeRGB | DSF | ABC0001 |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1081,
+                    "y": 0.1921
+                },
+                {
+                    "x": 0.9149,
+                    "y": 0.1921
+                },
+                {
+                    "x": 0.9149,
+                    "y": 0.2672
+                },
+                {
+                    "x": 0.1081,
+                    "y": 0.2672
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='4' data-category='paragraph' style='font-size:18px'>� CARD SLOT SETTING</p>",
+                "markdown": "� CARD SLOT SETTING",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1081,
+                    "y": 0.2835
+                },
+                {
+                    "x": 0.4285,
+                    "y": 0.2835
+                },
+                {
+                    "x": 0.4285,
+                    "y": 0.3075
+                },
+                {
+                    "x": 0.1081,
+                    "y": 0.3075
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='5' data-category='paragraph' style='font-size:18px'>Choose the role played by the card in the second slot.</p>",
+                "markdown": "Choose the role played by the card in the second slot.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1067,
+                    "y": 0.315
+                },
+                {
+                    "x": 0.7864,
+                    "y": 0.315
+                },
+                {
+                    "x": 0.7864,
+                    "y": 0.3404
+                },
+                {
+                    "x": 0.1067,
+                    "y": 0.3404
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='6' style='font-size:14px'><tr><td>Option</td><td>Description</td></tr><tr><td>SEQUENTIAL</td><td>The card in the second slot is used only when the card in the first slot is full.</td></tr><tr><td>BACKUP</td><td>Each picture is recorded twice, once to each card.</td></tr><tr><td>SEPARATE</td><td>RAW pictures will be saved to the card in the first slot and JPEG or HEIF pictures to the card in the second slot. This option only takes effect when FINE+RAW or NORMAL+RAW is selected for I.Q. IMAGE QUALITY SETTING > IMAGE QUALITY.</td></tr></table>",
+                "markdown": "| Option | Description |\n| --- | --- |\n| SEQUENTIAL | The card in the second slot is used only when the card in the first slot is full. |\n| BACKUP | Each picture is recorded twice, once to each card. |\n| SEPARATE | RAW pictures will be saved to the card in the first slot and JPEG or HEIF pictures to the card in the second slot. This option only takes effect when FINE+RAW or NORMAL+RAW is selected for I.Q. IMAGE QUALITY SETTING > IMAGE QUALITY. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1073,
+                    "y": 0.3503
+                },
+                {
+                    "x": 0.9222,
+                    "y": 0.3503
+                },
+                {
+                    "x": 0.9222,
+                    "y": 0.5426
+                },
+                {
+                    "x": 0.1073,
+                    "y": 0.5426
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='7' data-category='paragraph' style='font-size:20px'>SELECT SLOT( � SEQUENTIAL)</p>",
+                "markdown": "SELECT SLOT( � SEQUENTIAL)",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1056,
+                    "y": 0.5599
+                },
+                {
+                    "x": 0.5129,
+                    "y": 0.5599
+                },
+                {
+                    "x": 0.5129,
+                    "y": 0.5829
+                },
+                {
+                    "x": 0.1056,
+                    "y": 0.5829
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='8' data-category='paragraph' style='font-size:16px'>Choose the card that is recorded to first when SEQUENTIAL is<br>selected for CARD SLOT SETTING.</p>",
+                "markdown": "Choose the card that is recorded to first when SEQUENTIAL is\nselected for CARD SLOT SETTING.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1066,
+                    "y": 0.5923
+                },
+                {
+                    "x": 0.9173,
+                    "y": 0.5923
+                },
+                {
+                    "x": 0.9173,
+                    "y": 0.6417
+                },
+                {
+                    "x": 0.1066,
+                    "y": 0.6417
+                }
+            ],
+            "id": 8,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='9' style='font-size:14px'><tr><td colspan=\"2\">Options</td></tr><tr><td>SLOT 1</td><td>SLOT 2</td></tr></table>",
+                "markdown": "| Options | Options |\n| --- | --- |\n| SLOT 1 | SLOT 2 |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1167,
+                    "y": 0.6546
+                },
+                {
+                    "x": 0.9167,
+                    "y": 0.6546
+                },
+                {
+                    "x": 0.9167,
+                    "y": 0.7043
+                },
+                {
+                    "x": 0.1167,
+                    "y": 0.7043
+                }
+            ],
+            "id": 9,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<br><footer id='10' style='font-size:22px'>The<br>Setup<br>Menus</footer>",
+                "markdown": "The\nSetup\nMenus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9578,
+                    "y": 0.5699
+                },
+                {
+                    "x": 0.98,
+                    "y": 0.5699
+                },
+                {
+                    "x": 0.98,
+                    "y": 0.6974
+                },
+                {
+                    "x": 0.9578,
+                    "y": 0.6974
+                }
+            ],
+            "id": 10,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='11' style='font-size:20px'>309</footer>",
+                "markdown": "309",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.8599,
+                    "y": 0.9558
+                },
+                {
+                    "x": 0.9184,
+                    "y": 0.9558
+                },
+                {
+                    "x": 0.9184,
+                    "y": 0.9795
+                },
+                {
+                    "x": 0.8599,
+                    "y": 0.9795
+                }
+            ],
+            "id": 11,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

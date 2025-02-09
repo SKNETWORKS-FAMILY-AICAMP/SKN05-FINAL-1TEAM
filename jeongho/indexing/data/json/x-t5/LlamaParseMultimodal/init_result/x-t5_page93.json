@@ -1,0 +1,77 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "\n# Recording Movies\n\n## Temperature Warnings\nThe camera automatically turns off to protect itself when its temperature or the temperature of the battery rises. If a temperature warning is displayed, image noise may increase. Turn the camera off and wait for it to cool before turning it on again.\n\n## Using an External Microphone\nSound can be recorded with external microphones that connect using jacks 3.5 mm in diameter; microphones that require plug-in power cannot be used. See the microphone manual for details.\n\n!External Microphone Connection\n\n## XLR Microphone Adapters\nThe camera can be used with TEAC TASCAM CA-XLR2d-F XLR microphone adapters. For more information, visit the TASCAM website.\n\nhttps://tascam.jp/int/product/ca-xlr2d/#CA-XLR2d_Website\n",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "Recording Movies",
+                    "md": "# Recording Movies"
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "Temperature Warnings",
+                    "md": "## Temperature Warnings"
+                },
+                {
+                    "type": "text",
+                    "value": "The camera automatically turns off to protect itself when its temperature or the temperature of the battery rises. If a temperature warning is displayed, image noise may increase. Turn the camera off and wait for it to cool before turning it on again.",
+                    "md": "The camera automatically turns off to protect itself when its temperature or the temperature of the battery rises. If a temperature warning is displayed, image noise may increase. Turn the camera off and wait for it to cool before turning it on again."
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "Using an External Microphone",
+                    "md": "## Using an External Microphone"
+                },
+                {
+                    "type": "text",
+                    "value": "Sound can be recorded with external microphones that connect using jacks 3.5 mm in diameter; microphones that require plug-in power cannot be used. See the microphone manual for details.\n\n!External Microphone Connection",
+                    "md": "Sound can be recorded with external microphones that connect using jacks 3.5 mm in diameter; microphones that require plug-in power cannot be used. See the microphone manual for details.\n\n!External Microphone Connection"
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "XLR Microphone Adapters",
+                    "md": "## XLR Microphone Adapters"
+                },
+                {
+                    "type": "text",
+                    "value": "The camera can be used with TEAC TASCAM CA-XLR2d-F XLR microphone adapters. For more information, visit the TASCAM website.\n\nhttps://tascam.jp/int/product/ca-xlr2d/#CA-XLR2d_Website",
+                    "md": "The camera can be used with TEAC TASCAM CA-XLR2d-F XLR microphone adapters. For more information, visit the TASCAM website.\n\nhttps://tascam.jp/int/product/ca-xlr2d/#CA-XLR2d_Website"
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "parsingMode": "multimodal-openai-gpt4o",
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 484.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "98545d92-2edf-40e6-9671-28cd60e6499a",
+    "file_path": "../data/raw_data/x-t5/x-t5_split/x-t5_page93.pdf"
+}

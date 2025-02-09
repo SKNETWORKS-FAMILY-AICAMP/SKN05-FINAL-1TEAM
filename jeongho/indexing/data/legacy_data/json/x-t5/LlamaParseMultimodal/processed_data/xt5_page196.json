@@ -1,0 +1,15 @@
+{
+    "parsing_result": "# IS Mode\n\nTurn image stabilization on or off.\n\n| Option       | Description                                                                 |\n|--------------|-----------------------------------------------------------------------------|\n| IBIS/OIS     | Enable in-body (IBIS) and optical (OIS) image stabilization. IBIS is used with lenses that do not support OIS. |\n| IBIS/OIS + DIS | Enable in-body (IBIS), optical (OIS), and digital (DIS) image stabilization. The crop is adjusted according to the option selected for MOVIE MODE. |\n| OFF          | Image stabilization off; !Icon appears in the display.  |\n\n- The setting selected with the lens image stabilization switch, if any, takes priority over the setting chosen with the IS mode.\n- Note that vibration or camera sounds may be noticeable as image stabilization takes effect.\n\n# IS Mode Boost\n\nChoose the image stabilization level.\n\n| Option | Description                                           |\n|--------|-------------------------------------------------------|\n| ON     | Suitable for hand-held shooting with no panning.      |\n| OFF    | Suitable for hand-held shooting with panning.         |\n\n- Assigning IS MODE BOOST to a function button allows the image stabilization level to be changed while recording is in progress (📖 321).",
+    "metadata": {
+        "page": 196,
+        "model": "x-t5",
+        "chapter": "The Shooting Menus",
+        "section": "MOVIE SETTING (Movie Recording)",
+        "subsection": [
+            "(Movie)IS MODE",
+            "(Movie)IS MODE BOOST"
+        ],
+        "embedding_model": "text-embedding-3-small",
+        "token": 246
+    }
+}

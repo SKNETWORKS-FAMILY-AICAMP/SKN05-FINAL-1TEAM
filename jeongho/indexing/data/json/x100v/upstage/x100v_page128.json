@@ -1,0 +1,182 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<h1 id='0' style='font-size:16px'>FACE/EYE DETECTION SETTING</h1>\n\n<table id='2' style='font-size:14px'><tr><td>Option</td><td>Description</td></tr><tr><td>FACE DETECTION ON</td><td>Adjust settings for Intelligent Face Detection. You can also adjust eye detection settings. EYE OFF: Intelligent Face Detection only. EYE AUTO: The camera automatically chooses which eye to focus on when a face is detected. OR RIGHT EYE PRIORITY: The camera focuses on the right eye of subjects detected using Intelligent Face Detection. LO LEFT EYE PRIORITY: The camera focuses on the left eye of subjects detected using Intelligent Face Detection.</td></tr><tr><td>OFF</td><td>Intelligent Face Detection and eye priority off.</td></tr><br><caption id='1' style='font-size:18px'>Intelligent Face Detection sets focus and<br>exposure for human faces anywhere in<br>the frame, preventing the camera from<br>focusing on the background in group<br>portraits. Choose for shots that empha- P<br>size portrait subjects. You can also choose<br>whether the camera detects and focuses on either the left or right<br>eye when Intelligent Face Detection is on.</caption></table>\n<p id='3' data-category='list' style='font-size:14px'>● If the subject moves as the shutter button is pressed, the face may<br>not be in the area indicated by the green border when the picture<br>is taken.<br>● In some modes, the camera may set exposure for the frame as a<br>whole rather than the portrait subject.</p>\n<br><header id='4' style='font-size:22px'>The<br>Shooting<br>Menus</header>\n<footer id='5' style='font-size:20px'>128</footer>",
+        "markdown": "# FACE/EYE DETECTION SETTING\n\nIntelligent Face Detection sets focus and\nexposure for human faces anywhere in\nthe frame, preventing the camera from\nfocusing on the background in group\nportraits. Choose for shots that empha- P\nsize portrait subjects. You can also choose\nwhether the camera detects and focuses on either the left or right\neye when Intelligent Face Detection is on.\n\n| Option | Description |\n| --- | --- |\n| FACE DETECTION ON | Adjust settings for Intelligent Face Detection. You can also adjust eye detection settings. EYE OFF: Intelligent Face Detection only. EYE AUTO: The camera automatically chooses which eye to focus on when a face is detected. OR RIGHT EYE PRIORITY: The camera focuses on the right eye of subjects detected using Intelligent Face Detection. LO LEFT EYE PRIORITY: The camera focuses on the left eye of subjects detected using Intelligent Face Detection. |\n| OFF | Intelligent Face Detection and eye priority off. |\n\n\n- ● If the subject moves as the shutter button is pressed, the face may\n- not be in the area indicated by the green border when the picture\n- is taken.\n- ● In some modes, the camera may set exposure for the frame as a\n- whole rather than the portrait subject.\n\n\nThe\nShooting\nMenus\n\n128",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='0' style='font-size:16px'>FACE/EYE DETECTION SETTING</h1>",
+                "markdown": "# FACE/EYE DETECTION SETTING",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0831,
+                    "y": 0.0732
+                },
+                {
+                    "x": 0.5008,
+                    "y": 0.0732
+                },
+                {
+                    "x": 0.5008,
+                    "y": 0.0954
+                },
+                {
+                    "x": 0.0831,
+                    "y": 0.0954
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='1' data-category='paragraph' style='font-size:18px'>Intelligent Face Detection sets focus and<br>exposure for human faces anywhere in<br>the frame, preventing the camera from<br>focusing on the background in group<br>portraits. Choose for shots that empha- P<br>size portrait subjects. You can also choose<br>whether the camera detects and focuses on either the left or right<br>eye when Intelligent Face Detection is on.</p>",
+                "markdown": "Intelligent Face Detection sets focus and\nexposure for human faces anywhere in\nthe frame, preventing the camera from\nfocusing on the background in group\nportraits. Choose for shots that empha- P\nsize portrait subjects. You can also choose\nwhether the camera detects and focuses on either the left or right\neye when Intelligent Face Detection is on.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0808,
+                    "y": 0.1031
+                },
+                {
+                    "x": 0.8962,
+                    "y": 0.1031
+                },
+                {
+                    "x": 0.8962,
+                    "y": 0.3086
+                },
+                {
+                    "x": 0.0808,
+                    "y": 0.3086
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='2' style='font-size:14px'><tr><td>Option</td><td>Description</td></tr><tr><td>FACE DETECTION ON</td><td>Adjust settings for Intelligent Face Detection. You can also adjust eye detection settings. EYE OFF: Intelligent Face Detection only. EYE AUTO: The camera automatically chooses which eye to focus on when a face is detected. OR RIGHT EYE PRIORITY: The camera focuses on the right eye of subjects detected using Intelligent Face Detection. LO LEFT EYE PRIORITY: The camera focuses on the left eye of subjects detected using Intelligent Face Detection.</td></tr><tr><td>OFF</td><td>Intelligent Face Detection and eye priority off.</td></tr></table>",
+                "markdown": "| Option | Description |\n| --- | --- |\n| FACE DETECTION ON | Adjust settings for Intelligent Face Detection. You can also adjust eye detection settings. EYE OFF: Intelligent Face Detection only. EYE AUTO: The camera automatically chooses which eye to focus on when a face is detected. OR RIGHT EYE PRIORITY: The camera focuses on the right eye of subjects detected using Intelligent Face Detection. LO LEFT EYE PRIORITY: The camera focuses on the left eye of subjects detected using Intelligent Face Detection. |\n| OFF | Intelligent Face Detection and eye priority off. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0898,
+                    "y": 0.3217
+                },
+                {
+                    "x": 0.8965,
+                    "y": 0.3217
+                },
+                {
+                    "x": 0.8965,
+                    "y": 0.5781
+                },
+                {
+                    "x": 0.0898,
+                    "y": 0.5781
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "list",
+            "content": {
+                "html": "<p id='3' data-category='list' style='font-size:14px'>● If the subject moves as the shutter button is pressed, the face may<br>not be in the area indicated by the green border when the picture<br>is taken.<br>● In some modes, the camera may set exposure for the frame as a<br>whole rather than the portrait subject.</p>",
+                "markdown": "- ● If the subject moves as the shutter button is pressed, the face may\n- not be in the area indicated by the green border when the picture\n- is taken.\n- ● In some modes, the camera may set exposure for the frame as a\n- whole rather than the portrait subject.\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0982,
+                    "y": 0.5902
+                },
+                {
+                    "x": 0.8891,
+                    "y": 0.5902
+                },
+                {
+                    "x": 0.8891,
+                    "y": 0.7044
+                },
+                {
+                    "x": 0.0982,
+                    "y": 0.7044
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "header",
+            "content": {
+                "html": "<br><header id='4' style='font-size:22px'>The<br>Shooting<br>Menus</header>",
+                "markdown": "The\nShooting\nMenus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0159,
+                    "y": 0.5775
+                },
+                {
+                    "x": 0.0421,
+                    "y": 0.5775
+                },
+                {
+                    "x": 0.0421,
+                    "y": 0.7318
+                },
+                {
+                    "x": 0.0159,
+                    "y": 0.7318
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='5' style='font-size:20px'>128</footer>",
+                "markdown": "128",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0848,
+                    "y": 0.9564
+                },
+                {
+                    "x": 0.1401,
+                    "y": 0.9564
+                },
+                {
+                    "x": 0.1401,
+                    "y": 0.9796
+                },
+                {
+                    "x": 0.0848,
+                    "y": 0.9796
+                }
+            ],
+            "id": 5,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

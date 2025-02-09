@@ -1,0 +1,64 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "# MOVIE SILENT CONTROL\n\nSelect **ON** to disable camera dials and adjust movie settings using touch-screen controls, preventing the sounds made by camera controls being recorded with the movie.\n\n| Options |      |\n|---------|------|\n| ON      | OFF  |",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "MOVIE SILENT CONTROL",
+                    "md": "# MOVIE SILENT CONTROL"
+                },
+                {
+                    "type": "text",
+                    "value": "Select **ON** to disable camera dials and adjust movie settings using touch-screen controls, preventing the sounds made by camera controls being recorded with the movie.",
+                    "md": "Select **ON** to disable camera dials and adjust movie settings using touch-screen controls, preventing the sounds made by camera controls being recorded with the movie."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Options",
+                            ""
+                        ],
+                        [
+                            "ON",
+                            "OFF"
+                        ]
+                    ],
+                    "md": "| Options |      |\n|---------|------|\n| ON      | OFF  |",
+                    "isPerfectTable": true,
+                    "csv": "\"Options\",\"\"\n\"ON\",\"OFF\""
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 771.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "a8fd488c-466c-4ec2-854c-72adf1c4488f",
+    "file_path": "../data/raw_data/x100v/x100v_split/x100v_page192.pdf"
+}

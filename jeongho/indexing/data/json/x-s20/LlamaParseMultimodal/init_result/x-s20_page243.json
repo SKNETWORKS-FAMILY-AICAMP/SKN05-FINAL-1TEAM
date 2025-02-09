@@ -1,0 +1,141 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "# TIME CODE SETTING (Movie Recording)\n\nAdjust time code (hour, minute, second, and frame number) display settings for movie recording.\n\nTo display time code settings, press **MENU/OK** in the movie shooting display and select the **TC (TIME CODE SETTING)** tab.\n\n!Time Code Setting Menu\n\n## TIME CODE DISPLAY\n\nSelect **ON** to display time codes during movie recording and playback.\n\n| Options |        |\n|---------|--------|\n| ON      | OFF    |\n\n## START TIME SETTING\n\nChoose the time code starting time.\n\n| Option        | Description                                |\n|---------------|--------------------------------------------|\n| MANUAL INPUT  | Choose a start time manually.              |\n| CURRENT TIME  | Set the start time to the current time.    |\n| RESET         | Set the start time to 00:00:00.            |\n\n## COUNT UP SETTING\n\nChoose whether time is clocked continuously or only during movie recording.\n\n| Option   | Description                                      |\n|----------|--------------------------------------------------|\n| REC RUN  | Time is clocked only during movie recording.     |\n| FREE RUN | Time is clocked continuously.                    |",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "TIME CODE SETTING (Movie Recording)",
+                    "md": "# TIME CODE SETTING (Movie Recording)"
+                },
+                {
+                    "type": "text",
+                    "value": "Adjust time code (hour, minute, second, and frame number) display settings for movie recording.\n\nTo display time code settings, press **MENU/OK** in the movie shooting display and select the **TC (TIME CODE SETTING)** tab.\n\n!Time Code Setting Menu",
+                    "md": "Adjust time code (hour, minute, second, and frame number) display settings for movie recording.\n\nTo display time code settings, press **MENU/OK** in the movie shooting display and select the **TC (TIME CODE SETTING)** tab.\n\n!Time Code Setting Menu"
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "TIME CODE DISPLAY",
+                    "md": "## TIME CODE DISPLAY"
+                },
+                {
+                    "type": "text",
+                    "value": "Select **ON** to display time codes during movie recording and playback.",
+                    "md": "Select **ON** to display time codes during movie recording and playback."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Options",
+                            ""
+                        ],
+                        [
+                            "ON",
+                            "OFF"
+                        ]
+                    ],
+                    "md": "| Options |        |\n|---------|--------|\n| ON      | OFF    |",
+                    "isPerfectTable": true,
+                    "csv": "\"Options\",\"\"\n\"ON\",\"OFF\""
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "START TIME SETTING",
+                    "md": "## START TIME SETTING"
+                },
+                {
+                    "type": "text",
+                    "value": "Choose the time code starting time.",
+                    "md": "Choose the time code starting time."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Option",
+                            "Description"
+                        ],
+                        [
+                            "MANUAL INPUT",
+                            "Choose a start time manually."
+                        ],
+                        [
+                            "CURRENT TIME",
+                            "Set the start time to the current time."
+                        ],
+                        [
+                            "RESET",
+                            "Set the start time to 00:00:00."
+                        ]
+                    ],
+                    "md": "| Option        | Description                                |\n|---------------|--------------------------------------------|\n| MANUAL INPUT  | Choose a start time manually.              |\n| CURRENT TIME  | Set the start time to the current time.    |\n| RESET         | Set the start time to 00:00:00.            |",
+                    "isPerfectTable": true,
+                    "csv": "\"Option\",\"Description\"\n\"MANUAL INPUT\",\"Choose a start time manually.\"\n\"CURRENT TIME\",\"Set the start time to the current time.\"\n\"RESET\",\"Set the start time to 00:00:00.\""
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "COUNT UP SETTING",
+                    "md": "## COUNT UP SETTING"
+                },
+                {
+                    "type": "text",
+                    "value": "Choose whether time is clocked continuously or only during movie recording.",
+                    "md": "Choose whether time is clocked continuously or only during movie recording."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Option",
+                            "Description"
+                        ],
+                        [
+                            "REC RUN",
+                            "Time is clocked only during movie recording."
+                        ],
+                        [
+                            "FREE RUN",
+                            "Time is clocked continuously."
+                        ]
+                    ],
+                    "md": "| Option   | Description                                      |\n|----------|--------------------------------------------------|\n| REC RUN  | Time is clocked only during movie recording.     |\n| FREE RUN | Time is clocked continuously.                    |",
+                    "isPerfectTable": true,
+                    "csv": "\"Option\",\"Description\"\n\"REC RUN\",\"Time is clocked only during movie recording.\"\n\"FREE RUN\",\"Time is clocked continuously.\""
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 400.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "d9ea6fd9-22c0-4247-8118-83622ecfea42",
+    "file_path": "../data/raw_data/x-s20/x-s20_split/x-s20_page243.pdf"
+}

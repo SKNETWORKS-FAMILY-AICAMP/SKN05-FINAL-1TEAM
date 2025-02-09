@@ -1,0 +1,7 @@
+{
+    "parsing_result": "# AF Range Limiter\n\nLimit the range of available focus distances for increased focus speed.\n\n| Option  | Description |\n|---------|-------------|\n| **OFF** | Focus limiter disabled. |\n| **CUSTOM** | Limit focus to a range of distances defined by a minimum and maximum. <br> - **OK**: Limit focus to the selected range. <br> - **SET**: Choose two objects and limit focus to the distance between them. |\n| **PRESET1** | Limit focus to a preset range. |\n| **PRESET2** | Limit focus to a preset range. |\n\n### Notes\n- Choosing a focus range that includes distances shorter than the minimum focus distance of the lens disables the focus limiter.\n- The values listed and displayed for the focus limiter may differ from the actual focus distance.\n- Focus range can be set independently on lenses equipped with focus range selectors. Ensure the option selected in the camera menus overlaps with that chosen with the lens.\n\n### Additional Operations for CUSTOM\n- You can tap objects in the touch screen display to choose the focus range.\n- Instead of tapping an object in the display, set the maximum focus distance to infinity by rotating the focus ring.\n- Any changes made using this item also apply in movie mode (see page 209).",
+    "metadata": {
+        "page": 185,
+        "model": "x-t5"
+    }
+}

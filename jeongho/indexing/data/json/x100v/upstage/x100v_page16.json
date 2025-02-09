@@ -1,0 +1,154 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<h1 id='0' style='font-size:18px'>The EVF/LCD Monitor</h1>\n<header id='1' style='font-size:22px'>Before<br>You<br>Begin</header>\n<br><p id='2' data-category='paragraph' style='font-size:16px'>1</p>\n<br><figure id='3'><img style='font-size:14px' alt=\"2 3 4 8 12 (\nCROP 록 ㊿ 8 29.97 12m36s 9999 L N\nFHD\nS\n1.25x\n1\n品 100 12/31/2020 12:10 AM\n1\n17\nAREA\nAWB-L 1 8\n5 1 �TTL-1를\n図 으\n1\n50 STTL 5\n4\n3\nR DR\n49 ⌀miul\n200 200 20\n0 EEEFEE 오히 22\nDR-P 21\n-1\n48\n2.\n-3\n-4\n5\n47 昨 23\n46 ES 24\nBOOST\n45 A+M 25\n44 LR TC:00:00:00:00 26\n2\nAFL 0.1 0.5 1.0 1.5 2.0 3.0 5.0 10\nAF-S\nM [○]  1000 F 5.6 因+1.0 ISO 12800 ...\nAFL MF AF-S\n42 4 40 39 38 37 35 3 33 32 31 ⌀p\" data-coord=\"top-left:(215,351); bottom-right:(2481,2263)\" /></figure>\n<footer id='4' style='font-size:20px'>16</footer>",
+        "markdown": "# The EVF/LCD Monitor\n\nBefore\nYou\nBegin\n\n1\n\n![image](/image/placeholder)\n2 3 4 8 12 (\nCROP 록 ㊿ 8 29.97 12m36s 9999 L N\nFHD\nS\n1.25x\n1\n品 100 12/31/2020 12:10 AM\n1\n17\nAREA\nAWB-L 1 8\n5 1 �TTL-1를\n図 으\n1\n50 STTL 5\n4\n3\nR DR\n49 ⌀miul\n200 200 20\n0 EEEFEE 오히 22\nDR-P 21\n-1\n48\n2.\n-3\n-4\n5\n47 昨 23\n46 ES 24\nBOOST\n45 A+M 25\n44 LR TC:00:00:00:00 26\n2\nAFL 0.1 0.5 1.0 1.5 2.0 3.0 5.0 10\nAF-S\nM [○]  1000 F 5.6 因+1.0 ISO 12800 ...\nAFL MF AF-S\n42 4 40 39 38 37 35 3 33 32 31 ⌀p\n\n16",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='0' style='font-size:18px'>The EVF/LCD Monitor</h1>",
+                "markdown": "# The EVF/LCD Monitor",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0827,
+                    "y": 0.0733
+                },
+                {
+                    "x": 0.3744,
+                    "y": 0.0733
+                },
+                {
+                    "x": 0.3744,
+                    "y": 0.0947
+                },
+                {
+                    "x": 0.0827,
+                    "y": 0.0947
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='1' style='font-size:22px'>Before<br>You<br>Begin</header>",
+                "markdown": "Before\nYou\nBegin",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0184,
+                    "y": 0.2779
+                },
+                {
+                    "x": 0.0421,
+                    "y": 0.2779
+                },
+                {
+                    "x": 0.0421,
+                    "y": 0.4025
+                },
+                {
+                    "x": 0.0184,
+                    "y": 0.4025
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='2' data-category='paragraph' style='font-size:16px'>1</p>",
+                "markdown": "1",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0299,
+                    "y": 0.2413
+                },
+                {
+                    "x": 0.0385,
+                    "y": 0.2413
+                },
+                {
+                    "x": 0.0385,
+                    "y": 0.2544
+                },
+                {
+                    "x": 0.0299,
+                    "y": 0.2544
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "figure",
+            "content": {
+                "html": "<br><figure id='3'><img style='font-size:14px' alt=\"2 3 4 8 12 (\nCROP 록 ㊿ 8 29.97 12m36s 9999 L N\nFHD\nS\n1.25x\n1\n品 100 12/31/2020 12:10 AM\n1\n17\nAREA\nAWB-L 1 8\n5 1 �TTL-1를\n図 으\n1\n50 STTL 5\n4\n3\nR DR\n49 ⌀miul\n200 200 20\n0 EEEFEE 오히 22\nDR-P 21\n-1\n48\n2.\n-3\n-4\n5\n47 昨 23\n46 ES 24\nBOOST\n45 A+M 25\n44 LR TC:00:00:00:00 26\n2\nAFL 0.1 0.5 1.0 1.5 2.0 3.0 5.0 10\nAF-S\nM [○]  1000 F 5.6 因+1.0 ISO 12800 ...\nAFL MF AF-S\n42 4 40 39 38 37 35 3 33 32 31 ⌀p\" data-coord=\"top-left:(215,351); bottom-right:(2481,2263)\" /></figure>",
+                "markdown": "![image](/image/placeholder)\n2 3 4 8 12 (\nCROP 록 ㊿ 8 29.97 12m36s 9999 L N\nFHD\nS\n1.25x\n1\n品 100 12/31/2020 12:10 AM\n1\n17\nAREA\nAWB-L 1 8\n5 1 �TTL-1를\n図 으\n1\n50 STTL 5\n4\n3\nR DR\n49 ⌀miul\n200 200 20\n0 EEEFEE 오히 22\nDR-P 21\n-1\n48\n2.\n-3\n-4\n5\n47 昨 23\n46 ES 24\nBOOST\n45 A+M 25\n44 LR TC:00:00:00:00 26\n2\nAFL 0.1 0.5 1.0 1.5 2.0 3.0 5.0 10\nAF-S\nM [○]  1000 F 5.6 因+1.0 ISO 12800 ...\nAFL MF AF-S\n42 4 40 39 38 37 35 3 33 32 31 ⌀p",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0781,
+                    "y": 0.0902
+                },
+                {
+                    "x": 0.8977,
+                    "y": 0.0902
+                },
+                {
+                    "x": 0.8977,
+                    "y": 0.5806
+                },
+                {
+                    "x": 0.0781,
+                    "y": 0.5806
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='4' style='font-size:20px'>16</footer>",
+                "markdown": "16",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0842,
+                    "y": 0.9561
+                },
+                {
+                    "x": 0.123,
+                    "y": 0.9561
+                },
+                {
+                    "x": 0.123,
+                    "y": 0.9794
+                },
+                {
+                    "x": 0.0842,
+                    "y": 0.9794
+                }
+            ],
+            "id": 4,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

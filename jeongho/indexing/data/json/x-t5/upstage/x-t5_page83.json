@@ -1,0 +1,294 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<p id='0' data-category='paragraph' style='font-size:14px'>Autofocus</p>\n<h1 id='1' style='font-size:18px'>Focus Mode</h1>\n<br><h1 id='2' style='font-size:16px'>Use the focus mode selector to choose<br>how the camera focuses.</h1>\n<br><figure id='3'><img style='font-size:14px' alt=\"00\" data-coord=\"top-left:(1731,411); bottom-right:(2536,962)\" /></figure>\n<br><h1 id='4' style='font-size:20px'>Choose from the following options:</h1>\n<br><table id='5' style='font-size:16px'><tr><td>Mode</td><td>Description</td></tr><tr><td>S (AF-S)</td><td>Single AF: Focus locks while the shutter button is pressed halfway. Choose for stationary subjects.</td></tr><tr><td>C (AF-C)</td><td>Continuous AF: Focus is continually adjusted to reflect changes in the distance to the subject while the shutter button is pressed halfway. Use for subjects that are in motion.</td></tr><tr><td>M (manual)</td><td>Manual: Focus manually using the lens focus ring. Choose for man- ual control of focus or in situations in which the camera is unable to focus using autofocus ( 目 91).</td></tr></table>\n<p id='6' data-category='list' style='font-size:14px'>Regardless of the option selected, manual focus will be used when<br>the lens is in manual focus mode.<br>● If ON is selected for AF AF/MF SETTING > PRE-AF, focus will be ad-<br>MF<br>justed continuously in modes S and C even when the shutter button<br>is not pressed.</p>\n<br><footer id='7' style='font-size:16px'>5</footer>\n<br><footer id='8' style='font-size:22px'>Taking<br>Photographs</footer>\n<footer id='9' style='font-size:20px'>83</footer>",
+        "markdown": "Autofocus\n\n# Focus Mode\n\n# Use the focus mode selector to choose\nhow the camera focuses.\n\n![image](/image/placeholder)\n00\n\n# Choose from the following options:\n\n| Mode | Description |\n| --- | --- |\n| S (AF-S) | Single AF: Focus locks while the shutter button is pressed halfway. Choose for stationary subjects. |\n| C (AF-C) | Continuous AF: Focus is continually adjusted to reflect changes in the distance to the subject while the shutter button is pressed halfway. Use for subjects that are in motion. |\n| M (manual) | Manual: Focus manually using the lens focus ring. Choose for man- ual control of focus or in situations in which the camera is unable to focus using autofocus ( 目 91). |\n\n\n- Regardless of the option selected, manual focus will be used when\n- the lens is in manual focus mode.\n- ● If ON is selected for AF AF/MF SETTING > PRE-AF, focus will be ad-\n- MF\n- justed continuously in modes S and C even when the shutter button\n- is not pressed.\n\n\n5\n\nTaking\nPhotographs\n\n83",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='0' data-category='paragraph' style='font-size:14px'>Autofocus</p>",
+                "markdown": "Autofocus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.8129,
+                    "y": 0.0304
+                },
+                {
+                    "x": 0.9176,
+                    "y": 0.0304
+                },
+                {
+                    "x": 0.9176,
+                    "y": 0.0485
+                },
+                {
+                    "x": 0.8129,
+                    "y": 0.0485
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='1' style='font-size:18px'>Focus Mode</h1>",
+                "markdown": "# Focus Mode",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1101,
+                    "y": 0.0743
+                },
+                {
+                    "x": 0.2763,
+                    "y": 0.0743
+                },
+                {
+                    "x": 0.2763,
+                    "y": 0.0948
+                },
+                {
+                    "x": 0.1101,
+                    "y": 0.0948
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='2' style='font-size:16px'>Use the focus mode selector to choose<br>how the camera focuses.</h1>",
+                "markdown": "# Use the focus mode selector to choose\nhow the camera focuses.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1053,
+                    "y": 0.1045
+                },
+                {
+                    "x": 0.6345,
+                    "y": 0.1045
+                },
+                {
+                    "x": 0.6345,
+                    "y": 0.1536
+                },
+                {
+                    "x": 0.1053,
+                    "y": 0.1536
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "figure",
+            "content": {
+                "html": "<br><figure id='3'><img style='font-size:14px' alt=\"00\" data-coord=\"top-left:(1731,411); bottom-right:(2536,962)\" /></figure>",
+                "markdown": "![image](/image/placeholder)\n00",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6263,
+                    "y": 0.1055
+                },
+                {
+                    "x": 0.9179,
+                    "y": 0.1055
+                },
+                {
+                    "x": 0.9179,
+                    "y": 0.2469
+                },
+                {
+                    "x": 0.6263,
+                    "y": 0.2469
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='4' style='font-size:20px'>Choose from the following options:</h1>",
+                "markdown": "# Choose from the following options:",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1064,
+                    "y": 0.2566
+                },
+                {
+                    "x": 0.5571,
+                    "y": 0.2566
+                },
+                {
+                    "x": 0.5571,
+                    "y": 0.2814
+                },
+                {
+                    "x": 0.1064,
+                    "y": 0.2814
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='5' style='font-size:16px'><tr><td>Mode</td><td>Description</td></tr><tr><td>S (AF-S)</td><td>Single AF: Focus locks while the shutter button is pressed halfway. Choose for stationary subjects.</td></tr><tr><td>C (AF-C)</td><td>Continuous AF: Focus is continually adjusted to reflect changes in the distance to the subject while the shutter button is pressed halfway. Use for subjects that are in motion.</td></tr><tr><td>M (manual)</td><td>Manual: Focus manually using the lens focus ring. Choose for man- ual control of focus or in situations in which the camera is unable to focus using autofocus ( 目 91).</td></tr></table>",
+                "markdown": "| Mode | Description |\n| --- | --- |\n| S (AF-S) | Single AF: Focus locks while the shutter button is pressed halfway. Choose for stationary subjects. |\n| C (AF-C) | Continuous AF: Focus is continually adjusted to reflect changes in the distance to the subject while the shutter button is pressed halfway. Use for subjects that are in motion. |\n| M (manual) | Manual: Focus manually using the lens focus ring. Choose for man- ual control of focus or in situations in which the camera is unable to focus using autofocus ( 目 91). |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1056,
+                    "y": 0.2861
+                },
+                {
+                    "x": 0.9192,
+                    "y": 0.2861
+                },
+                {
+                    "x": 0.9192,
+                    "y": 0.5064
+                },
+                {
+                    "x": 0.1056,
+                    "y": 0.5064
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "list",
+            "content": {
+                "html": "<p id='6' data-category='list' style='font-size:14px'>Regardless of the option selected, manual focus will be used when<br>the lens is in manual focus mode.<br>● If ON is selected for AF AF/MF SETTING > PRE-AF, focus will be ad-<br>MF<br>justed continuously in modes S and C even when the shutter button<br>is not pressed.</p>",
+                "markdown": "- Regardless of the option selected, manual focus will be used when\n- the lens is in manual focus mode.\n- ● If ON is selected for AF AF/MF SETTING > PRE-AF, focus will be ad-\n- MF\n- justed continuously in modes S and C even when the shutter button\n- is not pressed.\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1279,
+                    "y": 0.5166
+                },
+                {
+                    "x": 0.9137,
+                    "y": 0.5166
+                },
+                {
+                    "x": 0.9137,
+                    "y": 0.6284
+                },
+                {
+                    "x": 0.1279,
+                    "y": 0.6284
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<br><footer id='7' style='font-size:16px'>5</footer>",
+                "markdown": "5",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9572,
+                    "y": 0.4775
+                },
+                {
+                    "x": 0.9755,
+                    "y": 0.4775
+                },
+                {
+                    "x": 0.9755,
+                    "y": 0.4976
+                },
+                {
+                    "x": 0.9572,
+                    "y": 0.4976
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<br><footer id='8' style='font-size:22px'>Taking<br>Photographs</footer>",
+                "markdown": "Taking\nPhotographs",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9561,
+                    "y": 0.5175
+                },
+                {
+                    "x": 0.9818,
+                    "y": 0.5175
+                },
+                {
+                    "x": 0.9818,
+                    "y": 0.6654
+                },
+                {
+                    "x": 0.9561,
+                    "y": 0.6654
+                }
+            ],
+            "id": 8,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='9' style='font-size:20px'>83</footer>",
+                "markdown": "83",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.8776,
+                    "y": 0.9565
+                },
+                {
+                    "x": 0.9164,
+                    "y": 0.9565
+                },
+                {
+                    "x": 0.9164,
+                    "y": 0.9792
+                },
+                {
+                    "x": 0.8776,
+                    "y": 0.9792
+                }
+            ],
+            "id": 9,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

@@ -1,0 +1,210 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:22px'>Network/USB<br>Setting<br>Menus</header>\n<br><h1 id='1' style='font-size:20px'>Camera indicator lamp display</h1>\n<br><p id='2' data-category='paragraph' style='font-size:16px'>The camera indicator lamp shows the<br>status of its connection to computers,<br>Frame.io, FTP servers, and the like.</p>\n<br><figure id='3'><img alt=\"\" data-coord=\"top-left:(1674,435); bottom-right:(2424,1004)\" /></figure>\n<table id='4' style='font-size:14px'><tr><td>Indicator lamp</td><td>Connection status</td></tr><tr><td>Blinks red</td><td>No network connection.</td></tr><tr><td>Glows red</td><td>No network connection; pictures awaiting upload.</td></tr><tr><td>Blinks orange</td><td>Connected to network but not to computer teth- ered photography software, Frame.io, or FTP server.</td></tr><tr><td>Blinks orange and red</td><td>Connected to network but not to computer teth- ered photography software, Frame.io, or FTP server; pictures awaiting upload.</td></tr><tr><td>Blinks green</td><td>Ready for tethered photography, upload to Frame.io, or FTP upload.</td></tr><tr><td>Blinks green and red</td><td>Ready for tethered photography, upload to Frame.io, or FTP upload; pictures awaiting upload.</td></tr></table>\n<p id='5' data-category='paragraph' style='font-size:14px'>8</p>\n<footer id='6' style='font-size:18px'>244</footer>",
+        "markdown": "Network/USB\nSetting\nMenus\n\n# Camera indicator lamp display\n\nThe camera indicator lamp shows the\nstatus of its connection to computers,\nFrame.io, FTP servers, and the like.\n\n![image](/image/placeholder)\n\n\n| Indicator lamp | Connection status |\n| --- | --- |\n| Blinks red | No network connection. |\n| Glows red | No network connection; pictures awaiting upload. |\n| Blinks orange | Connected to network but not to computer teth- ered photography software, Frame.io, or FTP server. |\n| Blinks orange and red | Connected to network but not to computer teth- ered photography software, Frame.io, or FTP server; pictures awaiting upload. |\n| Blinks green | Ready for tethered photography, upload to Frame.io, or FTP upload. |\n| Blinks green and red | Ready for tethered photography, upload to Frame.io, or FTP upload; pictures awaiting upload. |\n\n\n8\n\n244",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:22px'>Network/USB<br>Setting<br>Menus</header>",
+                "markdown": "Network/USB\nSetting\nMenus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0174,
+                    "y": 0.4288
+                },
+                {
+                    "x": 0.0415,
+                    "y": 0.4288
+                },
+                {
+                    "x": 0.0415,
+                    "y": 0.6397
+                },
+                {
+                    "x": 0.0174,
+                    "y": 0.6397
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='1' style='font-size:20px'>Camera indicator lamp display</h1>",
+                "markdown": "# Camera indicator lamp display",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0926,
+                    "y": 0.0738
+                },
+                {
+                    "x": 0.4741,
+                    "y": 0.0738
+                },
+                {
+                    "x": 0.4741,
+                    "y": 0.0993
+                },
+                {
+                    "x": 0.0926,
+                    "y": 0.0993
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='2' data-category='paragraph' style='font-size:16px'>The camera indicator lamp shows the<br>status of its connection to computers,<br>Frame.io, FTP servers, and the like.</p>",
+                "markdown": "The camera indicator lamp shows the\nstatus of its connection to computers,\nFrame.io, FTP servers, and the like.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0823,
+                    "y": 0.1084
+                },
+                {
+                    "x": 0.6016,
+                    "y": 0.1084
+                },
+                {
+                    "x": 0.6016,
+                    "y": 0.1855
+                },
+                {
+                    "x": 0.0823,
+                    "y": 0.1855
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "figure",
+            "content": {
+                "html": "<br><figure id='3'><img alt=\"\" data-coord=\"top-left:(1674,435); bottom-right:(2424,1004)\" /></figure>",
+                "markdown": "![image](/image/placeholder)\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6059,
+                    "y": 0.1118
+                },
+                {
+                    "x": 0.8771,
+                    "y": 0.1118
+                },
+                {
+                    "x": 0.8771,
+                    "y": 0.2576
+                },
+                {
+                    "x": 0.6059,
+                    "y": 0.2576
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='4' style='font-size:14px'><tr><td>Indicator lamp</td><td>Connection status</td></tr><tr><td>Blinks red</td><td>No network connection.</td></tr><tr><td>Glows red</td><td>No network connection; pictures awaiting upload.</td></tr><tr><td>Blinks orange</td><td>Connected to network but not to computer teth- ered photography software, Frame.io, or FTP server.</td></tr><tr><td>Blinks orange and red</td><td>Connected to network but not to computer teth- ered photography software, Frame.io, or FTP server; pictures awaiting upload.</td></tr><tr><td>Blinks green</td><td>Ready for tethered photography, upload to Frame.io, or FTP upload.</td></tr><tr><td>Blinks green and red</td><td>Ready for tethered photography, upload to Frame.io, or FTP upload; pictures awaiting upload.</td></tr></table>",
+                "markdown": "| Indicator lamp | Connection status |\n| --- | --- |\n| Blinks red | No network connection. |\n| Glows red | No network connection; pictures awaiting upload. |\n| Blinks orange | Connected to network but not to computer teth- ered photography software, Frame.io, or FTP server. |\n| Blinks orange and red | Connected to network but not to computer teth- ered photography software, Frame.io, or FTP server; pictures awaiting upload. |\n| Blinks green | Ready for tethered photography, upload to Frame.io, or FTP upload. |\n| Blinks green and red | Ready for tethered photography, upload to Frame.io, or FTP upload; pictures awaiting upload. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0855,
+                    "y": 0.2761
+                },
+                {
+                    "x": 0.893,
+                    "y": 0.2761
+                },
+                {
+                    "x": 0.893,
+                    "y": 0.5792
+                },
+                {
+                    "x": 0.0855,
+                    "y": 0.5792
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='5' data-category='paragraph' style='font-size:14px'>8</p>",
+                "markdown": "8",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0284,
+                    "y": 0.6598
+                },
+                {
+                    "x": 0.0417,
+                    "y": 0.6598
+                },
+                {
+                    "x": 0.0417,
+                    "y": 0.6742
+                },
+                {
+                    "x": 0.0284,
+                    "y": 0.6742
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='6' style='font-size:18px'>244</footer>",
+                "markdown": "244",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0825,
+                    "y": 0.9567
+                },
+                {
+                    "x": 0.1403,
+                    "y": 0.9567
+                },
+                {
+                    "x": 0.1403,
+                    "y": 0.9787
+                },
+                {
+                    "x": 0.0825,
+                    "y": 0.9787
+                }
+            ],
+            "id": 6,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

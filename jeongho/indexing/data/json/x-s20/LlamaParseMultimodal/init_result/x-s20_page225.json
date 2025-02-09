@@ -1,0 +1,102 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "# MOVIE SETTING (Movie Recording)\n\n## MOVIE OPTIMIZED CONTROL\n\nSelect **ON** to allow movie settings to be adjusted using only the command dials and touch-screen controls. You may find this helpful in preventing the sounds of camera controls being recorded with movies (📖 27).\n\n| Options |      |\n|---------|------|\n| ON      | OFF  |\n\n## REC FRAME INDICATOR\n\nIf **ON** is selected, the borders of the display will turn red during movie recording.\n\n| Options |      |\n|---------|------|\n| ON      | OFF  |\n\n> 💡 **Note:**  \n> The borders are displayed in green during high-speed movie recording.",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "MOVIE SETTING (Movie Recording)",
+                    "md": "# MOVIE SETTING (Movie Recording)"
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "MOVIE OPTIMIZED CONTROL",
+                    "md": "## MOVIE OPTIMIZED CONTROL"
+                },
+                {
+                    "type": "text",
+                    "value": "Select **ON** to allow movie settings to be adjusted using only the command dials and touch-screen controls. You may find this helpful in preventing the sounds of camera controls being recorded with movies (📖 27).",
+                    "md": "Select **ON** to allow movie settings to be adjusted using only the command dials and touch-screen controls. You may find this helpful in preventing the sounds of camera controls being recorded with movies (📖 27)."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Options",
+                            ""
+                        ],
+                        [
+                            "ON",
+                            "OFF"
+                        ]
+                    ],
+                    "md": "| Options |      |\n|---------|------|\n| ON      | OFF  |",
+                    "isPerfectTable": true,
+                    "csv": "\"Options\",\"\"\n\"ON\",\"OFF\""
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "REC FRAME INDICATOR",
+                    "md": "## REC FRAME INDICATOR"
+                },
+                {
+                    "type": "text",
+                    "value": "If **ON** is selected, the borders of the display will turn red during movie recording.",
+                    "md": "If **ON** is selected, the borders of the display will turn red during movie recording."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Options",
+                            ""
+                        ],
+                        [
+                            "ON",
+                            "OFF"
+                        ]
+                    ],
+                    "md": "| Options |      |\n|---------|------|\n| ON      | OFF  |",
+                    "isPerfectTable": true,
+                    "csv": "\"Options\",\"\"\n\"ON\",\"OFF\""
+                },
+                {
+                    "type": "text",
+                    "value": "> 💡 **Note:**  \n> The borders are displayed in green during high-speed movie recording.",
+                    "md": "> 💡 **Note:**  \n> The borders are displayed in green during high-speed movie recording."
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 271.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "bd066ff9-6b1f-4bad-9566-0970c6fb6dd9",
+    "file_path": "../data/raw_data/x-s20/x-s20_split/x-s20_page225.pdf"
+}

@@ -1,0 +1,16 @@
+{
+    "parsing_result": "# Shooting Menus\n\n## High ISO NR\nReduce noise in pictures taken at high sensitivities. Choose higher values to reduce noise and smooth outlines, lower values to leave outlines visible.\n\n**Options:**\n- -4\n- -3\n- -2\n- -1\n- 0\n- +1\n- +2\n- +3\n- +4\n\n## Clarity\nIncrease definition while altering tones in highlights and shadows as little as possible. Choose higher values for increased definition, lower values for a softer effect.\n\n**Options:**\n- -5\n- -4\n- -3\n- -2\n- -1\n- 0\n- +1\n- +2\n- +3\n- +4\n- +5\n\n*Note: The additional processing required at settings other than 0 increases the time needed to save each shot.*\n\n## Long Exposure NR\nSelect **ON** to reduce mottling in long time-exposures.\n\n**Options:**\n- ON\n- OFF\n\n*Note: The additional processing required when ON is selected increases save times.*",
+    "metadata": {
+        "page": 132,
+        "model": "x-t5",
+        "chapter": "The Shooting Menus",
+        "section": "IMAGE QUALITY SETTING (Still Photography)",
+        "subsection": [
+            "HIGH ISO NR",
+            "CLARITY",
+            "LONG EXPOSURE NR"
+        ],
+        "embedding_model": "text-embedding-3-small",
+        "token": 225
+    }
+}

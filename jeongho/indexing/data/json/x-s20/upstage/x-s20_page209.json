@@ -1,0 +1,350 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:14px'>AF/MF SETTING (Movie Recording)</header>\n<h1 id='1' style='font-size:16px'>SUBJECT DETECTION SETTING</h1>\n<br><p id='2' data-category='paragraph' style='font-size:20px'>Options are the same as those for still photography, but settings<br>must be adjusted separately (□ 158).</p>\n<p id='3' data-category='paragraph' style='font-size:14px'>The camera automatically switches to continuous AF when SUBJECT<br>DETECTION ON is selected for AF AF/MF SETTING > SUBJECT<br>MF<br>DETECTION SETTING, even if SINGLE AF is selected for FOCUS<br>MODE. Subject detection is not available during manual focus,<br>even when SUBJECT DETECTION ON is selected for SUBJECT<br>DETECTION SETTING.</p>\n<p id='4' data-category='paragraph' style='font-size:18px'>AF+MF</p>\n\n<br><table id='6' style='font-size:16px'><tr><td colspan=\"2\">Options</td></tr><tr><td>ON</td><td>OFF</td></tr><br><caption id='5' style='font-size:20px'>Select ON to enable manualfocus in SINGLE AF and CONTINUOUS<br>AF modes. Manual focus can be suspended by pressing the AFON<br>button.</caption></table>\n<p id='7' data-category='paragraph' style='font-size:18px'>MF ASSIST</p>\n\n<table id='9' style='font-size:16px'><tr><td>Option</td><td>Description</td></tr><tr><td>FOCUS PEAK HIGHLIGHT</td><td>The camera heightens high-contrast outlines. Choose a color and peaking level.</td></tr><tr><td>FOCUS METER</td><td>A needle indicates whether focus is in front of or behind the subject.</td></tr><tr><td>FOCUS METER + PEAK HIGHLIGHT</td><td>Focus is indicated by both a meter and peak highlights.</td></tr><tr><td>OFF</td><td>Focus is displayed normally (MF assist cannot be used).</td></tr><br><caption id='8' style='font-size:20px'>Choose how focus is displayed when MANUAL FOCUS is select-<br>ed for FOCUS MODE (□ 102).</caption></table>\n<footer id='10' style='font-size:22px'>209</footer>\n<br><footer id='11' style='font-size:22px'>6<br>The<br>Shooting<br>Menus</footer>",
+        "markdown": "AF/MF SETTING (Movie Recording)\n\n# SUBJECT DETECTION SETTING\n\nOptions are the same as those for still photography, but settings\nmust be adjusted separately (□ 158).\n\nThe camera automatically switches to continuous AF when SUBJECT\nDETECTION ON is selected for AF AF/MF SETTING > SUBJECT\nMF\nDETECTION SETTING, even if SINGLE AF is selected for FOCUS\nMODE. Subject detection is not available during manual focus,\neven when SUBJECT DETECTION ON is selected for SUBJECT\nDETECTION SETTING.\n\nAF+MF\n\nSelect ON to enable manualfocus in SINGLE AF and CONTINUOUS\nAF modes. Manual focus can be suspended by pressing the AFON\nbutton.\n\n| Options | Options |\n| --- | --- |\n| ON | OFF |\n\n\nMF ASSIST\n\nChoose how focus is displayed when MANUAL FOCUS is select-\ned for FOCUS MODE (□ 102).\n\n| Option | Description |\n| --- | --- |\n| FOCUS PEAK HIGHLIGHT | The camera heightens high-contrast outlines. Choose a color and peaking level. |\n| FOCUS METER | A needle indicates whether focus is in front of or behind the subject. |\n| FOCUS METER + PEAK HIGHLIGHT | Focus is indicated by both a meter and peak highlights. |\n| OFF | Focus is displayed normally (MF assist cannot be used). |\n\n\n209\n\n6\nThe\nShooting\nMenus",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:14px'>AF/MF SETTING (Movie Recording)</header>",
+                "markdown": "AF/MF SETTING (Movie Recording)",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.5765,
+                    "y": 0.0279
+                },
+                {
+                    "x": 0.917,
+                    "y": 0.0279
+                },
+                {
+                    "x": 0.917,
+                    "y": 0.051
+                },
+                {
+                    "x": 0.5765,
+                    "y": 0.051
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='1' style='font-size:16px'>SUBJECT DETECTION SETTING</h1>",
+                "markdown": "# SUBJECT DETECTION SETTING",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1076,
+                    "y": 0.0733
+                },
+                {
+                    "x": 0.5556,
+                    "y": 0.0733
+                },
+                {
+                    "x": 0.5556,
+                    "y": 0.095
+                },
+                {
+                    "x": 0.1076,
+                    "y": 0.095
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='2' data-category='paragraph' style='font-size:20px'>Options are the same as those for still photography, but settings<br>must be adjusted separately (□ 158).</p>",
+                "markdown": "Options are the same as those for still photography, but settings\nmust be adjusted separately (□ 158).",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1055,
+                    "y": 0.1043
+                },
+                {
+                    "x": 0.9186,
+                    "y": 0.1043
+                },
+                {
+                    "x": 0.9186,
+                    "y": 0.1552
+                },
+                {
+                    "x": 0.1055,
+                    "y": 0.1552
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='3' data-category='paragraph' style='font-size:14px'>The camera automatically switches to continuous AF when SUBJECT<br>DETECTION ON is selected for AF AF/MF SETTING > SUBJECT<br>MF<br>DETECTION SETTING, even if SINGLE AF is selected for FOCUS<br>MODE. Subject detection is not available during manual focus,<br>even when SUBJECT DETECTION ON is selected for SUBJECT<br>DETECTION SETTING.</p>",
+                "markdown": "The camera automatically switches to continuous AF when SUBJECT\nDETECTION ON is selected for AF AF/MF SETTING > SUBJECT\nMF\nDETECTION SETTING, even if SINGLE AF is selected for FOCUS\nMODE. Subject detection is not available during manual focus,\neven when SUBJECT DETECTION ON is selected for SUBJECT\nDETECTION SETTING.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1189,
+                    "y": 0.1684
+                },
+                {
+                    "x": 0.9165,
+                    "y": 0.1684
+                },
+                {
+                    "x": 0.9165,
+                    "y": 0.3052
+                },
+                {
+                    "x": 0.1189,
+                    "y": 0.3052
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='4' data-category='paragraph' style='font-size:18px'>AF+MF</p>",
+                "markdown": "AF+MF",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1071,
+                    "y": 0.3263
+                },
+                {
+                    "x": 0.2465,
+                    "y": 0.3263
+                },
+                {
+                    "x": 0.2465,
+                    "y": 0.3493
+                },
+                {
+                    "x": 0.1071,
+                    "y": 0.3493
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='5' data-category='paragraph' style='font-size:20px'>Select ON to enable manualfocus in SINGLE AF and CONTINUOUS<br>AF modes. Manual focus can be suspended by pressing the AFON<br>button.</p>",
+                "markdown": "Select ON to enable manualfocus in SINGLE AF and CONTINUOUS\nAF modes. Manual focus can be suspended by pressing the AFON\nbutton.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1066,
+                    "y": 0.3578
+                },
+                {
+                    "x": 0.9186,
+                    "y": 0.3578
+                },
+                {
+                    "x": 0.9186,
+                    "y": 0.4336
+                },
+                {
+                    "x": 0.1066,
+                    "y": 0.4336
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='6' style='font-size:16px'><tr><td colspan=\"2\">Options</td></tr><tr><td>ON</td><td>OFF</td></tr></table>",
+                "markdown": "| Options | Options |\n| --- | --- |\n| ON | OFF |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1088,
+                    "y": 0.4461
+                },
+                {
+                    "x": 0.9163,
+                    "y": 0.4461
+                },
+                {
+                    "x": 0.9163,
+                    "y": 0.4975
+                },
+                {
+                    "x": 0.1088,
+                    "y": 0.4975
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='7' data-category='paragraph' style='font-size:18px'>MF ASSIST</p>",
+                "markdown": "MF ASSIST",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1073,
+                    "y": 0.5138
+                },
+                {
+                    "x": 0.2924,
+                    "y": 0.5138
+                },
+                {
+                    "x": 0.2924,
+                    "y": 0.5374
+                },
+                {
+                    "x": 0.1073,
+                    "y": 0.5374
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='8' data-category='paragraph' style='font-size:20px'>Choose how focus is displayed when MANUAL FOCUS is select-<br>ed for FOCUS MODE (□ 102).</p>",
+                "markdown": "Choose how focus is displayed when MANUAL FOCUS is select-\ned for FOCUS MODE (□ 102).",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1039,
+                    "y": 0.5451
+                },
+                {
+                    "x": 0.9152,
+                    "y": 0.5451
+                },
+                {
+                    "x": 0.9152,
+                    "y": 0.5966
+                },
+                {
+                    "x": 0.1039,
+                    "y": 0.5966
+                }
+            ],
+            "id": 8,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='9' style='font-size:16px'><tr><td>Option</td><td>Description</td></tr><tr><td>FOCUS PEAK HIGHLIGHT</td><td>The camera heightens high-contrast outlines. Choose a color and peaking level.</td></tr><tr><td>FOCUS METER</td><td>A needle indicates whether focus is in front of or behind the subject.</td></tr><tr><td>FOCUS METER + PEAK HIGHLIGHT</td><td>Focus is indicated by both a meter and peak highlights.</td></tr><tr><td>OFF</td><td>Focus is displayed normally (MF assist cannot be used).</td></tr></table>",
+                "markdown": "| Option | Description |\n| --- | --- |\n| FOCUS PEAK HIGHLIGHT | The camera heightens high-contrast outlines. Choose a color and peaking level. |\n| FOCUS METER | A needle indicates whether focus is in front of or behind the subject. |\n| FOCUS METER + PEAK HIGHLIGHT | Focus is indicated by both a meter and peak highlights. |\n| OFF | Focus is displayed normally (MF assist cannot be used). |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1065,
+                    "y": 0.6084
+                },
+                {
+                    "x": 0.9201,
+                    "y": 0.6084
+                },
+                {
+                    "x": 0.9201,
+                    "y": 0.7995
+                },
+                {
+                    "x": 0.1065,
+                    "y": 0.7995
+                }
+            ],
+            "id": 9,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='10' style='font-size:22px'>209</footer>",
+                "markdown": "209",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.8601,
+                    "y": 0.9559
+                },
+                {
+                    "x": 0.9182,
+                    "y": 0.9559
+                },
+                {
+                    "x": 0.9182,
+                    "y": 0.9797
+                },
+                {
+                    "x": 0.8601,
+                    "y": 0.9797
+                }
+            ],
+            "id": 10,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<br><footer id='11' style='font-size:22px'>6<br>The<br>Shooting<br>Menus</footer>",
+                "markdown": "6\nThe\nShooting\nMenus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9568,
+                    "y": 0.5427
+                },
+                {
+                    "x": 0.9829,
+                    "y": 0.5427
+                },
+                {
+                    "x": 0.9829,
+                    "y": 0.7308
+                },
+                {
+                    "x": 0.9568,
+                    "y": 0.7308
+                }
+            ],
+            "id": 11,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

@@ -1,0 +1,434 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<h1 id='0' style='font-size:22px'>MOVIE SETTING (Movie Recording)</h1>\n<br><h1 id='1' style='font-size:20px'>Adjust movie-recording options.</h1>\n<p id='2' data-category='paragraph' style='font-size:14px'>▶</p>\n<br><table id='3' style='font-size:14px'><tr><td>To display options for movie recording, press MENU/OK in the movie shooting dis- play and select the □ (MOVIE SETTING) tab.</td><td>I.Q. AF MF TC 2 MY</td><td>입 MOVIE SETTING 1 /4 MOVIE SETTING LIST IMAGE FORMAT MOVIE MODE HIGH SPEED REC SELF-TIMER MEDIA REC SETTING HDMI OUTPUT SETTING FIX MOVIE CROP MAGNIFICATION</td></tr></table>\n<br><p id='4' data-category='paragraph' style='font-size:14px'>BACK EXIT</p>\n<p id='5' data-category='paragraph' style='font-size:18px'>MOVIE SETTING LIST</p>\n<br><p id='6' data-category='paragraph' style='font-size:20px'>View current movie recording settings.</p>\n<br><p id='7' data-category='paragraph' style='font-size:18px'>These options can also be viewed by pressing the DISP/BACK button while<br>the movie quick menu is displayed.</p>\n<p id='8' data-category='paragraph' style='font-size:18px'>IMAGE FORMAT</p>\n\n<table id='10' style='font-size:16px'><tr><td>Option</td><td>Description</td></tr><tr><td>GF</td><td>Shoot in the optimal format for GF Series lenses.</td></tr><tr><td>Premista</td><td>Shoot in the optimal format for Premista Series lenses.</td></tr><tr><td>35mm</td><td>Shoot in the optimal format for 35-mm format lenses.</td></tr><tr><td>ANAMORPHIC(35mm)</td><td>Shoot in the optimal format for anamorphic lenses. You can configure the lens magnification or whether to use the des- queeze display when taking pictures.</td></tr><br><caption id='9' style='font-size:20px'>You can change the format of movies to be shot depending on<br>the lens to be used. Frame size and aspect ratio are set by MOVIE<br>MODE.</caption></table>\n<p id='11' data-category='list' style='font-size:16px'>● When ANAMORPHIC(35mm) is set, an anti-vibration func-<br>tion operates to match the configured magnification. Do not set<br>ANAMORPHIC(35mm) when using a lens other than an anamorphic<br>lens.<br>● When MOVIE SETTING > HDMI OUTPUT SETTING > HDMI<br>OUTPUT INFO DISPLAY is set to OFF, HDMI output does not use<br>the desqueeze display, even when desqueeze display is set to ON for<br>ANAMORPHIC(35mm).</p>\n<br><footer id='12' style='font-size:16px'>6</footer>\n<br><footer id='13' style='font-size:22px'>The<br>Shooting<br>Menus</footer>\n<footer id='14' style='font-size:20px'>177</footer>",
+        "markdown": "# MOVIE SETTING (Movie Recording)\n\n# Adjust movie-recording options.\n\n▶\n\n| To display options for movie recording, press MENU/OK in the movie shooting dis- play and select the □ (MOVIE SETTING) tab. | I.Q. AF MF TC 2 MY | 입 MOVIE SETTING 1 /4 MOVIE SETTING LIST IMAGE FORMAT MOVIE MODE HIGH SPEED REC SELF-TIMER MEDIA REC SETTING HDMI OUTPUT SETTING FIX MOVIE CROP MAGNIFICATION |\n| --- | --- | --- |\n\n\nBACK EXIT\n\nMOVIE SETTING LIST\n\nView current movie recording settings.\n\nThese options can also be viewed by pressing the DISP/BACK button while\nthe movie quick menu is displayed.\n\nIMAGE FORMAT\n\nYou can change the format of movies to be shot depending on\nthe lens to be used. Frame size and aspect ratio are set by MOVIE\nMODE.\n\n| Option | Description |\n| --- | --- |\n| GF | Shoot in the optimal format for GF Series lenses. |\n| Premista | Shoot in the optimal format for Premista Series lenses. |\n| 35mm | Shoot in the optimal format for 35-mm format lenses. |\n| ANAMORPHIC(35mm) | Shoot in the optimal format for anamorphic lenses. You can configure the lens magnification or whether to use the des- queeze display when taking pictures. |\n\n\n- ● When ANAMORPHIC(35mm) is set, an anti-vibration func-\n- tion operates to match the configured magnification. Do not set\n- ANAMORPHIC(35mm) when using a lens other than an anamorphic\n- lens.\n- ● When MOVIE SETTING > HDMI OUTPUT SETTING > HDMI\n- OUTPUT INFO DISPLAY is set to OFF, HDMI output does not use\n- the desqueeze display, even when desqueeze display is set to ON for\n- ANAMORPHIC(35mm).\n\n\n6\n\nThe\nShooting\nMenus\n\n177",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='0' style='font-size:22px'>MOVIE SETTING (Movie Recording)</h1>",
+                "markdown": "# MOVIE SETTING (Movie Recording)",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1798,
+                    "y": 0.0737
+                },
+                {
+                    "x": 0.7633,
+                    "y": 0.0737
+                },
+                {
+                    "x": 0.7633,
+                    "y": 0.0999
+                },
+                {
+                    "x": 0.1798,
+                    "y": 0.0999
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='1' style='font-size:20px'>Adjust movie-recording options.</h1>",
+                "markdown": "# Adjust movie-recording options.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1795,
+                    "y": 0.11
+                },
+                {
+                    "x": 0.5894,
+                    "y": 0.11
+                },
+                {
+                    "x": 0.5894,
+                    "y": 0.1329
+                },
+                {
+                    "x": 0.1795,
+                    "y": 0.1329
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='2' data-category='paragraph' style='font-size:14px'>▶</p>",
+                "markdown": "▶",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9044,
+                    "y": 0.1703
+                },
+                {
+                    "x": 0.911,
+                    "y": 0.1703
+                },
+                {
+                    "x": 0.911,
+                    "y": 0.1766
+                },
+                {
+                    "x": 0.9044,
+                    "y": 0.1766
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='3' style='font-size:14px'><tr><td>To display options for movie recording, press MENU/OK in the movie shooting dis- play and select the □ (MOVIE SETTING) tab.</td><td>I.Q. AF MF TC 2 MY</td><td>입 MOVIE SETTING 1 /4 MOVIE SETTING LIST IMAGE FORMAT MOVIE MODE HIGH SPEED REC SELF-TIMER MEDIA REC SETTING HDMI OUTPUT SETTING FIX MOVIE CROP MAGNIFICATION</td></tr></table>",
+                "markdown": "| To display options for movie recording, press MENU/OK in the movie shooting dis- play and select the □ (MOVIE SETTING) tab. | I.Q. AF MF TC 2 MY | 입 MOVIE SETTING 1 /4 MOVIE SETTING LIST IMAGE FORMAT MOVIE MODE HIGH SPEED REC SELF-TIMER MEDIA REC SETTING HDMI OUTPUT SETTING FIX MOVIE CROP MAGNIFICATION |\n| --- | --- | --- |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1081,
+                    "y": 0.1453
+                },
+                {
+                    "x": 0.8997,
+                    "y": 0.1453
+                },
+                {
+                    "x": 0.8997,
+                    "y": 0.2857
+                },
+                {
+                    "x": 0.1081,
+                    "y": 0.2857
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='4' data-category='paragraph' style='font-size:14px'>BACK EXIT</p>",
+                "markdown": "BACK EXIT",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.838,
+                    "y": 0.2828
+                },
+                {
+                    "x": 0.89,
+                    "y": 0.2828
+                },
+                {
+                    "x": 0.89,
+                    "y": 0.2923
+                },
+                {
+                    "x": 0.838,
+                    "y": 0.2923
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='5' data-category='paragraph' style='font-size:18px'>MOVIE SETTING LIST</p>",
+                "markdown": "MOVIE SETTING LIST",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1064,
+                    "y": 0.3127
+                },
+                {
+                    "x": 0.3891,
+                    "y": 0.3127
+                },
+                {
+                    "x": 0.3891,
+                    "y": 0.3338
+                },
+                {
+                    "x": 0.1064,
+                    "y": 0.3338
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='6' data-category='paragraph' style='font-size:20px'>View current movie recording settings.</p>",
+                "markdown": "View current movie recording settings.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1053,
+                    "y": 0.3441
+                },
+                {
+                    "x": 0.5951,
+                    "y": 0.3441
+                },
+                {
+                    "x": 0.5951,
+                    "y": 0.3694
+                },
+                {
+                    "x": 0.1053,
+                    "y": 0.3694
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='7' data-category='paragraph' style='font-size:18px'>These options can also be viewed by pressing the DISP/BACK button while<br>the movie quick menu is displayed.</p>",
+                "markdown": "These options can also be viewed by pressing the DISP/BACK button while\nthe movie quick menu is displayed.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1094,
+                    "y": 0.3745
+                },
+                {
+                    "x": 0.9136,
+                    "y": 0.3745
+                },
+                {
+                    "x": 0.9136,
+                    "y": 0.4199
+                },
+                {
+                    "x": 0.1094,
+                    "y": 0.4199
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='8' data-category='paragraph' style='font-size:18px'>IMAGE FORMAT</p>",
+                "markdown": "IMAGE FORMAT",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1093,
+                    "y": 0.4401
+                },
+                {
+                    "x": 0.3267,
+                    "y": 0.4401
+                },
+                {
+                    "x": 0.3267,
+                    "y": 0.4628
+                },
+                {
+                    "x": 0.1093,
+                    "y": 0.4628
+                }
+            ],
+            "id": 8,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='9' data-category='paragraph' style='font-size:20px'>You can change the format of movies to be shot depending on<br>the lens to be used. Frame size and aspect ratio are set by MOVIE<br>MODE.</p>",
+                "markdown": "You can change the format of movies to be shot depending on\nthe lens to be used. Frame size and aspect ratio are set by MOVIE\nMODE.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1059,
+                    "y": 0.4719
+                },
+                {
+                    "x": 0.9178,
+                    "y": 0.4719
+                },
+                {
+                    "x": 0.9178,
+                    "y": 0.5467
+                },
+                {
+                    "x": 0.1059,
+                    "y": 0.5467
+                }
+            ],
+            "id": 9,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='10' style='font-size:16px'><tr><td>Option</td><td>Description</td></tr><tr><td>GF</td><td>Shoot in the optimal format for GF Series lenses.</td></tr><tr><td>Premista</td><td>Shoot in the optimal format for Premista Series lenses.</td></tr><tr><td>35mm</td><td>Shoot in the optimal format for 35-mm format lenses.</td></tr><tr><td>ANAMORPHIC(35mm)</td><td>Shoot in the optimal format for anamorphic lenses. You can configure the lens magnification or whether to use the des- queeze display when taking pictures.</td></tr></table>",
+                "markdown": "| Option | Description |\n| --- | --- |\n| GF | Shoot in the optimal format for GF Series lenses. |\n| Premista | Shoot in the optimal format for Premista Series lenses. |\n| 35mm | Shoot in the optimal format for 35-mm format lenses. |\n| ANAMORPHIC(35mm) | Shoot in the optimal format for anamorphic lenses. You can configure the lens magnification or whether to use the des- queeze display when taking pictures. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1089,
+                    "y": 0.5603
+                },
+                {
+                    "x": 0.9183,
+                    "y": 0.5603
+                },
+                {
+                    "x": 0.9183,
+                    "y": 0.728
+                },
+                {
+                    "x": 0.1089,
+                    "y": 0.728
+                }
+            ],
+            "id": 10,
+            "page": 1
+        },
+        {
+            "category": "list",
+            "content": {
+                "html": "<p id='11' data-category='list' style='font-size:16px'>● When ANAMORPHIC(35mm) is set, an anti-vibration func-<br>tion operates to match the configured magnification. Do not set<br>ANAMORPHIC(35mm) when using a lens other than an anamorphic<br>lens.<br>● When MOVIE SETTING > HDMI OUTPUT SETTING > HDMI<br>OUTPUT INFO DISPLAY is set to OFF, HDMI output does not use<br>the desqueeze display, even when desqueeze display is set to ON for<br>ANAMORPHIC(35mm).</p>",
+                "markdown": "- ● When ANAMORPHIC(35mm) is set, an anti-vibration func-\n- tion operates to match the configured magnification. Do not set\n- ANAMORPHIC(35mm) when using a lens other than an anamorphic\n- lens.\n- ● When MOVIE SETTING > HDMI OUTPUT SETTING > HDMI\n- OUTPUT INFO DISPLAY is set to OFF, HDMI output does not use\n- the desqueeze display, even when desqueeze display is set to ON for\n- ANAMORPHIC(35mm).\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1292,
+                    "y": 0.7389
+                },
+                {
+                    "x": 0.9188,
+                    "y": 0.7389
+                },
+                {
+                    "x": 0.9188,
+                    "y": 0.925
+                },
+                {
+                    "x": 0.1292,
+                    "y": 0.925
+                }
+            ],
+            "id": 11,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<br><footer id='12' style='font-size:16px'>6</footer>",
+                "markdown": "6",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9581,
+                    "y": 0.5372
+                },
+                {
+                    "x": 0.9765,
+                    "y": 0.5372
+                },
+                {
+                    "x": 0.9765,
+                    "y": 0.5579
+                },
+                {
+                    "x": 0.9581,
+                    "y": 0.5579
+                }
+            ],
+            "id": 12,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<br><footer id='13' style='font-size:22px'>The<br>Shooting<br>Menus</footer>",
+                "markdown": "The\nShooting\nMenus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.956,
+                    "y": 0.5758
+                },
+                {
+                    "x": 0.9824,
+                    "y": 0.5758
+                },
+                {
+                    "x": 0.9824,
+                    "y": 0.7291
+                },
+                {
+                    "x": 0.956,
+                    "y": 0.7291
+                }
+            ],
+            "id": 13,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='14' style='font-size:20px'>177</footer>",
+                "markdown": "177",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.863,
+                    "y": 0.9573
+                },
+                {
+                    "x": 0.9164,
+                    "y": 0.9573
+                },
+                {
+                    "x": 0.9164,
+                    "y": 0.9783
+                },
+                {
+                    "x": 0.863,
+                    "y": 0.9783
+                }
+            ],
+            "id": 14,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "# Viewing Pictures\n\n## Playback Zoom\n\nRotate the rear command dial right to zoom in on the current picture, left to zoom out. To exit zoom, press **DISP/BACK**, **MENU/OK**, or the center of the rear command dial.\n\n> 💡 **Note:**  \n> The maximum zoom ratio varies with the option selected for **IMAGE QUALITY SETTING > IMAGE SIZE**.\n\n### Scroll\n\nWhen the picture is zoomed in, the selector can be used to view areas of the image not currently visible in the display.\n\n!Navigation window\n\n## Multi-Frame Playback\n\nTo change the number of images displayed, rotate the rear command dial left when a picture is displayed full frame.\n\n- Use the selector to highlight images and press **MENU/OK** to view the highlighted image full frame.\n- In the nine- and hundred-frame displays, press the selector up or down to view more pictures.",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "Viewing Pictures",
+                    "md": "# Viewing Pictures"
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "Playback Zoom",
+                    "md": "## Playback Zoom"
+                },
+                {
+                    "type": "text",
+                    "value": "Rotate the rear command dial right to zoom in on the current picture, left to zoom out. To exit zoom, press **DISP/BACK**, **MENU/OK**, or the center of the rear command dial.\n\n> 💡 **Note:**  \n> The maximum zoom ratio varies with the option selected for **IMAGE QUALITY SETTING > IMAGE SIZE**.",
+                    "md": "Rotate the rear command dial right to zoom in on the current picture, left to zoom out. To exit zoom, press **DISP/BACK**, **MENU/OK**, or the center of the rear command dial.\n\n> 💡 **Note:**  \n> The maximum zoom ratio varies with the option selected for **IMAGE QUALITY SETTING > IMAGE SIZE**."
+                },
+                {
+                    "type": "heading",
+                    "lvl": 3,
+                    "value": "Scroll",
+                    "md": "### Scroll"
+                },
+                {
+                    "type": "text",
+                    "value": "When the picture is zoomed in, the selector can be used to view areas of the image not currently visible in the display.\n\n!Navigation window",
+                    "md": "When the picture is zoomed in, the selector can be used to view areas of the image not currently visible in the display.\n\n!Navigation window"
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "Multi-Frame Playback",
+                    "md": "## Multi-Frame Playback"
+                },
+                {
+                    "type": "text",
+                    "value": "To change the number of images displayed, rotate the rear command dial left when a picture is displayed full frame.\n\n- Use the selector to highlight images and press **MENU/OK** to view the highlighted image full frame.\n- In the nine- and hundred-frame displays, press the selector up or down to view more pictures.",
+                    "md": "To change the number of images displayed, rotate the rear command dial left when a picture is displayed full frame.\n\n- Use the selector to highlight images and press **MENU/OK** to view the highlighted image full frame.\n- In the nine- and hundred-frame displays, press the selector up or down to view more pictures."
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "parsingMode": "multimodal-openai-gpt4o",
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 380.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "c16dee0e-8d20-49e4-a451-8ec0d5a840bc",
+    "file_path": "../data/raw_data/x-t5/x-t5_split/x-t5_page250.pdf"
+}

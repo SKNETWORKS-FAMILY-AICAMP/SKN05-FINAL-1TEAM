@@ -1,0 +1,117 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "# BUTTON/DIAL SETTING\n\n## FOCUS RING OPERATION\n\nChoose how the camera adjusts focus in response to the movement of the focus ring.\n\n| Option    | Description                                                                 |\n|-----------|-----------------------------------------------------------------------------|\n| NONLINEAR | Focus is adjusted at the same rate as the ring is rotated.                   |\n| LINEAR    | Focus is adjusted linearly according to the amount the ring is rotated, but the focusing speed is unaffected by the speed the ring is rotated. |\n\n## CONTROL RING SETTING\n\nSet functions assigned to the control ring.\n\n| Option            | Description                                                                 |\n|-------------------|-----------------------------------------------------------------------------|\n| STANDARD          | The function assigned to the control ring varies with the shooting mode.    |\n| WHITE BALANCE     | Assign white balance to the control ring.                                   |\n| FILM SIMULATION   | Assign film simulation to the control ring.                                 |\n| DIGITAL TELE-CONV.| Assign the digital teleconverter to the control ring.                       |\n| OFF               | No function assigned.                                                       |",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "BUTTON/DIAL SETTING",
+                    "md": "# BUTTON/DIAL SETTING"
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "FOCUS RING OPERATION",
+                    "md": "## FOCUS RING OPERATION"
+                },
+                {
+                    "type": "text",
+                    "value": "Choose how the camera adjusts focus in response to the movement of the focus ring.",
+                    "md": "Choose how the camera adjusts focus in response to the movement of the focus ring."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Option",
+                            "Description"
+                        ],
+                        [
+                            "NONLINEAR",
+                            "Focus is adjusted at the same rate as the ring is rotated."
+                        ],
+                        [
+                            "LINEAR",
+                            "Focus is adjusted linearly according to the amount the ring is rotated, but the focusing speed is unaffected by the speed the ring is rotated."
+                        ]
+                    ],
+                    "md": "| Option    | Description                                                                 |\n|-----------|-----------------------------------------------------------------------------|\n| NONLINEAR | Focus is adjusted at the same rate as the ring is rotated.                   |\n| LINEAR    | Focus is adjusted linearly according to the amount the ring is rotated, but the focusing speed is unaffected by the speed the ring is rotated. |",
+                    "isPerfectTable": true,
+                    "csv": "\"Option\",\"Description\"\n\"NONLINEAR\",\"Focus is adjusted at the same rate as the ring is rotated.\"\n\"LINEAR\",\"Focus is adjusted linearly according to the amount the ring is rotated, but the focusing speed is unaffected by the speed the ring is rotated.\""
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "CONTROL RING SETTING",
+                    "md": "## CONTROL RING SETTING"
+                },
+                {
+                    "type": "text",
+                    "value": "Set functions assigned to the control ring.",
+                    "md": "Set functions assigned to the control ring."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Option",
+                            "Description"
+                        ],
+                        [
+                            "STANDARD",
+                            "The function assigned to the control ring varies with the shooting mode."
+                        ],
+                        [
+                            "WHITE BALANCE",
+                            "Assign white balance to the control ring."
+                        ],
+                        [
+                            "FILM SIMULATION",
+                            "Assign film simulation to the control ring."
+                        ],
+                        [
+                            "DIGITAL TELE-CONV.",
+                            "Assign the digital teleconverter to the control ring."
+                        ],
+                        [
+                            "OFF",
+                            "No function assigned."
+                        ]
+                    ],
+                    "md": "| Option            | Description                                                                 |\n|-------------------|-----------------------------------------------------------------------------|\n| STANDARD          | The function assigned to the control ring varies with the shooting mode.    |\n| WHITE BALANCE     | Assign white balance to the control ring.                                   |\n| FILM SIMULATION   | Assign film simulation to the control ring.                                 |\n| DIGITAL TELE-CONV.| Assign the digital teleconverter to the control ring.                       |\n| OFF               | No function assigned.                                                       |",
+                    "isPerfectTable": true,
+                    "csv": "\"Option\",\"Description\"\n\"STANDARD\",\"The function assigned to the control ring varies with the shooting mode.\"\n\"WHITE BALANCE\",\"Assign white balance to the control ring.\"\n\"FILM SIMULATION\",\"Assign film simulation to the control ring.\"\n\"DIGITAL TELE-CONV.\",\"Assign the digital teleconverter to the control ring.\"\n\"OFF\",\"No function assigned.\""
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 632.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "78b2ab9e-49e4-4b50-a8a8-0bed4dcd8ede",
+    "file_path": "../data/raw_data/x100v/x100v_split/x100v_page247.pdf"
+}

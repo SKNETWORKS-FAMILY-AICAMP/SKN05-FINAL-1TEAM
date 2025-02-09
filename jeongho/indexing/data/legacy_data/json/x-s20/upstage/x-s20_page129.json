@@ -1,0 +1,70 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<p id='0' data-category='paragraph' style='font-size:18px'>The Shooting Menus</p>\n<footer id='1' style='font-size:14px'>127</footer>",
+        "markdown": "The Shooting Menus\n\n127",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='0' data-category='paragraph' style='font-size:18px'>The Shooting Menus</p>",
+                "markdown": "The Shooting Menus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.3049,
+                    "y": 0.3608
+                },
+                {
+                    "x": 0.7922,
+                    "y": 0.3608
+                },
+                {
+                    "x": 0.7922,
+                    "y": 0.4003
+                },
+                {
+                    "x": 0.3049,
+                    "y": 0.4003
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='1' style='font-size:14px'>127</footer>",
+                "markdown": "127",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.8619,
+                    "y": 0.9563
+                },
+                {
+                    "x": 0.9176,
+                    "y": 0.9563
+                },
+                {
+                    "x": 0.9176,
+                    "y": 0.9795
+                },
+                {
+                    "x": 0.8619,
+                    "y": 0.9795
+                }
+            ],
+            "id": 1,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

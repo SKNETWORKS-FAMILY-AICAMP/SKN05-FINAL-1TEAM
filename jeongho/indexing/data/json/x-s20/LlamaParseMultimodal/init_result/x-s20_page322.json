@@ -1,0 +1,99 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "# AE/AF-LOCK MODE\n\nThis option determines the behavior of the button to which exposure and/or focus lock is assigned.\n\n| Option                  | Description                                                                 |\n|-------------------------|-----------------------------------------------------------------------------|\n| AE&AF ON WHEN PRESSING  | Exposure and/or focus will lock while the button is pressed.                |\n| AE&AF ON/OFF SWITCH     | Exposure and/or focus will lock when the button is pressed and remain locked until it is pressed again. |\n\n# AWB-LOCK MODE\n\nChoose the behavior of function buttons assigned auto white balance (AWB) lock. Auto white balance lock is used to lock white balance at the value metered by the camera when !AUTO WHITE PRIORITY, AUTO, or !AUTO AMBIENCE PRIORITY is selected for white balance.\n\n| Option                  | Description                                                                 |\n|-------------------------|-----------------------------------------------------------------------------|\n| AWB ON WHEN PRESSING    | Auto white balance locks while the button is pressed.                       |\n| AWB ON/OFF SWITCH       | Press the button once to lock auto white balance and again to end the lock. |",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "AE/AF-LOCK MODE",
+                    "md": "# AE/AF-LOCK MODE"
+                },
+                {
+                    "type": "text",
+                    "value": "This option determines the behavior of the button to which exposure and/or focus lock is assigned.",
+                    "md": "This option determines the behavior of the button to which exposure and/or focus lock is assigned."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Option",
+                            "Description"
+                        ],
+                        [
+                            "AE&AF ON WHEN PRESSING",
+                            "Exposure and/or focus will lock while the button is pressed."
+                        ],
+                        [
+                            "AE&AF ON/OFF SWITCH",
+                            "Exposure and/or focus will lock when the button is pressed and remain locked until it is pressed again."
+                        ]
+                    ],
+                    "md": "| Option                  | Description                                                                 |\n|-------------------------|-----------------------------------------------------------------------------|\n| AE&AF ON WHEN PRESSING  | Exposure and/or focus will lock while the button is pressed.                |\n| AE&AF ON/OFF SWITCH     | Exposure and/or focus will lock when the button is pressed and remain locked until it is pressed again. |",
+                    "isPerfectTable": true,
+                    "csv": "\"Option\",\"Description\"\n\"AE&AF ON WHEN PRESSING\",\"Exposure and/or focus will lock while the button is pressed.\"\n\"AE&AF ON/OFF SWITCH\",\"Exposure and/or focus will lock when the button is pressed and remain locked until it is pressed again.\""
+                },
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "AWB-LOCK MODE",
+                    "md": "# AWB-LOCK MODE"
+                },
+                {
+                    "type": "text",
+                    "value": "Choose the behavior of function buttons assigned auto white balance (AWB) lock. Auto white balance lock is used to lock white balance at the value metered by the camera when !AUTO WHITE PRIORITY, AUTO, or !AUTO AMBIENCE PRIORITY is selected for white balance.",
+                    "md": "Choose the behavior of function buttons assigned auto white balance (AWB) lock. Auto white balance lock is used to lock white balance at the value metered by the camera when !AUTO WHITE PRIORITY, AUTO, or !AUTO AMBIENCE PRIORITY is selected for white balance."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Option",
+                            "Description"
+                        ],
+                        [
+                            "AWB ON WHEN PRESSING",
+                            "Auto white balance locks while the button is pressed."
+                        ],
+                        [
+                            "AWB ON/OFF SWITCH",
+                            "Press the button once to lock auto white balance and again to end the lock."
+                        ]
+                    ],
+                    "md": "| Option                  | Description                                                                 |\n|-------------------------|-----------------------------------------------------------------------------|\n| AWB ON WHEN PRESSING    | Auto white balance locks while the button is pressed.                       |\n| AWB ON/OFF SWITCH       | Press the button once to lock auto white balance and again to end the lock. |",
+                    "isPerfectTable": true,
+                    "csv": "\"Option\",\"Description\"\n\"AWB ON WHEN PRESSING\",\"Auto white balance locks while the button is pressed.\"\n\"AWB ON/OFF SWITCH\",\"Press the button once to lock auto white balance and again to end the lock.\""
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 109.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "817feedd-42b7-470d-aee3-d878807b9c2a",
+    "file_path": "../data/raw_data/x-s20/x-s20_split/x-s20_page322.pdf"
+}

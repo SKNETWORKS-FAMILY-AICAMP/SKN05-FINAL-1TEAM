@@ -1,0 +1,266 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<h1 id='0' style='font-size:16px'>SHOOT WITHOUT CARD</h1>\n\n<table id='2' style='font-size:14px'><tr><td>Option</td><td>Description</td></tr><tr><td>ON</td><td>When no memory card is inserted, the shutter can be released to test camera function and the shooting and setup menus can be displayed.</td></tr><tr><td>OFF</td><td>The shutter is disabled if no memory card is inserted, preventing accidental loss of pictures taken without a memory card.</td></tr><br><caption id='1' style='font-size:18px'>Choose whether the shutter can be released without a memory<br>card inserted in the camera.</caption></table>\n<p id='3' data-category='paragraph' style='font-size:16px'>FOCUS RING</p>\n\n<br><table id='5' style='font-size:18px'><tr><td colspan=\"2\">Options</td></tr><tr><td>C CW (clockwise)</td><td>CCW (counterclockwise)</td></tr><br><caption id='4' style='font-size:18px'>Choose the direction in which the focus ring is rotated to in-<br>crease the focus distance.</caption></table>\n<header id='6' style='font-size:22px'>The<br>Setup<br>Menus</header>\n<p id='7' data-category='paragraph' style='font-size:14px'>8</p>\n<footer id='8' style='font-size:20px'>226</footer>",
+        "markdown": "# SHOOT WITHOUT CARD\n\nChoose whether the shutter can be released without a memory\ncard inserted in the camera.\n\n| Option | Description |\n| --- | --- |\n| ON | When no memory card is inserted, the shutter can be released to test camera function and the shooting and setup menus can be displayed. |\n| OFF | The shutter is disabled if no memory card is inserted, preventing accidental loss of pictures taken without a memory card. |\n\n\nFOCUS RING\n\nChoose the direction in which the focus ring is rotated to in-\ncrease the focus distance.\n\n| Options | Options |\n| --- | --- |\n| C CW (clockwise) | CCW (counterclockwise) |\n\n\nThe\nSetup\nMenus\n\n8\n\n226",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='0' style='font-size:16px'>SHOOT WITHOUT CARD</h1>",
+                "markdown": "# SHOOT WITHOUT CARD",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0814,
+                    "y": 0.0723
+                },
+                {
+                    "x": 0.406,
+                    "y": 0.0723
+                },
+                {
+                    "x": 0.406,
+                    "y": 0.0952
+                },
+                {
+                    "x": 0.0814,
+                    "y": 0.0952
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='1' data-category='paragraph' style='font-size:18px'>Choose whether the shutter can be released without a memory<br>card inserted in the camera.</p>",
+                "markdown": "Choose whether the shutter can be released without a memory\ncard inserted in the camera.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.081,
+                    "y": 0.1044
+                },
+                {
+                    "x": 0.8932,
+                    "y": 0.1044
+                },
+                {
+                    "x": 0.8932,
+                    "y": 0.1534
+                },
+                {
+                    "x": 0.081,
+                    "y": 0.1534
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='2' style='font-size:14px'><tr><td>Option</td><td>Description</td></tr><tr><td>ON</td><td>When no memory card is inserted, the shutter can be released to test camera function and the shooting and setup menus can be displayed.</td></tr><tr><td>OFF</td><td>The shutter is disabled if no memory card is inserted, preventing accidental loss of pictures taken without a memory card.</td></tr></table>",
+                "markdown": "| Option | Description |\n| --- | --- |\n| ON | When no memory card is inserted, the shutter can be released to test camera function and the shooting and setup menus can be displayed. |\n| OFF | The shutter is disabled if no memory card is inserted, preventing accidental loss of pictures taken without a memory card. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0878,
+                    "y": 0.1671
+                },
+                {
+                    "x": 0.893,
+                    "y": 0.1671
+                },
+                {
+                    "x": 0.893,
+                    "y": 0.3093
+                },
+                {
+                    "x": 0.0878,
+                    "y": 0.3093
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='3' data-category='paragraph' style='font-size:16px'>FOCUS RING</p>",
+                "markdown": "FOCUS RING",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0826,
+                    "y": 0.3269
+                },
+                {
+                    "x": 0.2579,
+                    "y": 0.3269
+                },
+                {
+                    "x": 0.2579,
+                    "y": 0.35
+                },
+                {
+                    "x": 0.0826,
+                    "y": 0.35
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='4' data-category='paragraph' style='font-size:18px'>Choose the direction in which the focus ring is rotated to in-<br>crease the focus distance.</p>",
+                "markdown": "Choose the direction in which the focus ring is rotated to in-\ncrease the focus distance.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0815,
+                    "y": 0.3586
+                },
+                {
+                    "x": 0.8919,
+                    "y": 0.3586
+                },
+                {
+                    "x": 0.8919,
+                    "y": 0.4084
+                },
+                {
+                    "x": 0.0815,
+                    "y": 0.4084
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='5' style='font-size:18px'><tr><td colspan=\"2\">Options</td></tr><tr><td>C CW (clockwise)</td><td>CCW (counterclockwise)</td></tr></table>",
+                "markdown": "| Options | Options |\n| --- | --- |\n| C CW (clockwise) | CCW (counterclockwise) |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1743,
+                    "y": 0.422
+                },
+                {
+                    "x": 0.8666,
+                    "y": 0.422
+                },
+                {
+                    "x": 0.8666,
+                    "y": 0.4749
+                },
+                {
+                    "x": 0.1743,
+                    "y": 0.4749
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='6' style='font-size:22px'>The<br>Setup<br>Menus</header>",
+                "markdown": "The\nSetup\nMenus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0186,
+                    "y": 0.5094
+                },
+                {
+                    "x": 0.0406,
+                    "y": 0.5094
+                },
+                {
+                    "x": 0.0406,
+                    "y": 0.6379
+                },
+                {
+                    "x": 0.0186,
+                    "y": 0.6379
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='7' data-category='paragraph' style='font-size:14px'>8</p>",
+                "markdown": "8",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0284,
+                    "y": 0.6598
+                },
+                {
+                    "x": 0.0417,
+                    "y": 0.6598
+                },
+                {
+                    "x": 0.0417,
+                    "y": 0.6742
+                },
+                {
+                    "x": 0.0284,
+                    "y": 0.6742
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='8' style='font-size:20px'>226</footer>",
+                "markdown": "226",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0825,
+                    "y": 0.956
+                },
+                {
+                    "x": 0.1408,
+                    "y": 0.956
+                },
+                {
+                    "x": 0.1408,
+                    "y": 0.9798
+                },
+                {
+                    "x": 0.0825,
+                    "y": 0.9798
+                }
+            ],
+            "id": 8,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

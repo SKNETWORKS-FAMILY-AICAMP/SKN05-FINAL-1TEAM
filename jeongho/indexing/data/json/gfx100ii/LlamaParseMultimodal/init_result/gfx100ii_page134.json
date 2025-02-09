@@ -1,0 +1,88 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "# Sensitivity\n\nAdjust the camera’s sensitivity to light.\n\nSensitivity settings can be displayed by pressing the Fn button to which sensitivity is assigned.\n\n| Option  | Description |\n|---------|-------------|\n| **AUTO1 AUTO2 AUTO3** | Sensitivity is automatically adjusted in response to shooting conditions according to a combination of standard and maximum sensitivity and minimum shutter speed chosen for **SHOOTING SETTING > ISO**. Choose from AUTO1, AUTO2, and AUTO3. |\n| **80–12800** | Adjust sensitivity manually. Selected value is shown in display. |\n| **L (40) H (25600/51200/102400)** | Choose for special situations. Note that mottling may appear in pictures taken at H, while L reduces dynamic range. |\n\n- Sensitivity is not reset when the camera is turned off.\n- If desired, you can use **BUTTON/DIAL SETTING > COMMAND DIAL SETTING** to configure the camera so that ISO sensitivity can be adjusted using the front or rear command dial.\n\n## Adjusting Sensitivity\n\nHigh values can be used to reduce blur when lighting is poor, while lower values allow slower shutter speeds or wider apertures in bright light; note, however, that mottling may appear in pictures taken at high sensitivities.",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "Sensitivity",
+                    "md": "# Sensitivity"
+                },
+                {
+                    "type": "text",
+                    "value": "Adjust the camera’s sensitivity to light.\n\nSensitivity settings can be displayed by pressing the Fn button to which sensitivity is assigned.",
+                    "md": "Adjust the camera’s sensitivity to light.\n\nSensitivity settings can be displayed by pressing the Fn button to which sensitivity is assigned."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Option",
+                            "Description"
+                        ],
+                        [
+                            "**AUTO1 AUTO2 AUTO3**",
+                            "Sensitivity is automatically adjusted in response to shooting conditions according to a combination of standard and maximum sensitivity and minimum shutter speed chosen for **SHOOTING SETTING > ISO**. Choose from AUTO1, AUTO2, and AUTO3."
+                        ],
+                        [
+                            "**80–12800**",
+                            "Adjust sensitivity manually. Selected value is shown in display."
+                        ],
+                        [
+                            "**L (40) H (25600/51200/102400)**",
+                            "Choose for special situations. Note that mottling may appear in pictures taken at H, while L reduces dynamic range."
+                        ]
+                    ],
+                    "md": "| Option  | Description |\n|---------|-------------|\n| **AUTO1 AUTO2 AUTO3** | Sensitivity is automatically adjusted in response to shooting conditions according to a combination of standard and maximum sensitivity and minimum shutter speed chosen for **SHOOTING SETTING > ISO**. Choose from AUTO1, AUTO2, and AUTO3. |\n| **80–12800** | Adjust sensitivity manually. Selected value is shown in display. |\n| **L (40) H (25600/51200/102400)** | Choose for special situations. Note that mottling may appear in pictures taken at H, while L reduces dynamic range. |",
+                    "isPerfectTable": true,
+                    "csv": "\"Option\",\"Description\"\n\"**AUTO1 AUTO2 AUTO3**\",\"Sensitivity is automatically adjusted in response to shooting conditions according to a combination of standard and maximum sensitivity and minimum shutter speed chosen for **SHOOTING SETTING > ISO**. Choose from AUTO1, AUTO2, and AUTO3.\"\n\"**80–12800**\",\"Adjust sensitivity manually. Selected value is shown in display.\"\n\"**L (40) H (25600/51200/102400)**\",\"Choose for special situations. Note that mottling may appear in pictures taken at H, while L reduces dynamic range.\""
+                },
+                {
+                    "type": "text",
+                    "value": "- Sensitivity is not reset when the camera is turned off.\n- If desired, you can use **BUTTON/DIAL SETTING > COMMAND DIAL SETTING** to configure the camera so that ISO sensitivity can be adjusted using the front or rear command dial.",
+                    "md": "- Sensitivity is not reset when the camera is turned off.\n- If desired, you can use **BUTTON/DIAL SETTING > COMMAND DIAL SETTING** to configure the camera so that ISO sensitivity can be adjusted using the front or rear command dial."
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "Adjusting Sensitivity",
+                    "md": "## Adjusting Sensitivity"
+                },
+                {
+                    "type": "text",
+                    "value": "High values can be used to reduce blur when lighting is poor, while lower values allow slower shutter speeds or wider apertures in bright light; note, however, that mottling may appear in pictures taken at high sensitivities.",
+                    "md": "High values can be used to reduce blur when lighting is poor, while lower values allow slower shutter speeds or wider apertures in bright light; note, however, that mottling may appear in pictures taken at high sensitivities."
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 45.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "e9eb6baf-aa33-4856-b466-b00dc6969804",
+    "file_path": "../data/raw_data/gfx100ii/gfx100ii_split/gfx100ii_page134.pdf"
+}

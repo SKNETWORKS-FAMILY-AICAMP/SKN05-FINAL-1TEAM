@@ -1,0 +1,119 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "# TIME CODE SETTING (Movie Recording)\n\n## HDMI TIME CODE OUTPUT\nChoose whether time codes are output to HDMI devices.\n\n| Options |        |\n|---------|--------|\n| ON      | OFF    |\n\n## TIME CODE SYNC. SETTING\nChoose whether to synchronize time codes with an external device.\n\n## CONNECT TO ATOMOS AirGlu BT\nIf ON is selected, the camera connects with paired external devices and synchronizes time codes. Because simultaneous connection with a smartphone is not possible, the smartphone icon is displayed in yellow on the screen.\n\n| Options |        |\n|---------|--------|\n| ON      | OFF    |\n\n## PAIRING REGISTRATION\nPair the ATOMOS AirGlu BT and camera.\n\n- If the camera connects with the ATOMOS AirGlu BT, an icon appears on the screen.\n\n!Connection Icon\n\n- The pairing with the ATOMOS AirGlu BT can be ended using **Bluetooth/SMARTPHONE SETTING > Bluetooth DEVICE LIST** in the network/USB setting menu.",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "TIME CODE SETTING (Movie Recording)",
+                    "md": "# TIME CODE SETTING (Movie Recording)"
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "HDMI TIME CODE OUTPUT",
+                    "md": "## HDMI TIME CODE OUTPUT"
+                },
+                {
+                    "type": "text",
+                    "value": "Choose whether time codes are output to HDMI devices.",
+                    "md": "Choose whether time codes are output to HDMI devices."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Options",
+                            ""
+                        ],
+                        [
+                            "ON",
+                            "OFF"
+                        ]
+                    ],
+                    "md": "| Options |        |\n|---------|--------|\n| ON      | OFF    |",
+                    "isPerfectTable": true,
+                    "csv": "\"Options\",\"\"\n\"ON\",\"OFF\""
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "TIME CODE SYNC. SETTING",
+                    "md": "## TIME CODE SYNC. SETTING"
+                },
+                {
+                    "type": "text",
+                    "value": "Choose whether to synchronize time codes with an external device.",
+                    "md": "Choose whether to synchronize time codes with an external device."
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "CONNECT TO ATOMOS AirGlu BT",
+                    "md": "## CONNECT TO ATOMOS AirGlu BT"
+                },
+                {
+                    "type": "text",
+                    "value": "If ON is selected, the camera connects with paired external devices and synchronizes time codes. Because simultaneous connection with a smartphone is not possible, the smartphone icon is displayed in yellow on the screen.",
+                    "md": "If ON is selected, the camera connects with paired external devices and synchronizes time codes. Because simultaneous connection with a smartphone is not possible, the smartphone icon is displayed in yellow on the screen."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Options",
+                            ""
+                        ],
+                        [
+                            "ON",
+                            "OFF"
+                        ]
+                    ],
+                    "md": "| Options |        |\n|---------|--------|\n| ON      | OFF    |",
+                    "isPerfectTable": true,
+                    "csv": "\"Options\",\"\"\n\"ON\",\"OFF\""
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "PAIRING REGISTRATION",
+                    "md": "## PAIRING REGISTRATION"
+                },
+                {
+                    "type": "text",
+                    "value": "Pair the ATOMOS AirGlu BT and camera.\n\n- If the camera connects with the ATOMOS AirGlu BT, an icon appears on the screen.\n\n!Connection Icon\n\n- The pairing with the ATOMOS AirGlu BT can be ended using **Bluetooth/SMARTPHONE SETTING > Bluetooth DEVICE LIST** in the network/USB setting menu.",
+                    "md": "Pair the ATOMOS AirGlu BT and camera.\n\n- If the camera connects with the ATOMOS AirGlu BT, an icon appears on the screen.\n\n!Connection Icon\n\n- The pairing with the ATOMOS AirGlu BT can be ended using **Bluetooth/SMARTPHONE SETTING > Bluetooth DEVICE LIST** in the network/USB setting menu."
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 137.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "ce33f0a5-102e-47db-8a42-130010b1858b",
+    "file_path": "../data/raw_data/gfx100ii/gfx100ii_split/gfx100ii_page239.pdf"
+}

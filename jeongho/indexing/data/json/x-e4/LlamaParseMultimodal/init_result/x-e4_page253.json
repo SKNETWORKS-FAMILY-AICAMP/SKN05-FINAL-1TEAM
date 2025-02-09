@@ -1,0 +1,137 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "\n# BUTTON/DIAL SETTING\n\n## AE/AF-LOCK MODE\nThis option determines the behavior of the button to which exposure and/or focus lock is assigned.\n\n| Option                  | Description                                                                 |\n|-------------------------|-----------------------------------------------------------------------------|\n| AE&AF ON WHEN PRESSING  | Exposure and/or focus will lock while the button is pressed.                |\n| AE&AF ON/OFF SWITCH     | Exposure and/or focus will lock when the button is pressed and remain locked until it is pressed again. |\n\n## AWB-LOCK MODE\nChoose the behavior of function buttons assigned auto white balance (AWB) lock. Auto white balance lock is used to lock white balance at the value metered by the camera when **AUTO WHITE PRIORITY**, **AUTO**, or **AUTO AMBIENCE PRIORITY** is selected for white balance.\n\n| Option                  | Description                                                                 |\n|-------------------------|-----------------------------------------------------------------------------|\n| AWB ON WHEN PRESSING    | Auto white balance locks while the button is pressed.                       |\n| AWB ON/OFF SWITCH       | Press the button once to lock auto white balance and again to end the lock. |\n\n## APERTURE RING SETTING (A)\nChoose whether the front command dial can be used to adjust aperture when the lens aperture ring is set to **A** (auto); when aperture adjustment via the front command dial is enabled, aperture can be adjusted by setting the shutter speed dial to **A**, pressing the center of the front command dial to cycle to **APERTURE**, and then rotating the dial.\n\n| Option   | Description                                                                 |\n|----------|-----------------------------------------------------------------------------|\n| AUTO     | The camera adjusts aperture automatically.                                  |\n| COMMAND  | Aperture can be adjusted using the front command dial.                      |\n",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "BUTTON/DIAL SETTING",
+                    "md": "# BUTTON/DIAL SETTING"
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "AE/AF-LOCK MODE",
+                    "md": "## AE/AF-LOCK MODE"
+                },
+                {
+                    "type": "text",
+                    "value": "This option determines the behavior of the button to which exposure and/or focus lock is assigned.",
+                    "md": "This option determines the behavior of the button to which exposure and/or focus lock is assigned."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Option",
+                            "Description"
+                        ],
+                        [
+                            "AE&AF ON WHEN PRESSING",
+                            "Exposure and/or focus will lock while the button is pressed."
+                        ],
+                        [
+                            "AE&AF ON/OFF SWITCH",
+                            "Exposure and/or focus will lock when the button is pressed and remain locked until it is pressed again."
+                        ]
+                    ],
+                    "md": "| Option                  | Description                                                                 |\n|-------------------------|-----------------------------------------------------------------------------|\n| AE&AF ON WHEN PRESSING  | Exposure and/or focus will lock while the button is pressed.                |\n| AE&AF ON/OFF SWITCH     | Exposure and/or focus will lock when the button is pressed and remain locked until it is pressed again. |",
+                    "isPerfectTable": true,
+                    "csv": "\"Option\",\"Description\"\n\"AE&AF ON WHEN PRESSING\",\"Exposure and/or focus will lock while the button is pressed.\"\n\"AE&AF ON/OFF SWITCH\",\"Exposure and/or focus will lock when the button is pressed and remain locked until it is pressed again.\""
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "AWB-LOCK MODE",
+                    "md": "## AWB-LOCK MODE"
+                },
+                {
+                    "type": "text",
+                    "value": "Choose the behavior of function buttons assigned auto white balance (AWB) lock. Auto white balance lock is used to lock white balance at the value metered by the camera when **AUTO WHITE PRIORITY**, **AUTO**, or **AUTO AMBIENCE PRIORITY** is selected for white balance.",
+                    "md": "Choose the behavior of function buttons assigned auto white balance (AWB) lock. Auto white balance lock is used to lock white balance at the value metered by the camera when **AUTO WHITE PRIORITY**, **AUTO**, or **AUTO AMBIENCE PRIORITY** is selected for white balance."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Option",
+                            "Description"
+                        ],
+                        [
+                            "AWB ON WHEN PRESSING",
+                            "Auto white balance locks while the button is pressed."
+                        ],
+                        [
+                            "AWB ON/OFF SWITCH",
+                            "Press the button once to lock auto white balance and again to end the lock."
+                        ]
+                    ],
+                    "md": "| Option                  | Description                                                                 |\n|-------------------------|-----------------------------------------------------------------------------|\n| AWB ON WHEN PRESSING    | Auto white balance locks while the button is pressed.                       |\n| AWB ON/OFF SWITCH       | Press the button once to lock auto white balance and again to end the lock. |",
+                    "isPerfectTable": true,
+                    "csv": "\"Option\",\"Description\"\n\"AWB ON WHEN PRESSING\",\"Auto white balance locks while the button is pressed.\"\n\"AWB ON/OFF SWITCH\",\"Press the button once to lock auto white balance and again to end the lock.\""
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "APERTURE RING SETTING (A)",
+                    "md": "## APERTURE RING SETTING (A)"
+                },
+                {
+                    "type": "text",
+                    "value": "Choose whether the front command dial can be used to adjust aperture when the lens aperture ring is set to **A** (auto); when aperture adjustment via the front command dial is enabled, aperture can be adjusted by setting the shutter speed dial to **A**, pressing the center of the front command dial to cycle to **APERTURE**, and then rotating the dial.",
+                    "md": "Choose whether the front command dial can be used to adjust aperture when the lens aperture ring is set to **A** (auto); when aperture adjustment via the front command dial is enabled, aperture can be adjusted by setting the shutter speed dial to **A**, pressing the center of the front command dial to cycle to **APERTURE**, and then rotating the dial."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Option",
+                            "Description"
+                        ],
+                        [
+                            "AUTO",
+                            "The camera adjusts aperture automatically."
+                        ],
+                        [
+                            "COMMAND",
+                            "Aperture can be adjusted using the front command dial."
+                        ]
+                    ],
+                    "md": "| Option   | Description                                                                 |\n|----------|-----------------------------------------------------------------------------|\n| AUTO     | The camera adjusts aperture automatically.                                  |\n| COMMAND  | Aperture can be adjusted using the front command dial.                      |",
+                    "isPerfectTable": true,
+                    "csv": "\"Option\",\"Description\"\n\"AUTO\",\"The camera adjusts aperture automatically.\"\n\"COMMAND\",\"Aperture can be adjusted using the front command dial.\""
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "parsingMode": "multimodal-openai-gpt4o",
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 97.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "860b0576-7e23-4208-9392-b6e72732935f",
+    "file_path": "../data/raw_data/x-e4/x-e4_split/x-e4_page253.pdf"
+}

@@ -1,0 +1,15 @@
+{
+    "parsing_result": "# Sensor Cleaning\n\nRemove dust from the camera image sensor.\n\n| Option            | Description                                                                 |\n|-------------------|-----------------------------------------------------------------------------|\n| OK                | Clean the sensor immediately.                                               |\n| WHEN SWITCHED ON  | Sensor cleaning will be performed when the camera is turned on.             |\n| WHEN SWITCHED OFF | Sensor cleaning will be performed when the camera turns off (sensor cleaning is not however performed if the camera turns off in playback mode). |\n\n> Dust that cannot be removed using sensor cleaning can be removed using a blower (📖 374).\n\n# Battery Age\n\nCheck battery age. Age is expressed as a number between 0 and 4. The higher the number, the older the battery.\n\n!Battery Age Display\n\n> The older the battery, the faster it loses its charge. We recommend that batteries be replaced as they wear out.",
+    "metadata": {
+        "page": 276,
+        "model": "x-t5",
+        "chapter": "The Setup Menus",
+        "section": "USER SETTING",
+        "subsection": [
+            "SENSOR CLEANING",
+            "BATTERY AGE"
+        ],
+        "embedding_model": "text-embedding-3-small",
+        "token": 174
+    }
+}

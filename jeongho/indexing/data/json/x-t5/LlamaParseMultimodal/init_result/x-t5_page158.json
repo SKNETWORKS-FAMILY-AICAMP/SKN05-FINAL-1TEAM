@@ -1,0 +1,77 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "# Shooting Menus\n\n## HIGH ISO NR\nReduce noise in pictures taken at high sensitivities. Choose higher values to reduce noise and smooth outlines, lower values to leave outlines visible.\n\n**Options:**\n- -4\n- -3\n- -2\n- -1\n- 0\n- +1\n- +2\n- +3\n- +4\n\n## CLARITY\nIncrease definition while altering tones in highlights and shadows as little as possible. Choose higher values for increased definition, lower values for a softer effect.\n\n**Options:**\n- -5\n- -4\n- -3\n- -2\n- -1\n- 0\n- +1\n- +2\n- +3\n- +4\n- +5\n\n> ⚠️ The additional processing required at settings other than 0 increases the time needed to save each shot.\n\n## LONG EXPOSURE NR\nSelect **ON** to reduce mottling in long time-exposures.\n\n**Options:**\n- ON\n- OFF\n\n> ⚠️ The additional processing required when **ON** is selected increases save times.",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "Shooting Menus",
+                    "md": "# Shooting Menus"
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "HIGH ISO NR",
+                    "md": "## HIGH ISO NR"
+                },
+                {
+                    "type": "text",
+                    "value": "Reduce noise in pictures taken at high sensitivities. Choose higher values to reduce noise and smooth outlines, lower values to leave outlines visible.\n\n**Options:**\n- -4\n- -3\n- -2\n- -1\n- 0\n- +1\n- +2\n- +3\n- +4",
+                    "md": "Reduce noise in pictures taken at high sensitivities. Choose higher values to reduce noise and smooth outlines, lower values to leave outlines visible.\n\n**Options:**\n- -4\n- -3\n- -2\n- -1\n- 0\n- +1\n- +2\n- +3\n- +4"
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "CLARITY",
+                    "md": "## CLARITY"
+                },
+                {
+                    "type": "text",
+                    "value": "Increase definition while altering tones in highlights and shadows as little as possible. Choose higher values for increased definition, lower values for a softer effect.\n\n**Options:**\n- -5\n- -4\n- -3\n- -2\n- -1\n- 0\n- +1\n- +2\n- +3\n- +4\n- +5\n\n> ⚠️ The additional processing required at settings other than 0 increases the time needed to save each shot.",
+                    "md": "Increase definition while altering tones in highlights and shadows as little as possible. Choose higher values for increased definition, lower values for a softer effect.\n\n**Options:**\n- -5\n- -4\n- -3\n- -2\n- -1\n- 0\n- +1\n- +2\n- +3\n- +4\n- +5\n\n> ⚠️ The additional processing required at settings other than 0 increases the time needed to save each shot."
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "LONG EXPOSURE NR",
+                    "md": "## LONG EXPOSURE NR"
+                },
+                {
+                    "type": "text",
+                    "value": "Select **ON** to reduce mottling in long time-exposures.\n\n**Options:**\n- ON\n- OFF\n\n> ⚠️ The additional processing required when **ON** is selected increases save times.",
+                    "md": "Select **ON** to reduce mottling in long time-exposures.\n\n**Options:**\n- ON\n- OFF\n\n> ⚠️ The additional processing required when **ON** is selected increases save times."
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "parsingMode": "multimodal-openai-gpt4o",
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 537.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "049836a5-a32e-4e03-9b33-48aef029f9bc",
+    "file_path": "../data/raw_data/x-t5/x-t5_split/x-t5_page158.pdf"
+}

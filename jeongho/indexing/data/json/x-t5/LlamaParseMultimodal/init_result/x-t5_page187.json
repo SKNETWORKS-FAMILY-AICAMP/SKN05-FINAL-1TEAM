@@ -1,0 +1,113 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "# AF/MF SETTING (Still Photography)\n\n## Touch Controls for Focus Zoom\n\nDifferent touch controls are used during focus zoom (focus check enabled).\n\n### Central Area\n\nTapping the center of the display performs the operations below.\n\n!Touch Controls Central Area\n\n| Mode            | Still Photography          |\n|-----------------|----------------------------|\n| TOUCH SHOOTING  | AF-S/MF: Take a picture    |\n| AF              | AF-S: AF                   |\n|                 | MF: Instant AF             |\n| AREA            | AF-S: AF                   |\n|                 | MF: Instant AF             |\n| OFF             | AF-S/MF: OFF               |\n\n### Other Areas\n\nTapping other areas simply scrolls the display, whether during still photography or movie recording and regardless of the option selected for touch screen mode.\n\n!Touch Controls Other Areas",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "AF/MF SETTING (Still Photography)",
+                    "md": "# AF/MF SETTING (Still Photography)"
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "Touch Controls for Focus Zoom",
+                    "md": "## Touch Controls for Focus Zoom"
+                },
+                {
+                    "type": "text",
+                    "value": "Different touch controls are used during focus zoom (focus check enabled).",
+                    "md": "Different touch controls are used during focus zoom (focus check enabled)."
+                },
+                {
+                    "type": "heading",
+                    "lvl": 3,
+                    "value": "Central Area",
+                    "md": "### Central Area"
+                },
+                {
+                    "type": "text",
+                    "value": "Tapping the center of the display performs the operations below.\n\n!Touch Controls Central Area",
+                    "md": "Tapping the center of the display performs the operations below.\n\n!Touch Controls Central Area"
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Mode",
+                            "Still Photography"
+                        ],
+                        [
+                            "TOUCH SHOOTING",
+                            "AF-S/MF: Take a picture"
+                        ],
+                        [
+                            "AF",
+                            "AF-S: AF"
+                        ],
+                        [
+                            "",
+                            "MF: Instant AF"
+                        ],
+                        [
+                            "AREA",
+                            "AF-S: AF"
+                        ],
+                        [
+                            "",
+                            "MF: Instant AF"
+                        ],
+                        [
+                            "OFF",
+                            "AF-S/MF: OFF"
+                        ]
+                    ],
+                    "md": "| Mode            | Still Photography          |\n|-----------------|----------------------------|\n| TOUCH SHOOTING  | AF-S/MF: Take a picture    |\n| AF              | AF-S: AF                   |\n|                 | MF: Instant AF             |\n| AREA            | AF-S: AF                   |\n|                 | MF: Instant AF             |\n| OFF             | AF-S/MF: OFF               |",
+                    "isPerfectTable": true,
+                    "csv": "\"Mode\",\"Still Photography\"\n\"TOUCH SHOOTING\",\"AF-S/MF: Take a picture\"\n\"AF\",\"AF-S: AF\"\n\"\",\"MF: Instant AF\"\n\"AREA\",\"AF-S: AF\"\n\"\",\"MF: Instant AF\"\n\"OFF\",\"AF-S/MF: OFF\""
+                },
+                {
+                    "type": "heading",
+                    "lvl": 3,
+                    "value": "Other Areas",
+                    "md": "### Other Areas"
+                },
+                {
+                    "type": "text",
+                    "value": "Tapping other areas simply scrolls the display, whether during still photography or movie recording and regardless of the option selected for touch screen mode.\n\n!Touch Controls Other Areas",
+                    "md": "Tapping other areas simply scrolls the display, whether during still photography or movie recording and regardless of the option selected for touch screen mode.\n\n!Touch Controls Other Areas"
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "parsingMode": "multimodal-openai-gpt4o",
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 628.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "76d2c4e6-77ff-4e69-b47f-4e5fb01ef719",
+    "file_path": "../data/raw_data/x-t5/x-t5_split/x-t5_page187.pdf"
+}

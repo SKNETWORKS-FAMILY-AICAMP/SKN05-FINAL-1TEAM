@@ -1,0 +1,29 @@
+python3 -m venv --upgrade-deps RAGproject_env
+source RAGproject_env/bin/activate
+
+pip install sqlalchemy
+pip install alembic
+pip install fastapi uvicorn
+pip install "pydantic[email]"
+pip install "passlib[bcrypt]"
+pip install "bcrypt<4"    
+pip install python-multipart
+pip install "python-jose[cryptography]"
+pip install jupyter
+
+pip install langgraph openai python-dotenv
+
+curl -fsSL https://deb.nodesource.com/setup_lts.x | sudo -E bash -
+sudo apt install -y nodejs npm
+
+uvicorn main:app --reload --host=0.0.0.0 --port=8000
+npm run dev
+
+snap install dbeaver-ce
+
+pip install pymupdf
+
+pip install "pinecone"
+pip install "pinecone[grpc]"
+
+pip install Autorag

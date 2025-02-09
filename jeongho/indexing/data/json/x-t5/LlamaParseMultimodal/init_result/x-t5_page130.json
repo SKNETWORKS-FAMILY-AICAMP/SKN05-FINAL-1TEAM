@@ -1,0 +1,99 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "# Bracketing\n\n## FILM SIMULATION BKT\nEach time the shutter is released, the camera takes one shot and processes it to create copies with different film simulation settings.\n\n## WHITE BALANCE BKT\nSelect a bracketing amount (±1, ±2, or ±3). Each time the shutter is released, the camera takes one shot and processes it to create three copies: one at the current white balance setting, one with fine-tuning increased by the selected amount, and another with fine-tuning decreased by the selected amount.\n\n## DYNAMIC RANGE BKT\nEach time the shutter button is pressed, the camera takes three shots with different dynamic ranges: 100% for the first, 200% for the second, and 400% for the third.\n\n> 💡 **Note:**  \n> While dynamic range bracketing is in effect, sensitivity will be restricted to a minimum of ISO 500; the sensitivity previously in effect is restored when bracketing ends.\n\n## FOCUS BKT\nEach time the shutter button is pressed, the camera takes a series of photos, varying focus with each shot. The number of shots, the amount focus changes with each shot, and the interval between shots can be selected using **SHOOTING SETTING > DRIVE SETTING > BKT SETTING > FOCUS BKT**.\n\n### BKT SETTING\nSettings for exposure, sensitivity, film simulation, white balance, and focus bracketing can be adjusted using **SHOOTING SETTING > DRIVE SETTING > BKT SETTING**.",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "Bracketing",
+                    "md": "# Bracketing"
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "FILM SIMULATION BKT",
+                    "md": "## FILM SIMULATION BKT"
+                },
+                {
+                    "type": "text",
+                    "value": "Each time the shutter is released, the camera takes one shot and processes it to create copies with different film simulation settings.",
+                    "md": "Each time the shutter is released, the camera takes one shot and processes it to create copies with different film simulation settings."
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "WHITE BALANCE BKT",
+                    "md": "## WHITE BALANCE BKT"
+                },
+                {
+                    "type": "text",
+                    "value": "Select a bracketing amount (±1, ±2, or ±3). Each time the shutter is released, the camera takes one shot and processes it to create three copies: one at the current white balance setting, one with fine-tuning increased by the selected amount, and another with fine-tuning decreased by the selected amount.",
+                    "md": "Select a bracketing amount (±1, ±2, or ±3). Each time the shutter is released, the camera takes one shot and processes it to create three copies: one at the current white balance setting, one with fine-tuning increased by the selected amount, and another with fine-tuning decreased by the selected amount."
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "DYNAMIC RANGE BKT",
+                    "md": "## DYNAMIC RANGE BKT"
+                },
+                {
+                    "type": "text",
+                    "value": "Each time the shutter button is pressed, the camera takes three shots with different dynamic ranges: 100% for the first, 200% for the second, and 400% for the third.\n\n> 💡 **Note:**  \n> While dynamic range bracketing is in effect, sensitivity will be restricted to a minimum of ISO 500; the sensitivity previously in effect is restored when bracketing ends.",
+                    "md": "Each time the shutter button is pressed, the camera takes three shots with different dynamic ranges: 100% for the first, 200% for the second, and 400% for the third.\n\n> 💡 **Note:**  \n> While dynamic range bracketing is in effect, sensitivity will be restricted to a minimum of ISO 500; the sensitivity previously in effect is restored when bracketing ends."
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "FOCUS BKT",
+                    "md": "## FOCUS BKT"
+                },
+                {
+                    "type": "text",
+                    "value": "Each time the shutter button is pressed, the camera takes a series of photos, varying focus with each shot. The number of shots, the amount focus changes with each shot, and the interval between shots can be selected using **SHOOTING SETTING > DRIVE SETTING > BKT SETTING > FOCUS BKT**.",
+                    "md": "Each time the shutter button is pressed, the camera takes a series of photos, varying focus with each shot. The number of shots, the amount focus changes with each shot, and the interval between shots can be selected using **SHOOTING SETTING > DRIVE SETTING > BKT SETTING > FOCUS BKT**."
+                },
+                {
+                    "type": "heading",
+                    "lvl": 3,
+                    "value": "BKT SETTING",
+                    "md": "### BKT SETTING"
+                },
+                {
+                    "type": "text",
+                    "value": "Settings for exposure, sensitivity, film simulation, white balance, and focus bracketing can be adjusted using **SHOOTING SETTING > DRIVE SETTING > BKT SETTING**.",
+                    "md": "Settings for exposure, sensitivity, film simulation, white balance, and focus bracketing can be adjusted using **SHOOTING SETTING > DRIVE SETTING > BKT SETTING**."
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "parsingMode": "multimodal-openai-gpt4o",
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 458.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "39b4f18f-e3d9-477e-ba8b-8929403f79d5",
+    "file_path": "../data/raw_data/x-t5/x-t5_split/x-t5_page130.pdf"
+}

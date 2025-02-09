@@ -1,0 +1,126 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<table id='0' style='font-size:14px'><tr><td>Problem</td><td>Solution</td></tr><tr><td>The browser does not display the same menus or other text as the camera.</td><td>Automatic translation is enabled in the browser: Disable auto- matic translation.</td></tr><tr><td>The computer or tablet cannot connect to the camera via HTTPS.</td><td>The camera root certificate has not been installed on the com- puter or tablet: Install the camera root certificate on the computer or tablet ( ≡ 298). The camera IP address has changed: The camera root certifi- cate must be reinstalled on the computer or tablet each time the camera's IP address changes.</td></tr><tr><td>The computer or tablet cannot connect to multiple cameras via HTTPS.</td><td>Root certificates for some cameras have not been installed on the computer or tablet: Install root certificates for all cameras ([ 298).</td></tr><tr><td>A second or subsequent camera cannot be connected from a QR code.</td><td>SERVER TYPE has not been set to HTTPS: Set SERVER TYPE to HTTPS and import a root certificate. Camera 1 is not selected in the \"Choose camera\" area: Select Camera 1 in the \"Choose camera\" area, and then connect and use the second or subsequent camera. The browser is not allowed to access the tablet's camera: Allow the tablet's browser to access the camera.</td></tr></table>\n<header id='1' style='font-size:20px'>Technical<br>Notes</header>\n<footer id='2' style='font-size:16px'>12</footer>\n<footer id='3' style='font-size:18px'>450</footer>",
+        "markdown": "| Problem | Solution |\n| --- | --- |\n| The browser does not display the same menus or other text as the camera. | Automatic translation is enabled in the browser: Disable auto- matic translation. |\n| The computer or tablet cannot connect to the camera via HTTPS. | The camera root certificate has not been installed on the com- puter or tablet: Install the camera root certificate on the computer or tablet ( ≡ 298). The camera IP address has changed: The camera root certifi- cate must be reinstalled on the computer or tablet each time the camera's IP address changes. |\n| The computer or tablet cannot connect to multiple cameras via HTTPS. | Root certificates for some cameras have not been installed on the computer or tablet: Install root certificates for all cameras ([ 298). |\n| A second or subsequent camera cannot be connected from a QR code. | SERVER TYPE has not been set to HTTPS: Set SERVER TYPE to HTTPS and import a root certificate. Camera 1 is not selected in the \"Choose camera\" area: Select Camera 1 in the \"Choose camera\" area, and then connect and use the second or subsequent camera. The browser is not allowed to access the tablet's camera: Allow the tablet's browser to access the camera. |\n\n\nTechnical\nNotes\n\n12\n\n450",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='0' style='font-size:14px'><tr><td>Problem</td><td>Solution</td></tr><tr><td>The browser does not display the same menus or other text as the camera.</td><td>Automatic translation is enabled in the browser: Disable auto- matic translation.</td></tr><tr><td>The computer or tablet cannot connect to the camera via HTTPS.</td><td>The camera root certificate has not been installed on the com- puter or tablet: Install the camera root certificate on the computer or tablet ( ≡ 298). The camera IP address has changed: The camera root certifi- cate must be reinstalled on the computer or tablet each time the camera's IP address changes.</td></tr><tr><td>The computer or tablet cannot connect to multiple cameras via HTTPS.</td><td>Root certificates for some cameras have not been installed on the computer or tablet: Install root certificates for all cameras ([ 298).</td></tr><tr><td>A second or subsequent camera cannot be connected from a QR code.</td><td>SERVER TYPE has not been set to HTTPS: Set SERVER TYPE to HTTPS and import a root certificate. Camera 1 is not selected in the \"Choose camera\" area: Select Camera 1 in the \"Choose camera\" area, and then connect and use the second or subsequent camera. The browser is not allowed to access the tablet's camera: Allow the tablet's browser to access the camera.</td></tr></table>",
+                "markdown": "| Problem | Solution |\n| --- | --- |\n| The browser does not display the same menus or other text as the camera. | Automatic translation is enabled in the browser: Disable auto- matic translation. |\n| The computer or tablet cannot connect to the camera via HTTPS. | The camera root certificate has not been installed on the com- puter or tablet: Install the camera root certificate on the computer or tablet ( ≡ 298). The camera IP address has changed: The camera root certifi- cate must be reinstalled on the computer or tablet each time the camera's IP address changes. |\n| The computer or tablet cannot connect to multiple cameras via HTTPS. | Root certificates for some cameras have not been installed on the computer or tablet: Install root certificates for all cameras ([ 298). |\n| A second or subsequent camera cannot be connected from a QR code. | SERVER TYPE has not been set to HTTPS: Set SERVER TYPE to HTTPS and import a root certificate. Camera 1 is not selected in the \"Choose camera\" area: Select Camera 1 in the \"Choose camera\" area, and then connect and use the second or subsequent camera. The browser is not allowed to access the tablet's camera: Allow the tablet's browser to access the camera. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0832,
+                    "y": 0.073
+                },
+                {
+                    "x": 0.8956,
+                    "y": 0.073
+                },
+                {
+                    "x": 0.8956,
+                    "y": 0.5972
+                },
+                {
+                    "x": 0.0832,
+                    "y": 0.5972
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='1' style='font-size:20px'>Technical<br>Notes</header>",
+                "markdown": "Technical\nNotes",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0198,
+                    "y": 0.7615
+                },
+                {
+                    "x": 0.0402,
+                    "y": 0.7615
+                },
+                {
+                    "x": 0.0402,
+                    "y": 0.8806
+                },
+                {
+                    "x": 0.0198,
+                    "y": 0.8806
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='2' style='font-size:16px'>12</footer>",
+                "markdown": "12",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0193,
+                    "y": 0.8974
+                },
+                {
+                    "x": 0.0441,
+                    "y": 0.8974
+                },
+                {
+                    "x": 0.0441,
+                    "y": 0.9169
+                },
+                {
+                    "x": 0.0193,
+                    "y": 0.9169
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='3' style='font-size:18px'>450</footer>",
+                "markdown": "450",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0834,
+                    "y": 0.9572
+                },
+                {
+                    "x": 0.1395,
+                    "y": 0.9572
+                },
+                {
+                    "x": 0.1395,
+                    "y": 0.9792
+                },
+                {
+                    "x": 0.0834,
+                    "y": 0.9792
+                }
+            ],
+            "id": 3,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

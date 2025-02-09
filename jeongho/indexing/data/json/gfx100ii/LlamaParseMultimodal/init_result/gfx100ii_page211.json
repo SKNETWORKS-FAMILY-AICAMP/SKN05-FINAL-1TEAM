@@ -1,0 +1,90 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "# MOVIE SETTING (Movie Recording)\n\n- **The ProRes format** is intended for footage that will be edited on a computer or similar device.\n- **4:2:2 chroma sub-sampling** is used for footage output to external devices connected via HDMI; H.264 footage is output at a bit depth of 8 bits and footage in other formats at a depth of 10 bits.\n- **All-I** compresses each frame separately. Files are larger, but the fact that the data for each frame are saved separately makes this a good choice for footage that will be further processed.\n- **Long GOP** balances good image quality with high compression. Files are smaller, making it a good choice for longer movies.\n- The options available for file type and compression vary with the options selected for **MOVIE MODE, HIGH SPEED REC,** and **F-Log/HLG RECORDING**.\n\n## Bit Rate\n\nChoose the movie bit rate.\n\n| Options  |\n|----------|\n| 50Mbps   |\n| 100Mbps  |\n| 200Mbps  |\n| 360Mbps  |\n| 720Mbps  |\n\n- The options available for bit rate vary with the settings chosen for high-speed movie recording and compression. The actual bit rate may be slower than the selected value depending on the subject.\n- The bit rate for ProRes movies is set automatically according to the format chosen and the frame size and rate. For more information, visit the Apple website.",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "MOVIE SETTING (Movie Recording)",
+                    "md": "# MOVIE SETTING (Movie Recording)"
+                },
+                {
+                    "type": "text",
+                    "value": "- **The ProRes format** is intended for footage that will be edited on a computer or similar device.\n- **4:2:2 chroma sub-sampling** is used for footage output to external devices connected via HDMI; H.264 footage is output at a bit depth of 8 bits and footage in other formats at a depth of 10 bits.\n- **All-I** compresses each frame separately. Files are larger, but the fact that the data for each frame are saved separately makes this a good choice for footage that will be further processed.\n- **Long GOP** balances good image quality with high compression. Files are smaller, making it a good choice for longer movies.\n- The options available for file type and compression vary with the options selected for **MOVIE MODE, HIGH SPEED REC,** and **F-Log/HLG RECORDING**.",
+                    "md": "- **The ProRes format** is intended for footage that will be edited on a computer or similar device.\n- **4:2:2 chroma sub-sampling** is used for footage output to external devices connected via HDMI; H.264 footage is output at a bit depth of 8 bits and footage in other formats at a depth of 10 bits.\n- **All-I** compresses each frame separately. Files are larger, but the fact that the data for each frame are saved separately makes this a good choice for footage that will be further processed.\n- **Long GOP** balances good image quality with high compression. Files are smaller, making it a good choice for longer movies.\n- The options available for file type and compression vary with the options selected for **MOVIE MODE, HIGH SPEED REC,** and **F-Log/HLG RECORDING**."
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "Bit Rate",
+                    "md": "## Bit Rate"
+                },
+                {
+                    "type": "text",
+                    "value": "Choose the movie bit rate.",
+                    "md": "Choose the movie bit rate."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Options"
+                        ],
+                        [
+                            "50Mbps"
+                        ],
+                        [
+                            "100Mbps"
+                        ],
+                        [
+                            "200Mbps"
+                        ],
+                        [
+                            "360Mbps"
+                        ],
+                        [
+                            "720Mbps"
+                        ]
+                    ],
+                    "md": "| Options  |\n|----------|\n| 50Mbps   |\n| 100Mbps  |\n| 200Mbps  |\n| 360Mbps  |\n| 720Mbps  |",
+                    "isPerfectTable": true,
+                    "csv": "\"Options\"\n\"50Mbps\"\n\"100Mbps\"\n\"200Mbps\"\n\"360Mbps\"\n\"720Mbps\""
+                },
+                {
+                    "type": "text",
+                    "value": "- The options available for bit rate vary with the settings chosen for high-speed movie recording and compression. The actual bit rate may be slower than the selected value depending on the subject.\n- The bit rate for ProRes movies is set automatically according to the format chosen and the frame size and rate. For more information, visit the Apple website.",
+                    "md": "- The options available for bit rate vary with the settings chosen for high-speed movie recording and compression. The actual bit rate may be slower than the selected value depending on the subject.\n- The bit rate for ProRes movies is set automatically according to the format chosen and the frame size and rate. For more information, visit the Apple website."
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 424.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "4e0460c5-61c8-4e44-a4e4-290c014b8f86",
+    "file_path": "../data/raw_data/gfx100ii/gfx100ii_split/gfx100ii_page211.pdf"
+}

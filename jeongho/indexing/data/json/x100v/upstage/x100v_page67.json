@@ -1,0 +1,294 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:14px'>Autofocus</header>\n<p id='1' data-category='paragraph' style='font-size:16px'>The Focus Indicator</p>\n<br><h1 id='2' style='font-size:16px'>Focus status is shown by the focus indicator.</h1>\n<br><table id='3' style='font-size:18px'><tr><td>Focus indicator</td><td>Focus status</td></tr><tr><td>)</td><td>Camera focusing.</td></tr><tr><td>(lights green)</td><td>Subject in focus; focus locked (focus mode S).</td></tr><tr><td>(lights green)</td><td>Subject in focus (focus mode C). Focus is automatically adjusted for changes in distance to subject.</td></tr><tr><td>○ (blinks white)</td><td>Camera unable to focus.</td></tr><tr><td>MF</td><td>Manual focus (focus mode M).</td></tr></table>\n<br><p id='4' data-category='paragraph' style='font-size:14px'>■</p>\n<br><p id='5' data-category='paragraph' style='font-size:20px'>区 poplopel⌀ion</p>\n<p id='6' data-category='paragraph' style='font-size:14px'>Focus indicator</p>\n<footer id='7' style='font-size:16px'>5</footer>\n<br><footer id='8' style='font-size:22px'>Taking<br>Photographs</footer>\n<footer id='9' style='font-size:20px'>67</footer>",
+        "markdown": "Autofocus\n\nThe Focus Indicator\n\n# Focus status is shown by the focus indicator.\n\n| Focus indicator | Focus status |\n| --- | --- |\n| ) | Camera focusing. |\n| (lights green) | Subject in focus; focus locked (focus mode S). |\n| (lights green) | Subject in focus (focus mode C). Focus is automatically adjusted for changes in distance to subject. |\n| ○ (blinks white) | Camera unable to focus. |\n| MF | Manual focus (focus mode M). |\n\n\n■\n\n区 poplopel⌀ion\n\nFocus indicator\n\n5\n\nTaking\nPhotographs\n\n67",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:14px'>Autofocus</header>",
+                "markdown": "Autofocus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.8121,
+                    "y": 0.0291
+                },
+                {
+                    "x": 0.9186,
+                    "y": 0.0291
+                },
+                {
+                    "x": 0.9186,
+                    "y": 0.0498
+                },
+                {
+                    "x": 0.8121,
+                    "y": 0.0498
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='1' data-category='paragraph' style='font-size:16px'>The Focus Indicator</p>",
+                "markdown": "The Focus Indicator",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1053,
+                    "y": 0.0727
+                },
+                {
+                    "x": 0.2952,
+                    "y": 0.0727
+                },
+                {
+                    "x": 0.2952,
+                    "y": 0.0923
+                },
+                {
+                    "x": 0.1053,
+                    "y": 0.0923
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='2' style='font-size:16px'>Focus status is shown by the focus indicator.</h1>",
+                "markdown": "# Focus status is shown by the focus indicator.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1106,
+                    "y": 0.095
+                },
+                {
+                    "x": 0.5962,
+                    "y": 0.095
+                },
+                {
+                    "x": 0.5962,
+                    "y": 0.1165
+                },
+                {
+                    "x": 0.1106,
+                    "y": 0.1165
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='3' style='font-size:18px'><tr><td>Focus indicator</td><td>Focus status</td></tr><tr><td>)</td><td>Camera focusing.</td></tr><tr><td>(lights green)</td><td>Subject in focus; focus locked (focus mode S).</td></tr><tr><td>(lights green)</td><td>Subject in focus (focus mode C). Focus is automatically adjusted for changes in distance to subject.</td></tr><tr><td>○ (blinks white)</td><td>Camera unable to focus.</td></tr><tr><td>MF</td><td>Manual focus (focus mode M).</td></tr></table>",
+                "markdown": "| Focus indicator | Focus status |\n| --- | --- |\n| ) | Camera focusing. |\n| (lights green) | Subject in focus; focus locked (focus mode S). |\n| (lights green) | Subject in focus (focus mode C). Focus is automatically adjusted for changes in distance to subject. |\n| ○ (blinks white) | Camera unable to focus. |\n| MF | Manual focus (focus mode M). |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1085,
+                    "y": 0.1229
+                },
+                {
+                    "x": 0.6292,
+                    "y": 0.1229
+                },
+                {
+                    "x": 0.6292,
+                    "y": 0.3331
+                },
+                {
+                    "x": 0.1085,
+                    "y": 0.3331
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='4' data-category='paragraph' style='font-size:14px'>■</p>",
+                "markdown": "■",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.7639,
+                    "y": 0.1442
+                },
+                {
+                    "x": 0.7876,
+                    "y": 0.1442
+                },
+                {
+                    "x": 0.7876,
+                    "y": 0.161
+                },
+                {
+                    "x": 0.7639,
+                    "y": 0.161
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='5' data-category='paragraph' style='font-size:20px'>区 poplopel⌀ion</p>",
+                "markdown": "区 poplopel⌀ion",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6416,
+                    "y": 0.1275
+                },
+                {
+                    "x": 0.652,
+                    "y": 0.1275
+                },
+                {
+                    "x": 0.652,
+                    "y": 0.1713
+                },
+                {
+                    "x": 0.6416,
+                    "y": 0.1713
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='6' data-category='paragraph' style='font-size:14px'>Focus indicator</p>",
+                "markdown": "Focus indicator",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6391,
+                    "y": 0.2334
+                },
+                {
+                    "x": 0.7845,
+                    "y": 0.2334
+                },
+                {
+                    "x": 0.7845,
+                    "y": 0.2498
+                },
+                {
+                    "x": 0.6391,
+                    "y": 0.2498
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='7' style='font-size:16px'>5</footer>",
+                "markdown": "5",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9571,
+                    "y": 0.4777
+                },
+                {
+                    "x": 0.9754,
+                    "y": 0.4777
+                },
+                {
+                    "x": 0.9754,
+                    "y": 0.4974
+                },
+                {
+                    "x": 0.9571,
+                    "y": 0.4974
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<br><footer id='8' style='font-size:22px'>Taking<br>Photographs</footer>",
+                "markdown": "Taking\nPhotographs",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9557,
+                    "y": 0.5172
+                },
+                {
+                    "x": 0.9816,
+                    "y": 0.5172
+                },
+                {
+                    "x": 0.9816,
+                    "y": 0.6649
+                },
+                {
+                    "x": 0.9557,
+                    "y": 0.6649
+                }
+            ],
+            "id": 8,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='9' style='font-size:20px'>67</footer>",
+                "markdown": "67",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.8778,
+                    "y": 0.957
+                },
+                {
+                    "x": 0.9167,
+                    "y": 0.957
+                },
+                {
+                    "x": 0.9167,
+                    "y": 0.979
+                },
+                {
+                    "x": 0.8778,
+                    "y": 0.979
+                }
+            ],
+            "id": 9,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

@@ -1,0 +1,574 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:16px'>TIME CODE SETTING (Movie Recording)</header>\n<h1 id='1' style='font-size:18px'>HDMI TIME CODE OUTPUT</h1>\n\n<br><table id='3' style='font-size:18px'><tr><td colspan=\"2\">Options</td></tr><tr><td>ON</td><td>OFF</td></tr><br><caption id='2' style='font-size:20px'>Choose whether time codes are output to HDMI devices.</caption></table>\n<h1 id='4' style='font-size:20px'>TIME CODE SYNC. SETTING</h1>\n<br><p id='5' data-category='paragraph' style='font-size:20px'>Choose whether to synchronize time codes with an external de-<br>vice.</p>\n<p id='6' data-category='paragraph' style='font-size:20px'>CONNECT TO ATOMOS AirGlu BT</p>\n\n<br><table id='8' style='font-size:18px'><tr><td colspan=\"2\">Options</td></tr><tr><td>ON</td><td>OFF</td></tr><br><caption id='7' style='font-size:20px'>If ON is selected, the camera connects with paired external de-<br>vices and synchronizes time codes. Because simultaneous con-<br>nection with a smartphone is not possible, the smartphone icon<br>is displayed in the yellow on the screen.</caption></table>\n<p id='9' data-category='paragraph' style='font-size:20px'>PAIRING REGISTRATION</p>\n<br><p id='10' data-category='paragraph' style='font-size:20px'>Pair the ATOMOS AirGlu BT and camera.</p>\n<p id='11' data-category='paragraph' style='font-size:14px'>多</p>\n<br><p id='12' data-category='paragraph' style='font-size:18px'>● Ifthe camera connects with the ATOMOS<br>AirGlu BT, an icon appears on the screen.</p>\n<br><p id='13' data-category='paragraph' style='font-size:14px'>区 AirGlu</p>\n<p id='14' data-category='paragraph' style='font-size:16px'>AirGlu</p>\n<p id='15' data-category='paragraph' style='font-size:14px'>IS 00:00:00:00</p>\n<p id='16' data-category='paragraph' style='font-size:20px'>● The pairing with the ATOMOS AirGlu BT can be ended using<br>Bluetooth/SMARTPHONE SETTING > Bluetooth DEVICE LIST<br>in the network/USB setting menu.</p>\n<br><footer id='17' style='font-size:16px'>6</footer>\n<footer id='18' style='font-size:22px'>211</footer>\n<br><footer id='19' style='font-size:22px'>The<br>Shooting<br>Menus</footer>",
+        "markdown": "TIME CODE SETTING (Movie Recording)\n\n# HDMI TIME CODE OUTPUT\n\nChoose whether time codes are output to HDMI devices.\n\n| Options | Options |\n| --- | --- |\n| ON | OFF |\n\n\n# TIME CODE SYNC. SETTING\n\nChoose whether to synchronize time codes with an external de-\nvice.\n\nCONNECT TO ATOMOS AirGlu BT\n\nIf ON is selected, the camera connects with paired external de-\nvices and synchronizes time codes. Because simultaneous con-\nnection with a smartphone is not possible, the smartphone icon\nis displayed in the yellow on the screen.\n\n| Options | Options |\n| --- | --- |\n| ON | OFF |\n\n\nPAIRING REGISTRATION\n\nPair the ATOMOS AirGlu BT and camera.\n\n多\n\n● Ifthe camera connects with the ATOMOS\nAirGlu BT, an icon appears on the screen.\n\n区 AirGlu\n\nAirGlu\n\nIS 00:00:00:00\n\n● The pairing with the ATOMOS AirGlu BT can be ended using\nBluetooth/SMARTPHONE SETTING > Bluetooth DEVICE LIST\nin the network/USB setting menu.\n\n6\n\n211\n\nThe\nShooting\nMenus",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:16px'>TIME CODE SETTING (Movie Recording)</header>",
+                "markdown": "TIME CODE SETTING (Movie Recording)",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.5322,
+                    "y": 0.0279
+                },
+                {
+                    "x": 0.9176,
+                    "y": 0.0279
+                },
+                {
+                    "x": 0.9176,
+                    "y": 0.0512
+                },
+                {
+                    "x": 0.5322,
+                    "y": 0.0512
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='1' style='font-size:18px'>HDMI TIME CODE OUTPUT</h1>",
+                "markdown": "# HDMI TIME CODE OUTPUT",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1087,
+                    "y": 0.0722
+                },
+                {
+                    "x": 0.4659,
+                    "y": 0.0722
+                },
+                {
+                    "x": 0.4659,
+                    "y": 0.0949
+                },
+                {
+                    "x": 0.1087,
+                    "y": 0.0949
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='2' data-category='paragraph' style='font-size:20px'>Choose whether time codes are output to HDMI devices.</p>",
+                "markdown": "Choose whether time codes are output to HDMI devices.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1056,
+                    "y": 0.105
+                },
+                {
+                    "x": 0.8207,
+                    "y": 0.105
+                },
+                {
+                    "x": 0.8207,
+                    "y": 0.1288
+                },
+                {
+                    "x": 0.1056,
+                    "y": 0.1288
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='3' style='font-size:18px'><tr><td colspan=\"2\">Options</td></tr><tr><td>ON</td><td>OFF</td></tr></table>",
+                "markdown": "| Options | Options |\n| --- | --- |\n| ON | OFF |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1088,
+                    "y": 0.1414
+                },
+                {
+                    "x": 0.9179,
+                    "y": 0.1414
+                },
+                {
+                    "x": 0.9179,
+                    "y": 0.1918
+                },
+                {
+                    "x": 0.1088,
+                    "y": 0.1918
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='4' style='font-size:20px'>TIME CODE SYNC. SETTING</h1>",
+                "markdown": "# TIME CODE SYNC. SETTING",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1099,
+                    "y": 0.2092
+                },
+                {
+                    "x": 0.475,
+                    "y": 0.2092
+                },
+                {
+                    "x": 0.475,
+                    "y": 0.2318
+                },
+                {
+                    "x": 0.1099,
+                    "y": 0.2318
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='5' data-category='paragraph' style='font-size:20px'>Choose whether to synchronize time codes with an external de-<br>vice.</p>",
+                "markdown": "Choose whether to synchronize time codes with an external de-\nvice.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1054,
+                    "y": 0.2416
+                },
+                {
+                    "x": 0.9174,
+                    "y": 0.2416
+                },
+                {
+                    "x": 0.9174,
+                    "y": 0.2897
+                },
+                {
+                    "x": 0.1054,
+                    "y": 0.2897
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='6' data-category='paragraph' style='font-size:20px'>CONNECT TO ATOMOS AirGlu BT</p>",
+                "markdown": "CONNECT TO ATOMOS AirGlu BT",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1142,
+                    "y": 0.312
+                },
+                {
+                    "x": 0.5137,
+                    "y": 0.312
+                },
+                {
+                    "x": 0.5137,
+                    "y": 0.3371
+                },
+                {
+                    "x": 0.1142,
+                    "y": 0.3371
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='7' data-category='paragraph' style='font-size:20px'>If ON is selected, the camera connects with paired external de-<br>vices and synchronizes time codes. Because simultaneous con-<br>nection with a smartphone is not possible, the smartphone icon<br>is displayed in the yellow on the screen.</p>",
+                "markdown": "If ON is selected, the camera connects with paired external de-\nvices and synchronizes time codes. Because simultaneous con-\nnection with a smartphone is not possible, the smartphone icon\nis displayed in the yellow on the screen.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1062,
+                    "y": 0.3432
+                },
+                {
+                    "x": 0.9184,
+                    "y": 0.3432
+                },
+                {
+                    "x": 0.9184,
+                    "y": 0.446
+                },
+                {
+                    "x": 0.1062,
+                    "y": 0.446
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='8' style='font-size:18px'><tr><td colspan=\"2\">Options</td></tr><tr><td>ON</td><td>OFF</td></tr></table>",
+                "markdown": "| Options | Options |\n| --- | --- |\n| ON | OFF |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1069,
+                    "y": 0.4581
+                },
+                {
+                    "x": 0.9159,
+                    "y": 0.4581
+                },
+                {
+                    "x": 0.9159,
+                    "y": 0.5065
+                },
+                {
+                    "x": 0.1069,
+                    "y": 0.5065
+                }
+            ],
+            "id": 8,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='9' data-category='paragraph' style='font-size:20px'>PAIRING REGISTRATION</p>",
+                "markdown": "PAIRING REGISTRATION",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1184,
+                    "y": 0.5252
+                },
+                {
+                    "x": 0.4151,
+                    "y": 0.5252
+                },
+                {
+                    "x": 0.4151,
+                    "y": 0.5503
+                },
+                {
+                    "x": 0.1184,
+                    "y": 0.5503
+                }
+            ],
+            "id": 9,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='10' data-category='paragraph' style='font-size:20px'>Pair the ATOMOS AirGlu BT and camera.</p>",
+                "markdown": "Pair the ATOMOS AirGlu BT and camera.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1065,
+                    "y": 0.5574
+                },
+                {
+                    "x": 0.6091,
+                    "y": 0.5574
+                },
+                {
+                    "x": 0.6091,
+                    "y": 0.5807
+                },
+                {
+                    "x": 0.1065,
+                    "y": 0.5807
+                }
+            ],
+            "id": 10,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='11' data-category='paragraph' style='font-size:14px'>多</p>",
+                "markdown": "多",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.7367,
+                    "y": 0.6355
+                },
+                {
+                    "x": 0.7442,
+                    "y": 0.6355
+                },
+                {
+                    "x": 0.7442,
+                    "y": 0.6415
+                },
+                {
+                    "x": 0.7367,
+                    "y": 0.6415
+                }
+            ],
+            "id": 11,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='12' data-category='paragraph' style='font-size:18px'>● Ifthe camera connects with the ATOMOS<br>AirGlu BT, an icon appears on the screen.</p>",
+                "markdown": "● Ifthe camera connects with the ATOMOS\nAirGlu BT, an icon appears on the screen.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1075,
+                    "y": 0.6338
+                },
+                {
+                    "x": 0.6282,
+                    "y": 0.6338
+                },
+                {
+                    "x": 0.6282,
+                    "y": 0.6848
+                },
+                {
+                    "x": 0.1075,
+                    "y": 0.6848
+                }
+            ],
+            "id": 12,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='13' data-category='paragraph' style='font-size:14px'>区 AirGlu</p>",
+                "markdown": "区 AirGlu",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.7353,
+                    "y": 0.6422
+                },
+                {
+                    "x": 0.7576,
+                    "y": 0.6422
+                },
+                {
+                    "x": 0.7576,
+                    "y": 0.6496
+                },
+                {
+                    "x": 0.7353,
+                    "y": 0.6496
+                }
+            ],
+            "id": 13,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='14' data-category='paragraph' style='font-size:16px'>AirGlu</p>",
+                "markdown": "AirGlu",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.7634,
+                    "y": 0.6778
+                },
+                {
+                    "x": 0.7967,
+                    "y": 0.6778
+                },
+                {
+                    "x": 0.7967,
+                    "y": 0.6921
+                },
+                {
+                    "x": 0.7634,
+                    "y": 0.6921
+                }
+            ],
+            "id": 14,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='15' data-category='paragraph' style='font-size:14px'>IS 00:00:00:00</p>",
+                "markdown": "IS 00:00:00:00",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6566,
+                    "y": 0.7497
+                },
+                {
+                    "x": 0.7262,
+                    "y": 0.7497
+                },
+                {
+                    "x": 0.7262,
+                    "y": 0.7605
+                },
+                {
+                    "x": 0.6566,
+                    "y": 0.7605
+                }
+            ],
+            "id": 15,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='16' data-category='paragraph' style='font-size:20px'>● The pairing with the ATOMOS AirGlu BT can be ended using<br>Bluetooth/SMARTPHONE SETTING > Bluetooth DEVICE LIST<br>in the network/USB setting menu.</p>",
+                "markdown": "● The pairing with the ATOMOS AirGlu BT can be ended using\nBluetooth/SMARTPHONE SETTING > Bluetooth DEVICE LIST\nin the network/USB setting menu.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1069,
+                    "y": 0.7866
+                },
+                {
+                    "x": 0.9222,
+                    "y": 0.7866
+                },
+                {
+                    "x": 0.9222,
+                    "y": 0.8638
+                },
+                {
+                    "x": 0.1069,
+                    "y": 0.8638
+                }
+            ],
+            "id": 16,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<br><footer id='17' style='font-size:16px'>6</footer>",
+                "markdown": "6",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9584,
+                    "y": 0.5372
+                },
+                {
+                    "x": 0.9761,
+                    "y": 0.5372
+                },
+                {
+                    "x": 0.9761,
+                    "y": 0.5578
+                },
+                {
+                    "x": 0.9584,
+                    "y": 0.5578
+                }
+            ],
+            "id": 17,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='18' style='font-size:22px'>211</footer>",
+                "markdown": "211",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.8603,
+                    "y": 0.956
+                },
+                {
+                    "x": 0.9154,
+                    "y": 0.956
+                },
+                {
+                    "x": 0.9154,
+                    "y": 0.9792
+                },
+                {
+                    "x": 0.8603,
+                    "y": 0.9792
+                }
+            ],
+            "id": 18,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<br><footer id='19' style='font-size:22px'>The<br>Shooting<br>Menus</footer>",
+                "markdown": "The\nShooting\nMenus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.956,
+                    "y": 0.5444
+                },
+                {
+                    "x": 0.983,
+                    "y": 0.5444
+                },
+                {
+                    "x": 0.983,
+                    "y": 0.7309
+                },
+                {
+                    "x": 0.956,
+                    "y": 0.7309
+                }
+            ],
+            "id": 19,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

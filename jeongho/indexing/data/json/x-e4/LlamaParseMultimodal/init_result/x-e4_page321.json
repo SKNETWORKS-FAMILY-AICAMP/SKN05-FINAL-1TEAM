@@ -1,0 +1,49 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "# Technical Notes\n\n!Technical Notes",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "Technical Notes",
+                    "md": "# Technical Notes"
+                },
+                {
+                    "type": "text",
+                    "value": "!Technical Notes",
+                    "md": "!Technical Notes"
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "parsingMode": "multimodal-openai-gpt4o",
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 103.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "ffc4148d-e4b4-4d59-a369-9a786acb0bc6",
+    "file_path": "../data/raw_data/x-e4/x-e4_split/x-e4_page321.pdf"
+}

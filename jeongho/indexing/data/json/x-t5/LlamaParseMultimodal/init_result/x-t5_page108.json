@@ -1,0 +1,49 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "\n# Autofocus\n\nTake pictures using autofocus.\n\n1. Rotate the focus mode selector to S or C (📖 83).\n   !Focus Mode Selector\n\n2. Choose an AF mode (📖 85).\n\n3. Choose the position and size of the focus frame (📖 87).\n   !Focus Frame Adjustment\n\n4. Take pictures.\n",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "Autofocus",
+                    "md": "# Autofocus"
+                },
+                {
+                    "type": "text",
+                    "value": "Take pictures using autofocus.\n\n1. Rotate the focus mode selector to S or C (📖 83).\n   !Focus Mode Selector\n\n2. Choose an AF mode (📖 85).\n\n3. Choose the position and size of the focus frame (📖 87).\n   !Focus Frame Adjustment\n\n4. Take pictures.",
+                    "md": "Take pictures using autofocus.\n\n1. Rotate the focus mode selector to S or C (📖 83).\n   !Focus Mode Selector\n\n2. Choose an AF mode (📖 85).\n\n3. Choose the position and size of the focus frame (📖 87).\n   !Focus Frame Adjustment\n\n4. Take pictures."
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "parsingMode": "multimodal-openai-gpt4o",
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 499.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "da01a519-7ca4-4a1c-83de-1d8c46cfc06c",
+    "file_path": "../data/raw_data/x-t5/x-t5_split/x-t5_page108.pdf"
+}

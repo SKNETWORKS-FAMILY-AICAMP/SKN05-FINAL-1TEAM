@@ -1,0 +1,172 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "# AUDIO SETTING\n\nAdjust audio-related settings for movie recording.\n\n## INTERNAL MIC LEVEL ADJUSTMENT\n\nAdjust the recording level for the built-in microphone.\n\n| Option | Description |\n|--------|-------------|\n| AUTO   | The camera adjusts the recording level automatically. |\n| MANUAL | Adjust the recording level manually. Press the focus stick (focus lever) right to choose from 25 recording levels. |\n| OFF    | Turn the built-in microphone off. |\n\n## EXTERNAL MIC LEVEL ADJUSTMENT\n\nAdjust the recording level for external microphones.\n\n| Option | Description |\n|--------|-------------|\n| AUTO   | The camera adjusts the recording level automatically. |\n| MANUAL | Adjust the recording level manually. Press the focus stick (focus lever) right to choose from 25 recording levels. |\n| OFF    | Disable recording using external microphones. |\n\n## MIC LEVEL LIMITER\n\nReduces distortion caused by input that exceeds the limits of the microphone’s audio circuits.\n\n| Options |        |\n|---------|--------|\n| ON      | OFF    |\n\n## WIND FILTER\n\nChoose whether to enable wind noise reduction during movie recording.\n\n| Options |        |\n|---------|--------|\n| ON      | OFF    |",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "AUDIO SETTING",
+                    "md": "# AUDIO SETTING"
+                },
+                {
+                    "type": "text",
+                    "value": "Adjust audio-related settings for movie recording.",
+                    "md": "Adjust audio-related settings for movie recording."
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "INTERNAL MIC LEVEL ADJUSTMENT",
+                    "md": "## INTERNAL MIC LEVEL ADJUSTMENT"
+                },
+                {
+                    "type": "text",
+                    "value": "Adjust the recording level for the built-in microphone.",
+                    "md": "Adjust the recording level for the built-in microphone."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Option",
+                            "Description"
+                        ],
+                        [
+                            "AUTO",
+                            "The camera adjusts the recording level automatically."
+                        ],
+                        [
+                            "MANUAL",
+                            "Adjust the recording level manually. Press the focus stick (focus lever) right to choose from 25 recording levels."
+                        ],
+                        [
+                            "OFF",
+                            "Turn the built-in microphone off."
+                        ]
+                    ],
+                    "md": "| Option | Description |\n|--------|-------------|\n| AUTO   | The camera adjusts the recording level automatically. |\n| MANUAL | Adjust the recording level manually. Press the focus stick (focus lever) right to choose from 25 recording levels. |\n| OFF    | Turn the built-in microphone off. |",
+                    "isPerfectTable": true,
+                    "csv": "\"Option\",\"Description\"\n\"AUTO\",\"The camera adjusts the recording level automatically.\"\n\"MANUAL\",\"Adjust the recording level manually. Press the focus stick (focus lever) right to choose from 25 recording levels.\"\n\"OFF\",\"Turn the built-in microphone off.\""
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "EXTERNAL MIC LEVEL ADJUSTMENT",
+                    "md": "## EXTERNAL MIC LEVEL ADJUSTMENT"
+                },
+                {
+                    "type": "text",
+                    "value": "Adjust the recording level for external microphones.",
+                    "md": "Adjust the recording level for external microphones."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Option",
+                            "Description"
+                        ],
+                        [
+                            "AUTO",
+                            "The camera adjusts the recording level automatically."
+                        ],
+                        [
+                            "MANUAL",
+                            "Adjust the recording level manually. Press the focus stick (focus lever) right to choose from 25 recording levels."
+                        ],
+                        [
+                            "OFF",
+                            "Disable recording using external microphones."
+                        ]
+                    ],
+                    "md": "| Option | Description |\n|--------|-------------|\n| AUTO   | The camera adjusts the recording level automatically. |\n| MANUAL | Adjust the recording level manually. Press the focus stick (focus lever) right to choose from 25 recording levels. |\n| OFF    | Disable recording using external microphones. |",
+                    "isPerfectTable": true,
+                    "csv": "\"Option\",\"Description\"\n\"AUTO\",\"The camera adjusts the recording level automatically.\"\n\"MANUAL\",\"Adjust the recording level manually. Press the focus stick (focus lever) right to choose from 25 recording levels.\"\n\"OFF\",\"Disable recording using external microphones.\""
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "MIC LEVEL LIMITER",
+                    "md": "## MIC LEVEL LIMITER"
+                },
+                {
+                    "type": "text",
+                    "value": "Reduces distortion caused by input that exceeds the limits of the microphone’s audio circuits.",
+                    "md": "Reduces distortion caused by input that exceeds the limits of the microphone’s audio circuits."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Options",
+                            ""
+                        ],
+                        [
+                            "ON",
+                            "OFF"
+                        ]
+                    ],
+                    "md": "| Options |        |\n|---------|--------|\n| ON      | OFF    |",
+                    "isPerfectTable": true,
+                    "csv": "\"Options\",\"\"\n\"ON\",\"OFF\""
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "WIND FILTER",
+                    "md": "## WIND FILTER"
+                },
+                {
+                    "type": "text",
+                    "value": "Choose whether to enable wind noise reduction during movie recording.",
+                    "md": "Choose whether to enable wind noise reduction during movie recording."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Options",
+                            ""
+                        ],
+                        [
+                            "ON",
+                            "OFF"
+                        ]
+                    ],
+                    "md": "| Options |        |\n|---------|--------|\n| ON      | OFF    |",
+                    "isPerfectTable": true,
+                    "csv": "\"Options\",\"\"\n\"ON\",\"OFF\""
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 519.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "4e7374a6-d980-40ce-a5a1-d39c108b3f7b",
+    "file_path": "../data/raw_data/x100v/x100v_split/x100v_page187.pdf"
+}

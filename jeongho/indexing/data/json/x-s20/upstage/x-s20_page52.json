@@ -1,0 +1,266 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:22px'>Basic<br>Photography<br>and<br>Playback</header>\n<br><header id='1' style='font-size:14px'>Viewing Pictures</header>\n<h1 id='2' style='font-size:20px'>Shooting</h1>\n<br><p id='3' data-category='paragraph' style='font-size:16px'>Display live view or movie footage on a TV or save it to an exter-<br>nal recorder that supports HDMI input.</p>\n<br><h1 id='4' style='font-size:20px'>Playback</h1>\n<br><p id='5' data-category='paragraph' style='font-size:18px'>To start playback, press the camera button. The camera mon-<br>itor turns off and pictures and movies are output to the HDMI<br>device. Note that the camera volume controls have no effect on<br>sounds played on the TV; use the television volume controls to<br>adjust the volume.</p>\n<h1 id='6' style='font-size:14px'>3</h1>\n<br><p id='7' data-category='paragraph' style='font-size:16px'>Some televisions may briefly display a black screen when movie play-<br>back begins.</p>\n<footer id='8' style='font-size:18px'>52</footer>",
+        "markdown": "Basic\nPhotography\nand\nPlayback\n\nViewing Pictures\n\n# Shooting\n\nDisplay live view or movie footage on a TV or save it to an exter-\nnal recorder that supports HDMI input.\n\n# Playback\n\nTo start playback, press the camera button. The camera mon-\nitor turns off and pictures and movies are output to the HDMI\ndevice. Note that the camera volume controls have no effect on\nsounds played on the TV; use the television volume controls to\nadjust the volume.\n\n# 3\n\nSome televisions may briefly display a black screen when movie play-\nback begins.\n\n52",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:22px'>Basic<br>Photography<br>and<br>Playback</header>",
+                "markdown": "Basic\nPhotography\nand\nPlayback",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.017,
+                    "y": 0.3961
+                },
+                {
+                    "x": 0.0423,
+                    "y": 0.3961
+                },
+                {
+                    "x": 0.0423,
+                    "y": 0.6328
+                },
+                {
+                    "x": 0.017,
+                    "y": 0.6328
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "header",
+            "content": {
+                "html": "<br><header id='1' style='font-size:14px'>Viewing Pictures</header>",
+                "markdown": "Viewing Pictures",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.7266,
+                    "y": 0.0292
+                },
+                {
+                    "x": 0.8925,
+                    "y": 0.0292
+                },
+                {
+                    "x": 0.8925,
+                    "y": 0.0504
+                },
+                {
+                    "x": 0.7266,
+                    "y": 0.0504
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='2' style='font-size:20px'>Shooting</h1>",
+                "markdown": "# Shooting",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0937,
+                    "y": 0.073
+                },
+                {
+                    "x": 0.2182,
+                    "y": 0.073
+                },
+                {
+                    "x": 0.2182,
+                    "y": 0.0994
+                },
+                {
+                    "x": 0.0937,
+                    "y": 0.0994
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='3' data-category='paragraph' style='font-size:16px'>Display live view or movie footage on a TV or save it to an exter-<br>nal recorder that supports HDMI input.</p>",
+                "markdown": "Display live view or movie footage on a TV or save it to an exter-\nnal recorder that supports HDMI input.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0812,
+                    "y": 0.1044
+                },
+                {
+                    "x": 0.8915,
+                    "y": 0.1044
+                },
+                {
+                    "x": 0.8915,
+                    "y": 0.156
+                },
+                {
+                    "x": 0.0812,
+                    "y": 0.156
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='4' style='font-size:20px'>Playback</h1>",
+                "markdown": "# Playback",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0916,
+                    "y": 0.1743
+                },
+                {
+                    "x": 0.2171,
+                    "y": 0.1743
+                },
+                {
+                    "x": 0.2171,
+                    "y": 0.2012
+                },
+                {
+                    "x": 0.0916,
+                    "y": 0.2012
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='5' data-category='paragraph' style='font-size:18px'>To start playback, press the camera button. The camera mon-<br>itor turns off and pictures and movies are output to the HDMI<br>device. Note that the camera volume controls have no effect on<br>sounds played on the TV; use the television volume controls to<br>adjust the volume.</p>",
+                "markdown": "To start playback, press the camera button. The camera mon-\nitor turns off and pictures and movies are output to the HDMI\ndevice. Note that the camera volume controls have no effect on\nsounds played on the TV; use the television volume controls to\nadjust the volume.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0805,
+                    "y": 0.2058
+                },
+                {
+                    "x": 0.8941,
+                    "y": 0.2058
+                },
+                {
+                    "x": 0.8941,
+                    "y": 0.333
+                },
+                {
+                    "x": 0.0805,
+                    "y": 0.333
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='6' style='font-size:14px'>3</h1>",
+                "markdown": "# 3",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0272,
+                    "y": 0.3601
+                },
+                {
+                    "x": 0.0418,
+                    "y": 0.3601
+                },
+                {
+                    "x": 0.0418,
+                    "y": 0.3755
+                },
+                {
+                    "x": 0.0272,
+                    "y": 0.3755
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='7' data-category='paragraph' style='font-size:16px'>Some televisions may briefly display a black screen when movie play-<br>back begins.</p>",
+                "markdown": "Some televisions may briefly display a black screen when movie play-\nback begins.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0939,
+                    "y": 0.3412
+                },
+                {
+                    "x": 0.8877,
+                    "y": 0.3412
+                },
+                {
+                    "x": 0.8877,
+                    "y": 0.3853
+                },
+                {
+                    "x": 0.0939,
+                    "y": 0.3853
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='8' style='font-size:18px'>52</footer>",
+                "markdown": "52",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0826,
+                    "y": 0.9562
+                },
+                {
+                    "x": 0.122,
+                    "y": 0.9562
+                },
+                {
+                    "x": 0.122,
+                    "y": 0.9799
+                },
+                {
+                    "x": 0.0826,
+                    "y": 0.9799
+                }
+            ],
+            "id": 8,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

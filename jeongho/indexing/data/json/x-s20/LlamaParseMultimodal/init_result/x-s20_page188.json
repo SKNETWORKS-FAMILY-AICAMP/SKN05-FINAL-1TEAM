@@ -1,0 +1,142 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "# Camera Settings\n\n## Interlock Spot AE & Focus Area\n\nChoose **ON** to meter the current focus frame when SPOT or MULTI metering is selected.\n\n| Options |        |\n|---------|--------|\n| ON      | OFF    |\n\n## Instant AF Setting\n\nChooses how the camera focuses when a button to which focus lock or AF-ON is assigned is pressed with MANUAL FOCUS selected for FOCUS MODE.\n\n| Option | Description                                           |\n|--------|-------------------------------------------------------|\n| AF-S   | The camera focuses when the button is pressed.        |\n| AF-C   | The camera focuses while the button is pressed.       |\n\n> Any changes made using this item also apply in movie mode.\n\n## Depth-of-Field Scale\n\nChoose the basis for the depth-of-field scale.\n\n| Option            | Description                                                                 |\n|-------------------|-----------------------------------------------------------------------------|\n| PIXEL BASIS       | Provides a precision reference for use when assessing depth of field for pictures that will be viewed at high resolutions on computers or other electronic displays. |\n| FILM FORMAT BASIS | Provides a practical reference for use when assessing depth of field for pictures that will be viewed at lower resolutions, for example as prints. |\n\n> Any changes made using this item also apply in movie mode.",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "Camera Settings",
+                    "md": "# Camera Settings"
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "Interlock Spot AE & Focus Area",
+                    "md": "## Interlock Spot AE & Focus Area"
+                },
+                {
+                    "type": "text",
+                    "value": "Choose **ON** to meter the current focus frame when SPOT or MULTI metering is selected.",
+                    "md": "Choose **ON** to meter the current focus frame when SPOT or MULTI metering is selected."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Options",
+                            ""
+                        ],
+                        [
+                            "ON",
+                            "OFF"
+                        ]
+                    ],
+                    "md": "| Options |        |\n|---------|--------|\n| ON      | OFF    |",
+                    "isPerfectTable": true,
+                    "csv": "\"Options\",\"\"\n\"ON\",\"OFF\""
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "Instant AF Setting",
+                    "md": "## Instant AF Setting"
+                },
+                {
+                    "type": "text",
+                    "value": "Chooses how the camera focuses when a button to which focus lock or AF-ON is assigned is pressed with MANUAL FOCUS selected for FOCUS MODE.",
+                    "md": "Chooses how the camera focuses when a button to which focus lock or AF-ON is assigned is pressed with MANUAL FOCUS selected for FOCUS MODE."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Option",
+                            "Description"
+                        ],
+                        [
+                            "AF-S",
+                            "The camera focuses when the button is pressed."
+                        ],
+                        [
+                            "AF-C",
+                            "The camera focuses while the button is pressed."
+                        ]
+                    ],
+                    "md": "| Option | Description                                           |\n|--------|-------------------------------------------------------|\n| AF-S   | The camera focuses when the button is pressed.        |\n| AF-C   | The camera focuses while the button is pressed.       |",
+                    "isPerfectTable": true,
+                    "csv": "\"Option\",\"Description\"\n\"AF-S\",\"The camera focuses when the button is pressed.\"\n\"AF-C\",\"The camera focuses while the button is pressed.\""
+                },
+                {
+                    "type": "text",
+                    "value": "> Any changes made using this item also apply in movie mode.",
+                    "md": "> Any changes made using this item also apply in movie mode."
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "Depth-of-Field Scale",
+                    "md": "## Depth-of-Field Scale"
+                },
+                {
+                    "type": "text",
+                    "value": "Choose the basis for the depth-of-field scale.",
+                    "md": "Choose the basis for the depth-of-field scale."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Option",
+                            "Description"
+                        ],
+                        [
+                            "PIXEL BASIS",
+                            "Provides a precision reference for use when assessing depth of field for pictures that will be viewed at high resolutions on computers or other electronic displays."
+                        ],
+                        [
+                            "FILM FORMAT BASIS",
+                            "Provides a practical reference for use when assessing depth of field for pictures that will be viewed at lower resolutions, for example as prints."
+                        ]
+                    ],
+                    "md": "| Option            | Description                                                                 |\n|-------------------|-----------------------------------------------------------------------------|\n| PIXEL BASIS       | Provides a precision reference for use when assessing depth of field for pictures that will be viewed at high resolutions on computers or other electronic displays. |\n| FILM FORMAT BASIS | Provides a practical reference for use when assessing depth of field for pictures that will be viewed at lower resolutions, for example as prints. |",
+                    "isPerfectTable": true,
+                    "csv": "\"Option\",\"Description\"\n\"PIXEL BASIS\",\"Provides a precision reference for use when assessing depth of field for pictures that will be viewed at high resolutions on computers or other electronic displays.\"\n\"FILM FORMAT BASIS\",\"Provides a practical reference for use when assessing depth of field for pictures that will be viewed at lower resolutions, for example as prints.\""
+                },
+                {
+                    "type": "text",
+                    "value": "> Any changes made using this item also apply in movie mode.",
+                    "md": "> Any changes made using this item also apply in movie mode."
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 106.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "6a1d2a3d-3b1b-49f0-beba-6ed431acfcee",
+    "file_path": "../data/raw_data/x-s20/x-s20_split/x-s20_page188.pdf"
+}

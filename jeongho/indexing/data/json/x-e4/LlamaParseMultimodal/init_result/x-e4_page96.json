@@ -1,0 +1,77 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "\n# Focus Mode (CONTINUOUS AF)\n\n| Option       | Description                                                                 | Sample image          |\n|--------------|-----------------------------------------------------------------------------|-----------------------|\n| SINGLE POINT | Focus tracks subject at selected focus point. Use for subjects moving toward or away from camera. | !Single Point Sample |\n| ZONE         | Focus tracks subject in selected focus zone. Use for subjects that are moving fairly predictably. | !Zone Sample |\n| TRACKING     | Focus tracks subjects moving through wide area of frame.                    | !Tracking Sample |\n\nRotate the front command dial in the focus-point selection display (pages 74, 75) to cycle through AF modes in the following order: SINGLE POINT, ZONE, and TRACKING.\n",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "Focus Mode (CONTINUOUS AF)",
+                    "md": "# Focus Mode (CONTINUOUS AF)"
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Option",
+                            "Description",
+                            "Sample image"
+                        ],
+                        [
+                            "SINGLE POINT",
+                            "Focus tracks subject at selected focus point. Use for subjects moving toward or away from camera.",
+                            "!Single Point Sample"
+                        ],
+                        [
+                            "ZONE",
+                            "Focus tracks subject in selected focus zone. Use for subjects that are moving fairly predictably.",
+                            "!Zone Sample"
+                        ],
+                        [
+                            "TRACKING",
+                            "Focus tracks subjects moving through wide area of frame.",
+                            "!Tracking Sample"
+                        ]
+                    ],
+                    "md": "| Option       | Description                                                                 | Sample image          |\n|--------------|-----------------------------------------------------------------------------|-----------------------|\n| SINGLE POINT | Focus tracks subject at selected focus point. Use for subjects moving toward or away from camera. | !Single Point Sample |\n| ZONE         | Focus tracks subject in selected focus zone. Use for subjects that are moving fairly predictably. | !Zone Sample |\n| TRACKING     | Focus tracks subjects moving through wide area of frame.                    | !Tracking Sample |",
+                    "isPerfectTable": true,
+                    "csv": "\"Option\",\"Description\",\"Sample image\"\n\"SINGLE POINT\",\"Focus tracks subject at selected focus point. Use for subjects moving toward or away from camera.\",\"!Single Point Sample\"\n\"ZONE\",\"Focus tracks subject in selected focus zone. Use for subjects that are moving fairly predictably.\",\"!Zone Sample\"\n\"TRACKING\",\"Focus tracks subjects moving through wide area of frame.\",\"!Tracking Sample\""
+                },
+                {
+                    "type": "text",
+                    "value": "Rotate the front command dial in the focus-point selection display (pages 74, 75) to cycle through AF modes in the following order: SINGLE POINT, ZONE, and TRACKING.",
+                    "md": "Rotate the front command dial in the focus-point selection display (pages 74, 75) to cycle through AF modes in the following order: SINGLE POINT, ZONE, and TRACKING."
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "parsingMode": "multimodal-openai-gpt4o",
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 129.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "dfc7a9d7-ec65-4698-af1a-4f425f3761e9",
+    "file_path": "../data/raw_data/x-e4/x-e4_split/x-e4_page96.pdf"
+}

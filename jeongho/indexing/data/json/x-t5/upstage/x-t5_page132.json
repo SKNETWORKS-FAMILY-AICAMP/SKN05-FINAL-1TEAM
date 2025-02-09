@@ -1,0 +1,350 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<h1 id='0' style='font-size:18px'>HIGH ISO NR</h1>\n\n<table id='2' style='font-size:14px'><tr><td rowspan=\"2\" colspan=\"9\">Options</td></tr><tr></tr><tr><td>-4</td><td>-3</td><td>-2</td><td>-1</td><td>0</td><td>+1</td><td>+2</td><td>+3</td><td>+4</td></tr><br><caption id='1' style='font-size:20px'>Reduce noise in pictures taken at high sensitivities. Choose high-<br>er values to reduce noise and smooth outlines, lower values to<br>leave outlines visible.</caption></table>\n<p id='3' data-category='paragraph' style='font-size:18px'>CLARITY</p>\n\n<table id='5' style='font-size:14px'><tr><td rowspan=\"2\" colspan=\"11\">Options</td></tr><tr></tr><tr><td>-5</td><td>-4</td><td>-3</td><td>-2</td><td>-1</td><td>0</td><td>+1</td><td>+2</td><td>+3</td><td>+4</td><td>+5</td></tr><br><caption id='4' style='font-size:18px'>Increase definition while altering tones in highlights and shad-<br>OWS as little as possible. Choose higher values for increased defi-<br>nition, lower values for a softer effect.</caption></table>\n<br><p id='6' data-category='paragraph' style='font-size:14px'>The additional processing required at settings other than 0 increases<br>the time need to save each shot.</p>\n\n<br><p id='8' data-category='paragraph' style='font-size:20px'>Select ON to reduce mottling in long time-exposures.</p>\n<table id='9' style='font-size:16px'><tr><td colspan=\"3\">Options</td></tr><tr><td colspan=\"2\">ON</td><td>OFF</td></tr><tr><td></td><td colspan=\"2\">The additional processing required when ON is selected increases save times.</td></tr><caption id='7' style='font-size:16px'>LONG EXPOSURE NR</caption></table>\n<br><header id='10' style='font-size:22px'>The<br>Shooting<br>Menus</header>\n<footer id='11' style='font-size:22px'>132</footer>",
+        "markdown": "# HIGH ISO NR\n\nReduce noise in pictures taken at high sensitivities. Choose high-\ner values to reduce noise and smooth outlines, lower values to\nleave outlines visible.\n\n| Options | Options | Options | Options | Options | Options | Options | Options | Options |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| Options | Options | Options | Options | Options | Options | Options | Options | Options |\n| -4 | -3 | -2 | -1 | 0 | +1 | +2 | +3 | +4 |\n\n\nCLARITY\n\nIncrease definition while altering tones in highlights and shad-\nOWS as little as possible. Choose higher values for increased defi-\nnition, lower values for a softer effect.\n\n| Options | Options | Options | Options | Options | Options | Options | Options | Options | Options | Options |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| Options | Options | Options | Options | Options | Options | Options | Options | Options | Options | Options |\n| -5 | -4 | -3 | -2 | -1 | 0 | +1 | +2 | +3 | +4 | +5 |\n\n\nThe additional processing required at settings other than 0 increases\nthe time need to save each shot.\n\nLONG EXPOSURE NR\n\nSelect ON to reduce mottling in long time-exposures.\n\n| Options | Options | Options |\n| --- | --- | --- |\n| ON | ON | OFF |\n|  | The additional processing required when ON is selected increases save times. | The additional processing required when ON is selected increases save times. |\n\n\nThe\nShooting\nMenus\n\n132",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='0' style='font-size:18px'>HIGH ISO NR</h1>",
+                "markdown": "# HIGH ISO NR",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0827,
+                    "y": 0.0727
+                },
+                {
+                    "x": 0.2585,
+                    "y": 0.0727
+                },
+                {
+                    "x": 0.2585,
+                    "y": 0.0943
+                },
+                {
+                    "x": 0.0827,
+                    "y": 0.0943
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='1' data-category='paragraph' style='font-size:20px'>Reduce noise in pictures taken at high sensitivities. Choose high-<br>er values to reduce noise and smooth outlines, lower values to<br>leave outlines visible.</p>",
+                "markdown": "Reduce noise in pictures taken at high sensitivities. Choose high-\ner values to reduce noise and smooth outlines, lower values to\nleave outlines visible.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0806,
+                    "y": 0.1041
+                },
+                {
+                    "x": 0.8937,
+                    "y": 0.1041
+                },
+                {
+                    "x": 0.8937,
+                    "y": 0.1791
+                },
+                {
+                    "x": 0.0806,
+                    "y": 0.1791
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='2' style='font-size:14px'><tr><td rowspan=\"2\" colspan=\"9\">Options</td></tr><tr></tr><tr><td>-4</td><td>-3</td><td>-2</td><td>-1</td><td>0</td><td>+1</td><td>+2</td><td>+3</td><td>+4</td></tr></table>",
+                "markdown": "| Options | Options | Options | Options | Options | Options | Options | Options | Options |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| Options | Options | Options | Options | Options | Options | Options | Options | Options |\n| -4 | -3 | -2 | -1 | 0 | +1 | +2 | +3 | +4 |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0841,
+                    "y": 0.1927
+                },
+                {
+                    "x": 0.8915,
+                    "y": 0.1927
+                },
+                {
+                    "x": 0.8915,
+                    "y": 0.2475
+                },
+                {
+                    "x": 0.0841,
+                    "y": 0.2475
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='3' data-category='paragraph' style='font-size:18px'>CLARITY</p>",
+                "markdown": "CLARITY",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0819,
+                    "y": 0.2632
+                },
+                {
+                    "x": 0.2044,
+                    "y": 0.2632
+                },
+                {
+                    "x": 0.2044,
+                    "y": 0.2854
+                },
+                {
+                    "x": 0.0819,
+                    "y": 0.2854
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='4' data-category='paragraph' style='font-size:18px'>Increase definition while altering tones in highlights and shad-<br>OWS as little as possible. Choose higher values for increased defi-<br>nition, lower values for a softer effect.</p>",
+                "markdown": "Increase definition while altering tones in highlights and shad-\nOWS as little as possible. Choose higher values for increased defi-\nnition, lower values for a softer effect.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0803,
+                    "y": 0.2942
+                },
+                {
+                    "x": 0.8934,
+                    "y": 0.2942
+                },
+                {
+                    "x": 0.8934,
+                    "y": 0.3711
+                },
+                {
+                    "x": 0.0803,
+                    "y": 0.3711
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='5' style='font-size:14px'><tr><td rowspan=\"2\" colspan=\"11\">Options</td></tr><tr></tr><tr><td>-5</td><td>-4</td><td>-3</td><td>-2</td><td>-1</td><td>0</td><td>+1</td><td>+2</td><td>+3</td><td>+4</td><td>+5</td></tr></table>",
+                "markdown": "| Options | Options | Options | Options | Options | Options | Options | Options | Options | Options | Options |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| Options | Options | Options | Options | Options | Options | Options | Options | Options | Options | Options |\n| -5 | -4 | -3 | -2 | -1 | 0 | +1 | +2 | +3 | +4 | +5 |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0886,
+                    "y": 0.3841
+                },
+                {
+                    "x": 0.8886,
+                    "y": 0.3841
+                },
+                {
+                    "x": 0.8886,
+                    "y": 0.4413
+                },
+                {
+                    "x": 0.0886,
+                    "y": 0.4413
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='6' data-category='paragraph' style='font-size:14px'>The additional processing required at settings other than 0 increases<br>the time need to save each shot.</p>",
+                "markdown": "The additional processing required at settings other than 0 increases\nthe time need to save each shot.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0818,
+                    "y": 0.4493
+                },
+                {
+                    "x": 0.8906,
+                    "y": 0.4493
+                },
+                {
+                    "x": 0.8906,
+                    "y": 0.495
+                },
+                {
+                    "x": 0.0818,
+                    "y": 0.495
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='7' data-category='paragraph' style='font-size:16px'>LONG EXPOSURE NR</p>",
+                "markdown": "LONG EXPOSURE NR",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0829,
+                    "y": 0.5154
+                },
+                {
+                    "x": 0.3644,
+                    "y": 0.5154
+                },
+                {
+                    "x": 0.3644,
+                    "y": 0.5371
+                },
+                {
+                    "x": 0.0829,
+                    "y": 0.5371
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='8' data-category='paragraph' style='font-size:20px'>Select ON to reduce mottling in long time-exposures.</p>",
+                "markdown": "Select ON to reduce mottling in long time-exposures.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0795,
+                    "y": 0.5466
+                },
+                {
+                    "x": 0.7568,
+                    "y": 0.5466
+                },
+                {
+                    "x": 0.7568,
+                    "y": 0.5722
+                },
+                {
+                    "x": 0.0795,
+                    "y": 0.5722
+                }
+            ],
+            "id": 8,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='9' style='font-size:16px'><tr><td colspan=\"3\">Options</td></tr><tr><td colspan=\"2\">ON</td><td>OFF</td></tr><tr><td></td><td colspan=\"2\">The additional processing required when ON is selected increases save times.</td></tr></table>",
+                "markdown": "| Options | Options | Options |\n| --- | --- | --- |\n| ON | ON | OFF |\n|  | The additional processing required when ON is selected increases save times. | The additional processing required when ON is selected increases save times. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0815,
+                    "y": 0.5861
+                },
+                {
+                    "x": 0.8894,
+                    "y": 0.5861
+                },
+                {
+                    "x": 0.8894,
+                    "y": 0.6953
+                },
+                {
+                    "x": 0.0815,
+                    "y": 0.6953
+                }
+            ],
+            "id": 9,
+            "page": 1
+        },
+        {
+            "category": "header",
+            "content": {
+                "html": "<br><header id='10' style='font-size:22px'>The<br>Shooting<br>Menus</header>",
+                "markdown": "The\nShooting\nMenus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0163,
+                    "y": 0.5791
+                },
+                {
+                    "x": 0.0418,
+                    "y": 0.5791
+                },
+                {
+                    "x": 0.0418,
+                    "y": 0.7316
+                },
+                {
+                    "x": 0.0163,
+                    "y": 0.7316
+                }
+            ],
+            "id": 10,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='11' style='font-size:22px'>132</footer>",
+                "markdown": "132",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0847,
+                    "y": 0.9564
+                },
+                {
+                    "x": 0.1394,
+                    "y": 0.9564
+                },
+                {
+                    "x": 0.1394,
+                    "y": 0.9798
+                },
+                {
+                    "x": 0.0847,
+                    "y": 0.9798
+                }
+            ],
+            "id": 11,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

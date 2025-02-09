@@ -1,0 +1,116 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "# BUTTON/DIAL SETTING\n\n## FOCUS RING\nChoose the direction in which the focus ring is rotated to increase the focus distance.\n\n**Options:**\n- ↻ CW (clockwise)\n- ↺ CCW (counterclockwise)\n\n## FOCUS RING OPERATION\nChoose how the camera adjusts focus in response to the movement of the focus ring.\n\n| Option    | Description                                                                 |\n|-----------|-----------------------------------------------------------------------------|\n| NONLINEAR | Focus is adjusted at the same rate as the ring is rotated.                  |\n| LINEAR    | Focus is adjusted linearly according to the amount the ring is rotated, but the focusing speed is unaffected by the speed the ring is rotated. |\n\n## AE/AF-LOCK MODE\nThis option determines the behavior of the button to which exposure and/or focus lock is assigned.\n\n| Option                     | Description                                                                 |\n|----------------------------|-----------------------------------------------------------------------------|\n| AE&AF ON WHEN PRESSING     | Exposure and/or focus will lock while the button is pressed.                |\n| AE&AF ON/OFF SWITCH        | Exposure and/or focus will lock when the button is pressed and remain locked until it is pressed again. |",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "BUTTON/DIAL SETTING",
+                    "md": "# BUTTON/DIAL SETTING"
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "FOCUS RING",
+                    "md": "## FOCUS RING"
+                },
+                {
+                    "type": "text",
+                    "value": "Choose the direction in which the focus ring is rotated to increase the focus distance.\n\n**Options:**\n- ↻ CW (clockwise)\n- ↺ CCW (counterclockwise)",
+                    "md": "Choose the direction in which the focus ring is rotated to increase the focus distance.\n\n**Options:**\n- ↻ CW (clockwise)\n- ↺ CCW (counterclockwise)"
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "FOCUS RING OPERATION",
+                    "md": "## FOCUS RING OPERATION"
+                },
+                {
+                    "type": "text",
+                    "value": "Choose how the camera adjusts focus in response to the movement of the focus ring.",
+                    "md": "Choose how the camera adjusts focus in response to the movement of the focus ring."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Option",
+                            "Description"
+                        ],
+                        [
+                            "NONLINEAR",
+                            "Focus is adjusted at the same rate as the ring is rotated."
+                        ],
+                        [
+                            "LINEAR",
+                            "Focus is adjusted linearly according to the amount the ring is rotated, but the focusing speed is unaffected by the speed the ring is rotated."
+                        ]
+                    ],
+                    "md": "| Option    | Description                                                                 |\n|-----------|-----------------------------------------------------------------------------|\n| NONLINEAR | Focus is adjusted at the same rate as the ring is rotated.                  |\n| LINEAR    | Focus is adjusted linearly according to the amount the ring is rotated, but the focusing speed is unaffected by the speed the ring is rotated. |",
+                    "isPerfectTable": true,
+                    "csv": "\"Option\",\"Description\"\n\"NONLINEAR\",\"Focus is adjusted at the same rate as the ring is rotated.\"\n\"LINEAR\",\"Focus is adjusted linearly according to the amount the ring is rotated, but the focusing speed is unaffected by the speed the ring is rotated.\""
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "AE/AF-LOCK MODE",
+                    "md": "## AE/AF-LOCK MODE"
+                },
+                {
+                    "type": "text",
+                    "value": "This option determines the behavior of the button to which exposure and/or focus lock is assigned.",
+                    "md": "This option determines the behavior of the button to which exposure and/or focus lock is assigned."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Option",
+                            "Description"
+                        ],
+                        [
+                            "AE&AF ON WHEN PRESSING",
+                            "Exposure and/or focus will lock while the button is pressed."
+                        ],
+                        [
+                            "AE&AF ON/OFF SWITCH",
+                            "Exposure and/or focus will lock when the button is pressed and remain locked until it is pressed again."
+                        ]
+                    ],
+                    "md": "| Option                     | Description                                                                 |\n|----------------------------|-----------------------------------------------------------------------------|\n| AE&AF ON WHEN PRESSING     | Exposure and/or focus will lock while the button is pressed.                |\n| AE&AF ON/OFF SWITCH        | Exposure and/or focus will lock when the button is pressed and remain locked until it is pressed again. |",
+                    "isPerfectTable": true,
+                    "csv": "\"Option\",\"Description\"\n\"AE&AF ON WHEN PRESSING\",\"Exposure and/or focus will lock while the button is pressed.\"\n\"AE&AF ON/OFF SWITCH\",\"Exposure and/or focus will lock when the button is pressed and remain locked until it is pressed again.\""
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 494.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "fe3dfaee-63d5-4dcc-ad68-2e43db7fc51d",
+    "file_path": "../data/raw_data/gfx100ii/gfx100ii_split/gfx100ii_page389.pdf"
+}

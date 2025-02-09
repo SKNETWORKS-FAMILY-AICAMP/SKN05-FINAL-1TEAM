@@ -1,0 +1,294 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:16px'>The Quick Menu</header>\n<h1 id='1' style='font-size:20px'>Available Items (Movies)</h1>\n<p id='2' data-category='list' style='font-size:14px'>● FILM SIMULATION<br>● DYNAMIC RANGE<br>● WHITE BALANCE<br>● WHITE BALANCE COLOR TEMP.<br>(WHEN K SELECTED)<br>● HIGHLIGHT TONE<br>● SHADOW TONE<br>● COLOR<br>● SHARPNESS<br>● HIGH ISO NR<br>● FACE/EYE DETECTION SETTING</p>\n<p id='3' data-category='paragraph' style='font-size:14px'>● SUBJECT DETECTION SETTING</p>\n<br><p id='4' data-category='list' style='font-size:14px'>● MF ASSIST<br>● TOUCH SCREEN MODE<br>● PHOTOMETRY<br>● MOVIE ISO<br>● IMAGE FORMAT<br>● MOVIE MODE RESOLUTION/ASPECT<br>RATIO</p>\n<br><p id='5' data-category='list' style='font-size:14px'>● MOVIE MODE FRAME RATE<br>● BIT RATE<br>● HIGH SPEED REC<br>● SELF-TIMER<br>● MOVIE AF MODE<br>● FIX MOVIE CROP MAGNIFICATION<br>● IS MODE<br>● IS MODE BOOST<br>● SHUTTER SPEED<br>● APERTURE<br>(MOVIE OPTIMIZED CONTROL 06)<br>● WAVEFORM/VECTORSCOPE<br>● INTERNAL/EXTERNAL MIC LEVEL<br>ADJUSTMENT<br>● CONNECT TO ATOMOS AirGlu BT<br>● EVF/LCD BRIGHTNESS<br>● EVF/LCD COLOR<br>● NONE</p>\n<p id='6' data-category='paragraph' style='font-size:16px'>To disable the function button, choose NONE.</p>\n<header id='7' style='font-size:22px'>Shortcuts</header>\n<p id='8' data-category='paragraph' style='font-size:18px'>10</p>\n<footer id='9' style='font-size:20px'>384</footer>",
+        "markdown": "The Quick Menu\n\n# Available Items (Movies)\n\n- ● FILM SIMULATION\n- ● DYNAMIC RANGE\n- ● WHITE BALANCE\n- ● WHITE BALANCE COLOR TEMP.\n- (WHEN K SELECTED)\n- ● HIGHLIGHT TONE\n- ● SHADOW TONE\n- ● COLOR\n- ● SHARPNESS\n- ● HIGH ISO NR\n- ● FACE/EYE DETECTION SETTING\n\n\n● SUBJECT DETECTION SETTING\n\n- ● MF ASSIST\n- ● TOUCH SCREEN MODE\n- ● PHOTOMETRY\n- ● MOVIE ISO\n- ● IMAGE FORMAT\n- ● MOVIE MODE RESOLUTION/ASPECT\n- RATIO\n\n\n- ● MOVIE MODE FRAME RATE\n- ● BIT RATE\n- ● HIGH SPEED REC\n- ● SELF-TIMER\n- ● MOVIE AF MODE\n- ● FIX MOVIE CROP MAGNIFICATION\n- ● IS MODE\n- ● IS MODE BOOST\n- ● SHUTTER SPEED\n- ● APERTURE\n- (MOVIE OPTIMIZED CONTROL 06)\n- ● WAVEFORM/VECTORSCOPE\n- ● INTERNAL/EXTERNAL MIC LEVEL\n- ADJUSTMENT\n- ● CONNECT TO ATOMOS AirGlu BT\n- ● EVF/LCD BRIGHTNESS\n- ● EVF/LCD COLOR\n- ● NONE\n\n\nTo disable the function button, choose NONE.\n\nShortcuts\n\n10\n\n384",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:16px'>The Quick Menu</header>",
+                "markdown": "The Quick Menu",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.7271,
+                    "y": 0.0291
+                },
+                {
+                    "x": 0.8922,
+                    "y": 0.0291
+                },
+                {
+                    "x": 0.8922,
+                    "y": 0.0497
+                },
+                {
+                    "x": 0.7271,
+                    "y": 0.0497
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='1' style='font-size:20px'>Available Items (Movies)</h1>",
+                "markdown": "# Available Items (Movies)",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0946,
+                    "y": 0.0748
+                },
+                {
+                    "x": 0.3984,
+                    "y": 0.0748
+                },
+                {
+                    "x": 0.3984,
+                    "y": 0.0982
+                },
+                {
+                    "x": 0.0946,
+                    "y": 0.0982
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "list",
+            "content": {
+                "html": "<p id='2' data-category='list' style='font-size:14px'>● FILM SIMULATION<br>● DYNAMIC RANGE<br>● WHITE BALANCE<br>● WHITE BALANCE COLOR TEMP.<br>(WHEN K SELECTED)<br>● HIGHLIGHT TONE<br>● SHADOW TONE<br>● COLOR<br>● SHARPNESS<br>● HIGH ISO NR<br>● FACE/EYE DETECTION SETTING</p>",
+                "markdown": "- ● FILM SIMULATION\n- ● DYNAMIC RANGE\n- ● WHITE BALANCE\n- ● WHITE BALANCE COLOR TEMP.\n- (WHEN K SELECTED)\n- ● HIGHLIGHT TONE\n- ● SHADOW TONE\n- ● COLOR\n- ● SHARPNESS\n- ● HIGH ISO NR\n- ● FACE/EYE DETECTION SETTING\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0816,
+                    "y": 0.1052
+                },
+                {
+                    "x": 0.4427,
+                    "y": 0.1052
+                },
+                {
+                    "x": 0.4427,
+                    "y": 0.3502
+                },
+                {
+                    "x": 0.0816,
+                    "y": 0.3502
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='3' data-category='paragraph' style='font-size:14px'>● SUBJECT DETECTION SETTING</p>",
+                "markdown": "● SUBJECT DETECTION SETTING",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0831,
+                    "y": 0.3575
+                },
+                {
+                    "x": 0.3991,
+                    "y": 0.3575
+                },
+                {
+                    "x": 0.3991,
+                    "y": 0.3753
+                },
+                {
+                    "x": 0.0831,
+                    "y": 0.3753
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "list",
+            "content": {
+                "html": "<br><p id='4' data-category='list' style='font-size:14px'>● MF ASSIST<br>● TOUCH SCREEN MODE<br>● PHOTOMETRY<br>● MOVIE ISO<br>● IMAGE FORMAT<br>● MOVIE MODE RESOLUTION/ASPECT<br>RATIO</p>",
+                "markdown": "- ● MF ASSIST\n- ● TOUCH SCREEN MODE\n- ● PHOTOMETRY\n- ● MOVIE ISO\n- ● IMAGE FORMAT\n- ● MOVIE MODE RESOLUTION/ASPECT\n- RATIO\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0826,
+                    "y": 0.3754
+                },
+                {
+                    "x": 0.4546,
+                    "y": 0.3754
+                },
+                {
+                    "x": 0.4546,
+                    "y": 0.5376
+                },
+                {
+                    "x": 0.0826,
+                    "y": 0.5376
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "list",
+            "content": {
+                "html": "<br><p id='5' data-category='list' style='font-size:14px'>● MOVIE MODE FRAME RATE<br>● BIT RATE<br>● HIGH SPEED REC<br>● SELF-TIMER<br>● MOVIE AF MODE<br>● FIX MOVIE CROP MAGNIFICATION<br>● IS MODE<br>● IS MODE BOOST<br>● SHUTTER SPEED<br>● APERTURE<br>(MOVIE OPTIMIZED CONTROL 06)<br>● WAVEFORM/VECTORSCOPE<br>● INTERNAL/EXTERNAL MIC LEVEL<br>ADJUSTMENT<br>● CONNECT TO ATOMOS AirGlu BT<br>● EVF/LCD BRIGHTNESS<br>● EVF/LCD COLOR<br>● NONE</p>",
+                "markdown": "- ● MOVIE MODE FRAME RATE\n- ● BIT RATE\n- ● HIGH SPEED REC\n- ● SELF-TIMER\n- ● MOVIE AF MODE\n- ● FIX MOVIE CROP MAGNIFICATION\n- ● IS MODE\n- ● IS MODE BOOST\n- ● SHUTTER SPEED\n- ● APERTURE\n- (MOVIE OPTIMIZED CONTROL 06)\n- ● WAVEFORM/VECTORSCOPE\n- ● INTERNAL/EXTERNAL MIC LEVEL\n- ADJUSTMENT\n- ● CONNECT TO ATOMOS AirGlu BT\n- ● EVF/LCD BRIGHTNESS\n- ● EVF/LCD COLOR\n- ● NONE\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.4813,
+                    "y": 0.1042
+                },
+                {
+                    "x": 0.8611,
+                    "y": 0.1042
+                },
+                {
+                    "x": 0.8611,
+                    "y": 0.5157
+                },
+                {
+                    "x": 0.4813,
+                    "y": 0.5157
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='6' data-category='paragraph' style='font-size:16px'>To disable the function button, choose NONE.</p>",
+                "markdown": "To disable the function button, choose NONE.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.089,
+                    "y": 0.5554
+                },
+                {
+                    "x": 0.6281,
+                    "y": 0.5554
+                },
+                {
+                    "x": 0.6281,
+                    "y": 0.5762
+                },
+                {
+                    "x": 0.089,
+                    "y": 0.5762
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='7' style='font-size:22px'>Shortcuts</header>",
+                "markdown": "Shortcuts",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0194,
+                    "y": 0.684
+                },
+                {
+                    "x": 0.0404,
+                    "y": 0.684
+                },
+                {
+                    "x": 0.0404,
+                    "y": 0.7574
+                },
+                {
+                    "x": 0.0194,
+                    "y": 0.7574
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='8' data-category='paragraph' style='font-size:18px'>10</p>",
+                "markdown": "10",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0178,
+                    "y": 0.7772
+                },
+                {
+                    "x": 0.0441,
+                    "y": 0.7772
+                },
+                {
+                    "x": 0.0441,
+                    "y": 0.7967
+                },
+                {
+                    "x": 0.0178,
+                    "y": 0.7967
+                }
+            ],
+            "id": 8,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='9' style='font-size:20px'>384</footer>",
+                "markdown": "384",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0835,
+                    "y": 0.9565
+                },
+                {
+                    "x": 0.1401,
+                    "y": 0.9565
+                },
+                {
+                    "x": 0.1401,
+                    "y": 0.9794
+                },
+                {
+                    "x": 0.0835,
+                    "y": 0.9794
+                }
+            ],
+            "id": 9,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

@@ -1,0 +1,322 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:14px'>MOVIE SETTING (Movie Recording)</header>\n<h1 id='1' style='font-size:18px'>RAW OUTPUT SETTING</h1>\n<br><h1 id='2' style='font-size:18px'>Choose whether to output RAW footage to external recorders<br>connected via HDMI.</h1>\n<br><table id='3' style='font-size:16px'><tr><td>Option</td><td>Description</td></tr><tr><td>RAW OUTPUT SETTING ATOMOS</td><td>Output RAW footage to ATOMOS video recorders.</td></tr><tr><td>RAW OUTPUT SETTING Blackmagic</td><td>Output RAW footage to Blackmagic Design video recorders.</td></tr><tr><td>OFF</td><td>Do not output RAW footage to external recorders.</td></tr></table>\n<p id='4' data-category='list' style='font-size:14px'>Movie frame size automatically changes to 8K.<br>● RAW footage output to external devices is not saved to the memory<br>cards inserted in the camera.<br>● In-camera image enhancements are not applied to the RAW output.<br>● ISO sensitivity is restricted to values between ISO 640 and ISO 12800.<br>● Footage output to external devices is generated from the original<br>RAW data and its quality, which varies with device specifications, may<br>not be equal to that achieved as the end result of post-production<br>or the like.<br>● Focus zoom is not available when RAW is selected for HDMI output.<br>● RAW footage output via HDMI to incompatible devices will not dis-<br>play correctly but will instead will display as a mosaic.<br>● RAW output is disabled in some movie and high-speed recording<br>modes.</p>\n<p id='5' data-category='paragraph' style='font-size:18px'>FIX MOVIE CROP MAGNIFICATION</p>\n\n<table id='7' style='font-size:16px'><tr><td colspan=\"2\">Options</td></tr><tr><td>ON</td><td>OFF</td></tr><br><caption id='6' style='font-size:20px'>Fix the movie crop ratio according to the IMAGE FORMAT set-<br>ting. This makes it easier to match crops after changing movie<br>settings.</caption></table>\n<br><footer id='8' style='font-size:14px'>6</footer>\n<br><footer id='9' style='font-size:22px'>The<br>Shooting<br>Menus</footer>\n<footer id='10' style='font-size:20px'>185</footer>",
+        "markdown": "MOVIE SETTING (Movie Recording)\n\n# RAW OUTPUT SETTING\n\n# Choose whether to output RAW footage to external recorders\nconnected via HDMI.\n\n| Option | Description |\n| --- | --- |\n| RAW OUTPUT SETTING ATOMOS | Output RAW footage to ATOMOS video recorders. |\n| RAW OUTPUT SETTING Blackmagic | Output RAW footage to Blackmagic Design video recorders. |\n| OFF | Do not output RAW footage to external recorders. |\n\n\n- Movie frame size automatically changes to 8K.\n- ● RAW footage output to external devices is not saved to the memory\n- cards inserted in the camera.\n- ● In-camera image enhancements are not applied to the RAW output.\n- ● ISO sensitivity is restricted to values between ISO 640 and ISO 12800.\n- ● Footage output to external devices is generated from the original\n- RAW data and its quality, which varies with device specifications, may\n- not be equal to that achieved as the end result of post-production\n- or the like.\n- ● Focus zoom is not available when RAW is selected for HDMI output.\n- ● RAW footage output via HDMI to incompatible devices will not dis-\n- play correctly but will instead will display as a mosaic.\n- ● RAW output is disabled in some movie and high-speed recording\n- modes.\n\n\nFIX MOVIE CROP MAGNIFICATION\n\nFix the movie crop ratio according to the IMAGE FORMAT set-\nting. This makes it easier to match crops after changing movie\nsettings.\n\n| Options | Options |\n| --- | --- |\n| ON | OFF |\n\n\n6\n\nThe\nShooting\nMenus\n\n185",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:14px'>MOVIE SETTING (Movie Recording)</header>",
+                "markdown": "MOVIE SETTING (Movie Recording)",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.5766,
+                    "y": 0.0277
+                },
+                {
+                    "x": 0.9175,
+                    "y": 0.0277
+                },
+                {
+                    "x": 0.9175,
+                    "y": 0.0513
+                },
+                {
+                    "x": 0.5766,
+                    "y": 0.0513
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='1' style='font-size:18px'>RAW OUTPUT SETTING</h1>",
+                "markdown": "# RAW OUTPUT SETTING",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1192,
+                    "y": 0.073
+                },
+                {
+                    "x": 0.4055,
+                    "y": 0.073
+                },
+                {
+                    "x": 0.4055,
+                    "y": 0.0966
+                },
+                {
+                    "x": 0.1192,
+                    "y": 0.0966
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='2' style='font-size:18px'>Choose whether to output RAW footage to external recorders<br>connected via HDMI.</h1>",
+                "markdown": "# Choose whether to output RAW footage to external recorders\nconnected via HDMI.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.106,
+                    "y": 0.1043
+                },
+                {
+                    "x": 0.9189,
+                    "y": 0.1043
+                },
+                {
+                    "x": 0.9189,
+                    "y": 0.1537
+                },
+                {
+                    "x": 0.106,
+                    "y": 0.1537
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='3' style='font-size:16px'><tr><td>Option</td><td>Description</td></tr><tr><td>RAW OUTPUT SETTING ATOMOS</td><td>Output RAW footage to ATOMOS video recorders.</td></tr><tr><td>RAW OUTPUT SETTING Blackmagic</td><td>Output RAW footage to Blackmagic Design video recorders.</td></tr><tr><td>OFF</td><td>Do not output RAW footage to external recorders.</td></tr></table>",
+                "markdown": "| Option | Description |\n| --- | --- |\n| RAW OUTPUT SETTING ATOMOS | Output RAW footage to ATOMOS video recorders. |\n| RAW OUTPUT SETTING Blackmagic | Output RAW footage to Blackmagic Design video recorders. |\n| OFF | Do not output RAW footage to external recorders. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1084,
+                    "y": 0.1661
+                },
+                {
+                    "x": 0.9143,
+                    "y": 0.1661
+                },
+                {
+                    "x": 0.9143,
+                    "y": 0.3107
+                },
+                {
+                    "x": 0.1084,
+                    "y": 0.3107
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "list",
+            "content": {
+                "html": "<p id='4' data-category='list' style='font-size:14px'>Movie frame size automatically changes to 8K.<br>● RAW footage output to external devices is not saved to the memory<br>cards inserted in the camera.<br>● In-camera image enhancements are not applied to the RAW output.<br>● ISO sensitivity is restricted to values between ISO 640 and ISO 12800.<br>● Footage output to external devices is generated from the original<br>RAW data and its quality, which varies with device specifications, may<br>not be equal to that achieved as the end result of post-production<br>or the like.<br>● Focus zoom is not available when RAW is selected for HDMI output.<br>● RAW footage output via HDMI to incompatible devices will not dis-<br>play correctly but will instead will display as a mosaic.<br>● RAW output is disabled in some movie and high-speed recording<br>modes.</p>",
+                "markdown": "- Movie frame size automatically changes to 8K.\n- ● RAW footage output to external devices is not saved to the memory\n- cards inserted in the camera.\n- ● In-camera image enhancements are not applied to the RAW output.\n- ● ISO sensitivity is restricted to values between ISO 640 and ISO 12800.\n- ● Footage output to external devices is generated from the original\n- RAW data and its quality, which varies with device specifications, may\n- not be equal to that achieved as the end result of post-production\n- or the like.\n- ● Focus zoom is not available when RAW is selected for HDMI output.\n- ● RAW footage output via HDMI to incompatible devices will not dis-\n- play correctly but will instead will display as a mosaic.\n- ● RAW output is disabled in some movie and high-speed recording\n- modes.\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1303,
+                    "y": 0.3246
+                },
+                {
+                    "x": 0.9177,
+                    "y": 0.3246
+                },
+                {
+                    "x": 0.9177,
+                    "y": 0.6434
+                },
+                {
+                    "x": 0.1303,
+                    "y": 0.6434
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='5' data-category='paragraph' style='font-size:18px'>FIX MOVIE CROP MAGNIFICATION</p>",
+                "markdown": "FIX MOVIE CROP MAGNIFICATION",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1078,
+                    "y": 0.6632
+                },
+                {
+                    "x": 0.5667,
+                    "y": 0.6632
+                },
+                {
+                    "x": 0.5667,
+                    "y": 0.6873
+                },
+                {
+                    "x": 0.1078,
+                    "y": 0.6873
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='6' data-category='paragraph' style='font-size:20px'>Fix the movie crop ratio according to the IMAGE FORMAT set-<br>ting. This makes it easier to match crops after changing movie<br>settings.</p>",
+                "markdown": "Fix the movie crop ratio according to the IMAGE FORMAT set-\nting. This makes it easier to match crops after changing movie\nsettings.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1065,
+                    "y": 0.6954
+                },
+                {
+                    "x": 0.919,
+                    "y": 0.6954
+                },
+                {
+                    "x": 0.919,
+                    "y": 0.7714
+                },
+                {
+                    "x": 0.1065,
+                    "y": 0.7714
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='7' style='font-size:16px'><tr><td colspan=\"2\">Options</td></tr><tr><td>ON</td><td>OFF</td></tr></table>",
+                "markdown": "| Options | Options |\n| --- | --- |\n| ON | OFF |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1067,
+                    "y": 0.7865
+                },
+                {
+                    "x": 0.9161,
+                    "y": 0.7865
+                },
+                {
+                    "x": 0.9161,
+                    "y": 0.8389
+                },
+                {
+                    "x": 0.1067,
+                    "y": 0.8389
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<br><footer id='8' style='font-size:14px'>6</footer>",
+                "markdown": "6",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9582,
+                    "y": 0.537
+                },
+                {
+                    "x": 0.9764,
+                    "y": 0.537
+                },
+                {
+                    "x": 0.9764,
+                    "y": 0.5582
+                },
+                {
+                    "x": 0.9582,
+                    "y": 0.5582
+                }
+            ],
+            "id": 8,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<br><footer id='9' style='font-size:22px'>The<br>Shooting<br>Menus</footer>",
+                "markdown": "The\nShooting\nMenus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9562,
+                    "y": 0.5785
+                },
+                {
+                    "x": 0.9818,
+                    "y": 0.5785
+                },
+                {
+                    "x": 0.9818,
+                    "y": 0.7296
+                },
+                {
+                    "x": 0.9562,
+                    "y": 0.7296
+                }
+            ],
+            "id": 9,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='10' style='font-size:20px'>185</footer>",
+                "markdown": "185",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.8622,
+                    "y": 0.9568
+                },
+                {
+                    "x": 0.9175,
+                    "y": 0.9568
+                },
+                {
+                    "x": 0.9175,
+                    "y": 0.9791
+                },
+                {
+                    "x": 0.8622,
+                    "y": 0.9791
+                }
+            ],
+            "id": 10,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

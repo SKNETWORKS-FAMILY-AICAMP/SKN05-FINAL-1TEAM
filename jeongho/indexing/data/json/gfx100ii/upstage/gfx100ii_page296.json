@@ -1,0 +1,434 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<p id='0' data-category='paragraph' style='font-size:18px'>9 Create a user name and password for<br>use when connecting to the camera<br>from a computer or tablet.<br>Press MENU/OK.</p>\n<header id='1' style='font-size:22px'>Network/USB<br>Setting<br>Menus</header>\n<br><figure id='2'><img style='font-size:14px' alt=\"2 3\nUSER NAME & PASSWORD SETTING\nUSER NAME & PASSWORD IS\nREQUIRED TO ACCESS FROM BROWSER\nOK NEXT BACK BACK\" data-coord=\"top-left:(1697,278); bottom-right:(2457,862)\" /></figure>\n<br><p id='3' data-category='paragraph' style='font-size:18px'>10 Enter a user name.</p>\n<p id='4' data-category='paragraph' style='font-size:20px'>11 Enter a password.</p>\n<p id='5' data-category='paragraph' style='font-size:20px'>12 Choose a server type.</p>\n<header id='6' style='font-size:16px'>8</header>\n<br><p id='7' data-category='paragraph' style='font-size:16px'>If you choose HTTPS, you will need<br>to import a root certificate into the<br>browser on your computer or tablet<br>≡ 三三三三 298).</p>\n<p id='8' data-category='paragraph' style='font-size:20px'>13 The camera will display the settings<br>you selected.<br>Press MENU/OK.</p>\n<p id='9' data-category='paragraph' style='font-size:18px'>You will need this information when<br>connecting to the camera from a com-<br>puter or tablet.</p>\n<br><figure id='10'><img style='font-size:16px' alt=\"USER NAME\n1 23456\nSET DEL A>a\na b c d e f g h [ I\nk  m n O p q r S t\nu V w X y Z ■\n·\n0 1 2 3 4 5 6 7 8 9\nOK ENTER BACK CANCEL\" data-coord=\"top-left:(1710,902); bottom-right:(2457,1478)\" /></figure>\n<figure id='11'><img style='font-size:14px' alt=\"PASSWORD\n**** F\nSET DEL A>a\na b C d e f g h  ]\nk  m n o p q r S t\nu V w X y Z ■\n■\n0 1 2 3 4 5 6 7 8 9\nOK ENTER BACK CANCEL\" data-coord=\"top-left:(1712,1517); bottom-right:(2457,2091)\" /></figure>\n<figure id='12' data-category='chart'><img style='font-size:14px' alt=\"SERVER TYPE \nHTTP \nHTTPS \n\" data-coord=\"top-left:(1708,2125); bottom-right:(2461,2701)\" /></figure>\n<figure id='13' data-category='chart'><img style='font-size:14px' alt=\"USER NAME \n123456789012345678 \nPASSWORD \n********************************* \nSERVER TYPE \nHTTPS \n[OK] END EDIT \n\" data-coord=\"top-left:(1718,2741); bottom-right:(2460,3330)\" /></figure>\n<footer id='14' style='font-size:22px'>296</footer>",
+        "markdown": "9 Create a user name and password for\nuse when connecting to the camera\nfrom a computer or tablet.\nPress MENU/OK.\n\nNetwork/USB\nSetting\nMenus\n\n![image](/image/placeholder)\n2 3\nUSER NAME & PASSWORD SETTING\nUSER NAME & PASSWORD IS\nREQUIRED TO ACCESS FROM BROWSER\nOK NEXT BACK BACK\n\n10 Enter a user name.\n\n11 Enter a password.\n\n12 Choose a server type.\n\n8\n\nIf you choose HTTPS, you will need\nto import a root certificate into the\nbrowser on your computer or tablet\n≡ 三三三三 298).\n\n13 The camera will display the settings\nyou selected.\nPress MENU/OK.\n\nYou will need this information when\nconnecting to the camera from a com-\nputer or tablet.\n\n![image](/image/placeholder)\nUSER NAME\n1 23456\nSET DEL A>a\na b c d e f g h [ I\nk  m n O p q r S t\nu V w X y Z ■\n·\n0 1 2 3 4 5 6 7 8 9\nOK ENTER BACK CANCEL\n\n![image](/image/placeholder)\nPASSWORD\n**** F\nSET DEL A>a\na b C d e f g h  ]\nk  m n o p q r S t\nu V w X y Z ■\n■\n0 1 2 3 4 5 6 7 8 9\nOK ENTER BACK CANCEL\n\n![image](/image/placeholder)\nSERVER TYPE \nHTTP \nHTTPS \n\n\n![image](/image/placeholder)\nUSER NAME \n123456789012345678 \nPASSWORD \n********************************* \nSERVER TYPE \nHTTPS \n[OK] END EDIT \n\n\n296",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='0' data-category='paragraph' style='font-size:18px'>9 Create a user name and password for<br>use when connecting to the camera<br>from a computer or tablet.<br>Press MENU/OK.</p>",
+                "markdown": "9 Create a user name and password for\nuse when connecting to the camera\nfrom a computer or tablet.\nPress MENU/OK.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0968,
+                    "y": 0.0733
+                },
+                {
+                    "x": 0.6036,
+                    "y": 0.0733
+                },
+                {
+                    "x": 0.6036,
+                    "y": 0.1732
+                },
+                {
+                    "x": 0.0968,
+                    "y": 0.1732
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='1' style='font-size:22px'>Network/USB<br>Setting<br>Menus</header>",
+                "markdown": "Network/USB\nSetting\nMenus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.017,
+                    "y": 0.4285
+                },
+                {
+                    "x": 0.0419,
+                    "y": 0.4285
+                },
+                {
+                    "x": 0.0419,
+                    "y": 0.6406
+                },
+                {
+                    "x": 0.017,
+                    "y": 0.6406
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "figure",
+            "content": {
+                "html": "<br><figure id='2'><img style='font-size:14px' alt=\"2 3\nUSER NAME & PASSWORD SETTING\nUSER NAME & PASSWORD IS\nREQUIRED TO ACCESS FROM BROWSER\nOK NEXT BACK BACK\" data-coord=\"top-left:(1697,278); bottom-right:(2457,862)\" /></figure>",
+                "markdown": "![image](/image/placeholder)\n2 3\nUSER NAME & PASSWORD SETTING\nUSER NAME & PASSWORD IS\nREQUIRED TO ACCESS FROM BROWSER\nOK NEXT BACK BACK",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6141,
+                    "y": 0.0714
+                },
+                {
+                    "x": 0.889,
+                    "y": 0.0714
+                },
+                {
+                    "x": 0.889,
+                    "y": 0.2212
+                },
+                {
+                    "x": 0.6141,
+                    "y": 0.2212
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='3' data-category='paragraph' style='font-size:18px'>10 Enter a user name.</p>",
+                "markdown": "10 Enter a user name.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0806,
+                    "y": 0.2313
+                },
+                {
+                    "x": 0.3686,
+                    "y": 0.2313
+                },
+                {
+                    "x": 0.3686,
+                    "y": 0.2553
+                },
+                {
+                    "x": 0.0806,
+                    "y": 0.2553
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='4' data-category='paragraph' style='font-size:20px'>11 Enter a password.</p>",
+                "markdown": "11 Enter a password.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0806,
+                    "y": 0.3905
+                },
+                {
+                    "x": 0.3565,
+                    "y": 0.3905
+                },
+                {
+                    "x": 0.3565,
+                    "y": 0.4127
+                },
+                {
+                    "x": 0.0806,
+                    "y": 0.4127
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='5' data-category='paragraph' style='font-size:20px'>12 Choose a server type.</p>",
+                "markdown": "12 Choose a server type.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0841,
+                    "y": 0.5466
+                },
+                {
+                    "x": 0.4056,
+                    "y": 0.5466
+                },
+                {
+                    "x": 0.4056,
+                    "y": 0.5723
+                },
+                {
+                    "x": 0.0841,
+                    "y": 0.5723
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='6' style='font-size:16px'>8</header>",
+                "markdown": "8",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0253,
+                    "y": 0.6571
+                },
+                {
+                    "x": 0.0442,
+                    "y": 0.6571
+                },
+                {
+                    "x": 0.0442,
+                    "y": 0.6778
+                },
+                {
+                    "x": 0.0253,
+                    "y": 0.6778
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='7' data-category='paragraph' style='font-size:16px'>If you choose HTTPS, you will need<br>to import a root certificate into the<br>browser on your computer or tablet<br>≡ 三三三三 298).</p>",
+                "markdown": "If you choose HTTPS, you will need\nto import a root certificate into the\nbrowser on your computer or tablet\n≡ 三三三三 298).",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1674,
+                    "y": 0.5849
+                },
+                {
+                    "x": 0.5966,
+                    "y": 0.5849
+                },
+                {
+                    "x": 0.5966,
+                    "y": 0.6756
+                },
+                {
+                    "x": 0.1674,
+                    "y": 0.6756
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='8' data-category='paragraph' style='font-size:20px'>13 The camera will display the settings<br>you selected.<br>Press MENU/OK.</p>",
+                "markdown": "13 The camera will display the settings\nyou selected.\nPress MENU/OK.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0879,
+                    "y": 0.7047
+                },
+                {
+                    "x": 0.6024,
+                    "y": 0.7047
+                },
+                {
+                    "x": 0.6024,
+                    "y": 0.7799
+                },
+                {
+                    "x": 0.0879,
+                    "y": 0.7799
+                }
+            ],
+            "id": 8,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='9' data-category='paragraph' style='font-size:18px'>You will need this information when<br>connecting to the camera from a com-<br>puter or tablet.</p>",
+                "markdown": "You will need this information when\nconnecting to the camera from a com-\nputer or tablet.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.169,
+                    "y": 0.7957
+                },
+                {
+                    "x": 0.5969,
+                    "y": 0.7957
+                },
+                {
+                    "x": 0.5969,
+                    "y": 0.8624
+                },
+                {
+                    "x": 0.169,
+                    "y": 0.8624
+                }
+            ],
+            "id": 9,
+            "page": 1
+        },
+        {
+            "category": "figure",
+            "content": {
+                "html": "<br><figure id='10'><img style='font-size:16px' alt=\"USER NAME\n1 23456\nSET DEL A>a\na b c d e f g h [ I\nk  m n O p q r S t\nu V w X y Z ■\n·\n0 1 2 3 4 5 6 7 8 9\nOK ENTER BACK CANCEL\" data-coord=\"top-left:(1710,902); bottom-right:(2457,1478)\" /></figure>",
+                "markdown": "![image](/image/placeholder)\nUSER NAME\n1 23456\nSET DEL A>a\na b c d e f g h [ I\nk  m n O p q r S t\nu V w X y Z ■\n·\n0 1 2 3 4 5 6 7 8 9\nOK ENTER BACK CANCEL",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.619,
+                    "y": 0.2315
+                },
+                {
+                    "x": 0.889,
+                    "y": 0.2315
+                },
+                {
+                    "x": 0.889,
+                    "y": 0.3794
+                },
+                {
+                    "x": 0.619,
+                    "y": 0.3794
+                }
+            ],
+            "id": 10,
+            "page": 1
+        },
+        {
+            "category": "figure",
+            "content": {
+                "html": "<figure id='11'><img style='font-size:14px' alt=\"PASSWORD\n**** F\nSET DEL A>a\na b C d e f g h  ]\nk  m n o p q r S t\nu V w X y Z ■\n■\n0 1 2 3 4 5 6 7 8 9\nOK ENTER BACK CANCEL\" data-coord=\"top-left:(1712,1517); bottom-right:(2457,2091)\" /></figure>",
+                "markdown": "![image](/image/placeholder)\nPASSWORD\n**** F\nSET DEL A>a\na b C d e f g h  ]\nk  m n o p q r S t\nu V w X y Z ■\n■\n0 1 2 3 4 5 6 7 8 9\nOK ENTER BACK CANCEL",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6196,
+                    "y": 0.3892
+                },
+                {
+                    "x": 0.8892,
+                    "y": 0.3892
+                },
+                {
+                    "x": 0.8892,
+                    "y": 0.5367
+                },
+                {
+                    "x": 0.6196,
+                    "y": 0.5367
+                }
+            ],
+            "id": 11,
+            "page": 1
+        },
+        {
+            "category": "figure",
+            "content": {
+                "html": "<figure id='12' data-category='chart'><img style='font-size:14px' alt=\"SERVER TYPE \nHTTP \nHTTPS \n\" data-coord=\"top-left:(1708,2125); bottom-right:(2461,2701)\" /></figure>",
+                "markdown": "![image](/image/placeholder)\nSERVER TYPE \nHTTP \nHTTPS \n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.618,
+                    "y": 0.5452
+                },
+                {
+                    "x": 0.8907,
+                    "y": 0.5452
+                },
+                {
+                    "x": 0.8907,
+                    "y": 0.6931
+                },
+                {
+                    "x": 0.618,
+                    "y": 0.6931
+                }
+            ],
+            "id": 12,
+            "page": 1
+        },
+        {
+            "category": "figure",
+            "content": {
+                "html": "<figure id='13' data-category='chart'><img style='font-size:14px' alt=\"USER NAME \n123456789012345678 \nPASSWORD \n********************************* \nSERVER TYPE \nHTTPS \n[OK] END EDIT \n\" data-coord=\"top-left:(1718,2741); bottom-right:(2460,3330)\" /></figure>",
+                "markdown": "![image](/image/placeholder)\nUSER NAME \n123456789012345678 \nPASSWORD \n********************************* \nSERVER TYPE \nHTTPS \n[OK] END EDIT \n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6216,
+                    "y": 0.7034
+                },
+                {
+                    "x": 0.8902,
+                    "y": 0.7034
+                },
+                {
+                    "x": 0.8902,
+                    "y": 0.8545
+                },
+                {
+                    "x": 0.6216,
+                    "y": 0.8545
+                }
+            ],
+            "id": 13,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='14' style='font-size:22px'>296</footer>",
+                "markdown": "296",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0827,
+                    "y": 0.9563
+                },
+                {
+                    "x": 0.1404,
+                    "y": 0.9563
+                },
+                {
+                    "x": 0.1404,
+                    "y": 0.98
+                },
+                {
+                    "x": 0.0827,
+                    "y": 0.98
+                }
+            ],
+            "id": 14,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

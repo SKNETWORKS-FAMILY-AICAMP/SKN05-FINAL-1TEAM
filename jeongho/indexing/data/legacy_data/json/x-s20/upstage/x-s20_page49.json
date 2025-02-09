@@ -1,0 +1,70 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<p id='0' data-category='paragraph' style='font-size:18px'>Basic Photography and<br>Playback</p>\n<footer id='1' style='font-size:14px'>47</footer>",
+        "markdown": "Basic Photography and\nPlayback\n\n47",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='0' data-category='paragraph' style='font-size:18px'>Basic Photography and<br>Playback</p>",
+                "markdown": "Basic Photography and\nPlayback",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.2501,
+                    "y": 0.315
+                },
+                {
+                    "x": 0.803,
+                    "y": 0.315
+                },
+                {
+                    "x": 0.803,
+                    "y": 0.4024
+                },
+                {
+                    "x": 0.2501,
+                    "y": 0.4024
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='1' style='font-size:14px'>47</footer>",
+                "markdown": "47",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.8782,
+                    "y": 0.9571
+                },
+                {
+                    "x": 0.9169,
+                    "y": 0.9571
+                },
+                {
+                    "x": 0.9169,
+                    "y": 0.9786
+                },
+                {
+                    "x": 0.8782,
+                    "y": 0.9786
+                }
+            ],
+            "id": 1,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

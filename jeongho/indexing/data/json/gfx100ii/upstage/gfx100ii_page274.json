@@ -1,0 +1,322 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:22px'>Network/USB<br>Setting<br>Menus</header>\n<br><h1 id='1' style='font-size:18px'>● Select GATEWAY ADDRESS and en-<br>ter a gateway address.</h1>\n<p id='2' data-category='paragraph' style='font-size:18px'>● Select DNS SERVER ADDRESS and<br>enter a DNS server address.</p>\n<br><figure id='3'><img style='font-size:16px' alt=\"GATEWAY ADDRESS\n1\nSET → DEL\n1 2 3\n4 5 6\n7 8 9\n0\nOK ENTER BACK CANCEL\" data-coord=\"top-left:(1701,281); bottom-right:(2462,852)\" /></figure>\n<figure id='4'><img style='font-size:16px' alt=\"DNS SERVER ADDRESS\n1\nSET ← → DEL\n1 2 3\n4 5 6\n7 8 9\n0\n[OK] ENTER BACK CANCEL\" data-coord=\"top-left:(1694,904); bottom-right:(2456,1471)\" /></figure>\n\n<br><p id='6' data-category='paragraph' style='font-size:18px'>The status of the connection to Frame.io is<br>shown by an icon in the electronic viewfinder<br>or LCD monitor.</p>\n<br><p id='7' data-category='paragraph' style='font-size:14px'>)+ frame.io</p>\n<p id='8' data-category='paragraph' style='font-size:14px'>)) . frame.io</p>\n<table id='9' style='font-size:18px'><tr><td>#con</td><td>Connection status</td></tr><tr><td>frame.io (white)</td><td>Connected to Frame.io.</td></tr><tr><td>frame.io (amber)</td><td>Camera has temporarily suspended upload to Frame.io. To resume, select Frame.io Camera to Cloud > UPLOAD SETTING > TRANSFER/ SUSPEND > TRANSFER.</td></tr><tr><td>frame.io (gray)</td><td>Not connected to Frame.io.</td></tr><tr><td>frame.io (red)</td><td>Frame.io server has set camera status to \"paused\". To restore connection, clear\"paused\" status using computer or other device.</td></tr><br><caption id='5' style='font-size:18px'>Connection Status</caption></table>\n<footer id='10' style='font-size:20px'>274</footer>",
+        "markdown": "Network/USB\nSetting\nMenus\n\n# ● Select GATEWAY ADDRESS and en-\nter a gateway address.\n\n● Select DNS SERVER ADDRESS and\nenter a DNS server address.\n\n![image](/image/placeholder)\nGATEWAY ADDRESS\n1\nSET → DEL\n1 2 3\n4 5 6\n7 8 9\n0\nOK ENTER BACK CANCEL\n\n![image](/image/placeholder)\nDNS SERVER ADDRESS\n1\nSET ← → DEL\n1 2 3\n4 5 6\n7 8 9\n0\n[OK] ENTER BACK CANCEL\n\nConnection Status\n\nThe status of the connection to Frame.io is\nshown by an icon in the electronic viewfinder\nor LCD monitor.\n\n)+ frame.io\n\n)) . frame.io\n\n| #con | Connection status |\n| --- | --- |\n| frame.io (white) | Connected to Frame.io. |\n| frame.io (amber) | Camera has temporarily suspended upload to Frame.io. To resume, select Frame.io Camera to Cloud > UPLOAD SETTING > TRANSFER/ SUSPEND > TRANSFER. |\n| frame.io (gray) | Not connected to Frame.io. |\n| frame.io (red) | Frame.io server has set camera status to \"paused\". To restore connection, clear\"paused\" status using computer or other device. |\n\n\n274",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:22px'>Network/USB<br>Setting<br>Menus</header>",
+                "markdown": "Network/USB\nSetting\nMenus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0175,
+                    "y": 0.4289
+                },
+                {
+                    "x": 0.0413,
+                    "y": 0.4289
+                },
+                {
+                    "x": 0.0413,
+                    "y": 0.637
+                },
+                {
+                    "x": 0.0175,
+                    "y": 0.637
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='1' style='font-size:18px'>● Select GATEWAY ADDRESS and en-<br>ter a gateway address.</h1>",
+                "markdown": "# ● Select GATEWAY ADDRESS and en-\nter a gateway address.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1324,
+                    "y": 0.0727
+                },
+                {
+                    "x": 0.6004,
+                    "y": 0.0727
+                },
+                {
+                    "x": 0.6004,
+                    "y": 0.1226
+                },
+                {
+                    "x": 0.1324,
+                    "y": 0.1226
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='2' data-category='paragraph' style='font-size:18px'>● Select DNS SERVER ADDRESS and<br>enter a DNS server address.</p>",
+                "markdown": "● Select DNS SERVER ADDRESS and\nenter a DNS server address.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1322,
+                    "y": 0.2317
+                },
+                {
+                    "x": 0.6006,
+                    "y": 0.2317
+                },
+                {
+                    "x": 0.6006,
+                    "y": 0.2799
+                },
+                {
+                    "x": 0.1322,
+                    "y": 0.2799
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "figure",
+            "content": {
+                "html": "<br><figure id='3'><img style='font-size:16px' alt=\"GATEWAY ADDRESS\n1\nSET → DEL\n1 2 3\n4 5 6\n7 8 9\n0\nOK ENTER BACK CANCEL\" data-coord=\"top-left:(1701,281); bottom-right:(2462,852)\" /></figure>",
+                "markdown": "![image](/image/placeholder)\nGATEWAY ADDRESS\n1\nSET → DEL\n1 2 3\n4 5 6\n7 8 9\n0\nOK ENTER BACK CANCEL",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6154,
+                    "y": 0.0723
+                },
+                {
+                    "x": 0.8911,
+                    "y": 0.0723
+                },
+                {
+                    "x": 0.8911,
+                    "y": 0.2188
+                },
+                {
+                    "x": 0.6154,
+                    "y": 0.2188
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "figure",
+            "content": {
+                "html": "<figure id='4'><img style='font-size:16px' alt=\"DNS SERVER ADDRESS\n1\nSET ← → DEL\n1 2 3\n4 5 6\n7 8 9\n0\n[OK] ENTER BACK CANCEL\" data-coord=\"top-left:(1694,904); bottom-right:(2456,1471)\" /></figure>",
+                "markdown": "![image](/image/placeholder)\nDNS SERVER ADDRESS\n1\nSET ← → DEL\n1 2 3\n4 5 6\n7 8 9\n0\n[OK] ENTER BACK CANCEL",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6131,
+                    "y": 0.2321
+                },
+                {
+                    "x": 0.8886,
+                    "y": 0.2321
+                },
+                {
+                    "x": 0.8886,
+                    "y": 0.3776
+                },
+                {
+                    "x": 0.6131,
+                    "y": 0.3776
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='5' data-category='paragraph' style='font-size:18px'>Connection Status</p>",
+                "markdown": "Connection Status",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0879,
+                    "y": 0.3847
+                },
+                {
+                    "x": 0.27,
+                    "y": 0.3847
+                },
+                {
+                    "x": 0.27,
+                    "y": 0.4039
+                },
+                {
+                    "x": 0.0879,
+                    "y": 0.4039
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='6' data-category='paragraph' style='font-size:18px'>The status of the connection to Frame.io is<br>shown by an icon in the electronic viewfinder<br>or LCD monitor.</p>",
+                "markdown": "The status of the connection to Frame.io is\nshown by an icon in the electronic viewfinder\nor LCD monitor.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0819,
+                    "y": 0.4068
+                },
+                {
+                    "x": 0.6034,
+                    "y": 0.4068
+                },
+                {
+                    "x": 0.6034,
+                    "y": 0.4739
+                },
+                {
+                    "x": 0.0819,
+                    "y": 0.4739
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='7' data-category='paragraph' style='font-size:14px'>)+ frame.io</p>",
+                "markdown": ")+ frame.io",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6195,
+                    "y": 0.4598
+                },
+                {
+                    "x": 0.6498,
+                    "y": 0.4598
+                },
+                {
+                    "x": 0.6498,
+                    "y": 0.4645
+                },
+                {
+                    "x": 0.6195,
+                    "y": 0.4645
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='8' data-category='paragraph' style='font-size:14px'>)) . frame.io</p>",
+                "markdown": ")) . frame.io",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6494,
+                    "y": 0.4985
+                },
+                {
+                    "x": 0.6993,
+                    "y": 0.4985
+                },
+                {
+                    "x": 0.6993,
+                    "y": 0.507
+                },
+                {
+                    "x": 0.6494,
+                    "y": 0.507
+                }
+            ],
+            "id": 8,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='9' style='font-size:18px'><tr><td>#con</td><td>Connection status</td></tr><tr><td>frame.io (white)</td><td>Connected to Frame.io.</td></tr><tr><td>frame.io (amber)</td><td>Camera has temporarily suspended upload to Frame.io. To resume, select Frame.io Camera to Cloud > UPLOAD SETTING > TRANSFER/ SUSPEND > TRANSFER.</td></tr><tr><td>frame.io (gray)</td><td>Not connected to Frame.io.</td></tr><tr><td>frame.io (red)</td><td>Frame.io server has set camera status to \"paused\". To restore connection, clear\"paused\" status using computer or other device.</td></tr></table>",
+                "markdown": "| #con | Connection status |\n| --- | --- |\n| frame.io (white) | Connected to Frame.io. |\n| frame.io (amber) | Camera has temporarily suspended upload to Frame.io. To resume, select Frame.io Camera to Cloud > UPLOAD SETTING > TRANSFER/ SUSPEND > TRANSFER. |\n| frame.io (gray) | Not connected to Frame.io. |\n| frame.io (red) | Frame.io server has set camera status to \"paused\". To restore connection, clear\"paused\" status using computer or other device. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0905,
+                    "y": 0.5699
+                },
+                {
+                    "x": 0.8939,
+                    "y": 0.5699
+                },
+                {
+                    "x": 0.8939,
+                    "y": 0.8931
+                },
+                {
+                    "x": 0.0905,
+                    "y": 0.8931
+                }
+            ],
+            "id": 9,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='10' style='font-size:20px'>274</footer>",
+                "markdown": "274",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0817,
+                    "y": 0.956
+                },
+                {
+                    "x": 0.1408,
+                    "y": 0.956
+                },
+                {
+                    "x": 0.1408,
+                    "y": 0.979
+                },
+                {
+                    "x": 0.0817,
+                    "y": 0.979
+                }
+            ],
+            "id": 10,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

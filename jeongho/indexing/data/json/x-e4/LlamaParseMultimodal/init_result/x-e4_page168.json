@@ -1,0 +1,121 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "# INTERVAL TIMER SHOOTING EXPOSURE SMOOTHING\n\nSelect **ON** to automatically adjust exposure during interval-timer photography to prevent it changing dramatically between shots.\n\n| Options |   |\n|---------|---|\n| ON      |   |\n| OFF     |   |\n\n> - Large changes in subject brightness may make exposure appear erratic. We recommend that you choose shorter values for **INTERVAL TIMER SHOOTING > INTERVAL** with subjects that brighten or dim dramatically during shooting.\n> - In manual mode (mode **M**), exposure smoothing is only available if an AUTO option is selected for sensitivity.\n\n# AE BKT SETTING\n\nAdjust exposure bracketing settings.\n\n| Option                | Description                                                                                                                                 |\n|-----------------------|---------------------------------------------------------------------------------------------------------------------------------------------|\n| FRAMES/STEP SETTING   | Choose the number of shots in the bracketing sequence and the amount exposure is varied with each shot.                                      |\n|                       | - **FRAMES**: Choose the number of shots in the bracketing sequence.                                                                        |\n|                       | - **STEP**: Choose the amount exposure is varied with each shot.                                                                            |\n| 1 FRAME/CONTINUOUS    | - **1 FRAME**: The shots in the bracketing sequence are taken one at a time.                                                                |\n|                       | - **CONTINUOUS**: The shots in the bracketing sequence are taken in a single burst.                                                         |\n| SEQUENCE SETTING      | Choose the order in which the shots are taken.                                                                                              |",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "INTERVAL TIMER SHOOTING EXPOSURE SMOOTHING",
+                    "md": "# INTERVAL TIMER SHOOTING EXPOSURE SMOOTHING"
+                },
+                {
+                    "type": "text",
+                    "value": "Select **ON** to automatically adjust exposure during interval-timer photography to prevent it changing dramatically between shots.",
+                    "md": "Select **ON** to automatically adjust exposure during interval-timer photography to prevent it changing dramatically between shots."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Options",
+                            ""
+                        ],
+                        [
+                            "ON",
+                            ""
+                        ],
+                        [
+                            "OFF",
+                            ""
+                        ]
+                    ],
+                    "md": "| Options |   |\n|---------|---|\n| ON      |   |\n| OFF     |   |",
+                    "isPerfectTable": true,
+                    "csv": "\"Options\",\"\"\n\"ON\",\"\"\n\"OFF\",\"\""
+                },
+                {
+                    "type": "text",
+                    "value": "> - Large changes in subject brightness may make exposure appear erratic. We recommend that you choose shorter values for **INTERVAL TIMER SHOOTING > INTERVAL** with subjects that brighten or dim dramatically during shooting.\n> - In manual mode (mode **M**), exposure smoothing is only available if an AUTO option is selected for sensitivity.",
+                    "md": "> - Large changes in subject brightness may make exposure appear erratic. We recommend that you choose shorter values for **INTERVAL TIMER SHOOTING > INTERVAL** with subjects that brighten or dim dramatically during shooting.\n> - In manual mode (mode **M**), exposure smoothing is only available if an AUTO option is selected for sensitivity."
+                },
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "AE BKT SETTING",
+                    "md": "# AE BKT SETTING"
+                },
+                {
+                    "type": "text",
+                    "value": "Adjust exposure bracketing settings.",
+                    "md": "Adjust exposure bracketing settings."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Option",
+                            "Description"
+                        ],
+                        [
+                            "FRAMES/STEP SETTING",
+                            "Choose the number of shots in the bracketing sequence and the amount exposure is varied with each shot."
+                        ],
+                        [
+                            "",
+                            "- **FRAMES**: Choose the number of shots in the bracketing sequence."
+                        ],
+                        [
+                            "",
+                            "- **STEP**: Choose the amount exposure is varied with each shot."
+                        ],
+                        [
+                            "1 FRAME/CONTINUOUS",
+                            "- **1 FRAME**: The shots in the bracketing sequence are taken one at a time."
+                        ],
+                        [
+                            "",
+                            "- **CONTINUOUS**: The shots in the bracketing sequence are taken in a single burst."
+                        ],
+                        [
+                            "SEQUENCE SETTING",
+                            "Choose the order in which the shots are taken."
+                        ]
+                    ],
+                    "md": "| Option                | Description                                                                                                                                 |\n|-----------------------|---------------------------------------------------------------------------------------------------------------------------------------------|\n| FRAMES/STEP SETTING   | Choose the number of shots in the bracketing sequence and the amount exposure is varied with each shot.                                      |\n|                       | - **FRAMES**: Choose the number of shots in the bracketing sequence.                                                                        |\n|                       | - **STEP**: Choose the amount exposure is varied with each shot.                                                                            |\n| 1 FRAME/CONTINUOUS    | - **1 FRAME**: The shots in the bracketing sequence are taken one at a time.                                                                |\n|                       | - **CONTINUOUS**: The shots in the bracketing sequence are taken in a single burst.                                                         |\n| SEQUENCE SETTING      | Choose the order in which the shots are taken.                                                                                              |",
+                    "isPerfectTable": true,
+                    "csv": "\"Option\",\"Description\"\n\"FRAMES/STEP SETTING\",\"Choose the number of shots in the bracketing sequence and the amount exposure is varied with each shot.\"\n\"\",\"- **FRAMES**: Choose the number of shots in the bracketing sequence.\"\n\"\",\"- **STEP**: Choose the amount exposure is varied with each shot.\"\n\"1 FRAME/CONTINUOUS\",\"- **1 FRAME**: The shots in the bracketing sequence are taken one at a time.\"\n\"\",\"- **CONTINUOUS**: The shots in the bracketing sequence are taken in a single burst.\"\n\"SEQUENCE SETTING\",\"Choose the order in which the shots are taken.\""
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "parsingMode": "multimodal-openai-gpt4o",
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 112.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "f03b6147-2438-4c40-8df3-a07c8349e7d9",
+    "file_path": "../data/raw_data/x-e4/x-e4_split/x-e4_page168.pdf"
+}

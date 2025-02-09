@@ -1,0 +1,210 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:14px'>Charging the Battery</header>\n<h1 id='1' style='font-size:18px'>Charge Status</h1>\n<br><h1 id='2' style='font-size:16px'>The indicator lamp shows battery charge status<br>as follows:</h1>\n<br><table id='3' style='font-size:18px'><tr><td>Indicator lamp</td><td>Battery status</td><td></td></tr><tr><td>On</td><td>Battery charging</td><td rowspan=\"3\"></td></tr><tr><td>Off</td><td>Charging complete</td></tr><tr><td>Blinks</td><td>Charging error</td></tr></table>\n<footer id='4' style='font-size:14px'>2</footer>\n<br><footer id='5' style='font-size:22px'>First<br>Steps</footer>\n<footer id='6' style='font-size:20px'>51</footer>",
+        "markdown": "Charging the Battery\n\n# Charge Status\n\n# The indicator lamp shows battery charge status\nas follows:\n\n| Indicator lamp | Battery status |  |\n| --- | --- | --- |\n| On | Battery charging |  |\n| Off | Charging complete |  |\n| Blinks | Charging error |  |\n\n\n2\n\nFirst\nSteps\n\n51",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:14px'>Charging the Battery</header>",
+                "markdown": "Charging the Battery",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.7108,
+                    "y": 0.0295
+                },
+                {
+                    "x": 0.9181,
+                    "y": 0.0295
+                },
+                {
+                    "x": 0.9181,
+                    "y": 0.051
+                },
+                {
+                    "x": 0.7108,
+                    "y": 0.051
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='1' style='font-size:18px'>Charge Status</h1>",
+                "markdown": "# Charge Status",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1123,
+                    "y": 0.073
+                },
+                {
+                    "x": 0.2543,
+                    "y": 0.073
+                },
+                {
+                    "x": 0.2543,
+                    "y": 0.0928
+                },
+                {
+                    "x": 0.1123,
+                    "y": 0.0928
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='2' style='font-size:16px'>The indicator lamp shows battery charge status<br>as follows:</h1>",
+                "markdown": "# The indicator lamp shows battery charge status\nas follows:",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1068,
+                    "y": 0.0955
+                },
+                {
+                    "x": 0.6266,
+                    "y": 0.0955
+                },
+                {
+                    "x": 0.6266,
+                    "y": 0.1381
+                },
+                {
+                    "x": 0.1068,
+                    "y": 0.1381
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='3' style='font-size:18px'><tr><td>Indicator lamp</td><td>Battery status</td><td></td></tr><tr><td>On</td><td>Battery charging</td><td rowspan=\"3\"></td></tr><tr><td>Off</td><td>Charging complete</td></tr><tr><td>Blinks</td><td>Charging error</td></tr></table>",
+                "markdown": "| Indicator lamp | Battery status |  |\n| --- | --- | --- |\n| On | Battery charging |  |\n| Off | Charging complete |  |\n| Blinks | Charging error |  |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1046,
+                    "y": 0.1101
+                },
+                {
+                    "x": 0.909,
+                    "y": 0.1101
+                },
+                {
+                    "x": 0.909,
+                    "y": 0.2458
+                },
+                {
+                    "x": 0.1046,
+                    "y": 0.2458
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='4' style='font-size:14px'>2</footer>",
+                "markdown": "2",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9577,
+                    "y": 0.2973
+                },
+                {
+                    "x": 0.9753,
+                    "y": 0.2973
+                },
+                {
+                    "x": 0.9753,
+                    "y": 0.317
+                },
+                {
+                    "x": 0.9577,
+                    "y": 0.317
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<br><footer id='5' style='font-size:22px'>First<br>Steps</footer>",
+                "markdown": "First\nSteps",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.957,
+                    "y": 0.3397
+                },
+                {
+                    "x": 0.9809,
+                    "y": 0.3397
+                },
+                {
+                    "x": 0.9809,
+                    "y": 0.4154
+                },
+                {
+                    "x": 0.957,
+                    "y": 0.4154
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='6' style='font-size:20px'>51</footer>",
+                "markdown": "51",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.8772,
+                    "y": 0.9571
+                },
+                {
+                    "x": 0.9147,
+                    "y": 0.9571
+                },
+                {
+                    "x": 0.9147,
+                    "y": 0.9796
+                },
+                {
+                    "x": 0.8772,
+                    "y": 0.9796
+                }
+            ],
+            "id": 6,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

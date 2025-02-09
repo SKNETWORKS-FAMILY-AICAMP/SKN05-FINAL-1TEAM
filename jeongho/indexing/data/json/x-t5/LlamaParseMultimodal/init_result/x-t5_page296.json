@@ -1,0 +1,106 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "# Network/USB Setting Menus\n\n## USB Power Supply/Comm Setting\n\nChoose whether USB connections to computers, smartphones, or other devices are used for power delivery or data transfer.\n\n| Option                     | Description                                                                 |\n|----------------------------|-----------------------------------------------------------------------------|\n| **AUTO**                   | The camera switches between power delivery and data transfer automatically. |\n| **POWER SUPPLY ON/COMM OFF** | The camera draws power from the connected device, reducing the drain on the battery. Data transfer is disabled. |\n| **POWER SUPPLY OFF/COMM ON** | The camera can exchange data with, but not draw power from, the connected device. |\n\n> ⚠️ The camera cannot draw power from Lightning connections or from devices that do not supply power. Select **POWER SUPPLY OFF/COMM ON** before connecting the camera to such devices. The connection may not be available for data transfer or the like when **POWER SUPPLY ON/COMM OFF** is selected.\n\n> ⚠️ Regardless of the option selected, the battery will charge while the camera is off.\n\n## Information\n\nView the camera’s MAC, Bluetooth, and wireless network IP addresses.\n\n## Reset Wireless Setting\n\nRestore wireless settings to their default values.",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "Network/USB Setting Menus",
+                    "md": "# Network/USB Setting Menus"
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "USB Power Supply/Comm Setting",
+                    "md": "## USB Power Supply/Comm Setting"
+                },
+                {
+                    "type": "text",
+                    "value": "Choose whether USB connections to computers, smartphones, or other devices are used for power delivery or data transfer.",
+                    "md": "Choose whether USB connections to computers, smartphones, or other devices are used for power delivery or data transfer."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Option",
+                            "Description"
+                        ],
+                        [
+                            "**AUTO**",
+                            "The camera switches between power delivery and data transfer automatically."
+                        ],
+                        [
+                            "**POWER SUPPLY ON/COMM OFF**",
+                            "The camera draws power from the connected device, reducing the drain on the battery. Data transfer is disabled."
+                        ],
+                        [
+                            "**POWER SUPPLY OFF/COMM ON**",
+                            "The camera can exchange data with, but not draw power from, the connected device."
+                        ]
+                    ],
+                    "md": "| Option                     | Description                                                                 |\n|----------------------------|-----------------------------------------------------------------------------|\n| **AUTO**                   | The camera switches between power delivery and data transfer automatically. |\n| **POWER SUPPLY ON/COMM OFF** | The camera draws power from the connected device, reducing the drain on the battery. Data transfer is disabled. |\n| **POWER SUPPLY OFF/COMM ON** | The camera can exchange data with, but not draw power from, the connected device. |",
+                    "isPerfectTable": true,
+                    "csv": "\"Option\",\"Description\"\n\"**AUTO**\",\"The camera switches between power delivery and data transfer automatically.\"\n\"**POWER SUPPLY ON/COMM OFF**\",\"The camera draws power from the connected device, reducing the drain on the battery. Data transfer is disabled.\"\n\"**POWER SUPPLY OFF/COMM ON**\",\"The camera can exchange data with, but not draw power from, the connected device.\""
+                },
+                {
+                    "type": "text",
+                    "value": "> ⚠️ The camera cannot draw power from Lightning connections or from devices that do not supply power. Select **POWER SUPPLY OFF/COMM ON** before connecting the camera to such devices. The connection may not be available for data transfer or the like when **POWER SUPPLY ON/COMM OFF** is selected.\n\n> ⚠️ Regardless of the option selected, the battery will charge while the camera is off.",
+                    "md": "> ⚠️ The camera cannot draw power from Lightning connections or from devices that do not supply power. Select **POWER SUPPLY OFF/COMM ON** before connecting the camera to such devices. The connection may not be available for data transfer or the like when **POWER SUPPLY ON/COMM OFF** is selected.\n\n> ⚠️ Regardless of the option selected, the battery will charge while the camera is off."
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "Information",
+                    "md": "## Information"
+                },
+                {
+                    "type": "text",
+                    "value": "View the camera’s MAC, Bluetooth, and wireless network IP addresses.",
+                    "md": "View the camera’s MAC, Bluetooth, and wireless network IP addresses."
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "Reset Wireless Setting",
+                    "md": "## Reset Wireless Setting"
+                },
+                {
+                    "type": "text",
+                    "value": "Restore wireless settings to their default values.",
+                    "md": "Restore wireless settings to their default values."
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "parsingMode": "multimodal-openai-gpt4o",
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 738.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "80c7ebbc-60c8-43b1-8016-1bc9eb2d91c8",
+    "file_path": "../data/raw_data/x-t5/x-t5_split/x-t5_page296.pdf"
+}

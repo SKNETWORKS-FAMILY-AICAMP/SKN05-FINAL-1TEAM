@@ -1,0 +1,102 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "# GENERAL SETTINGS\n\nAdjust settings for connection to wireless networks.\n\n| Option                        | Description                                                                                                                                         |\n|-------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|\n| **NAME**                      | Choose a name (**NAME**) to identify the camera on the wireless network (the camera is assigned a unique name by default).                          |\n| **RESIZE IMAGE FOR SMARTPHONE** | Choose whether to resize images for upload to smartphones. Resizing applies only to the copy uploaded to the smartphone; the original is not affected. <br> • **ON**: Larger images are resized to 3M for upload. This setting is recommended. <br> • **OFF**: Images are uploaded at their original size. |\n| **GEOTAGGING**                | Choose whether location data downloaded from a smartphone are embedded in pictures as they are taken.                                               |\n| **LOCATION INFO**             | Display the location data last downloaded from a smartphone.                                                                                        |\n| **BUTTON SETTING**            | Choose the role played by function buttons assigned the **WIRELESS COMMUNICATION** function. <br> • **PAIRING/TRANSFER ORDER**: The buttons can be used for pairing and selecting images for transfer. <br> • **WIRELESS COMMUNICATION**: The buttons can be used for wireless connections. |\n\n## INFORMATION\n\nView the camera’s MAC and Bluetooth address.\n\n## RESET WIRELESS SETTING\n\nRestore wireless settings to their default values.",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "GENERAL SETTINGS",
+                    "md": "# GENERAL SETTINGS"
+                },
+                {
+                    "type": "text",
+                    "value": "Adjust settings for connection to wireless networks.",
+                    "md": "Adjust settings for connection to wireless networks."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Option",
+                            "Description"
+                        ],
+                        [
+                            "**NAME**",
+                            "Choose a name (**NAME**) to identify the camera on the wireless network (the camera is assigned a unique name by default)."
+                        ],
+                        [
+                            "**RESIZE IMAGE FOR SMARTPHONE**",
+                            "Choose whether to resize images for upload to smartphones. Resizing applies only to the copy uploaded to the smartphone; the original is not affected. <br> • **ON**: Larger images are resized to 3M for upload. This setting is recommended. <br> • **OFF**: Images are uploaded at their original size."
+                        ],
+                        [
+                            "**GEOTAGGING**",
+                            "Choose whether location data downloaded from a smartphone are embedded in pictures as they are taken."
+                        ],
+                        [
+                            "**LOCATION INFO**",
+                            "Display the location data last downloaded from a smartphone."
+                        ],
+                        [
+                            "**BUTTON SETTING**",
+                            "Choose the role played by function buttons assigned the **WIRELESS COMMUNICATION** function. <br> • **PAIRING/TRANSFER ORDER**: The buttons can be used for pairing and selecting images for transfer. <br> • **WIRELESS COMMUNICATION**: The buttons can be used for wireless connections."
+                        ]
+                    ],
+                    "md": "| Option                        | Description                                                                                                                                         |\n|-------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|\n| **NAME**                      | Choose a name (**NAME**) to identify the camera on the wireless network (the camera is assigned a unique name by default).                          |\n| **RESIZE IMAGE FOR SMARTPHONE** | Choose whether to resize images for upload to smartphones. Resizing applies only to the copy uploaded to the smartphone; the original is not affected. <br> • **ON**: Larger images are resized to 3M for upload. This setting is recommended. <br> • **OFF**: Images are uploaded at their original size. |\n| **GEOTAGGING**                | Choose whether location data downloaded from a smartphone are embedded in pictures as they are taken.                                               |\n| **LOCATION INFO**             | Display the location data last downloaded from a smartphone.                                                                                        |\n| **BUTTON SETTING**            | Choose the role played by function buttons assigned the **WIRELESS COMMUNICATION** function. <br> • **PAIRING/TRANSFER ORDER**: The buttons can be used for pairing and selecting images for transfer. <br> • **WIRELESS COMMUNICATION**: The buttons can be used for wireless connections. |",
+                    "isPerfectTable": true,
+                    "csv": "\"Option\",\"Description\"\n\"**NAME**\",\"Choose a name (**NAME**) to identify the camera on the wireless network (the camera is assigned a unique name by default).\"\n\"**RESIZE IMAGE FOR SMARTPHONE**\",\"Choose whether to resize images for upload to smartphones. Resizing applies only to the copy uploaded to the smartphone; the original is not affected. <br> • **ON**: Larger images are resized to 3M for upload. This setting is recommended. <br> • **OFF**: Images are uploaded at their original size.\"\n\"**GEOTAGGING**\",\"Choose whether location data downloaded from a smartphone are embedded in pictures as they are taken.\"\n\"**LOCATION INFO**\",\"Display the location data last downloaded from a smartphone.\"\n\"**BUTTON SETTING**\",\"Choose the role played by function buttons assigned the **WIRELESS COMMUNICATION** function. <br> • **PAIRING/TRANSFER ORDER**: The buttons can be used for pairing and selecting images for transfer. <br> • **WIRELESS COMMUNICATION**: The buttons can be used for wireless connections.\""
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "INFORMATION",
+                    "md": "## INFORMATION"
+                },
+                {
+                    "type": "text",
+                    "value": "View the camera’s MAC and Bluetooth address.",
+                    "md": "View the camera’s MAC and Bluetooth address."
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "RESET WIRELESS SETTING",
+                    "md": "## RESET WIRELESS SETTING"
+                },
+                {
+                    "type": "text",
+                    "value": "Restore wireless settings to their default values.",
+                    "md": "Restore wireless settings to their default values."
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 567.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "e9f5e797-157c-41df-9d5c-333dd1694ad6",
+    "file_path": "../data/raw_data/x100v/x100v_split/x100v_page261.pdf"
+}

@@ -1,0 +1,266 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:14px'>POWER MANAGEMENT</header>\n<h1 id='1' style='font-size:16px'>EVF/LCD BOOST SETTING</h1>\n\n<table id='3' style='font-size:14px'><tr><td>Option</td><td>Description</td></tr><tr><td>EVF/LCD LOW LIGHT PRIORITY</td><td>Display brightness is adjusted to make subjects in shad- OWS easier to see. Motion blur may cause ghosting.</td></tr><tr><td>EVF/LCD RESOLUTION PRIORITY</td><td>Display resolution is increased to make details easier to see.</td></tr><tr><td>EVF FRAME RATE PRIORITY (100P)</td><td>The refresh rate for the EVF is increased, smoothing mo- tion.</td></tr><tr><td>EVF FRAME RATE PRIORITY (200P EQUIV.)</td><td>The refresh rate for the EVF is increased beyond EVF FRAME RATE PRIORITY (100P) smoothing motion still further. The EVF may darken.</td></tr><br><caption id='2' style='font-size:18px'>Adjust the behavior of the EVF and LCD monitor when BOOST is<br>selected for PERFORMANCE.</caption></table>\n<p id='4' data-category='paragraph' style='font-size:16px'>AUTO POWER OFF TEMP.</p>\n\n<table id='6' style='font-size:16px'><tr><td>Option</td><td>Description</td></tr><tr><td>STANDARD</td><td>The camera turns off automatically when its temperature reaches the STANDARD value.</td></tr><tr><td>HIGH</td><td>Shooting can continue at temperatures higher than the STANDARD value, extending the time available to record movies and the like. Because remaining in contact with the camera at these high temperatures could result in low-temperature burns, this option should only be used after mounting the camera on a tripod or taking other steps to avoid prolonged contact with the camera.</td></tr><br><caption id='5' style='font-size:20px'>If its temperature rises beyond a certain point, the camera will first<br>display a message and then, if the temperature rise continues, auto-<br>matically end shooting and power down. Choose the temperature<br>at which the camera turns off automatically.</caption></table>\n<br><footer id='7' style='font-size:22px'>The<br>Setup<br>Menus<br>9</footer>\n<footer id='8' style='font-size:20px'>307</footer>",
+        "markdown": "POWER MANAGEMENT\n\n# EVF/LCD BOOST SETTING\n\nAdjust the behavior of the EVF and LCD monitor when BOOST is\nselected for PERFORMANCE.\n\n| Option | Description |\n| --- | --- |\n| EVF/LCD LOW LIGHT PRIORITY | Display brightness is adjusted to make subjects in shad- OWS easier to see. Motion blur may cause ghosting. |\n| EVF/LCD RESOLUTION PRIORITY | Display resolution is increased to make details easier to see. |\n| EVF FRAME RATE PRIORITY (100P) | The refresh rate for the EVF is increased, smoothing mo- tion. |\n| EVF FRAME RATE PRIORITY (200P EQUIV.) | The refresh rate for the EVF is increased beyond EVF FRAME RATE PRIORITY (100P) smoothing motion still further. The EVF may darken. |\n\n\nAUTO POWER OFF TEMP.\n\nIf its temperature rises beyond a certain point, the camera will first\ndisplay a message and then, if the temperature rise continues, auto-\nmatically end shooting and power down. Choose the temperature\nat which the camera turns off automatically.\n\n| Option | Description |\n| --- | --- |\n| STANDARD | The camera turns off automatically when its temperature reaches the STANDARD value. |\n| HIGH | Shooting can continue at temperatures higher than the STANDARD value, extending the time available to record movies and the like. Because remaining in contact with the camera at these high temperatures could result in low-temperature burns, this option should only be used after mounting the camera on a tripod or taking other steps to avoid prolonged contact with the camera. |\n\n\nThe\nSetup\nMenus\n9\n\n307",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:14px'>POWER MANAGEMENT</header>",
+                "markdown": "POWER MANAGEMENT",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6881,
+                    "y": 0.0287
+                },
+                {
+                    "x": 0.9178,
+                    "y": 0.0287
+                },
+                {
+                    "x": 0.9178,
+                    "y": 0.049
+                },
+                {
+                    "x": 0.6881,
+                    "y": 0.049
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='1' style='font-size:16px'>EVF/LCD BOOST SETTING</h1>",
+                "markdown": "# EVF/LCD BOOST SETTING",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1085,
+                    "y": 0.0727
+                },
+                {
+                    "x": 0.4536,
+                    "y": 0.0727
+                },
+                {
+                    "x": 0.4536,
+                    "y": 0.0952
+                },
+                {
+                    "x": 0.1085,
+                    "y": 0.0952
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='2' data-category='paragraph' style='font-size:18px'>Adjust the behavior of the EVF and LCD monitor when BOOST is<br>selected for PERFORMANCE.</p>",
+                "markdown": "Adjust the behavior of the EVF and LCD monitor when BOOST is\nselected for PERFORMANCE.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1062,
+                    "y": 0.1038
+                },
+                {
+                    "x": 0.9204,
+                    "y": 0.1038
+                },
+                {
+                    "x": 0.9204,
+                    "y": 0.1533
+                },
+                {
+                    "x": 0.1062,
+                    "y": 0.1533
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='3' style='font-size:14px'><tr><td>Option</td><td>Description</td></tr><tr><td>EVF/LCD LOW LIGHT PRIORITY</td><td>Display brightness is adjusted to make subjects in shad- OWS easier to see. Motion blur may cause ghosting.</td></tr><tr><td>EVF/LCD RESOLUTION PRIORITY</td><td>Display resolution is increased to make details easier to see.</td></tr><tr><td>EVF FRAME RATE PRIORITY (100P)</td><td>The refresh rate for the EVF is increased, smoothing mo- tion.</td></tr><tr><td>EVF FRAME RATE PRIORITY (200P EQUIV.)</td><td>The refresh rate for the EVF is increased beyond EVF FRAME RATE PRIORITY (100P) smoothing motion still further. The EVF may darken.</td></tr></table>",
+                "markdown": "| Option | Description |\n| --- | --- |\n| EVF/LCD LOW LIGHT PRIORITY | Display brightness is adjusted to make subjects in shad- OWS easier to see. Motion blur may cause ghosting. |\n| EVF/LCD RESOLUTION PRIORITY | Display resolution is increased to make details easier to see. |\n| EVF FRAME RATE PRIORITY (100P) | The refresh rate for the EVF is increased, smoothing mo- tion. |\n| EVF FRAME RATE PRIORITY (200P EQUIV.) | The refresh rate for the EVF is increased beyond EVF FRAME RATE PRIORITY (100P) smoothing motion still further. The EVF may darken. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1067,
+                    "y": 0.1676
+                },
+                {
+                    "x": 0.9192,
+                    "y": 0.1676
+                },
+                {
+                    "x": 0.9192,
+                    "y": 0.4118
+                },
+                {
+                    "x": 0.1067,
+                    "y": 0.4118
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='4' data-category='paragraph' style='font-size:16px'>AUTO POWER OFF TEMP.</p>",
+                "markdown": "AUTO POWER OFF TEMP.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1048,
+                    "y": 0.4293
+                },
+                {
+                    "x": 0.4424,
+                    "y": 0.4293
+                },
+                {
+                    "x": 0.4424,
+                    "y": 0.4531
+                },
+                {
+                    "x": 0.1048,
+                    "y": 0.4531
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='5' data-category='paragraph' style='font-size:20px'>If its temperature rises beyond a certain point, the camera will first<br>display a message and then, if the temperature rise continues, auto-<br>matically end shooting and power down. Choose the temperature<br>at which the camera turns off automatically.</p>",
+                "markdown": "If its temperature rises beyond a certain point, the camera will first\ndisplay a message and then, if the temperature rise continues, auto-\nmatically end shooting and power down. Choose the temperature\nat which the camera turns off automatically.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1054,
+                    "y": 0.4613
+                },
+                {
+                    "x": 0.9193,
+                    "y": 0.4613
+                },
+                {
+                    "x": 0.9193,
+                    "y": 0.5621
+                },
+                {
+                    "x": 0.1054,
+                    "y": 0.5621
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='6' style='font-size:16px'><tr><td>Option</td><td>Description</td></tr><tr><td>STANDARD</td><td>The camera turns off automatically when its temperature reaches the STANDARD value.</td></tr><tr><td>HIGH</td><td>Shooting can continue at temperatures higher than the STANDARD value, extending the time available to record movies and the like. Because remaining in contact with the camera at these high temperatures could result in low-temperature burns, this option should only be used after mounting the camera on a tripod or taking other steps to avoid prolonged contact with the camera.</td></tr></table>",
+                "markdown": "| Option | Description |\n| --- | --- |\n| STANDARD | The camera turns off automatically when its temperature reaches the STANDARD value. |\n| HIGH | Shooting can continue at temperatures higher than the STANDARD value, extending the time available to record movies and the like. Because remaining in contact with the camera at these high temperatures could result in low-temperature burns, this option should only be used after mounting the camera on a tripod or taking other steps to avoid prolonged contact with the camera. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1121,
+                    "y": 0.5763
+                },
+                {
+                    "x": 0.9204,
+                    "y": 0.5763
+                },
+                {
+                    "x": 0.9204,
+                    "y": 0.8125
+                },
+                {
+                    "x": 0.1121,
+                    "y": 0.8125
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<br><footer id='7' style='font-size:22px'>The<br>Setup<br>Menus<br>9</footer>",
+                "markdown": "The\nSetup\nMenus\n9",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9553,
+                    "y": 0.5665
+                },
+                {
+                    "x": 0.9885,
+                    "y": 0.5665
+                },
+                {
+                    "x": 0.9885,
+                    "y": 0.74
+                },
+                {
+                    "x": 0.9553,
+                    "y": 0.74
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='8' style='font-size:20px'>307</footer>",
+                "markdown": "307",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.8602,
+                    "y": 0.9562
+                },
+                {
+                    "x": 0.918,
+                    "y": 0.9562
+                },
+                {
+                    "x": 0.918,
+                    "y": 0.9797
+                },
+                {
+                    "x": 0.8602,
+                    "y": 0.9797
+                }
+            ],
+            "id": 8,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

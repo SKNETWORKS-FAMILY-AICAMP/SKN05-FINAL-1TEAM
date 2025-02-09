@@ -1,0 +1,266 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:14px'>Camera Displays</header>\n<h1 id='1' style='font-size:18px'>Virtual Horizon</h1>\n<br><p id='2' data-category='paragraph' style='font-size:18px'>Check whether the camera is level. The display type can be cho-<br>sen using 8 SCREEN SET-UP > ELECTRONIC LEVEL SETTING.<br>Use the virtual horizon to level the camera when mounting it on<br>a tripod or the like.</p>\n<p id='3' data-category='paragraph' style='font-size:14px'>1</p>\n<br><figure id='4'><img style='font-size:16px' alt=\"2D 3D\nPitch Roll\" data-coord=\"top-left:(583,824); bottom-right:(2257,1612)\" /></figure>\n<br><p id='5' data-category='list' style='font-size:18px'>● OFF: The virtual horizon is not displayed.<br>● 2D: A white line shows the amount the camera is tilted<br>left or right. The line turns green when the camera is level.<br>The line may vanish if the camera is tilted forward or back.<br>● 3D: The display shows whether the camera is tilted left or<br>right and forward or back.</p>\n<p id='6' data-category='paragraph' style='font-size:14px'>ELECTRONIC LEVEL SWITCH can be assigned to a function button<br>and the button then used to switch between the 2D and 3D displays.</p>\n<br><footer id='7' style='font-size:22px'>Before<br>You<br>Begin</footer>\n<footer id='8' style='font-size:20px'>27</footer>",
+        "markdown": "Camera Displays\n\n# Virtual Horizon\n\nCheck whether the camera is level. The display type can be cho-\nsen using 8 SCREEN SET-UP > ELECTRONIC LEVEL SETTING.\nUse the virtual horizon to level the camera when mounting it on\na tripod or the like.\n\n1\n\n![image](/image/placeholder)\n2D 3D\nPitch Roll\n\n- ● OFF: The virtual horizon is not displayed.\n- ● 2D: A white line shows the amount the camera is tilted\n- left or right. The line turns green when the camera is level.\n- The line may vanish if the camera is tilted forward or back.\n- ● 3D: The display shows whether the camera is tilted left or\n- right and forward or back.\n\n\nELECTRONIC LEVEL SWITCH can be assigned to a function button\nand the button then used to switch between the 2D and 3D displays.\n\nBefore\nYou\nBegin\n\n27",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:14px'>Camera Displays</header>",
+                "markdown": "Camera Displays",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.7522,
+                    "y": 0.0292
+                },
+                {
+                    "x": 0.9184,
+                    "y": 0.0292
+                },
+                {
+                    "x": 0.9184,
+                    "y": 0.0507
+                },
+                {
+                    "x": 0.7522,
+                    "y": 0.0507
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='1' style='font-size:18px'>Virtual Horizon</h1>",
+                "markdown": "# Virtual Horizon",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.107,
+                    "y": 0.0727
+                },
+                {
+                    "x": 0.3197,
+                    "y": 0.0727
+                },
+                {
+                    "x": 0.3197,
+                    "y": 0.0949
+                },
+                {
+                    "x": 0.107,
+                    "y": 0.0949
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='2' data-category='paragraph' style='font-size:18px'>Check whether the camera is level. The display type can be cho-<br>sen using 8 SCREEN SET-UP > ELECTRONIC LEVEL SETTING.<br>Use the virtual horizon to level the camera when mounting it on<br>a tripod or the like.</p>",
+                "markdown": "Check whether the camera is level. The display type can be cho-\nsen using 8 SCREEN SET-UP > ELECTRONIC LEVEL SETTING.\nUse the virtual horizon to level the camera when mounting it on\na tripod or the like.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1051,
+                    "y": 0.104
+                },
+                {
+                    "x": 0.9197,
+                    "y": 0.104
+                },
+                {
+                    "x": 0.9197,
+                    "y": 0.2048
+                },
+                {
+                    "x": 0.1051,
+                    "y": 0.2048
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='3' data-category='paragraph' style='font-size:14px'>1</p>",
+                "markdown": "1",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9595,
+                    "y": 0.2403
+                },
+                {
+                    "x": 0.9721,
+                    "y": 0.2403
+                },
+                {
+                    "x": 0.9721,
+                    "y": 0.2562
+                },
+                {
+                    "x": 0.9595,
+                    "y": 0.2562
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "figure",
+            "content": {
+                "html": "<br><figure id='4'><img style='font-size:16px' alt=\"2D 3D\nPitch Roll\" data-coord=\"top-left:(583,824); bottom-right:(2257,1612)\" /></figure>",
+                "markdown": "![image](/image/placeholder)\n2D 3D\nPitch Roll",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.2113,
+                    "y": 0.2116
+                },
+                {
+                    "x": 0.8166,
+                    "y": 0.2116
+                },
+                {
+                    "x": 0.8166,
+                    "y": 0.4137
+                },
+                {
+                    "x": 0.2113,
+                    "y": 0.4137
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "list",
+            "content": {
+                "html": "<br><p id='5' data-category='list' style='font-size:18px'>● OFF: The virtual horizon is not displayed.<br>● 2D: A white line shows the amount the camera is tilted<br>left or right. The line turns green when the camera is level.<br>The line may vanish if the camera is tilted forward or back.<br>● 3D: The display shows whether the camera is tilted left or<br>right and forward or back.</p>",
+                "markdown": "- ● OFF: The virtual horizon is not displayed.\n- ● 2D: A white line shows the amount the camera is tilted\n- left or right. The line turns green when the camera is level.\n- The line may vanish if the camera is tilted forward or back.\n- ● 3D: The display shows whether the camera is tilted left or\n- right and forward or back.\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1819,
+                    "y": 0.4202
+                },
+                {
+                    "x": 0.9222,
+                    "y": 0.4202
+                },
+                {
+                    "x": 0.9222,
+                    "y": 0.5713
+                },
+                {
+                    "x": 0.1819,
+                    "y": 0.5713
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='6' data-category='paragraph' style='font-size:14px'>ELECTRONIC LEVEL SWITCH can be assigned to a function button<br>and the button then used to switch between the 2D and 3D displays.</p>",
+                "markdown": "ELECTRONIC LEVEL SWITCH can be assigned to a function button\nand the button then used to switch between the 2D and 3D displays.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1126,
+                    "y": 0.5857
+                },
+                {
+                    "x": 0.9151,
+                    "y": 0.5857
+                },
+                {
+                    "x": 0.9151,
+                    "y": 0.6322
+                },
+                {
+                    "x": 0.1126,
+                    "y": 0.6322
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<br><footer id='7' style='font-size:22px'>Before<br>You<br>Begin</footer>",
+                "markdown": "Before\nYou\nBegin",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9564,
+                    "y": 0.2781
+                },
+                {
+                    "x": 0.9816,
+                    "y": 0.2781
+                },
+                {
+                    "x": 0.9816,
+                    "y": 0.4019
+                },
+                {
+                    "x": 0.9564,
+                    "y": 0.4019
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='8' style='font-size:20px'>27</footer>",
+                "markdown": "27",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.8775,
+                    "y": 0.9563
+                },
+                {
+                    "x": 0.9175,
+                    "y": 0.9563
+                },
+                {
+                    "x": 0.9175,
+                    "y": 0.9797
+                },
+                {
+                    "x": 0.8775,
+                    "y": 0.9797
+                }
+            ],
+            "id": 8,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

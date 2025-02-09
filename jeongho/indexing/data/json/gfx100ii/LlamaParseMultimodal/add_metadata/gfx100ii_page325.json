@@ -1,0 +1,8 @@
+{
+    "parsing_result": "# Network/USB Setting Menus\n\n## IMAGE TRANSFER WHILE POWER OFF\nIf **ON** is selected, upload of files to Frame.io will continue while the camera is off.\n\n| Options |        |\n|---------|--------|\n| ON      | OFF    |\n\n## ROOT CERTIFICATE\nCopy a root certificate to the camera for use with Frame.io.\n\n| Option                  | Description                                      |\n|-------------------------|--------------------------------------------------|\n| LOAD FROM STORAGE MEDIA | Copy the root certificate from the camera memory card. |\n| DELETE                  | Delete the current root certificate.             |\n\n> Frame.io and **FTP OPTIONAL SETTING > ROOT CERTIFICATE** use the same root certificate. Changing one changes the other.\n\n## UPLOAD STATUS\nView Frame.io upload status.\n\n## TRANSFER QUEUE\nView a list of the files awaiting upload.\n\n## RESET TRANSFER ORDER\nRemove upload marking from all files selected for upload to Frame.io.",
+    "embedding_result": [],
+    "metadata": {
+        "page": 325,
+        "model": "gfx100ii"
+    }
+}

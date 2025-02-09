@@ -1,0 +1,136 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "\n# CH HIGH SPEED BURST\n\nSelect the frame rate used when the drive dial is rotated to CH (continuous high speed). The display frame rate when the electronic shutter is used is 40 fps, or 60 fps in 1.29x crop mode.\n\n| Options                  |                                                                 |\n|--------------------------|-----------------------------------------------------------------|\n| 20fps (1.29X CROP) ES¹   | 13fps (1.29X CROP) ES¹                                          |\n| 15fps²                   | 10fps³                                                          |\n| 10fps (1.29X CROP) ES¹   |                                                                 |\n\n¹ Available with electronic shutter only.  \n² 13 fps with electronic shutter.  \n³ 8.9 fps with electronic shutter.\n\n# CL LOW SPEED BURST\n\nSelect the frame rate used when the drive dial is rotated to CL (continuous low speed).\n\n| Options |        |\n|---------|--------|\n| 7.0fps* | 5.0fps |\n| 3.0fps  |        |\n\n* 6.7 fps with electronic shutter.\n\n# HDR MODE\n\nEach time the shutter button is pressed, the camera takes three shots, varying exposure each time, and combines them into a single picture. The resulting photograph preserves details in highlights and shadows (📖 107).\n\n# ADV. FILTER SETTING\n\nChoose the filter used when the drive dial is rotated to ADV. (📖 110).\n",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "CH HIGH SPEED BURST",
+                    "md": "# CH HIGH SPEED BURST"
+                },
+                {
+                    "type": "text",
+                    "value": "Select the frame rate used when the drive dial is rotated to CH (continuous high speed). The display frame rate when the electronic shutter is used is 40 fps, or 60 fps in 1.29x crop mode.",
+                    "md": "Select the frame rate used when the drive dial is rotated to CH (continuous high speed). The display frame rate when the electronic shutter is used is 40 fps, or 60 fps in 1.29x crop mode."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Options",
+                            ""
+                        ],
+                        [
+                            "20fps (1.29X CROP) ES¹",
+                            "13fps (1.29X CROP) ES¹"
+                        ],
+                        [
+                            "15fps²",
+                            "10fps³"
+                        ],
+                        [
+                            "10fps (1.29X CROP) ES¹",
+                            ""
+                        ]
+                    ],
+                    "md": "| Options                  |                                                                 |\n|--------------------------|-----------------------------------------------------------------|\n| 20fps (1.29X CROP) ES¹   | 13fps (1.29X CROP) ES¹                                          |\n| 15fps²                   | 10fps³                                                          |\n| 10fps (1.29X CROP) ES¹   |                                                                 |",
+                    "isPerfectTable": true,
+                    "csv": "\"Options\",\"\"\n\"20fps (1.29X CROP) ES¹\",\"13fps (1.29X CROP) ES¹\"\n\"15fps²\",\"10fps³\"\n\"10fps (1.29X CROP) ES¹\",\"\""
+                },
+                {
+                    "type": "text",
+                    "value": "¹ Available with electronic shutter only.  \n² 13 fps with electronic shutter.  \n³ 8.9 fps with electronic shutter.",
+                    "md": "¹ Available with electronic shutter only.  \n² 13 fps with electronic shutter.  \n³ 8.9 fps with electronic shutter."
+                },
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "CL LOW SPEED BURST",
+                    "md": "# CL LOW SPEED BURST"
+                },
+                {
+                    "type": "text",
+                    "value": "Select the frame rate used when the drive dial is rotated to CL (continuous low speed).",
+                    "md": "Select the frame rate used when the drive dial is rotated to CL (continuous low speed)."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Options",
+                            ""
+                        ],
+                        [
+                            "7.0fps*",
+                            "5.0fps"
+                        ],
+                        [
+                            "3.0fps",
+                            ""
+                        ]
+                    ],
+                    "md": "| Options |        |\n|---------|--------|\n| 7.0fps* | 5.0fps |\n| 3.0fps  |        |",
+                    "isPerfectTable": true,
+                    "csv": "\"Options\",\"\"\n\"7.0fps*\",\"5.0fps\"\n\"3.0fps\",\"\""
+                },
+                {
+                    "type": "text",
+                    "value": "* 6.7 fps with electronic shutter.",
+                    "md": "* 6.7 fps with electronic shutter."
+                },
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "HDR MODE",
+                    "md": "# HDR MODE"
+                },
+                {
+                    "type": "text",
+                    "value": "Each time the shutter button is pressed, the camera takes three shots, varying exposure each time, and combines them into a single picture. The resulting photograph preserves details in highlights and shadows (📖 107).",
+                    "md": "Each time the shutter button is pressed, the camera takes three shots, varying exposure each time, and combines them into a single picture. The resulting photograph preserves details in highlights and shadows (📖 107)."
+                },
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "ADV. FILTER SETTING",
+                    "md": "# ADV. FILTER SETTING"
+                },
+                {
+                    "type": "text",
+                    "value": "Choose the filter used when the drive dial is rotated to ADV. (📖 110).",
+                    "md": "Choose the filter used when the drive dial is rotated to ADV. (📖 110)."
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "parsingMode": "multimodal-openai-gpt4o",
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 742.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "4a306dda-e240-4d74-911f-e8c209dd183f",
+    "file_path": "../data/raw_data/x-t5/x-t5_split/x-t5_page192.pdf"
+}

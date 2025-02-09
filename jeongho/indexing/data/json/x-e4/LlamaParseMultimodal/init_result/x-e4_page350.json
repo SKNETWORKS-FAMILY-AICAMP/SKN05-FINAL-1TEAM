@@ -1,0 +1,86 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "\n| Warning          | Description                                                                                                                                                      |\n|------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| **WRITE ERROR**  | - **Memory card error or connection error:** Reinsert the card or turn the camera off and then on again. If the message persists, contact a Fujifilm dealer.     |\n|                  | - **Not enough memory remaining to record additional pictures:** Delete pictures or insert a memory card with more free space.                                   |\n|                  | - **The memory card is not formatted:** Format the memory card.                                                                                                  |\n|                  | - **The memory card was removed while data were being recorded:** Do not remove the memory card during recording.                                                |\n| **FRAME NO. FULL** | The camera has run out of frame numbers (current frame number is 999-9999). Insert a formatted memory card and select RENEW for **SAVE DATA SET-UP > FRAME NO.** Take a picture to reset frame numbering to 100-0001, then select CONTINUOUS for **FRAME NO.** |\n| **READ ERROR**   | - **The file is corrupt or was not created with the camera:** The file cannot be viewed.                                                                         |\n|                  | - **The memory card contacts require cleaning:** Clean the contacts with a soft, dry cloth. If the message is repeated, format the card. If the message persists, replace the card. |\n|                  | - **Camera malfunction:** Contact a Fujifilm dealer.                                                                                                             |\n| **PROTECTED FRAME** | An attempt was made to delete or rotate a protected picture. Remove protection and try again.                                                                  |\n",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Warning",
+                            "Description"
+                        ],
+                        [
+                            "**WRITE ERROR**",
+                            "- **Memory card error or connection error:** Reinsert the card or turn the camera off and then on again. If the message persists, contact a Fujifilm dealer."
+                        ],
+                        [
+                            "",
+                            "- **Not enough memory remaining to record additional pictures:** Delete pictures or insert a memory card with more free space."
+                        ],
+                        [
+                            "",
+                            "- **The memory card is not formatted:** Format the memory card."
+                        ],
+                        [
+                            "",
+                            "- **The memory card was removed while data were being recorded:** Do not remove the memory card during recording."
+                        ],
+                        [
+                            "**FRAME NO. FULL**",
+                            "The camera has run out of frame numbers (current frame number is 999-9999). Insert a formatted memory card and select RENEW for **SAVE DATA SET-UP > FRAME NO.** Take a picture to reset frame numbering to 100-0001, then select CONTINUOUS for **FRAME NO.**"
+                        ],
+                        [
+                            "**READ ERROR**",
+                            "- **The file is corrupt or was not created with the camera:** The file cannot be viewed."
+                        ],
+                        [
+                            "",
+                            "- **The memory card contacts require cleaning:** Clean the contacts with a soft, dry cloth. If the message is repeated, format the card. If the message persists, replace the card."
+                        ],
+                        [
+                            "",
+                            "- **Camera malfunction:** Contact a Fujifilm dealer."
+                        ],
+                        [
+                            "**PROTECTED FRAME**",
+                            "An attempt was made to delete or rotate a protected picture. Remove protection and try again."
+                        ]
+                    ],
+                    "md": "| Warning          | Description                                                                                                                                                      |\n|------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| **WRITE ERROR**  | - **Memory card error or connection error:** Reinsert the card or turn the camera off and then on again. If the message persists, contact a Fujifilm dealer.     |\n|                  | - **Not enough memory remaining to record additional pictures:** Delete pictures or insert a memory card with more free space.                                   |\n|                  | - **The memory card is not formatted:** Format the memory card.                                                                                                  |\n|                  | - **The memory card was removed while data were being recorded:** Do not remove the memory card during recording.                                                |\n| **FRAME NO. FULL** | The camera has run out of frame numbers (current frame number is 999-9999). Insert a formatted memory card and select RENEW for **SAVE DATA SET-UP > FRAME NO.** Take a picture to reset frame numbering to 100-0001, then select CONTINUOUS for **FRAME NO.** |\n| **READ ERROR**   | - **The file is corrupt or was not created with the camera:** The file cannot be viewed.                                                                         |\n|                  | - **The memory card contacts require cleaning:** Clean the contacts with a soft, dry cloth. If the message is repeated, format the card. If the message persists, replace the card. |\n|                  | - **Camera malfunction:** Contact a Fujifilm dealer.                                                                                                             |\n| **PROTECTED FRAME** | An attempt was made to delete or rotate a protected picture. Remove protection and try again.                                                                  |",
+                    "isPerfectTable": true,
+                    "csv": "\"Warning\",\"Description\"\n\"**WRITE ERROR**\",\"- **Memory card error or connection error:** Reinsert the card or turn the camera off and then on again. If the message persists, contact a Fujifilm dealer.\"\n\"\",\"- **Not enough memory remaining to record additional pictures:** Delete pictures or insert a memory card with more free space.\"\n\"\",\"- **The memory card is not formatted:** Format the memory card.\"\n\"\",\"- **The memory card was removed while data were being recorded:** Do not remove the memory card during recording.\"\n\"**FRAME NO. FULL**\",\"The camera has run out of frame numbers (current frame number is 999-9999). Insert a formatted memory card and select RENEW for **SAVE DATA SET-UP > FRAME NO.** Take a picture to reset frame numbering to 100-0001, then select CONTINUOUS for **FRAME NO.**\"\n\"**READ ERROR**\",\"- **The file is corrupt or was not created with the camera:** The file cannot be viewed.\"\n\"\",\"- **The memory card contacts require cleaning:** Clean the contacts with a soft, dry cloth. If the message is repeated, format the card. If the message persists, replace the card.\"\n\"\",\"- **Camera malfunction:** Contact a Fujifilm dealer.\"\n\"**PROTECTED FRAME**\",\"An attempt was made to delete or rotate a protected picture. Remove protection and try again.\""
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "parsingMode": "multimodal-openai-gpt4o",
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 32.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "64792672-dbb4-48cd-9024-8ff6a66fb3fc",
+    "file_path": "../data/raw_data/x-e4/x-e4_split/x-e4_page350.pdf"
+}

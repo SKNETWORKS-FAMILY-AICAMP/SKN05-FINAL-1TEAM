@@ -1,0 +1,294 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:14px'>MOVIE SETTING (Movie Recording)</header>\n<h1 id='1' style='font-size:16px'>IS MODE</h1>\n<br><h1 id='2' style='font-size:18px'>Enable or disable image stabilization.</h1>\n<table id='3' style='font-size:14px'><tr><td>Option</td><td>Description</td></tr><tr><td>(( 》1 CONTINUOUS</td><td>Image stabilization on.</td></tr><tr><td>OFF</td><td>Image stabilization off; appears in the display. Choose when the camera is mounted on a tripod or otherwise fixed in place.</td></tr></table>\n<p id='4' data-category='list' style='font-size:14px'>Image stabilization is available with compatible lenses only.<br>● The setting selected with the lens image stabilization switch, if any,<br>takes priority over the setting chosen with the IS mode.<br>● Note that vibration or camera sounds may be noticeable as image<br>stabilization takes effect.</p>\n<p id='5' data-category='paragraph' style='font-size:16px'>ISO</p>\n\n<table id='7' style='font-size:16px'><tr><td>Option</td><td>Description</td></tr><tr><td>H (25600)</td><td>Choose for special situations. Note that dynamic range may be reduced and that pictures may be mottled.</td></tr><tr><td>160-12800</td><td>Adjust sensitivity manually. Selected value is shown in display.</td></tr><tr><td>AUTO</td><td>Sensitivity is automatically adjusted in response to shooting conditions.</td></tr><br><caption id='6' style='font-size:20px'>Adjust the camera's sensitivity to light.</caption></table>\n<footer id='8' style='font-size:20px'>161</footer>\n<br><footer id='9' style='font-size:22px'>6<br>The<br>Shooting<br>Menus</footer>",
+        "markdown": "MOVIE SETTING (Movie Recording)\n\n# IS MODE\n\n# Enable or disable image stabilization.\n\n| Option | Description |\n| --- | --- |\n| (( 》1 CONTINUOUS | Image stabilization on. |\n| OFF | Image stabilization off; appears in the display. Choose when the camera is mounted on a tripod or otherwise fixed in place. |\n\n\n- Image stabilization is available with compatible lenses only.\n- ● The setting selected with the lens image stabilization switch, if any,\n- takes priority over the setting chosen with the IS mode.\n- ● Note that vibration or camera sounds may be noticeable as image\n- stabilization takes effect.\n\n\nISO\n\nAdjust the camera's sensitivity to light.\n\n| Option | Description |\n| --- | --- |\n| H (25600) | Choose for special situations. Note that dynamic range may be reduced and that pictures may be mottled. |\n| 160-12800 | Adjust sensitivity manually. Selected value is shown in display. |\n| AUTO | Sensitivity is automatically adjusted in response to shooting conditions. |\n\n\n161\n\n6\nThe\nShooting\nMenus",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:14px'>MOVIE SETTING (Movie Recording)</header>",
+                "markdown": "MOVIE SETTING (Movie Recording)",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.577,
+                    "y": 0.0278
+                },
+                {
+                    "x": 0.9173,
+                    "y": 0.0278
+                },
+                {
+                    "x": 0.9173,
+                    "y": 0.0511
+                },
+                {
+                    "x": 0.577,
+                    "y": 0.0511
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='1' style='font-size:16px'>IS MODE</h1>",
+                "markdown": "# IS MODE",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1089,
+                    "y": 0.073
+                },
+                {
+                    "x": 0.2685,
+                    "y": 0.073
+                },
+                {
+                    "x": 0.2685,
+                    "y": 0.0947
+                },
+                {
+                    "x": 0.1089,
+                    "y": 0.0947
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='2' style='font-size:18px'>Enable or disable image stabilization.</h1>",
+                "markdown": "# Enable or disable image stabilization.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1067,
+                    "y": 0.105
+                },
+                {
+                    "x": 0.5787,
+                    "y": 0.105
+                },
+                {
+                    "x": 0.5787,
+                    "y": 0.1289
+                },
+                {
+                    "x": 0.1067,
+                    "y": 0.1289
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='3' style='font-size:14px'><tr><td>Option</td><td>Description</td></tr><tr><td>(( 》1 CONTINUOUS</td><td>Image stabilization on.</td></tr><tr><td>OFF</td><td>Image stabilization off; appears in the display. Choose when the camera is mounted on a tripod or otherwise fixed in place.</td></tr></table>",
+                "markdown": "| Option | Description |\n| --- | --- |\n| (( 》1 CONTINUOUS | Image stabilization on. |\n| OFF | Image stabilization off; appears in the display. Choose when the camera is mounted on a tripod or otherwise fixed in place. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1102,
+                    "y": 0.1418
+                },
+                {
+                    "x": 0.9204,
+                    "y": 0.1418
+                },
+                {
+                    "x": 0.9204,
+                    "y": 0.26
+                },
+                {
+                    "x": 0.1102,
+                    "y": 0.26
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "list",
+            "content": {
+                "html": "<p id='4' data-category='list' style='font-size:14px'>Image stabilization is available with compatible lenses only.<br>● The setting selected with the lens image stabilization switch, if any,<br>takes priority over the setting chosen with the IS mode.<br>● Note that vibration or camera sounds may be noticeable as image<br>stabilization takes effect.</p>",
+                "markdown": "- Image stabilization is available with compatible lenses only.\n- ● The setting selected with the lens image stabilization switch, if any,\n- takes priority over the setting chosen with the IS mode.\n- ● Note that vibration or camera sounds may be noticeable as image\n- stabilization takes effect.\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1391,
+                    "y": 0.2728
+                },
+                {
+                    "x": 0.9154,
+                    "y": 0.2728
+                },
+                {
+                    "x": 0.9154,
+                    "y": 0.3867
+                },
+                {
+                    "x": 0.1391,
+                    "y": 0.3867
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='5' data-category='paragraph' style='font-size:16px'>ISO</p>",
+                "markdown": "ISO",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1087,
+                    "y": 0.4077
+                },
+                {
+                    "x": 0.1997,
+                    "y": 0.4077
+                },
+                {
+                    "x": 0.1997,
+                    "y": 0.4305
+                },
+                {
+                    "x": 0.1087,
+                    "y": 0.4305
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='6' data-category='paragraph' style='font-size:20px'>Adjust the camera's sensitivity to light.</p>",
+                "markdown": "Adjust the camera's sensitivity to light.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1056,
+                    "y": 0.4396
+                },
+                {
+                    "x": 0.5926,
+                    "y": 0.4396
+                },
+                {
+                    "x": 0.5926,
+                    "y": 0.4641
+                },
+                {
+                    "x": 0.1056,
+                    "y": 0.4641
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='7' style='font-size:16px'><tr><td>Option</td><td>Description</td></tr><tr><td>H (25600)</td><td>Choose for special situations. Note that dynamic range may be reduced and that pictures may be mottled.</td></tr><tr><td>160-12800</td><td>Adjust sensitivity manually. Selected value is shown in display.</td></tr><tr><td>AUTO</td><td>Sensitivity is automatically adjusted in response to shooting conditions.</td></tr></table>",
+                "markdown": "| Option | Description |\n| --- | --- |\n| H (25600) | Choose for special situations. Note that dynamic range may be reduced and that pictures may be mottled. |\n| 160-12800 | Adjust sensitivity manually. Selected value is shown in display. |\n| AUTO | Sensitivity is automatically adjusted in response to shooting conditions. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1084,
+                    "y": 0.4768
+                },
+                {
+                    "x": 0.9188,
+                    "y": 0.4768
+                },
+                {
+                    "x": 0.9188,
+                    "y": 0.6298
+                },
+                {
+                    "x": 0.1084,
+                    "y": 0.6298
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='8' style='font-size:20px'>161</footer>",
+                "markdown": "161",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.8625,
+                    "y": 0.9566
+                },
+                {
+                    "x": 0.9149,
+                    "y": 0.9566
+                },
+                {
+                    "x": 0.9149,
+                    "y": 0.979
+                },
+                {
+                    "x": 0.8625,
+                    "y": 0.979
+                }
+            ],
+            "id": 8,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<br><footer id='9' style='font-size:22px'>6<br>The<br>Shooting<br>Menus</footer>",
+                "markdown": "6\nThe\nShooting\nMenus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9563,
+                    "y": 0.542
+                },
+                {
+                    "x": 0.9832,
+                    "y": 0.542
+                },
+                {
+                    "x": 0.9832,
+                    "y": 0.7314
+                },
+                {
+                    "x": 0.9563,
+                    "y": 0.7314
+                }
+            ],
+            "id": 9,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

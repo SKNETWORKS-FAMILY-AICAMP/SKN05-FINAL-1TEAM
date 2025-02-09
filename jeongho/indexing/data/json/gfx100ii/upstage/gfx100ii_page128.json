@@ -1,0 +1,294 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<h1 id='0' style='font-size:18px'>RAW RECORDING</h1>\n<br><h1 id='1' style='font-size:20px'>Choose whether to compress RAW images.</h1>\n<h1 id='2' style='font-size:18px'>RECORDING TYPE</h1>\n<table id='3' style='font-size:16px'><tr><td>Option</td><td>Description</td></tr><tr><td>UNCOMPRESSED</td><td>RAW images are not compressed.</td></tr><tr><td>LOSSLESS</td><td>RAW images are compressed using a reversible algorithm that reduces file size with no loss of image data. The im- ages can be viewed in Capture One Express for Fujifilm1, Capture One for Fujifilm1, Capture One1, RAW FILE CONVERTER EX powered by SILKYPIX2, FUJIFILM X RAW STUDIO, or other software that supports \"lossless\" RAW compression. Quality is the same as UNCOMPRESSED, but the resulting files are anywhere from about 30 to 90 percent (14-bit RAW) or 45 to 100 percent (16-bit RAW) of their uncompressed size.</td></tr><tr><td>COMPRESSED</td><td>RAW images are compressed using a \"lossy\", non-reversible algorithm. Quality is about the same as UNCOMPRESSED, but the resulting files are anywhere from about 25 to 35 per- cent (14-bit RAW) or 30 to 40 percent (16-bit RAW) of their uncompressed size.</td></tr></table>\n<br><p id='4' data-category='list' style='font-size:14px'>1 For information on when support will be available, visit:<br>https://www.coptureone.com/<br>2 For information on when support will be available, visit:<br>witch//weboww.com/photopoturaturaturenterventer<br>by-silkypix/</p>\n<br><header id='5' style='font-size:22px'>The<br>Shooting<br>Menus</header>\n<br><p id='6' data-category='paragraph' style='font-size:22px'>OUTPUT DEPTH(bit)</p>\n<table id='7' style='font-size:14px'><tr><td>Option</td><td>Description</td></tr><tr><td>16bit</td><td>RAW pictures are recorded at a bit depth of 16 bits.</td></tr><tr><td>14bit</td><td>RAW pictures are recorded at a bit depth of 14 bits.</td></tr></table>\n<p id='8' data-category='paragraph' style='font-size:16px'>16bit is available in STILL IMAGE and PIXEL SHIFT MULTI SHOT drive<br>modes only.</p>\n<footer id='9' style='font-size:20px'>128</footer>",
+        "markdown": "# RAW RECORDING\n\n# Choose whether to compress RAW images.\n\n# RECORDING TYPE\n\n| Option | Description |\n| --- | --- |\n| UNCOMPRESSED | RAW images are not compressed. |\n| LOSSLESS | RAW images are compressed using a reversible algorithm that reduces file size with no loss of image data. The im- ages can be viewed in Capture One Express for Fujifilm1, Capture One for Fujifilm1, Capture One1, RAW FILE CONVERTER EX powered by SILKYPIX2, FUJIFILM X RAW STUDIO, or other software that supports \"lossless\" RAW compression. Quality is the same as UNCOMPRESSED, but the resulting files are anywhere from about 30 to 90 percent (14-bit RAW) or 45 to 100 percent (16-bit RAW) of their uncompressed size. |\n| COMPRESSED | RAW images are compressed using a \"lossy\", non-reversible algorithm. Quality is about the same as UNCOMPRESSED, but the resulting files are anywhere from about 25 to 35 per- cent (14-bit RAW) or 30 to 40 percent (16-bit RAW) of their uncompressed size. |\n\n\n- 1 For information on when support will be available, visit:\n- https://www.coptureone.com/\n- 2 For information on when support will be available, visit:\n- witch//weboww.com/photopoturaturaturenterventer\n- by-silkypix/\n\n\nThe\nShooting\nMenus\n\nOUTPUT DEPTH(bit)\n\n| Option | Description |\n| --- | --- |\n| 16bit | RAW pictures are recorded at a bit depth of 16 bits. |\n| 14bit | RAW pictures are recorded at a bit depth of 14 bits. |\n\n\n16bit is available in STILL IMAGE and PIXEL SHIFT MULTI SHOT drive\nmodes only.\n\n128",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='0' style='font-size:18px'>RAW RECORDING</h1>",
+                "markdown": "# RAW RECORDING",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0826,
+                    "y": 0.0728
+                },
+                {
+                    "x": 0.3196,
+                    "y": 0.0728
+                },
+                {
+                    "x": 0.3196,
+                    "y": 0.0946
+                },
+                {
+                    "x": 0.0826,
+                    "y": 0.0946
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='1' style='font-size:20px'>Choose whether to compress RAW images.</h1>",
+                "markdown": "# Choose whether to compress RAW images.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0821,
+                    "y": 0.1045
+                },
+                {
+                    "x": 0.6223,
+                    "y": 0.1045
+                },
+                {
+                    "x": 0.6223,
+                    "y": 0.1294
+                },
+                {
+                    "x": 0.0821,
+                    "y": 0.1294
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='2' style='font-size:18px'>RECORDING TYPE</h1>",
+                "markdown": "# RECORDING TYPE",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0947,
+                    "y": 0.151
+                },
+                {
+                    "x": 0.3155,
+                    "y": 0.151
+                },
+                {
+                    "x": 0.3155,
+                    "y": 0.1737
+                },
+                {
+                    "x": 0.0947,
+                    "y": 0.1737
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='3' style='font-size:16px'><tr><td>Option</td><td>Description</td></tr><tr><td>UNCOMPRESSED</td><td>RAW images are not compressed.</td></tr><tr><td>LOSSLESS</td><td>RAW images are compressed using a reversible algorithm that reduces file size with no loss of image data. The im- ages can be viewed in Capture One Express for Fujifilm1, Capture One for Fujifilm1, Capture One1, RAW FILE CONVERTER EX powered by SILKYPIX2, FUJIFILM X RAW STUDIO, or other software that supports \"lossless\" RAW compression. Quality is the same as UNCOMPRESSED, but the resulting files are anywhere from about 30 to 90 percent (14-bit RAW) or 45 to 100 percent (16-bit RAW) of their uncompressed size.</td></tr><tr><td>COMPRESSED</td><td>RAW images are compressed using a \"lossy\", non-reversible algorithm. Quality is about the same as UNCOMPRESSED, but the resulting files are anywhere from about 25 to 35 per- cent (14-bit RAW) or 30 to 40 percent (16-bit RAW) of their uncompressed size.</td></tr></table>",
+                "markdown": "| Option | Description |\n| --- | --- |\n| UNCOMPRESSED | RAW images are not compressed. |\n| LOSSLESS | RAW images are compressed using a reversible algorithm that reduces file size with no loss of image data. The im- ages can be viewed in Capture One Express for Fujifilm1, Capture One for Fujifilm1, Capture One1, RAW FILE CONVERTER EX powered by SILKYPIX2, FUJIFILM X RAW STUDIO, or other software that supports \"lossless\" RAW compression. Quality is the same as UNCOMPRESSED, but the resulting files are anywhere from about 30 to 90 percent (14-bit RAW) or 45 to 100 percent (16-bit RAW) of their uncompressed size. |\n| COMPRESSED | RAW images are compressed using a \"lossy\", non-reversible algorithm. Quality is about the same as UNCOMPRESSED, but the resulting files are anywhere from about 25 to 35 per- cent (14-bit RAW) or 30 to 40 percent (16-bit RAW) of their uncompressed size. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0824,
+                    "y": 0.1923
+                },
+                {
+                    "x": 0.8947,
+                    "y": 0.1923
+                },
+                {
+                    "x": 0.8947,
+                    "y": 0.6024
+                },
+                {
+                    "x": 0.0824,
+                    "y": 0.6024
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "list",
+            "content": {
+                "html": "<br><p id='4' data-category='list' style='font-size:14px'>1 For information on when support will be available, visit:<br>https://www.coptureone.com/<br>2 For information on when support will be available, visit:<br>witch//weboww.com/photopoturaturaturenterventer<br>by-silkypix/</p>",
+                "markdown": "- 1 For information on when support will be available, visit:\n- https://www.coptureone.com/\n- 2 For information on when support will be available, visit:\n- witch//weboww.com/photopoturaturaturenterventer\n- by-silkypix/\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0804,
+                    "y": 0.603
+                },
+                {
+                    "x": 0.8888,
+                    "y": 0.603
+                },
+                {
+                    "x": 0.8888,
+                    "y": 0.7072
+                },
+                {
+                    "x": 0.0804,
+                    "y": 0.7072
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "header",
+            "content": {
+                "html": "<br><header id='5' style='font-size:22px'>The<br>Shooting<br>Menus</header>",
+                "markdown": "The\nShooting\nMenus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0152,
+                    "y": 0.5744
+                },
+                {
+                    "x": 0.0422,
+                    "y": 0.5744
+                },
+                {
+                    "x": 0.0422,
+                    "y": 0.7303
+                },
+                {
+                    "x": 0.0152,
+                    "y": 0.7303
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='6' data-category='paragraph' style='font-size:22px'>OUTPUT DEPTH(bit)</p>",
+                "markdown": "OUTPUT DEPTH(bit)",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0959,
+                    "y": 0.7302
+                },
+                {
+                    "x": 0.3435,
+                    "y": 0.7302
+                },
+                {
+                    "x": 0.3435,
+                    "y": 0.7528
+                },
+                {
+                    "x": 0.0959,
+                    "y": 0.7528
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='7' style='font-size:14px'><tr><td>Option</td><td>Description</td></tr><tr><td>16bit</td><td>RAW pictures are recorded at a bit depth of 16 bits.</td></tr><tr><td>14bit</td><td>RAW pictures are recorded at a bit depth of 14 bits.</td></tr></table>",
+                "markdown": "| Option | Description |\n| --- | --- |\n| 16bit | RAW pictures are recorded at a bit depth of 16 bits. |\n| 14bit | RAW pictures are recorded at a bit depth of 14 bits. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.087,
+                    "y": 0.771
+                },
+                {
+                    "x": 0.8878,
+                    "y": 0.771
+                },
+                {
+                    "x": 0.8878,
+                    "y": 0.8462
+                },
+                {
+                    "x": 0.087,
+                    "y": 0.8462
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='8' data-category='paragraph' style='font-size:16px'>16bit is available in STILL IMAGE and PIXEL SHIFT MULTI SHOT drive<br>modes only.</p>",
+                "markdown": "16bit is available in STILL IMAGE and PIXEL SHIFT MULTI SHOT drive\nmodes only.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0826,
+                    "y": 0.8634
+                },
+                {
+                    "x": 0.8896,
+                    "y": 0.8634
+                },
+                {
+                    "x": 0.8896,
+                    "y": 0.9079
+                },
+                {
+                    "x": 0.0826,
+                    "y": 0.9079
+                }
+            ],
+            "id": 8,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='9' style='font-size:20px'>128</footer>",
+                "markdown": "128",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0852,
+                    "y": 0.9571
+                },
+                {
+                    "x": 0.1397,
+                    "y": 0.9571
+                },
+                {
+                    "x": 0.1397,
+                    "y": 0.9789
+                },
+                {
+                    "x": 0.0852,
+                    "y": 0.9789
+                }
+            ],
+            "id": 9,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "parsing_result": "# ZONE AREA SWITCHING\n\nThis parameter determines the focus area given priority in zone AF.\n\n!Zone Area Switching\n\n| Option | Description |\n|--------|-------------|\n| FRONT  | Zone AF assigns priority to the subjects closest to the camera. |\n| AUTO   | The camera locks focus on the subject at the center of the zone and then switches focus areas as necessary to track it. |\n| CENTER | Zone AF assigns priority to subjects in the center of the zone. |\n\n> 💡 **Note:**  \n> This option takes effect only when **ZONE** is selected for AF mode.\n\n## Set Values\n\nParameter values for the different sets are listed below.\n\n|        | TRACKING SENSITIVITY | SPEED TRACKING SENSITIVITY | ZONE AREA SWITCHING |\n|--------|----------------------|----------------------------|---------------------|\n| SET 1  | 2                    | 0                          | AUTO                |\n| SET 2  | 3                    | 0                          | CENTER              |\n| SET 3  | 2                    | 2                          | AUTO                |\n| SET 4  | 0                    | 1                          | FRONT               |\n| SET 5  | 3                    | 2                          | AUTO                |",
+    "embedding_result": [],
+    "metadata": {
+        "page": 124,
+        "model": "x100v"
+    }
+}

@@ -1,0 +1,163 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "# Network/USB Setting Menus\n\n## Bluetooth DEVICE LIST\nList the devices with which the camera is paired (other than the smartphone) or end pairing with selected devices.\n\n## Bluetooth ON/OFF\nIf **ON** is selected, the camera will automatically connect with paired smartphones or tablets running the smartphone app.\n\n| Options |   |\n|---------|---|\n| ON      |   |\n| OFF     |   |\n\n## AUTO IMAGE TRANSFER ORDER\nSelect **ON** to upload pictures automatically as they are taken.\n\n| Options |   |\n|---------|---|\n| ON      |   |\n| OFF     |   |\n\n## SMARTPHONE LOCATION SYNC.\nSelect **ON** to enable ongoing download of location data from paired smartphones or tablets.\n\n| Options |   |\n|---------|---|\n| ON      |   |\n| OFF     |   |\n\n> ⚠️ **Note:**  \n> Location data will only be downloaded while the smartphone app is running. Download will be interrupted if pairing is ended. The camera location data icon will be displayed in red if location data have not been updated for over 30 minutes.\n\n## NAME\nChoose a name (**NAME**) to identify the camera on the wireless network (the camera is assigned a unique name by default).",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "Network/USB Setting Menus",
+                    "md": "# Network/USB Setting Menus"
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "Bluetooth DEVICE LIST",
+                    "md": "## Bluetooth DEVICE LIST"
+                },
+                {
+                    "type": "text",
+                    "value": "List the devices with which the camera is paired (other than the smartphone) or end pairing with selected devices.",
+                    "md": "List the devices with which the camera is paired (other than the smartphone) or end pairing with selected devices."
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "Bluetooth ON/OFF",
+                    "md": "## Bluetooth ON/OFF"
+                },
+                {
+                    "type": "text",
+                    "value": "If **ON** is selected, the camera will automatically connect with paired smartphones or tablets running the smartphone app.",
+                    "md": "If **ON** is selected, the camera will automatically connect with paired smartphones or tablets running the smartphone app."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Options",
+                            ""
+                        ],
+                        [
+                            "ON",
+                            ""
+                        ],
+                        [
+                            "OFF",
+                            ""
+                        ]
+                    ],
+                    "md": "| Options |   |\n|---------|---|\n| ON      |   |\n| OFF     |   |",
+                    "isPerfectTable": true,
+                    "csv": "\"Options\",\"\"\n\"ON\",\"\"\n\"OFF\",\"\""
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "AUTO IMAGE TRANSFER ORDER",
+                    "md": "## AUTO IMAGE TRANSFER ORDER"
+                },
+                {
+                    "type": "text",
+                    "value": "Select **ON** to upload pictures automatically as they are taken.",
+                    "md": "Select **ON** to upload pictures automatically as they are taken."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Options",
+                            ""
+                        ],
+                        [
+                            "ON",
+                            ""
+                        ],
+                        [
+                            "OFF",
+                            ""
+                        ]
+                    ],
+                    "md": "| Options |   |\n|---------|---|\n| ON      |   |\n| OFF     |   |",
+                    "isPerfectTable": true,
+                    "csv": "\"Options\",\"\"\n\"ON\",\"\"\n\"OFF\",\"\""
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "SMARTPHONE LOCATION SYNC.",
+                    "md": "## SMARTPHONE LOCATION SYNC."
+                },
+                {
+                    "type": "text",
+                    "value": "Select **ON** to enable ongoing download of location data from paired smartphones or tablets.",
+                    "md": "Select **ON** to enable ongoing download of location data from paired smartphones or tablets."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Options",
+                            ""
+                        ],
+                        [
+                            "ON",
+                            ""
+                        ],
+                        [
+                            "OFF",
+                            ""
+                        ]
+                    ],
+                    "md": "| Options |   |\n|---------|---|\n| ON      |   |\n| OFF     |   |",
+                    "isPerfectTable": true,
+                    "csv": "\"Options\",\"\"\n\"ON\",\"\"\n\"OFF\",\"\""
+                },
+                {
+                    "type": "text",
+                    "value": "> ⚠️ **Note:**  \n> Location data will only be downloaded while the smartphone app is running. Download will be interrupted if pairing is ended. The camera location data icon will be displayed in red if location data have not been updated for over 30 minutes.",
+                    "md": "> ⚠️ **Note:**  \n> Location data will only be downloaded while the smartphone app is running. Download will be interrupted if pairing is ended. The camera location data icon will be displayed in red if location data have not been updated for over 30 minutes."
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "NAME",
+                    "md": "## NAME"
+                },
+                {
+                    "type": "text",
+                    "value": "Choose a name (**NAME**) to identify the camera on the wireless network (the camera is assigned a unique name by default).",
+                    "md": "Choose a name (**NAME**) to identify the camera on the wireless network (the camera is assigned a unique name by default)."
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 341.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "f1658aac-b16b-4ba8-b13e-72b7268faf02",
+    "file_path": "../data/raw_data/x-s20/x-s20_split/x-s20_page289.pdf"
+}

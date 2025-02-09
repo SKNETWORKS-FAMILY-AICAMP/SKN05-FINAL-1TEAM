@@ -1,0 +1,72 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "# The EVF/LCD Displays\n\nThe status of the connection to computers, Frame.io, FTP servers, and the like is also shown by an icon in the electronic viewfinder or LCD monitor.\n\n!EVF/LCD Display Icons\n\n| Icon | Connection Status |\n|------|-------------------|\n| !Icon 1 | No network connection. |\n| !Icon 2 | Connected to network but not to computer tethered photography software, Frame.io, or FTP server. |\n| !Icon 3 | Ready for tethered photography, FTP upload, or upload to Frame.io. |",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "The EVF/LCD Displays",
+                    "md": "# The EVF/LCD Displays"
+                },
+                {
+                    "type": "text",
+                    "value": "The status of the connection to computers, Frame.io, FTP servers, and the like is also shown by an icon in the electronic viewfinder or LCD monitor.\n\n!EVF/LCD Display Icons",
+                    "md": "The status of the connection to computers, Frame.io, FTP servers, and the like is also shown by an icon in the electronic viewfinder or LCD monitor.\n\n!EVF/LCD Display Icons"
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Icon",
+                            "Connection Status"
+                        ],
+                        [
+                            "!Icon 1",
+                            "No network connection."
+                        ],
+                        [
+                            "!Icon 2",
+                            "Connected to network but not to computer tethered photography software, Frame.io, or FTP server."
+                        ],
+                        [
+                            "!Icon 3",
+                            "Ready for tethered photography, FTP upload, or upload to Frame.io."
+                        ]
+                    ],
+                    "md": "| Icon | Connection Status |\n|------|-------------------|\n| !Icon 1 | No network connection. |\n| !Icon 2 | Connected to network but not to computer tethered photography software, Frame.io, or FTP server. |\n| !Icon 3 | Ready for tethered photography, FTP upload, or upload to Frame.io. |",
+                    "isPerfectTable": true,
+                    "csv": "\"Icon\",\"Connection Status\"\n\"!Icon 1\",\"No network connection.\"\n\"!Icon 2\",\"Connected to network but not to computer tethered photography software, Frame.io, or FTP server.\"\n\"!Icon 3\",\"Ready for tethered photography, FTP upload, or upload to Frame.io.\""
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 307.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "b3606575-c0d4-43c5-82ad-62527cf388ee",
+    "file_path": "../data/raw_data/gfx100ii/gfx100ii_split/gfx100ii_page273.pdf"
+}

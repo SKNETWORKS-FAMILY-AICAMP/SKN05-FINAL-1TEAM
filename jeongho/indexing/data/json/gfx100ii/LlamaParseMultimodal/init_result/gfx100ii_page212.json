@@ -1,0 +1,142 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "\n## PROXY SETTING (ONLY WHEN REC ProRes)\n\nChoose whether the camera simultaneously records a duplicate “proxy” video with movies shot in ProRes format.\n\n| Option            | Description                                |\n|-------------------|--------------------------------------------|\n| ON (H.264)        | Record proxy videos in H.264 format.       |\n| ON (ProRes Proxy) | Record proxy videos in ProRes Proxy format.|\n| OFF               | Proxy recording disabled.                  |\n\n> 💡 **Note:**\n> - Proxy recording is not available at a frame size of 8K if the frame rate is either 29.97P or 25P.\n> - Deleting the original footage from the camera also deletes the proxy video. The original and proxy videos cannot be deleted separately.\n> - When deleting movies from camera memory cards using a computer, be sure to delete both the originals and the proxies.\n\n## HDMI OUTPUT SETTING\n\nAdjust settings for use when the shooting display is output to an HDMI device.\n\n### HDMI OUTPUT INFO DISPLAY\n\nIf **ON** is selected, HDMI devices to which the camera is connected will mirror the information in the camera display.\n\n| Options |        |\n|---------|--------|\n| ON      | OFF    |\n\n### HDMI REC CONTROL\n\nChoose whether the camera sends movie start and stop signals to the HDMI device when the shutter button is pressed to start and stop movie recording.\n\n| Options |        |\n|---------|--------|\n| ON      | OFF    |\n",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "PROXY SETTING (ONLY WHEN REC ProRes)",
+                    "md": "## PROXY SETTING (ONLY WHEN REC ProRes)"
+                },
+                {
+                    "type": "text",
+                    "value": "Choose whether the camera simultaneously records a duplicate “proxy” video with movies shot in ProRes format.",
+                    "md": "Choose whether the camera simultaneously records a duplicate “proxy” video with movies shot in ProRes format."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Option",
+                            "Description"
+                        ],
+                        [
+                            "ON (H.264)",
+                            "Record proxy videos in H.264 format."
+                        ],
+                        [
+                            "ON (ProRes Proxy)",
+                            "Record proxy videos in ProRes Proxy format."
+                        ],
+                        [
+                            "OFF",
+                            "Proxy recording disabled."
+                        ]
+                    ],
+                    "md": "| Option            | Description                                |\n|-------------------|--------------------------------------------|\n| ON (H.264)        | Record proxy videos in H.264 format.       |\n| ON (ProRes Proxy) | Record proxy videos in ProRes Proxy format.|\n| OFF               | Proxy recording disabled.                  |",
+                    "isPerfectTable": true,
+                    "csv": "\"Option\",\"Description\"\n\"ON (H.264)\",\"Record proxy videos in H.264 format.\"\n\"ON (ProRes Proxy)\",\"Record proxy videos in ProRes Proxy format.\"\n\"OFF\",\"Proxy recording disabled.\""
+                },
+                {
+                    "type": "text",
+                    "value": "> 💡 **Note:**\n> - Proxy recording is not available at a frame size of 8K if the frame rate is either 29.97P or 25P.\n> - Deleting the original footage from the camera also deletes the proxy video. The original and proxy videos cannot be deleted separately.\n> - When deleting movies from camera memory cards using a computer, be sure to delete both the originals and the proxies.",
+                    "md": "> 💡 **Note:**\n> - Proxy recording is not available at a frame size of 8K if the frame rate is either 29.97P or 25P.\n> - Deleting the original footage from the camera also deletes the proxy video. The original and proxy videos cannot be deleted separately.\n> - When deleting movies from camera memory cards using a computer, be sure to delete both the originals and the proxies."
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "HDMI OUTPUT SETTING",
+                    "md": "## HDMI OUTPUT SETTING"
+                },
+                {
+                    "type": "text",
+                    "value": "Adjust settings for use when the shooting display is output to an HDMI device.",
+                    "md": "Adjust settings for use when the shooting display is output to an HDMI device."
+                },
+                {
+                    "type": "heading",
+                    "lvl": 3,
+                    "value": "HDMI OUTPUT INFO DISPLAY",
+                    "md": "### HDMI OUTPUT INFO DISPLAY"
+                },
+                {
+                    "type": "text",
+                    "value": "If **ON** is selected, HDMI devices to which the camera is connected will mirror the information in the camera display.",
+                    "md": "If **ON** is selected, HDMI devices to which the camera is connected will mirror the information in the camera display."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Options",
+                            ""
+                        ],
+                        [
+                            "ON",
+                            "OFF"
+                        ]
+                    ],
+                    "md": "| Options |        |\n|---------|--------|\n| ON      | OFF    |",
+                    "isPerfectTable": true,
+                    "csv": "\"Options\",\"\"\n\"ON\",\"OFF\""
+                },
+                {
+                    "type": "heading",
+                    "lvl": 3,
+                    "value": "HDMI REC CONTROL",
+                    "md": "### HDMI REC CONTROL"
+                },
+                {
+                    "type": "text",
+                    "value": "Choose whether the camera sends movie start and stop signals to the HDMI device when the shutter button is pressed to start and stop movie recording.",
+                    "md": "Choose whether the camera sends movie start and stop signals to the HDMI device when the shutter button is pressed to start and stop movie recording."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Options",
+                            ""
+                        ],
+                        [
+                            "ON",
+                            "OFF"
+                        ]
+                    ],
+                    "md": "| Options |        |\n|---------|--------|\n| ON      | OFF    |",
+                    "isPerfectTable": true,
+                    "csv": "\"Options\",\"\"\n\"ON\",\"OFF\""
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 475.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "ea7510c4-b4c6-4f82-9c80-859de0888b9e",
+    "file_path": "../data/raw_data/gfx100ii/gfx100ii_split/gfx100ii_page212.pdf"
+}

@@ -1,0 +1,82 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "# TIME CODE SETTING (Movie Recording)\n\n## Time Code Synchronization State\n\nYou can check the time code synchronization state by the icons displayed on the EVF or LCD.\n\n!Time Code Synchronization Icon\n\n| Icon | Synchronization State |\n|------|------------------------|\n| !White Icon | The time code synchronization function is not being used. |\n| !White Icon | Time codes are being synchronized. |\n| !Amber Icon | External devices have been disconnected or time codes are not being synchronized. If time codes have been synchronized once, and the camera continues to count internally after **CONNECT TO ATOMOS AirGlu BT** was set to **ON**, a value is displayed. |\n| !Red Icon | Time codes are not being synchronized because the frame rate settings are different. If time codes have been synchronized once, and the camera continues to count internally after **CONNECT TO ATOMOS AirGlu BT** was set to **ON**, a value is displayed. |",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "TIME CODE SETTING (Movie Recording)",
+                    "md": "# TIME CODE SETTING (Movie Recording)"
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "Time Code Synchronization State",
+                    "md": "## Time Code Synchronization State"
+                },
+                {
+                    "type": "text",
+                    "value": "You can check the time code synchronization state by the icons displayed on the EVF or LCD.\n\n!Time Code Synchronization Icon",
+                    "md": "You can check the time code synchronization state by the icons displayed on the EVF or LCD.\n\n!Time Code Synchronization Icon"
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Icon",
+                            "Synchronization State"
+                        ],
+                        [
+                            "!White Icon",
+                            "The time code synchronization function is not being used."
+                        ],
+                        [
+                            "!White Icon",
+                            "Time codes are being synchronized."
+                        ],
+                        [
+                            "!Amber Icon",
+                            "External devices have been disconnected or time codes are not being synchronized. If time codes have been synchronized once, and the camera continues to count internally after **CONNECT TO ATOMOS AirGlu BT** was set to **ON**, a value is displayed."
+                        ],
+                        [
+                            "!Red Icon",
+                            "Time codes are not being synchronized because the frame rate settings are different. If time codes have been synchronized once, and the camera continues to count internally after **CONNECT TO ATOMOS AirGlu BT** was set to **ON**, a value is displayed."
+                        ]
+                    ],
+                    "md": "| Icon | Synchronization State |\n|------|------------------------|\n| !White Icon | The time code synchronization function is not being used. |\n| !White Icon | Time codes are being synchronized. |\n| !Amber Icon | External devices have been disconnected or time codes are not being synchronized. If time codes have been synchronized once, and the camera continues to count internally after **CONNECT TO ATOMOS AirGlu BT** was set to **ON**, a value is displayed. |\n| !Red Icon | Time codes are not being synchronized because the frame rate settings are different. If time codes have been synchronized once, and the camera continues to count internally after **CONNECT TO ATOMOS AirGlu BT** was set to **ON**, a value is displayed. |",
+                    "isPerfectTable": true,
+                    "csv": "\"Icon\",\"Synchronization State\"\n\"!White Icon\",\"The time code synchronization function is not being used.\"\n\"!White Icon\",\"Time codes are being synchronized.\"\n\"!Amber Icon\",\"External devices have been disconnected or time codes are not being synchronized. If time codes have been synchronized once, and the camera continues to count internally after **CONNECT TO ATOMOS AirGlu BT** was set to **ON**, a value is displayed.\"\n\"!Red Icon\",\"Time codes are not being synchronized because the frame rate settings are different. If time codes have been synchronized once, and the camera continues to count internally after **CONNECT TO ATOMOS AirGlu BT** was set to **ON**, a value is displayed.\""
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 148.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "a29131a0-da36-4450-8bdd-2a99007191d3",
+    "file_path": "../data/raw_data/gfx100ii/gfx100ii_split/gfx100ii_page240.pdf"
+}

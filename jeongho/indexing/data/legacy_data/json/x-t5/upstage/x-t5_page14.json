@@ -1,0 +1,238 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<h1 id='0' style='font-size:20px'>The LCD Monitor</h1>\n<p id='1' data-category='paragraph' style='font-size:16px'>6 7<br>ALL-Intra 1.4x</p>\n<br><p id='2' data-category='paragraph' style='font-size:14px'>10 11<br>FHD FHD 4x<br>29.97 120</p>\n<br><p id='3' data-category='paragraph' style='font-size:14px'>17 18</p>\n<h1 id='4' style='font-size:18px'>1</h1>\n<br><figure id='5'><img style='font-size:16px' alt=\"MOV\n2 3 4 5 8 9 12 13 14 15 16 19 20 21\nCROP\n1.1 X + ALL-Intra : FHD : 1h12m36s 1 2 9999 F HEIF\n60\n29.97\n59  교 100 12/31/2022 12:10 AM AWB-L 22\n2 AREA\n58\n3 23\n57\n5 24\n56 4\n3 - F-Log 25\n55 2 一\nDR DR\n1 - !� 200 200\n26\n0-\n오후 DR-P 27\n54 -3 SET\n28\n・ 4\n-5 L R 29\nL R\nES MIC TC:00:00:00:00 BOOST\n30\nA+M AFL 0.1 0.5 1.0 1.5 2.0 3.0 5.0 10m�\nAF-S\n53\nM [○] 틴I 1000 F 5.6 V + 1.0 ISO 12800 ■■■■■ ZOOM\n52\n51 46 45 42 41 40 ㊴ ㊳ 37 36 35 34 33 32\nAFL MF AF-S 튼 I\n50 49 48 47 、 43\" data-coord=\"top-left:(237,484); bottom-right:(2472,2187)\" /></figure>\n<br><header id='6' style='font-size:22px'>Before<br>You<br>Begin</header>\n<footer id='7' style='font-size:20px'>14</footer>",
+        "markdown": "# The LCD Monitor\n\n6 7\nALL-Intra 1.4x\n\n10 11\nFHD FHD 4x\n29.97 120\n\n17 18\n\n# 1\n\n![image](/image/placeholder)\nMOV\n2 3 4 5 8 9 12 13 14 15 16 19 20 21\nCROP\n1.1 X + ALL-Intra : FHD : 1h12m36s 1 2 9999 F HEIF\n60\n29.97\n59  교 100 12/31/2022 12:10 AM AWB-L 22\n2 AREA\n58\n3 23\n57\n5 24\n56 4\n3 - F-Log 25\n55 2 一\nDR DR\n1 - !� 200 200\n26\n0-\n오후 DR-P 27\n54 -3 SET\n28\n・ 4\n-5 L R 29\nL R\nES MIC TC:00:00:00:00 BOOST\n30\nA+M AFL 0.1 0.5 1.0 1.5 2.0 3.0 5.0 10m�\nAF-S\n53\nM [○] 틴I 1000 F 5.6 V + 1.0 ISO 12800 ■■■■■ ZOOM\n52\n51 46 45 42 41 40 ㊴ ㊳ 37 36 35 34 33 32\nAFL MF AF-S 튼 I\n50 49 48 47 、 43\n\nBefore\nYou\nBegin\n\n14",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='0' style='font-size:20px'>The LCD Monitor</h1>",
+                "markdown": "# The LCD Monitor",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0828,
+                    "y": 0.074
+                },
+                {
+                    "x": 0.3126,
+                    "y": 0.074
+                },
+                {
+                    "x": 0.3126,
+                    "y": 0.0943
+                },
+                {
+                    "x": 0.0828,
+                    "y": 0.0943
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='1' data-category='paragraph' style='font-size:16px'>6 7<br>ALL-Intra 1.4x</p>",
+                "markdown": "6 7\nALL-Intra 1.4x",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.2232,
+                    "y": 0.1118
+                },
+                {
+                    "x": 0.3367,
+                    "y": 0.1118
+                },
+                {
+                    "x": 0.3367,
+                    "y": 0.1522
+                },
+                {
+                    "x": 0.2232,
+                    "y": 0.1522
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='2' data-category='paragraph' style='font-size:14px'>10 11<br>FHD FHD 4x<br>29.97 120</p>",
+                "markdown": "10 11\nFHD FHD 4x\n29.97 120",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.4056,
+                    "y": 0.1116
+                },
+                {
+                    "x": 0.5355,
+                    "y": 0.1116
+                },
+                {
+                    "x": 0.5355,
+                    "y": 0.1539
+                },
+                {
+                    "x": 0.4056,
+                    "y": 0.1539
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='3' data-category='paragraph' style='font-size:14px'>17 18</p>",
+                "markdown": "17 18",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6494,
+                    "y": 0.1165
+                },
+                {
+                    "x": 0.7114,
+                    "y": 0.1165
+                },
+                {
+                    "x": 0.7114,
+                    "y": 0.1285
+                },
+                {
+                    "x": 0.6494,
+                    "y": 0.1285
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='4' style='font-size:18px'>1</h1>",
+                "markdown": "# 1",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0281,
+                    "y": 0.2405
+                },
+                {
+                    "x": 0.0401,
+                    "y": 0.2405
+                },
+                {
+                    "x": 0.0401,
+                    "y": 0.2553
+                },
+                {
+                    "x": 0.0281,
+                    "y": 0.2553
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "figure",
+            "content": {
+                "html": "<br><figure id='5'><img style='font-size:16px' alt=\"MOV\n2 3 4 5 8 9 12 13 14 15 16 19 20 21\nCROP\n1.1 X + ALL-Intra : FHD : 1h12m36s 1 2 9999 F HEIF\n60\n29.97\n59  교 100 12/31/2022 12:10 AM AWB-L 22\n2 AREA\n58\n3 23\n57\n5 24\n56 4\n3 - F-Log 25\n55 2 一\nDR DR\n1 - !� 200 200\n26\n0-\n오후 DR-P 27\n54 -3 SET\n28\n・ 4\n-5 L R 29\nL R\nES MIC TC:00:00:00:00 BOOST\n30\nA+M AFL 0.1 0.5 1.0 1.5 2.0 3.0 5.0 10m�\nAF-S\n53\nM [○] 틴I 1000 F 5.6 V + 1.0 ISO 12800 ■■■■■ ZOOM\n52\n51 46 45 42 41 40 ㊴ ㊳ 37 36 35 34 33 32\nAFL MF AF-S 튼 I\n50 49 48 47 、 43\" data-coord=\"top-left:(237,484); bottom-right:(2472,2187)\" /></figure>",
+                "markdown": "![image](/image/placeholder)\nMOV\n2 3 4 5 8 9 12 13 14 15 16 19 20 21\nCROP\n1.1 X + ALL-Intra : FHD : 1h12m36s 1 2 9999 F HEIF\n60\n29.97\n59  교 100 12/31/2022 12:10 AM AWB-L 22\n2 AREA\n58\n3 23\n57\n5 24\n56 4\n3 - F-Log 25\n55 2 一\nDR DR\n1 - !� 200 200\n26\n0-\n오후 DR-P 27\n54 -3 SET\n28\n・ 4\n-5 L R 29\nL R\nES MIC TC:00:00:00:00 BOOST\n30\nA+M AFL 0.1 0.5 1.0 1.5 2.0 3.0 5.0 10m�\nAF-S\n53\nM [○] 틴I 1000 F 5.6 V + 1.0 ISO 12800 ■■■■■ ZOOM\n52\n51 46 45 42 41 40 ㊴ ㊳ 37 36 35 34 33 32\nAFL MF AF-S 튼 I\n50 49 48 47 、 43",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0859,
+                    "y": 0.1244
+                },
+                {
+                    "x": 0.8944,
+                    "y": 0.1244
+                },
+                {
+                    "x": 0.8944,
+                    "y": 0.5611
+                },
+                {
+                    "x": 0.0859,
+                    "y": 0.5611
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "header",
+            "content": {
+                "html": "<br><header id='6' style='font-size:22px'>Before<br>You<br>Begin</header>",
+                "markdown": "Before\nYou\nBegin",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0182,
+                    "y": 0.2779
+                },
+                {
+                    "x": 0.0426,
+                    "y": 0.2779
+                },
+                {
+                    "x": 0.0426,
+                    "y": 0.4029
+                },
+                {
+                    "x": 0.0182,
+                    "y": 0.4029
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='7' style='font-size:20px'>14</footer>",
+                "markdown": "14",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0851,
+                    "y": 0.9573
+                },
+                {
+                    "x": 0.122,
+                    "y": 0.9573
+                },
+                {
+                    "x": 0.122,
+                    "y": 0.9782
+                },
+                {
+                    "x": 0.0851,
+                    "y": 0.9782
+                }
+            ],
+            "id": 7,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

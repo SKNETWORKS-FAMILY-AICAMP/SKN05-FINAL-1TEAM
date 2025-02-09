@@ -1,0 +1,16 @@
+{
+    "parsing_result": "# Movie Setting (Movie Recording)\n\n## Data Level Setting\nChoose a signal range for movie recording.\n\n| Option      | Description                                                                 |\n|-------------|-----------------------------------------------------------------------------|\n| Video Range | The signal range for 8-bit movies is limited to 16–235 and that for 10-bit movies to 64–940. |\n| Full Range  | The signal ranges for 8-bit and 10-bit movies are respectively 0–255 and 0–1023. |\n\n## Photometry\nOptions are the same as those for still photography, but settings must be adjusted separately (page 98).\n\n## Flickerless S.S. Setting\nOptions are the same as those for still photography, but settings must be adjusted separately (page 174).\n\n| Options |\n|---------|\n| ON      |\n| OFF     |",
+    "metadata": {
+        "page": 195,
+        "model": "x-t5",
+        "chapter": "The Shooting Menus",
+        "section": "MOVIE SETTING (Movie Recording)",
+        "subsection": [
+            "DATA LEVEL SETTING",
+            "(Movie)PHOTOMETRY",
+            "(Movie)FLICKERLESS S.S. SETTING"
+        ],
+        "embedding_model": "text-embedding-3-small",
+        "token": 167
+    }
+}

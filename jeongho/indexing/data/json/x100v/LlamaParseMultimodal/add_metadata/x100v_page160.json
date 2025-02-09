@@ -1,0 +1,8 @@
+{
+    "parsing_result": "# Noise Reduction\n\nReduce noise in movies shot at high sensitivities. Choose higher values to reduce noise and smooth outlines, lower values to leave outlines visible.\n\n**Options:**\n\n- -4\n- -3\n- -2\n- -1\n- 0\n- +1\n- +2\n- +3\n- +4\n\n# 4K Interframe NR\n\nSelect **ON** to enable interframe noise reduction.\n\n**Options:**\n\n- ON\n- OFF\n\n> - Interframe noise reduction is available only when frame rates of 29.97P or slower are selected at a frame size of 4K or DCI.\n> - “Ghosting” may occur with moving subjects or if the camera is moved during shooting.",
+    "embedding_result": [],
+    "metadata": {
+        "page": 160,
+        "model": "x100v"
+    }
+}

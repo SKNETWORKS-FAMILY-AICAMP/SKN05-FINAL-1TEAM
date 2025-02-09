@@ -1,0 +1,114 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "# IS MODE\n\nTurn image stabilization on or off.\n\n| Option       | Description                                                                                                                                  |\n|--------------|----------------------------------------------------------------------------------------------------------------------------------------------|\n| IBIS/OIS     | Enable in-body (IBIS) and optical (OIS) image stabilization. IBIS is used with lenses that do not support OIS.                               |\n| IBIS/OIS + DIS | Enable in-body (IBIS), optical (OIS), and digital (DIS) image stabilization. The crop is adjusted according to the option selected for MOVIE MODE. |\n| OFF          | Image stabilization off; !Off Icon appears in the display.                                                               |\n\n- The setting selected with the lens image stabilization switch, if any, takes priority over the setting chosen with the IS mode.\n- Note that vibration or camera sounds may be noticeable as image stabilization takes effect.\n\n# IS MODE BOOST\n\nChoose the image stabilization level.\n\n| Option | Description                                           |\n|--------|-------------------------------------------------------|\n| ON     | Suitable for hand-held shooting with no panning.      |\n| OFF    | Suitable for hand-held shooting with panning.         |\n\n- Assigning **IS MODE BOOST** to a function button allows the image stabilization level to be changed while recording is in progress (📖 321).",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "IS MODE",
+                    "md": "# IS MODE"
+                },
+                {
+                    "type": "text",
+                    "value": "Turn image stabilization on or off.",
+                    "md": "Turn image stabilization on or off."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Option",
+                            "Description"
+                        ],
+                        [
+                            "IBIS/OIS",
+                            "Enable in-body (IBIS) and optical (OIS) image stabilization. IBIS is used with lenses that do not support OIS."
+                        ],
+                        [
+                            "IBIS/OIS + DIS",
+                            "Enable in-body (IBIS), optical (OIS), and digital (DIS) image stabilization. The crop is adjusted according to the option selected for MOVIE MODE."
+                        ],
+                        [
+                            "OFF",
+                            "Image stabilization off; !Off Icon appears in the display."
+                        ]
+                    ],
+                    "md": "| Option       | Description                                                                                                                                  |\n|--------------|----------------------------------------------------------------------------------------------------------------------------------------------|\n| IBIS/OIS     | Enable in-body (IBIS) and optical (OIS) image stabilization. IBIS is used with lenses that do not support OIS.                               |\n| IBIS/OIS + DIS | Enable in-body (IBIS), optical (OIS), and digital (DIS) image stabilization. The crop is adjusted according to the option selected for MOVIE MODE. |\n| OFF          | Image stabilization off; !Off Icon appears in the display.                                                               |",
+                    "isPerfectTable": true,
+                    "csv": "\"Option\",\"Description\"\n\"IBIS/OIS\",\"Enable in-body (IBIS) and optical (OIS) image stabilization. IBIS is used with lenses that do not support OIS.\"\n\"IBIS/OIS + DIS\",\"Enable in-body (IBIS), optical (OIS), and digital (DIS) image stabilization. The crop is adjusted according to the option selected for MOVIE MODE.\"\n\"OFF\",\"Image stabilization off; !Off Icon appears in the display.\""
+                },
+                {
+                    "type": "text",
+                    "value": "- The setting selected with the lens image stabilization switch, if any, takes priority over the setting chosen with the IS mode.\n- Note that vibration or camera sounds may be noticeable as image stabilization takes effect.",
+                    "md": "- The setting selected with the lens image stabilization switch, if any, takes priority over the setting chosen with the IS mode.\n- Note that vibration or camera sounds may be noticeable as image stabilization takes effect."
+                },
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "IS MODE BOOST",
+                    "md": "# IS MODE BOOST"
+                },
+                {
+                    "type": "text",
+                    "value": "Choose the image stabilization level.",
+                    "md": "Choose the image stabilization level."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Option",
+                            "Description"
+                        ],
+                        [
+                            "ON",
+                            "Suitable for hand-held shooting with no panning."
+                        ],
+                        [
+                            "OFF",
+                            "Suitable for hand-held shooting with panning."
+                        ]
+                    ],
+                    "md": "| Option | Description                                           |\n|--------|-------------------------------------------------------|\n| ON     | Suitable for hand-held shooting with no panning.      |\n| OFF    | Suitable for hand-held shooting with panning.         |",
+                    "isPerfectTable": true,
+                    "csv": "\"Option\",\"Description\"\n\"ON\",\"Suitable for hand-held shooting with no panning.\"\n\"OFF\",\"Suitable for hand-held shooting with panning.\""
+                },
+                {
+                    "type": "text",
+                    "value": "- Assigning **IS MODE BOOST** to a function button allows the image stabilization level to be changed while recording is in progress (📖 321).",
+                    "md": "- Assigning **IS MODE BOOST** to a function button allows the image stabilization level to be changed while recording is in progress (📖 321)."
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "parsingMode": "multimodal-openai-gpt4o",
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 410.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "33f028bd-1883-4ae9-a007-dfd509a52eb2",
+    "file_path": "../data/raw_data/x-t5/x-t5_split/x-t5_page222.pdf"
+}

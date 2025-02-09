@@ -1,0 +1,90 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "# HEIF to JPEG/TIFF Conversion\n\nConvert HEIF pictures to JPEG or TIFF.\n\n## Select Images\nSelect HEIF pictures for conversion.\n\n## File Format\nChoose a format for the converted pictures.\n\n| Options   |\n|-----------|\n| JPEG      |\n| TIFF 8bit |\n| TIFF 16bit|",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "HEIF to JPEG/TIFF Conversion",
+                    "md": "# HEIF to JPEG/TIFF Conversion"
+                },
+                {
+                    "type": "text",
+                    "value": "Convert HEIF pictures to JPEG or TIFF.",
+                    "md": "Convert HEIF pictures to JPEG or TIFF."
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "Select Images",
+                    "md": "## Select Images"
+                },
+                {
+                    "type": "text",
+                    "value": "Select HEIF pictures for conversion.",
+                    "md": "Select HEIF pictures for conversion."
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "File Format",
+                    "md": "## File Format"
+                },
+                {
+                    "type": "text",
+                    "value": "Choose a format for the converted pictures.",
+                    "md": "Choose a format for the converted pictures."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Options"
+                        ],
+                        [
+                            "JPEG"
+                        ],
+                        [
+                            "TIFF 8bit"
+                        ],
+                        [
+                            "TIFF 16bit"
+                        ]
+                    ],
+                    "md": "| Options   |\n|-----------|\n| JPEG      |\n| TIFF 8bit |\n| TIFF 16bit|",
+                    "isPerfectTable": true,
+                    "csv": "\"Options\"\n\"JPEG\"\n\"TIFF 8bit\"\n\"TIFF 16bit\""
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 42.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "04f35e1b-a18d-4c77-9282-a8fdc12248ce",
+    "file_path": "../data/raw_data/x-s20/x-s20_split/x-s20_page254.pdf"
+}

@@ -1,0 +1,15 @@
+{
+    "parsing_result": "# Self-Timer\n\nChoose the delay between the shutter button being pressed all the way down and the start of recording.\n\n- The display shows the number of seconds remaining before recording begins.\n- To stop the timer before recording begins, press DISP/BACK.\n\n!Self-Timer Display\n\n**Options:**\n\n- 3 SEC\n- 5 SEC\n- 10 SEC\n- OFF\n\n# Media Rec Setting\n\nChoose movie file settings, including destination, file type, compression, and bit rate.\n\n## Media Rec Setting\n\nChoose movie file settings, including destination, file type, and compression.\n\n### Destination\n\nChoose save options and save and output destinations for movies.\n\n| Option | Description |\n|--------|-------------|\n| 1➔2    | Footage is recorded to the memory card in Slot 1 until the card fills. Any additional footage will then automatically be recorded to the card in Slot 2. |\n| 2➔1    | Footage is recorded to the memory card in Slot 2 until the card fills. Any additional footage will then automatically be recorded to the card in Slot 1. |\n| 1+2    | Each movie is recorded twice, once to each card. |\n| HDMI   | Movies are recorded only to devices connected via HDMI. |\n\n> The current movie mode applies to both copies; settings for backup copies cannot be adjusted separately.",
+    "metadata": {
+        "page": 190,
+        "model": "x-t5",
+        "chapter": "The Shooting Menus",
+        "section": "MOVIE SETTING (Movie Recording)",
+        "subsection": [
+            "(Movie)SELF-TIMER",
+            "MEDIA REC SETTING"
+        ],
+        "embedding_model": "text-embedding-3-small",
+        "token": 281
+    }
+}

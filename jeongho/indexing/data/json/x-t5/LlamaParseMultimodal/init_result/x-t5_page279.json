@@ -1,0 +1,55 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "# Connecting to Smartphones (USB)\n\n## Micro-B\n\nUse a USB on-the-go (OTG) cable.\n\n!USB OTG Cable Diagram\n\n- **The smartphone must support USB OTG.**\n- **The desired results cannot be achieved with a USB Type-C–to-Micro-B cable. Use an OTG cable.**\n\n1. **Select either AUTO or POWER SUPPLY OFF/COMM ON for USB POWER SUPPLY/COMM SETTING** in the network/USB setting menu.\n\n2. **Select USB CARD READER for CONNECTION MODE.**\n\n3. **Connect the camera and smartphone using a USB cable.**\n\n   > 💡 **Note:**  \n   > If the smartphone asks for permission for an app other than the “Camera Importer” to access the camera, tap “Cancel” and move on to the next step.\n\n4. **On your smartphone, tap the notification “Connected to USB PTP.”**",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "Connecting to Smartphones (USB)",
+                    "md": "# Connecting to Smartphones (USB)"
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "Micro-B",
+                    "md": "## Micro-B"
+                },
+                {
+                    "type": "text",
+                    "value": "Use a USB on-the-go (OTG) cable.\n\n!USB OTG Cable Diagram\n\n- **The smartphone must support USB OTG.**\n- **The desired results cannot be achieved with a USB Type-C–to-Micro-B cable. Use an OTG cable.**\n\n1. **Select either AUTO or POWER SUPPLY OFF/COMM ON for USB POWER SUPPLY/COMM SETTING** in the network/USB setting menu.\n\n2. **Select USB CARD READER for CONNECTION MODE.**\n\n3. **Connect the camera and smartphone using a USB cable.**\n\n   > 💡 **Note:**  \n   > If the smartphone asks for permission for an app other than the “Camera Importer” to access the camera, tap “Cancel” and move on to the next step.\n\n4. **On your smartphone, tap the notification “Connected to USB PTP.”**",
+                    "md": "Use a USB on-the-go (OTG) cable.\n\n!USB OTG Cable Diagram\n\n- **The smartphone must support USB OTG.**\n- **The desired results cannot be achieved with a USB Type-C–to-Micro-B cable. Use an OTG cable.**\n\n1. **Select either AUTO or POWER SUPPLY OFF/COMM ON for USB POWER SUPPLY/COMM SETTING** in the network/USB setting menu.\n\n2. **Select USB CARD READER for CONNECTION MODE.**\n\n3. **Connect the camera and smartphone using a USB cable.**\n\n   > 💡 **Note:**  \n   > If the smartphone asks for permission for an app other than the “Camera Importer” to access the camera, tap “Cancel” and move on to the next step.\n\n4. **On your smartphone, tap the notification “Connected to USB PTP.”**"
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "parsingMode": "multimodal-openai-gpt4o",
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 637.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "ec2642ae-e47f-4bcb-ae5b-3374f21f1993",
+    "file_path": "../data/raw_data/x-t5/x-t5_split/x-t5_page279.pdf"
+}

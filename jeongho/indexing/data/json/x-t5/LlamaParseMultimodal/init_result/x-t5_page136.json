@@ -1,0 +1,118 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "# Advanced Filter Options\n\nChoose from the following filters:\n\n| Filter                  | Description                                                                 |\n|-------------------------|-----------------------------------------------------------------------------|\n| TOY CAMERA              | Choose for a retro toy camera effect.                                       |\n| MINIATURE               | The tops and bottoms of pictures are blurred for a diorama effect.          |\n| POP COLOR               | Create high-contrast images with saturated colors.                          |\n| HIGH-KEY                | Create bright, low-contrast images.                                         |\n| LOW-KEY                 | Create uniformly dark tones with few areas of emphasized highlights.        |\n| DYNAMIC TONE            | Dynamic tone expression is used for a fantasy effect.                       |\n| SOFT FOCUS              | Create a look that is evenly soft throughout the whole image.               |\n| PARTIAL COLOR (RED)     |                                                                             |\n| PARTIAL COLOR (ORANGE)  |                                                                             |\n| PARTIAL COLOR (YELLOW)  |                                                                             |\n| PARTIAL COLOR (GREEN)   |                                                                             |\n| PARTIAL COLOR (BLUE)    |                                                                             |\n| PARTIAL COLOR (PURPLE)  | Areas of the image that are the selected color are recorded in that color. All other areas of the image are recorded in black-and-white. |\n\n> 💡 **Note:**  \n> Depending on the subject and camera settings, images may in some cases be grainy or vary in brightness or hue.",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "Advanced Filter Options",
+                    "md": "# Advanced Filter Options"
+                },
+                {
+                    "type": "text",
+                    "value": "Choose from the following filters:",
+                    "md": "Choose from the following filters:"
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Filter",
+                            "Description"
+                        ],
+                        [
+                            "TOY CAMERA",
+                            "Choose for a retro toy camera effect."
+                        ],
+                        [
+                            "MINIATURE",
+                            "The tops and bottoms of pictures are blurred for a diorama effect."
+                        ],
+                        [
+                            "POP COLOR",
+                            "Create high-contrast images with saturated colors."
+                        ],
+                        [
+                            "HIGH-KEY",
+                            "Create bright, low-contrast images."
+                        ],
+                        [
+                            "LOW-KEY",
+                            "Create uniformly dark tones with few areas of emphasized highlights."
+                        ],
+                        [
+                            "DYNAMIC TONE",
+                            "Dynamic tone expression is used for a fantasy effect."
+                        ],
+                        [
+                            "SOFT FOCUS",
+                            "Create a look that is evenly soft throughout the whole image."
+                        ],
+                        [
+                            "PARTIAL COLOR (RED)",
+                            ""
+                        ],
+                        [
+                            "PARTIAL COLOR (ORANGE)",
+                            ""
+                        ],
+                        [
+                            "PARTIAL COLOR (YELLOW)",
+                            ""
+                        ],
+                        [
+                            "PARTIAL COLOR (GREEN)",
+                            ""
+                        ],
+                        [
+                            "PARTIAL COLOR (BLUE)",
+                            ""
+                        ],
+                        [
+                            "PARTIAL COLOR (PURPLE)",
+                            "Areas of the image that are the selected color are recorded in that color. All other areas of the image are recorded in black-and-white."
+                        ]
+                    ],
+                    "md": "| Filter                  | Description                                                                 |\n|-------------------------|-----------------------------------------------------------------------------|\n| TOY CAMERA              | Choose for a retro toy camera effect.                                       |\n| MINIATURE               | The tops and bottoms of pictures are blurred for a diorama effect.          |\n| POP COLOR               | Create high-contrast images with saturated colors.                          |\n| HIGH-KEY                | Create bright, low-contrast images.                                         |\n| LOW-KEY                 | Create uniformly dark tones with few areas of emphasized highlights.        |\n| DYNAMIC TONE            | Dynamic tone expression is used for a fantasy effect.                       |\n| SOFT FOCUS              | Create a look that is evenly soft throughout the whole image.               |\n| PARTIAL COLOR (RED)     |                                                                             |\n| PARTIAL COLOR (ORANGE)  |                                                                             |\n| PARTIAL COLOR (YELLOW)  |                                                                             |\n| PARTIAL COLOR (GREEN)   |                                                                             |\n| PARTIAL COLOR (BLUE)    |                                                                             |\n| PARTIAL COLOR (PURPLE)  | Areas of the image that are the selected color are recorded in that color. All other areas of the image are recorded in black-and-white. |",
+                    "isPerfectTable": true,
+                    "csv": "\"Filter\",\"Description\"\n\"TOY CAMERA\",\"Choose for a retro toy camera effect.\"\n\"MINIATURE\",\"The tops and bottoms of pictures are blurred for a diorama effect.\"\n\"POP COLOR\",\"Create high-contrast images with saturated colors.\"\n\"HIGH-KEY\",\"Create bright, low-contrast images.\"\n\"LOW-KEY\",\"Create uniformly dark tones with few areas of emphasized highlights.\"\n\"DYNAMIC TONE\",\"Dynamic tone expression is used for a fantasy effect.\"\n\"SOFT FOCUS\",\"Create a look that is evenly soft throughout the whole image.\"\n\"PARTIAL COLOR (RED)\",\"\"\n\"PARTIAL COLOR (ORANGE)\",\"\"\n\"PARTIAL COLOR (YELLOW)\",\"\"\n\"PARTIAL COLOR (GREEN)\",\"\"\n\"PARTIAL COLOR (BLUE)\",\"\"\n\"PARTIAL COLOR (PURPLE)\",\"Areas of the image that are the selected color are recorded in that color. All other areas of the image are recorded in black-and-white.\""
+                },
+                {
+                    "type": "text",
+                    "value": "> 💡 **Note:**  \n> Depending on the subject and camera settings, images may in some cases be grainy or vary in brightness or hue.",
+                    "md": "> 💡 **Note:**  \n> Depending on the subject and camera settings, images may in some cases be grainy or vary in brightness or hue."
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "parsingMode": "multimodal-openai-gpt4o",
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 367.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "d15d49db-6cf5-4e91-b49f-96cc8921dd82",
+    "file_path": "../data/raw_data/x-t5/x-t5_split/x-t5_page136.pdf"
+}

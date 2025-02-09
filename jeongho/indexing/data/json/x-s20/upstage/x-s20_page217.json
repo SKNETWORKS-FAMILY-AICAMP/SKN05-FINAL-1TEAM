@@ -1,0 +1,406 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<h1 id='0' style='font-size:22px'>TIME CODE SETTING (Movie Recording)</h1>\n<br><h1 id='1' style='font-size:20px'>Adjust time code (hour, minute, second, and frame num-<br>ber) display settings for movie recording.</h1>\n<table id='2' style='font-size:14px'><tr><td>To display time code settings, press</td><td></td><td>TC TIME CODE SETTING CODE DISPLAY</td></tr><tr><td>MENU/OK in the movie shooting display and select the TC (TIME CODE SETTING) tab.</td><td>IQ AF MF TC M MY</td><td>TIME START TIME SETTING COUNT UP SETTING DROP FRAME HDMI TIME CODE OUTPUT BACK EXIT</td></tr></table>\n<p id='3' data-category='paragraph' style='font-size:16px'>TIME CODE DISPLAY</p>\n\n<br><table id='5' style='font-size:16px'><tr><td colspan=\"2\">Options</td></tr><tr><td>ON</td><td>OFF</td></tr><br><caption id='4' style='font-size:18px'>Select ON to display time codes during movie recording and<br>playback.</caption></table>\n<p id='6' data-category='paragraph' style='font-size:16px'>START TIME SETTING</p>\n\n<table id='8' style='font-size:14px'><tr><td>Option</td><td>Description</td></tr><tr><td>MANUAL INPUT</td><td>Choose a start time manually.</td></tr><tr><td>CURRENT TIME</td><td>Set the start time to the current time.</td></tr><tr><td>RESET</td><td>Set the start time to 00:00:00.</td></tr><br><caption id='7' style='font-size:18px'>Choose the time code starting time.</caption></table>\n\n<br><p id='10' data-category='paragraph' style='font-size:18px'>Choose whether time is clocked continuously or only during<br>movie recording.</p>\n<br><table id='11' style='font-size:16px'><tr><td>Option</td><td>Description</td></tr><tr><td>REC RUN</td><td>Time is clocked only during movie recording.</td></tr><tr><td>FREE RUN</td><td>Time is clocked continuously.</td></tr><caption id='9' style='font-size:16px'>COUNT UP SETTING</caption></table>\n<br><footer id='12' style='font-size:22px'>6<br>The<br>Shooting<br>Menus</footer>\n<footer id='13' style='font-size:20px'>217</footer>",
+        "markdown": "# TIME CODE SETTING (Movie Recording)\n\n# Adjust time code (hour, minute, second, and frame num-\nber) display settings for movie recording.\n\n| To display time code settings, press |  | TC TIME CODE SETTING CODE DISPLAY |\n| --- | --- | --- |\n| MENU/OK in the movie shooting display and select the TC (TIME CODE SETTING) tab. | IQ AF MF TC M MY | TIME START TIME SETTING COUNT UP SETTING DROP FRAME HDMI TIME CODE OUTPUT BACK EXIT |\n\n\nTIME CODE DISPLAY\n\nSelect ON to display time codes during movie recording and\nplayback.\n\n| Options | Options |\n| --- | --- |\n| ON | OFF |\n\n\nSTART TIME SETTING\n\nChoose the time code starting time.\n\n| Option | Description |\n| --- | --- |\n| MANUAL INPUT | Choose a start time manually. |\n| CURRENT TIME | Set the start time to the current time. |\n| RESET | Set the start time to 00:00:00. |\n\n\nCOUNT UP SETTING\n\nChoose whether time is clocked continuously or only during\nmovie recording.\n\n| Option | Description |\n| --- | --- |\n| REC RUN | Time is clocked only during movie recording. |\n| FREE RUN | Time is clocked continuously. |\n\n\n6\nThe\nShooting\nMenus\n\n217",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='0' style='font-size:22px'>TIME CODE SETTING (Movie Recording)</h1>",
+                "markdown": "# TIME CODE SETTING (Movie Recording)",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1782,
+                    "y": 0.0735
+                },
+                {
+                    "x": 0.8384,
+                    "y": 0.0735
+                },
+                {
+                    "x": 0.8384,
+                    "y": 0.1001
+                },
+                {
+                    "x": 0.1782,
+                    "y": 0.1001
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='1' style='font-size:20px'>Adjust time code (hour, minute, second, and frame num-<br>ber) display settings for movie recording.</h1>",
+                "markdown": "# Adjust time code (hour, minute, second, and frame num-\nber) display settings for movie recording.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1791,
+                    "y": 0.1095
+                },
+                {
+                    "x": 0.9157,
+                    "y": 0.1095
+                },
+                {
+                    "x": 0.9157,
+                    "y": 0.1584
+                },
+                {
+                    "x": 0.1791,
+                    "y": 0.1584
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='2' style='font-size:14px'><tr><td>To display time code settings, press</td><td></td><td>TC TIME CODE SETTING CODE DISPLAY</td></tr><tr><td>MENU/OK in the movie shooting display and select the TC (TIME CODE SETTING) tab.</td><td>IQ AF MF TC M MY</td><td>TIME START TIME SETTING COUNT UP SETTING DROP FRAME HDMI TIME CODE OUTPUT BACK EXIT</td></tr></table>",
+                "markdown": "| To display time code settings, press |  | TC TIME CODE SETTING CODE DISPLAY |\n| --- | --- | --- |\n| MENU/OK in the movie shooting display and select the TC (TIME CODE SETTING) tab. | IQ AF MF TC M MY | TIME START TIME SETTING COUNT UP SETTING DROP FRAME HDMI TIME CODE OUTPUT BACK EXIT |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1077,
+                    "y": 0.1689
+                },
+                {
+                    "x": 0.9175,
+                    "y": 0.1689
+                },
+                {
+                    "x": 0.9175,
+                    "y": 0.3036
+                },
+                {
+                    "x": 0.1077,
+                    "y": 0.3036
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='3' data-category='paragraph' style='font-size:16px'>TIME CODE DISPLAY</p>",
+                "markdown": "TIME CODE DISPLAY",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.11,
+                    "y": 0.3216
+                },
+                {
+                    "x": 0.3859,
+                    "y": 0.3216
+                },
+                {
+                    "x": 0.3859,
+                    "y": 0.3453
+                },
+                {
+                    "x": 0.11,
+                    "y": 0.3453
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='4' data-category='paragraph' style='font-size:18px'>Select ON to display time codes during movie recording and<br>playback.</p>",
+                "markdown": "Select ON to display time codes during movie recording and\nplayback.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1069,
+                    "y": 0.3536
+                },
+                {
+                    "x": 0.919,
+                    "y": 0.3536
+                },
+                {
+                    "x": 0.919,
+                    "y": 0.4029
+                },
+                {
+                    "x": 0.1069,
+                    "y": 0.4029
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='5' style='font-size:16px'><tr><td colspan=\"2\">Options</td></tr><tr><td>ON</td><td>OFF</td></tr></table>",
+                "markdown": "| Options | Options |\n| --- | --- |\n| ON | OFF |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1287,
+                    "y": 0.4151
+                },
+                {
+                    "x": 0.9297,
+                    "y": 0.4151
+                },
+                {
+                    "x": 0.9297,
+                    "y": 0.4681
+                },
+                {
+                    "x": 0.1287,
+                    "y": 0.4681
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='6' data-category='paragraph' style='font-size:16px'>START TIME SETTING</p>",
+                "markdown": "START TIME SETTING",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1078,
+                    "y": 0.4846
+                },
+                {
+                    "x": 0.3928,
+                    "y": 0.4846
+                },
+                {
+                    "x": 0.3928,
+                    "y": 0.506
+                },
+                {
+                    "x": 0.1078,
+                    "y": 0.506
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='7' data-category='paragraph' style='font-size:18px'>Choose the time code starting time.</p>",
+                "markdown": "Choose the time code starting time.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1066,
+                    "y": 0.5162
+                },
+                {
+                    "x": 0.5627,
+                    "y": 0.5162
+                },
+                {
+                    "x": 0.5627,
+                    "y": 0.5404
+                },
+                {
+                    "x": 0.1066,
+                    "y": 0.5404
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='8' style='font-size:14px'><tr><td>Option</td><td>Description</td></tr><tr><td>MANUAL INPUT</td><td>Choose a start time manually.</td></tr><tr><td>CURRENT TIME</td><td>Set the start time to the current time.</td></tr><tr><td>RESET</td><td>Set the start time to 00:00:00.</td></tr></table>",
+                "markdown": "| Option | Description |\n| --- | --- |\n| MANUAL INPUT | Choose a start time manually. |\n| CURRENT TIME | Set the start time to the current time. |\n| RESET | Set the start time to 00:00:00. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1097,
+                    "y": 0.552
+                },
+                {
+                    "x": 0.9172,
+                    "y": 0.552
+                },
+                {
+                    "x": 0.9172,
+                    "y": 0.6503
+                },
+                {
+                    "x": 0.1097,
+                    "y": 0.6503
+                }
+            ],
+            "id": 8,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='9' data-category='paragraph' style='font-size:16px'>COUNT UP SETTING</p>",
+                "markdown": "COUNT UP SETTING",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1054,
+                    "y": 0.667
+                },
+                {
+                    "x": 0.3797,
+                    "y": 0.667
+                },
+                {
+                    "x": 0.3797,
+                    "y": 0.6908
+                },
+                {
+                    "x": 0.1054,
+                    "y": 0.6908
+                }
+            ],
+            "id": 9,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='10' data-category='paragraph' style='font-size:18px'>Choose whether time is clocked continuously or only during<br>movie recording.</p>",
+                "markdown": "Choose whether time is clocked continuously or only during\nmovie recording.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1058,
+                    "y": 0.6985
+                },
+                {
+                    "x": 0.9166,
+                    "y": 0.6985
+                },
+                {
+                    "x": 0.9166,
+                    "y": 0.7494
+                },
+                {
+                    "x": 0.1058,
+                    "y": 0.7494
+                }
+            ],
+            "id": 10,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='11' style='font-size:16px'><tr><td>Option</td><td>Description</td></tr><tr><td>REC RUN</td><td>Time is clocked only during movie recording.</td></tr><tr><td>FREE RUN</td><td>Time is clocked continuously.</td></tr></table>",
+                "markdown": "| Option | Description |\n| --- | --- |\n| REC RUN | Time is clocked only during movie recording. |\n| FREE RUN | Time is clocked continuously. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1079,
+                    "y": 0.7623
+                },
+                {
+                    "x": 0.9159,
+                    "y": 0.7623
+                },
+                {
+                    "x": 0.9159,
+                    "y": 0.836
+                },
+                {
+                    "x": 0.1079,
+                    "y": 0.836
+                }
+            ],
+            "id": 11,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<br><footer id='12' style='font-size:22px'>6<br>The<br>Shooting<br>Menus</footer>",
+                "markdown": "6\nThe\nShooting\nMenus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9564,
+                    "y": 0.5413
+                },
+                {
+                    "x": 0.9835,
+                    "y": 0.5413
+                },
+                {
+                    "x": 0.9835,
+                    "y": 0.7312
+                },
+                {
+                    "x": 0.9564,
+                    "y": 0.7312
+                }
+            ],
+            "id": 12,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='13' style='font-size:20px'>217</footer>",
+                "markdown": "217",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.8605,
+                    "y": 0.9565
+                },
+                {
+                    "x": 0.9176,
+                    "y": 0.9565
+                },
+                {
+                    "x": 0.9176,
+                    "y": 0.9788
+                },
+                {
+                    "x": 0.8605,
+                    "y": 0.9788
+                }
+            ],
+            "id": 13,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

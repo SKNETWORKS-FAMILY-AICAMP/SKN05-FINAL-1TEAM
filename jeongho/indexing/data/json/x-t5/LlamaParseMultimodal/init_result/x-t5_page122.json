@@ -1,0 +1,84 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "# Sensitivity\n\nAdjust the camera’s sensitivity to light.\n\nPress the sensitivity dial lock release, rotate the dial to the desired setting, and press the release again to lock the dial in place.\n\n!Sensitivity Dial\n\n| Option       | Description                                                                                                                                                      |\n|--------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| **A (auto)** | Sensitivity is automatically adjusted in response to shooting conditions according to option chosen for **SHOOTING SETTING > ISO AUTO SETTING**. Choose from AUTO1, AUTO2, and AUTO3. |\n| **C (command)** | Rotate the front command dial to choose from AUTO1, AUTO2, AUTO3, and values of from 64 to 51200. This range includes “extended” values of 64 to 100, 25600, and 51200. Note that “extended” values may reduce dynamic range or increase mottling. |\n| **125–12800** | Adjust sensitivity manually. Selected value is shown in display.                                                                                                 |\n\n## Adjusting Sensitivity\n\nHigh values can be used to reduce blur when lighting is poor, while lower values allow slower shutter speeds or wider apertures in bright light; note, however, that mottling may appear in pictures taken at high sensitivities.",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "Sensitivity",
+                    "md": "# Sensitivity"
+                },
+                {
+                    "type": "text",
+                    "value": "Adjust the camera’s sensitivity to light.\n\nPress the sensitivity dial lock release, rotate the dial to the desired setting, and press the release again to lock the dial in place.\n\n!Sensitivity Dial",
+                    "md": "Adjust the camera’s sensitivity to light.\n\nPress the sensitivity dial lock release, rotate the dial to the desired setting, and press the release again to lock the dial in place.\n\n!Sensitivity Dial"
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Option",
+                            "Description"
+                        ],
+                        [
+                            "**A (auto)**",
+                            "Sensitivity is automatically adjusted in response to shooting conditions according to option chosen for **SHOOTING SETTING > ISO AUTO SETTING**. Choose from AUTO1, AUTO2, and AUTO3."
+                        ],
+                        [
+                            "**C (command)**",
+                            "Rotate the front command dial to choose from AUTO1, AUTO2, AUTO3, and values of from 64 to 51200. This range includes “extended” values of 64 to 100, 25600, and 51200. Note that “extended” values may reduce dynamic range or increase mottling."
+                        ],
+                        [
+                            "**125–12800**",
+                            "Adjust sensitivity manually. Selected value is shown in display."
+                        ]
+                    ],
+                    "md": "| Option       | Description                                                                                                                                                      |\n|--------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| **A (auto)** | Sensitivity is automatically adjusted in response to shooting conditions according to option chosen for **SHOOTING SETTING > ISO AUTO SETTING**. Choose from AUTO1, AUTO2, and AUTO3. |\n| **C (command)** | Rotate the front command dial to choose from AUTO1, AUTO2, AUTO3, and values of from 64 to 51200. This range includes “extended” values of 64 to 100, 25600, and 51200. Note that “extended” values may reduce dynamic range or increase mottling. |\n| **125–12800** | Adjust sensitivity manually. Selected value is shown in display.                                                                                                 |",
+                    "isPerfectTable": true,
+                    "csv": "\"Option\",\"Description\"\n\"**A (auto)**\",\"Sensitivity is automatically adjusted in response to shooting conditions according to option chosen for **SHOOTING SETTING > ISO AUTO SETTING**. Choose from AUTO1, AUTO2, and AUTO3.\"\n\"**C (command)**\",\"Rotate the front command dial to choose from AUTO1, AUTO2, AUTO3, and values of from 64 to 51200. This range includes “extended” values of 64 to 100, 25600, and 51200. Note that “extended” values may reduce dynamic range or increase mottling.\"\n\"**125–12800**\",\"Adjust sensitivity manually. Selected value is shown in display.\""
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "Adjusting Sensitivity",
+                    "md": "## Adjusting Sensitivity"
+                },
+                {
+                    "type": "text",
+                    "value": "High values can be used to reduce blur when lighting is poor, while lower values allow slower shutter speeds or wider apertures in bright light; note, however, that mottling may appear in pictures taken at high sensitivities.",
+                    "md": "High values can be used to reduce blur when lighting is poor, while lower values allow slower shutter speeds or wider apertures in bright light; note, however, that mottling may appear in pictures taken at high sensitivities."
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "parsingMode": "multimodal-openai-gpt4o",
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 395.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "01c49f07-0ea0-4531-b7cc-ff5e4338ce6d",
+    "file_path": "../data/raw_data/x-t5/x-t5_split/x-t5_page122.pdf"
+}

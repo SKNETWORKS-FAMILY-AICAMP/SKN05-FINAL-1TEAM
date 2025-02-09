@@ -1,0 +1,266 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:14px'>Overview</header>\n\n<table id='2' style='font-size:14px'><tr><td>Feature</td><td>Description</td><td>≡</td></tr><tr><td>Tethered photography</td><td>Take pictures from a computer to which the camera is connected (\"tethered\") via wireless or wired LAN.</td><td>260</td></tr><tr><td>Upload to FTP servers</td><td>Upload files to FTP servers.</td><td>278</td></tr><tr><td>Remote movie recording</td><td>Control the camera and take pictures remotely using a web browser on a computer or tablet.</td><td>293</td></tr><caption id='1' style='font-size:16px'>Features that can be accessed if set by CREATE/EDIT CONNECTION<br>SETTING</caption></table>\n<br><p id='3' data-category='paragraph' style='font-size:20px'>These features can be accessed by selecting a connection setting<br>profile to which the desired settings and connection type have<br>been saved using CREATE/EDIT CONNECTION SETTING.</p>\n\n<table id='5' style='font-size:16px'><tr><td>Feature</td><td>Description</td><td></td></tr><tr><td>Upload to Frame.io</td><td>Upload files to Frame.io.</td><td>270</td></tr><caption id='4' style='font-size:16px'>Features that can be accessed if set by the network/USB setting menu</caption></table>\n<br><p id='6' data-category='paragraph' style='font-size:18px'>These features can be accessed if set by the network/USB setting<br>menu.</p>\n<br><footer id='7' style='font-size:22px'>Network/USB<br>Setting<br>Menus</footer>\n<footer id='8' style='font-size:20px'>243</footer>",
+        "markdown": "Overview\n\nFeatures that can be accessed if set by CREATE/EDIT CONNECTION\nSETTING\n\n| Feature | Description | ≡ |\n| --- | --- | --- |\n| Tethered photography | Take pictures from a computer to which the camera is connected (\"tethered\") via wireless or wired LAN. | 260 |\n| Upload to FTP servers | Upload files to FTP servers. | 278 |\n| Remote movie recording | Control the camera and take pictures remotely using a web browser on a computer or tablet. | 293 |\n\n\nThese features can be accessed by selecting a connection setting\nprofile to which the desired settings and connection type have\nbeen saved using CREATE/EDIT CONNECTION SETTING.\n\nFeatures that can be accessed if set by the network/USB setting menu\n\n| Feature | Description |  |\n| --- | --- | --- |\n| Upload to Frame.io | Upload files to Frame.io. | 270 |\n\n\nThese features can be accessed if set by the network/USB setting\nmenu.\n\nNetwork/USB\nSetting\nMenus\n\n243",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:14px'>Overview</header>",
+                "markdown": "Overview",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.8179,
+                    "y": 0.0289
+                },
+                {
+                    "x": 0.9192,
+                    "y": 0.0289
+                },
+                {
+                    "x": 0.9192,
+                    "y": 0.0493
+                },
+                {
+                    "x": 0.8179,
+                    "y": 0.0493
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='1' data-category='paragraph' style='font-size:16px'>Features that can be accessed if set by CREATE/EDIT CONNECTION<br>SETTING</p>",
+                "markdown": "Features that can be accessed if set by CREATE/EDIT CONNECTION\nSETTING",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.117,
+                    "y": 0.0738
+                },
+                {
+                    "x": 0.9154,
+                    "y": 0.0738
+                },
+                {
+                    "x": 0.9154,
+                    "y": 0.1227
+                },
+                {
+                    "x": 0.117,
+                    "y": 0.1227
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='2' style='font-size:14px'><tr><td>Feature</td><td>Description</td><td>≡</td></tr><tr><td>Tethered photography</td><td>Take pictures from a computer to which the camera is connected (\"tethered\") via wireless or wired LAN.</td><td>260</td></tr><tr><td>Upload to FTP servers</td><td>Upload files to FTP servers.</td><td>278</td></tr><tr><td>Remote movie recording</td><td>Control the camera and take pictures remotely using a web browser on a computer or tablet.</td><td>293</td></tr></table>",
+                "markdown": "| Feature | Description | ≡ |\n| --- | --- | --- |\n| Tethered photography | Take pictures from a computer to which the camera is connected (\"tethered\") via wireless or wired LAN. | 260 |\n| Upload to FTP servers | Upload files to FTP servers. | 278 |\n| Remote movie recording | Control the camera and take pictures remotely using a web browser on a computer or tablet. | 293 |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1089,
+                    "y": 0.1406
+                },
+                {
+                    "x": 0.9153,
+                    "y": 0.1406
+                },
+                {
+                    "x": 0.9153,
+                    "y": 0.2949
+                },
+                {
+                    "x": 0.1089,
+                    "y": 0.2949
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='3' data-category='paragraph' style='font-size:20px'>These features can be accessed by selecting a connection setting<br>profile to which the desired settings and connection type have<br>been saved using CREATE/EDIT CONNECTION SETTING.</p>",
+                "markdown": "These features can be accessed by selecting a connection setting\nprofile to which the desired settings and connection type have\nbeen saved using CREATE/EDIT CONNECTION SETTING.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1058,
+                    "y": 0.3063
+                },
+                {
+                    "x": 0.9191,
+                    "y": 0.3063
+                },
+                {
+                    "x": 0.9191,
+                    "y": 0.3834
+                },
+                {
+                    "x": 0.1058,
+                    "y": 0.3834
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='4' data-category='paragraph' style='font-size:16px'>Features that can be accessed if set by the network/USB setting menu</p>",
+                "markdown": "Features that can be accessed if set by the network/USB setting menu",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1151,
+                    "y": 0.4041
+                },
+                {
+                    "x": 0.9018,
+                    "y": 0.4041
+                },
+                {
+                    "x": 0.9018,
+                    "y": 0.4293
+                },
+                {
+                    "x": 0.1151,
+                    "y": 0.4293
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='5' style='font-size:16px'><tr><td>Feature</td><td>Description</td><td></td></tr><tr><td>Upload to Frame.io</td><td>Upload files to Frame.io.</td><td>270</td></tr></table>",
+                "markdown": "| Feature | Description |  |\n| --- | --- | --- |\n| Upload to Frame.io | Upload files to Frame.io. | 270 |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1098,
+                    "y": 0.4455
+                },
+                {
+                    "x": 0.9156,
+                    "y": 0.4455
+                },
+                {
+                    "x": 0.9156,
+                    "y": 0.5019
+                },
+                {
+                    "x": 0.1098,
+                    "y": 0.5019
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='6' data-category='paragraph' style='font-size:18px'>These features can be accessed if set by the network/USB setting<br>menu.</p>",
+                "markdown": "These features can be accessed if set by the network/USB setting\nmenu.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1067,
+                    "y": 0.5132
+                },
+                {
+                    "x": 0.9164,
+                    "y": 0.5132
+                },
+                {
+                    "x": 0.9164,
+                    "y": 0.5631
+                },
+                {
+                    "x": 0.1067,
+                    "y": 0.5631
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<br><footer id='7' style='font-size:22px'>Network/USB<br>Setting<br>Menus</footer>",
+                "markdown": "Network/USB\nSetting\nMenus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.957,
+                    "y": 0.4299
+                },
+                {
+                    "x": 0.9799,
+                    "y": 0.4299
+                },
+                {
+                    "x": 0.9799,
+                    "y": 0.6363
+                },
+                {
+                    "x": 0.957,
+                    "y": 0.6363
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='8' style='font-size:20px'>243</footer>",
+                "markdown": "243",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.8602,
+                    "y": 0.9562
+                },
+                {
+                    "x": 0.9176,
+                    "y": 0.9562
+                },
+                {
+                    "x": 0.9176,
+                    "y": 0.9795
+                },
+                {
+                    "x": 0.8602,
+                    "y": 0.9795
+                }
+            ],
+            "id": 8,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

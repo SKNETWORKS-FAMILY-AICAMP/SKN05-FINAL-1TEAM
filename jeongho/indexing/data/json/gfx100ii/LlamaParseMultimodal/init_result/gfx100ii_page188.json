@@ -1,0 +1,109 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "# Depth-of-Field Scale\n\nChoose the basis for the depth-of-field scale.\n\n| Option            | Description                                                                                                                                  |\n|-------------------|----------------------------------------------------------------------------------------------------------------------------------------------|\n| **PIXEL BASIS**   | Provides a precision reference for use when assessing depth of field for pictures that will be viewed at high resolutions on computers or other electronic displays. |\n| **FILM FORMAT BASIS** | Provides a practical reference for use when assessing depth of field for pictures that will be viewed at lower resolutions, for example as prints. |\n\n> 📘 Any changes made using this item also apply in movie mode.\n\n# Release/Focus Priority\n\nChoose how the camera behaves when the shutter button is pressed all the way down. Settings for AF-S and AF-C focus modes can be selected separately.\n\n| Option   | Description                                                                                     |\n|----------|-------------------------------------------------------------------------------------------------|\n| **RELEASE** | Shutter response is prioritized over focus. Pictures can be taken when the camera is not in focus. |\n| **FOCUS**   | Focus is prioritized over shutter response. Pictures can be only taken when the camera is in focus. |\n\n> ⚠️ Regardless of the option selected, pictures can still be taken when the camera is not in focus if **ON** is selected for **AF+MF**.",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "Depth-of-Field Scale",
+                    "md": "# Depth-of-Field Scale"
+                },
+                {
+                    "type": "text",
+                    "value": "Choose the basis for the depth-of-field scale.",
+                    "md": "Choose the basis for the depth-of-field scale."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Option",
+                            "Description"
+                        ],
+                        [
+                            "**PIXEL BASIS**",
+                            "Provides a precision reference for use when assessing depth of field for pictures that will be viewed at high resolutions on computers or other electronic displays."
+                        ],
+                        [
+                            "**FILM FORMAT BASIS**",
+                            "Provides a practical reference for use when assessing depth of field for pictures that will be viewed at lower resolutions, for example as prints."
+                        ]
+                    ],
+                    "md": "| Option            | Description                                                                                                                                  |\n|-------------------|----------------------------------------------------------------------------------------------------------------------------------------------|\n| **PIXEL BASIS**   | Provides a precision reference for use when assessing depth of field for pictures that will be viewed at high resolutions on computers or other electronic displays. |\n| **FILM FORMAT BASIS** | Provides a practical reference for use when assessing depth of field for pictures that will be viewed at lower resolutions, for example as prints. |",
+                    "isPerfectTable": true,
+                    "csv": "\"Option\",\"Description\"\n\"**PIXEL BASIS**\",\"Provides a precision reference for use when assessing depth of field for pictures that will be viewed at high resolutions on computers or other electronic displays.\"\n\"**FILM FORMAT BASIS**\",\"Provides a practical reference for use when assessing depth of field for pictures that will be viewed at lower resolutions, for example as prints.\""
+                },
+                {
+                    "type": "text",
+                    "value": "> 📘 Any changes made using this item also apply in movie mode.",
+                    "md": "> 📘 Any changes made using this item also apply in movie mode."
+                },
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "Release/Focus Priority",
+                    "md": "# Release/Focus Priority"
+                },
+                {
+                    "type": "text",
+                    "value": "Choose how the camera behaves when the shutter button is pressed all the way down. Settings for AF-S and AF-C focus modes can be selected separately.",
+                    "md": "Choose how the camera behaves when the shutter button is pressed all the way down. Settings for AF-S and AF-C focus modes can be selected separately."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Option",
+                            "Description"
+                        ],
+                        [
+                            "**RELEASE**",
+                            "Shutter response is prioritized over focus. Pictures can be taken when the camera is not in focus."
+                        ],
+                        [
+                            "**FOCUS**",
+                            "Focus is prioritized over shutter response. Pictures can be only taken when the camera is in focus."
+                        ]
+                    ],
+                    "md": "| Option   | Description                                                                                     |\n|----------|-------------------------------------------------------------------------------------------------|\n| **RELEASE** | Shutter response is prioritized over focus. Pictures can be taken when the camera is not in focus. |\n| **FOCUS**   | Focus is prioritized over shutter response. Pictures can be only taken when the camera is in focus. |",
+                    "isPerfectTable": true,
+                    "csv": "\"Option\",\"Description\"\n\"**RELEASE**\",\"Shutter response is prioritized over focus. Pictures can be taken when the camera is not in focus.\"\n\"**FOCUS**\",\"Focus is prioritized over shutter response. Pictures can be only taken when the camera is in focus.\""
+                },
+                {
+                    "type": "text",
+                    "value": "> ⚠️ Regardless of the option selected, pictures can still be taken when the camera is not in focus if **ON** is selected for **AF+MF**.",
+                    "md": "> ⚠️ Regardless of the option selected, pictures can still be taken when the camera is not in focus if **ON** is selected for **AF+MF**."
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 493.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "084e8540-27b4-4ab0-9e40-58cdf15b608d",
+    "file_path": "../data/raw_data/gfx100ii/gfx100ii_split/gfx100ii_page188.pdf"
+}

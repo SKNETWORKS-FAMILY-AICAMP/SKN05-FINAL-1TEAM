@@ -1,0 +1,101 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "# SCREEN SETTING\n\n## SUB MONITOR BACKGROUND COLOR\n\nAdjusting the background color of the secondary LCD monitor according to lighting conditions makes the display easier to read.\n\n| Option | Description                                           |\n|--------|-------------------------------------------------------|\n| BLACK  | Recommended for use with dark ambient lighting.       |\n| WHITE  | Recommended for use with bright ambient lighting.     |\n\n> The background is displayed in white when the secondary LCD monitor backlight is on.\n\n## Q MENU BACKGROUND\n\nChoose the background color used for the quick menu when it is displayed during still photography.\n\n**Options:**\n\n- TRANSPARENT\n- BLACK\n\n## Q MENU BACKGROUND\n\nChoose the background color used for the quick menu when it is displayed during movie recording.\n\n**Options:**\n\n- TRANSPARENT\n- BLACK",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "SCREEN SETTING",
+                    "md": "# SCREEN SETTING"
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "SUB MONITOR BACKGROUND COLOR",
+                    "md": "## SUB MONITOR BACKGROUND COLOR"
+                },
+                {
+                    "type": "text",
+                    "value": "Adjusting the background color of the secondary LCD monitor according to lighting conditions makes the display easier to read.",
+                    "md": "Adjusting the background color of the secondary LCD monitor according to lighting conditions makes the display easier to read."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Option",
+                            "Description"
+                        ],
+                        [
+                            "BLACK",
+                            "Recommended for use with dark ambient lighting."
+                        ],
+                        [
+                            "WHITE",
+                            "Recommended for use with bright ambient lighting."
+                        ]
+                    ],
+                    "md": "| Option | Description                                           |\n|--------|-------------------------------------------------------|\n| BLACK  | Recommended for use with dark ambient lighting.       |\n| WHITE  | Recommended for use with bright ambient lighting.     |",
+                    "isPerfectTable": true,
+                    "csv": "\"Option\",\"Description\"\n\"BLACK\",\"Recommended for use with dark ambient lighting.\"\n\"WHITE\",\"Recommended for use with bright ambient lighting.\""
+                },
+                {
+                    "type": "text",
+                    "value": "> The background is displayed in white when the secondary LCD monitor backlight is on.",
+                    "md": "> The background is displayed in white when the secondary LCD monitor backlight is on."
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "Q MENU BACKGROUND",
+                    "md": "## Q MENU BACKGROUND"
+                },
+                {
+                    "type": "text",
+                    "value": "Choose the background color used for the quick menu when it is displayed during still photography.\n\n**Options:**\n\n- TRANSPARENT\n- BLACK",
+                    "md": "Choose the background color used for the quick menu when it is displayed during still photography.\n\n**Options:**\n\n- TRANSPARENT\n- BLACK"
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "Q MENU BACKGROUND",
+                    "md": "## Q MENU BACKGROUND"
+                },
+                {
+                    "type": "text",
+                    "value": "Choose the background color used for the quick menu when it is displayed during movie recording.\n\n**Options:**\n\n- TRANSPARENT\n- BLACK",
+                    "md": "Choose the background color used for the quick menu when it is displayed during movie recording.\n\n**Options:**\n\n- TRANSPARENT\n- BLACK"
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 434.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "e5e33ac5-c98c-4866-af81-ada4600a7d50",
+    "file_path": "../data/raw_data/gfx100ii/gfx100ii_split/gfx100ii_page384.pdf"
+}

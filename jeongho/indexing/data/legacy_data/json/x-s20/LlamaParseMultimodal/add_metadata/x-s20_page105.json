@@ -1,0 +1,8 @@
+{
+    "parsing_result": "# AUTO\n\nChoose the base sensitivity, maximum sensitivity, and minimum shutter speed for AUTO1, AUTO2, and AUTO3.\n\n| Item                | Options       | AUTO1 | AUTO2 | AUTO3 |\n|---------------------|---------------|-------|-------|-------|\n| DEFAULT SENSITIVITY | 160–12800     | 160   | 160   | 160   |\n| MAX. SENSITIVITY    | 400–12800     | 800   | 3200  | 12800 |\n| MIN. SHUTTER SPEED  | 1/4000–30 SEC, AUTO | AUTO  | AUTO  | AUTO  |\n\nThe camera automatically chooses a sensitivity between the default and maximum values; sensitivity is only raised above the default value if the shutter speed required for optimal exposure would be slower than the value selected for MIN. SHUTTER SPEED.\n\n> - If the value selected for **DEFAULT SENSITIVITY** is higher than that selected for **MAX. SENSITIVITY**, **DEFAULT SENSITIVITY** will be set to the value selected for **MAX. SENSITIVITY**.\n> - The camera may select shutter speeds slower than **MIN. SHUTTER SPEED** if pictures would still be underexposed at the value selected for **MAX. SENSITIVITY**.\n> - If **AUTO** is selected for **MIN. SHUTTER SPEED**, the camera will choose the minimum shutter speed automatically. The minimum shutter speed is not affected by the option selected for image stabilization.",
+    "embedding_result": [],
+    "metadata": {
+        "page": 105,
+        "model": "x-s20"
+    }
+}

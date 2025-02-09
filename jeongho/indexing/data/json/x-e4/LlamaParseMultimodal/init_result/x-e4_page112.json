@@ -1,0 +1,60 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "\n## ISO BKT\n\nSelect a bracketing amount (±⅓, ±⅔, or ±1) in the drive mode display. Each time the shutter is released, the camera will take a picture at the current sensitivity and process it to create two additional copies, one with sensitivity raised and the other with sensitivity lowered by the selected amount.\n\n## WHITE BALANCE BKT\n\nSelect a bracketing amount (±1, ±2, or ±3) in the drive mode display. Each time the shutter is released, the camera takes one shot and processes it to create three copies: one at the current white balanced setting, one with fine-tuning increased by the selected amount, and another with fine-tuning decreased by the selected amount.\n",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "ISO BKT",
+                    "md": "## ISO BKT"
+                },
+                {
+                    "type": "text",
+                    "value": "Select a bracketing amount (±⅓, ±⅔, or ±1) in the drive mode display. Each time the shutter is released, the camera will take a picture at the current sensitivity and process it to create two additional copies, one with sensitivity raised and the other with sensitivity lowered by the selected amount.",
+                    "md": "Select a bracketing amount (±⅓, ±⅔, or ±1) in the drive mode display. Each time the shutter is released, the camera will take a picture at the current sensitivity and process it to create two additional copies, one with sensitivity raised and the other with sensitivity lowered by the selected amount."
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "WHITE BALANCE BKT",
+                    "md": "## WHITE BALANCE BKT"
+                },
+                {
+                    "type": "text",
+                    "value": "Select a bracketing amount (±1, ±2, or ±3) in the drive mode display. Each time the shutter is released, the camera takes one shot and processes it to create three copies: one at the current white balanced setting, one with fine-tuning increased by the selected amount, and another with fine-tuning decreased by the selected amount.",
+                    "md": "Select a bracketing amount (±1, ±2, or ±3) in the drive mode display. Each time the shutter is released, the camera takes one shot and processes it to create three copies: one at the current white balanced setting, one with fine-tuning increased by the selected amount, and another with fine-tuning decreased by the selected amount."
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "parsingMode": "multimodal-openai-gpt4o",
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 161.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "c64eb118-4c95-4d09-9eab-f9a41a3fb131",
+    "file_path": "../data/raw_data/x-e4/x-e4_split/x-e4_page112.pdf"
+}

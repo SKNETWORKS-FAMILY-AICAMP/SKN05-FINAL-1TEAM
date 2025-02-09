@@ -1,0 +1,121 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "# HEIF TO JPEG/TIFF CONVERSION\n\nConvert HEIF pictures to JPEG or TIFF.\n\n## SELECT IMAGES\nSelect HEIF pictures for conversion.\n\n## FILE FORMAT\nChoose a format for the converted pictures.\n\n| Options   |\n|-----------|\n| JPEG      |\n| TIFF 8bit |\n| TIFF 16bit|\n\n## SELECT SLOT TO RECORD\nChoose the destination to which the converted pictures will be saved.\n\n| Options |\n|---------|\n| SSD     |\n| SLOT 1  |\n| SLOT 2  |",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "HEIF TO JPEG/TIFF CONVERSION",
+                    "md": "# HEIF TO JPEG/TIFF CONVERSION"
+                },
+                {
+                    "type": "text",
+                    "value": "Convert HEIF pictures to JPEG or TIFF.",
+                    "md": "Convert HEIF pictures to JPEG or TIFF."
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "SELECT IMAGES",
+                    "md": "## SELECT IMAGES"
+                },
+                {
+                    "type": "text",
+                    "value": "Select HEIF pictures for conversion.",
+                    "md": "Select HEIF pictures for conversion."
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "FILE FORMAT",
+                    "md": "## FILE FORMAT"
+                },
+                {
+                    "type": "text",
+                    "value": "Choose a format for the converted pictures.",
+                    "md": "Choose a format for the converted pictures."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Options"
+                        ],
+                        [
+                            "JPEG"
+                        ],
+                        [
+                            "TIFF 8bit"
+                        ],
+                        [
+                            "TIFF 16bit"
+                        ]
+                    ],
+                    "md": "| Options   |\n|-----------|\n| JPEG      |\n| TIFF 8bit |\n| TIFF 16bit|",
+                    "isPerfectTable": true,
+                    "csv": "\"Options\"\n\"JPEG\"\n\"TIFF 8bit\"\n\"TIFF 16bit\""
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "SELECT SLOT TO RECORD",
+                    "md": "## SELECT SLOT TO RECORD"
+                },
+                {
+                    "type": "text",
+                    "value": "Choose the destination to which the converted pictures will be saved.",
+                    "md": "Choose the destination to which the converted pictures will be saved."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Options"
+                        ],
+                        [
+                            "SSD"
+                        ],
+                        [
+                            "SLOT 1"
+                        ],
+                        [
+                            "SLOT 2"
+                        ]
+                    ],
+                    "md": "| Options |\n|---------|\n| SSD     |\n| SLOT 1  |\n| SLOT 2  |",
+                    "isPerfectTable": true,
+                    "csv": "\"Options\"\n\"SSD\"\n\"SLOT 1\"\n\"SLOT 2\""
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 470.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "f32b5225-eab6-4ed9-a120-428ce62e0379",
+    "file_path": "../data/raw_data/gfx100ii/gfx100ii_split/gfx100ii_page251.pdf"
+}

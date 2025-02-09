@@ -1,0 +1,322 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:14px'>IMAGE QUALITY SETTING</header>\n<h1 id='1' style='font-size:18px'>PIXEL MAPPING</h1>\n<br><p id='2' data-category='paragraph' style='font-size:20px'>Use this option if you notice bright spots in your pictures.</p>\n<p id='3' data-category='paragraph' style='font-size:20px'>1 Press MENU/OK in the shooting display and select the I.Q. IMAGE<br>QUALITY SETTING tab.</p>\n<p id='4' data-category='list' style='font-size:22px'>2 Highlight PIXEL MAPPING and press MENU/OK to perform pix-<br>el mapping.</p>\n<p id='5' data-category='list' style='font-size:16px'>● Results are not guaranteed.<br>● Be sure the battery is fully charged before beginning pixel mapping.<br>● Pixel mapping is not available when the camera temperature is ele-<br>vated.<br>● Processing may take a few seconds.</p>\n<p id='6' data-category='paragraph' style='font-size:18px'>SELECT CUSTOM SETTING</p>\n\n<table id='8' style='font-size:14px'><tr><td colspan=\"5\">Banks</td></tr><tr><td>CUSTOM 1</td><td colspan=\"2\">CUSTOM2</td><td colspan=\"2\">CUSTOM 3 CUSTOM 4</td></tr><tr><td colspan=\"2\">CUSTOM 5</td><td>CUSTOM 6</td><td colspan=\"2\">CUSTOM 7</td></tr><br><caption id='7' style='font-size:20px'>Settings can be recalled from any of the seven custom settings<br>banks.</caption></table>\n<footer id='9' style='font-size:16px'>1 1 7</footer>\n<br><footer id='10' style='font-size:22px'>6<br>The<br>Shooting<br>Menus</footer>",
+        "markdown": "IMAGE QUALITY SETTING\n\n# PIXEL MAPPING\n\nUse this option if you notice bright spots in your pictures.\n\n1 Press MENU/OK in the shooting display and select the I.Q. IMAGE\nQUALITY SETTING tab.\n\n- 2 Highlight PIXEL MAPPING and press MENU/OK to perform pix-\n- el mapping.\n\n\n- ● Results are not guaranteed.\n- ● Be sure the battery is fully charged before beginning pixel mapping.\n- ● Pixel mapping is not available when the camera temperature is ele-\n- vated.\n- ● Processing may take a few seconds.\n\n\nSELECT CUSTOM SETTING\n\nSettings can be recalled from any of the seven custom settings\nbanks.\n\n| Banks | Banks | Banks | Banks | Banks |\n| --- | --- | --- | --- | --- |\n| CUSTOM 1 | CUSTOM2 | CUSTOM2 | CUSTOM 3 CUSTOM 4 | CUSTOM 3 CUSTOM 4 |\n| CUSTOM 5 | CUSTOM 5 | CUSTOM 6 | CUSTOM 7 | CUSTOM 7 |\n\n\n1 1 7\n\n6\nThe\nShooting\nMenus",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:14px'>IMAGE QUALITY SETTING</header>",
+                "markdown": "IMAGE QUALITY SETTING",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6686,
+                    "y": 0.0283
+                },
+                {
+                    "x": 0.9185,
+                    "y": 0.0283
+                },
+                {
+                    "x": 0.9185,
+                    "y": 0.0497
+                },
+                {
+                    "x": 0.6686,
+                    "y": 0.0497
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='1' style='font-size:18px'>PIXEL MAPPING</h1>",
+                "markdown": "# PIXEL MAPPING",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1099,
+                    "y": 0.0731
+                },
+                {
+                    "x": 0.3284,
+                    "y": 0.0731
+                },
+                {
+                    "x": 0.3284,
+                    "y": 0.0942
+                },
+                {
+                    "x": 0.1099,
+                    "y": 0.0942
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='2' data-category='paragraph' style='font-size:20px'>Use this option if you notice bright spots in your pictures.</p>",
+                "markdown": "Use this option if you notice bright spots in your pictures.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1063,
+                    "y": 0.1043
+                },
+                {
+                    "x": 0.8323,
+                    "y": 0.1043
+                },
+                {
+                    "x": 0.8323,
+                    "y": 0.1295
+                },
+                {
+                    "x": 0.1063,
+                    "y": 0.1295
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='3' data-category='paragraph' style='font-size:20px'>1 Press MENU/OK in the shooting display and select the I.Q. IMAGE<br>QUALITY SETTING tab.</p>",
+                "markdown": "1 Press MENU/OK in the shooting display and select the I.Q. IMAGE\nQUALITY SETTING tab.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1265,
+                    "y": 0.143
+                },
+                {
+                    "x": 0.9197,
+                    "y": 0.143
+                },
+                {
+                    "x": 0.9197,
+                    "y": 0.1918
+                },
+                {
+                    "x": 0.1265,
+                    "y": 0.1918
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "list",
+            "content": {
+                "html": "<p id='4' data-category='list' style='font-size:22px'>2 Highlight PIXEL MAPPING and press MENU/OK to perform pix-<br>el mapping.</p>",
+                "markdown": "- 2 Highlight PIXEL MAPPING and press MENU/OK to perform pix-\n- el mapping.\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1222,
+                    "y": 0.2069
+                },
+                {
+                    "x": 0.9162,
+                    "y": 0.2069
+                },
+                {
+                    "x": 0.9162,
+                    "y": 0.2567
+                },
+                {
+                    "x": 0.1222,
+                    "y": 0.2567
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "list",
+            "content": {
+                "html": "<p id='5' data-category='list' style='font-size:16px'>● Results are not guaranteed.<br>● Be sure the battery is fully charged before beginning pixel mapping.<br>● Pixel mapping is not available when the camera temperature is ele-<br>vated.<br>● Processing may take a few seconds.</p>",
+                "markdown": "- ● Results are not guaranteed.\n- ● Be sure the battery is fully charged before beginning pixel mapping.\n- ● Pixel mapping is not available when the camera temperature is ele-\n- vated.\n- ● Processing may take a few seconds.\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.125,
+                    "y": 0.2707
+                },
+                {
+                    "x": 0.9135,
+                    "y": 0.2707
+                },
+                {
+                    "x": 0.9135,
+                    "y": 0.386
+                },
+                {
+                    "x": 0.125,
+                    "y": 0.386
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='6' data-category='paragraph' style='font-size:18px'>SELECT CUSTOM SETTING</p>",
+                "markdown": "SELECT CUSTOM SETTING",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1063,
+                    "y": 0.406
+                },
+                {
+                    "x": 0.4617,
+                    "y": 0.406
+                },
+                {
+                    "x": 0.4617,
+                    "y": 0.429
+                },
+                {
+                    "x": 0.1063,
+                    "y": 0.429
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='7' data-category='paragraph' style='font-size:20px'>Settings can be recalled from any of the seven custom settings<br>banks.</p>",
+                "markdown": "Settings can be recalled from any of the seven custom settings\nbanks.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1065,
+                    "y": 0.4381
+                },
+                {
+                    "x": 0.9184,
+                    "y": 0.4381
+                },
+                {
+                    "x": 0.9184,
+                    "y": 0.4864
+                },
+                {
+                    "x": 0.1065,
+                    "y": 0.4864
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='8' style='font-size:14px'><tr><td colspan=\"5\">Banks</td></tr><tr><td>CUSTOM 1</td><td colspan=\"2\">CUSTOM2</td><td colspan=\"2\">CUSTOM 3 CUSTOM 4</td></tr><tr><td colspan=\"2\">CUSTOM 5</td><td>CUSTOM 6</td><td colspan=\"2\">CUSTOM 7</td></tr></table>",
+                "markdown": "| Banks | Banks | Banks | Banks | Banks |\n| --- | --- | --- | --- | --- |\n| CUSTOM 1 | CUSTOM2 | CUSTOM2 | CUSTOM 3 CUSTOM 4 | CUSTOM 3 CUSTOM 4 |\n| CUSTOM 5 | CUSTOM 5 | CUSTOM 6 | CUSTOM 7 | CUSTOM 7 |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1112,
+                    "y": 0.501
+                },
+                {
+                    "x": 0.9124,
+                    "y": 0.501
+                },
+                {
+                    "x": 0.9124,
+                    "y": 0.5738
+                },
+                {
+                    "x": 0.1112,
+                    "y": 0.5738
+                }
+            ],
+            "id": 8,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='9' style='font-size:16px'>1 1 7</footer>",
+                "markdown": "1 1 7",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.862,
+                    "y": 0.9567
+                },
+                {
+                    "x": 0.9178,
+                    "y": 0.9567
+                },
+                {
+                    "x": 0.9178,
+                    "y": 0.9788
+                },
+                {
+                    "x": 0.862,
+                    "y": 0.9788
+                }
+            ],
+            "id": 9,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<br><footer id='10' style='font-size:22px'>6<br>The<br>Shooting<br>Menus</footer>",
+                "markdown": "6\nThe\nShooting\nMenus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9563,
+                    "y": 0.5406
+                },
+                {
+                    "x": 0.9823,
+                    "y": 0.5406
+                },
+                {
+                    "x": 0.9823,
+                    "y": 0.7315
+                },
+                {
+                    "x": 0.9563,
+                    "y": 0.7315
+                }
+            ],
+            "id": 10,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "parsing_result": "# AF-C Custom Settings\n\nSelect focus-tracking options for focus mode C. Choose from Sets 1–5 according to your subject or select Set 6 for custom focus-tracking options.\n\n!AF-C Custom Settings Display\n\n| Option | Description |\n|--------|-------------|\n| **Set 1 Multi Purpose** | A standard tracking option that works well with the typical range of moving subjects. |\n| **Set 2 Ignore Obstacles & Continue to Track Subject** | The focus system attempts to track the chosen subject. Choose with subjects that are hard to keep in the focus area or if other objects are likely to enter the focus area with the subject. |\n| **Set 3 For Accelerating/Decelerating Subject** | The focus system attempts to compensate for subject acceleration or deceleration. Choose for subjects prone to rapid changes in velocity. |\n| **Set 4 For Suddenly Appearing Subject** | The focus system attempts to focus quickly on subjects entering the focus area. Choose for subjects that appear abruptly or when rapidly switching subjects. |\n| **Set 5 For Erratically Moving & Accel./Decel. Subject** | Choose for hard-to-track subjects prone not only to sudden changes in velocity but also to large movements front to back and left to right. |\n| **Set 6 Custom** | Adjust **Tracking Sensitivity**, **Speed Tracking Sensitivity**, and **Zone Area Switching** to suit your preferences based on the values for Sets 1–5 (pages 145, 147). |",
+    "metadata": {
+        "page": 144,
+        "model": "x-t5",
+        "chapter": "The Shooting Menus",
+        "section": "AF/MF SETTING (Still Photography)",
+        "subsection": [
+            "AF-C CUSTOM SETTINGS"
+        ],
+        "embedding_model": "text-embedding-3-small",
+        "token": 308
+    }
+}

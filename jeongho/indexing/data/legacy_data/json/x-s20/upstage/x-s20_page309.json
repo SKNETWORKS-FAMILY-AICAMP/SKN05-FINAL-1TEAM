@@ -1,0 +1,70 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<p id='0' data-category='paragraph' style='font-size:18px'>1<br>Shortcuts</p>\n<footer id='1' style='font-size:14px'>307</footer>",
+        "markdown": "1\nShortcuts\n\n307",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='0' data-category='paragraph' style='font-size:18px'>1<br>Shortcuts</p>",
+                "markdown": "1\nShortcuts",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.5611,
+                    "y": 0.2533
+                },
+                {
+                    "x": 0.9182,
+                    "y": 0.2533
+                },
+                {
+                    "x": 0.9182,
+                    "y": 0.3987
+                },
+                {
+                    "x": 0.5611,
+                    "y": 0.3987
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='1' style='font-size:14px'>307</footer>",
+                "markdown": "307",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.8605,
+                    "y": 0.9564
+                },
+                {
+                    "x": 0.9177,
+                    "y": 0.9564
+                },
+                {
+                    "x": 0.9177,
+                    "y": 0.9791
+                },
+                {
+                    "x": 0.8605,
+                    "y": 0.9791
+                }
+            ],
+            "id": 1,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

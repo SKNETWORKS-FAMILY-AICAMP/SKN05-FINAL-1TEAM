@@ -1,0 +1,266 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:16px'>Charging the Battery</header>\n<h1 id='1' style='font-size:20px'>Charging via Computer</h1>\n\n<h1 id='3' style='font-size:14px'>2</h1>\n<br><figure id='4'><img alt=\"\" data-coord=\"top-left:(419,629); bottom-right:(2343,1641)\" /><br><figcaption id='2' style='font-size:14px'>The camera can be charged via USB. USB charging is available with com-<br>puters with a manufacturer-approved operating system and USB interface.</figcaption></figure>\n<br><header id='5' style='font-size:22px'>First<br>Steps</header>\n<p id='6' data-category='paragraph' style='font-size:18px'>Leave the computer on during charging.</p>\n<br><p id='7' data-category='list' style='font-size:14px'>● The battery will not charge while the camera is on.<br>Connect the supplied USB cable.<br>● Connect the camera directly to the computer; do not use a USB hub<br>or keyboard.<br>● Charging stops if the computer enters sleep mode. To resume<br>charging, activate the computer and disconnect and reconnect the<br>USB cable.<br>● Charging may not be supported depending on the model of com-<br>puter, computer settings, and the computer's current state.<br>● The battery takes about 600 minutes to charge with a charging input<br>of 5 V/500 mA.</p>\n<footer id='8' style='font-size:18px'>40</footer>",
+        "markdown": "Charging the Battery\n\n# Charging via Computer\n\nThe camera can be charged via USB. USB charging is available with com-\nputers with a manufacturer-approved operating system and USB interface.\n\n# 2\n\n![image](/image/placeholder)\n\n\nFirst\nSteps\n\nLeave the computer on during charging.\n\n- ● The battery will not charge while the camera is on.\n- Connect the supplied USB cable.\n- ● Connect the camera directly to the computer; do not use a USB hub\n- or keyboard.\n- ● Charging stops if the computer enters sleep mode. To resume\n- charging, activate the computer and disconnect and reconnect the\n- USB cable.\n- ● Charging may not be supported depending on the model of com-\n- puter, computer settings, and the computer's current state.\n- ● The battery takes about 600 minutes to charge with a charging input\n- of 5 V/500 mA.\n\n\n40",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:16px'>Charging the Battery</header>",
+                "markdown": "Charging the Battery",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6852,
+                    "y": 0.029
+                },
+                {
+                    "x": 0.8927,
+                    "y": 0.029
+                },
+                {
+                    "x": 0.8927,
+                    "y": 0.0515
+                },
+                {
+                    "x": 0.6852,
+                    "y": 0.0515
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='1' style='font-size:20px'>Charging via Computer</h1>",
+                "markdown": "# Charging via Computer",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0877,
+                    "y": 0.0729
+                },
+                {
+                    "x": 0.3152,
+                    "y": 0.0729
+                },
+                {
+                    "x": 0.3152,
+                    "y": 0.0939
+                },
+                {
+                    "x": 0.0877,
+                    "y": 0.0939
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='2' data-category='paragraph' style='font-size:14px'>The camera can be charged via USB. USB charging is available with com-<br>puters with a manufacturer-approved operating system and USB interface.</p>",
+                "markdown": "The camera can be charged via USB. USB charging is available with com-\nputers with a manufacturer-approved operating system and USB interface.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0815,
+                    "y": 0.0941
+                },
+                {
+                    "x": 0.893,
+                    "y": 0.0941
+                },
+                {
+                    "x": 0.893,
+                    "y": 0.1409
+                },
+                {
+                    "x": 0.0815,
+                    "y": 0.1409
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='3' style='font-size:14px'>2</h1>",
+                "markdown": "# 2",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0278,
+                    "y": 0.2999
+                },
+                {
+                    "x": 0.0423,
+                    "y": 0.2999
+                },
+                {
+                    "x": 0.0423,
+                    "y": 0.3161
+                },
+                {
+                    "x": 0.0278,
+                    "y": 0.3161
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "figure",
+            "content": {
+                "html": "<br><figure id='4'><img alt=\"\" data-coord=\"top-left:(419,629); bottom-right:(2343,1641)\" /></figure>",
+                "markdown": "![image](/image/placeholder)\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1516,
+                    "y": 0.1615
+                },
+                {
+                    "x": 0.8479,
+                    "y": 0.1615
+                },
+                {
+                    "x": 0.8479,
+                    "y": 0.4211
+                },
+                {
+                    "x": 0.1516,
+                    "y": 0.4211
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "header",
+            "content": {
+                "html": "<br><header id='5' style='font-size:22px'>First<br>Steps</header>",
+                "markdown": "First\nSteps",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0166,
+                    "y": 0.3391
+                },
+                {
+                    "x": 0.0423,
+                    "y": 0.3391
+                },
+                {
+                    "x": 0.0423,
+                    "y": 0.4169
+                },
+                {
+                    "x": 0.0166,
+                    "y": 0.4169
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='6' data-category='paragraph' style='font-size:18px'>Leave the computer on during charging.</p>",
+                "markdown": "Leave the computer on during charging.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.2657,
+                    "y": 0.4288
+                },
+                {
+                    "x": 0.7043,
+                    "y": 0.4288
+                },
+                {
+                    "x": 0.7043,
+                    "y": 0.4524
+                },
+                {
+                    "x": 0.2657,
+                    "y": 0.4524
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "list",
+            "content": {
+                "html": "<br><p id='7' data-category='list' style='font-size:14px'>● The battery will not charge while the camera is on.<br>Connect the supplied USB cable.<br>● Connect the camera directly to the computer; do not use a USB hub<br>or keyboard.<br>● Charging stops if the computer enters sleep mode. To resume<br>charging, activate the computer and disconnect and reconnect the<br>USB cable.<br>● Charging may not be supported depending on the model of com-<br>puter, computer settings, and the computer's current state.<br>● The battery takes about 600 minutes to charge with a charging input<br>of 5 V/500 mA.</p>",
+                "markdown": "- ● The battery will not charge while the camera is on.\n- Connect the supplied USB cable.\n- ● Connect the camera directly to the computer; do not use a USB hub\n- or keyboard.\n- ● Charging stops if the computer enters sleep mode. To resume\n- charging, activate the computer and disconnect and reconnect the\n- USB cable.\n- ● Charging may not be supported depending on the model of com-\n- puter, computer settings, and the computer's current state.\n- ● The battery takes about 600 minutes to charge with a charging input\n- of 5 V/500 mA.\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1098,
+                    "y": 0.4575
+                },
+                {
+                    "x": 0.8943,
+                    "y": 0.4575
+                },
+                {
+                    "x": 0.8943,
+                    "y": 0.7108
+                },
+                {
+                    "x": 0.1098,
+                    "y": 0.7108
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='8' style='font-size:18px'>40</footer>",
+                "markdown": "40",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0824,
+                    "y": 0.9576
+                },
+                {
+                    "x": 0.1231,
+                    "y": 0.9576
+                },
+                {
+                    "x": 0.1231,
+                    "y": 0.9793
+                },
+                {
+                    "x": 0.0824,
+                    "y": 0.9793
+                }
+            ],
+            "id": 8,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

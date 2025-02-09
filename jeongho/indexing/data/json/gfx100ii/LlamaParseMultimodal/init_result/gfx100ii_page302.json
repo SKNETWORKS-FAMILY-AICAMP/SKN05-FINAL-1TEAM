@@ -1,0 +1,87 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "## Network/USB Setting Menus\n\n- Select **GATEWAY ADDRESS** and enter a gateway address.\n\n  !Gateway Address Menu\n\n- Select **DNS SERVER ADDRESS** and enter a DNS server address.\n\n  !DNS Server Address Menu\n\n### Connection Status\n\nThe status of the connection to Frame.io is shown by an icon in the electronic viewfinder or LCD monitor.\n\n| Icon | Connection Status |\n|------|-------------------|\n| !White Icon | Connected to Frame.io. |\n| !Amber Icon | Camera has temporarily suspended upload to Frame.io. To resume, select **Frame.io Camera to Cloud > UPLOAD SETTING > TRANSFER/SUSPEND > TRANSFER**. |\n| !Gray Icon | Not connected to Frame.io. |\n| !Red Icon | Frame.io server has set camera status to \"paused\". To restore connection, clear \"paused\" status using computer or other device. |",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "Network/USB Setting Menus",
+                    "md": "## Network/USB Setting Menus"
+                },
+                {
+                    "type": "text",
+                    "value": "- Select **GATEWAY ADDRESS** and enter a gateway address.\n\n  !Gateway Address Menu\n\n- Select **DNS SERVER ADDRESS** and enter a DNS server address.\n\n  !DNS Server Address Menu",
+                    "md": "- Select **GATEWAY ADDRESS** and enter a gateway address.\n\n  !Gateway Address Menu\n\n- Select **DNS SERVER ADDRESS** and enter a DNS server address.\n\n  !DNS Server Address Menu"
+                },
+                {
+                    "type": "heading",
+                    "lvl": 3,
+                    "value": "Connection Status",
+                    "md": "### Connection Status"
+                },
+                {
+                    "type": "text",
+                    "value": "The status of the connection to Frame.io is shown by an icon in the electronic viewfinder or LCD monitor.",
+                    "md": "The status of the connection to Frame.io is shown by an icon in the electronic viewfinder or LCD monitor."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Icon",
+                            "Connection Status"
+                        ],
+                        [
+                            "!White Icon",
+                            "Connected to Frame.io."
+                        ],
+                        [
+                            "!Amber Icon",
+                            "Camera has temporarily suspended upload to Frame.io. To resume, select **Frame.io Camera to Cloud > UPLOAD SETTING > TRANSFER/SUSPEND > TRANSFER**."
+                        ],
+                        [
+                            "!Gray Icon",
+                            "Not connected to Frame.io."
+                        ],
+                        [
+                            "!Red Icon",
+                            "Frame.io server has set camera status to \"paused\". To restore connection, clear \"paused\" status using computer or other device."
+                        ]
+                    ],
+                    "md": "| Icon | Connection Status |\n|------|-------------------|\n| !White Icon | Connected to Frame.io. |\n| !Amber Icon | Camera has temporarily suspended upload to Frame.io. To resume, select **Frame.io Camera to Cloud > UPLOAD SETTING > TRANSFER/SUSPEND > TRANSFER**. |\n| !Gray Icon | Not connected to Frame.io. |\n| !Red Icon | Frame.io server has set camera status to \"paused\". To restore connection, clear \"paused\" status using computer or other device. |",
+                    "isPerfectTable": true,
+                    "csv": "\"Icon\",\"Connection Status\"\n\"!White Icon\",\"Connected to Frame.io.\"\n\"!Amber Icon\",\"Camera has temporarily suspended upload to Frame.io. To resume, select **Frame.io Camera to Cloud > UPLOAD SETTING > TRANSFER/SUSPEND > TRANSFER**.\"\n\"!Gray Icon\",\"Not connected to Frame.io.\"\n\"!Red Icon\",\"Frame.io server has set camera status to \"\"paused\"\". To restore connection, clear \"\"paused\"\" status using computer or other device.\""
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 381.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "f6c57ebe-a0c2-477a-8ba7-d0d98f90f72a",
+    "file_path": "../data/raw_data/gfx100ii/gfx100ii_split/gfx100ii_page302.pdf"
+}

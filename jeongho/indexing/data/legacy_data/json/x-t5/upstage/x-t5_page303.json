@@ -1,0 +1,350 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:14px'>BUTTON/DIAL SETTING</header>\n<h1 id='1' style='font-size:18px'>APERTURE RING SETTING (A)</h1>\n\n<br><table id='3' style='font-size:16px'><tr><td>Option</td><td>Description</td></tr><tr><td>AUTO</td><td>The camera adjusts aperture automatically.</td></tr><tr><td>COMMAND</td><td>Aperture can be adjusted using the front command dial.</td></tr><br><caption id='2' style='font-size:18px'>Choose whether the front command dial can be used to adjust<br>aperture when aperture is set to A (auto).</caption></table>\n<h1 id='4' style='font-size:16px'>APERTURE SETTING</h1>\n\n<br><table id='6' style='font-size:14px'><tr><td>Option</td><td>Description</td></tr><tr><td>AUTO + MANUAL</td><td>Rotate the front command dial to choose the aperture. Rotate past minimum aperture to choose A (auto).</td></tr><tr><td>AUTO</td><td>Aperture is selected automatically; camera functions in exposure mode P (program AE) or S (shutter-priority AE).</td></tr><tr><td>MANUAL</td><td>Rotate the front command dial to choose the aperture; camera functions in exposure mode A (aperture-priority AE) or M (man- ual).</td></tr><br><caption id='5' style='font-size:20px'>Choose the method used to adjust aperture when using lenses<br>with no aperture rings.</caption></table>\n<p id='7' data-category='paragraph' style='font-size:16px'>▶ Fn1 BUTTON SETTING</p>\n\n<br><table id='9' style='font-size:14px'><tr><td>Option</td><td>Description</td></tr><tr><td>□ SMARTPHONE TRANSFER ORDER</td><td>Pressing the button displays a dialog where pictures can be selected for upload to a smartphone with which the camera is paired (□□ 239). If the camera is not currently paired with a smartphone, Bluetooth/SMARTPHONE SETTING options will be displayed instead ( ≡ 264).</td></tr><tr><td>WIRELESS COMMUNICATION</td><td>The button can be used for wireless connections.</td></tr><br><caption id='8' style='font-size:20px'>Choose the role performed by the Fn1 button during playback.</caption></table>\n<br><footer id='10' style='font-size:22px'>The<br>Setup<br>Menus<br>9</footer>\n<footer id='11' style='font-size:20px'>303</footer>",
+        "markdown": "BUTTON/DIAL SETTING\n\n# APERTURE RING SETTING (A)\n\nChoose whether the front command dial can be used to adjust\naperture when aperture is set to A (auto).\n\n| Option | Description |\n| --- | --- |\n| AUTO | The camera adjusts aperture automatically. |\n| COMMAND | Aperture can be adjusted using the front command dial. |\n\n\n# APERTURE SETTING\n\nChoose the method used to adjust aperture when using lenses\nwith no aperture rings.\n\n| Option | Description |\n| --- | --- |\n| AUTO + MANUAL | Rotate the front command dial to choose the aperture. Rotate past minimum aperture to choose A (auto). |\n| AUTO | Aperture is selected automatically; camera functions in exposure mode P (program AE) or S (shutter-priority AE). |\n| MANUAL | Rotate the front command dial to choose the aperture; camera functions in exposure mode A (aperture-priority AE) or M (man- ual). |\n\n\n▶ Fn1 BUTTON SETTING\n\nChoose the role performed by the Fn1 button during playback.\n\n| Option | Description |\n| --- | --- |\n| □ SMARTPHONE TRANSFER ORDER | Pressing the button displays a dialog where pictures can be selected for upload to a smartphone with which the camera is paired (□□ 239). If the camera is not currently paired with a smartphone, Bluetooth/SMARTPHONE SETTING options will be displayed instead ( ≡ 264). |\n| WIRELESS COMMUNICATION | The button can be used for wireless connections. |\n\n\nThe\nSetup\nMenus\n9\n\n303",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:14px'>BUTTON/DIAL SETTING</header>",
+                "markdown": "BUTTON/DIAL SETTING",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.687,
+                    "y": 0.0284
+                },
+                {
+                    "x": 0.918,
+                    "y": 0.0284
+                },
+                {
+                    "x": 0.918,
+                    "y": 0.0496
+                },
+                {
+                    "x": 0.687,
+                    "y": 0.0496
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='1' style='font-size:18px'>APERTURE RING SETTING (A)</h1>",
+                "markdown": "# APERTURE RING SETTING (A)",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1059,
+                    "y": 0.0728
+                },
+                {
+                    "x": 0.4965,
+                    "y": 0.0728
+                },
+                {
+                    "x": 0.4965,
+                    "y": 0.0953
+                },
+                {
+                    "x": 0.1059,
+                    "y": 0.0953
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='2' data-category='paragraph' style='font-size:18px'>Choose whether the front command dial can be used to adjust<br>aperture when aperture is set to A (auto).</p>",
+                "markdown": "Choose whether the front command dial can be used to adjust\naperture when aperture is set to A (auto).",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1055,
+                    "y": 0.1036
+                },
+                {
+                    "x": 0.9207,
+                    "y": 0.1036
+                },
+                {
+                    "x": 0.9207,
+                    "y": 0.155
+                },
+                {
+                    "x": 0.1055,
+                    "y": 0.155
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='3' style='font-size:16px'><tr><td>Option</td><td>Description</td></tr><tr><td>AUTO</td><td>The camera adjusts aperture automatically.</td></tr><tr><td>COMMAND</td><td>Aperture can be adjusted using the front command dial.</td></tr></table>",
+                "markdown": "| Option | Description |\n| --- | --- |\n| AUTO | The camera adjusts aperture automatically. |\n| COMMAND | Aperture can be adjusted using the front command dial. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1079,
+                    "y": 0.1677
+                },
+                {
+                    "x": 0.9155,
+                    "y": 0.1677
+                },
+                {
+                    "x": 0.9155,
+                    "y": 0.2413
+                },
+                {
+                    "x": 0.1079,
+                    "y": 0.2413
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='4' style='font-size:16px'>APERTURE SETTING</h1>",
+                "markdown": "# APERTURE SETTING",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1057,
+                    "y": 0.2587
+                },
+                {
+                    "x": 0.3812,
+                    "y": 0.2587
+                },
+                {
+                    "x": 0.3812,
+                    "y": 0.2804
+                },
+                {
+                    "x": 0.1057,
+                    "y": 0.2804
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='5' data-category='paragraph' style='font-size:20px'>Choose the method used to adjust aperture when using lenses<br>with no aperture rings.</p>",
+                "markdown": "Choose the method used to adjust aperture when using lenses\nwith no aperture rings.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1054,
+                    "y": 0.2895
+                },
+                {
+                    "x": 0.9182,
+                    "y": 0.2895
+                },
+                {
+                    "x": 0.9182,
+                    "y": 0.3398
+                },
+                {
+                    "x": 0.1054,
+                    "y": 0.3398
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='6' style='font-size:14px'><tr><td>Option</td><td>Description</td></tr><tr><td>AUTO + MANUAL</td><td>Rotate the front command dial to choose the aperture. Rotate past minimum aperture to choose A (auto).</td></tr><tr><td>AUTO</td><td>Aperture is selected automatically; camera functions in exposure mode P (program AE) or S (shutter-priority AE).</td></tr><tr><td>MANUAL</td><td>Rotate the front command dial to choose the aperture; camera functions in exposure mode A (aperture-priority AE) or M (man- ual).</td></tr></table>",
+                "markdown": "| Option | Description |\n| --- | --- |\n| AUTO + MANUAL | Rotate the front command dial to choose the aperture. Rotate past minimum aperture to choose A (auto). |\n| AUTO | Aperture is selected automatically; camera functions in exposure mode P (program AE) or S (shutter-priority AE). |\n| MANUAL | Rotate the front command dial to choose the aperture; camera functions in exposure mode A (aperture-priority AE) or M (man- ual). |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1097,
+                    "y": 0.3512
+                },
+                {
+                    "x": 0.9191,
+                    "y": 0.3512
+                },
+                {
+                    "x": 0.9191,
+                    "y": 0.5411
+                },
+                {
+                    "x": 0.1097,
+                    "y": 0.5411
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='7' data-category='paragraph' style='font-size:16px'>▶ Fn1 BUTTON SETTING</p>",
+                "markdown": "▶ Fn1 BUTTON SETTING",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1066,
+                    "y": 0.5596
+                },
+                {
+                    "x": 0.4516,
+                    "y": 0.5596
+                },
+                {
+                    "x": 0.4516,
+                    "y": 0.5831
+                },
+                {
+                    "x": 0.1066,
+                    "y": 0.5831
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='8' data-category='paragraph' style='font-size:20px'>Choose the role performed by the Fn1 button during playback.</p>",
+                "markdown": "Choose the role performed by the Fn1 button during playback.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1061,
+                    "y": 0.5925
+                },
+                {
+                    "x": 0.8923,
+                    "y": 0.5925
+                },
+                {
+                    "x": 0.8923,
+                    "y": 0.6168
+                },
+                {
+                    "x": 0.1061,
+                    "y": 0.6168
+                }
+            ],
+            "id": 8,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='9' style='font-size:14px'><tr><td>Option</td><td>Description</td></tr><tr><td>□ SMARTPHONE TRANSFER ORDER</td><td>Pressing the button displays a dialog where pictures can be selected for upload to a smartphone with which the camera is paired (□□ 239). If the camera is not currently paired with a smartphone, Bluetooth/SMARTPHONE SETTING options will be displayed instead ( ≡ 264).</td></tr><tr><td>WIRELESS COMMUNICATION</td><td>The button can be used for wireless connections.</td></tr></table>",
+                "markdown": "| Option | Description |\n| --- | --- |\n| □ SMARTPHONE TRANSFER ORDER | Pressing the button displays a dialog where pictures can be selected for upload to a smartphone with which the camera is paired (□□ 239). If the camera is not currently paired with a smartphone, Bluetooth/SMARTPHONE SETTING options will be displayed instead ( ≡ 264). |\n| WIRELESS COMMUNICATION | The button can be used for wireless connections. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1088,
+                    "y": 0.6246
+                },
+                {
+                    "x": 0.9186,
+                    "y": 0.6246
+                },
+                {
+                    "x": 0.9186,
+                    "y": 0.8107
+                },
+                {
+                    "x": 0.1088,
+                    "y": 0.8107
+                }
+            ],
+            "id": 9,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<br><footer id='10' style='font-size:22px'>The<br>Setup<br>Menus<br>9</footer>",
+                "markdown": "The\nSetup\nMenus\n9",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9555,
+                    "y": 0.5663
+                },
+                {
+                    "x": 0.9891,
+                    "y": 0.5663
+                },
+                {
+                    "x": 0.9891,
+                    "y": 0.739
+                },
+                {
+                    "x": 0.9555,
+                    "y": 0.739
+                }
+            ],
+            "id": 10,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='11' style='font-size:20px'>303</footer>",
+                "markdown": "303",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.8606,
+                    "y": 0.9568
+                },
+                {
+                    "x": 0.9173,
+                    "y": 0.9568
+                },
+                {
+                    "x": 0.9173,
+                    "y": 0.979
+                },
+                {
+                    "x": 0.8606,
+                    "y": 0.979
+                }
+            ],
+            "id": 11,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "# IMAGE QUALITY SETTING (Still Photography)\n\n## SELECT JPEG/HEIF\n\nChoose whether pictures are recorded in JPEG or HEIF.\n\n| Option | Description |\n|--------|-------------|\n| JPEG   | Pictures are recorded in the widely-supported JPEG format. |\n| HEIF   | Pictures are recorded in HEIF, a format with excellent compression but limited options for viewing and sharing. |\n\n> 💡 **Note:**\n> - **JPEG** is automatically selected in place of **HEIF** during multiple-exposure photography.\n> - Selecting **HEIF** disables **CLARITY** and sets **COLOR SPACE** to **sRGB**.\n> - HEIF pictures are stored on the memory card as files with the extension “.HIF”. Before the pictures can be viewed on a computer, the extension must be changed to “.HEIC”. This occurs automatically when HEIF pictures are uploaded from the camera to a computer via USB.",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "IMAGE QUALITY SETTING (Still Photography)",
+                    "md": "# IMAGE QUALITY SETTING (Still Photography)"
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "SELECT JPEG/HEIF",
+                    "md": "## SELECT JPEG/HEIF"
+                },
+                {
+                    "type": "text",
+                    "value": "Choose whether pictures are recorded in JPEG or HEIF.",
+                    "md": "Choose whether pictures are recorded in JPEG or HEIF."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Option",
+                            "Description"
+                        ],
+                        [
+                            "JPEG",
+                            "Pictures are recorded in the widely-supported JPEG format."
+                        ],
+                        [
+                            "HEIF",
+                            "Pictures are recorded in HEIF, a format with excellent compression but limited options for viewing and sharing."
+                        ]
+                    ],
+                    "md": "| Option | Description |\n|--------|-------------|\n| JPEG   | Pictures are recorded in the widely-supported JPEG format. |\n| HEIF   | Pictures are recorded in HEIF, a format with excellent compression but limited options for viewing and sharing. |",
+                    "isPerfectTable": true,
+                    "csv": "\"Option\",\"Description\"\n\"JPEG\",\"Pictures are recorded in the widely-supported JPEG format.\"\n\"HEIF\",\"Pictures are recorded in HEIF, a format with excellent compression but limited options for viewing and sharing.\""
+                },
+                {
+                    "type": "text",
+                    "value": "> 💡 **Note:**\n> - **JPEG** is automatically selected in place of **HEIF** during multiple-exposure photography.\n> - Selecting **HEIF** disables **CLARITY** and sets **COLOR SPACE** to **sRGB**.\n> - HEIF pictures are stored on the memory card as files with the extension “.HIF”. Before the pictures can be viewed on a computer, the extension must be changed to “.HEIC”. This occurs automatically when HEIF pictures are uploaded from the camera to a computer via USB.",
+                    "md": "> 💡 **Note:**\n> - **JPEG** is automatically selected in place of **HEIF** during multiple-exposure photography.\n> - Selecting **HEIF** disables **CLARITY** and sets **COLOR SPACE** to **sRGB**.\n> - HEIF pictures are stored on the memory card as files with the extension “.HIF”. Before the pictures can be viewed on a computer, the extension must be changed to “.HEIC”. This occurs automatically when HEIF pictures are uploaded from the camera to a computer via USB."
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 147.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "922c07fe-98d0-48ff-92c2-d0719a6c2e90",
+    "file_path": "../data/raw_data/gfx100ii/gfx100ii_split/gfx100ii_page157.pdf"
+}

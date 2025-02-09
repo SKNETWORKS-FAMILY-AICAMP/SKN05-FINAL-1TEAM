@@ -1,0 +1,406 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<h1 id='0' style='font-size:20px'>SOUND SETTING</h1>\n<br><h1 id='1' style='font-size:16px'>Make changes to camera sounds.</h1>\n<table id='2' style='font-size:14px'><tr><td>To access sound settings, press MENU/OK,</td><td></td><td>SOUND SETTING /2 1</td></tr><tr><td rowspan=\"2\">select the 8 (SET UP) tab, and choose</td><td>AF</td><td>AF BEEP VOL.</td></tr><tr><td>MF</td><td>SELF-TIMER BEEP VOL. OPERATION VOL.</td></tr><tr><td rowspan=\"2\">SOUND SET-UP.</td><td></td><td></td></tr><tr><td></td><td>18 REC START/STOP VOLUME MSELECTRONIC SHUTTER VOLUME MSELECTRONIC SHUTTER SOUND ESELECTRONIC SHUTTER VOLUME</td></tr><tr><td rowspan=\"2\"></td><td></td><td></td></tr><tr><td>多</td><td>ESELECTRONIC SHUTTER SOUND BACK EXIT</td></tr></table>\n<p id='3' data-category='paragraph' style='font-size:14px'>AF BEEP VOL.</p>\n\n<br><table id='5' style='font-size:20px'><tr><td colspan=\"4\">Options</td></tr><tr><td>(high)</td><td>(medium)</td><td>(low)</td><td>OFF (mute)</td></tr><br><caption id='4' style='font-size:20px'>Choose the volume of the beep that sounds when the camera<br>focuses. The beep can be muted by selecting IOFF.</caption></table>\n\n<br><p id='7' data-category='paragraph' style='font-size:20px'>Choose the volume of the beep that sounds while the self-timer<br>is active. The beep can be muted by selecting OFF.</p>\n<br><table id='8' style='font-size:20px'><tr><td colspan=\"4\">Options</td></tr><tr><td>(high)</td><td>(medium)</td><td>(low)</td><td>OFF (mute)</td></tr><br><caption id='6' style='font-size:14px'>SELF-TIMER BEEP VOL.</caption></table>\n<br><p id='9' data-category='paragraph' style='font-size:16px'>OPERATION VOL.</p>\n\n<br><table id='11' style='font-size:16px'><tr><td colspan=\"4\">Options</td></tr><tr><td>1) (high)</td><td>(medium)</td><td>(low)</td><td>OFF (mute)</td></tr><br><caption id='10' style='font-size:16px'>Adjust the volume of the sounds produced when camera con-<br>trols are operated. Choose OFF to disable control sounds.</caption></table>\n<br><footer id='12' style='font-size:22px'>The<br>Setup<br>Menus<br>9</footer>\n<footer id='13' style='font-size:18px'>275</footer>",
+        "markdown": "# SOUND SETTING\n\n# Make changes to camera sounds.\n\n| To access sound settings, press MENU/OK, |  | SOUND SETTING /2 1 |\n| --- | --- | --- |\n| select the 8 (SET UP) tab, and choose | AF | AF BEEP VOL. |\n| select the 8 (SET UP) tab, and choose | MF | SELF-TIMER BEEP VOL. OPERATION VOL. |\n| SOUND SET-UP. |  |  |\n| SOUND SET-UP. |  | 18 REC START/STOP VOLUME MSELECTRONIC SHUTTER VOLUME MSELECTRONIC SHUTTER SOUND ESELECTRONIC SHUTTER VOLUME |\n|  |  |  |\n| 多 | ESELECTRONIC SHUTTER SOUND BACK EXIT |  |\n\n\nAF BEEP VOL.\n\nChoose the volume of the beep that sounds when the camera\nfocuses. The beep can be muted by selecting IOFF.\n\n| Options | Options | Options | Options |\n| --- | --- | --- | --- |\n| (high) | (medium) | (low) | OFF (mute) |\n\n\nSELF-TIMER BEEP VOL.\n\nChoose the volume of the beep that sounds while the self-timer\nis active. The beep can be muted by selecting OFF.\n\n| Options | Options | Options | Options |\n| --- | --- | --- | --- |\n| (high) | (medium) | (low) | OFF (mute) |\n\n\nOPERATION VOL.\n\nAdjust the volume of the sounds produced when camera con-\ntrols are operated. Choose OFF to disable control sounds.\n\n| Options | Options | Options | Options |\n| --- | --- | --- | --- |\n| 1) (high) | (medium) | (low) | OFF (mute) |\n\n\nThe\nSetup\nMenus\n9\n\n275",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='0' style='font-size:20px'>SOUND SETTING</h1>",
+                "markdown": "# SOUND SETTING",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1783,
+                    "y": 0.0739
+                },
+                {
+                    "x": 0.4665,
+                    "y": 0.0739
+                },
+                {
+                    "x": 0.4665,
+                    "y": 0.0984
+                },
+                {
+                    "x": 0.1783,
+                    "y": 0.0984
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='1' style='font-size:16px'>Make changes to camera sounds.</h1>",
+                "markdown": "# Make changes to camera sounds.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1781,
+                    "y": 0.1098
+                },
+                {
+                    "x": 0.6007,
+                    "y": 0.1098
+                },
+                {
+                    "x": 0.6007,
+                    "y": 0.1326
+                },
+                {
+                    "x": 0.1781,
+                    "y": 0.1326
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='2' style='font-size:14px'><tr><td>To access sound settings, press MENU/OK,</td><td></td><td>SOUND SETTING /2 1</td></tr><tr><td rowspan=\"2\">select the 8 (SET UP) tab, and choose</td><td>AF</td><td>AF BEEP VOL.</td></tr><tr><td>MF</td><td>SELF-TIMER BEEP VOL. OPERATION VOL.</td></tr><tr><td rowspan=\"2\">SOUND SET-UP.</td><td></td><td></td></tr><tr><td></td><td>18 REC START/STOP VOLUME MSELECTRONIC SHUTTER VOLUME MSELECTRONIC SHUTTER SOUND ESELECTRONIC SHUTTER VOLUME</td></tr><tr><td rowspan=\"2\"></td><td></td><td></td></tr><tr><td>多</td><td>ESELECTRONIC SHUTTER SOUND BACK EXIT</td></tr></table>",
+                "markdown": "| To access sound settings, press MENU/OK, |  | SOUND SETTING /2 1 |\n| --- | --- | --- |\n| select the 8 (SET UP) tab, and choose | AF | AF BEEP VOL. |\n| select the 8 (SET UP) tab, and choose | MF | SELF-TIMER BEEP VOL. OPERATION VOL. |\n| SOUND SET-UP. |  |  |\n| SOUND SET-UP. |  | 18 REC START/STOP VOLUME MSELECTRONIC SHUTTER VOLUME MSELECTRONIC SHUTTER SOUND ESELECTRONIC SHUTTER VOLUME |\n|  |  |  |\n| 多 | ESELECTRONIC SHUTTER SOUND BACK EXIT |  |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1075,
+                    "y": 0.1434
+                },
+                {
+                    "x": 0.8941,
+                    "y": 0.1434
+                },
+                {
+                    "x": 0.8941,
+                    "y": 0.2785
+                },
+                {
+                    "x": 0.1075,
+                    "y": 0.2785
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='3' data-category='paragraph' style='font-size:14px'>AF BEEP VOL.</p>",
+                "markdown": "AF BEEP VOL.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1061,
+                    "y": 0.2965
+                },
+                {
+                    "x": 0.2942,
+                    "y": 0.2965
+                },
+                {
+                    "x": 0.2942,
+                    "y": 0.3186
+                },
+                {
+                    "x": 0.1061,
+                    "y": 0.3186
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='4' data-category='paragraph' style='font-size:20px'>Choose the volume of the beep that sounds when the camera<br>focuses. The beep can be muted by selecting IOFF.</p>",
+                "markdown": "Choose the volume of the beep that sounds when the camera\nfocuses. The beep can be muted by selecting IOFF.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1062,
+                    "y": 0.3274
+                },
+                {
+                    "x": 0.9159,
+                    "y": 0.3274
+                },
+                {
+                    "x": 0.9159,
+                    "y": 0.3787
+                },
+                {
+                    "x": 0.1062,
+                    "y": 0.3787
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='5' style='font-size:20px'><tr><td colspan=\"4\">Options</td></tr><tr><td>(high)</td><td>(medium)</td><td>(low)</td><td>OFF (mute)</td></tr></table>",
+                "markdown": "| Options | Options | Options | Options |\n| --- | --- | --- | --- |\n| (high) | (medium) | (low) | OFF (mute) |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1102,
+                    "y": 0.3903
+                },
+                {
+                    "x": 0.9135,
+                    "y": 0.3903
+                },
+                {
+                    "x": 0.9135,
+                    "y": 0.4436
+                },
+                {
+                    "x": 0.1102,
+                    "y": 0.4436
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='6' data-category='paragraph' style='font-size:14px'>SELF-TIMER BEEP VOL.</p>",
+                "markdown": "SELF-TIMER BEEP VOL.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1045,
+                    "y": 0.4569
+                },
+                {
+                    "x": 0.4137,
+                    "y": 0.4569
+                },
+                {
+                    "x": 0.4137,
+                    "y": 0.4819
+                },
+                {
+                    "x": 0.1045,
+                    "y": 0.4819
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='7' data-category='paragraph' style='font-size:20px'>Choose the volume of the beep that sounds while the self-timer<br>is active. The beep can be muted by selecting OFF.</p>",
+                "markdown": "Choose the volume of the beep that sounds while the self-timer\nis active. The beep can be muted by selecting OFF.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1061,
+                    "y": 0.4897
+                },
+                {
+                    "x": 0.916,
+                    "y": 0.4897
+                },
+                {
+                    "x": 0.916,
+                    "y": 0.5421
+                },
+                {
+                    "x": 0.1061,
+                    "y": 0.5421
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='8' style='font-size:20px'><tr><td colspan=\"4\">Options</td></tr><tr><td>(high)</td><td>(medium)</td><td>(low)</td><td>OFF (mute)</td></tr></table>",
+                "markdown": "| Options | Options | Options | Options |\n| --- | --- | --- | --- |\n| (high) | (medium) | (low) | OFF (mute) |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1145,
+                    "y": 0.5531
+                },
+                {
+                    "x": 0.9118,
+                    "y": 0.5531
+                },
+                {
+                    "x": 0.9118,
+                    "y": 0.6072
+                },
+                {
+                    "x": 0.1145,
+                    "y": 0.6072
+                }
+            ],
+            "id": 8,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='9' data-category='paragraph' style='font-size:16px'>OPERATION VOL.</p>",
+                "markdown": "OPERATION VOL.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1055,
+                    "y": 0.6202
+                },
+                {
+                    "x": 0.3417,
+                    "y": 0.6202
+                },
+                {
+                    "x": 0.3417,
+                    "y": 0.6439
+                },
+                {
+                    "x": 0.1055,
+                    "y": 0.6439
+                }
+            ],
+            "id": 9,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='10' data-category='paragraph' style='font-size:16px'>Adjust the volume of the sounds produced when camera con-<br>trols are operated. Choose OFF to disable control sounds.</p>",
+                "markdown": "Adjust the volume of the sounds produced when camera con-\ntrols are operated. Choose OFF to disable control sounds.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1052,
+                    "y": 0.6525
+                },
+                {
+                    "x": 0.9157,
+                    "y": 0.6525
+                },
+                {
+                    "x": 0.9157,
+                    "y": 0.7047
+                },
+                {
+                    "x": 0.1052,
+                    "y": 0.7047
+                }
+            ],
+            "id": 10,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='11' style='font-size:16px'><tr><td colspan=\"4\">Options</td></tr><tr><td>1) (high)</td><td>(medium)</td><td>(low)</td><td>OFF (mute)</td></tr></table>",
+                "markdown": "| Options | Options | Options | Options |\n| --- | --- | --- | --- |\n| 1) (high) | (medium) | (low) | OFF (mute) |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1126,
+                    "y": 0.7157
+                },
+                {
+                    "x": 0.9099,
+                    "y": 0.7157
+                },
+                {
+                    "x": 0.9099,
+                    "y": 0.7677
+                },
+                {
+                    "x": 0.1126,
+                    "y": 0.7677
+                }
+            ],
+            "id": 11,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<br><footer id='12' style='font-size:22px'>The<br>Setup<br>Menus<br>9</footer>",
+                "markdown": "The\nSetup\nMenus\n9",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9558,
+                    "y": 0.5657
+                },
+                {
+                    "x": 0.9884,
+                    "y": 0.5657
+                },
+                {
+                    "x": 0.9884,
+                    "y": 0.7382
+                },
+                {
+                    "x": 0.9558,
+                    "y": 0.7382
+                }
+            ],
+            "id": 12,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='13' style='font-size:18px'>275</footer>",
+                "markdown": "275",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.8605,
+                    "y": 0.9567
+                },
+                {
+                    "x": 0.9172,
+                    "y": 0.9567
+                },
+                {
+                    "x": 0.9172,
+                    "y": 0.9792
+                },
+                {
+                    "x": 0.8605,
+                    "y": 0.9792
+                }
+            ],
+            "id": 13,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

@@ -1,0 +1,147 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "# ZEBRA SETTING\n\nHighlights that may be overexposed are shown by zebra stripes in the movie mode display.\n\n| Option      | Description              |\n|-------------|--------------------------|\n| ZEBRA RIGHT | Right-slanting stripes.  |\n| ZEBRA LEFT  | Left-slanting stripes.   |\n| OFF         | Stripes off.             |\n\n# ZEBRA LEVEL\n\nChoose the brightness threshold for the zebra stripe display.\n\n| Options |     |\n|---------|-----|\n| 50      | 55  |\n| 60      | 65  |\n| 70      | 75  |\n| 80      | 85  |\n| 90      | 95  |\n| 100     |     |\n\n# MOVIE OPTIMIZED CONTROL\n\nSelect **ON** to allow movie settings to be adjusted using only the command dials and touch-screen controls. You may find this helpful in preventing the sounds of camera controls being recorded with movies (📖 23).\n\n| Options |     |\n|---------|-----|\n| ON      | OFF |",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "ZEBRA SETTING",
+                    "md": "# ZEBRA SETTING"
+                },
+                {
+                    "type": "text",
+                    "value": "Highlights that may be overexposed are shown by zebra stripes in the movie mode display.",
+                    "md": "Highlights that may be overexposed are shown by zebra stripes in the movie mode display."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Option",
+                            "Description"
+                        ],
+                        [
+                            "ZEBRA RIGHT",
+                            "Right-slanting stripes."
+                        ],
+                        [
+                            "ZEBRA LEFT",
+                            "Left-slanting stripes."
+                        ],
+                        [
+                            "OFF",
+                            "Stripes off."
+                        ]
+                    ],
+                    "md": "| Option      | Description              |\n|-------------|--------------------------|\n| ZEBRA RIGHT | Right-slanting stripes.  |\n| ZEBRA LEFT  | Left-slanting stripes.   |\n| OFF         | Stripes off.             |",
+                    "isPerfectTable": true,
+                    "csv": "\"Option\",\"Description\"\n\"ZEBRA RIGHT\",\"Right-slanting stripes.\"\n\"ZEBRA LEFT\",\"Left-slanting stripes.\"\n\"OFF\",\"Stripes off.\""
+                },
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "ZEBRA LEVEL",
+                    "md": "# ZEBRA LEVEL"
+                },
+                {
+                    "type": "text",
+                    "value": "Choose the brightness threshold for the zebra stripe display.",
+                    "md": "Choose the brightness threshold for the zebra stripe display."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Options",
+                            ""
+                        ],
+                        [
+                            "50",
+                            "55"
+                        ],
+                        [
+                            "60",
+                            "65"
+                        ],
+                        [
+                            "70",
+                            "75"
+                        ],
+                        [
+                            "80",
+                            "85"
+                        ],
+                        [
+                            "90",
+                            "95"
+                        ],
+                        [
+                            "100",
+                            ""
+                        ]
+                    ],
+                    "md": "| Options |     |\n|---------|-----|\n| 50      | 55  |\n| 60      | 65  |\n| 70      | 75  |\n| 80      | 85  |\n| 90      | 95  |\n| 100     |     |",
+                    "isPerfectTable": true,
+                    "csv": "\"Options\",\"\"\n\"50\",\"55\"\n\"60\",\"65\"\n\"70\",\"75\"\n\"80\",\"85\"\n\"90\",\"95\"\n\"100\",\"\""
+                },
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "MOVIE OPTIMIZED CONTROL",
+                    "md": "# MOVIE OPTIMIZED CONTROL"
+                },
+                {
+                    "type": "text",
+                    "value": "Select **ON** to allow movie settings to be adjusted using only the command dials and touch-screen controls. You may find this helpful in preventing the sounds of camera controls being recorded with movies (📖 23).",
+                    "md": "Select **ON** to allow movie settings to be adjusted using only the command dials and touch-screen controls. You may find this helpful in preventing the sounds of camera controls being recorded with movies (📖 23)."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Options",
+                            ""
+                        ],
+                        [
+                            "ON",
+                            "OFF"
+                        ]
+                    ],
+                    "md": "| Options |     |\n|---------|-----|\n| ON      | OFF |",
+                    "isPerfectTable": true,
+                    "csv": "\"Options\",\"\"\n\"ON\",\"OFF\""
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "parsingMode": "multimodal-openai-gpt4o",
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 114.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "c93d1d7f-5439-424b-b5d6-8a42e1ebe79b",
+    "file_path": "../data/raw_data/x-e4/x-e4_split/x-e4_page186.pdf"
+}

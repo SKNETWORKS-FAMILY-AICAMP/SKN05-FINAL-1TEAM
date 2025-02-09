@@ -1,0 +1,238 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<p id='0' data-category='paragraph' style='font-size:14px'>The Playback Menu</p>\n<h1 id='1' style='font-size:18px'>DISP ASPECT</h1>\n\n<figure id='3'><img style='font-size:14px' alt=\"16:9\n3 2\nOption\n16:9 3:2\nDisplay\" data-coord=\"top-left:(293,741); bottom-right:(2517,1932)\" /><br><figcaption id='2' style='font-size:18px'>Choose how High Definition (HD) devices display pictures with<br>an aspect ratio of 3 : 2 (this option is available only when an HDMI<br>cable is connected).</figcaption></figure>\n<br><p id='4' data-category='paragraph' style='font-size:16px'>Select 16:9 to display the image SO that it fills the screen with its top<br>and bottom cropped out, 3:2 to display the entire image with black<br>bands at either side.</p>\n<br><footer id='5' style='font-size:22px'>Playback<br>and<br>the<br>Playback<br>Menu</footer>\n<footer id='6' style='font-size:14px'>7</footer>\n<footer id='7' style='font-size:20px'>197</footer>",
+        "markdown": "The Playback Menu\n\n# DISP ASPECT\n\nChoose how High Definition (HD) devices display pictures with\nan aspect ratio of 3 : 2 (this option is available only when an HDMI\ncable is connected).\n\n![image](/image/placeholder)\n16:9\n3 2\nOption\n16:9 3:2\nDisplay\n\nSelect 16:9 to display the image SO that it fills the screen with its top\nand bottom cropped out, 3:2 to display the entire image with black\nbands at either side.\n\nPlayback\nand\nthe\nPlayback\nMenu\n\n7\n\n197",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='0' data-category='paragraph' style='font-size:14px'>The Playback Menu</p>",
+                "markdown": "The Playback Menu",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.7235,
+                    "y": 0.0284
+                },
+                {
+                    "x": 0.9178,
+                    "y": 0.0284
+                },
+                {
+                    "x": 0.9178,
+                    "y": 0.0503
+                },
+                {
+                    "x": 0.7235,
+                    "y": 0.0503
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='1' style='font-size:18px'>DISP ASPECT</h1>",
+                "markdown": "# DISP ASPECT",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1085,
+                    "y": 0.0725
+                },
+                {
+                    "x": 0.2886,
+                    "y": 0.0725
+                },
+                {
+                    "x": 0.2886,
+                    "y": 0.0949
+                },
+                {
+                    "x": 0.1085,
+                    "y": 0.0949
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='2' data-category='paragraph' style='font-size:18px'>Choose how High Definition (HD) devices display pictures with<br>an aspect ratio of 3 : 2 (this option is available only when an HDMI<br>cable is connected).</p>",
+                "markdown": "Choose how High Definition (HD) devices display pictures with\nan aspect ratio of 3 : 2 (this option is available only when an HDMI\ncable is connected).",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1056,
+                    "y": 0.1036
+                },
+                {
+                    "x": 0.9195,
+                    "y": 0.1036
+                },
+                {
+                    "x": 0.9195,
+                    "y": 0.1798
+                },
+                {
+                    "x": 0.1056,
+                    "y": 0.1798
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "figure",
+            "content": {
+                "html": "<figure id='3'><img style='font-size:14px' alt=\"16:9\n3 2\nOption\n16:9 3:2\nDisplay\" data-coord=\"top-left:(293,741); bottom-right:(2517,1932)\" /></figure>",
+                "markdown": "![image](/image/placeholder)\n16:9\n3 2\nOption\n16:9 3:2\nDisplay",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1061,
+                    "y": 0.1901
+                },
+                {
+                    "x": 0.9107,
+                    "y": 0.1901
+                },
+                {
+                    "x": 0.9107,
+                    "y": 0.4959
+                },
+                {
+                    "x": 0.1061,
+                    "y": 0.4959
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='4' data-category='paragraph' style='font-size:16px'>Select 16:9 to display the image SO that it fills the screen with its top<br>and bottom cropped out, 3:2 to display the entire image with black<br>bands at either side.</p>",
+                "markdown": "Select 16:9 to display the image SO that it fills the screen with its top\nand bottom cropped out, 3:2 to display the entire image with black\nbands at either side.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1281,
+                    "y": 0.5033
+                },
+                {
+                    "x": 0.9148,
+                    "y": 0.5033
+                },
+                {
+                    "x": 0.9148,
+                    "y": 0.5719
+                },
+                {
+                    "x": 0.1281,
+                    "y": 0.5719
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<br><footer id='5' style='font-size:22px'>Playback<br>and<br>the<br>Playback<br>Menu</footer>",
+                "markdown": "Playback\nand\nthe\nPlayback\nMenu",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9571,
+                    "y": 0.3379
+                },
+                {
+                    "x": 0.9805,
+                    "y": 0.3379
+                },
+                {
+                    "x": 0.9805,
+                    "y": 0.5771
+                },
+                {
+                    "x": 0.9571,
+                    "y": 0.5771
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='6' style='font-size:14px'>7</footer>",
+                "markdown": "7",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9581,
+                    "y": 0.5983
+                },
+                {
+                    "x": 0.974,
+                    "y": 0.5983
+                },
+                {
+                    "x": 0.974,
+                    "y": 0.6174
+                },
+                {
+                    "x": 0.9581,
+                    "y": 0.6174
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='7' style='font-size:20px'>197</footer>",
+                "markdown": "197",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.8626,
+                    "y": 0.9565
+                },
+                {
+                    "x": 0.9175,
+                    "y": 0.9565
+                },
+                {
+                    "x": 0.9175,
+                    "y": 0.9789
+                },
+                {
+                    "x": 0.8626,
+                    "y": 0.9789
+                }
+            ],
+            "id": 7,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

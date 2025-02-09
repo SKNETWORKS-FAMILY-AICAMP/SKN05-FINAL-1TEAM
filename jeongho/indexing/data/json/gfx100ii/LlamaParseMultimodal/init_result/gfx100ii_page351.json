@@ -1,0 +1,127 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "# Network/USB Setting Menus\n\n## instax PRINTER CONNECTION SETTING\n\nAdjust settings for connection to optional Fujifilm instax SHARE printers.\n\n### The Printer Name (SSID) and Password\n\nThe printer name (SSID) can be found on the bottom of the printer; the default password is “1111”. If you have already chosen a different password to print from a smartphone, enter that password instead.\n\n!Printer SSID and Password\n\n## Frame.io Camera to Cloud\n\nAdjust settings for use with Frame.io.\n\n### CONNECT\n\nConnect to Frame.io.\n\n| Option          | Description                                                        |\n|-----------------|--------------------------------------------------------------------|\n| WIRELESS LAN    | Connect via wireless LAN.                                          |\n| WIRED LAN       | Connect via wired LAN.                                             |\n| GET PAIRING CODE| View the pairing code for connection to the Frame.io project.      |\n\n> 💡 **Note:**  \n> The pairing code can only be viewed when the camera is connected to Frame.io.\n\n### DISCONNECT\n\nEnd the connection to the Frame.io project and terminate the network connection.",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "Network/USB Setting Menus",
+                    "md": "# Network/USB Setting Menus"
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "instax PRINTER CONNECTION SETTING",
+                    "md": "## instax PRINTER CONNECTION SETTING"
+                },
+                {
+                    "type": "text",
+                    "value": "Adjust settings for connection to optional Fujifilm instax SHARE printers.",
+                    "md": "Adjust settings for connection to optional Fujifilm instax SHARE printers."
+                },
+                {
+                    "type": "heading",
+                    "lvl": 3,
+                    "value": "The Printer Name (SSID) and Password",
+                    "md": "### The Printer Name (SSID) and Password"
+                },
+                {
+                    "type": "text",
+                    "value": "The printer name (SSID) can be found on the bottom of the printer; the default password is “1111”. If you have already chosen a different password to print from a smartphone, enter that password instead.\n\n!Printer SSID and Password",
+                    "md": "The printer name (SSID) can be found on the bottom of the printer; the default password is “1111”. If you have already chosen a different password to print from a smartphone, enter that password instead.\n\n!Printer SSID and Password"
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "Frame.io Camera to Cloud",
+                    "md": "## Frame.io Camera to Cloud"
+                },
+                {
+                    "type": "text",
+                    "value": "Adjust settings for use with Frame.io.",
+                    "md": "Adjust settings for use with Frame.io."
+                },
+                {
+                    "type": "heading",
+                    "lvl": 3,
+                    "value": "CONNECT",
+                    "md": "### CONNECT"
+                },
+                {
+                    "type": "text",
+                    "value": "Connect to Frame.io.",
+                    "md": "Connect to Frame.io."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Option",
+                            "Description"
+                        ],
+                        [
+                            "WIRELESS LAN",
+                            "Connect via wireless LAN."
+                        ],
+                        [
+                            "WIRED LAN",
+                            "Connect via wired LAN."
+                        ],
+                        [
+                            "GET PAIRING CODE",
+                            "View the pairing code for connection to the Frame.io project."
+                        ]
+                    ],
+                    "md": "| Option          | Description                                                        |\n|-----------------|--------------------------------------------------------------------|\n| WIRELESS LAN    | Connect via wireless LAN.                                          |\n| WIRED LAN       | Connect via wired LAN.                                             |\n| GET PAIRING CODE| View the pairing code for connection to the Frame.io project.      |",
+                    "isPerfectTable": true,
+                    "csv": "\"Option\",\"Description\"\n\"WIRELESS LAN\",\"Connect via wireless LAN.\"\n\"WIRED LAN\",\"Connect via wired LAN.\"\n\"GET PAIRING CODE\",\"View the pairing code for connection to the Frame.io project.\""
+                },
+                {
+                    "type": "text",
+                    "value": "> 💡 **Note:**  \n> The pairing code can only be viewed when the camera is connected to Frame.io.",
+                    "md": "> 💡 **Note:**  \n> The pairing code can only be viewed when the camera is connected to Frame.io."
+                },
+                {
+                    "type": "heading",
+                    "lvl": 3,
+                    "value": "DISCONNECT",
+                    "md": "### DISCONNECT"
+                },
+                {
+                    "type": "text",
+                    "value": "End the connection to the Frame.io project and terminate the network connection.",
+                    "md": "End the connection to the Frame.io project and terminate the network connection."
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 133.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "18225dfc-776a-45ae-a917-4027b2dde245",
+    "file_path": "../data/raw_data/gfx100ii/gfx100ii_split/gfx100ii_page351.pdf"
+}

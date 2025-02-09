@@ -1,0 +1,378 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<h1 id='0' style='font-size:16px'>Touch-Function Gestures</h1>\n<br><p id='1' data-category='paragraph' style='font-size:20px'>Assign roles to touch-function gestures (T-Fn1, T-Fn2, T-Fn3, or T-Fn4)<br>for quick access to selected features.</p>\n<p id='2' data-category='paragraph' style='font-size:14px'>Touch-function gestures are disabled by default. To enable touch-func-<br>tion gestures, select ON for 8 BUTTON/DIAL SETTING > TOUCH<br>SCREEN SETTING > T-Fn TOUCH FUNCTION.</p>\n<h1 id='3' style='font-size:16px'>Touch-Function Gesture Defaults</h1>\n\n<figure id='5'><img alt=\"\" data-coord=\"top-left:(327,1264); bottom-right:(1056,2025)\" /><br><figcaption id='4' style='font-size:18px'>The default assignments for the different gestures are:</figcaption></figure>\n<br><figure id='6'><img alt=\"\" data-coord=\"top-left:(1149,1300); bottom-right:(1700,1719)\" /></figure>\n<figure id='7'><img alt=\"\" data-coord=\"top-left:(1155,1806); bottom-right:(1695,2239)\" /></figure>\n<table id='8' style='font-size:14px'><tr><td>Touch-Function Gestures</td><td>Default</td></tr><tr><td>1 T-Fn1 (flick up)</td><td>HISTOGRAM</td></tr><tr><td>2 T-Fn2 (flick left)</td><td>PREVIEW DEPTH OF FIELD</td></tr><tr><td>3 T-Fn3 (flick right)</td><td>LARGE INDICATORS MODE</td></tr><tr><td>T-Fn4 (flick down)</td><td>ZEBRA SETTING</td></tr></table>\n<br><figure id='9'><img alt=\"\" data-coord=\"top-left:(1786,1799); bottom-right:(2310,2245)\" /></figure>\n<header id='10' style='font-size:22px'>Shortcuts</header>\n<p id='11' data-category='paragraph' style='font-size:16px'>10</p>\n<footer id='12' style='font-size:20px'>322</footer>",
+        "markdown": "# Touch-Function Gestures\n\nAssign roles to touch-function gestures (T-Fn1, T-Fn2, T-Fn3, or T-Fn4)\nfor quick access to selected features.\n\nTouch-function gestures are disabled by default. To enable touch-func-\ntion gestures, select ON for 8 BUTTON/DIAL SETTING > TOUCH\nSCREEN SETTING > T-Fn TOUCH FUNCTION.\n\n# Touch-Function Gesture Defaults\n\nThe default assignments for the different gestures are:\n\n![image](/image/placeholder)\n\n\n![image](/image/placeholder)\n\n\n![image](/image/placeholder)\n\n\n| Touch-Function Gestures | Default |\n| --- | --- |\n| 1 T-Fn1 (flick up) | HISTOGRAM |\n| 2 T-Fn2 (flick left) | PREVIEW DEPTH OF FIELD |\n| 3 T-Fn3 (flick right) | LARGE INDICATORS MODE |\n| T-Fn4 (flick down) | ZEBRA SETTING |\n\n\n![image](/image/placeholder)\n\n\nShortcuts\n\n10\n\n322",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='0' style='font-size:16px'>Touch-Function Gestures</h1>",
+                "markdown": "# Touch-Function Gestures",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0829,
+                    "y": 0.0733
+                },
+                {
+                    "x": 0.4239,
+                    "y": 0.0733
+                },
+                {
+                    "x": 0.4239,
+                    "y": 0.0953
+                },
+                {
+                    "x": 0.0829,
+                    "y": 0.0953
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='1' data-category='paragraph' style='font-size:20px'>Assign roles to touch-function gestures (T-Fn1, T-Fn2, T-Fn3, or T-Fn4)<br>for quick access to selected features.</p>",
+                "markdown": "Assign roles to touch-function gestures (T-Fn1, T-Fn2, T-Fn3, or T-Fn4)\nfor quick access to selected features.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0805,
+                    "y": 0.1045
+                },
+                {
+                    "x": 0.8903,
+                    "y": 0.1045
+                },
+                {
+                    "x": 0.8903,
+                    "y": 0.1539
+                },
+                {
+                    "x": 0.0805,
+                    "y": 0.1539
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='2' data-category='paragraph' style='font-size:14px'>Touch-function gestures are disabled by default. To enable touch-func-<br>tion gestures, select ON for 8 BUTTON/DIAL SETTING > TOUCH<br>SCREEN SETTING > T-Fn TOUCH FUNCTION.</p>",
+                "markdown": "Touch-function gestures are disabled by default. To enable touch-func-\ntion gestures, select ON for 8 BUTTON/DIAL SETTING > TOUCH\nSCREEN SETTING > T-Fn TOUCH FUNCTION.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.09,
+                    "y": 0.1683
+                },
+                {
+                    "x": 0.8882,
+                    "y": 0.1683
+                },
+                {
+                    "x": 0.8882,
+                    "y": 0.2372
+                },
+                {
+                    "x": 0.09,
+                    "y": 0.2372
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='3' style='font-size:16px'>Touch-Function Gesture Defaults</h1>",
+                "markdown": "# Touch-Function Gesture Defaults",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0945,
+                    "y": 0.2586
+                },
+                {
+                    "x": 0.5023,
+                    "y": 0.2586
+                },
+                {
+                    "x": 0.5023,
+                    "y": 0.2825
+                },
+                {
+                    "x": 0.0945,
+                    "y": 0.2825
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='4' data-category='paragraph' style='font-size:18px'>The default assignments for the different gestures are:</p>",
+                "markdown": "The default assignments for the different gestures are:",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0811,
+                    "y": 0.2898
+                },
+                {
+                    "x": 0.7648,
+                    "y": 0.2898
+                },
+                {
+                    "x": 0.7648,
+                    "y": 0.3134
+                },
+                {
+                    "x": 0.0811,
+                    "y": 0.3134
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "figure",
+            "content": {
+                "html": "<figure id='5'><img alt=\"\" data-coord=\"top-left:(327,1264); bottom-right:(1056,2025)\" /></figure>",
+                "markdown": "![image](/image/placeholder)\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1184,
+                    "y": 0.3244
+                },
+                {
+                    "x": 0.3823,
+                    "y": 0.3244
+                },
+                {
+                    "x": 0.3823,
+                    "y": 0.5197
+                },
+                {
+                    "x": 0.1184,
+                    "y": 0.5197
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "figure",
+            "content": {
+                "html": "<br><figure id='6'><img alt=\"\" data-coord=\"top-left:(1149,1300); bottom-right:(1700,1719)\" /></figure>",
+                "markdown": "![image](/image/placeholder)\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.4159,
+                    "y": 0.3337
+                },
+                {
+                    "x": 0.6152,
+                    "y": 0.3337
+                },
+                {
+                    "x": 0.6152,
+                    "y": 0.4411
+                },
+                {
+                    "x": 0.4159,
+                    "y": 0.4411
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "figure",
+            "content": {
+                "html": "<figure id='7'><img alt=\"\" data-coord=\"top-left:(1155,1806); bottom-right:(1695,2239)\" /></figure>",
+                "markdown": "![image](/image/placeholder)\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.4182,
+                    "y": 0.4635
+                },
+                {
+                    "x": 0.6135,
+                    "y": 0.4635
+                },
+                {
+                    "x": 0.6135,
+                    "y": 0.5746
+                },
+                {
+                    "x": 0.4182,
+                    "y": 0.5746
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='8' style='font-size:14px'><tr><td>Touch-Function Gestures</td><td>Default</td></tr><tr><td>1 T-Fn1 (flick up)</td><td>HISTOGRAM</td></tr><tr><td>2 T-Fn2 (flick left)</td><td>PREVIEW DEPTH OF FIELD</td></tr><tr><td>3 T-Fn3 (flick right)</td><td>LARGE INDICATORS MODE</td></tr><tr><td>T-Fn4 (flick down)</td><td>ZEBRA SETTING</td></tr></table>",
+                "markdown": "| Touch-Function Gestures | Default |\n| --- | --- |\n| 1 T-Fn1 (flick up) | HISTOGRAM |\n| 2 T-Fn2 (flick left) | PREVIEW DEPTH OF FIELD |\n| 3 T-Fn3 (flick right) | LARGE INDICATORS MODE |\n| T-Fn4 (flick down) | ZEBRA SETTING |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0833,
+                    "y": 0.5977
+                },
+                {
+                    "x": 0.8908,
+                    "y": 0.5977
+                },
+                {
+                    "x": 0.8908,
+                    "y": 0.7311
+                },
+                {
+                    "x": 0.0833,
+                    "y": 0.7311
+                }
+            ],
+            "id": 8,
+            "page": 1
+        },
+        {
+            "category": "figure",
+            "content": {
+                "html": "<br><figure id='9'><img alt=\"\" data-coord=\"top-left:(1786,1799); bottom-right:(2310,2245)\" /></figure>",
+                "markdown": "![image](/image/placeholder)\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6464,
+                    "y": 0.4618
+                },
+                {
+                    "x": 0.8358,
+                    "y": 0.4618
+                },
+                {
+                    "x": 0.8358,
+                    "y": 0.5759
+                },
+                {
+                    "x": 0.6464,
+                    "y": 0.5759
+                }
+            ],
+            "id": 9,
+            "page": 1
+        },
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='10' style='font-size:22px'>Shortcuts</header>",
+                "markdown": "Shortcuts",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0191,
+                    "y": 0.6832
+                },
+                {
+                    "x": 0.0406,
+                    "y": 0.6832
+                },
+                {
+                    "x": 0.0406,
+                    "y": 0.757
+                },
+                {
+                    "x": 0.0191,
+                    "y": 0.757
+                }
+            ],
+            "id": 10,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='11' data-category='paragraph' style='font-size:16px'>10</p>",
+                "markdown": "10",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0185,
+                    "y": 0.7773
+                },
+                {
+                    "x": 0.0439,
+                    "y": 0.7773
+                },
+                {
+                    "x": 0.0439,
+                    "y": 0.7965
+                },
+                {
+                    "x": 0.0185,
+                    "y": 0.7965
+                }
+            ],
+            "id": 11,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='12' style='font-size:20px'>322</footer>",
+                "markdown": "322",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0832,
+                    "y": 0.9558
+                },
+                {
+                    "x": 0.1395,
+                    "y": 0.9558
+                },
+                {
+                    "x": 0.1395,
+                    "y": 0.9794
+                },
+                {
+                    "x": 0.0832,
+                    "y": 0.9794
+                }
+            ],
+            "id": 12,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

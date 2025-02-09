@@ -1,0 +1,378 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:14px'>MOVIE SETTING (Movie Recording)</header>\n<h1 id='1' style='font-size:16px'>HIGH SPEED REC</h1>\n<br><p id='2' data-category='paragraph' style='font-size:18px'>Record high-frame-rate movies. High-frame-rate movies can be<br>played back in slow motion, giving you time to view fast-moving<br>subjects or details too fleeting for the naked eye. Select ON to<br>choose the recording and playback rates separately.</p>\n<br><p id='3' data-category='paragraph' style='font-size:16px'>Choose ON HDMI ONLY to record footage only to external recorders<br>connected via HDMI. Note that this option does not support playback<br>frame-rate selection.</p>\n\n<table id='5' style='font-size:14px'><tr><td colspan=\"2\">Options</td></tr><tr><td>FHD 16:9</td><td>FHD : 17 :9</td></tr><caption id='4' style='font-size:16px'>Frame Size</caption></table>\n\n<table id='7' style='font-size:14px'><tr><td rowspan=\"2\" colspan=\"6\">Options</td></tr><tr></tr><tr><td>23.98P</td><td>24P</td><td>25P</td><td>29.97P</td><td>50P</td><td>59.94P</td></tr><br><caption id='6' style='font-size:20px'>Playback</caption></table>\n<br><p id='8' data-category='paragraph' style='font-size:20px'>Recording</p>\n<table id='9' style='font-size:14px'><tr><td rowspan=\"2\" colspan=\"4\">Options</td></tr><tr></tr><tr><td>100P</td><td>120P</td><td>200P</td><td>240P</td></tr></table>\n<p id='10' data-category='list' style='font-size:14px'>● High-speed movies are recorded with no sound.<br>● The footage recorded to the memory card is compressed with the<br>goal of maintaining the selected bit rate.<br>● The options available for playback rate vary with the option selected<br>for rate of recording.</p>\n<br><footer id='11' style='font-size:22px'>6<br>The<br>Shooting<br>Menus</footer>\n<footer id='12' style='font-size:18px'>189</footer>",
+        "markdown": "MOVIE SETTING (Movie Recording)\n\n# HIGH SPEED REC\n\nRecord high-frame-rate movies. High-frame-rate movies can be\nplayed back in slow motion, giving you time to view fast-moving\nsubjects or details too fleeting for the naked eye. Select ON to\nchoose the recording and playback rates separately.\n\nChoose ON HDMI ONLY to record footage only to external recorders\nconnected via HDMI. Note that this option does not support playback\nframe-rate selection.\n\nFrame Size\n\n| Options | Options |\n| --- | --- |\n| FHD 16:9 | FHD : 17 :9 |\n\n\nPlayback\n\n| Options | Options | Options | Options | Options | Options |\n| --- | --- | --- | --- | --- | --- |\n| Options | Options | Options | Options | Options | Options |\n| 23.98P | 24P | 25P | 29.97P | 50P | 59.94P |\n\n\nRecording\n\n| Options | Options | Options | Options |\n| --- | --- | --- | --- |\n| Options | Options | Options | Options |\n| 100P | 120P | 200P | 240P |\n\n\n- ● High-speed movies are recorded with no sound.\n- ● The footage recorded to the memory card is compressed with the\n- goal of maintaining the selected bit rate.\n- ● The options available for playback rate vary with the option selected\n- for rate of recording.\n\n\n6\nThe\nShooting\nMenus\n\n189",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:14px'>MOVIE SETTING (Movie Recording)</header>",
+                "markdown": "MOVIE SETTING (Movie Recording)",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.5765,
+                    "y": 0.0278
+                },
+                {
+                    "x": 0.9174,
+                    "y": 0.0278
+                },
+                {
+                    "x": 0.9174,
+                    "y": 0.0511
+                },
+                {
+                    "x": 0.5765,
+                    "y": 0.0511
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='1' style='font-size:16px'>HIGH SPEED REC</h1>",
+                "markdown": "# HIGH SPEED REC",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1094,
+                    "y": 0.0729
+                },
+                {
+                    "x": 0.3372,
+                    "y": 0.0729
+                },
+                {
+                    "x": 0.3372,
+                    "y": 0.0945
+                },
+                {
+                    "x": 0.1094,
+                    "y": 0.0945
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='2' data-category='paragraph' style='font-size:18px'>Record high-frame-rate movies. High-frame-rate movies can be<br>played back in slow motion, giving you time to view fast-moving<br>subjects or details too fleeting for the naked eye. Select ON to<br>choose the recording and playback rates separately.</p>",
+                "markdown": "Record high-frame-rate movies. High-frame-rate movies can be\nplayed back in slow motion, giving you time to view fast-moving\nsubjects or details too fleeting for the naked eye. Select ON to\nchoose the recording and playback rates separately.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1058,
+                    "y": 0.1045
+                },
+                {
+                    "x": 0.92,
+                    "y": 0.1045
+                },
+                {
+                    "x": 0.92,
+                    "y": 0.2051
+                },
+                {
+                    "x": 0.1058,
+                    "y": 0.2051
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='3' data-category='paragraph' style='font-size:16px'>Choose ON HDMI ONLY to record footage only to external recorders<br>connected via HDMI. Note that this option does not support playback<br>frame-rate selection.</p>",
+                "markdown": "Choose ON HDMI ONLY to record footage only to external recorders\nconnected via HDMI. Note that this option does not support playback\nframe-rate selection.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.124,
+                    "y": 0.2124
+                },
+                {
+                    "x": 0.9168,
+                    "y": 0.2124
+                },
+                {
+                    "x": 0.9168,
+                    "y": 0.2799
+                },
+                {
+                    "x": 0.124,
+                    "y": 0.2799
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='4' data-category='paragraph' style='font-size:16px'>Frame Size</p>",
+                "markdown": "Frame Size",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1217,
+                    "y": 0.3024
+                },
+                {
+                    "x": 0.2631,
+                    "y": 0.3024
+                },
+                {
+                    "x": 0.2631,
+                    "y": 0.3252
+                },
+                {
+                    "x": 0.1217,
+                    "y": 0.3252
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='5' style='font-size:14px'><tr><td colspan=\"2\">Options</td></tr><tr><td>FHD 16:9</td><td>FHD : 17 :9</td></tr></table>",
+                "markdown": "| Options | Options |\n| --- | --- |\n| FHD 16:9 | FHD : 17 :9 |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1219,
+                    "y": 0.3454
+                },
+                {
+                    "x": 0.9144,
+                    "y": 0.3454
+                },
+                {
+                    "x": 0.9144,
+                    "y": 0.4003
+                },
+                {
+                    "x": 0.1219,
+                    "y": 0.4003
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='6' data-category='paragraph' style='font-size:20px'>Playback</p>",
+                "markdown": "Playback",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1222,
+                    "y": 0.4183
+                },
+                {
+                    "x": 0.2414,
+                    "y": 0.4183
+                },
+                {
+                    "x": 0.2414,
+                    "y": 0.4428
+                },
+                {
+                    "x": 0.1222,
+                    "y": 0.4428
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='7' style='font-size:14px'><tr><td rowspan=\"2\" colspan=\"6\">Options</td></tr><tr></tr><tr><td>23.98P</td><td>24P</td><td>25P</td><td>29.97P</td><td>50P</td><td>59.94P</td></tr></table>",
+                "markdown": "| Options | Options | Options | Options | Options | Options |\n| --- | --- | --- | --- | --- | --- |\n| Options | Options | Options | Options | Options | Options |\n| 23.98P | 24P | 25P | 29.97P | 50P | 59.94P |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1107,
+                    "y": 0.4618
+                },
+                {
+                    "x": 0.9118,
+                    "y": 0.4618
+                },
+                {
+                    "x": 0.9118,
+                    "y": 0.5191
+                },
+                {
+                    "x": 0.1107,
+                    "y": 0.5191
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='8' data-category='paragraph' style='font-size:20px'>Recording</p>",
+                "markdown": "Recording",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1216,
+                    "y": 0.5347
+                },
+                {
+                    "x": 0.2565,
+                    "y": 0.5347
+                },
+                {
+                    "x": 0.2565,
+                    "y": 0.5603
+                },
+                {
+                    "x": 0.1216,
+                    "y": 0.5603
+                }
+            ],
+            "id": 8,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='9' style='font-size:14px'><tr><td rowspan=\"2\" colspan=\"4\">Options</td></tr><tr></tr><tr><td>100P</td><td>120P</td><td>200P</td><td>240P</td></tr></table>",
+                "markdown": "| Options | Options | Options | Options |\n| --- | --- | --- | --- |\n| Options | Options | Options | Options |\n| 100P | 120P | 200P | 240P |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1121,
+                    "y": 0.5774
+                },
+                {
+                    "x": 0.9124,
+                    "y": 0.5774
+                },
+                {
+                    "x": 0.9124,
+                    "y": 0.6342
+                },
+                {
+                    "x": 0.1121,
+                    "y": 0.6342
+                }
+            ],
+            "id": 9,
+            "page": 1
+        },
+        {
+            "category": "list",
+            "content": {
+                "html": "<p id='10' data-category='list' style='font-size:14px'>● High-speed movies are recorded with no sound.<br>● The footage recorded to the memory card is compressed with the<br>goal of maintaining the selected bit rate.<br>● The options available for playback rate vary with the option selected<br>for rate of recording.</p>",
+                "markdown": "- ● High-speed movies are recorded with no sound.\n- ● The footage recorded to the memory card is compressed with the\n- goal of maintaining the selected bit rate.\n- ● The options available for playback rate vary with the option selected\n- for rate of recording.\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1387,
+                    "y": 0.6454
+                },
+                {
+                    "x": 0.9143,
+                    "y": 0.6454
+                },
+                {
+                    "x": 0.9143,
+                    "y": 0.7573
+                },
+                {
+                    "x": 0.1387,
+                    "y": 0.7573
+                }
+            ],
+            "id": 10,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<br><footer id='11' style='font-size:22px'>6<br>The<br>Shooting<br>Menus</footer>",
+                "markdown": "6\nThe\nShooting\nMenus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9561,
+                    "y": 0.5381
+                },
+                {
+                    "x": 0.9824,
+                    "y": 0.5381
+                },
+                {
+                    "x": 0.9824,
+                    "y": 0.7319
+                },
+                {
+                    "x": 0.9561,
+                    "y": 0.7319
+                }
+            ],
+            "id": 11,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='12' style='font-size:18px'>189</footer>",
+                "markdown": "189",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.8632,
+                    "y": 0.9573
+                },
+                {
+                    "x": 0.9172,
+                    "y": 0.9573
+                },
+                {
+                    "x": 0.9172,
+                    "y": 0.9785
+                },
+                {
+                    "x": 0.8632,
+                    "y": 0.9785
+                }
+            ],
+            "id": 12,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

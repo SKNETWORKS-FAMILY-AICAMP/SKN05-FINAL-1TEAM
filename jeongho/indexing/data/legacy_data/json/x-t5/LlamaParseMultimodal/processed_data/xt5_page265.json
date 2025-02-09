@@ -1,0 +1,14 @@
+{
+    "parsing_result": "# Network/USB Setting Menus\n\n## Bluetooth DEVICE LIST\nList the devices with which the camera is paired (other than the smartphone) or end pairing with selected devices.\n\n## Bluetooth ON/OFF\nIf **ON** is selected, the camera will automatically connect with paired smartphones or tablets running the smartphone app.\n\n**Options:**  \nON | OFF\n\n## AUTO IMAGE TRANSFER ORDER\nSelect **ON** to upload pictures automatically as they are taken.\n\n**Options:**  \nON | OFF\n\n## SMARTPHONE LOCATION SYNC.\nSelect **ON** to enable ongoing download of location data from paired smartphones or tablets.\n\n**Options:**  \nON | OFF\n\n> ⚠️ Location data will only be downloaded while the smartphone app is running. Download will be interrupted if pairing is ended. The camera location data icon will be displayed in red if location data have not been updated for over 30 minutes.\n\n## NAME\nChoose a name (**NAME**) to identify the camera on the wireless network (the camera is assigned a unique name by default).",
+    "metadata": {
+        "page": 265,
+        "model": "x-t5",
+        "chapter": "Network/USB Features and Settings",
+        "section": "Network/USB Setting Menus",
+        "subsection": [
+            "Bluetooth/SMARTPHONE SETTING"
+        ],
+        "embedding_model": "text-embedding-3-small",
+        "token": 208
+    }
+}

@@ -1,0 +1,434 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:14px'>BUTTON/DIAL SETTING</header>\n<h1 id='1' style='font-size:20px'>CONSTANT SPEED ZOOM (Fn)</h1>\n<br><p id='2' data-category='paragraph' style='font-size:18px'>Choose the rate at which compatible power zoom lenses can be<br>zoomed in or out using function buttons. The higher the number, the<br>higher the rate.</p>\n<br><table id='3' style='font-size:14px'><tr><td colspan=\"8\">Options</td></tr><tr><td>1(SLOW)</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8(FAST)</td></tr></table>\n<h1 id='4' style='font-size:18px'>CONSTANT SPEED ZOOM/FOCUS (Fn) OPERATION</h1>\n\n<br><table id='6' style='font-size:14px'><tr><td>Option</td><td>Description</td></tr><tr><td>START/STOP SWITCH</td><td>The operation starts when the button is pressed and stops when it is pressed a second time.</td></tr><tr><td>ACTIVE WHILE PRESSING</td><td>The operation continues while the button is pressed and stops when the button is released.</td></tr><br><caption id='5' style='font-size:16px'>Choose whether the function buttons on compatible power<br>zoom lenses need only be pressed once to start and stop power<br>focus or power zoom.</caption></table>\n<p id='7' data-category='paragraph' style='font-size:16px'>ZOOM RING ROTATE</p>\n\n<br><table id='9' style='font-size:18px'><tr><td colspan=\"2\">Options</td></tr><tr><td>C CW (clockwise)</td><td>7 CCW (counterclockwise)</td></tr><br><caption id='8' style='font-size:16px'>Choose whether to reverse the rotation of the zoom ring on com-<br>patible power zoom lenses.</caption></table>\n<br><p id='10' data-category='paragraph' style='font-size:16px'>ZOOM/FOCUS CONTROL RING</p>\n\n<br><table id='12' style='font-size:18px'><tr><td colspan=\"2\">Options</td></tr><tr><td>ZOOM</td><td>FOCUS</td></tr><br><caption id='11' style='font-size:20px'>Choose role played by the zoom/focus control ring on compati-<br>ble power zoom lenses.</caption></table>\n<br><footer id='13' style='font-size:22px'>The<br>Setup<br>Menus</footer>\n<footer id='14' style='font-size:22px'>295</footer>",
+        "markdown": "BUTTON/DIAL SETTING\n\n# CONSTANT SPEED ZOOM (Fn)\n\nChoose the rate at which compatible power zoom lenses can be\nzoomed in or out using function buttons. The higher the number, the\nhigher the rate.\n\n| Options | Options | Options | Options | Options | Options | Options | Options |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n| 1(SLOW) | 2 | 3 | 4 | 5 | 6 | 7 | 8(FAST) |\n\n\n# CONSTANT SPEED ZOOM/FOCUS (Fn) OPERATION\n\nChoose whether the function buttons on compatible power\nzoom lenses need only be pressed once to start and stop power\nfocus or power zoom.\n\n| Option | Description |\n| --- | --- |\n| START/STOP SWITCH | The operation starts when the button is pressed and stops when it is pressed a second time. |\n| ACTIVE WHILE PRESSING | The operation continues while the button is pressed and stops when the button is released. |\n\n\nZOOM RING ROTATE\n\nChoose whether to reverse the rotation of the zoom ring on com-\npatible power zoom lenses.\n\n| Options | Options |\n| --- | --- |\n| C CW (clockwise) | 7 CCW (counterclockwise) |\n\n\nZOOM/FOCUS CONTROL RING\n\nChoose role played by the zoom/focus control ring on compati-\nble power zoom lenses.\n\n| Options | Options |\n| --- | --- |\n| ZOOM | FOCUS |\n\n\nThe\nSetup\nMenus\n\n295",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:14px'>BUTTON/DIAL SETTING</header>",
+                "markdown": "BUTTON/DIAL SETTING",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6868,
+                    "y": 0.0277
+                },
+                {
+                    "x": 0.9188,
+                    "y": 0.0277
+                },
+                {
+                    "x": 0.9188,
+                    "y": 0.0503
+                },
+                {
+                    "x": 0.6868,
+                    "y": 0.0503
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='1' style='font-size:20px'>CONSTANT SPEED ZOOM (Fn)</h1>",
+                "markdown": "# CONSTANT SPEED ZOOM (Fn)",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.118,
+                    "y": 0.073
+                },
+                {
+                    "x": 0.4814,
+                    "y": 0.073
+                },
+                {
+                    "x": 0.4814,
+                    "y": 0.0974
+                },
+                {
+                    "x": 0.118,
+                    "y": 0.0974
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='2' data-category='paragraph' style='font-size:18px'>Choose the rate at which compatible power zoom lenses can be<br>zoomed in or out using function buttons. The higher the number, the<br>higher the rate.</p>",
+                "markdown": "Choose the rate at which compatible power zoom lenses can be\nzoomed in or out using function buttons. The higher the number, the\nhigher the rate.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1058,
+                    "y": 0.1037
+                },
+                {
+                    "x": 0.9201,
+                    "y": 0.1037
+                },
+                {
+                    "x": 0.9201,
+                    "y": 0.1793
+                },
+                {
+                    "x": 0.1058,
+                    "y": 0.1793
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='3' style='font-size:14px'><tr><td colspan=\"8\">Options</td></tr><tr><td>1(SLOW)</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8(FAST)</td></tr></table>",
+                "markdown": "| Options | Options | Options | Options | Options | Options | Options | Options |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n| 1(SLOW) | 2 | 3 | 4 | 5 | 6 | 7 | 8(FAST) |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1084,
+                    "y": 0.185
+                },
+                {
+                    "x": 0.9155,
+                    "y": 0.185
+                },
+                {
+                    "x": 0.9155,
+                    "y": 0.2362
+                },
+                {
+                    "x": 0.1084,
+                    "y": 0.2362
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='4' style='font-size:18px'>CONSTANT SPEED ZOOM/FOCUS (Fn) OPERATION</h1>",
+                "markdown": "# CONSTANT SPEED ZOOM/FOCUS (Fn) OPERATION",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1146,
+                    "y": 0.2529
+                },
+                {
+                    "x": 0.7189,
+                    "y": 0.2529
+                },
+                {
+                    "x": 0.7189,
+                    "y": 0.2777
+                },
+                {
+                    "x": 0.1146,
+                    "y": 0.2777
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='5' data-category='paragraph' style='font-size:16px'>Choose whether the function buttons on compatible power<br>zoom lenses need only be pressed once to start and stop power<br>focus or power zoom.</p>",
+                "markdown": "Choose whether the function buttons on compatible power\nzoom lenses need only be pressed once to start and stop power\nfocus or power zoom.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1058,
+                    "y": 0.2837
+                },
+                {
+                    "x": 0.9185,
+                    "y": 0.2837
+                },
+                {
+                    "x": 0.9185,
+                    "y": 0.3591
+                },
+                {
+                    "x": 0.1058,
+                    "y": 0.3591
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='6' style='font-size:14px'><tr><td>Option</td><td>Description</td></tr><tr><td>START/STOP SWITCH</td><td>The operation starts when the button is pressed and stops when it is pressed a second time.</td></tr><tr><td>ACTIVE WHILE PRESSING</td><td>The operation continues while the button is pressed and stops when the button is released.</td></tr></table>",
+                "markdown": "| Option | Description |\n| --- | --- |\n| START/STOP SWITCH | The operation starts when the button is pressed and stops when it is pressed a second time. |\n| ACTIVE WHILE PRESSING | The operation continues while the button is pressed and stops when the button is released. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1086,
+                    "y": 0.3653
+                },
+                {
+                    "x": 0.9192,
+                    "y": 0.3653
+                },
+                {
+                    "x": 0.9192,
+                    "y": 0.4841
+                },
+                {
+                    "x": 0.1086,
+                    "y": 0.4841
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='7' data-category='paragraph' style='font-size:16px'>ZOOM RING ROTATE</p>",
+                "markdown": "ZOOM RING ROTATE",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1153,
+                    "y": 0.5039
+                },
+                {
+                    "x": 0.3713,
+                    "y": 0.5039
+                },
+                {
+                    "x": 0.3713,
+                    "y": 0.5263
+                },
+                {
+                    "x": 0.1153,
+                    "y": 0.5263
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='8' data-category='paragraph' style='font-size:16px'>Choose whether to reverse the rotation of the zoom ring on com-<br>patible power zoom lenses.</p>",
+                "markdown": "Choose whether to reverse the rotation of the zoom ring on com-\npatible power zoom lenses.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1059,
+                    "y": 0.5341
+                },
+                {
+                    "x": 0.9156,
+                    "y": 0.5341
+                },
+                {
+                    "x": 0.9156,
+                    "y": 0.5842
+                },
+                {
+                    "x": 0.1059,
+                    "y": 0.5842
+                }
+            ],
+            "id": 8,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='9' style='font-size:18px'><tr><td colspan=\"2\">Options</td></tr><tr><td>C CW (clockwise)</td><td>7 CCW (counterclockwise)</td></tr></table>",
+                "markdown": "| Options | Options |\n| --- | --- |\n| C CW (clockwise) | 7 CCW (counterclockwise) |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1051,
+                    "y": 0.5928
+                },
+                {
+                    "x": 0.9219,
+                    "y": 0.5928
+                },
+                {
+                    "x": 0.9219,
+                    "y": 0.646
+                },
+                {
+                    "x": 0.1051,
+                    "y": 0.646
+                }
+            ],
+            "id": 9,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='10' data-category='paragraph' style='font-size:16px'>ZOOM/FOCUS CONTROL RING</p>",
+                "markdown": "ZOOM/FOCUS CONTROL RING",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1154,
+                    "y": 0.6606
+                },
+                {
+                    "x": 0.4914,
+                    "y": 0.6606
+                },
+                {
+                    "x": 0.4914,
+                    "y": 0.6859
+                },
+                {
+                    "x": 0.1154,
+                    "y": 0.6859
+                }
+            ],
+            "id": 10,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='11' data-category='paragraph' style='font-size:20px'>Choose role played by the zoom/focus control ring on compati-<br>ble power zoom lenses.</p>",
+                "markdown": "Choose role played by the zoom/focus control ring on compati-\nble power zoom lenses.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1054,
+                    "y": 0.6923
+                },
+                {
+                    "x": 0.9146,
+                    "y": 0.6923
+                },
+                {
+                    "x": 0.9146,
+                    "y": 0.741
+                },
+                {
+                    "x": 0.1054,
+                    "y": 0.741
+                }
+            ],
+            "id": 11,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='12' style='font-size:18px'><tr><td colspan=\"2\">Options</td></tr><tr><td>ZOOM</td><td>FOCUS</td></tr></table>",
+                "markdown": "| Options | Options |\n| --- | --- |\n| ZOOM | FOCUS |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1463,
+                    "y": 0.7494
+                },
+                {
+                    "x": 0.9135,
+                    "y": 0.7494
+                },
+                {
+                    "x": 0.9135,
+                    "y": 0.8003
+                },
+                {
+                    "x": 0.1463,
+                    "y": 0.8003
+                }
+            ],
+            "id": 12,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<br><footer id='13' style='font-size:22px'>The<br>Setup<br>Menus</footer>",
+                "markdown": "The\nSetup\nMenus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9556,
+                    "y": 0.5658
+                },
+                {
+                    "x": 0.9888,
+                    "y": 0.5658
+                },
+                {
+                    "x": 0.9888,
+                    "y": 0.7389
+                },
+                {
+                    "x": 0.9556,
+                    "y": 0.7389
+                }
+            ],
+            "id": 13,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='14' style='font-size:22px'>295</footer>",
+                "markdown": "295",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.8603,
+                    "y": 0.9569
+                },
+                {
+                    "x": 0.9174,
+                    "y": 0.9569
+                },
+                {
+                    "x": 0.9174,
+                    "y": 0.9792
+                },
+                {
+                    "x": 0.8603,
+                    "y": 0.9792
+                }
+            ],
+            "id": 14,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

@@ -1,0 +1,322 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:22px'>The<br>Setup<br>Menus</header>\n<br><h1 id='1' style='font-size:20px'>SENSOR CLEANING</h1>\n<br><h1 id='2' style='font-size:18px'>Remove dust from the camera image sensor.</h1>\n<br><table id='3' style='font-size:16px'><tr><td>Option</td><td>Description</td></tr><tr><td>OK</td><td>Clean the sensor immediately.</td></tr><tr><td>WHEN SWITCHED ON</td><td>Sensor cleaning will be performed when the camera is turned on.</td></tr><tr><td>WHEN SWITCHED OFF</td><td>Sensor cleaning will be performed when the camera turns off (sensor cleaning is not however performed if the cam- era turns off in playback mode).</td></tr></table>\n<br><p id='4' data-category='paragraph' style='font-size:14px'>Dust that cannot be removed using sensor cleaning can be removed<br>using a blower (日目 374).</p>\n<p id='5' data-category='paragraph' style='font-size:18px'>BATTERY AGE</p>\n<p id='6' data-category='paragraph' style='font-size:20px'>Check battery age. Age is expressed as a<br>number between 0 and 4. The higher the<br>number, the older the battery.</p>\n<br><figure id='7' data-category='chart'><img style='font-size:14px' alt=\"BATTERY AGE \n0 \nNEW \n\" data-coord=\"top-left:(1688,1621); bottom-right:(2456,2195)\" /></figure>\n<p id='8' data-category='paragraph' style='font-size:16px'>The older the battery, the faster it loses its charge. We recommend that<br>batteries be replaced as they wear out.</p>\n<p id='9' data-category='paragraph' style='font-size:14px'>9</p>\n<footer id='10' style='font-size:22px'>276</footer>",
+        "markdown": "The\nSetup\nMenus\n\n# SENSOR CLEANING\n\n# Remove dust from the camera image sensor.\n\n| Option | Description |\n| --- | --- |\n| OK | Clean the sensor immediately. |\n| WHEN SWITCHED ON | Sensor cleaning will be performed when the camera is turned on. |\n| WHEN SWITCHED OFF | Sensor cleaning will be performed when the camera turns off (sensor cleaning is not however performed if the cam- era turns off in playback mode). |\n\n\nDust that cannot be removed using sensor cleaning can be removed\nusing a blower (日目 374).\n\nBATTERY AGE\n\nCheck battery age. Age is expressed as a\nnumber between 0 and 4. The higher the\nnumber, the older the battery.\n\n![image](/image/placeholder)\nBATTERY AGE \n0 \nNEW \n\n\nThe older the battery, the faster it loses its charge. We recommend that\nbatteries be replaced as they wear out.\n\n9\n\n276",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:22px'>The<br>Setup<br>Menus</header>",
+                "markdown": "The\nSetup\nMenus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0186,
+                    "y": 0.5687
+                },
+                {
+                    "x": 0.0404,
+                    "y": 0.5687
+                },
+                {
+                    "x": 0.0404,
+                    "y": 0.6978
+                },
+                {
+                    "x": 0.0186,
+                    "y": 0.6978
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='1' style='font-size:20px'>SENSOR CLEANING</h1>",
+                "markdown": "# SENSOR CLEANING",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0819,
+                    "y": 0.0731
+                },
+                {
+                    "x": 0.3456,
+                    "y": 0.0731
+                },
+                {
+                    "x": 0.3456,
+                    "y": 0.0948
+                },
+                {
+                    "x": 0.0819,
+                    "y": 0.0948
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='2' style='font-size:18px'>Remove dust from the camera image sensor.</h1>",
+                "markdown": "# Remove dust from the camera image sensor.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0813,
+                    "y": 0.1051
+                },
+                {
+                    "x": 0.6456,
+                    "y": 0.1051
+                },
+                {
+                    "x": 0.6456,
+                    "y": 0.1285
+                },
+                {
+                    "x": 0.0813,
+                    "y": 0.1285
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='3' style='font-size:16px'><tr><td>Option</td><td>Description</td></tr><tr><td>OK</td><td>Clean the sensor immediately.</td></tr><tr><td>WHEN SWITCHED ON</td><td>Sensor cleaning will be performed when the camera is turned on.</td></tr><tr><td>WHEN SWITCHED OFF</td><td>Sensor cleaning will be performed when the camera turns off (sensor cleaning is not however performed if the cam- era turns off in playback mode).</td></tr></table>",
+                "markdown": "| Option | Description |\n| --- | --- |\n| OK | Clean the sensor immediately. |\n| WHEN SWITCHED ON | Sensor cleaning will be performed when the camera is turned on. |\n| WHEN SWITCHED OFF | Sensor cleaning will be performed when the camera turns off (sensor cleaning is not however performed if the cam- era turns off in playback mode). |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0841,
+                    "y": 0.1398
+                },
+                {
+                    "x": 0.8922,
+                    "y": 0.1398
+                },
+                {
+                    "x": 0.8922,
+                    "y": 0.3097
+                },
+                {
+                    "x": 0.0841,
+                    "y": 0.3097
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='4' data-category='paragraph' style='font-size:14px'>Dust that cannot be removed using sensor cleaning can be removed<br>using a blower (日目 374).</p>",
+                "markdown": "Dust that cannot be removed using sensor cleaning can be removed\nusing a blower (日目 374).",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0856,
+                    "y": 0.3195
+                },
+                {
+                    "x": 0.8906,
+                    "y": 0.3195
+                },
+                {
+                    "x": 0.8906,
+                    "y": 0.3641
+                },
+                {
+                    "x": 0.0856,
+                    "y": 0.3641
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='5' data-category='paragraph' style='font-size:18px'>BATTERY AGE</p>",
+                "markdown": "BATTERY AGE",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0824,
+                    "y": 0.3845
+                },
+                {
+                    "x": 0.2731,
+                    "y": 0.3845
+                },
+                {
+                    "x": 0.2731,
+                    "y": 0.4063
+                },
+                {
+                    "x": 0.0824,
+                    "y": 0.4063
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='6' data-category='paragraph' style='font-size:20px'>Check battery age. Age is expressed as a<br>number between 0 and 4. The higher the<br>number, the older the battery.</p>",
+                "markdown": "Check battery age. Age is expressed as a\nnumber between 0 and 4. The higher the\nnumber, the older the battery.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0811,
+                    "y": 0.4176
+                },
+                {
+                    "x": 0.6024,
+                    "y": 0.4176
+                },
+                {
+                    "x": 0.6024,
+                    "y": 0.4922
+                },
+                {
+                    "x": 0.0811,
+                    "y": 0.4922
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "figure",
+            "content": {
+                "html": "<br><figure id='7' data-category='chart'><img style='font-size:14px' alt=\"BATTERY AGE \n0 \nNEW \n\" data-coord=\"top-left:(1688,1621); bottom-right:(2456,2195)\" /></figure>",
+                "markdown": "![image](/image/placeholder)\nBATTERY AGE \n0 \nNEW \n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6109,
+                    "y": 0.4161
+                },
+                {
+                    "x": 0.8888,
+                    "y": 0.4161
+                },
+                {
+                    "x": 0.8888,
+                    "y": 0.5632
+                },
+                {
+                    "x": 0.6109,
+                    "y": 0.5632
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='8' data-category='paragraph' style='font-size:16px'>The older the battery, the faster it loses its charge. We recommend that<br>batteries be replaced as they wear out.</p>",
+                "markdown": "The older the battery, the faster it loses its charge. We recommend that\nbatteries be replaced as they wear out.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0995,
+                    "y": 0.5752
+                },
+                {
+                    "x": 0.8909,
+                    "y": 0.5752
+                },
+                {
+                    "x": 0.8909,
+                    "y": 0.6201
+                },
+                {
+                    "x": 0.0995,
+                    "y": 0.6201
+                }
+            ],
+            "id": 8,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='9' data-category='paragraph' style='font-size:14px'>9</p>",
+                "markdown": "9",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0278,
+                    "y": 0.7191
+                },
+                {
+                    "x": 0.0417,
+                    "y": 0.7191
+                },
+                {
+                    "x": 0.0417,
+                    "y": 0.7348
+                },
+                {
+                    "x": 0.0278,
+                    "y": 0.7348
+                }
+            ],
+            "id": 9,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='10' style='font-size:22px'>276</footer>",
+                "markdown": "276",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0823,
+                    "y": 0.9558
+                },
+                {
+                    "x": 0.1406,
+                    "y": 0.9558
+                },
+                {
+                    "x": 0.1406,
+                    "y": 0.9801
+                },
+                {
+                    "x": 0.0823,
+                    "y": 0.9801
+                }
+            ],
+            "id": 10,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

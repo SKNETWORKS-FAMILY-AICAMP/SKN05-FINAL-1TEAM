@@ -1,0 +1,266 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:14px'>IMAGE QUALITY SETTING</header>\n<h1 id='1' style='font-size:16px'>COLOR CHROME EFFECT</h1>\n\n<table id='3' style='font-size:14px'><tr><td>Option</td><td>Description</td></tr><tr><td>STRONG</td><td>Choose for a strong effect.</td></tr><tr><td>WEAK</td><td>Choose for a weak effect.</td></tr><tr><td>OFF</td><td>Turn the effect off.</td></tr><br><caption id='2' style='font-size:20px'>Increase the range of tones available for rendering colors that<br>tend to be highly saturated, such as reds, yellows, and greens.</caption></table>\n<p id='4' data-category='paragraph' style='font-size:18px'>COLOR CHROME FX BLUE</p>\n\n<br><table id='6' style='font-size:14px'><tr><td>Option</td><td>Description</td></tr><tr><td>STRONG</td><td>Choose for a strong effect.</td></tr><tr><td>WEAK</td><td>Choose for a weak effect.</td></tr><tr><td>OFF</td><td>Turn the effect off.</td></tr><br><caption id='5' style='font-size:20px'>Increase the range of tones available for rendering blues.</caption></table>\n<footer id='7' style='font-size:18px'>109</footer>\n<br><footer id='8' style='font-size:22px'>6<br>The<br>Shooting<br>Menus</footer>",
+        "markdown": "IMAGE QUALITY SETTING\n\n# COLOR CHROME EFFECT\n\nIncrease the range of tones available for rendering colors that\ntend to be highly saturated, such as reds, yellows, and greens.\n\n| Option | Description |\n| --- | --- |\n| STRONG | Choose for a strong effect. |\n| WEAK | Choose for a weak effect. |\n| OFF | Turn the effect off. |\n\n\nCOLOR CHROME FX BLUE\n\nIncrease the range of tones available for rendering blues.\n\n| Option | Description |\n| --- | --- |\n| STRONG | Choose for a strong effect. |\n| WEAK | Choose for a weak effect. |\n| OFF | Turn the effect off. |\n\n\n109\n\n6\nThe\nShooting\nMenus",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:14px'>IMAGE QUALITY SETTING</header>",
+                "markdown": "IMAGE QUALITY SETTING",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6682,
+                    "y": 0.0278
+                },
+                {
+                    "x": 0.9186,
+                    "y": 0.0278
+                },
+                {
+                    "x": 0.9186,
+                    "y": 0.0501
+                },
+                {
+                    "x": 0.6682,
+                    "y": 0.0501
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='1' style='font-size:16px'>COLOR CHROME EFFECT</h1>",
+                "markdown": "# COLOR CHROME EFFECT",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1059,
+                    "y": 0.0726
+                },
+                {
+                    "x": 0.4375,
+                    "y": 0.0726
+                },
+                {
+                    "x": 0.4375,
+                    "y": 0.0953
+                },
+                {
+                    "x": 0.1059,
+                    "y": 0.0953
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='2' data-category='paragraph' style='font-size:20px'>Increase the range of tones available for rendering colors that<br>tend to be highly saturated, such as reds, yellows, and greens.</p>",
+                "markdown": "Increase the range of tones available for rendering colors that\ntend to be highly saturated, such as reds, yellows, and greens.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1056,
+                    "y": 0.1044
+                },
+                {
+                    "x": 0.9207,
+                    "y": 0.1044
+                },
+                {
+                    "x": 0.9207,
+                    "y": 0.1556
+                },
+                {
+                    "x": 0.1056,
+                    "y": 0.1556
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='3' style='font-size:14px'><tr><td>Option</td><td>Description</td></tr><tr><td>STRONG</td><td>Choose for a strong effect.</td></tr><tr><td>WEAK</td><td>Choose for a weak effect.</td></tr><tr><td>OFF</td><td>Turn the effect off.</td></tr></table>",
+                "markdown": "| Option | Description |\n| --- | --- |\n| STRONG | Choose for a strong effect. |\n| WEAK | Choose for a weak effect. |\n| OFF | Turn the effect off. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.108,
+                    "y": 0.1664
+                },
+                {
+                    "x": 0.9167,
+                    "y": 0.1664
+                },
+                {
+                    "x": 0.9167,
+                    "y": 0.2644
+                },
+                {
+                    "x": 0.108,
+                    "y": 0.2644
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='4' data-category='paragraph' style='font-size:18px'>COLOR CHROME FX BLUE</p>",
+                "markdown": "COLOR CHROME FX BLUE",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1065,
+                    "y": 0.2815
+                },
+                {
+                    "x": 0.4509,
+                    "y": 0.2815
+                },
+                {
+                    "x": 0.4509,
+                    "y": 0.3049
+                },
+                {
+                    "x": 0.1065,
+                    "y": 0.3049
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='5' data-category='paragraph' style='font-size:20px'>Increase the range of tones available for rendering blues.</p>",
+                "markdown": "Increase the range of tones available for rendering blues.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.106,
+                    "y": 0.314
+                },
+                {
+                    "x": 0.8247,
+                    "y": 0.314
+                },
+                {
+                    "x": 0.8247,
+                    "y": 0.3391
+                },
+                {
+                    "x": 0.106,
+                    "y": 0.3391
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='6' style='font-size:14px'><tr><td>Option</td><td>Description</td></tr><tr><td>STRONG</td><td>Choose for a strong effect.</td></tr><tr><td>WEAK</td><td>Choose for a weak effect.</td></tr><tr><td>OFF</td><td>Turn the effect off.</td></tr></table>",
+                "markdown": "| Option | Description |\n| --- | --- |\n| STRONG | Choose for a strong effect. |\n| WEAK | Choose for a weak effect. |\n| OFF | Turn the effect off. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1072,
+                    "y": 0.3494
+                },
+                {
+                    "x": 0.917,
+                    "y": 0.3494
+                },
+                {
+                    "x": 0.917,
+                    "y": 0.4468
+                },
+                {
+                    "x": 0.1072,
+                    "y": 0.4468
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='7' style='font-size:18px'>109</footer>",
+                "markdown": "109",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.8623,
+                    "y": 0.9564
+                },
+                {
+                    "x": 0.9177,
+                    "y": 0.9564
+                },
+                {
+                    "x": 0.9177,
+                    "y": 0.979
+                },
+                {
+                    "x": 0.8623,
+                    "y": 0.979
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<br><footer id='8' style='font-size:22px'>6<br>The<br>Shooting<br>Menus</footer>",
+                "markdown": "6\nThe\nShooting\nMenus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9561,
+                    "y": 0.5433
+                },
+                {
+                    "x": 0.983,
+                    "y": 0.5433
+                },
+                {
+                    "x": 0.983,
+                    "y": 0.7312
+                },
+                {
+                    "x": 0.9561,
+                    "y": 0.7312
+                }
+            ],
+            "id": 8,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

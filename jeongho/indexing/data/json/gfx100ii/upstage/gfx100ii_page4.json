@@ -1,0 +1,182 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<h1 id='0' style='font-size:18px'>1</h1>\n<br><header id='1' style='font-size:22px'>Before<br>You<br>Begin</header>\n<br><figure id='2'><img style='font-size:14px' alt=\"○\n○\n○\n○\n◎\n62\" data-coord=\"top-left:(333,308); bottom-right:(2306,1900)\" /></figure>\n<p id='3' data-category='list' style='font-size:18px'>58 Battery latch 44<br>59 Battery chamber. 43<br>60 Cooling fan connector cover 416<br>61 Cooling fan connector 416</p>\n<br><p id='4' data-category='list' style='font-size:16px'>62 Hole to screw cooling fan 416<br>63 Serial number plate.. 6<br>64 Vertical battery grip connector. 411</p>\n<footer id='5' style='font-size:20px'>4</footer>",
+        "markdown": "# 1\n\nBefore\nYou\nBegin\n\n![image](/image/placeholder)\n○\n○\n○\n○\n◎\n62\n\n- 58 Battery latch 44\n- 59 Battery chamber. 43\n- 60 Cooling fan connector cover 416\n- 61 Cooling fan connector 416\n\n\n- 62 Hole to screw cooling fan 416\n- 63 Serial number plate.. 6\n- 64 Vertical battery grip connector. 411\n\n\n4",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='0' style='font-size:18px'>1</h1>",
+                "markdown": "# 1",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.028,
+                    "y": 0.2403
+                },
+                {
+                    "x": 0.0399,
+                    "y": 0.2403
+                },
+                {
+                    "x": 0.0399,
+                    "y": 0.2558
+                },
+                {
+                    "x": 0.028,
+                    "y": 0.2558
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "header",
+            "content": {
+                "html": "<br><header id='1' style='font-size:22px'>Before<br>You<br>Begin</header>",
+                "markdown": "Before\nYou\nBegin",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0184,
+                    "y": 0.2775
+                },
+                {
+                    "x": 0.042,
+                    "y": 0.2775
+                },
+                {
+                    "x": 0.042,
+                    "y": 0.4032
+                },
+                {
+                    "x": 0.0184,
+                    "y": 0.4032
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "figure",
+            "content": {
+                "html": "<br><figure id='2'><img style='font-size:14px' alt=\"○\n○\n○\n○\n◎\n62\" data-coord=\"top-left:(333,308); bottom-right:(2306,1900)\" /></figure>",
+                "markdown": "![image](/image/placeholder)\n○\n○\n○\n○\n◎\n62",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1205,
+                    "y": 0.0792
+                },
+                {
+                    "x": 0.8343,
+                    "y": 0.0792
+                },
+                {
+                    "x": 0.8343,
+                    "y": 0.4876
+                },
+                {
+                    "x": 0.1205,
+                    "y": 0.4876
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "list",
+            "content": {
+                "html": "<p id='3' data-category='list' style='font-size:18px'>58 Battery latch 44<br>59 Battery chamber. 43<br>60 Cooling fan connector cover 416<br>61 Cooling fan connector 416</p>",
+                "markdown": "- 58 Battery latch 44\n- 59 Battery chamber. 43\n- 60 Cooling fan connector cover 416\n- 61 Cooling fan connector 416\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0826,
+                    "y": 0.5072
+                },
+                {
+                    "x": 0.4862,
+                    "y": 0.5072
+                },
+                {
+                    "x": 0.4862,
+                    "y": 0.5899
+                },
+                {
+                    "x": 0.0826,
+                    "y": 0.5899
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "list",
+            "content": {
+                "html": "<br><p id='4' data-category='list' style='font-size:16px'>62 Hole to screw cooling fan 416<br>63 Serial number plate.. 6<br>64 Vertical battery grip connector. 411</p>",
+                "markdown": "- 62 Hole to screw cooling fan 416\n- 63 Serial number plate.. 6\n- 64 Vertical battery grip connector. 411\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.4936,
+                    "y": 0.5056
+                },
+                {
+                    "x": 0.8932,
+                    "y": 0.5056
+                },
+                {
+                    "x": 0.8932,
+                    "y": 0.5696
+                },
+                {
+                    "x": 0.4936,
+                    "y": 0.5696
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='5' style='font-size:20px'>4</footer>",
+                "markdown": "4",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0814,
+                    "y": 0.9575
+                },
+                {
+                    "x": 0.1065,
+                    "y": 0.9575
+                },
+                {
+                    "x": 0.1065,
+                    "y": 0.978
+                },
+                {
+                    "x": 0.0814,
+                    "y": 0.978
+                }
+            ],
+            "id": 5,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

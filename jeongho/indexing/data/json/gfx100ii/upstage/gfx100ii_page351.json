@@ -1,0 +1,322 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:14px'>SCREEN SETTING</header>\n<h1 id='1' style='font-size:20px'>LARGE INDICATORS MODE(LCD)</h1>\n<br><p id='2' data-category='paragraph' style='font-size:20px'>Select ON to display large indicators in the LCD monitor. The in-<br>dicators displayed can be selected using SCREEN SET-UP ><br>LARGE INDICATORS DISP. SETTING.</p>\n<figure id='3' data-category='chart'><img style='font-size:14px' alt=\"贝 ② 9999 N \nAREA \n⌀5 \n心 \n3 real⌀ V \n2 \nDR \n200 \n0- \n1 -- \n2 ... \n-3 - \n-4 ... \n-5- \n0.1 0.5 1.0 1.5 2.0 3.0 5.0 10m� \nAF-S \nM [⌀] s.s.1000 F 5.6 ISO 12800 ⌀= \n\" data-coord=\"top-left:(564,721); bottom-right:(1333,1309)\" /></figure>\n<br><p id='4' data-category='paragraph' style='font-size:16px'>OFF</p>\n<br><figure id='5' data-category='chart'><img style='font-size:14px' alt=\"0 9999 \nAREA \n5 \n4 \n■ DR \n200 \n2 \n-3- [⌀] \n4- \n-5- \nS.S.  F ISO \n1000 5.6 12800 目 \n\" data-coord=\"top-left:(1497,713); bottom-right:(2285,1321)\" /></figure>\n<br><p id='6' data-category='paragraph' style='font-size:16px'>ON</p>\n<p id='7' data-category='paragraph' style='font-size:18px'>Some icons are not displayed when ON is selected for LARGE<br>INDICATORS MODE(LCD) (目 19).</p>\n<p id='8' data-category='paragraph' style='font-size:18px'>If LARGE INDICATORS MODE is assigned to a function button, the<br>button can be used to toggle LARGE INDICATORS MODE on (ON)<br>and off (OFF) (目目 385).</p>\n<footer id='9' style='font-size:22px'>The<br>Setup<br>Menus</footer>\n<footer id='10' style='font-size:22px'>351</footer>",
+        "markdown": "SCREEN SETTING\n\n# LARGE INDICATORS MODE(LCD)\n\nSelect ON to display large indicators in the LCD monitor. The in-\ndicators displayed can be selected using SCREEN SET-UP >\nLARGE INDICATORS DISP. SETTING.\n\n![image](/image/placeholder)\n贝 ② 9999 N \nAREA \n⌀5 \n心 \n3 real⌀ V \n2 \nDR \n200 \n0- \n1 -- \n2 ... \n-3 - \n-4 ... \n-5- \n0.1 0.5 1.0 1.5 2.0 3.0 5.0 10m� \nAF-S \nM [⌀] s.s.1000 F 5.6 ISO 12800 ⌀= \n\n\nOFF\n\n![image](/image/placeholder)\n0 9999 \nAREA \n5 \n4 \n■ DR \n200 \n2 \n-3- [⌀] \n4- \n-5- \nS.S.  F ISO \n1000 5.6 12800 目 \n\n\nON\n\nSome icons are not displayed when ON is selected for LARGE\nINDICATORS MODE(LCD) (目 19).\n\nIf LARGE INDICATORS MODE is assigned to a function button, the\nbutton can be used to toggle LARGE INDICATORS MODE on (ON)\nand off (OFF) (目目 385).\n\nThe\nSetup\nMenus\n\n351",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:14px'>SCREEN SETTING</header>",
+                "markdown": "SCREEN SETTING",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.7471,
+                    "y": 0.0285
+                },
+                {
+                    "x": 0.9184,
+                    "y": 0.0285
+                },
+                {
+                    "x": 0.9184,
+                    "y": 0.0491
+                },
+                {
+                    "x": 0.7471,
+                    "y": 0.0491
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='1' style='font-size:20px'>LARGE INDICATORS MODE(LCD)</h1>",
+                "markdown": "# LARGE INDICATORS MODE(LCD)",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1094,
+                    "y": 0.0727
+                },
+                {
+                    "x": 0.538,
+                    "y": 0.0727
+                },
+                {
+                    "x": 0.538,
+                    "y": 0.0954
+                },
+                {
+                    "x": 0.1094,
+                    "y": 0.0954
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='2' data-category='paragraph' style='font-size:20px'>Select ON to display large indicators in the LCD monitor. The in-<br>dicators displayed can be selected using SCREEN SET-UP ><br>LARGE INDICATORS DISP. SETTING.</p>",
+                "markdown": "Select ON to display large indicators in the LCD monitor. The in-\ndicators displayed can be selected using SCREEN SET-UP >\nLARGE INDICATORS DISP. SETTING.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1055,
+                    "y": 0.1036
+                },
+                {
+                    "x": 0.9199,
+                    "y": 0.1036
+                },
+                {
+                    "x": 0.9199,
+                    "y": 0.1777
+                },
+                {
+                    "x": 0.1055,
+                    "y": 0.1777
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "figure",
+            "content": {
+                "html": "<figure id='3' data-category='chart'><img style='font-size:14px' alt=\"贝 ② 9999 N \nAREA \n⌀5 \n心 \n3 real⌀ V \n2 \nDR \n200 \n0- \n1 -- \n2 ... \n-3 - \n-4 ... \n-5- \n0.1 0.5 1.0 1.5 2.0 3.0 5.0 10m� \nAF-S \nM [⌀] s.s.1000 F 5.6 ISO 12800 ⌀= \n\" data-coord=\"top-left:(564,721); bottom-right:(1333,1309)\" /></figure>",
+                "markdown": "![image](/image/placeholder)\n贝 ② 9999 N \nAREA \n⌀5 \n心 \n3 real⌀ V \n2 \nDR \n200 \n0- \n1 -- \n2 ... \n-3 - \n-4 ... \n-5- \n0.1 0.5 1.0 1.5 2.0 3.0 5.0 10m� \nAF-S \nM [⌀] s.s.1000 F 5.6 ISO 12800 ⌀= \n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.2042,
+                    "y": 0.185
+                },
+                {
+                    "x": 0.4825,
+                    "y": 0.185
+                },
+                {
+                    "x": 0.4825,
+                    "y": 0.3359
+                },
+                {
+                    "x": 0.2042,
+                    "y": 0.3359
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='4' data-category='paragraph' style='font-size:16px'>OFF</p>",
+                "markdown": "OFF",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.3162,
+                    "y": 0.3361
+                },
+                {
+                    "x": 0.3676,
+                    "y": 0.3361
+                },
+                {
+                    "x": 0.3676,
+                    "y": 0.3552
+                },
+                {
+                    "x": 0.3162,
+                    "y": 0.3552
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "figure",
+            "content": {
+                "html": "<br><figure id='5' data-category='chart'><img style='font-size:14px' alt=\"0 9999 \nAREA \n5 \n4 \n■ DR \n200 \n2 \n-3- [⌀] \n4- \n-5- \nS.S.  F ISO \n1000 5.6 12800 目 \n\" data-coord=\"top-left:(1497,713); bottom-right:(2285,1321)\" /></figure>",
+                "markdown": "![image](/image/placeholder)\n0 9999 \nAREA \n5 \n4 \n■ DR \n200 \n2 \n-3- [⌀] \n4- \n-5- \nS.S.  F ISO \n1000 5.6 12800 目 \n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.5419,
+                    "y": 0.183
+                },
+                {
+                    "x": 0.827,
+                    "y": 0.183
+                },
+                {
+                    "x": 0.827,
+                    "y": 0.339
+                },
+                {
+                    "x": 0.5419,
+                    "y": 0.339
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='6' data-category='paragraph' style='font-size:16px'>ON</p>",
+                "markdown": "ON",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6622,
+                    "y": 0.3366
+                },
+                {
+                    "x": 0.7052,
+                    "y": 0.3366
+                },
+                {
+                    "x": 0.7052,
+                    "y": 0.3554
+                },
+                {
+                    "x": 0.6622,
+                    "y": 0.3554
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='7' data-category='paragraph' style='font-size:18px'>Some icons are not displayed when ON is selected for LARGE<br>INDICATORS MODE(LCD) (目 19).</p>",
+                "markdown": "Some icons are not displayed when ON is selected for LARGE\nINDICATORS MODE(LCD) (目 19).",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1143,
+                    "y": 0.3715
+                },
+                {
+                    "x": 0.9156,
+                    "y": 0.3715
+                },
+                {
+                    "x": 0.9156,
+                    "y": 0.4154
+                },
+                {
+                    "x": 0.1143,
+                    "y": 0.4154
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='8' data-category='paragraph' style='font-size:18px'>If LARGE INDICATORS MODE is assigned to a function button, the<br>button can be used to toggle LARGE INDICATORS MODE on (ON)<br>and off (OFF) (目目 385).</p>",
+                "markdown": "If LARGE INDICATORS MODE is assigned to a function button, the\nbutton can be used to toggle LARGE INDICATORS MODE on (ON)\nand off (OFF) (目目 385).",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1437,
+                    "y": 0.4357
+                },
+                {
+                    "x": 0.9149,
+                    "y": 0.4357
+                },
+                {
+                    "x": 0.9149,
+                    "y": 0.4964
+                },
+                {
+                    "x": 0.1437,
+                    "y": 0.4964
+                }
+            ],
+            "id": 8,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='9' style='font-size:22px'>The<br>Setup<br>Menus</footer>",
+                "markdown": "The\nSetup\nMenus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9577,
+                    "y": 0.5705
+                },
+                {
+                    "x": 0.9799,
+                    "y": 0.5705
+                },
+                {
+                    "x": 0.9799,
+                    "y": 0.6974
+                },
+                {
+                    "x": 0.9577,
+                    "y": 0.6974
+                }
+            ],
+            "id": 9,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='10' style='font-size:22px'>351</footer>",
+                "markdown": "351",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.8608,
+                    "y": 0.9564
+                },
+                {
+                    "x": 0.9147,
+                    "y": 0.9564
+                },
+                {
+                    "x": 0.9147,
+                    "y": 0.9791
+                },
+                {
+                    "x": 0.8608,
+                    "y": 0.9791
+                }
+            ],
+            "id": 10,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

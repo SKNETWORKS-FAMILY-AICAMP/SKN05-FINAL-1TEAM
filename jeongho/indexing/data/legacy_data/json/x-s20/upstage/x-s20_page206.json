@@ -1,0 +1,294 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:22px'>The<br>Shooting<br>Menus</header>\n<br><h1 id='1' style='font-size:16px'>SHARPNESS</h1>\n<br><p id='2' data-category='paragraph' style='font-size:18px'>Options are the same as those for still photography, but settings<br>must be adjusted separately ( �� 141).</p>\n<p id='3' data-category='paragraph' style='font-size:16px'>HIGH ISO NR</p>\n<br><p id='4' data-category='paragraph' style='font-size:18px'>Options are the same as those for still photography, but settings<br>must be adjusted separately ( 142).</p>\n<p id='5' data-category='paragraph' style='font-size:14px'>INTERFRAME NR</p>\n\n<br><table id='7' style='font-size:14px'><tr><td colspan=\"2\">Options</td></tr><tr><td>AUTO</td><td>OFF</td></tr><br><caption id='6' style='font-size:20px'>Select AUTO to automatically adjust interframe noise reduction<br>according to shooting conditions.</caption></table>\n<br><p id='8' data-category='paragraph' style='font-size:14px'>\"Ghosting\" may occur with moving subjects or if the camera is moved<br>during shooting.</p>\n<footer id='9' style='font-size:18px'>204</footer>",
+        "markdown": "The\nShooting\nMenus\n\n# SHARPNESS\n\nOptions are the same as those for still photography, but settings\nmust be adjusted separately ( �� 141).\n\nHIGH ISO NR\n\nOptions are the same as those for still photography, but settings\nmust be adjusted separately ( 142).\n\nINTERFRAME NR\n\nSelect AUTO to automatically adjust interframe noise reduction\naccording to shooting conditions.\n\n| Options | Options |\n| --- | --- |\n| AUTO | OFF |\n\n\n\"Ghosting\" may occur with moving subjects or if the camera is moved\nduring shooting.\n\n204",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:22px'>The<br>Shooting<br>Menus</header>",
+                "markdown": "The\nShooting\nMenus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0164,
+                    "y": 0.5794
+                },
+                {
+                    "x": 0.0426,
+                    "y": 0.5794
+                },
+                {
+                    "x": 0.0426,
+                    "y": 0.7309
+                },
+                {
+                    "x": 0.0164,
+                    "y": 0.7309
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='1' style='font-size:16px'>SHARPNESS</h1>",
+                "markdown": "# SHARPNESS",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0838,
+                    "y": 0.0735
+                },
+                {
+                    "x": 0.2893,
+                    "y": 0.0735
+                },
+                {
+                    "x": 0.2893,
+                    "y": 0.0945
+                },
+                {
+                    "x": 0.0838,
+                    "y": 0.0945
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='2' data-category='paragraph' style='font-size:18px'>Options are the same as those for still photography, but settings<br>must be adjusted separately ( �� 141).</p>",
+                "markdown": "Options are the same as those for still photography, but settings\nmust be adjusted separately ( �� 141).",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0814,
+                    "y": 0.1047
+                },
+                {
+                    "x": 0.8927,
+                    "y": 0.1047
+                },
+                {
+                    "x": 0.8927,
+                    "y": 0.1549
+                },
+                {
+                    "x": 0.0814,
+                    "y": 0.1549
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='3' data-category='paragraph' style='font-size:16px'>HIGH ISO NR</p>",
+                "markdown": "HIGH ISO NR",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0836,
+                    "y": 0.1752
+                },
+                {
+                    "x": 0.299,
+                    "y": 0.1752
+                },
+                {
+                    "x": 0.299,
+                    "y": 0.1982
+                },
+                {
+                    "x": 0.0836,
+                    "y": 0.1982
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='4' data-category='paragraph' style='font-size:18px'>Options are the same as those for still photography, but settings<br>must be adjusted separately ( 142).</p>",
+                "markdown": "Options are the same as those for still photography, but settings\nmust be adjusted separately ( 142).",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0803,
+                    "y": 0.207
+                },
+                {
+                    "x": 0.8923,
+                    "y": 0.207
+                },
+                {
+                    "x": 0.8923,
+                    "y": 0.2582
+                },
+                {
+                    "x": 0.0803,
+                    "y": 0.2582
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='5' data-category='paragraph' style='font-size:14px'>INTERFRAME NR</p>",
+                "markdown": "INTERFRAME NR",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0827,
+                    "y": 0.2773
+                },
+                {
+                    "x": 0.3102,
+                    "y": 0.2773
+                },
+                {
+                    "x": 0.3102,
+                    "y": 0.3006
+                },
+                {
+                    "x": 0.0827,
+                    "y": 0.3006
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='6' data-category='paragraph' style='font-size:20px'>Select AUTO to automatically adjust interframe noise reduction<br>according to shooting conditions.</p>",
+                "markdown": "Select AUTO to automatically adjust interframe noise reduction\naccording to shooting conditions.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0809,
+                    "y": 0.3092
+                },
+                {
+                    "x": 0.8925,
+                    "y": 0.3092
+                },
+                {
+                    "x": 0.8925,
+                    "y": 0.3607
+                },
+                {
+                    "x": 0.0809,
+                    "y": 0.3607
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='7' style='font-size:14px'><tr><td colspan=\"2\">Options</td></tr><tr><td>AUTO</td><td>OFF</td></tr></table>",
+                "markdown": "| Options | Options |\n| --- | --- |\n| AUTO | OFF |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1323,
+                    "y": 0.3707
+                },
+                {
+                    "x": 0.8843,
+                    "y": 0.3707
+                },
+                {
+                    "x": 0.8843,
+                    "y": 0.4238
+                },
+                {
+                    "x": 0.1323,
+                    "y": 0.4238
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='8' data-category='paragraph' style='font-size:14px'>\"Ghosting\" may occur with moving subjects or if the camera is moved<br>during shooting.</p>",
+                "markdown": "\"Ghosting\" may occur with moving subjects or if the camera is moved\nduring shooting.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0855,
+                    "y": 0.4335
+                },
+                {
+                    "x": 0.8882,
+                    "y": 0.4335
+                },
+                {
+                    "x": 0.8882,
+                    "y": 0.4794
+                },
+                {
+                    "x": 0.0855,
+                    "y": 0.4794
+                }
+            ],
+            "id": 8,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='9' style='font-size:18px'>204</footer>",
+                "markdown": "204",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.082,
+                    "y": 0.9559
+                },
+                {
+                    "x": 0.1407,
+                    "y": 0.9559
+                },
+                {
+                    "x": 0.1407,
+                    "y": 0.9798
+                },
+                {
+                    "x": 0.082,
+                    "y": 0.9798
+                }
+            ],
+            "id": 9,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

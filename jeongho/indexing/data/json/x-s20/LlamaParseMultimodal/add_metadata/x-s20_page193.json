@@ -1,0 +1,8 @@
+{
+    "parsing_result": "# HDMI Output Setting\n\nAdjust settings for use when the shooting display is output to an HDMI device.\n\n## HDMI Output Info Display\n\nIf **ON** is selected, HDMI devices to which the camera is connected will mirror the information in the camera display.\n\n| Options |       |\n|---------|-------|\n| ON      | OFF   |\n\n## HDMI Rec Control\n\nChoose whether the camera sends movie start and stop signals to the HDMI device when the shutter button is pressed to start and stop movie recording.\n\n| Options |       |\n|---------|-------|\n| ON      | OFF   |\n\n## RAW Output Setting\n\nChoose whether to output RAW footage to external recorders connected via HDMI.\n\n| Option                        | Description                                                 |\n|-------------------------------|-------------------------------------------------------------|\n| RAW OUTPUT SETTING ATOMOS     | Output RAW footage to ATOMOS video recorders.               |\n| RAW OUTPUT SETTING Blackmagic | Output RAW footage to Blackmagic Design video recorders.    |\n| OFF                           | Do not output RAW footage to external recorders.            |",
+    "embedding_result": [],
+    "metadata": {
+        "page": 193,
+        "model": "x-s20"
+    }
+}

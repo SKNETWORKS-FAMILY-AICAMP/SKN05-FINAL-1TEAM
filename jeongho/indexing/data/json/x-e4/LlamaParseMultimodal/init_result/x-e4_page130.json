@@ -1,0 +1,112 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "\n## RAW RECORDING\nChoose whether to compress RAW images.\n\n| Option               | Description                                                                                                                                                                                                 |\n|----------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| UNCOMPRESSED         | RAW images are not compressed.                                                                                                                                                                               |\n| LOSSLESS COMPRESSED  | RAW images are compressed using a reversible algorithm that reduces file size with no loss of image data. The images can be viewed in Capture One Express Fujifilm, RAW FILE CONVERTER EX powered by SILKYPIX, FUJIFILM X RAW STUDIO, or other software that supports “lossless” RAW compression. Quality is the same as UNCOMPRESSED, but the resulting files are anywhere from about 30 to 90 percent of their uncompressed size. |\n| COMPRESSED           | RAW images are compressed using a “lossy,” non-reversible algorithm. Quality is about the same as UNCOMPRESSED, but the resulting files are anywhere from about 25 to 35 percent of their uncompressed size.  |\n\n## FILM SIMULATION\nSimulate the effects of different kinds of film, including black-and-white (with or without color filters). Choose a palette according to your subject and creative intent.\n\n| Option           | Description                                               |\n|------------------|-----------------------------------------------------------|\n| PROVIA/STANDARD  | Ideal for a wide range of subjects.                       |\n| Velvia/VIVID     | Vibrant reproduction, ideal for landscape and nature.     |\n| ASTIA/SOFT       | Softer color and contrast for a more subdued look.        |\n| CLASSIC CHROME   | Soft color and enhanced shadow contrast for a calm look.  |\n",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "RAW RECORDING",
+                    "md": "## RAW RECORDING"
+                },
+                {
+                    "type": "text",
+                    "value": "Choose whether to compress RAW images.",
+                    "md": "Choose whether to compress RAW images."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Option",
+                            "Description"
+                        ],
+                        [
+                            "UNCOMPRESSED",
+                            "RAW images are not compressed."
+                        ],
+                        [
+                            "LOSSLESS COMPRESSED",
+                            "RAW images are compressed using a reversible algorithm that reduces file size with no loss of image data. The images can be viewed in Capture One Express Fujifilm, RAW FILE CONVERTER EX powered by SILKYPIX, FUJIFILM X RAW STUDIO, or other software that supports “lossless” RAW compression. Quality is the same as UNCOMPRESSED, but the resulting files are anywhere from about 30 to 90 percent of their uncompressed size."
+                        ],
+                        [
+                            "COMPRESSED",
+                            "RAW images are compressed using a “lossy,” non-reversible algorithm. Quality is about the same as UNCOMPRESSED, but the resulting files are anywhere from about 25 to 35 percent of their uncompressed size."
+                        ]
+                    ],
+                    "md": "| Option               | Description                                                                                                                                                                                                 |\n|----------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| UNCOMPRESSED         | RAW images are not compressed.                                                                                                                                                                               |\n| LOSSLESS COMPRESSED  | RAW images are compressed using a reversible algorithm that reduces file size with no loss of image data. The images can be viewed in Capture One Express Fujifilm, RAW FILE CONVERTER EX powered by SILKYPIX, FUJIFILM X RAW STUDIO, or other software that supports “lossless” RAW compression. Quality is the same as UNCOMPRESSED, but the resulting files are anywhere from about 30 to 90 percent of their uncompressed size. |\n| COMPRESSED           | RAW images are compressed using a “lossy,” non-reversible algorithm. Quality is about the same as UNCOMPRESSED, but the resulting files are anywhere from about 25 to 35 percent of their uncompressed size.  |",
+                    "isPerfectTable": true,
+                    "csv": "\"Option\",\"Description\"\n\"UNCOMPRESSED\",\"RAW images are not compressed.\"\n\"LOSSLESS COMPRESSED\",\"RAW images are compressed using a reversible algorithm that reduces file size with no loss of image data. The images can be viewed in Capture One Express Fujifilm, RAW FILE CONVERTER EX powered by SILKYPIX, FUJIFILM X RAW STUDIO, or other software that supports “lossless” RAW compression. Quality is the same as UNCOMPRESSED, but the resulting files are anywhere from about 30 to 90 percent of their uncompressed size.\"\n\"COMPRESSED\",\"RAW images are compressed using a “lossy,” non-reversible algorithm. Quality is about the same as UNCOMPRESSED, but the resulting files are anywhere from about 25 to 35 percent of their uncompressed size.\""
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "FILM SIMULATION",
+                    "md": "## FILM SIMULATION"
+                },
+                {
+                    "type": "text",
+                    "value": "Simulate the effects of different kinds of film, including black-and-white (with or without color filters). Choose a palette according to your subject and creative intent.",
+                    "md": "Simulate the effects of different kinds of film, including black-and-white (with or without color filters). Choose a palette according to your subject and creative intent."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Option",
+                            "Description"
+                        ],
+                        [
+                            "PROVIA/STANDARD",
+                            "Ideal for a wide range of subjects."
+                        ],
+                        [
+                            "Velvia/VIVID",
+                            "Vibrant reproduction, ideal for landscape and nature."
+                        ],
+                        [
+                            "ASTIA/SOFT",
+                            "Softer color and contrast for a more subdued look."
+                        ],
+                        [
+                            "CLASSIC CHROME",
+                            "Soft color and enhanced shadow contrast for a calm look."
+                        ]
+                    ],
+                    "md": "| Option           | Description                                               |\n|------------------|-----------------------------------------------------------|\n| PROVIA/STANDARD  | Ideal for a wide range of subjects.                       |\n| Velvia/VIVID     | Vibrant reproduction, ideal for landscape and nature.     |\n| ASTIA/SOFT       | Softer color and contrast for a more subdued look.        |\n| CLASSIC CHROME   | Soft color and enhanced shadow contrast for a calm look.  |",
+                    "isPerfectTable": true,
+                    "csv": "\"Option\",\"Description\"\n\"PROVIA/STANDARD\",\"Ideal for a wide range of subjects.\"\n\"Velvia/VIVID\",\"Vibrant reproduction, ideal for landscape and nature.\"\n\"ASTIA/SOFT\",\"Softer color and contrast for a more subdued look.\"\n\"CLASSIC CHROME\",\"Soft color and enhanced shadow contrast for a calm look.\""
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "parsingMode": "multimodal-openai-gpt4o",
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 241.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "73bf8639-fb4e-44ce-9124-9029da9e3cc1",
+    "file_path": "../data/raw_data/x-e4/x-e4_split/x-e4_page130.pdf"
+}

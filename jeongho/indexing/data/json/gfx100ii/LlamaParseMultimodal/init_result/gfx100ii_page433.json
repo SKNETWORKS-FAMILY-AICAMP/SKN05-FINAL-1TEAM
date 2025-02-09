@@ -1,0 +1,79 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "\n# External Flash Units\n\n| Setting            | Description                                                                                                                                                                                                 |\n|--------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| **4 Sync**         | Control flash timing. <br> • **(1ST CURTAIN):** The flash fires immediately after the shutter opens (generally the best choice). <br> • **(2ND CURTAIN):** The flash fires immediately before the shutter closes. <br> • **(AUTO FP(HSS)):** High-speed sync (compatible units only). The camera automatically engages front-curtain high-speed sync at shutter speeds faster than the flash sync speed. Equivalent to 1ST CURTAIN when MULTI is selected for flash control mode. <br> **Note:** Horizontal bands may appear in pictures taken using AUTO FP(HSS) at some shutter speeds. |\n| **5 Zoom**         | The angle of illumination (flash coverage) for units that support flash zoom. Some units allow the adjustment to be made from the camera. If AUTO is selected, zoom will automatically be adjusted to match coverage to lens focal length. |\n| **6 Lighting**     | If the unit supports this feature, choose from: <br> • **(FLASH POWER PRIORITY):** Gain range by slightly reducing coverage. <br> • **(STANDARD):** Match coverage to picture angle. <br> • **(EVEN COVERAGE PRIORITY):** Slightly increase coverage for more even lighting. |\n| **7 LED light**    | Choose how the built-in LED light functions during still photography (compatible units only): as a catchlight (**/CATCHLIGHT**), as an AF-assist illuminator (**AF/AF ASSIST**), or as both a catchlight and an AF-assist illuminator (**/AF ASSIST+CATCHLIGHT**). Choose OFF to disable the LED during photography. |\n| **7 Number of flashes** | Choose the number of times the flash fires each time the shutter is released in MULTI mode.                                                                                                               |\n| **8 Frequency**    | Choose the frequency at which the flash fires in MULTI mode. <br> * Full value may not be applied if limits of flash control system are exceeded.                                                                 |\n",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "External Flash Units",
+                    "md": "# External Flash Units"
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Setting",
+                            "Description"
+                        ],
+                        [
+                            "**4 Sync**",
+                            "Control flash timing. <br> • **(1ST CURTAIN):** The flash fires immediately after the shutter opens (generally the best choice). <br> • **(2ND CURTAIN):** The flash fires immediately before the shutter closes. <br> • **(AUTO FP(HSS)):** High-speed sync (compatible units only). The camera automatically engages front-curtain high-speed sync at shutter speeds faster than the flash sync speed. Equivalent to 1ST CURTAIN when MULTI is selected for flash control mode. <br> **Note:** Horizontal bands may appear in pictures taken using AUTO FP(HSS) at some shutter speeds."
+                        ],
+                        [
+                            "**5 Zoom**",
+                            "The angle of illumination (flash coverage) for units that support flash zoom. Some units allow the adjustment to be made from the camera. If AUTO is selected, zoom will automatically be adjusted to match coverage to lens focal length."
+                        ],
+                        [
+                            "**6 Lighting**",
+                            "If the unit supports this feature, choose from: <br> • **(FLASH POWER PRIORITY):** Gain range by slightly reducing coverage. <br> • **(STANDARD):** Match coverage to picture angle. <br> • **(EVEN COVERAGE PRIORITY):** Slightly increase coverage for more even lighting."
+                        ],
+                        [
+                            "**7 LED light**",
+                            "Choose how the built-in LED light functions during still photography (compatible units only): as a catchlight (**/CATCHLIGHT**), as an AF-assist illuminator (**AF/AF ASSIST**), or as both a catchlight and an AF-assist illuminator (**/AF ASSIST+CATCHLIGHT**). Choose OFF to disable the LED during photography."
+                        ],
+                        [
+                            "**7 Number of flashes**",
+                            "Choose the number of times the flash fires each time the shutter is released in MULTI mode."
+                        ],
+                        [
+                            "**8 Frequency**",
+                            "Choose the frequency at which the flash fires in MULTI mode. <br> * Full value may not be applied if limits of flash control system are exceeded."
+                        ]
+                    ],
+                    "md": "| Setting            | Description                                                                                                                                                                                                 |\n|--------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| **4 Sync**         | Control flash timing. <br> • **(1ST CURTAIN):** The flash fires immediately after the shutter opens (generally the best choice). <br> • **(2ND CURTAIN):** The flash fires immediately before the shutter closes. <br> • **(AUTO FP(HSS)):** High-speed sync (compatible units only). The camera automatically engages front-curtain high-speed sync at shutter speeds faster than the flash sync speed. Equivalent to 1ST CURTAIN when MULTI is selected for flash control mode. <br> **Note:** Horizontal bands may appear in pictures taken using AUTO FP(HSS) at some shutter speeds. |\n| **5 Zoom**         | The angle of illumination (flash coverage) for units that support flash zoom. Some units allow the adjustment to be made from the camera. If AUTO is selected, zoom will automatically be adjusted to match coverage to lens focal length. |\n| **6 Lighting**     | If the unit supports this feature, choose from: <br> • **(FLASH POWER PRIORITY):** Gain range by slightly reducing coverage. <br> • **(STANDARD):** Match coverage to picture angle. <br> • **(EVEN COVERAGE PRIORITY):** Slightly increase coverage for more even lighting. |\n| **7 LED light**    | Choose how the built-in LED light functions during still photography (compatible units only): as a catchlight (**/CATCHLIGHT**), as an AF-assist illuminator (**AF/AF ASSIST**), or as both a catchlight and an AF-assist illuminator (**/AF ASSIST+CATCHLIGHT**). Choose OFF to disable the LED during photography. |\n| **7 Number of flashes** | Choose the number of times the flash fires each time the shutter is released in MULTI mode.                                                                                                               |\n| **8 Frequency**    | Choose the frequency at which the flash fires in MULTI mode. <br> * Full value may not be applied if limits of flash control system are exceeded.                                                                 |",
+                    "isPerfectTable": true,
+                    "csv": "\"Setting\",\"Description\"\n\"**4 Sync**\",\"Control flash timing. <br> • **(1ST CURTAIN):** The flash fires immediately after the shutter opens (generally the best choice). <br> • **(2ND CURTAIN):** The flash fires immediately before the shutter closes. <br> • **(AUTO FP(HSS)):** High-speed sync (compatible units only). The camera automatically engages front-curtain high-speed sync at shutter speeds faster than the flash sync speed. Equivalent to 1ST CURTAIN when MULTI is selected for flash control mode. <br> **Note:** Horizontal bands may appear in pictures taken using AUTO FP(HSS) at some shutter speeds.\"\n\"**5 Zoom**\",\"The angle of illumination (flash coverage) for units that support flash zoom. Some units allow the adjustment to be made from the camera. If AUTO is selected, zoom will automatically be adjusted to match coverage to lens focal length.\"\n\"**6 Lighting**\",\"If the unit supports this feature, choose from: <br> • **(FLASH POWER PRIORITY):** Gain range by slightly reducing coverage. <br> • **(STANDARD):** Match coverage to picture angle. <br> • **(EVEN COVERAGE PRIORITY):** Slightly increase coverage for more even lighting.\"\n\"**7 LED light**\",\"Choose how the built-in LED light functions during still photography (compatible units only): as a catchlight (**/CATCHLIGHT**), as an AF-assist illuminator (**AF/AF ASSIST**), or as both a catchlight and an AF-assist illuminator (**/AF ASSIST+CATCHLIGHT**). Choose OFF to disable the LED during photography.\"\n\"**7 Number of flashes**\",\"Choose the number of times the flash fires each time the shutter is released in MULTI mode.\"\n\"**8 Frequency**\",\"Choose the frequency at which the flash fires in MULTI mode. <br> * Full value may not be applied if limits of flash control system are exceeded.\""
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 403.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "b475dac7-c328-470f-a266-d868e332eb86",
+    "file_path": "../data/raw_data/gfx100ii/gfx100ii_split/gfx100ii_page433.pdf"
+}

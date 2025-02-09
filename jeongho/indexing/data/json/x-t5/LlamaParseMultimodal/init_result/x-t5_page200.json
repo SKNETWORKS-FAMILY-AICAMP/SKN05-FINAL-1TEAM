@@ -1,0 +1,110 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "# FLICKERLESS S.S. SETTING\n\nSelect **ON** to allow shutter speed to be fine-tuned to reduce flicker caused by LED lighting and the like.\n\n| Options |        |\n|---------|--------|\n| ON      | OFF    |\n\n> !Note Icon This option takes effect only in modes **S** and **M**.\n\n# IS MODE\n\nTurn image stabilization on or off.\n\n| Option         | Description                                                                 |\n|----------------|-----------------------------------------------------------------------------|\n| CONTINUOUS     | Image stabilization on.                                                     |\n| SHOOTING ONLY  | Image stabilization enabled only when the shutter button is pressed halfway (focus mode C) or the shutter is released. |\n| OFF            | Image stabilization off; !Off Icon appears in the display. |\n\n> - The setting selected with the lens image stabilization switch, if any, takes priority over the setting chosen with **IS MODE**.\n> - Note that vibration or camera sounds may be noticeable as image stabilization takes effect.",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "FLICKERLESS S.S. SETTING",
+                    "md": "# FLICKERLESS S.S. SETTING"
+                },
+                {
+                    "type": "text",
+                    "value": "Select **ON** to allow shutter speed to be fine-tuned to reduce flicker caused by LED lighting and the like.",
+                    "md": "Select **ON** to allow shutter speed to be fine-tuned to reduce flicker caused by LED lighting and the like."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Options",
+                            ""
+                        ],
+                        [
+                            "ON",
+                            "OFF"
+                        ]
+                    ],
+                    "md": "| Options |        |\n|---------|--------|\n| ON      | OFF    |",
+                    "isPerfectTable": true,
+                    "csv": "\"Options\",\"\"\n\"ON\",\"OFF\""
+                },
+                {
+                    "type": "text",
+                    "value": "> !Note Icon This option takes effect only in modes **S** and **M**.",
+                    "md": "> !Note Icon This option takes effect only in modes **S** and **M**."
+                },
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "IS MODE",
+                    "md": "# IS MODE"
+                },
+                {
+                    "type": "text",
+                    "value": "Turn image stabilization on or off.",
+                    "md": "Turn image stabilization on or off."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Option",
+                            "Description"
+                        ],
+                        [
+                            "CONTINUOUS",
+                            "Image stabilization on."
+                        ],
+                        [
+                            "SHOOTING ONLY",
+                            "Image stabilization enabled only when the shutter button is pressed halfway (focus mode C) or the shutter is released."
+                        ],
+                        [
+                            "OFF",
+                            "Image stabilization off; !Off Icon appears in the display."
+                        ]
+                    ],
+                    "md": "| Option         | Description                                                                 |\n|----------------|-----------------------------------------------------------------------------|\n| CONTINUOUS     | Image stabilization on.                                                     |\n| SHOOTING ONLY  | Image stabilization enabled only when the shutter button is pressed halfway (focus mode C) or the shutter is released. |\n| OFF            | Image stabilization off; !Off Icon appears in the display. |",
+                    "isPerfectTable": true,
+                    "csv": "\"Option\",\"Description\"\n\"CONTINUOUS\",\"Image stabilization on.\"\n\"SHOOTING ONLY\",\"Image stabilization enabled only when the shutter button is pressed halfway (focus mode C) or the shutter is released.\"\n\"OFF\",\"Image stabilization off; !Off Icon appears in the display.\""
+                },
+                {
+                    "type": "text",
+                    "value": "> - The setting selected with the lens image stabilization switch, if any, takes priority over the setting chosen with **IS MODE**.\n> - Note that vibration or camera sounds may be noticeable as image stabilization takes effect.",
+                    "md": "> - The setting selected with the lens image stabilization switch, if any, takes priority over the setting chosen with **IS MODE**.\n> - Note that vibration or camera sounds may be noticeable as image stabilization takes effect."
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "parsingMode": "multimodal-openai-gpt4o",
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 642.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "4ed8b691-a44c-4dd0-aa60-0ed6a7683b69",
+    "file_path": "../data/raw_data/x-t5/x-t5_split/x-t5_page200.pdf"
+}

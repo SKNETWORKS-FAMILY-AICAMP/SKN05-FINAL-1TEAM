@@ -1,0 +1,350 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:14px'>BUTTON/DIAL SETTING</header>\n<h1 id='1' style='font-size:18px'>S.S. OPERATION</h1>\n<br><h1 id='2' style='font-size:20px'>Select OFF to disable shutter-speed fine-tuning using the com-<br>mand dials.</h1>\n<br><table id='3' style='font-size:18px'><tr><td colspan=\"2\">Options</td></tr><tr><td>ON</td><td>OFF</td></tr></table>\n<h1 id='4' style='font-size:18px'>COMMAND DIAL DIRECTION</h1>\n\n<br><table id='6' style='font-size:14px'><tr><td>Option</td><td>Description</td></tr><tr><td>+</td><td>Rotate the dial right for higher values or to move to the next item.</td></tr><tr><td>+</td><td>Rotate the dial left for higher values or to move to the next item.</td></tr><br><caption id='5' style='font-size:20px'>Choose the direction in which the command dials are rotated to<br>choose values. Settings for the front and rear command dials can<br>be adjusted separately.</caption></table>\n\n<br><p id='8' data-category='paragraph' style='font-size:20px'>Choose whether the camera focuses when the shutter button is<br>pressed halfway.</p>\n<br><table id='9' style='font-size:16px'><tr><td>Option</td><td>Description</td></tr><tr><td>AF-S</td><td>ON: Focus locks when the shutter button is pressed halfway. OFF: No focus operation is performed when the shutter but- ton is pressed halfway.</td></tr><tr><td>AF-C</td><td>ON: The camera focuses while the shutter button is pressed halfway. OFF: No focus operation is performed when the shutter but- ton is pressed halfway.</td></tr><caption id='7' style='font-size:16px'>SHUTTER AF</caption></table>\n<br><footer id='10' style='font-size:22px'>The<br>Setup<br>Menus<br>9</footer>\n<footer id='11' style='font-size:22px'>359</footer>",
+        "markdown": "BUTTON/DIAL SETTING\n\n# S.S. OPERATION\n\n# Select OFF to disable shutter-speed fine-tuning using the com-\nmand dials.\n\n| Options | Options |\n| --- | --- |\n| ON | OFF |\n\n\n# COMMAND DIAL DIRECTION\n\nChoose the direction in which the command dials are rotated to\nchoose values. Settings for the front and rear command dials can\nbe adjusted separately.\n\n| Option | Description |\n| --- | --- |\n| + | Rotate the dial right for higher values or to move to the next item. |\n| + | Rotate the dial left for higher values or to move to the next item. |\n\n\nSHUTTER AF\n\nChoose whether the camera focuses when the shutter button is\npressed halfway.\n\n| Option | Description |\n| --- | --- |\n| AF-S | ON: Focus locks when the shutter button is pressed halfway. OFF: No focus operation is performed when the shutter but- ton is pressed halfway. |\n| AF-C | ON: The camera focuses while the shutter button is pressed halfway. OFF: No focus operation is performed when the shutter but- ton is pressed halfway. |\n\n\nThe\nSetup\nMenus\n9\n\n359",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:14px'>BUTTON/DIAL SETTING</header>",
+                "markdown": "BUTTON/DIAL SETTING",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6869,
+                    "y": 0.0277
+                },
+                {
+                    "x": 0.9186,
+                    "y": 0.0277
+                },
+                {
+                    "x": 0.9186,
+                    "y": 0.0501
+                },
+                {
+                    "x": 0.6869,
+                    "y": 0.0501
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='1' style='font-size:18px'>S.S. OPERATION</h1>",
+                "markdown": "# S.S. OPERATION",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1103,
+                    "y": 0.0725
+                },
+                {
+                    "x": 0.3734,
+                    "y": 0.0725
+                },
+                {
+                    "x": 0.3734,
+                    "y": 0.095
+                },
+                {
+                    "x": 0.1103,
+                    "y": 0.095
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='2' style='font-size:20px'>Select OFF to disable shutter-speed fine-tuning using the com-<br>mand dials.</h1>",
+                "markdown": "# Select OFF to disable shutter-speed fine-tuning using the com-\nmand dials.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.106,
+                    "y": 0.105
+                },
+                {
+                    "x": 0.9179,
+                    "y": 0.105
+                },
+                {
+                    "x": 0.9179,
+                    "y": 0.1533
+                },
+                {
+                    "x": 0.106,
+                    "y": 0.1533
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='3' style='font-size:18px'><tr><td colspan=\"2\">Options</td></tr><tr><td>ON</td><td>OFF</td></tr></table>",
+                "markdown": "| Options | Options |\n| --- | --- |\n| ON | OFF |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1096,
+                    "y": 0.1672
+                },
+                {
+                    "x": 0.917,
+                    "y": 0.1672
+                },
+                {
+                    "x": 0.917,
+                    "y": 0.2184
+                },
+                {
+                    "x": 0.1096,
+                    "y": 0.2184
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='4' style='font-size:18px'>COMMAND DIAL DIRECTION</h1>",
+                "markdown": "# COMMAND DIAL DIRECTION",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.108,
+                    "y": 0.2351
+                },
+                {
+                    "x": 0.4899,
+                    "y": 0.2351
+                },
+                {
+                    "x": 0.4899,
+                    "y": 0.2584
+                },
+                {
+                    "x": 0.108,
+                    "y": 0.2584
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='5' data-category='paragraph' style='font-size:20px'>Choose the direction in which the command dials are rotated to<br>choose values. Settings for the front and rear command dials can<br>be adjusted separately.</p>",
+                "markdown": "Choose the direction in which the command dials are rotated to\nchoose values. Settings for the front and rear command dials can\nbe adjusted separately.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1068,
+                    "y": 0.267
+                },
+                {
+                    "x": 0.9183,
+                    "y": 0.267
+                },
+                {
+                    "x": 0.9183,
+                    "y": 0.3423
+                },
+                {
+                    "x": 0.1068,
+                    "y": 0.3423
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='6' style='font-size:14px'><tr><td>Option</td><td>Description</td></tr><tr><td>+</td><td>Rotate the dial right for higher values or to move to the next item.</td></tr><tr><td>+</td><td>Rotate the dial left for higher values or to move to the next item.</td></tr></table>",
+                "markdown": "| Option | Description |\n| --- | --- |\n| + | Rotate the dial right for higher values or to move to the next item. |\n| + | Rotate the dial left for higher values or to move to the next item. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.109,
+                    "y": 0.3531
+                },
+                {
+                    "x": 0.9192,
+                    "y": 0.3531
+                },
+                {
+                    "x": 0.9192,
+                    "y": 0.4534
+                },
+                {
+                    "x": 0.109,
+                    "y": 0.4534
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='7' data-category='paragraph' style='font-size:16px'>SHUTTER AF</p>",
+                "markdown": "SHUTTER AF",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1062,
+                    "y": 0.4697
+                },
+                {
+                    "x": 0.2793,
+                    "y": 0.4697
+                },
+                {
+                    "x": 0.2793,
+                    "y": 0.4916
+                },
+                {
+                    "x": 0.1062,
+                    "y": 0.4916
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='8' data-category='paragraph' style='font-size:20px'>Choose whether the camera focuses when the shutter button is<br>pressed halfway.</p>",
+                "markdown": "Choose whether the camera focuses when the shutter button is\npressed halfway.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1062,
+                    "y": 0.5009
+                },
+                {
+                    "x": 0.9169,
+                    "y": 0.5009
+                },
+                {
+                    "x": 0.9169,
+                    "y": 0.5502
+                },
+                {
+                    "x": 0.1062,
+                    "y": 0.5502
+                }
+            ],
+            "id": 8,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='9' style='font-size:16px'><tr><td>Option</td><td>Description</td></tr><tr><td>AF-S</td><td>ON: Focus locks when the shutter button is pressed halfway. OFF: No focus operation is performed when the shutter but- ton is pressed halfway.</td></tr><tr><td>AF-C</td><td>ON: The camera focuses while the shutter button is pressed halfway. OFF: No focus operation is performed when the shutter but- ton is pressed halfway.</td></tr></table>",
+                "markdown": "| Option | Description |\n| --- | --- |\n| AF-S | ON: Focus locks when the shutter button is pressed halfway. OFF: No focus operation is performed when the shutter but- ton is pressed halfway. |\n| AF-C | ON: The camera focuses while the shutter button is pressed halfway. OFF: No focus operation is performed when the shutter but- ton is pressed halfway. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1085,
+                    "y": 0.5633
+                },
+                {
+                    "x": 0.9225,
+                    "y": 0.5633
+                },
+                {
+                    "x": 0.9225,
+                    "y": 0.7545
+                },
+                {
+                    "x": 0.1085,
+                    "y": 0.7545
+                }
+            ],
+            "id": 9,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<br><footer id='10' style='font-size:22px'>The<br>Setup<br>Menus<br>9</footer>",
+                "markdown": "The\nSetup\nMenus\n9",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.955,
+                    "y": 0.567
+                },
+                {
+                    "x": 0.9896,
+                    "y": 0.567
+                },
+                {
+                    "x": 0.9896,
+                    "y": 0.7399
+                },
+                {
+                    "x": 0.955,
+                    "y": 0.7399
+                }
+            ],
+            "id": 10,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='11' style='font-size:22px'>359</footer>",
+                "markdown": "359",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.8606,
+                    "y": 0.9563
+                },
+                {
+                    "x": 0.9179,
+                    "y": 0.9563
+                },
+                {
+                    "x": 0.9179,
+                    "y": 0.9797
+                },
+                {
+                    "x": 0.8606,
+                    "y": 0.9797
+                }
+            ],
+            "id": 11,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

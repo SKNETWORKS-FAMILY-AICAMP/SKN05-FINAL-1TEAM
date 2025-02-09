@@ -1,0 +1,14 @@
+{
+    "parsing_result": "# MOVIE SETTING (Movie Recording)\n\n## File Type and Compression\n\nChoose the movie file type and compression.\n\n| Option               | Description                                                                                                                                  |\n|----------------------|----------------------------------------------------------------------------------------------------------------------------------------------|\n| **H.264 ALL-I 420 MOV**      | A highly-portable compressed format. Footage is recorded at a depth of 8 bits using All-I interframe compression and 4:2:0 chroma sub-sampling. |\n| **H.264 LongGOP 420 MOV**    | A highly-portable compressed format. Footage is recorded at a depth of 8 bits using Long GOP interframe compression and 4:2:0 chroma sub-sampling. |\n| **H.264 LongGOP 420 MP4**    | A format suitable for movies that will be uploaded to the web.                                                                                  |\n| **H.265 ALL-I 420 MOV**      | A format with a higher compression ratio than H.264. Footage is recorded at a depth of 10 bits using All-I interframe compression and 4:2:0 chroma sub-sampling. |\n| **H.265 LongGOP 420 MOV**    | A format with a higher compression ratio than H.264. Footage is recorded at a depth of 10 bits using Long GOP interframe compression and 4:2:0 chroma sub-sampling. |\n| **H.265 ALL-I 422 MOV**      | A format with a higher compression ratio than H.264. Footage is recorded at a depth of 10 bits using All-I interframe compression and 4:2:2 chroma sub-sampling. |\n| **H.265 LongGOP 422 MOV**    | A format with a higher compression ratio than H.264. Footage is recorded at a depth of 10 bits using Long GOP interframe compression and 4:2:2 chroma sub-sampling. |\n\n> 💡 **Note:**\n> - **4:2:2 chroma sub-sampling** is used for footage output to external devices connected via HDMI; H.264 footage is output at a bit depth of 8 bits and footage in other formats at a depth of 10 bits.\n> - **All-I** compresses each frame separately. Files are larger, but the fact that the data for each frame are saved separately makes this a good choice for footage that will be further processed.\n> - **Long GOP** balances good image quality with high compression. Files are smaller, making it a good choice for longer movies.\n> - The options available for file type and compression vary with the options selected for **MOVIE MODE, HIGH SPEED REC,** and **F-Log/HLG RECORDING**.",
+    "embedding_result": [],
+    "metadata": {
+        "page": 191,
+        "model": "x-s20",
+        "subsection": [
+            "SELF-TIMER",
+            "MEDIA REC SETTING"
+        ],
+        "chapter": "The Shooting Menus",
+        "section": "MOVIE SETTING (Movie Recording)"
+    }
+}

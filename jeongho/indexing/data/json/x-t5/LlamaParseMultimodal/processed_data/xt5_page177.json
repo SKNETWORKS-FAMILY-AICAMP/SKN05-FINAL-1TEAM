@@ -1,0 +1,14 @@
+{
+    "parsing_result": "# Pixel Shift Multi Shot\n\nThe camera takes a series of 20 shots, using in-body image stabilization to move the image sensor by half a pixel with each shot and recording each frame in RAW format. Using specialized computer software, the frames can then be combined to create a high-resolution RAW picture.\n\n1. Navigate to **SHOOTING SETTING** in the photo menus, highlight **PIXEL SHIFT MULTI SHOT**, and press **MENU/OK**.\n\n2. Choose a value for **INTERVAL**.\n   - We recommend setting **INTERVAL** to **SHORTEST**.\n   - If you intend to use the flash with every shot, choose a value for **INTERVAL** long enough to allow the flash to charge between shots.\n\n3. Press the shutter button to start shooting.\n   - The shots are recorded to the memory card in RAW format.\n   - To minimize vibration, use the self-timer or a remote release.\n\n4. Combine the shots on a computer.\n   - The shots can be combined using FUJIFILM Pixel Shift Combiner.\n   - To save high-resolution RAW pictures in other formats, use Capture One Express for Fujifilm, Capture One for Fujifilm, or Capture One Pro, available from Capture One A/S. FUJIFILM X RAW STUDIO and RAW FILE CONVERTER EX powered by SILKYPIX cannot be used for this purpose.",
+    "metadata": {
+        "page": 177,
+        "model": "x-t5",
+        "chapter": "The Shooting Menus",
+        "section": "SHOOTING SETTING (Still Photography)",
+        "subsection": [
+            "PIXEL SHIFT MULTI SHOT"
+        ],
+        "embedding_model": "text-embedding-3-small",
+        "token": 287
+    }
+}

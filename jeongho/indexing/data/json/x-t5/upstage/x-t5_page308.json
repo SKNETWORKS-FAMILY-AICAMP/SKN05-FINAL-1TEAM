@@ -1,0 +1,322 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:22px'>The<br>Setup<br>Menus</header>\n<header id='1' style='font-size:14px'>9</header>\n<br><h1 id='2' style='font-size:22px'>SAVE DATA SETTING</h1>\n<br><h1 id='3' style='font-size:20px'>Make changes to file management settings.</h1>\n\n<br><table id='5' style='font-size:14px'><tr><td></td><td>SAVE DATA SETTING</td></tr><tr><td rowspan=\"7\">AF MF .</td><td>FRAME NO.</td></tr><tr><td>EDIT FILE NAME</td></tr><tr><td>⌀CARD SLOT SETTING</td></tr><tr><td>々 SELECT SLOT(⌀ SEQUENTIAL)</td></tr><tr><td>SELECT FOLDER</td></tr><tr><td>COPYRIGHT INFO</td></tr><tr><td>GEOTAGGING 2 BACK EXIT</td></tr><caption id='4' style='font-size:18px'>To access file management settings,<br>press MENU/OK, select the 8 (SET UP) tab,<br>and choose SAVE DATA SET-UP.</caption></table>\n<p id='6' data-category='paragraph' style='font-size:16px'>FRAME NO.</p>\n\n<table id='8' style='font-size:16px'><tr><td>Option</td><td>Description</td></tr><tr><td>CONTINUOUS</td><td>Numbering continues from the last file number used or the first available file number, whichever is higher. Choose this option to reduce the number of pictures with duplicate file names.</td></tr><tr><td>RENEW</td><td>Numbering is reset to 0001 after formatting or when a new memory card is inserted.</td></tr><br><caption id='7' style='font-size:18px'>New pictures are stored in image files named Frame number<br>using a four-digit file number assigned by 1 ② 100-0001<br>adding one to the last file number used. The<br>Directory File<br>file number is displayed during playback as<br>number number<br>shown. FRAME NO. controls whether file num-<br>bering is reset to 0001 when a new memory card is inserted or<br>the current memory card is formatted.</caption></table>\n<p id='9' data-category='list' style='font-size:14px'>If the frame number reaches 999-9999, the shutter release will be<br>disabled. Turn the camera off and insert a formatted memory card<br>before resuming shooting.<br>● Selecting USER SETTING > RESET sets FRAME NO. to<br>CONTINUOUS but does not reset the file number.<br>● Frame numbers for pictures taken with other cameras may differ.</p>\n<footer id='10' style='font-size:20px'>308</footer>",
+        "markdown": "The\nSetup\nMenus\n\n9\n\n# SAVE DATA SETTING\n\n# Make changes to file management settings.\n\nTo access file management settings,\npress MENU/OK, select the 8 (SET UP) tab,\nand choose SAVE DATA SET-UP.\n\n|  | SAVE DATA SETTING |\n| --- | --- |\n| AF MF . | FRAME NO. |\n| AF MF . | EDIT FILE NAME |\n| AF MF . | ⌀CARD SLOT SETTING |\n| AF MF . | 々 SELECT SLOT(⌀ SEQUENTIAL) |\n| AF MF . | SELECT FOLDER |\n| AF MF . | COPYRIGHT INFO |\n| AF MF . | GEOTAGGING 2 BACK EXIT |\n\n\nFRAME NO.\n\nNew pictures are stored in image files named Frame number\nusing a four-digit file number assigned by 1 ② 100-0001\nadding one to the last file number used. The\nDirectory File\nfile number is displayed during playback as\nnumber number\nshown. FRAME NO. controls whether file num-\nbering is reset to 0001 when a new memory card is inserted or\nthe current memory card is formatted.\n\n| Option | Description |\n| --- | --- |\n| CONTINUOUS | Numbering continues from the last file number used or the first available file number, whichever is higher. Choose this option to reduce the number of pictures with duplicate file names. |\n| RENEW | Numbering is reset to 0001 after formatting or when a new memory card is inserted. |\n\n\n- If the frame number reaches 999-9999, the shutter release will be\n- disabled. Turn the camera off and insert a formatted memory card\n- before resuming shooting.\n- ● Selecting USER SETTING > RESET sets FRAME NO. to\n- CONTINUOUS but does not reset the file number.\n- ● Frame numbers for pictures taken with other cameras may differ.\n\n\n308",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:22px'>The<br>Setup<br>Menus</header>",
+                "markdown": "The\nSetup\nMenus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0184,
+                    "y": 0.5685
+                },
+                {
+                    "x": 0.0406,
+                    "y": 0.5685
+                },
+                {
+                    "x": 0.0406,
+                    "y": 0.6974
+                },
+                {
+                    "x": 0.0184,
+                    "y": 0.6974
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='1' style='font-size:14px'>9</header>",
+                "markdown": "9",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0255,
+                    "y": 0.7174
+                },
+                {
+                    "x": 0.0434,
+                    "y": 0.7174
+                },
+                {
+                    "x": 0.0434,
+                    "y": 0.7372
+                },
+                {
+                    "x": 0.0255,
+                    "y": 0.7372
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='2' style='font-size:22px'>SAVE DATA SETTING</h1>",
+                "markdown": "# SAVE DATA SETTING",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1507,
+                    "y": 0.0737
+                },
+                {
+                    "x": 0.4992,
+                    "y": 0.0737
+                },
+                {
+                    "x": 0.4992,
+                    "y": 0.0988
+                },
+                {
+                    "x": 0.1507,
+                    "y": 0.0988
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='3' style='font-size:20px'>Make changes to file management settings.</h1>",
+                "markdown": "# Make changes to file management settings.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1556,
+                    "y": 0.1099
+                },
+                {
+                    "x": 0.7029,
+                    "y": 0.1099
+                },
+                {
+                    "x": 0.7029,
+                    "y": 0.1328
+                },
+                {
+                    "x": 0.1556,
+                    "y": 0.1328
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='4' data-category='paragraph' style='font-size:18px'>To access file management settings,<br>press MENU/OK, select the 8 (SET UP) tab,<br>and choose SAVE DATA SET-UP.</p>",
+                "markdown": "To access file management settings,\npress MENU/OK, select the 8 (SET UP) tab,\nand choose SAVE DATA SET-UP.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0818,
+                    "y": 0.1476
+                },
+                {
+                    "x": 0.6012,
+                    "y": 0.1476
+                },
+                {
+                    "x": 0.6012,
+                    "y": 0.2227
+                },
+                {
+                    "x": 0.0818,
+                    "y": 0.2227
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='5' style='font-size:14px'><tr><td></td><td>SAVE DATA SETTING</td></tr><tr><td rowspan=\"7\">AF MF .</td><td>FRAME NO.</td></tr><tr><td>EDIT FILE NAME</td></tr><tr><td>⌀CARD SLOT SETTING</td></tr><tr><td>々 SELECT SLOT(⌀ SEQUENTIAL)</td></tr><tr><td>SELECT FOLDER</td></tr><tr><td>COPYRIGHT INFO</td></tr><tr><td>GEOTAGGING 2 BACK EXIT</td></tr></table>",
+                "markdown": "|  | SAVE DATA SETTING |\n| --- | --- |\n| AF MF . | FRAME NO. |\n| AF MF . | EDIT FILE NAME |\n| AF MF . | ⌀CARD SLOT SETTING |\n| AF MF . | 々 SELECT SLOT(⌀ SEQUENTIAL) |\n| AF MF . | SELECT FOLDER |\n| AF MF . | COPYRIGHT INFO |\n| AF MF . | GEOTAGGING 2 BACK EXIT |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6032,
+                    "y": 0.146
+                },
+                {
+                    "x": 0.892,
+                    "y": 0.146
+                },
+                {
+                    "x": 0.892,
+                    "y": 0.2789
+                },
+                {
+                    "x": 0.6032,
+                    "y": 0.2789
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='6' data-category='paragraph' style='font-size:16px'>FRAME NO.</p>",
+                "markdown": "FRAME NO.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0831,
+                    "y": 0.2964
+                },
+                {
+                    "x": 0.2373,
+                    "y": 0.2964
+                },
+                {
+                    "x": 0.2373,
+                    "y": 0.3184
+                },
+                {
+                    "x": 0.0831,
+                    "y": 0.3184
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='7' data-category='paragraph' style='font-size:18px'>New pictures are stored in image files named Frame number<br>using a four-digit file number assigned by 1 ② 100-0001<br>adding one to the last file number used. The<br>Directory File<br>file number is displayed during playback as<br>number number<br>shown. FRAME NO. controls whether file num-<br>bering is reset to 0001 when a new memory card is inserted or<br>the current memory card is formatted.</p>",
+                "markdown": "New pictures are stored in image files named Frame number\nusing a four-digit file number assigned by 1 ② 100-0001\nadding one to the last file number used. The\nDirectory File\nfile number is displayed during playback as\nnumber number\nshown. FRAME NO. controls whether file num-\nbering is reset to 0001 when a new memory card is inserted or\nthe current memory card is formatted.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0802,
+                    "y": 0.3272
+                },
+                {
+                    "x": 0.9004,
+                    "y": 0.3272
+                },
+                {
+                    "x": 0.9004,
+                    "y": 0.5057
+                },
+                {
+                    "x": 0.0802,
+                    "y": 0.5057
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='8' style='font-size:16px'><tr><td>Option</td><td>Description</td></tr><tr><td>CONTINUOUS</td><td>Numbering continues from the last file number used or the first available file number, whichever is higher. Choose this option to reduce the number of pictures with duplicate file names.</td></tr><tr><td>RENEW</td><td>Numbering is reset to 0001 after formatting or when a new memory card is inserted.</td></tr></table>",
+                "markdown": "| Option | Description |\n| --- | --- |\n| CONTINUOUS | Numbering continues from the last file number used or the first available file number, whichever is higher. Choose this option to reduce the number of pictures with duplicate file names. |\n| RENEW | Numbering is reset to 0001 after formatting or when a new memory card is inserted. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0862,
+                    "y": 0.5171
+                },
+                {
+                    "x": 0.8941,
+                    "y": 0.5171
+                },
+                {
+                    "x": 0.8941,
+                    "y": 0.6601
+                },
+                {
+                    "x": 0.0862,
+                    "y": 0.6601
+                }
+            ],
+            "id": 8,
+            "page": 1
+        },
+        {
+            "category": "list",
+            "content": {
+                "html": "<p id='9' data-category='list' style='font-size:14px'>If the frame number reaches 999-9999, the shutter release will be<br>disabled. Turn the camera off and insert a formatted memory card<br>before resuming shooting.<br>● Selecting USER SETTING > RESET sets FRAME NO. to<br>CONTINUOUS but does not reset the file number.<br>● Frame numbers for pictures taken with other cameras may differ.</p>",
+                "markdown": "- If the frame number reaches 999-9999, the shutter release will be\n- disabled. Turn the camera off and insert a formatted memory card\n- before resuming shooting.\n- ● Selecting USER SETTING > RESET sets FRAME NO. to\n- CONTINUOUS but does not reset the file number.\n- ● Frame numbers for pictures taken with other cameras may differ.\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1039,
+                    "y": 0.6739
+                },
+                {
+                    "x": 0.891,
+                    "y": 0.6739
+                },
+                {
+                    "x": 0.891,
+                    "y": 0.81
+                },
+                {
+                    "x": 0.1039,
+                    "y": 0.81
+                }
+            ],
+            "id": 9,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='10' style='font-size:20px'>308</footer>",
+                "markdown": "308",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0829,
+                    "y": 0.9562
+                },
+                {
+                    "x": 0.1402,
+                    "y": 0.9562
+                },
+                {
+                    "x": 0.1402,
+                    "y": 0.9801
+                },
+                {
+                    "x": 0.0829,
+                    "y": 0.9801
+                }
+            ],
+            "id": 10,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

@@ -1,0 +1,108 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "# MOVIE SETTING (Still Photography)\n\n## WIND FILTER\nChoose whether to enable wind noise reduction during movie recording.\n\n**Options:**\n- ON\n- OFF\n\n## LOW CUT FILTER\nChoose whether to enable the low-cut filter, reducing low-frequency noise during movie recording.\n\n**Options:**\n- ON\n- OFF\n\n## HEADPHONES VOLUME\nAdjust the headphone volume.\n\n| Option | Description                          |\n|--------|--------------------------------------|\n| 0      | Mute output to the headphones.       |\n| 1–10   | Choose a volume from 1 to 10.        |\n\n## MIC/REMOTE RELEASE\nSpecify whether the device connected to the microphone/remote release connector is a microphone or a remote release.\n\n**Options:**\n- MIC\n- REMOTE",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "MOVIE SETTING (Still Photography)",
+                    "md": "# MOVIE SETTING (Still Photography)"
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "WIND FILTER",
+                    "md": "## WIND FILTER"
+                },
+                {
+                    "type": "text",
+                    "value": "Choose whether to enable wind noise reduction during movie recording.\n\n**Options:**\n- ON\n- OFF",
+                    "md": "Choose whether to enable wind noise reduction during movie recording.\n\n**Options:**\n- ON\n- OFF"
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "LOW CUT FILTER",
+                    "md": "## LOW CUT FILTER"
+                },
+                {
+                    "type": "text",
+                    "value": "Choose whether to enable the low-cut filter, reducing low-frequency noise during movie recording.\n\n**Options:**\n- ON\n- OFF",
+                    "md": "Choose whether to enable the low-cut filter, reducing low-frequency noise during movie recording.\n\n**Options:**\n- ON\n- OFF"
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "HEADPHONES VOLUME",
+                    "md": "## HEADPHONES VOLUME"
+                },
+                {
+                    "type": "text",
+                    "value": "Adjust the headphone volume.",
+                    "md": "Adjust the headphone volume."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Option",
+                            "Description"
+                        ],
+                        [
+                            "0",
+                            "Mute output to the headphones."
+                        ],
+                        [
+                            "1–10",
+                            "Choose a volume from 1 to 10."
+                        ]
+                    ],
+                    "md": "| Option | Description                          |\n|--------|--------------------------------------|\n| 0      | Mute output to the headphones.       |\n| 1–10   | Choose a volume from 1 to 10.        |",
+                    "isPerfectTable": true,
+                    "csv": "\"Option\",\"Description\"\n\"0\",\"Mute output to the headphones.\"\n\"1–10\",\"Choose a volume from 1 to 10.\""
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "MIC/REMOTE RELEASE",
+                    "md": "## MIC/REMOTE RELEASE"
+                },
+                {
+                    "type": "text",
+                    "value": "Specify whether the device connected to the microphone/remote release connector is a microphone or a remote release.\n\n**Options:**\n- MIC\n- REMOTE",
+                    "md": "Specify whether the device connected to the microphone/remote release connector is a microphone or a remote release.\n\n**Options:**\n- MIC\n- REMOTE"
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "parsingMode": "multimodal-openai-gpt4o",
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 28.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "0be25787-5e2c-4e1c-874c-7184ee2b28be",
+    "file_path": "../data/raw_data/x-e4/x-e4_split/x-e4_page178.pdf"
+}

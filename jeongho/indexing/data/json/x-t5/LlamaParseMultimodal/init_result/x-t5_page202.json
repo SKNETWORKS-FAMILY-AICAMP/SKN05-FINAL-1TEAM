@@ -1,0 +1,74 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "# MULTI EXPOSURE\n\nChoose how the camera combines shots to create a multiple exposure.\n\n!Multi Exposure Example\n\n| Option | Description |\n|--------|-------------|\n| **ON** | Adjust multiple exposure settings and record multiple exposures. <br> • **ADDITIVE**: The camera adds the exposures together. You may need to lower exposure compensation depending on the number of shots. <br> • **AVERAGE**: The camera automatically optimizes exposure for the final picture. The background in series shot without changing the composition will be optimally exposed. <br> • **BRIGHT**: The camera compares the exposures and chooses only the brightest pixel at each location. Colors may be mixed depending on their brightness and hue. <br> • **DARK**: The camera compares the exposures and chooses only the darkest pixel at each location. Colors may be mixed depending on their brightness and hue. |\n| **OFF** | Multiple exposure mode disabled. |\n\n> 💡 **Note:**  \n> The camera can combine up to nine exposures.",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "MULTI EXPOSURE",
+                    "md": "# MULTI EXPOSURE"
+                },
+                {
+                    "type": "text",
+                    "value": "Choose how the camera combines shots to create a multiple exposure.\n\n!Multi Exposure Example",
+                    "md": "Choose how the camera combines shots to create a multiple exposure.\n\n!Multi Exposure Example"
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Option",
+                            "Description"
+                        ],
+                        [
+                            "**ON**",
+                            "Adjust multiple exposure settings and record multiple exposures. <br> • **ADDITIVE**: The camera adds the exposures together. You may need to lower exposure compensation depending on the number of shots. <br> • **AVERAGE**: The camera automatically optimizes exposure for the final picture. The background in series shot without changing the composition will be optimally exposed. <br> • **BRIGHT**: The camera compares the exposures and chooses only the brightest pixel at each location. Colors may be mixed depending on their brightness and hue. <br> • **DARK**: The camera compares the exposures and chooses only the darkest pixel at each location. Colors may be mixed depending on their brightness and hue."
+                        ],
+                        [
+                            "**OFF**",
+                            "Multiple exposure mode disabled."
+                        ]
+                    ],
+                    "md": "| Option | Description |\n|--------|-------------|\n| **ON** | Adjust multiple exposure settings and record multiple exposures. <br> • **ADDITIVE**: The camera adds the exposures together. You may need to lower exposure compensation depending on the number of shots. <br> • **AVERAGE**: The camera automatically optimizes exposure for the final picture. The background in series shot without changing the composition will be optimally exposed. <br> • **BRIGHT**: The camera compares the exposures and chooses only the brightest pixel at each location. Colors may be mixed depending on their brightness and hue. <br> • **DARK**: The camera compares the exposures and chooses only the darkest pixel at each location. Colors may be mixed depending on their brightness and hue. |\n| **OFF** | Multiple exposure mode disabled. |",
+                    "isPerfectTable": true,
+                    "csv": "\"Option\",\"Description\"\n\"**ON**\",\"Adjust multiple exposure settings and record multiple exposures. <br> • **ADDITIVE**: The camera adds the exposures together. You may need to lower exposure compensation depending on the number of shots. <br> • **AVERAGE**: The camera automatically optimizes exposure for the final picture. The background in series shot without changing the composition will be optimally exposed. <br> • **BRIGHT**: The camera compares the exposures and chooses only the brightest pixel at each location. Colors may be mixed depending on their brightness and hue. <br> • **DARK**: The camera compares the exposures and chooses only the darkest pixel at each location. Colors may be mixed depending on their brightness and hue.\"\n\"**OFF**\",\"Multiple exposure mode disabled.\""
+                },
+                {
+                    "type": "text",
+                    "value": "> 💡 **Note:**  \n> The camera can combine up to nine exposures.",
+                    "md": "> 💡 **Note:**  \n> The camera can combine up to nine exposures."
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "parsingMode": "multimodal-openai-gpt4o",
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 721.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "87c4251c-233c-4239-af1b-9ddbb1086927",
+    "file_path": "../data/raw_data/x-t5/x-t5_split/x-t5_page202.pdf"
+}

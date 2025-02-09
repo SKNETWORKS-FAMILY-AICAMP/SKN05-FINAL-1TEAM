@@ -1,0 +1,378 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<h1 id='0' style='font-size:22px'>POWER MANAGEMENT</h1>\n<br><h1 id='1' style='font-size:20px'>Adjust power management settings.</h1>\n\n<br><figure id='3'><img style='font-size:14px' alt=\"10 POWER MANAGEMENT\nAF\nMF\nAUTO POWER OFF\nPERFORMANCE\nEVF/LCD BOOST SETTING\nAUTO POWER OFF TEMP.\n2\nBACK EXIT\" data-coord=\"top-left:(1689,564); bottom-right:(2464,1088)\" /><figcaption id='2' style='font-size:18px'>To access power management settings,<br>press MENU/OK, select the 8 (SET UP) tab,<br>and choose POWER MANAGEMENT.</figcaption></figure>\n\n<br><p id='5' data-category='paragraph' style='font-size:18px'>Choose the length of time before the camera turns off automati-<br>cally when no operations are performed. Shorter times increase<br>battery life; if OFF is selected, the camera must be turned off<br>manually.</p>\n<table id='6' style='font-size:14px'><tr><td colspan=\"6\">Options</td></tr><tr><td>5 MIN</td><td>2 MIN</td><td>1 MIN</td><td>30 SEC</td><td>15 SEC</td><td>OFF</td></tr><caption id='4' style='font-size:16px'>AUTO POWER OFF</caption></table>\n<br><p id='7' data-category='paragraph' style='font-size:16px'>PERFORMANCE</p>\n<br><p id='8' data-category='paragraph' style='font-size:18px'>Select BOOST to improve focus and viewfinder display perfor-<br>mance.</p>\n<br><header id='9' style='font-size:22px'>The<br>Setup<br>Menus</header>\n<br><table id='10' style='font-size:16px'><tr><td>Option</td><td>Description</td></tr><tr><td>BOOST</td><td>Boost camera focus and viewfinder display performance. The battery drains faster than when is NORMAL selected.</td></tr><tr><td>NORMAL</td><td>Choose for standard focus and viewfinder display perfor- mance and battery endurance.</td></tr><tr><td>ECONOMY</td><td>Limit autofocus and viewfinder performance. This option offers better battery endurance than does NORMAL.</td></tr></table>\n<br><p id='11' data-category='paragraph' style='font-size:14px'>9</p>\n<footer id='12' style='font-size:20px'>306</footer>",
+        "markdown": "# POWER MANAGEMENT\n\n# Adjust power management settings.\n\nTo access power management settings,\npress MENU/OK, select the 8 (SET UP) tab,\nand choose POWER MANAGEMENT.\n\n![image](/image/placeholder)\n10 POWER MANAGEMENT\nAF\nMF\nAUTO POWER OFF\nPERFORMANCE\nEVF/LCD BOOST SETTING\nAUTO POWER OFF TEMP.\n2\nBACK EXIT\n\nAUTO POWER OFF\n\nChoose the length of time before the camera turns off automati-\ncally when no operations are performed. Shorter times increase\nbattery life; if OFF is selected, the camera must be turned off\nmanually.\n\n| Options | Options | Options | Options | Options | Options |\n| --- | --- | --- | --- | --- | --- |\n| 5 MIN | 2 MIN | 1 MIN | 30 SEC | 15 SEC | OFF |\n\n\nPERFORMANCE\n\nSelect BOOST to improve focus and viewfinder display perfor-\nmance.\n\nThe\nSetup\nMenus\n\n| Option | Description |\n| --- | --- |\n| BOOST | Boost camera focus and viewfinder display performance. The battery drains faster than when is NORMAL selected. |\n| NORMAL | Choose for standard focus and viewfinder display perfor- mance and battery endurance. |\n| ECONOMY | Limit autofocus and viewfinder performance. This option offers better battery endurance than does NORMAL. |\n\n\n9\n\n306",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='0' style='font-size:22px'>POWER MANAGEMENT</h1>",
+                "markdown": "# POWER MANAGEMENT",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1541,
+                    "y": 0.0743
+                },
+                {
+                    "x": 0.5429,
+                    "y": 0.0743
+                },
+                {
+                    "x": 0.5429,
+                    "y": 0.0982
+                },
+                {
+                    "x": 0.1541,
+                    "y": 0.0982
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='1' style='font-size:20px'>Adjust power management settings.</h1>",
+                "markdown": "# Adjust power management settings.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1553,
+                    "y": 0.1106
+                },
+                {
+                    "x": 0.6149,
+                    "y": 0.1106
+                },
+                {
+                    "x": 0.6149,
+                    "y": 0.1323
+                },
+                {
+                    "x": 0.1553,
+                    "y": 0.1323
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='2' data-category='paragraph' style='font-size:18px'>To access power management settings,<br>press MENU/OK, select the 8 (SET UP) tab,<br>and choose POWER MANAGEMENT.</p>",
+                "markdown": "To access power management settings,\npress MENU/OK, select the 8 (SET UP) tab,\nand choose POWER MANAGEMENT.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0822,
+                    "y": 0.1497
+                },
+                {
+                    "x": 0.5999,
+                    "y": 0.1497
+                },
+                {
+                    "x": 0.5999,
+                    "y": 0.2226
+                },
+                {
+                    "x": 0.0822,
+                    "y": 0.2226
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "figure",
+            "content": {
+                "html": "<br><figure id='3'><img style='font-size:14px' alt=\"10 POWER MANAGEMENT\nAF\nMF\nAUTO POWER OFF\nPERFORMANCE\nEVF/LCD BOOST SETTING\nAUTO POWER OFF TEMP.\n2\nBACK EXIT\" data-coord=\"top-left:(1689,564); bottom-right:(2464,1088)\" /></figure>",
+                "markdown": "![image](/image/placeholder)\n10 POWER MANAGEMENT\nAF\nMF\nAUTO POWER OFF\nPERFORMANCE\nEVF/LCD BOOST SETTING\nAUTO POWER OFF TEMP.\n2\nBACK EXIT",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6113,
+                    "y": 0.1448
+                },
+                {
+                    "x": 0.8915,
+                    "y": 0.1448
+                },
+                {
+                    "x": 0.8915,
+                    "y": 0.2793
+                },
+                {
+                    "x": 0.6113,
+                    "y": 0.2793
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='4' data-category='paragraph' style='font-size:16px'>AUTO POWER OFF</p>",
+                "markdown": "AUTO POWER OFF",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.081,
+                    "y": 0.2964
+                },
+                {
+                    "x": 0.3322,
+                    "y": 0.2964
+                },
+                {
+                    "x": 0.3322,
+                    "y": 0.3184
+                },
+                {
+                    "x": 0.081,
+                    "y": 0.3184
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='5' data-category='paragraph' style='font-size:18px'>Choose the length of time before the camera turns off automati-<br>cally when no operations are performed. Shorter times increase<br>battery life; if OFF is selected, the camera must be turned off<br>manually.</p>",
+                "markdown": "Choose the length of time before the camera turns off automati-\ncally when no operations are performed. Shorter times increase\nbattery life; if OFF is selected, the camera must be turned off\nmanually.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0803,
+                    "y": 0.3272
+                },
+                {
+                    "x": 0.8947,
+                    "y": 0.3272
+                },
+                {
+                    "x": 0.8947,
+                    "y": 0.4293
+                },
+                {
+                    "x": 0.0803,
+                    "y": 0.4293
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='6' style='font-size:14px'><tr><td colspan=\"6\">Options</td></tr><tr><td>5 MIN</td><td>2 MIN</td><td>1 MIN</td><td>30 SEC</td><td>15 SEC</td><td>OFF</td></tr></table>",
+                "markdown": "| Options | Options | Options | Options | Options | Options |\n| --- | --- | --- | --- | --- | --- |\n| 5 MIN | 2 MIN | 1 MIN | 30 SEC | 15 SEC | OFF |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0868,
+                    "y": 0.442
+                },
+                {
+                    "x": 0.8896,
+                    "y": 0.442
+                },
+                {
+                    "x": 0.8896,
+                    "y": 0.4943
+                },
+                {
+                    "x": 0.0868,
+                    "y": 0.4943
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='7' data-category='paragraph' style='font-size:16px'>PERFORMANCE</p>",
+                "markdown": "PERFORMANCE",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0828,
+                    "y": 0.5099
+                },
+                {
+                    "x": 0.2983,
+                    "y": 0.5099
+                },
+                {
+                    "x": 0.2983,
+                    "y": 0.5317
+                },
+                {
+                    "x": 0.0828,
+                    "y": 0.5317
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='8' data-category='paragraph' style='font-size:18px'>Select BOOST to improve focus and viewfinder display perfor-<br>mance.</p>",
+                "markdown": "Select BOOST to improve focus and viewfinder display perfor-\nmance.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0811,
+                    "y": 0.5413
+                },
+                {
+                    "x": 0.8904,
+                    "y": 0.5413
+                },
+                {
+                    "x": 0.8904,
+                    "y": 0.5901
+                },
+                {
+                    "x": 0.0811,
+                    "y": 0.5901
+                }
+            ],
+            "id": 8,
+            "page": 1
+        },
+        {
+            "category": "header",
+            "content": {
+                "html": "<br><header id='9' style='font-size:22px'>The<br>Setup<br>Menus</header>",
+                "markdown": "The\nSetup\nMenus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0184,
+                    "y": 0.568
+                },
+                {
+                    "x": 0.0404,
+                    "y": 0.568
+                },
+                {
+                    "x": 0.0404,
+                    "y": 0.6979
+                },
+                {
+                    "x": 0.0184,
+                    "y": 0.6979
+                }
+            ],
+            "id": 9,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='10' style='font-size:16px'><tr><td>Option</td><td>Description</td></tr><tr><td>BOOST</td><td>Boost camera focus and viewfinder display performance. The battery drains faster than when is NORMAL selected.</td></tr><tr><td>NORMAL</td><td>Choose for standard focus and viewfinder display perfor- mance and battery endurance.</td></tr><tr><td>ECONOMY</td><td>Limit autofocus and viewfinder performance. This option offers better battery endurance than does NORMAL.</td></tr></table>",
+                "markdown": "| Option | Description |\n| --- | --- |\n| BOOST | Boost camera focus and viewfinder display performance. The battery drains faster than when is NORMAL selected. |\n| NORMAL | Choose for standard focus and viewfinder display perfor- mance and battery endurance. |\n| ECONOMY | Limit autofocus and viewfinder performance. This option offers better battery endurance than does NORMAL. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0903,
+                    "y": 0.603
+                },
+                {
+                    "x": 0.8914,
+                    "y": 0.603
+                },
+                {
+                    "x": 0.8914,
+                    "y": 0.769
+                },
+                {
+                    "x": 0.0903,
+                    "y": 0.769
+                }
+            ],
+            "id": 10,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='11' data-category='paragraph' style='font-size:14px'>9</p>",
+                "markdown": "9",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0284,
+                    "y": 0.7195
+                },
+                {
+                    "x": 0.0417,
+                    "y": 0.7195
+                },
+                {
+                    "x": 0.0417,
+                    "y": 0.7344
+                },
+                {
+                    "x": 0.0284,
+                    "y": 0.7344
+                }
+            ],
+            "id": 11,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='12' style='font-size:20px'>306</footer>",
+                "markdown": "306",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0831,
+                    "y": 0.9563
+                },
+                {
+                    "x": 0.1403,
+                    "y": 0.9563
+                },
+                {
+                    "x": 0.1403,
+                    "y": 0.9796
+                },
+                {
+                    "x": 0.0831,
+                    "y": 0.9796
+                }
+            ],
+            "id": 12,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

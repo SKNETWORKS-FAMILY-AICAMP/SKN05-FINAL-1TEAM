@@ -1,0 +1,17 @@
+{
+    "parsing_result": "# Bracketing\n\n## Film Simulation BKT\nEach time the shutter is released, the camera takes one shot and processes it to create copies with different film simulation settings.\n\n## White Balance BKT\nSelect a bracketing amount (±1, ±2, or ±3). Each time the shutter is released, the camera takes one shot and processes it to create three copies: one at the current white balance setting, one with fine-tuning increased by the selected amount, and another with fine-tuning decreased by the selected amount.\n\n## Dynamic Range BKT\nEach time the shutter button is pressed, the camera takes three shots with different dynamic ranges: 100% for the first, 200% for the second, and 400% for the third.\n\n> While dynamic range bracketing is in effect, sensitivity will be restricted to a minimum of ISO 500; the sensitivity previously in effect is restored when bracketing ends.\n\n## Focus BKT\nEach time the shutter button is pressed, the camera takes a series of photos, varying focus with each shot. The number of shots, the amount focus changes with each shot, and the interval between shots can be selected using `SHOOTING SETTING > DRIVE SETTING > BKT SETTING > FOCUS BKT`.\n\n## BKT Setting\nSettings for exposure, sensitivity, film simulation, white balance, and focus bracketing can be adjusted using `SHOOTING SETTING > DRIVE SETTING > BKT SETTING`.",
+    "metadata": {
+        "page": 104,
+        "model": "x-t5",
+        "chapter": "Taking Photographs",
+        "section": "Bracketing",
+        "subsection": [
+            "FILM SIMULATION BKT",
+            "WHITE BALANCE BKT",
+            "DYNAMIC RANGE BKT",
+            "FOCUS BKT"
+        ],
+        "embedding_model": "text-embedding-3-small",
+        "token": 298
+    }
+}

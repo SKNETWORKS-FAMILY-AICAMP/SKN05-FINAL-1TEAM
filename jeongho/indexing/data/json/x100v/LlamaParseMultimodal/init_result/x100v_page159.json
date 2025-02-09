@@ -1,0 +1,110 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "# SHOOTING SETTING\n\n## SELF-TIMER\nChoose a shutter release delay.\n\n| Option   | Description                                                                                                         |\n|----------|---------------------------------------------------------------------------------------------------------------------|\n| ⏲ 2 SEC  | The shutter is released two seconds after the shutter button is pressed. Use to reduce blur caused by the camera moving when the shutter button is pressed. The self-timer lamp blinks as the timer counts down.  |\n| ⏲ 10 SEC | The shutter is released ten seconds after the shutter button is pressed. Use for photographs in which you wish to appear yourself. The self-timer lamp blinks immediately before the picture is taken. |\n| OFF      | Self-timer off.                                                                                                     |\n\nIf an option other than **OFF** is selected, the timer will start when the shutter button is pressed all the way down. The display shows the number of seconds remaining until the shutter is released. To stop the timer before the picture is taken, press **DISP/BACK**.\n\n!Timer Display\n\n> 💡 **Note:**\n> - Stand behind the camera when using the shutter button. Standing in front of the lens can interfere with focus and exposure.\n> - The self-timer turns off automatically when the camera is turned off.\n\n## SAVE SELF-TIMER SETTING\nIf **ON** is selected, the chosen self-timer setting will remain in effect after a picture is taken or the camera is turned off.\n\n| Options |        |\n|---------|--------|\n| ON      | OFF    |",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "SHOOTING SETTING",
+                    "md": "# SHOOTING SETTING"
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "SELF-TIMER",
+                    "md": "## SELF-TIMER"
+                },
+                {
+                    "type": "text",
+                    "value": "Choose a shutter release delay.",
+                    "md": "Choose a shutter release delay."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Option",
+                            "Description"
+                        ],
+                        [
+                            "⏲ 2 SEC",
+                            "The shutter is released two seconds after the shutter button is pressed. Use to reduce blur caused by the camera moving when the shutter button is pressed. The self-timer lamp blinks as the timer counts down."
+                        ],
+                        [
+                            "⏲ 10 SEC",
+                            "The shutter is released ten seconds after the shutter button is pressed. Use for photographs in which you wish to appear yourself. The self-timer lamp blinks immediately before the picture is taken."
+                        ],
+                        [
+                            "OFF",
+                            "Self-timer off."
+                        ]
+                    ],
+                    "md": "| Option   | Description                                                                                                         |\n|----------|---------------------------------------------------------------------------------------------------------------------|\n| ⏲ 2 SEC  | The shutter is released two seconds after the shutter button is pressed. Use to reduce blur caused by the camera moving when the shutter button is pressed. The self-timer lamp blinks as the timer counts down.  |\n| ⏲ 10 SEC | The shutter is released ten seconds after the shutter button is pressed. Use for photographs in which you wish to appear yourself. The self-timer lamp blinks immediately before the picture is taken. |\n| OFF      | Self-timer off.                                                                                                     |",
+                    "isPerfectTable": true,
+                    "csv": "\"Option\",\"Description\"\n\"⏲ 2 SEC\",\"The shutter is released two seconds after the shutter button is pressed. Use to reduce blur caused by the camera moving when the shutter button is pressed. The self-timer lamp blinks as the timer counts down.\"\n\"⏲ 10 SEC\",\"The shutter is released ten seconds after the shutter button is pressed. Use for photographs in which you wish to appear yourself. The self-timer lamp blinks immediately before the picture is taken.\"\n\"OFF\",\"Self-timer off.\""
+                },
+                {
+                    "type": "text",
+                    "value": "If an option other than **OFF** is selected, the timer will start when the shutter button is pressed all the way down. The display shows the number of seconds remaining until the shutter is released. To stop the timer before the picture is taken, press **DISP/BACK**.\n\n!Timer Display\n\n> 💡 **Note:**\n> - Stand behind the camera when using the shutter button. Standing in front of the lens can interfere with focus and exposure.\n> - The self-timer turns off automatically when the camera is turned off.",
+                    "md": "If an option other than **OFF** is selected, the timer will start when the shutter button is pressed all the way down. The display shows the number of seconds remaining until the shutter is released. To stop the timer before the picture is taken, press **DISP/BACK**.\n\n!Timer Display\n\n> 💡 **Note:**\n> - Stand behind the camera when using the shutter button. Standing in front of the lens can interfere with focus and exposure.\n> - The self-timer turns off automatically when the camera is turned off."
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "SAVE SELF-TIMER SETTING",
+                    "md": "## SAVE SELF-TIMER SETTING"
+                },
+                {
+                    "type": "text",
+                    "value": "If **ON** is selected, the chosen self-timer setting will remain in effect after a picture is taken or the camera is turned off.",
+                    "md": "If **ON** is selected, the chosen self-timer setting will remain in effect after a picture is taken or the camera is turned off."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Options",
+                            ""
+                        ],
+                        [
+                            "ON",
+                            "OFF"
+                        ]
+                    ],
+                    "md": "| Options |        |\n|---------|--------|\n| ON      | OFF    |",
+                    "isPerfectTable": true,
+                    "csv": "\"Options\",\"\"\n\"ON\",\"OFF\""
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 656.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "364688c0-0b72-4451-9cab-976e8017fad1",
+    "file_path": "../data/raw_data/x100v/x100v_split/x100v_page159.pdf"
+}

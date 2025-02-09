@@ -1,0 +1,378 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:22px'>Network/USB<br>Features<br>and<br>Settings</header>\n<br><header id='1' style='font-size:16px'>Network/USB Setting Menus</header>\n<h1 id='2' style='font-size:16px'>USB POWER SUPPLY/COMM SETTING</h1>\n\n<table id='4' style='font-size:16px'><tr><td>Option</td><td>Description</td></tr><tr><td>AUTO</td><td>The camera switches between power delivery and data trans- fer automatically.</td></tr><tr><td>POWER SUPPLY ON/ COMM OFF</td><td>The camera draws power from the connected device, reducing the drain on the battery. Data transfer is disabled.</td></tr><tr><td>POWER SUPPLY OFF/COMM ON</td><td>The camera can exchange data with, but not draw power from, the connected device.</td></tr><br><caption id='3' style='font-size:18px'>Choose whether USB connections to computers, smartphones,<br>or other devices are used for power delivery or data transfer.</caption></table>\n<p id='5' data-category='paragraph' style='font-size:14px'>The camera cannot draw power from Lightning connections or from<br>devices that do not supply power. Select POWER SUPPLY OFF/COMM<br>ON before connecting the camera to such devices. The connection<br>may not be available for data transfer or the like when POWER SUPPLY<br>ON/COMM OFF is selected.</p>\n<p id='6' data-category='paragraph' style='font-size:18px'>Regardless of the option selected, the battery will charge while the<br>camera is off.</p>\n<p id='7' data-category='paragraph' style='font-size:18px'>IMFORMATION</p>\n<br><p id='8' data-category='paragraph' style='font-size:20px'>View the camera's MAC, Bluetooth, and wireless network IP ad-<br>dresses.</p>\n<p id='9' data-category='paragraph' style='font-size:16px'>RESET WIRELESS SETTING</p>\n<br><header id='10' style='font-size:14px'>8</header>\n<p id='11' data-category='paragraph' style='font-size:20px'>Restore wireless settings to their default values.</p>\n<footer id='12' style='font-size:22px'>268</footer>",
+        "markdown": "Network/USB\nFeatures\nand\nSettings\n\nNetwork/USB Setting Menus\n\n# USB POWER SUPPLY/COMM SETTING\n\nChoose whether USB connections to computers, smartphones,\nor other devices are used for power delivery or data transfer.\n\n| Option | Description |\n| --- | --- |\n| AUTO | The camera switches between power delivery and data trans- fer automatically. |\n| POWER SUPPLY ON/ COMM OFF | The camera draws power from the connected device, reducing the drain on the battery. Data transfer is disabled. |\n| POWER SUPPLY OFF/COMM ON | The camera can exchange data with, but not draw power from, the connected device. |\n\n\nThe camera cannot draw power from Lightning connections or from\ndevices that do not supply power. Select POWER SUPPLY OFF/COMM\nON before connecting the camera to such devices. The connection\nmay not be available for data transfer or the like when POWER SUPPLY\nON/COMM OFF is selected.\n\nRegardless of the option selected, the battery will charge while the\ncamera is off.\n\nIMFORMATION\n\nView the camera's MAC, Bluetooth, and wireless network IP ad-\ndresses.\n\nRESET WIRELESS SETTING\n\n8\n\nRestore wireless settings to their default values.\n\n268",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:22px'>Network/USB<br>Features<br>and<br>Settings</header>",
+                "markdown": "Network/USB\nFeatures\nand\nSettings",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.018,
+                    "y": 0.376
+                },
+                {
+                    "x": 0.0405,
+                    "y": 0.376
+                },
+                {
+                    "x": 0.0405,
+                    "y": 0.6369
+                },
+                {
+                    "x": 0.018,
+                    "y": 0.6369
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "header",
+            "content": {
+                "html": "<br><header id='1' style='font-size:16px'>Network/USB Setting Menus</header>",
+                "markdown": "Network/USB Setting Menus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6104,
+                    "y": 0.0286
+                },
+                {
+                    "x": 0.8921,
+                    "y": 0.0286
+                },
+                {
+                    "x": 0.8921,
+                    "y": 0.0504
+                },
+                {
+                    "x": 0.6104,
+                    "y": 0.0504
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='2' style='font-size:16px'>USB POWER SUPPLY/COMM SETTING</h1>",
+                "markdown": "# USB POWER SUPPLY/COMM SETTING",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.083,
+                    "y": 0.0731
+                },
+                {
+                    "x": 0.5812,
+                    "y": 0.0731
+                },
+                {
+                    "x": 0.5812,
+                    "y": 0.0948
+                },
+                {
+                    "x": 0.083,
+                    "y": 0.0948
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='3' data-category='paragraph' style='font-size:18px'>Choose whether USB connections to computers, smartphones,<br>or other devices are used for power delivery or data transfer.</p>",
+                "markdown": "Choose whether USB connections to computers, smartphones,\nor other devices are used for power delivery or data transfer.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0804,
+                    "y": 0.1042
+                },
+                {
+                    "x": 0.8932,
+                    "y": 0.1042
+                },
+                {
+                    "x": 0.8932,
+                    "y": 0.1552
+                },
+                {
+                    "x": 0.0804,
+                    "y": 0.1552
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='4' style='font-size:16px'><tr><td>Option</td><td>Description</td></tr><tr><td>AUTO</td><td>The camera switches between power delivery and data trans- fer automatically.</td></tr><tr><td>POWER SUPPLY ON/ COMM OFF</td><td>The camera draws power from the connected device, reducing the drain on the battery. Data transfer is disabled.</td></tr><tr><td>POWER SUPPLY OFF/COMM ON</td><td>The camera can exchange data with, but not draw power from, the connected device.</td></tr></table>",
+                "markdown": "| Option | Description |\n| --- | --- |\n| AUTO | The camera switches between power delivery and data trans- fer automatically. |\n| POWER SUPPLY ON/ COMM OFF | The camera draws power from the connected device, reducing the drain on the battery. Data transfer is disabled. |\n| POWER SUPPLY OFF/COMM ON | The camera can exchange data with, but not draw power from, the connected device. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0849,
+                    "y": 0.1673
+                },
+                {
+                    "x": 0.892,
+                    "y": 0.1673
+                },
+                {
+                    "x": 0.892,
+                    "y": 0.3409
+                },
+                {
+                    "x": 0.0849,
+                    "y": 0.3409
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='5' data-category='paragraph' style='font-size:14px'>The camera cannot draw power from Lightning connections or from<br>devices that do not supply power. Select POWER SUPPLY OFF/COMM<br>ON before connecting the camera to such devices. The connection<br>may not be available for data transfer or the like when POWER SUPPLY<br>ON/COMM OFF is selected.</p>",
+                "markdown": "The camera cannot draw power from Lightning connections or from\ndevices that do not supply power. Select POWER SUPPLY OFF/COMM\nON before connecting the camera to such devices. The connection\nmay not be available for data transfer or the like when POWER SUPPLY\nON/COMM OFF is selected.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0892,
+                    "y": 0.3618
+                },
+                {
+                    "x": 0.8884,
+                    "y": 0.3618
+                },
+                {
+                    "x": 0.8884,
+                    "y": 0.4753
+                },
+                {
+                    "x": 0.0892,
+                    "y": 0.4753
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='6' data-category='paragraph' style='font-size:18px'>Regardless of the option selected, the battery will charge while the<br>camera is off.</p>",
+                "markdown": "Regardless of the option selected, the battery will charge while the\ncamera is off.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0903,
+                    "y": 0.4926
+                },
+                {
+                    "x": 0.8897,
+                    "y": 0.4926
+                },
+                {
+                    "x": 0.8897,
+                    "y": 0.5375
+                },
+                {
+                    "x": 0.0903,
+                    "y": 0.5375
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='7' data-category='paragraph' style='font-size:18px'>IMFORMATION</p>",
+                "markdown": "IMFORMATION",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0831,
+                    "y": 0.5578
+                },
+                {
+                    "x": 0.2849,
+                    "y": 0.5578
+                },
+                {
+                    "x": 0.2849,
+                    "y": 0.5795
+                },
+                {
+                    "x": 0.0831,
+                    "y": 0.5795
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='8' data-category='paragraph' style='font-size:20px'>View the camera's MAC, Bluetooth, and wireless network IP ad-<br>dresses.</p>",
+                "markdown": "View the camera's MAC, Bluetooth, and wireless network IP ad-\ndresses.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0819,
+                    "y": 0.59
+                },
+                {
+                    "x": 0.8899,
+                    "y": 0.59
+                },
+                {
+                    "x": 0.8899,
+                    "y": 0.6384
+                },
+                {
+                    "x": 0.0819,
+                    "y": 0.6384
+                }
+            ],
+            "id": 8,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='9' data-category='paragraph' style='font-size:16px'>RESET WIRELESS SETTING</p>",
+                "markdown": "RESET WIRELESS SETTING",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0798,
+                    "y": 0.6603
+                },
+                {
+                    "x": 0.4347,
+                    "y": 0.6603
+                },
+                {
+                    "x": 0.4347,
+                    "y": 0.6831
+                },
+                {
+                    "x": 0.0798,
+                    "y": 0.6831
+                }
+            ],
+            "id": 9,
+            "page": 1
+        },
+        {
+            "category": "header",
+            "content": {
+                "html": "<br><header id='10' style='font-size:14px'>8</header>",
+                "markdown": "8",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0255,
+                    "y": 0.6571
+                },
+                {
+                    "x": 0.0443,
+                    "y": 0.6571
+                },
+                {
+                    "x": 0.0443,
+                    "y": 0.6778
+                },
+                {
+                    "x": 0.0255,
+                    "y": 0.6778
+                }
+            ],
+            "id": 10,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='11' data-category='paragraph' style='font-size:20px'>Restore wireless settings to their default values.</p>",
+                "markdown": "Restore wireless settings to their default values.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0811,
+                    "y": 0.6931
+                },
+                {
+                    "x": 0.6813,
+                    "y": 0.6931
+                },
+                {
+                    "x": 0.6813,
+                    "y": 0.7169
+                },
+                {
+                    "x": 0.0811,
+                    "y": 0.7169
+                }
+            ],
+            "id": 11,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='12' style='font-size:22px'>268</footer>",
+                "markdown": "268",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0826,
+                    "y": 0.956
+                },
+                {
+                    "x": 0.1402,
+                    "y": 0.956
+                },
+                {
+                    "x": 0.1402,
+                    "y": 0.98
+                },
+                {
+                    "x": 0.0826,
+                    "y": 0.98
+                }
+            ],
+            "id": 12,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

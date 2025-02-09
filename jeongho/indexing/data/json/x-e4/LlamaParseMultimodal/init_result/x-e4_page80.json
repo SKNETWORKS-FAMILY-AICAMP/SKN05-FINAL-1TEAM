@@ -1,0 +1,85 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "# P, S, A, and M Modes\n\nP, S, A, and M modes give you varying degrees of control over shutter speed and aperture.\n\n## Mode P: Program AE\n\nLet the camera choose shutter speed and aperture for optimal exposure. Other values that produce the same exposure can be selected with program shift.\n\nThe camera functions in mode P (program AE) when the shutter speed dial is rotated to **A** or **P**. Aperture is set as follows.\n\n| Shutter speed dial | Aperture |\n|--------------------|----------|\n| !P Mode Dial | The camera functions in mode **P** regardless of the option selected for aperture. |\n| !A Mode Dial | - **Lenses with aperture rings:** Mode **P** can be selected by rotating the ring to **A** (auto).<br>- **Lenses without aperture rings:** Mode **P** can be selected by pressing the center of the front command dial to cycle to **APERTURE** and then rotating the dial to choose **A** (auto). |\n\n> 💡 **Note:**\n> - The method for adjusting aperture when using a lens without an aperture ring can be chosen using **BUTTON/DIAL SETTING > APERTURE SETTING**.\n> - Front command dial settings can be adjusted using **BUTTON/DIAL SETTING > COMMAND DIAL SETTING**.",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "P, S, A, and M Modes",
+                    "md": "# P, S, A, and M Modes"
+                },
+                {
+                    "type": "text",
+                    "value": "P, S, A, and M modes give you varying degrees of control over shutter speed and aperture.",
+                    "md": "P, S, A, and M modes give you varying degrees of control over shutter speed and aperture."
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "Mode P: Program AE",
+                    "md": "## Mode P: Program AE"
+                },
+                {
+                    "type": "text",
+                    "value": "Let the camera choose shutter speed and aperture for optimal exposure. Other values that produce the same exposure can be selected with program shift.\n\nThe camera functions in mode P (program AE) when the shutter speed dial is rotated to **A** or **P**. Aperture is set as follows.",
+                    "md": "Let the camera choose shutter speed and aperture for optimal exposure. Other values that produce the same exposure can be selected with program shift.\n\nThe camera functions in mode P (program AE) when the shutter speed dial is rotated to **A** or **P**. Aperture is set as follows."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Shutter speed dial",
+                            "Aperture"
+                        ],
+                        [
+                            "!P Mode Dial",
+                            "The camera functions in mode **P** regardless of the option selected for aperture."
+                        ],
+                        [
+                            "!A Mode Dial",
+                            "- **Lenses with aperture rings:** Mode **P** can be selected by rotating the ring to **A** (auto).<br>- **Lenses without aperture rings:** Mode **P** can be selected by pressing the center of the front command dial to cycle to **APERTURE** and then rotating the dial to choose **A** (auto)."
+                        ]
+                    ],
+                    "md": "| Shutter speed dial | Aperture |\n|--------------------|----------|\n| !P Mode Dial | The camera functions in mode **P** regardless of the option selected for aperture. |\n| !A Mode Dial | - **Lenses with aperture rings:** Mode **P** can be selected by rotating the ring to **A** (auto).<br>- **Lenses without aperture rings:** Mode **P** can be selected by pressing the center of the front command dial to cycle to **APERTURE** and then rotating the dial to choose **A** (auto). |",
+                    "isPerfectTable": true,
+                    "csv": "\"Shutter speed dial\",\"Aperture\"\n\"!P Mode Dial\",\"The camera functions in mode **P** regardless of the option selected for aperture.\"\n\"!A Mode Dial\",\"- **Lenses with aperture rings:** Mode **P** can be selected by rotating the ring to **A** (auto).<br>- **Lenses without aperture rings:** Mode **P** can be selected by pressing the center of the front command dial to cycle to **APERTURE** and then rotating the dial to choose **A** (auto).\""
+                },
+                {
+                    "type": "text",
+                    "value": "> 💡 **Note:**\n> - The method for adjusting aperture when using a lens without an aperture ring can be chosen using **BUTTON/DIAL SETTING > APERTURE SETTING**.\n> - Front command dial settings can be adjusted using **BUTTON/DIAL SETTING > COMMAND DIAL SETTING**.",
+                    "md": "> 💡 **Note:**\n> - The method for adjusting aperture when using a lens without an aperture ring can be chosen using **BUTTON/DIAL SETTING > APERTURE SETTING**.\n> - Front command dial settings can be adjusted using **BUTTON/DIAL SETTING > COMMAND DIAL SETTING**."
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "parsingMode": "multimodal-openai-gpt4o",
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 163.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "95096a38-6c1c-4674-9624-9bc2e47194bd",
+    "file_path": "../data/raw_data/x-e4/x-e4_split/x-e4_page80.pdf"
+}

@@ -1,0 +1,124 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "# SHOOTING SETTING (Still Photography)\n\n## FLICKER REDUCTION\n\nReduce flicker in pictures and the display when shooting under fluorescent lighting and other similar light sources.\n\n| Option      | Description                                                                                                                                   |\n|-------------|-----------------------------------------------------------------------------------------------------------------------------------------------|\n| ALL FRAMES  | Flicker reduction is performed for all frames. Compared to when flicker reduction is performed only on the first frame, the frame advance rate for burst photography will drop. |\n| FIRST FRAME | Flicker reduction is performed for the first frame only; in burst photography, the value measured for the first frame in each burst will be used for all subsequent shots. Flicker may be visible during burst photography. |\n| OFF         | Flicker reduction disabled.                                                                                                                   |\n\n> - Flicker reduction increases the time needed to record pictures.\n> - **OFF** is selected for FLICKER REDUCTION when the electronic shutter is used.\n> - Flicker reduction is not available during movie recording.\n\n## IS MODE\n\nEnable or disable image stabilization.\n\n| Option         | Description                                                                                                                                  |\n|----------------|----------------------------------------------------------------------------------------------------------------------------------------------|\n| CONTINUOUS     | Image stabilization on.                                                                                                                      |\n| SHOOTING ONLY  | Image stabilization enabled only when the shutter button is pressed halfway (focus mode) or the shutter is released.                         |\n| OFF            | Image stabilization off; appears in the display. Choose when the camera is mounted on a tripod or otherwise fixed in place.                  |\n\n> - Image stabilization is available with compatible lenses only.\n> - The setting selected with the lens image stabilization switch, if any, takes priority over the setting chosen with the IS mode.\n> - Note that vibration or camera sounds may be noticeable as image stabilization takes effect.",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "SHOOTING SETTING (Still Photography)",
+                    "md": "# SHOOTING SETTING (Still Photography)"
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "FLICKER REDUCTION",
+                    "md": "## FLICKER REDUCTION"
+                },
+                {
+                    "type": "text",
+                    "value": "Reduce flicker in pictures and the display when shooting under fluorescent lighting and other similar light sources.",
+                    "md": "Reduce flicker in pictures and the display when shooting under fluorescent lighting and other similar light sources."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Option",
+                            "Description"
+                        ],
+                        [
+                            "ALL FRAMES",
+                            "Flicker reduction is performed for all frames. Compared to when flicker reduction is performed only on the first frame, the frame advance rate for burst photography will drop."
+                        ],
+                        [
+                            "FIRST FRAME",
+                            "Flicker reduction is performed for the first frame only; in burst photography, the value measured for the first frame in each burst will be used for all subsequent shots. Flicker may be visible during burst photography."
+                        ],
+                        [
+                            "OFF",
+                            "Flicker reduction disabled."
+                        ]
+                    ],
+                    "md": "| Option      | Description                                                                                                                                   |\n|-------------|-----------------------------------------------------------------------------------------------------------------------------------------------|\n| ALL FRAMES  | Flicker reduction is performed for all frames. Compared to when flicker reduction is performed only on the first frame, the frame advance rate for burst photography will drop. |\n| FIRST FRAME | Flicker reduction is performed for the first frame only; in burst photography, the value measured for the first frame in each burst will be used for all subsequent shots. Flicker may be visible during burst photography. |\n| OFF         | Flicker reduction disabled.                                                                                                                   |",
+                    "isPerfectTable": true,
+                    "csv": "\"Option\",\"Description\"\n\"ALL FRAMES\",\"Flicker reduction is performed for all frames. Compared to when flicker reduction is performed only on the first frame, the frame advance rate for burst photography will drop.\"\n\"FIRST FRAME\",\"Flicker reduction is performed for the first frame only; in burst photography, the value measured for the first frame in each burst will be used for all subsequent shots. Flicker may be visible during burst photography.\"\n\"OFF\",\"Flicker reduction disabled.\""
+                },
+                {
+                    "type": "text",
+                    "value": "> - Flicker reduction increases the time needed to record pictures.\n> - **OFF** is selected for FLICKER REDUCTION when the electronic shutter is used.\n> - Flicker reduction is not available during movie recording.",
+                    "md": "> - Flicker reduction increases the time needed to record pictures.\n> - **OFF** is selected for FLICKER REDUCTION when the electronic shutter is used.\n> - Flicker reduction is not available during movie recording."
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "IS MODE",
+                    "md": "## IS MODE"
+                },
+                {
+                    "type": "text",
+                    "value": "Enable or disable image stabilization.",
+                    "md": "Enable or disable image stabilization."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Option",
+                            "Description"
+                        ],
+                        [
+                            "CONTINUOUS",
+                            "Image stabilization on."
+                        ],
+                        [
+                            "SHOOTING ONLY",
+                            "Image stabilization enabled only when the shutter button is pressed halfway (focus mode) or the shutter is released."
+                        ],
+                        [
+                            "OFF",
+                            "Image stabilization off; appears in the display. Choose when the camera is mounted on a tripod or otherwise fixed in place."
+                        ]
+                    ],
+                    "md": "| Option         | Description                                                                                                                                  |\n|----------------|----------------------------------------------------------------------------------------------------------------------------------------------|\n| CONTINUOUS     | Image stabilization on.                                                                                                                      |\n| SHOOTING ONLY  | Image stabilization enabled only when the shutter button is pressed halfway (focus mode) or the shutter is released.                         |\n| OFF            | Image stabilization off; appears in the display. Choose when the camera is mounted on a tripod or otherwise fixed in place.                  |",
+                    "isPerfectTable": true,
+                    "csv": "\"Option\",\"Description\"\n\"CONTINUOUS\",\"Image stabilization on.\"\n\"SHOOTING ONLY\",\"Image stabilization enabled only when the shutter button is pressed halfway (focus mode) or the shutter is released.\"\n\"OFF\",\"Image stabilization off; appears in the display. Choose when the camera is mounted on a tripod or otherwise fixed in place.\""
+                },
+                {
+                    "type": "text",
+                    "value": "> - Image stabilization is available with compatible lenses only.\n> - The setting selected with the lens image stabilization switch, if any, takes priority over the setting chosen with the IS mode.\n> - Note that vibration or camera sounds may be noticeable as image stabilization takes effect.",
+                    "md": "> - Image stabilization is available with compatible lenses only.\n> - The setting selected with the lens image stabilization switch, if any, takes priority over the setting chosen with the IS mode.\n> - Note that vibration or camera sounds may be noticeable as image stabilization takes effect."
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "parsingMode": "multimodal-openai-gpt4o",
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 33.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "641d4133-f42a-4e72-b6bd-80d72157bfbf",
+    "file_path": "../data/raw_data/x-e4/x-e4_split/x-e4_page171.pdf"
+}

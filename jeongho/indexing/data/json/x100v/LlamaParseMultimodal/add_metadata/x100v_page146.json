@@ -1,0 +1,8 @@
+{
+    "parsing_result": "# PHOTOMETRY\n\nChoose how the camera meters exposure.\n\n> 💡 **Note:**  \n> The selected option will only take effect when **AF/MF SETTING > FACE/EYE DETECTION SETTING** is OFF.\n\n| Mode             | Description                                                                                                                                       |\n|------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|\n| !Multi (multi)            | The camera instantly determines exposure based on an analysis of composition, color, and brightness distribution. Recommended in most situations. |\n| !Center-Weighted (center-weighted) | The camera meters the entire frame but assigns the greatest weight to the area at the center.                                                              |\n| !Spot (spot)             | The camera meters lighting conditions in an area at the center of the frame equivalent to 2% of the total. Recommended with backlit subjects and in other cases in which the background is much brighter or darker than the main subject. |\n| !Average (average)         | Exposure is set to the average for the entire frame. Provides consistent exposure across multiple shots with the same lighting, and is particularly effective for landscapes and portraits of subjects dressed in black or white. |",
+    "embedding_result": [],
+    "metadata": {
+        "page": 146,
+        "model": "x100v"
+    }
+}

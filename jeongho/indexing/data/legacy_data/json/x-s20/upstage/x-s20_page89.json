@@ -1,0 +1,350 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<h1 id='0' style='font-size:20px'>4 Highlight the destination bank (C1<br>through C4) and press MENU/OK.<br>A confirmation dialog will be dis-<br>played.</h1>\n\n<table id='2' style='font-size:16px'><tr><td></td><td>COPY TO</td></tr><tr><td rowspan=\"4\">I.Q.</td><td>CUSTOM 1</td></tr><tr><td>CUSTOM 2</td></tr><tr><td>CUSTOM 3</td></tr><tr><td>CUSTOM 4</td></tr><br><caption id='1' style='font-size:16px'>Choosing a Shooting Mode</caption></table>\n<p id='3' data-category='paragraph' style='font-size:18px'>Any changes to custom settings in the destination bank will be<br>overwritten.</p>\n<br><h1 id='4' style='font-size:20px'>5 Highlight OK and press MENU/OK.</h1>\n<br><p id='5' data-category='paragraph' style='font-size:16px'>COPY</p>\n<br><p id='6' data-category='paragraph' style='font-size:22px'>The selected settings will be copied<br>to the destination bank, overwriting<br>any existing settings.</p>\n<br><table id='7' style='font-size:14px'><tr><td></td></tr><tr><td>C1 CUSTOM 1</td></tr><tr><td>C2 CUSTOM 2</td></tr><tr><td>COPY OK?</td></tr></table>\n<p id='8' data-category='paragraph' style='font-size:14px'>OK<br>CANCEL</p>\n<footer id='9' style='font-size:18px'>5</footer>\n<footer id='10' style='font-size:20px'>87</footer>\n<br><footer id='11' style='font-size:22px'>Taking<br>Photographs</footer>",
+        "markdown": "# 4 Highlight the destination bank (C1\nthrough C4) and press MENU/OK.\nA confirmation dialog will be dis-\nplayed.\n\nChoosing a Shooting Mode\n\n|  | COPY TO |\n| --- | --- |\n| I.Q. | CUSTOM 1 |\n| I.Q. | CUSTOM 2 |\n| I.Q. | CUSTOM 3 |\n| I.Q. | CUSTOM 4 |\n\n\nAny changes to custom settings in the destination bank will be\noverwritten.\n\n# 5 Highlight OK and press MENU/OK.\n\nCOPY\n\nThe selected settings will be copied\nto the destination bank, overwriting\nany existing settings.\n\n|  |\n| --- |\n| C1 CUSTOM 1 |\n| C2 CUSTOM 2 |\n| COPY OK? |\n\n\nOK\nCANCEL\n\n5\n\n87\n\nTaking\nPhotographs",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='0' style='font-size:20px'>4 Highlight the destination bank (C1<br>through C4) and press MENU/OK.<br>A confirmation dialog will be dis-<br>played.</h1>",
+                "markdown": "# 4 Highlight the destination bank (C1\nthrough C4) and press MENU/OK.\nA confirmation dialog will be dis-\nplayed.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1283,
+                    "y": 0.0722
+                },
+                {
+                    "x": 0.6282,
+                    "y": 0.0722
+                },
+                {
+                    "x": 0.6282,
+                    "y": 0.1739
+                },
+                {
+                    "x": 0.1283,
+                    "y": 0.1739
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='1' data-category='paragraph' style='font-size:16px'>Choosing a Shooting Mode</p>",
+                "markdown": "Choosing a Shooting Mode",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6459,
+                    "y": 0.0292
+                },
+                {
+                    "x": 0.9179,
+                    "y": 0.0292
+                },
+                {
+                    "x": 0.9179,
+                    "y": 0.05
+                },
+                {
+                    "x": 0.6459,
+                    "y": 0.05
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='2' style='font-size:16px'><tr><td></td><td>COPY TO</td></tr><tr><td rowspan=\"4\">I.Q.</td><td>CUSTOM 1</td></tr><tr><td>CUSTOM 2</td></tr><tr><td>CUSTOM 3</td></tr><tr><td>CUSTOM 4</td></tr></table>",
+                "markdown": "|  | COPY TO |\n| --- | --- |\n| I.Q. | CUSTOM 1 |\n| I.Q. | CUSTOM 2 |\n| I.Q. | CUSTOM 3 |\n| I.Q. | CUSTOM 4 |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6374,
+                    "y": 0.0701
+                },
+                {
+                    "x": 0.9173,
+                    "y": 0.0701
+                },
+                {
+                    "x": 0.9173,
+                    "y": 0.2043
+                },
+                {
+                    "x": 0.6374,
+                    "y": 0.2043
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='3' data-category='paragraph' style='font-size:18px'>Any changes to custom settings in the destination bank will be<br>overwritten.</p>",
+                "markdown": "Any changes to custom settings in the destination bank will be\noverwritten.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1649,
+                    "y": 0.2227
+                },
+                {
+                    "x": 0.915,
+                    "y": 0.2227
+                },
+                {
+                    "x": 0.915,
+                    "y": 0.266
+                },
+                {
+                    "x": 0.1649,
+                    "y": 0.266
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='4' style='font-size:20px'>5 Highlight OK and press MENU/OK.</h1>",
+                "markdown": "# 5 Highlight OK and press MENU/OK.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1251,
+                    "y": 0.2812
+                },
+                {
+                    "x": 0.5643,
+                    "y": 0.2812
+                },
+                {
+                    "x": 0.5643,
+                    "y": 0.3058
+                },
+                {
+                    "x": 0.1251,
+                    "y": 0.3058
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='5' data-category='paragraph' style='font-size:16px'>COPY</p>",
+                "markdown": "COPY",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6773,
+                    "y": 0.2845
+                },
+                {
+                    "x": 0.7104,
+                    "y": 0.2845
+                },
+                {
+                    "x": 0.7104,
+                    "y": 0.2943
+                },
+                {
+                    "x": 0.6773,
+                    "y": 0.2943
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='6' data-category='paragraph' style='font-size:22px'>The selected settings will be copied<br>to the destination bank, overwriting<br>any existing settings.</p>",
+                "markdown": "The selected settings will be copied\nto the destination bank, overwriting\nany existing settings.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1461,
+                    "y": 0.3039
+                },
+                {
+                    "x": 0.629,
+                    "y": 0.3039
+                },
+                {
+                    "x": 0.629,
+                    "y": 0.3838
+                },
+                {
+                    "x": 0.1461,
+                    "y": 0.3838
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='7' style='font-size:14px'><tr><td></td></tr><tr><td>C1 CUSTOM 1</td></tr><tr><td>C2 CUSTOM 2</td></tr><tr><td>COPY OK?</td></tr></table>",
+                "markdown": "|  |\n| --- |\n| C1 CUSTOM 1 |\n| C2 CUSTOM 2 |\n| COPY OK? |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6714,
+                    "y": 0.2889
+                },
+                {
+                    "x": 0.9027,
+                    "y": 0.2889
+                },
+                {
+                    "x": 0.9027,
+                    "y": 0.349
+                },
+                {
+                    "x": 0.6714,
+                    "y": 0.349
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='8' data-category='paragraph' style='font-size:14px'>OK<br>CANCEL</p>",
+                "markdown": "OK\nCANCEL",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.7558,
+                    "y": 0.3761
+                },
+                {
+                    "x": 0.8076,
+                    "y": 0.3761
+                },
+                {
+                    "x": 0.8076,
+                    "y": 0.3979
+                },
+                {
+                    "x": 0.7558,
+                    "y": 0.3979
+                }
+            ],
+            "id": 8,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='9' style='font-size:18px'>5</footer>",
+                "markdown": "5",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9571,
+                    "y": 0.4775
+                },
+                {
+                    "x": 0.9757,
+                    "y": 0.4775
+                },
+                {
+                    "x": 0.9757,
+                    "y": 0.4975
+                },
+                {
+                    "x": 0.9571,
+                    "y": 0.4975
+                }
+            ],
+            "id": 9,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='10' style='font-size:20px'>87</footer>",
+                "markdown": "87",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.8776,
+                    "y": 0.957
+                },
+                {
+                    "x": 0.9165,
+                    "y": 0.957
+                },
+                {
+                    "x": 0.9165,
+                    "y": 0.9793
+                },
+                {
+                    "x": 0.8776,
+                    "y": 0.9793
+                }
+            ],
+            "id": 10,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<br><footer id='11' style='font-size:22px'>Taking<br>Photographs</footer>",
+                "markdown": "Taking\nPhotographs",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.956,
+                    "y": 0.5175
+                },
+                {
+                    "x": 0.9814,
+                    "y": 0.5175
+                },
+                {
+                    "x": 0.9814,
+                    "y": 0.6653
+                },
+                {
+                    "x": 0.956,
+                    "y": 0.6653
+                }
+            ],
+            "id": 11,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

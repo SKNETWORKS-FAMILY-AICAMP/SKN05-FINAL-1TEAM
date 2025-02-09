@@ -1,0 +1,115 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "# SCREEN SETTING\n\nMake changes to display settings.\n\nTo access display settings, press **MENU/OK**, select the !SET UP Icon (SET UP) tab, and choose SCREEN SET-UP.\n\n!Screen Setting Menu\n\n## VIEW MODE SETTING\n\nAdjust settings for eye sensor, EVF (electronic viewfinder), or LCD monitor view modes (📖 14).\n\n## EVF BRIGHTNESS\n\nAdjust the brightness of the display in the electronic viewfinder.\n\n| Option | Description |\n|--------|-------------|\n| AUTO   | The camera automatically adjusts brightness around a selected level in response to changes in ambient lighting conditions. |\n| MANUAL | Adjust brightness manually; choose from options between −7 and +5. |\n\n## EVF COLOR\n\nAdjust the saturation of the display in the electronic viewfinder.\n\n| Options |\n|---------|\n| -5, -4, -3, -2, -1, 0, +1, +2, +3, +4, +5 |",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "SCREEN SETTING",
+                    "md": "# SCREEN SETTING"
+                },
+                {
+                    "type": "text",
+                    "value": "Make changes to display settings.\n\nTo access display settings, press **MENU/OK**, select the !SET UP Icon (SET UP) tab, and choose SCREEN SET-UP.\n\n!Screen Setting Menu",
+                    "md": "Make changes to display settings.\n\nTo access display settings, press **MENU/OK**, select the !SET UP Icon (SET UP) tab, and choose SCREEN SET-UP.\n\n!Screen Setting Menu"
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "VIEW MODE SETTING",
+                    "md": "## VIEW MODE SETTING"
+                },
+                {
+                    "type": "text",
+                    "value": "Adjust settings for eye sensor, EVF (electronic viewfinder), or LCD monitor view modes (📖 14).",
+                    "md": "Adjust settings for eye sensor, EVF (electronic viewfinder), or LCD monitor view modes (📖 14)."
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "EVF BRIGHTNESS",
+                    "md": "## EVF BRIGHTNESS"
+                },
+                {
+                    "type": "text",
+                    "value": "Adjust the brightness of the display in the electronic viewfinder.",
+                    "md": "Adjust the brightness of the display in the electronic viewfinder."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Option",
+                            "Description"
+                        ],
+                        [
+                            "AUTO",
+                            "The camera automatically adjusts brightness around a selected level in response to changes in ambient lighting conditions."
+                        ],
+                        [
+                            "MANUAL",
+                            "Adjust brightness manually; choose from options between −7 and +5."
+                        ]
+                    ],
+                    "md": "| Option | Description |\n|--------|-------------|\n| AUTO   | The camera automatically adjusts brightness around a selected level in response to changes in ambient lighting conditions. |\n| MANUAL | Adjust brightness manually; choose from options between −7 and +5. |",
+                    "isPerfectTable": true,
+                    "csv": "\"Option\",\"Description\"\n\"AUTO\",\"The camera automatically adjusts brightness around a selected level in response to changes in ambient lighting conditions.\"\n\"MANUAL\",\"Adjust brightness manually; choose from options between −7 and +5.\""
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "EVF COLOR",
+                    "md": "## EVF COLOR"
+                },
+                {
+                    "type": "text",
+                    "value": "Adjust the saturation of the display in the electronic viewfinder.",
+                    "md": "Adjust the saturation of the display in the electronic viewfinder."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Options"
+                        ],
+                        [
+                            "-5, -4, -3, -2, -1, 0, +1, +2, +3, +4, +5"
+                        ]
+                    ],
+                    "md": "| Options |\n|---------|\n| -5, -4, -3, -2, -1, 0, +1, +2, +3, +4, +5 |",
+                    "isPerfectTable": true,
+                    "csv": "\"Options\"\n\"-5, -4, -3, -2, -1, 0, +1, +2, +3, +4, +5\""
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 189.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "374dea26-45a0-411a-9d14-441c264958eb",
+    "file_path": "../data/raw_data/x-s20/x-s20_split/x-s20_page304.pdf"
+}

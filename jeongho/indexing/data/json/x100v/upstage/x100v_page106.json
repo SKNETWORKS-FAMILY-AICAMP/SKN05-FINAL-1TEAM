@@ -1,0 +1,266 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<h1 id='0' style='font-size:16px'>RAW RECORDING</h1>\n<br><h1 id='1' style='font-size:18px'>Choose whether to compress RAW images.</h1>\n<table id='2' style='font-size:14px'><tr><td>Option</td><td>Description</td></tr><tr><td>UNCOMPRESSED</td><td>RAWimages are not compressed.</td></tr><tr><td>LOSSLESS COMPRESSED</td><td>RAW images are compressed using a reversible algorithm that reduces file size with no loss of image data. The images can be viewed in Capture One Express Fujifilm (□□ 291), RAW FILE CONVERTER EX (□□ 291), FUJIFILM X RAW STUDIO (□□ 292), or other software that sup- ports \"lossless\" RAW compression.</td></tr></table>\n<p id='3' data-category='paragraph' style='font-size:16px'>FILM SIMULATION</p>\n\n<header id='5' style='font-size:14px'>6</header>\n<br><table id='6' style='font-size:14px'><tr><td>Option</td><td>Description</td></tr><tr><td>STD PROVIA/STANDARD</td><td>Ideal for a wide range of subjects.</td></tr><tr><td>Velvia/VIVID</td><td>Vibrant reproduction, ideal for landscape and nature.</td></tr><tr><td>ST ASTIA/SOFT</td><td>Softer color and contrast for a more subdued look.</td></tr><tr><td>Cc CLASSIC CHROME</td><td>Soft color and enhanced shadow contrast for a calm look.</td></tr><tr><td>Ni PRO Neg. Hi</td><td>Ideal for portrait with slightly enhanced contrast.</td></tr><tr><td>Ns PRO Neg. Std</td><td>Ideal for portrait with soft gradations and skin tones.</td></tr><tr><td>Nc CLASSIC Neg.</td><td>Enhanced color with hard tonality to increase image depth.</td></tr><tr><td>E ETERNA/CINEMA</td><td>Soft color and rich shadow tone suitable for film look movie.</td></tr><br><caption id='4' style='font-size:20px'>Simulate the effects of different kinds of film, including black-<br>and-white (with or without color filters). Choose a palette ac-<br>cording to your subject and creative intent.</caption></table>\n<br><header id='7' style='font-size:22px'>The<br>Shooting<br>Menus</header>\n<footer id='8' style='font-size:20px'>106</footer>",
+        "markdown": "# RAW RECORDING\n\n# Choose whether to compress RAW images.\n\n| Option | Description |\n| --- | --- |\n| UNCOMPRESSED | RAWimages are not compressed. |\n| LOSSLESS COMPRESSED | RAW images are compressed using a reversible algorithm that reduces file size with no loss of image data. The images can be viewed in Capture One Express Fujifilm (□□ 291), RAW FILE CONVERTER EX (□□ 291), FUJIFILM X RAW STUDIO (□□ 292), or other software that sup- ports \"lossless\" RAW compression. |\n\n\nFILM SIMULATION\n\nSimulate the effects of different kinds of film, including black-\nand-white (with or without color filters). Choose a palette ac-\ncording to your subject and creative intent.\n\n6\n\n| Option | Description |\n| --- | --- |\n| STD PROVIA/STANDARD | Ideal for a wide range of subjects. |\n| Velvia/VIVID | Vibrant reproduction, ideal for landscape and nature. |\n| ST ASTIA/SOFT | Softer color and contrast for a more subdued look. |\n| Cc CLASSIC CHROME | Soft color and enhanced shadow contrast for a calm look. |\n| Ni PRO Neg. Hi | Ideal for portrait with slightly enhanced contrast. |\n| Ns PRO Neg. Std | Ideal for portrait with soft gradations and skin tones. |\n| Nc CLASSIC Neg. | Enhanced color with hard tonality to increase image depth. |\n| E ETERNA/CINEMA | Soft color and rich shadow tone suitable for film look movie. |\n\n\nThe\nShooting\nMenus\n\n106",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='0' style='font-size:16px'>RAW RECORDING</h1>",
+                "markdown": "# RAW RECORDING",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0824,
+                    "y": 0.073
+                },
+                {
+                    "x": 0.3194,
+                    "y": 0.073
+                },
+                {
+                    "x": 0.3194,
+                    "y": 0.0945
+                },
+                {
+                    "x": 0.0824,
+                    "y": 0.0945
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='1' style='font-size:18px'>Choose whether to compress RAW images.</h1>",
+                "markdown": "# Choose whether to compress RAW images.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0816,
+                    "y": 0.1047
+                },
+                {
+                    "x": 0.621,
+                    "y": 0.1047
+                },
+                {
+                    "x": 0.621,
+                    "y": 0.1288
+                },
+                {
+                    "x": 0.0816,
+                    "y": 0.1288
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='2' style='font-size:14px'><tr><td>Option</td><td>Description</td></tr><tr><td>UNCOMPRESSED</td><td>RAWimages are not compressed.</td></tr><tr><td>LOSSLESS COMPRESSED</td><td>RAW images are compressed using a reversible algorithm that reduces file size with no loss of image data. The images can be viewed in Capture One Express Fujifilm (□□ 291), RAW FILE CONVERTER EX (□□ 291), FUJIFILM X RAW STUDIO (□□ 292), or other software that sup- ports \"lossless\" RAW compression.</td></tr></table>",
+                "markdown": "| Option | Description |\n| --- | --- |\n| UNCOMPRESSED | RAWimages are not compressed. |\n| LOSSLESS COMPRESSED | RAW images are compressed using a reversible algorithm that reduces file size with no loss of image data. The images can be viewed in Capture One Express Fujifilm (□□ 291), RAW FILE CONVERTER EX (□□ 291), FUJIFILM X RAW STUDIO (□□ 292), or other software that sup- ports \"lossless\" RAW compression. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0827,
+                    "y": 0.1408
+                },
+                {
+                    "x": 0.8953,
+                    "y": 0.1408
+                },
+                {
+                    "x": 0.8953,
+                    "y": 0.332
+                },
+                {
+                    "x": 0.0827,
+                    "y": 0.332
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='3' data-category='paragraph' style='font-size:16px'>FILM SIMULATION</p>",
+                "markdown": "FILM SIMULATION",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0815,
+                    "y": 0.3478
+                },
+                {
+                    "x": 0.3326,
+                    "y": 0.3478
+                },
+                {
+                    "x": 0.3326,
+                    "y": 0.3703
+                },
+                {
+                    "x": 0.0815,
+                    "y": 0.3703
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='4' data-category='paragraph' style='font-size:20px'>Simulate the effects of different kinds of film, including black-<br>and-white (with or without color filters). Choose a palette ac-<br>cording to your subject and creative intent.</p>",
+                "markdown": "Simulate the effects of different kinds of film, including black-\nand-white (with or without color filters). Choose a palette ac-\ncording to your subject and creative intent.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0796,
+                    "y": 0.3786
+                },
+                {
+                    "x": 0.8944,
+                    "y": 0.3786
+                },
+                {
+                    "x": 0.8944,
+                    "y": 0.4561
+                },
+                {
+                    "x": 0.0796,
+                    "y": 0.4561
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='5' style='font-size:14px'>6</header>",
+                "markdown": "6",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0258,
+                    "y": 0.5365
+                },
+                {
+                    "x": 0.0444,
+                    "y": 0.5365
+                },
+                {
+                    "x": 0.0444,
+                    "y": 0.5585
+                },
+                {
+                    "x": 0.0258,
+                    "y": 0.5585
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='6' style='font-size:14px'><tr><td>Option</td><td>Description</td></tr><tr><td>STD PROVIA/STANDARD</td><td>Ideal for a wide range of subjects.</td></tr><tr><td>Velvia/VIVID</td><td>Vibrant reproduction, ideal for landscape and nature.</td></tr><tr><td>ST ASTIA/SOFT</td><td>Softer color and contrast for a more subdued look.</td></tr><tr><td>Cc CLASSIC CHROME</td><td>Soft color and enhanced shadow contrast for a calm look.</td></tr><tr><td>Ni PRO Neg. Hi</td><td>Ideal for portrait with slightly enhanced contrast.</td></tr><tr><td>Ns PRO Neg. Std</td><td>Ideal for portrait with soft gradations and skin tones.</td></tr><tr><td>Nc CLASSIC Neg.</td><td>Enhanced color with hard tonality to increase image depth.</td></tr><tr><td>E ETERNA/CINEMA</td><td>Soft color and rich shadow tone suitable for film look movie.</td></tr></table>",
+                "markdown": "| Option | Description |\n| --- | --- |\n| STD PROVIA/STANDARD | Ideal for a wide range of subjects. |\n| Velvia/VIVID | Vibrant reproduction, ideal for landscape and nature. |\n| ST ASTIA/SOFT | Softer color and contrast for a more subdued look. |\n| Cc CLASSIC CHROME | Soft color and enhanced shadow contrast for a calm look. |\n| Ni PRO Neg. Hi | Ideal for portrait with slightly enhanced contrast. |\n| Ns PRO Neg. Std | Ideal for portrait with soft gradations and skin tones. |\n| Nc CLASSIC Neg. | Enhanced color with hard tonality to increase image depth. |\n| E ETERNA/CINEMA | Soft color and rich shadow tone suitable for film look movie. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.083,
+                    "y": 0.4673
+                },
+                {
+                    "x": 0.8923,
+                    "y": 0.4673
+                },
+                {
+                    "x": 0.8923,
+                    "y": 0.8692
+                },
+                {
+                    "x": 0.083,
+                    "y": 0.8692
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "header",
+            "content": {
+                "html": "<br><header id='7' style='font-size:22px'>The<br>Shooting<br>Menus</header>",
+                "markdown": "The\nShooting\nMenus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0165,
+                    "y": 0.5771
+                },
+                {
+                    "x": 0.0418,
+                    "y": 0.5771
+                },
+                {
+                    "x": 0.0418,
+                    "y": 0.7308
+                },
+                {
+                    "x": 0.0165,
+                    "y": 0.7308
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='8' style='font-size:20px'>106</footer>",
+                "markdown": "106",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0846,
+                    "y": 0.9572
+                },
+                {
+                    "x": 0.1401,
+                    "y": 0.9572
+                },
+                {
+                    "x": 0.1401,
+                    "y": 0.9794
+                },
+                {
+                    "x": 0.0846,
+                    "y": 0.9794
+                }
+            ],
+            "id": 8,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

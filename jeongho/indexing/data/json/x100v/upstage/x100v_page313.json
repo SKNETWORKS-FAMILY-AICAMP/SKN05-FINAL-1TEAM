@@ -1,0 +1,154 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<h1 id='0' style='font-size:20px'>Warning Messages and Displays</h1>\n<br><h1 id='1' style='font-size:18px'>The following warnings appear in the display.</h1>\n<table id='2' style='font-size:14px'><tr><td>Warning</td><td>Description</td></tr><tr><td>(red)</td><td>Low battery. Charge the battery or insert a fully-charged spare battery.</td></tr><tr><td>(blinks red)</td><td>Battery exhausted. Charge the battery or insert a ful- ly-charged spare battery.</td></tr><tr><td>!AF (displayed in red with red focus frame)</td><td>The camera cannot focus. Use focus lock to focus on an- other subject at the same distance, then recompose the picture.</td></tr><tr><td>Aperture or shutter speed displayed in red</td><td>The subject is too bright or too dark and the picture will be over- or under-exposed. Use the flash for additional light- ing when taking photographs of poorly-lit subject.</td></tr><tr><td>FOCUS ERROR LENS CONTROL ERROR</td><td rowspan=\"3\">Camera malfunction. Turn the camera off and then on again. If the message persists, contact a Fujifilm dealer.</td></tr><tr><td></td></tr><tr><td>TURN OFF THE CAMERA AND TURN ON AGAIN</td></tr><tr><td>NO CARD</td><td>The shutter can only be released when a memory card is inserted. Insert a memory card.</td></tr><tr><td>CARD NOT INITIALIZED</td><td>The memory card is not formatted or the memory card has been formatted in a computer or other device: Format the memory card using 8 USER SETTING > FORMAT. The memory card contacts require cleaning: Clean the con- tacts with a soft, dry cloth. If the message is repeated, format the card. If the message persists, replace the card. Camera malfunction: Contact a Fujifilm dealer.</td></tr></table>\n<footer id='3' style='font-size:22px'>Technical<br>Notes<br>12</footer>\n<footer id='4' style='font-size:16px'>313</footer>",
+        "markdown": "# Warning Messages and Displays\n\n# The following warnings appear in the display.\n\n| Warning | Description |\n| --- | --- |\n| (red) | Low battery. Charge the battery or insert a fully-charged spare battery. |\n| (blinks red) | Battery exhausted. Charge the battery or insert a ful- ly-charged spare battery. |\n| !AF (displayed in red with red focus frame) | The camera cannot focus. Use focus lock to focus on an- other subject at the same distance, then recompose the picture. |\n| Aperture or shutter speed displayed in red | The subject is too bright or too dark and the picture will be over- or under-exposed. Use the flash for additional light- ing when taking photographs of poorly-lit subject. |\n| FOCUS ERROR LENS CONTROL ERROR | Camera malfunction. Turn the camera off and then on again. If the message persists, contact a Fujifilm dealer. |\n|  | Camera malfunction. Turn the camera off and then on again. If the message persists, contact a Fujifilm dealer. |\n| TURN OFF THE CAMERA AND TURN ON AGAIN | Camera malfunction. Turn the camera off and then on again. If the message persists, contact a Fujifilm dealer. |\n| NO CARD | The shutter can only be released when a memory card is inserted. Insert a memory card. |\n| CARD NOT INITIALIZED | The memory card is not formatted or the memory card has been formatted in a computer or other device: Format the memory card using 8 USER SETTING > FORMAT. The memory card contacts require cleaning: Clean the con- tacts with a soft, dry cloth. If the message is repeated, format the card. If the message persists, replace the card. Camera malfunction: Contact a Fujifilm dealer. |\n\n\nTechnical\nNotes\n12\n\n313",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='0' style='font-size:20px'>Warning Messages and Displays</h1>",
+                "markdown": "# Warning Messages and Displays",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.178,
+                    "y": 0.0732
+                },
+                {
+                    "x": 0.72,
+                    "y": 0.0732
+                },
+                {
+                    "x": 0.72,
+                    "y": 0.101
+                },
+                {
+                    "x": 0.178,
+                    "y": 0.101
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='1' style='font-size:18px'>The following warnings appear in the display.</h1>",
+                "markdown": "# The following warnings appear in the display.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1788,
+                    "y": 0.1096
+                },
+                {
+                    "x": 0.7538,
+                    "y": 0.1096
+                },
+                {
+                    "x": 0.7538,
+                    "y": 0.1333
+                },
+                {
+                    "x": 0.1788,
+                    "y": 0.1333
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='2' style='font-size:14px'><tr><td>Warning</td><td>Description</td></tr><tr><td>(red)</td><td>Low battery. Charge the battery or insert a fully-charged spare battery.</td></tr><tr><td>(blinks red)</td><td>Battery exhausted. Charge the battery or insert a ful- ly-charged spare battery.</td></tr><tr><td>!AF (displayed in red with red focus frame)</td><td>The camera cannot focus. Use focus lock to focus on an- other subject at the same distance, then recompose the picture.</td></tr><tr><td>Aperture or shutter speed displayed in red</td><td>The subject is too bright or too dark and the picture will be over- or under-exposed. Use the flash for additional light- ing when taking photographs of poorly-lit subject.</td></tr><tr><td>FOCUS ERROR LENS CONTROL ERROR</td><td rowspan=\"3\">Camera malfunction. Turn the camera off and then on again. If the message persists, contact a Fujifilm dealer.</td></tr><tr><td></td></tr><tr><td>TURN OFF THE CAMERA AND TURN ON AGAIN</td></tr><tr><td>NO CARD</td><td>The shutter can only be released when a memory card is inserted. Insert a memory card.</td></tr><tr><td>CARD NOT INITIALIZED</td><td>The memory card is not formatted or the memory card has been formatted in a computer or other device: Format the memory card using 8 USER SETTING > FORMAT. The memory card contacts require cleaning: Clean the con- tacts with a soft, dry cloth. If the message is repeated, format the card. If the message persists, replace the card. Camera malfunction: Contact a Fujifilm dealer.</td></tr></table>",
+                "markdown": "| Warning | Description |\n| --- | --- |\n| (red) | Low battery. Charge the battery or insert a fully-charged spare battery. |\n| (blinks red) | Battery exhausted. Charge the battery or insert a ful- ly-charged spare battery. |\n| !AF (displayed in red with red focus frame) | The camera cannot focus. Use focus lock to focus on an- other subject at the same distance, then recompose the picture. |\n| Aperture or shutter speed displayed in red | The subject is too bright or too dark and the picture will be over- or under-exposed. Use the flash for additional light- ing when taking photographs of poorly-lit subject. |\n| FOCUS ERROR LENS CONTROL ERROR | Camera malfunction. Turn the camera off and then on again. If the message persists, contact a Fujifilm dealer. |\n|  | Camera malfunction. Turn the camera off and then on again. If the message persists, contact a Fujifilm dealer. |\n| TURN OFF THE CAMERA AND TURN ON AGAIN | Camera malfunction. Turn the camera off and then on again. If the message persists, contact a Fujifilm dealer. |\n| NO CARD | The shutter can only be released when a memory card is inserted. Insert a memory card. |\n| CARD NOT INITIALIZED | The memory card is not formatted or the memory card has been formatted in a computer or other device: Format the memory card using 8 USER SETTING > FORMAT. The memory card contacts require cleaning: Clean the con- tacts with a soft, dry cloth. If the message is repeated, format the card. If the message persists, replace the card. Camera malfunction: Contact a Fujifilm dealer. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1076,
+                    "y": 0.1452
+                },
+                {
+                    "x": 0.9199,
+                    "y": 0.1452
+                },
+                {
+                    "x": 0.9199,
+                    "y": 0.6949
+                },
+                {
+                    "x": 0.1076,
+                    "y": 0.6949
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='3' style='font-size:22px'>Technical<br>Notes<br>12</footer>",
+                "markdown": "Technical\nNotes\n12",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9575,
+                    "y": 0.7595
+                },
+                {
+                    "x": 0.9852,
+                    "y": 0.7595
+                },
+                {
+                    "x": 0.9852,
+                    "y": 0.916
+                },
+                {
+                    "x": 0.9575,
+                    "y": 0.916
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='4' style='font-size:16px'>313</footer>",
+                "markdown": "313",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.8616,
+                    "y": 0.9566
+                },
+                {
+                    "x": 0.9167,
+                    "y": 0.9566
+                },
+                {
+                    "x": 0.9167,
+                    "y": 0.9783
+                },
+                {
+                    "x": 0.8616,
+                    "y": 0.9783
+                }
+            ],
+            "id": 4,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

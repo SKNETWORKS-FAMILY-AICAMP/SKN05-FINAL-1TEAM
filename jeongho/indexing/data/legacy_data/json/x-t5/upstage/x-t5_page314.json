@@ -1,0 +1,266 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:14px'>MY MENU</header>\n<p id='1' data-category='paragraph' style='font-size:16px'>3 Choose a position for the item and<br>press MENU/OK. The item will be added<br>to \"my menu\".</p>\n<br><figure id='2' data-category='chart'><img style='font-size:14px' alt=\"SELECT ITEM LOCATION \n1 IMAGE SIZE \n2 IMAGE QUALITY \n ◀ \n◆ MOVE OK SAVE \n\" data-coord=\"top-left:(1686,268); bottom-right:(2456,800)\" /></figure>\n<br><h1 id='3' style='font-size:18px'>4 Press MENU/OK to return to the edit display.</h1>\n<br><p id='4' data-category='paragraph' style='font-size:20px'>5 Repeat Steps 3 and 4 until all the desired items have been<br>added.</p>\n<p id='5' data-category='paragraph' style='font-size:16px'>\"My menu\" can contain up to 16 items.</p>\n<header id='6' style='font-size:22px'>Shortcuts</header>\n<p id='7' data-category='paragraph' style='font-size:16px'>10</p>\n<footer id='8' style='font-size:20px'>314</footer>",
+        "markdown": "MY MENU\n\n3 Choose a position for the item and\npress MENU/OK. The item will be added\nto \"my menu\".\n\n![image](/image/placeholder)\nSELECT ITEM LOCATION \n1 IMAGE SIZE \n2 IMAGE QUALITY \n ◀ \n◆ MOVE OK SAVE \n\n\n# 4 Press MENU/OK to return to the edit display.\n\n5 Repeat Steps 3 and 4 until all the desired items have been\nadded.\n\n\"My menu\" can contain up to 16 items.\n\nShortcuts\n\n10\n\n314",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:14px'>MY MENU</header>",
+                "markdown": "MY MENU",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.7891,
+                    "y": 0.0288
+                },
+                {
+                    "x": 0.8914,
+                    "y": 0.0288
+                },
+                {
+                    "x": 0.8914,
+                    "y": 0.0484
+                },
+                {
+                    "x": 0.7891,
+                    "y": 0.0484
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='1' data-category='paragraph' style='font-size:16px'>3 Choose a position for the item and<br>press MENU/OK. The item will be added<br>to \"my menu\".</p>",
+                "markdown": "3 Choose a position for the item and\npress MENU/OK. The item will be added\nto \"my menu\".",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0983,
+                    "y": 0.0719
+                },
+                {
+                    "x": 0.6008,
+                    "y": 0.0719
+                },
+                {
+                    "x": 0.6008,
+                    "y": 0.1481
+                },
+                {
+                    "x": 0.0983,
+                    "y": 0.1481
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "figure",
+            "content": {
+                "html": "<br><figure id='2' data-category='chart'><img style='font-size:14px' alt=\"SELECT ITEM LOCATION \n1 IMAGE SIZE \n2 IMAGE QUALITY \n ◀ \n◆ MOVE OK SAVE \n\" data-coord=\"top-left:(1686,268); bottom-right:(2456,800)\" /></figure>",
+                "markdown": "![image](/image/placeholder)\nSELECT ITEM LOCATION \n1 IMAGE SIZE \n2 IMAGE QUALITY \n ◀ \n◆ MOVE OK SAVE \n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.61,
+                    "y": 0.0689
+                },
+                {
+                    "x": 0.8886,
+                    "y": 0.0689
+                },
+                {
+                    "x": 0.8886,
+                    "y": 0.2053
+                },
+                {
+                    "x": 0.61,
+                    "y": 0.2053
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='3' style='font-size:18px'>4 Press MENU/OK to return to the edit display.</h1>",
+                "markdown": "# 4 Press MENU/OK to return to the edit display.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.097,
+                    "y": 0.215
+                },
+                {
+                    "x": 0.6609,
+                    "y": 0.215
+                },
+                {
+                    "x": 0.6609,
+                    "y": 0.2385
+                },
+                {
+                    "x": 0.097,
+                    "y": 0.2385
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='4' data-category='paragraph' style='font-size:20px'>5 Repeat Steps 3 and 4 until all the desired items have been<br>added.</p>",
+                "markdown": "5 Repeat Steps 3 and 4 until all the desired items have been\nadded.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0952,
+                    "y": 0.2526
+                },
+                {
+                    "x": 0.8919,
+                    "y": 0.2526
+                },
+                {
+                    "x": 0.8919,
+                    "y": 0.3015
+                },
+                {
+                    "x": 0.0952,
+                    "y": 0.3015
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='5' data-category='paragraph' style='font-size:16px'>\"My menu\" can contain up to 16 items.</p>",
+                "markdown": "\"My menu\" can contain up to 16 items.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0924,
+                    "y": 0.3173
+                },
+                {
+                    "x": 0.5448,
+                    "y": 0.3173
+                },
+                {
+                    "x": 0.5448,
+                    "y": 0.3403
+                },
+                {
+                    "x": 0.0924,
+                    "y": 0.3403
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='6' style='font-size:22px'>Shortcuts</header>",
+                "markdown": "Shortcuts",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0194,
+                    "y": 0.6845
+                },
+                {
+                    "x": 0.0406,
+                    "y": 0.6845
+                },
+                {
+                    "x": 0.0406,
+                    "y": 0.7576
+                },
+                {
+                    "x": 0.0194,
+                    "y": 0.7576
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='7' data-category='paragraph' style='font-size:16px'>10</p>",
+                "markdown": "10",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0185,
+                    "y": 0.7773
+                },
+                {
+                    "x": 0.0434,
+                    "y": 0.7773
+                },
+                {
+                    "x": 0.0434,
+                    "y": 0.7966
+                },
+                {
+                    "x": 0.0185,
+                    "y": 0.7966
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='8' style='font-size:20px'>314</footer>",
+                "markdown": "314",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0831,
+                    "y": 0.9566
+                },
+                {
+                    "x": 0.1403,
+                    "y": 0.9566
+                },
+                {
+                    "x": 0.1403,
+                    "y": 0.9797
+                },
+                {
+                    "x": 0.0831,
+                    "y": 0.9797
+                }
+            ],
+            "id": 8,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

@@ -1,0 +1,141 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "\n# SAVE DATA SETTING\n\n## SELECT FOLDER\nCreate folders and choose the folder used to store subsequent pictures.\n\n| Option         | Description                                                                                                                                  |\n|----------------|----------------------------------------------------------------------------------------------------------------------------------------------|\n| SELECT FOLDER  | To choose the folder in which subsequent pictures will be stored, press the selector up or down to highlight an existing folder and press **MENU/OK**. |\n| CREATE FOLDER  | Enter a five-character folder name. The new folder will be created with the next picture you take and subsequent pictures will be stored in that folder. |\n\n## COPYRIGHT INFO\nCopyright information, in the form of Exif tags, can be added to new images as they are taken. Changes to copyright information are reflected only in images taken after the changes are made.\n\n| Option                | Description                                                                                                           |\n|-----------------------|-----------------------------------------------------------------------------------------------------------------------|\n| DISP COPYRIGHT INFO   | View the current copyright information.                                                                               |\n| ENTER AUTHOR’S INFO   | Enter the creator’s name.                                                                                             |\n| ENTER COPYRIGHT INFO  | Enter the name of the copyright holder.                                                                               |\n| DELETE COPYRIGHT INFO | Delete the current copyright information. This change applies only to images taken after this option is selected; copyright information recorded with existing images is not affected. |\n\n## GEOTAGGING\nIf **ON** is selected, location data downloaded from a smartphone will be embedded in pictures as they are taken.\n\n| Options |        |\n|---------|--------|\n| ON      | OFF    |\n",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "SAVE DATA SETTING",
+                    "md": "# SAVE DATA SETTING"
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "SELECT FOLDER",
+                    "md": "## SELECT FOLDER"
+                },
+                {
+                    "type": "text",
+                    "value": "Create folders and choose the folder used to store subsequent pictures.",
+                    "md": "Create folders and choose the folder used to store subsequent pictures."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Option",
+                            "Description"
+                        ],
+                        [
+                            "SELECT FOLDER",
+                            "To choose the folder in which subsequent pictures will be stored, press the selector up or down to highlight an existing folder and press **MENU/OK**."
+                        ],
+                        [
+                            "CREATE FOLDER",
+                            "Enter a five-character folder name. The new folder will be created with the next picture you take and subsequent pictures will be stored in that folder."
+                        ]
+                    ],
+                    "md": "| Option         | Description                                                                                                                                  |\n|----------------|----------------------------------------------------------------------------------------------------------------------------------------------|\n| SELECT FOLDER  | To choose the folder in which subsequent pictures will be stored, press the selector up or down to highlight an existing folder and press **MENU/OK**. |\n| CREATE FOLDER  | Enter a five-character folder name. The new folder will be created with the next picture you take and subsequent pictures will be stored in that folder. |",
+                    "isPerfectTable": true,
+                    "csv": "\"Option\",\"Description\"\n\"SELECT FOLDER\",\"To choose the folder in which subsequent pictures will be stored, press the selector up or down to highlight an existing folder and press **MENU/OK**.\"\n\"CREATE FOLDER\",\"Enter a five-character folder name. The new folder will be created with the next picture you take and subsequent pictures will be stored in that folder.\""
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "COPYRIGHT INFO",
+                    "md": "## COPYRIGHT INFO"
+                },
+                {
+                    "type": "text",
+                    "value": "Copyright information, in the form of Exif tags, can be added to new images as they are taken. Changes to copyright information are reflected only in images taken after the changes are made.",
+                    "md": "Copyright information, in the form of Exif tags, can be added to new images as they are taken. Changes to copyright information are reflected only in images taken after the changes are made."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Option",
+                            "Description"
+                        ],
+                        [
+                            "DISP COPYRIGHT INFO",
+                            "View the current copyright information."
+                        ],
+                        [
+                            "ENTER AUTHOR’S INFO",
+                            "Enter the creator’s name."
+                        ],
+                        [
+                            "ENTER COPYRIGHT INFO",
+                            "Enter the name of the copyright holder."
+                        ],
+                        [
+                            "DELETE COPYRIGHT INFO",
+                            "Delete the current copyright information. This change applies only to images taken after this option is selected; copyright information recorded with existing images is not affected."
+                        ]
+                    ],
+                    "md": "| Option                | Description                                                                                                           |\n|-----------------------|-----------------------------------------------------------------------------------------------------------------------|\n| DISP COPYRIGHT INFO   | View the current copyright information.                                                                               |\n| ENTER AUTHOR’S INFO   | Enter the creator’s name.                                                                                             |\n| ENTER COPYRIGHT INFO  | Enter the name of the copyright holder.                                                                               |\n| DELETE COPYRIGHT INFO | Delete the current copyright information. This change applies only to images taken after this option is selected; copyright information recorded with existing images is not affected. |",
+                    "isPerfectTable": true,
+                    "csv": "\"Option\",\"Description\"\n\"DISP COPYRIGHT INFO\",\"View the current copyright information.\"\n\"ENTER AUTHOR’S INFO\",\"Enter the creator’s name.\"\n\"ENTER COPYRIGHT INFO\",\"Enter the name of the copyright holder.\"\n\"DELETE COPYRIGHT INFO\",\"Delete the current copyright information. This change applies only to images taken after this option is selected; copyright information recorded with existing images is not affected.\""
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "GEOTAGGING",
+                    "md": "## GEOTAGGING"
+                },
+                {
+                    "type": "text",
+                    "value": "If **ON** is selected, location data downloaded from a smartphone will be embedded in pictures as they are taken.",
+                    "md": "If **ON** is selected, location data downloaded from a smartphone will be embedded in pictures as they are taken."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Options",
+                            ""
+                        ],
+                        [
+                            "ON",
+                            "OFF"
+                        ]
+                    ],
+                    "md": "| Options |        |\n|---------|--------|\n| ON      | OFF    |",
+                    "isPerfectTable": true,
+                    "csv": "\"Options\",\"\"\n\"ON\",\"OFF\""
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "parsingMode": "multimodal-openai-gpt4o",
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 726.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "249acba0-3e95-47ef-9af0-dea55d64dc2e",
+    "file_path": "../data/raw_data/x-t5/x-t5_split/x-t5_page336.pdf"
+}

@@ -1,0 +1,60 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "# MY MENU\n\nAccess a personalized menu of frequently-used options.\n\nTo display \"my menu\", press **MENU/OK** in the shooting display and select the !MY MENU tab.\n\n!My Menu Display\n\n> ⚠️ The !MY MENU tab is only available if options have been assigned to MY MENU.\n\n## MY MENU SETTING\n\nTo choose the items listed in the !MY MENU tab:\n\n1. In the setup menu, select !USER SETTING > !MY MENU SETTING or !MY MENU SETTING.\n   - To reorder items, select **RANK ITEMS**.\n   - To delete items, select **REMOVE ITEMS**.\n\n   !My Menu Setting Options\n\n2. Press the selector up or down to highlight **ADD ITEMS** and press **MENU/OK**. Options that can be added to \"my menu\" are highlighted in blue.\n\n   !Add Items Menu\n\n> 💡 Items currently in \"my menu\" are indicated by check marks.",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "MY MENU",
+                    "md": "# MY MENU"
+                },
+                {
+                    "type": "text",
+                    "value": "Access a personalized menu of frequently-used options.\n\nTo display \"my menu\", press **MENU/OK** in the shooting display and select the !MY MENU tab.\n\n!My Menu Display\n\n> ⚠️ The !MY MENU tab is only available if options have been assigned to MY MENU.",
+                    "md": "Access a personalized menu of frequently-used options.\n\nTo display \"my menu\", press **MENU/OK** in the shooting display and select the !MY MENU tab.\n\n!My Menu Display\n\n> ⚠️ The !MY MENU tab is only available if options have been assigned to MY MENU."
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "MY MENU SETTING",
+                    "md": "## MY MENU SETTING"
+                },
+                {
+                    "type": "text",
+                    "value": "To choose the items listed in the !MY MENU tab:\n\n1. In the setup menu, select !USER SETTING > !MY MENU SETTING or !MY MENU SETTING.\n   - To reorder items, select **RANK ITEMS**.\n   - To delete items, select **REMOVE ITEMS**.\n\n   !My Menu Setting Options\n\n2. Press the selector up or down to highlight **ADD ITEMS** and press **MENU/OK**. Options that can be added to \"my menu\" are highlighted in blue.\n\n   !Add Items Menu\n\n> 💡 Items currently in \"my menu\" are indicated by check marks.",
+                    "md": "To choose the items listed in the !MY MENU tab:\n\n1. In the setup menu, select !USER SETTING > !MY MENU SETTING or !MY MENU SETTING.\n   - To reorder items, select **RANK ITEMS**.\n   - To delete items, select **REMOVE ITEMS**.\n\n   !My Menu Setting Options\n\n2. Press the selector up or down to highlight **ADD ITEMS** and press **MENU/OK**. Options that can be added to \"my menu\" are highlighted in blue.\n\n   !Add Items Menu\n\n> 💡 Items currently in \"my menu\" are indicated by check marks."
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "parsingMode": "multimodal-openai-gpt4o",
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 401.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "545574b0-988f-46bb-8ec6-8148ef16156d",
+    "file_path": "../data/raw_data/x-t5/x-t5_split/x-t5_page339.pdf"
+}

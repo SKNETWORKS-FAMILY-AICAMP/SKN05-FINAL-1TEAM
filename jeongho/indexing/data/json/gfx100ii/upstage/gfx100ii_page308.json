@@ -1,0 +1,266 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<h1 id='0' style='font-size:20px'>Choose Camera</h1>\n<br><p id='1' data-category='paragraph' style='font-size:18px'>The views through the lenses of the connected cameras are<br>shown in a thumbnail list. Click or tap a thumbnail to select a<br>camera to control.</p>\n<p id='2' data-category='paragraph' style='font-size:14px'>2</p>\n<figure id='3'><img style='font-size:14px' alt=\"1 06h48m 2 3 06h48m 4\n1\n+ +\nR R\ncmm 0000 □□□ 000\" data-coord=\"top-left:(566,891); bottom-right:(2125,1308)\" /></figure>\n<br><p id='4' data-category='paragraph' style='font-size:16px'>4 3</p>\n<table id='5' style='font-size:18px'><tr><td>Setting</td><td>Description</td></tr><tr><td>① Recording time available</td><td>The remaining recording time. When the time remaining grows short, the thumbnail will flash and the recording time will be displayed in red.</td></tr><tr><td>2 Card slot options</td><td>Camera storage settings. The icon for the current slot is shown in orange. The display turns red if the camera is unable to record to the current card.</td></tr><tr><td>3 Battery level</td><td>The battery level. The thumbnail will flash when the battery runs low.</td></tr><tr><td>4 Thumbnail frame</td><td>A frame appears around the thumbnail for the current camera. Regardless of whether they are currently selected, cameras that are currently recording are highlighted in red or, during high-speed recording, in green.</td></tr></table>\n<br><header id='6' style='font-size:22px'>Network/USB<br>Setting<br>Menus</header>\n<header id='7' style='font-size:16px'>8</header>\n<footer id='8' style='font-size:20px'>308</footer>",
+        "markdown": "# Choose Camera\n\nThe views through the lenses of the connected cameras are\nshown in a thumbnail list. Click or tap a thumbnail to select a\ncamera to control.\n\n2\n\n![image](/image/placeholder)\n1 06h48m 2 3 06h48m 4\n1\n+ +\nR R\ncmm 0000 □□□ 000\n\n4 3\n\n| Setting | Description |\n| --- | --- |\n| ① Recording time available | The remaining recording time. When the time remaining grows short, the thumbnail will flash and the recording time will be displayed in red. |\n| 2 Card slot options | Camera storage settings. The icon for the current slot is shown in orange. The display turns red if the camera is unable to record to the current card. |\n| 3 Battery level | The battery level. The thumbnail will flash when the battery runs low. |\n| 4 Thumbnail frame | A frame appears around the thumbnail for the current camera. Regardless of whether they are currently selected, cameras that are currently recording are highlighted in red or, during high-speed recording, in green. |\n\n\nNetwork/USB\nSetting\nMenus\n\n8\n\n308",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='0' style='font-size:20px'>Choose Camera</h1>",
+                "markdown": "# Choose Camera",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.095,
+                    "y": 0.0736
+                },
+                {
+                    "x": 0.2938,
+                    "y": 0.0736
+                },
+                {
+                    "x": 0.2938,
+                    "y": 0.0974
+                },
+                {
+                    "x": 0.095,
+                    "y": 0.0974
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='1' data-category='paragraph' style='font-size:18px'>The views through the lenses of the connected cameras are<br>shown in a thumbnail list. Click or tap a thumbnail to select a<br>camera to control.</p>",
+                "markdown": "The views through the lenses of the connected cameras are\nshown in a thumbnail list. Click or tap a thumbnail to select a\ncamera to control.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0804,
+                    "y": 0.1037
+                },
+                {
+                    "x": 0.8952,
+                    "y": 0.1037
+                },
+                {
+                    "x": 0.8952,
+                    "y": 0.1795
+                },
+                {
+                    "x": 0.0804,
+                    "y": 0.1795
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='2' data-category='paragraph' style='font-size:14px'>2</p>",
+                "markdown": "2",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.3482,
+                    "y": 0.1955
+                },
+                {
+                    "x": 0.3643,
+                    "y": 0.1955
+                },
+                {
+                    "x": 0.3643,
+                    "y": 0.2085
+                },
+                {
+                    "x": 0.3482,
+                    "y": 0.2085
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "figure",
+            "content": {
+                "html": "<figure id='3'><img style='font-size:14px' alt=\"1 06h48m 2 3 06h48m 4\n1\n+ +\nR R\ncmm 0000 □□□ 000\" data-coord=\"top-left:(566,891); bottom-right:(2125,1308)\" /></figure>",
+                "markdown": "![image](/image/placeholder)\n1 06h48m 2 3 06h48m 4\n1\n+ +\nR R\ncmm 0000 □□□ 000",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.2051,
+                    "y": 0.2287
+                },
+                {
+                    "x": 0.7691,
+                    "y": 0.2287
+                },
+                {
+                    "x": 0.7691,
+                    "y": 0.3357
+                },
+                {
+                    "x": 0.2051,
+                    "y": 0.3357
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='4' data-category='paragraph' style='font-size:16px'>4 3</p>",
+                "markdown": "4 3",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.2228,
+                    "y": 0.339
+                },
+                {
+                    "x": 0.3079,
+                    "y": 0.339
+                },
+                {
+                    "x": 0.3079,
+                    "y": 0.354
+                },
+                {
+                    "x": 0.2228,
+                    "y": 0.354
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='5' style='font-size:18px'><tr><td>Setting</td><td>Description</td></tr><tr><td>① Recording time available</td><td>The remaining recording time. When the time remaining grows short, the thumbnail will flash and the recording time will be displayed in red.</td></tr><tr><td>2 Card slot options</td><td>Camera storage settings. The icon for the current slot is shown in orange. The display turns red if the camera is unable to record to the current card.</td></tr><tr><td>3 Battery level</td><td>The battery level. The thumbnail will flash when the battery runs low.</td></tr><tr><td>4 Thumbnail frame</td><td>A frame appears around the thumbnail for the current camera. Regardless of whether they are currently selected, cameras that are currently recording are highlighted in red or, during high-speed recording, in green.</td></tr></table>",
+                "markdown": "| Setting | Description |\n| --- | --- |\n| ① Recording time available | The remaining recording time. When the time remaining grows short, the thumbnail will flash and the recording time will be displayed in red. |\n| 2 Card slot options | Camera storage settings. The icon for the current slot is shown in orange. The display turns red if the camera is unable to record to the current card. |\n| 3 Battery level | The battery level. The thumbnail will flash when the battery runs low. |\n| 4 Thumbnail frame | A frame appears around the thumbnail for the current camera. Regardless of whether they are currently selected, cameras that are currently recording are highlighted in red or, during high-speed recording, in green. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0872,
+                    "y": 0.3882
+                },
+                {
+                    "x": 0.8922,
+                    "y": 0.3882
+                },
+                {
+                    "x": 0.8922,
+                    "y": 0.7517
+                },
+                {
+                    "x": 0.0872,
+                    "y": 0.7517
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "header",
+            "content": {
+                "html": "<br><header id='6' style='font-size:22px'>Network/USB<br>Setting<br>Menus</header>",
+                "markdown": "Network/USB\nSetting\nMenus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0182,
+                    "y": 0.4282
+                },
+                {
+                    "x": 0.0406,
+                    "y": 0.4282
+                },
+                {
+                    "x": 0.0406,
+                    "y": 0.6361
+                },
+                {
+                    "x": 0.0182,
+                    "y": 0.6361
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='7' style='font-size:16px'>8</header>",
+                "markdown": "8",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0257,
+                    "y": 0.657
+                },
+                {
+                    "x": 0.0437,
+                    "y": 0.657
+                },
+                {
+                    "x": 0.0437,
+                    "y": 0.6777
+                },
+                {
+                    "x": 0.0257,
+                    "y": 0.6777
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='8' style='font-size:20px'>308</footer>",
+                "markdown": "308",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0833,
+                    "y": 0.9565
+                },
+                {
+                    "x": 0.1398,
+                    "y": 0.9565
+                },
+                {
+                    "x": 0.1398,
+                    "y": 0.9795
+                },
+                {
+                    "x": 0.0833,
+                    "y": 0.9795
+                }
+            ],
+            "id": 8,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

@@ -1,0 +1,144 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "\n# Network/USB Setting Menus\n\n## IMAGE TRANSFER WHILE POWER OFF\nIf **ON** is selected, upload of pictures to the FTP server will continue while the camera is off.\n\n| Options |        |\n|---------|--------|\n| ON      | OFF    |\n\n## FTP POWER SAVING\nIf **ON** is selected, the network feature will turn off to save power when the upload of all pictures currently marked for transfer is complete. Marking additional pictures for upload turns the network feature on again.\n\n| Options |        |\n|---------|--------|\n| ON      | OFF    |\n\n## ROOT CERTIFICATE\nCopy a unique root certificate to the camera for use when FTPS is selected for FTP SERVER TYPE.\n\n| Option                  | Description                                           |\n|-------------------------|-------------------------------------------------------|\n| LOAD FROM MEMORY CARD   | Copy the root certificate from the camera memory card.|\n| DELETE                  | Delete the current root certificate.                  |\n\n> 💡 **Note:**  \n> FTP upload and Frame.io Camera to Cloud > UPLOAD SETTING > ROOT CERTIFICATE use the same root certificate. Changing one changes the other.\n\n## RESET FTP TRANSFER ORDER\nRemove upload marking from all pictures selected for upload to the FTP server in the current connection setting profile.\n",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "Network/USB Setting Menus",
+                    "md": "# Network/USB Setting Menus"
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "IMAGE TRANSFER WHILE POWER OFF",
+                    "md": "## IMAGE TRANSFER WHILE POWER OFF"
+                },
+                {
+                    "type": "text",
+                    "value": "If **ON** is selected, upload of pictures to the FTP server will continue while the camera is off.",
+                    "md": "If **ON** is selected, upload of pictures to the FTP server will continue while the camera is off."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Options",
+                            ""
+                        ],
+                        [
+                            "ON",
+                            "OFF"
+                        ]
+                    ],
+                    "md": "| Options |        |\n|---------|--------|\n| ON      | OFF    |",
+                    "isPerfectTable": true,
+                    "csv": "\"Options\",\"\"\n\"ON\",\"OFF\""
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "FTP POWER SAVING",
+                    "md": "## FTP POWER SAVING"
+                },
+                {
+                    "type": "text",
+                    "value": "If **ON** is selected, the network feature will turn off to save power when the upload of all pictures currently marked for transfer is complete. Marking additional pictures for upload turns the network feature on again.",
+                    "md": "If **ON** is selected, the network feature will turn off to save power when the upload of all pictures currently marked for transfer is complete. Marking additional pictures for upload turns the network feature on again."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Options",
+                            ""
+                        ],
+                        [
+                            "ON",
+                            "OFF"
+                        ]
+                    ],
+                    "md": "| Options |        |\n|---------|--------|\n| ON      | OFF    |",
+                    "isPerfectTable": true,
+                    "csv": "\"Options\",\"\"\n\"ON\",\"OFF\""
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "ROOT CERTIFICATE",
+                    "md": "## ROOT CERTIFICATE"
+                },
+                {
+                    "type": "text",
+                    "value": "Copy a unique root certificate to the camera for use when FTPS is selected for FTP SERVER TYPE.",
+                    "md": "Copy a unique root certificate to the camera for use when FTPS is selected for FTP SERVER TYPE."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Option",
+                            "Description"
+                        ],
+                        [
+                            "LOAD FROM MEMORY CARD",
+                            "Copy the root certificate from the camera memory card."
+                        ],
+                        [
+                            "DELETE",
+                            "Delete the current root certificate."
+                        ]
+                    ],
+                    "md": "| Option                  | Description                                           |\n|-------------------------|-------------------------------------------------------|\n| LOAD FROM MEMORY CARD   | Copy the root certificate from the camera memory card.|\n| DELETE                  | Delete the current root certificate.                  |",
+                    "isPerfectTable": true,
+                    "csv": "\"Option\",\"Description\"\n\"LOAD FROM MEMORY CARD\",\"Copy the root certificate from the camera memory card.\"\n\"DELETE\",\"Delete the current root certificate.\""
+                },
+                {
+                    "type": "text",
+                    "value": "> 💡 **Note:**  \n> FTP upload and Frame.io Camera to Cloud > UPLOAD SETTING > ROOT CERTIFICATE use the same root certificate. Changing one changes the other.",
+                    "md": "> 💡 **Note:**  \n> FTP upload and Frame.io Camera to Cloud > UPLOAD SETTING > ROOT CERTIFICATE use the same root certificate. Changing one changes the other."
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "RESET FTP TRANSFER ORDER",
+                    "md": "## RESET FTP TRANSFER ORDER"
+                },
+                {
+                    "type": "text",
+                    "value": "Remove upload marking from all pictures selected for upload to the FTP server in the current connection setting profile.",
+                    "md": "Remove upload marking from all pictures selected for upload to the FTP server in the current connection setting profile."
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 116.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "a13bb677-2b61-46d9-b1c3-6905d4730b9c",
+    "file_path": "../data/raw_data/gfx100ii/gfx100ii_split/gfx100ii_page355.pdf"
+}

@@ -1,0 +1,294 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<h1 id='0' style='font-size:14px'>DATA LEVEL SETTING</h1>\n<br><h1 id='1' style='font-size:20px'>Choose a signal range for movie recording.</h1>\n<table id='2' style='font-size:14px'><tr><td>Option</td><td>Description</td></tr><tr><td>VIDEO RANGE</td><td>The signal range for 8-bit movies is limited to 16-235 and that for 10-bit movies to 64-940.</td></tr><tr><td>FULL RANGE</td><td>The signal ranges for 8-bit and 10-bit movies are respectively 0-255 and 0-1023.</td></tr></table>\n<p id='3' data-category='paragraph' style='font-size:16px'>PHOTOMETRY</p>\n<br><p id='4' data-category='paragraph' style='font-size:18px'>Options are the same as those for still photography, but settings<br>must be adjusted separately ( = 106).</p>\n<p id='5' data-category='paragraph' style='font-size:16px'>FLICKERLESS S.S. SETTING</p>\n\n<br><table id='7' style='font-size:14px'><tr><td rowspan=\"2\" colspan=\"2\">Options</td></tr><tr></tr><tr><td>ON</td><td>OFF</td></tr><br><caption id='6' style='font-size:20px'>Options are the same as those for still photography, but settings<br>must be adjusted separately (  176).</caption></table>\n<header id='8' style='font-size:22px'>The<br>Shooting<br>Menus</header>\n<footer id='9' style='font-size:20px'>196</footer>",
+        "markdown": "# DATA LEVEL SETTING\n\n# Choose a signal range for movie recording.\n\n| Option | Description |\n| --- | --- |\n| VIDEO RANGE | The signal range for 8-bit movies is limited to 16-235 and that for 10-bit movies to 64-940. |\n| FULL RANGE | The signal ranges for 8-bit and 10-bit movies are respectively 0-255 and 0-1023. |\n\n\nPHOTOMETRY\n\nOptions are the same as those for still photography, but settings\nmust be adjusted separately ( = 106).\n\nFLICKERLESS S.S. SETTING\n\nOptions are the same as those for still photography, but settings\nmust be adjusted separately (  176).\n\n| Options | Options |\n| --- | --- |\n| Options | Options |\n| ON | OFF |\n\n\nThe\nShooting\nMenus\n\n196",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='0' style='font-size:14px'>DATA LEVEL SETTING</h1>",
+                "markdown": "# DATA LEVEL SETTING",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0823,
+                    "y": 0.073
+                },
+                {
+                    "x": 0.3729,
+                    "y": 0.073
+                },
+                {
+                    "x": 0.3729,
+                    "y": 0.0947
+                },
+                {
+                    "x": 0.0823,
+                    "y": 0.0947
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='1' style='font-size:20px'>Choose a signal range for movie recording.</h1>",
+                "markdown": "# Choose a signal range for movie recording.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0813,
+                    "y": 0.104
+                },
+                {
+                    "x": 0.6226,
+                    "y": 0.104
+                },
+                {
+                    "x": 0.6226,
+                    "y": 0.129
+                },
+                {
+                    "x": 0.0813,
+                    "y": 0.129
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='2' style='font-size:14px'><tr><td>Option</td><td>Description</td></tr><tr><td>VIDEO RANGE</td><td>The signal range for 8-bit movies is limited to 16-235 and that for 10-bit movies to 64-940.</td></tr><tr><td>FULL RANGE</td><td>The signal ranges for 8-bit and 10-bit movies are respectively 0-255 and 0-1023.</td></tr></table>",
+                "markdown": "| Option | Description |\n| --- | --- |\n| VIDEO RANGE | The signal range for 8-bit movies is limited to 16-235 and that for 10-bit movies to 64-940. |\n| FULL RANGE | The signal ranges for 8-bit and 10-bit movies are respectively 0-255 and 0-1023. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0854,
+                    "y": 0.1412
+                },
+                {
+                    "x": 0.8933,
+                    "y": 0.1412
+                },
+                {
+                    "x": 0.8933,
+                    "y": 0.26
+                },
+                {
+                    "x": 0.0854,
+                    "y": 0.26
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='3' data-category='paragraph' style='font-size:16px'>PHOTOMETRY</p>",
+                "markdown": "PHOTOMETRY",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0829,
+                    "y": 0.2782
+                },
+                {
+                    "x": 0.3185,
+                    "y": 0.2782
+                },
+                {
+                    "x": 0.3185,
+                    "y": 0.3014
+                },
+                {
+                    "x": 0.0829,
+                    "y": 0.3014
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='4' data-category='paragraph' style='font-size:18px'>Options are the same as those for still photography, but settings<br>must be adjusted separately ( = 106).</p>",
+                "markdown": "Options are the same as those for still photography, but settings\nmust be adjusted separately ( = 106).",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0805,
+                    "y": 0.3095
+                },
+                {
+                    "x": 0.8923,
+                    "y": 0.3095
+                },
+                {
+                    "x": 0.8923,
+                    "y": 0.3621
+                },
+                {
+                    "x": 0.0805,
+                    "y": 0.3621
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='5' data-category='paragraph' style='font-size:16px'>FLICKERLESS S.S. SETTING</p>",
+                "markdown": "FLICKERLESS S.S. SETTING",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0825,
+                    "y": 0.3815
+                },
+                {
+                    "x": 0.4798,
+                    "y": 0.3815
+                },
+                {
+                    "x": 0.4798,
+                    "y": 0.4044
+                },
+                {
+                    "x": 0.0825,
+                    "y": 0.4044
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='6' data-category='paragraph' style='font-size:20px'>Options are the same as those for still photography, but settings<br>must be adjusted separately (  176).</p>",
+                "markdown": "Options are the same as those for still photography, but settings\nmust be adjusted separately (  176).",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0808,
+                    "y": 0.4135
+                },
+                {
+                    "x": 0.8912,
+                    "y": 0.4135
+                },
+                {
+                    "x": 0.8912,
+                    "y": 0.4646
+                },
+                {
+                    "x": 0.0808,
+                    "y": 0.4646
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='7' style='font-size:14px'><tr><td rowspan=\"2\" colspan=\"2\">Options</td></tr><tr></tr><tr><td>ON</td><td>OFF</td></tr></table>",
+                "markdown": "| Options | Options |\n| --- | --- |\n| Options | Options |\n| ON | OFF |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1362,
+                    "y": 0.4771
+                },
+                {
+                    "x": 0.8895,
+                    "y": 0.4771
+                },
+                {
+                    "x": 0.8895,
+                    "y": 0.5308
+                },
+                {
+                    "x": 0.1362,
+                    "y": 0.5308
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='8' style='font-size:22px'>The<br>Shooting<br>Menus</header>",
+                "markdown": "The\nShooting\nMenus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0158,
+                    "y": 0.5779
+                },
+                {
+                    "x": 0.043,
+                    "y": 0.5779
+                },
+                {
+                    "x": 0.043,
+                    "y": 0.7311
+                },
+                {
+                    "x": 0.0158,
+                    "y": 0.7311
+                }
+            ],
+            "id": 8,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='9' style='font-size:20px'>196</footer>",
+                "markdown": "196",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0852,
+                    "y": 0.9566
+                },
+                {
+                    "x": 0.1404,
+                    "y": 0.9566
+                },
+                {
+                    "x": 0.1404,
+                    "y": 0.9794
+                },
+                {
+                    "x": 0.0852,
+                    "y": 0.9794
+                }
+            ],
+            "id": 9,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

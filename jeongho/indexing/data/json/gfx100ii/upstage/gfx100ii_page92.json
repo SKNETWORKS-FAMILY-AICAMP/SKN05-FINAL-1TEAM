@@ -1,0 +1,322 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<h1 id='0' style='font-size:22px'>Autofocus</h1>\n<header id='1' style='font-size:16px'>5</header>\n<br><h1 id='2' style='font-size:20px'>Take pictures using autofocus.</h1>\n\n<br><figure id='4'><img style='font-size:14px' alt=\"mm S\nC\nM\" data-coord=\"top-left:(1673,646); bottom-right:(2464,1138)\" /><figcaption id='3' style='font-size:16px'>1 Rotate the focus mode selector to S<br>or C ( == 93).</figcaption></figure>\n<p id='5' data-category='list' style='font-size:14px'>2 Use AF AF/MF SETTING > AF MODE to choose an AF mode<br>MF<br>(� 95).</p>\n<p id='6' data-category='list' style='font-size:18px'>3 Select AF AF/MF SETTING > FOCUS<br>MF<br>AREA and choose the position and<br>size of the focus frame ( �� 97).</p>\n<br><figure id='7'><img style='font-size:14px' alt=\"mm\nM\" data-coord=\"top-left:(1678,1439); bottom-right:(2477,2029)\" /></figure>\n<p id='8' data-category='paragraph' style='font-size:20px'>4 Take pictures.</p>\n<br><header id='9' style='font-size:22px'>Taking<br>Photographs</header>\n<footer id='10' style='font-size:18px'>92</footer>",
+        "markdown": "# Autofocus\n\n5\n\n# Take pictures using autofocus.\n\n1 Rotate the focus mode selector to S\nor C ( == 93).\n\n![image](/image/placeholder)\nmm S\nC\nM\n\n- 2 Use AF AF/MF SETTING > AF MODE to choose an AF mode\n- MF\n- (� 95).\n\n\n- 3 Select AF AF/MF SETTING > FOCUS\n- MF\n- AREA and choose the position and\n- size of the focus frame ( �� 97).\n\n\n![image](/image/placeholder)\nmm\nM\n\n4 Take pictures.\n\nTaking\nPhotographs\n\n92",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='0' style='font-size:22px'>Autofocus</h1>",
+                "markdown": "# Autofocus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1536,
+                    "y": 0.0736
+                },
+                {
+                    "x": 0.3328,
+                    "y": 0.0736
+                },
+                {
+                    "x": 0.3328,
+                    "y": 0.0993
+                },
+                {
+                    "x": 0.1536,
+                    "y": 0.0993
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='1' style='font-size:16px'>5</header>",
+                "markdown": "5",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0244,
+                    "y": 0.4773
+                },
+                {
+                    "x": 0.0441,
+                    "y": 0.4773
+                },
+                {
+                    "x": 0.0441,
+                    "y": 0.4986
+                },
+                {
+                    "x": 0.0244,
+                    "y": 0.4986
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='2' style='font-size:20px'>Take pictures using autofocus.</h1>",
+                "markdown": "# Take pictures using autofocus.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1518,
+                    "y": 0.1096
+                },
+                {
+                    "x": 0.538,
+                    "y": 0.1096
+                },
+                {
+                    "x": 0.538,
+                    "y": 0.1333
+                },
+                {
+                    "x": 0.1518,
+                    "y": 0.1333
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='3' data-category='paragraph' style='font-size:16px'>1 Rotate the focus mode selector to S<br>or C ( == 93).</p>",
+                "markdown": "1 Rotate the focus mode selector to S\nor C ( == 93).",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.097,
+                    "y": 0.1549
+                },
+                {
+                    "x": 0.6076,
+                    "y": 0.1549
+                },
+                {
+                    "x": 0.6076,
+                    "y": 0.2054
+                },
+                {
+                    "x": 0.097,
+                    "y": 0.2054
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "figure",
+            "content": {
+                "html": "<br><figure id='4'><img style='font-size:14px' alt=\"mm S\nC\nM\" data-coord=\"top-left:(1673,646); bottom-right:(2464,1138)\" /></figure>",
+                "markdown": "![image](/image/placeholder)\nmm S\nC\nM",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6054,
+                    "y": 0.1657
+                },
+                {
+                    "x": 0.8918,
+                    "y": 0.1657
+                },
+                {
+                    "x": 0.8918,
+                    "y": 0.2922
+                },
+                {
+                    "x": 0.6054,
+                    "y": 0.2922
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "list",
+            "content": {
+                "html": "<p id='5' data-category='list' style='font-size:14px'>2 Use AF AF/MF SETTING > AF MODE to choose an AF mode<br>MF<br>(� 95).</p>",
+                "markdown": "- 2 Use AF AF/MF SETTING > AF MODE to choose an AF mode\n- MF\n- (� 95).\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0974,
+                    "y": 0.3128
+                },
+                {
+                    "x": 0.8933,
+                    "y": 0.3128
+                },
+                {
+                    "x": 0.8933,
+                    "y": 0.3627
+                },
+                {
+                    "x": 0.0974,
+                    "y": 0.3627
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "list",
+            "content": {
+                "html": "<p id='6' data-category='list' style='font-size:18px'>3 Select AF AF/MF SETTING > FOCUS<br>MF<br>AREA and choose the position and<br>size of the focus frame ( �� 97).</p>",
+                "markdown": "- 3 Select AF AF/MF SETTING > FOCUS\n- MF\n- AREA and choose the position and\n- size of the focus frame ( �� 97).\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0968,
+                    "y": 0.3705
+                },
+                {
+                    "x": 0.6066,
+                    "y": 0.3705
+                },
+                {
+                    "x": 0.6066,
+                    "y": 0.4463
+                },
+                {
+                    "x": 0.0968,
+                    "y": 0.4463
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "figure",
+            "content": {
+                "html": "<br><figure id='7'><img style='font-size:14px' alt=\"mm\nM\" data-coord=\"top-left:(1678,1439); bottom-right:(2477,2029)\" /></figure>",
+                "markdown": "![image](/image/placeholder)\nmm\nM",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6074,
+                    "y": 0.3693
+                },
+                {
+                    "x": 0.8962,
+                    "y": 0.3693
+                },
+                {
+                    "x": 0.8962,
+                    "y": 0.5206
+                },
+                {
+                    "x": 0.6074,
+                    "y": 0.5206
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='8' data-category='paragraph' style='font-size:20px'>4 Take pictures.</p>",
+                "markdown": "4 Take pictures.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0968,
+                    "y": 0.5366
+                },
+                {
+                    "x": 0.3096,
+                    "y": 0.5366
+                },
+                {
+                    "x": 0.3096,
+                    "y": 0.5609
+                },
+                {
+                    "x": 0.0968,
+                    "y": 0.5609
+                }
+            ],
+            "id": 8,
+            "page": 1
+        },
+        {
+            "category": "header",
+            "content": {
+                "html": "<br><header id='9' style='font-size:22px'>Taking<br>Photographs</header>",
+                "markdown": "Taking\nPhotographs",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.016,
+                    "y": 0.5127
+                },
+                {
+                    "x": 0.0427,
+                    "y": 0.5127
+                },
+                {
+                    "x": 0.0427,
+                    "y": 0.6664
+                },
+                {
+                    "x": 0.016,
+                    "y": 0.6664
+                }
+            ],
+            "id": 9,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='10' style='font-size:18px'>92</footer>",
+                "markdown": "92",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0824,
+                    "y": 0.9562
+                },
+                {
+                    "x": 0.1222,
+                    "y": 0.9562
+                },
+                {
+                    "x": 0.1222,
+                    "y": 0.9793
+                },
+                {
+                    "x": 0.0824,
+                    "y": 0.9793
+                }
+            ],
+            "id": 10,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

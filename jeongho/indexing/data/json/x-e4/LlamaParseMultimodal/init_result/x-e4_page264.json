@@ -1,0 +1,78 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "# CONNECTION MODE\n\nAdjust settings for connection to external devices.\n\n| Option                        | Description                                                                                                                                                                                                 |\n|-------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| **USB CARD READER**           | Connecting the camera to a computer via USB automatically enables data transfer mode, allowing data to be copied to the computer. The camera functions normally when not connected.                         |\n| **X WEBCAM**                  | The camera can be used as a webcam when connected to a computer running FUJIFILM X Webcam.                                                                                                                   |\n| **USB RAW CONV./ BACKUP RESTORE** | Connecting the camera to a computer via USB automatically enables USB RAW conversion/backup restore mode. The camera functions normally when not connected. <br> - **USB RAW CONV. (requires FUJIFILM X RAW STUDIO):** Use the camera’s image processing engine to rapidly convert RAW files to high-quality JPEG images. <br> - **BACKUP RESTORE (requires FUJIFILM X Acquire):** Save and load camera settings. Reconfigure the camera in an instant or share settings with other cameras of the same type. |\n\n> 📘 For information on compatible computer software, see “Software for Use with Your Camera” (page 301).",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "CONNECTION MODE",
+                    "md": "# CONNECTION MODE"
+                },
+                {
+                    "type": "text",
+                    "value": "Adjust settings for connection to external devices.",
+                    "md": "Adjust settings for connection to external devices."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Option",
+                            "Description"
+                        ],
+                        [
+                            "**USB CARD READER**",
+                            "Connecting the camera to a computer via USB automatically enables data transfer mode, allowing data to be copied to the computer. The camera functions normally when not connected."
+                        ],
+                        [
+                            "**X WEBCAM**",
+                            "The camera can be used as a webcam when connected to a computer running FUJIFILM X Webcam."
+                        ],
+                        [
+                            "**USB RAW CONV./ BACKUP RESTORE**",
+                            "Connecting the camera to a computer via USB automatically enables USB RAW conversion/backup restore mode. The camera functions normally when not connected. <br> - **USB RAW CONV. (requires FUJIFILM X RAW STUDIO):** Use the camera’s image processing engine to rapidly convert RAW files to high-quality JPEG images. <br> - **BACKUP RESTORE (requires FUJIFILM X Acquire):** Save and load camera settings. Reconfigure the camera in an instant or share settings with other cameras of the same type."
+                        ]
+                    ],
+                    "md": "| Option                        | Description                                                                                                                                                                                                 |\n|-------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| **USB CARD READER**           | Connecting the camera to a computer via USB automatically enables data transfer mode, allowing data to be copied to the computer. The camera functions normally when not connected.                         |\n| **X WEBCAM**                  | The camera can be used as a webcam when connected to a computer running FUJIFILM X Webcam.                                                                                                                   |\n| **USB RAW CONV./ BACKUP RESTORE** | Connecting the camera to a computer via USB automatically enables USB RAW conversion/backup restore mode. The camera functions normally when not connected. <br> - **USB RAW CONV. (requires FUJIFILM X RAW STUDIO):** Use the camera’s image processing engine to rapidly convert RAW files to high-quality JPEG images. <br> - **BACKUP RESTORE (requires FUJIFILM X Acquire):** Save and load camera settings. Reconfigure the camera in an instant or share settings with other cameras of the same type. |",
+                    "isPerfectTable": true,
+                    "csv": "\"Option\",\"Description\"\n\"**USB CARD READER**\",\"Connecting the camera to a computer via USB automatically enables data transfer mode, allowing data to be copied to the computer. The camera functions normally when not connected.\"\n\"**X WEBCAM**\",\"The camera can be used as a webcam when connected to a computer running FUJIFILM X Webcam.\"\n\"**USB RAW CONV./ BACKUP RESTORE**\",\"Connecting the camera to a computer via USB automatically enables USB RAW conversion/backup restore mode. The camera functions normally when not connected. <br> - **USB RAW CONV. (requires FUJIFILM X RAW STUDIO):** Use the camera’s image processing engine to rapidly convert RAW files to high-quality JPEG images. <br> - **BACKUP RESTORE (requires FUJIFILM X Acquire):** Save and load camera settings. Reconfigure the camera in an instant or share settings with other cameras of the same type.\""
+                },
+                {
+                    "type": "text",
+                    "value": "> 📘 For information on compatible computer software, see “Software for Use with Your Camera” (page 301).",
+                    "md": "> 📘 For information on compatible computer software, see “Software for Use with Your Camera” (page 301)."
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "parsingMode": "multimodal-openai-gpt4o",
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 81.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "16202c38-9f75-45e7-a2da-c6ea39e3d4e0",
+    "file_path": "../data/raw_data/x-e4/x-e4_split/x-e4_page264.pdf"
+}

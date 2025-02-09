@@ -1,0 +1,80 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "\n# DUAL DISPLAY SETTING\n\nChoose the content of the two windows in the dual display.\n\n| Option           | Description                                                                                           |\n|------------------|-------------------------------------------------------------------------------------------------------|\n| R:FOCUS L:FRAME  | The right (small) window shows a close-up of the focus area, while the left (large) window shows the entire frame. |\n| R:FRAME L:FOCUS  | The right (small) window shows the entire frame, while the left (large) window shows a close-up of the focus area. |\n\n# DISP. CUSTOM SETTING\n\nChoose the items shown in the standard indicator display (📖 21).\n",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "DUAL DISPLAY SETTING",
+                    "md": "# DUAL DISPLAY SETTING"
+                },
+                {
+                    "type": "text",
+                    "value": "Choose the content of the two windows in the dual display.",
+                    "md": "Choose the content of the two windows in the dual display."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Option",
+                            "Description"
+                        ],
+                        [
+                            "R:FOCUS L:FRAME",
+                            "The right (small) window shows a close-up of the focus area, while the left (large) window shows the entire frame."
+                        ],
+                        [
+                            "R:FRAME L:FOCUS",
+                            "The right (small) window shows the entire frame, while the left (large) window shows a close-up of the focus area."
+                        ]
+                    ],
+                    "md": "| Option           | Description                                                                                           |\n|------------------|-------------------------------------------------------------------------------------------------------|\n| R:FOCUS L:FRAME  | The right (small) window shows a close-up of the focus area, while the left (large) window shows the entire frame. |\n| R:FRAME L:FOCUS  | The right (small) window shows the entire frame, while the left (large) window shows a close-up of the focus area. |",
+                    "isPerfectTable": true,
+                    "csv": "\"Option\",\"Description\"\n\"R:FOCUS L:FRAME\",\"The right (small) window shows a close-up of the focus area, while the left (large) window shows the entire frame.\"\n\"R:FRAME L:FOCUS\",\"The right (small) window shows the entire frame, while the left (large) window shows a close-up of the focus area.\""
+                },
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "DISP. CUSTOM SETTING",
+                    "md": "# DISP. CUSTOM SETTING"
+                },
+                {
+                    "type": "text",
+                    "value": "Choose the items shown in the standard indicator display (📖 21).",
+                    "md": "Choose the items shown in the standard indicator display (📖 21)."
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "parsingMode": "multimodal-openai-gpt4o",
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 413.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "c549b6c8-d0a6-45b5-a661-ba18c36455c1",
+    "file_path": "../data/raw_data/x-t5/x-t5_split/x-t5_page316.pdf"
+}

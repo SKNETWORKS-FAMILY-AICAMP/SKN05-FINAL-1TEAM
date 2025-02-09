@@ -1,0 +1,158 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "# SELECT FILE TYPE\n\nChoose the types of files uploaded to Frame.io. You can select or deselect each file type individually.\n\n| Options       |\n|---------------|\n| MOV - PROXY   |\n| MOV - ProRes  |\n| OTHER MOV/MP4 |\n| JPEG          |\n| RAW           |\n| HEIF          |\n| TIFF          |\n\n# UPLOAD SETTING\n\nAdjust Frame.io upload settings.\n\n## SELECT IMAGE & TRANSFER\n\nMark picture for upload.\n\n## AUTO IMAGE TRANSFER ORDER\n\nSelect **ON** to automatically mark photos and movies for upload as they are taken.\n\n| Options |\n|---------|\n| ON      |\n| OFF     |\n\n## TRANSFER/SUSPEND\n\nPause or resume upload to Frame.io.\n\n| Options  |\n|----------|\n| TRANSFER |\n| SUSPEND  |",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "SELECT FILE TYPE",
+                    "md": "# SELECT FILE TYPE"
+                },
+                {
+                    "type": "text",
+                    "value": "Choose the types of files uploaded to Frame.io. You can select or deselect each file type individually.",
+                    "md": "Choose the types of files uploaded to Frame.io. You can select or deselect each file type individually."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Options"
+                        ],
+                        [
+                            "MOV - PROXY"
+                        ],
+                        [
+                            "MOV - ProRes"
+                        ],
+                        [
+                            "OTHER MOV/MP4"
+                        ],
+                        [
+                            "JPEG"
+                        ],
+                        [
+                            "RAW"
+                        ],
+                        [
+                            "HEIF"
+                        ],
+                        [
+                            "TIFF"
+                        ]
+                    ],
+                    "md": "| Options       |\n|---------------|\n| MOV - PROXY   |\n| MOV - ProRes  |\n| OTHER MOV/MP4 |\n| JPEG          |\n| RAW           |\n| HEIF          |\n| TIFF          |",
+                    "isPerfectTable": true,
+                    "csv": "\"Options\"\n\"MOV - PROXY\"\n\"MOV - ProRes\"\n\"OTHER MOV/MP4\"\n\"JPEG\"\n\"RAW\"\n\"HEIF\"\n\"TIFF\""
+                },
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "UPLOAD SETTING",
+                    "md": "# UPLOAD SETTING"
+                },
+                {
+                    "type": "text",
+                    "value": "Adjust Frame.io upload settings.",
+                    "md": "Adjust Frame.io upload settings."
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "SELECT IMAGE & TRANSFER",
+                    "md": "## SELECT IMAGE & TRANSFER"
+                },
+                {
+                    "type": "text",
+                    "value": "Mark picture for upload.",
+                    "md": "Mark picture for upload."
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "AUTO IMAGE TRANSFER ORDER",
+                    "md": "## AUTO IMAGE TRANSFER ORDER"
+                },
+                {
+                    "type": "text",
+                    "value": "Select **ON** to automatically mark photos and movies for upload as they are taken.",
+                    "md": "Select **ON** to automatically mark photos and movies for upload as they are taken."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Options"
+                        ],
+                        [
+                            "ON"
+                        ],
+                        [
+                            "OFF"
+                        ]
+                    ],
+                    "md": "| Options |\n|---------|\n| ON      |\n| OFF     |",
+                    "isPerfectTable": true,
+                    "csv": "\"Options\"\n\"ON\"\n\"OFF\""
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "TRANSFER/SUSPEND",
+                    "md": "## TRANSFER/SUSPEND"
+                },
+                {
+                    "type": "text",
+                    "value": "Pause or resume upload to Frame.io.",
+                    "md": "Pause or resume upload to Frame.io."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Options"
+                        ],
+                        [
+                            "TRANSFER"
+                        ],
+                        [
+                            "SUSPEND"
+                        ]
+                    ],
+                    "md": "| Options  |\n|----------|\n| TRANSFER |\n| SUSPEND  |",
+                    "isPerfectTable": true,
+                    "csv": "\"Options\"\n\"TRANSFER\"\n\"SUSPEND\""
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 457.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "ba911c55-ce79-4111-ab2a-2972c699957f",
+    "file_path": "../data/raw_data/gfx100ii/gfx100ii_split/gfx100ii_page352.pdf"
+}

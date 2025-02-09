@@ -1,0 +1,49 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "\n# CROP\n\nCreate a cropped copy of the current picture.\n\n1. Display the desired picture.\n2. Select **CROP** in the playback menu.\n3. Use the front command dial to zoom in and out and press the focus stick (focus lever) up, down, left, or right to scroll the picture until the desired portion is displayed.\n4. Press **MENU/OK** to display a confirmation dialog.\n5. Press **MENU/OK** again to save the cropped copy to a separate file.\n\n> 💡 **Note:**\n> - The higher the zoom ratio, the smaller the number of pixels in the cropped copy.\n> - If the size of the final copy will be 640, **YES** will be displayed in yellow.\n> - All copies have an aspect ratio of 3:2.\n",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "CROP",
+                    "md": "# CROP"
+                },
+                {
+                    "type": "text",
+                    "value": "Create a cropped copy of the current picture.\n\n1. Display the desired picture.\n2. Select **CROP** in the playback menu.\n3. Use the front command dial to zoom in and out and press the focus stick (focus lever) up, down, left, or right to scroll the picture until the desired portion is displayed.\n4. Press **MENU/OK** to display a confirmation dialog.\n5. Press **MENU/OK** again to save the cropped copy to a separate file.\n\n> 💡 **Note:**\n> - The higher the zoom ratio, the smaller the number of pixels in the cropped copy.\n> - If the size of the final copy will be 640, **YES** will be displayed in yellow.\n> - All copies have an aspect ratio of 3:2.",
+                    "md": "Create a cropped copy of the current picture.\n\n1. Display the desired picture.\n2. Select **CROP** in the playback menu.\n3. Use the front command dial to zoom in and out and press the focus stick (focus lever) up, down, left, or right to scroll the picture until the desired portion is displayed.\n4. Press **MENU/OK** to display a confirmation dialog.\n5. Press **MENU/OK** again to save the cropped copy to a separate file.\n\n> 💡 **Note:**\n> - The higher the zoom ratio, the smaller the number of pixels in the cropped copy.\n> - If the size of the final copy will be 640, **YES** will be displayed in yellow.\n> - All copies have an aspect ratio of 3:2."
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "parsingMode": "multimodal-openai-gpt4o",
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 293.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "220dee8a-0bc4-4bff-bae6-9d76d80285c7",
+    "file_path": "../data/raw_data/x-e4/x-e4_split/x-e4_page216.pdf"
+}

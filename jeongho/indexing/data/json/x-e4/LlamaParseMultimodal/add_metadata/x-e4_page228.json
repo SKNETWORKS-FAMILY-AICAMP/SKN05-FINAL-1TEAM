@@ -1,0 +1,8 @@
+{
+    "parsing_result": "\n# SHOOT WITHOUT CARD\n\nChoose whether the shutter can be released without a memory card inserted in the camera.\n\n| Option | Description |\n|--------|-------------|\n| ON     | When no memory card is inserted, the shutter can be released to test camera function and the shooting and setup menus can be displayed. |\n| OFF    | The shutter is disabled if no memory card is inserted, preventing accidental loss of pictures taken without a memory card. |\n\n# FOCUS RING\n\nChoose the direction in which the focus ring is rotated to increase the focus distance.\n\n| Options | \n|---------|\n| ↻ CW (clockwise) |\n| ↺ CCW (counterclockwise) |\n\n# FOCUS RING OPERATION\n\nChoose how the camera adjusts focus in response to the movement of the focus ring.\n\n| Option    | Description |\n|-----------|-------------|\n| NONLINEAR | Focus is adjusted at the same rate as the ring is rotated. |\n| LINEAR    | Focus is adjusted linearly according to the amount the ring is rotated, but the focusing speed is unaffected by the speed the ring is rotated. |\n",
+    "embedding_result": [],
+    "metadata": {
+        "page": 228,
+        "model": "x-e4"
+    }
+}

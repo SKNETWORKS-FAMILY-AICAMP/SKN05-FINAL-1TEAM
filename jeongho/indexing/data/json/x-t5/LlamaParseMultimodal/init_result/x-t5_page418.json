@@ -1,0 +1,90 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "\n| Warning            | Description                                                                                                                                                      |\n|--------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| READ ERROR         | - The file is corrupt or was not created with the camera: The file cannot be viewed.                                                                             |\n|                    | - The memory card contacts require cleaning: Clean the contacts with a soft, dry cloth. If the message is repeated, format the card. If the message persists, replace the card. |\n|                    | - Camera malfunction: Contact a Fujifilm dealer.                                                                                                                 |\n| PROTECTED FRAME    | An attempt was made to delete or rotate a protected picture. Remove protection and try again.                                                                    |\n| CAN NOT CROP       | The picture is damaged or was not created with the camera.                                                                                                       |\n| DPOF FILE ERROR    | Print orders can contain no more than 999 pictures. Copy any additional pictures you wish to print to another memory card and create a second print order.        |\n| CAN NOT SET DPOF   | The picture cannot be printed using DPOF.                                                                                                                        |\n| !Icon CAN NOT SET DPOF | Movies cannot be printed using DPOF.                                                                                                                     |\n| CAN NOT ROTATE     | The selected picture cannot be rotated.                                                                                                                          |\n| !Icon CAN NOT ROTATE   | Movies cannot be rotated.                                                                                                                                  |\n",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Warning",
+                            "Description"
+                        ],
+                        [
+                            "READ ERROR",
+                            "- The file is corrupt or was not created with the camera: The file cannot be viewed."
+                        ],
+                        [
+                            "",
+                            "- The memory card contacts require cleaning: Clean the contacts with a soft, dry cloth. If the message is repeated, format the card. If the message persists, replace the card."
+                        ],
+                        [
+                            "",
+                            "- Camera malfunction: Contact a Fujifilm dealer."
+                        ],
+                        [
+                            "PROTECTED FRAME",
+                            "An attempt was made to delete or rotate a protected picture. Remove protection and try again."
+                        ],
+                        [
+                            "CAN NOT CROP",
+                            "The picture is damaged or was not created with the camera."
+                        ],
+                        [
+                            "DPOF FILE ERROR",
+                            "Print orders can contain no more than 999 pictures. Copy any additional pictures you wish to print to another memory card and create a second print order."
+                        ],
+                        [
+                            "CAN NOT SET DPOF",
+                            "The picture cannot be printed using DPOF."
+                        ],
+                        [
+                            "!Icon CAN NOT SET DPOF",
+                            "Movies cannot be printed using DPOF."
+                        ],
+                        [
+                            "CAN NOT ROTATE",
+                            "The selected picture cannot be rotated."
+                        ],
+                        [
+                            "!Icon CAN NOT ROTATE",
+                            "Movies cannot be rotated."
+                        ]
+                    ],
+                    "md": "| Warning            | Description                                                                                                                                                      |\n|--------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| READ ERROR         | - The file is corrupt or was not created with the camera: The file cannot be viewed.                                                                             |\n|                    | - The memory card contacts require cleaning: Clean the contacts with a soft, dry cloth. If the message is repeated, format the card. If the message persists, replace the card. |\n|                    | - Camera malfunction: Contact a Fujifilm dealer.                                                                                                                 |\n| PROTECTED FRAME    | An attempt was made to delete or rotate a protected picture. Remove protection and try again.                                                                    |\n| CAN NOT CROP       | The picture is damaged or was not created with the camera.                                                                                                       |\n| DPOF FILE ERROR    | Print orders can contain no more than 999 pictures. Copy any additional pictures you wish to print to another memory card and create a second print order.        |\n| CAN NOT SET DPOF   | The picture cannot be printed using DPOF.                                                                                                                        |\n| !Icon CAN NOT SET DPOF | Movies cannot be printed using DPOF.                                                                                                                     |\n| CAN NOT ROTATE     | The selected picture cannot be rotated.                                                                                                                          |\n| !Icon CAN NOT ROTATE   | Movies cannot be rotated.                                                                                                                                  |",
+                    "isPerfectTable": true,
+                    "csv": "\"Warning\",\"Description\"\n\"READ ERROR\",\"- The file is corrupt or was not created with the camera: The file cannot be viewed.\"\n\"\",\"- The memory card contacts require cleaning: Clean the contacts with a soft, dry cloth. If the message is repeated, format the card. If the message persists, replace the card.\"\n\"\",\"- Camera malfunction: Contact a Fujifilm dealer.\"\n\"PROTECTED FRAME\",\"An attempt was made to delete or rotate a protected picture. Remove protection and try again.\"\n\"CAN NOT CROP\",\"The picture is damaged or was not created with the camera.\"\n\"DPOF FILE ERROR\",\"Print orders can contain no more than 999 pictures. Copy any additional pictures you wish to print to another memory card and create a second print order.\"\n\"CAN NOT SET DPOF\",\"The picture cannot be printed using DPOF.\"\n\"!Icon CAN NOT SET DPOF\",\"Movies cannot be printed using DPOF.\"\n\"CAN NOT ROTATE\",\"The selected picture cannot be rotated.\"\n\"!Icon CAN NOT ROTATE\",\"Movies cannot be rotated.\""
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "parsingMode": "multimodal-openai-gpt4o",
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 387.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "c34aca9e-cc44-41b9-82a2-6b7155ad4dcb",
+    "file_path": "../data/raw_data/x-t5/x-t5_split/x-t5_page418.pdf"
+}

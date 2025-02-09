@@ -1,0 +1,266 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:14px'>IMAGE QUALITY SETTING (Still Photography)</header>\n<h1 id='1' style='font-size:20px'>IMAGE QUALITY</h1>\n<br><h1 id='2' style='font-size:18px'>Choose a file format and compression ratio.</h1>\n<br><table id='3' style='font-size:16px'><tr><td>Option</td><td>Description</td></tr><tr><td>FINE</td><td>Low compression ratios are used for higher-quality images.</td></tr><tr><td>NORMAL</td><td>Higher compression ratios are used to increase the number of images that can be stored.</td></tr><tr><td>FINE + RAW</td><td>Record both RAW and fine-quality JPEG images.</td></tr><tr><td>NORMAL + RAW</td><td>Record both RAW and normal-quality JPEG images.</td></tr><tr><td>RAW</td><td>Record RAW images only.</td></tr></table>\n<p id='4' data-category='paragraph' style='font-size:14px'>The Function Buttons</p>\n\n<br><table id='6' style='font-size:16px'><tr><td>Option currently selected for IMAGE QUALITY</td><td>Option selected by pressing function button to which RAW is assigned</td></tr><tr><td>FINE</td><td>FINE + RAW</td></tr><tr><td>NORMAL</td><td>NORMAL + RAW</td></tr><tr><td>FINE + RAW</td><td>FINE</td></tr><tr><td>NORMAL + RAW</td><td>NORMAL</td></tr><tr><td>RAW</td><td>FINE</td></tr><br><caption id='5' style='font-size:18px'>To toggle RAW image quality on or off for a single shot, assign RAW to a<br>function button (□□ 253). Press the button once to select the option in<br>the right column, again to return to the original setting (left column).</caption></table>\n<br><footer id='7' style='font-size:22px'>6<br>The<br>Shooting<br>Menus</footer>\n<footer id='8' style='font-size:20px'>105</footer>",
+        "markdown": "IMAGE QUALITY SETTING (Still Photography)\n\n# IMAGE QUALITY\n\n# Choose a file format and compression ratio.\n\n| Option | Description |\n| --- | --- |\n| FINE | Low compression ratios are used for higher-quality images. |\n| NORMAL | Higher compression ratios are used to increase the number of images that can be stored. |\n| FINE + RAW | Record both RAW and fine-quality JPEG images. |\n| NORMAL + RAW | Record both RAW and normal-quality JPEG images. |\n| RAW | Record RAW images only. |\n\n\nThe Function Buttons\n\nTo toggle RAW image quality on or off for a single shot, assign RAW to a\nfunction button (□□ 253). Press the button once to select the option in\nthe right column, again to return to the original setting (left column).\n\n| Option currently selected for IMAGE QUALITY | Option selected by pressing function button to which RAW is assigned |\n| --- | --- |\n| FINE | FINE + RAW |\n| NORMAL | NORMAL + RAW |\n| FINE + RAW | FINE |\n| NORMAL + RAW | NORMAL |\n| RAW | FINE |\n\n\n6\nThe\nShooting\nMenus\n\n105",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:14px'>IMAGE QUALITY SETTING (Still Photography)</header>",
+                "markdown": "IMAGE QUALITY SETTING (Still Photography)",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.4864,
+                    "y": 0.028
+                },
+                {
+                    "x": 0.9176,
+                    "y": 0.028
+                },
+                {
+                    "x": 0.9176,
+                    "y": 0.0512
+                },
+                {
+                    "x": 0.4864,
+                    "y": 0.0512
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='1' style='font-size:20px'>IMAGE QUALITY</h1>",
+                "markdown": "# IMAGE QUALITY",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1094,
+                    "y": 0.0731
+                },
+                {
+                    "x": 0.332,
+                    "y": 0.0731
+                },
+                {
+                    "x": 0.332,
+                    "y": 0.0946
+                },
+                {
+                    "x": 0.1094,
+                    "y": 0.0946
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='2' style='font-size:18px'>Choose a file format and compression ratio.</h1>",
+                "markdown": "# Choose a file format and compression ratio.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1064,
+                    "y": 0.1042
+                },
+                {
+                    "x": 0.6563,
+                    "y": 0.1042
+                },
+                {
+                    "x": 0.6563,
+                    "y": 0.1285
+                },
+                {
+                    "x": 0.1064,
+                    "y": 0.1285
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='3' style='font-size:16px'><tr><td>Option</td><td>Description</td></tr><tr><td>FINE</td><td>Low compression ratios are used for higher-quality images.</td></tr><tr><td>NORMAL</td><td>Higher compression ratios are used to increase the number of images that can be stored.</td></tr><tr><td>FINE + RAW</td><td>Record both RAW and fine-quality JPEG images.</td></tr><tr><td>NORMAL + RAW</td><td>Record both RAW and normal-quality JPEG images.</td></tr><tr><td>RAW</td><td>Record RAW images only.</td></tr></table>",
+                "markdown": "| Option | Description |\n| --- | --- |\n| FINE | Low compression ratios are used for higher-quality images. |\n| NORMAL | Higher compression ratios are used to increase the number of images that can be stored. |\n| FINE + RAW | Record both RAW and fine-quality JPEG images. |\n| NORMAL + RAW | Record both RAW and normal-quality JPEG images. |\n| RAW | Record RAW images only. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1088,
+                    "y": 0.1346
+                },
+                {
+                    "x": 0.9193,
+                    "y": 0.1346
+                },
+                {
+                    "x": 0.9193,
+                    "y": 0.3003
+                },
+                {
+                    "x": 0.1088,
+                    "y": 0.3003
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='4' data-category='paragraph' style='font-size:14px'>The Function Buttons</p>",
+                "markdown": "The Function Buttons",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1049,
+                    "y": 0.3205
+                },
+                {
+                    "x": 0.3173,
+                    "y": 0.3205
+                },
+                {
+                    "x": 0.3173,
+                    "y": 0.3409
+                },
+                {
+                    "x": 0.1049,
+                    "y": 0.3409
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='5' data-category='paragraph' style='font-size:18px'>To toggle RAW image quality on or off for a single shot, assign RAW to a<br>function button (□□ 253). Press the button once to select the option in<br>the right column, again to return to the original setting (left column).</p>",
+                "markdown": "To toggle RAW image quality on or off for a single shot, assign RAW to a\nfunction button (□□ 253). Press the button once to select the option in\nthe right column, again to return to the original setting (left column).",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1075,
+                    "y": 0.3426
+                },
+                {
+                    "x": 0.9188,
+                    "y": 0.3426
+                },
+                {
+                    "x": 0.9188,
+                    "y": 0.4114
+                },
+                {
+                    "x": 0.1075,
+                    "y": 0.4114
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='6' style='font-size:16px'><tr><td>Option currently selected for IMAGE QUALITY</td><td>Option selected by pressing function button to which RAW is assigned</td></tr><tr><td>FINE</td><td>FINE + RAW</td></tr><tr><td>NORMAL</td><td>NORMAL + RAW</td></tr><tr><td>FINE + RAW</td><td>FINE</td></tr><tr><td>NORMAL + RAW</td><td>NORMAL</td></tr><tr><td>RAW</td><td>FINE</td></tr></table>",
+                "markdown": "| Option currently selected for IMAGE QUALITY | Option selected by pressing function button to which RAW is assigned |\n| --- | --- |\n| FINE | FINE + RAW |\n| NORMAL | NORMAL + RAW |\n| FINE + RAW | FINE |\n| NORMAL + RAW | NORMAL |\n| RAW | FINE |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1068,
+                    "y": 0.4141
+                },
+                {
+                    "x": 0.917,
+                    "y": 0.4141
+                },
+                {
+                    "x": 0.917,
+                    "y": 0.5893
+                },
+                {
+                    "x": 0.1068,
+                    "y": 0.5893
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<br><footer id='7' style='font-size:22px'>6<br>The<br>Shooting<br>Menus</footer>",
+                "markdown": "6\nThe\nShooting\nMenus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9564,
+                    "y": 0.5428
+                },
+                {
+                    "x": 0.983,
+                    "y": 0.5428
+                },
+                {
+                    "x": 0.983,
+                    "y": 0.732
+                },
+                {
+                    "x": 0.9564,
+                    "y": 0.732
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='8' style='font-size:20px'>105</footer>",
+                "markdown": "105",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.8621,
+                    "y": 0.9566
+                },
+                {
+                    "x": 0.9176,
+                    "y": 0.9566
+                },
+                {
+                    "x": 0.9176,
+                    "y": 0.9793
+                },
+                {
+                    "x": 0.8621,
+                    "y": 0.9793
+                }
+            ],
+            "id": 8,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

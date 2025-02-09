@@ -1,0 +1,65 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "# Remote Movie Recording Using a Web Browser\n\n## Connecting by Scanning a QR Code\n\n> 💡 **Note:**  \n> To connect a second or subsequent camera by scanning a QR code, set **SERVERTYPE** of the first camera and second and subsequent cameras to **HTTPS** in advance.\n\n1. Select **INFORMATION > HARDWARE INFO** in the network/USB setting menu.  \n   A QR code is displayed.\n\n2. Tap the thumbnail of the **+** mark in the “Choose camera” area.\n\n   !Choose Camera Area\n\n3. Tap “Connect via QR Code” to scan the QR code displayed by the camera.  \n   The remote recording display will appear in the browser.\n\n   !QR Code Connection\n\n## Disconnecting a Second or Subsequent Camera\n\nTo end a connection after adding a camera, select the “remove connected device” option in the “Remote recording” menu and click or tap the thumbnail for the camera you want to remove.",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "Remote Movie Recording Using a Web Browser",
+                    "md": "# Remote Movie Recording Using a Web Browser"
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "Connecting by Scanning a QR Code",
+                    "md": "## Connecting by Scanning a QR Code"
+                },
+                {
+                    "type": "text",
+                    "value": "> 💡 **Note:**  \n> To connect a second or subsequent camera by scanning a QR code, set **SERVERTYPE** of the first camera and second and subsequent cameras to **HTTPS** in advance.\n\n1. Select **INFORMATION > HARDWARE INFO** in the network/USB setting menu.  \n   A QR code is displayed.\n\n2. Tap the thumbnail of the **+** mark in the “Choose camera” area.\n\n   !Choose Camera Area\n\n3. Tap “Connect via QR Code” to scan the QR code displayed by the camera.  \n   The remote recording display will appear in the browser.\n\n   !QR Code Connection",
+                    "md": "> 💡 **Note:**  \n> To connect a second or subsequent camera by scanning a QR code, set **SERVERTYPE** of the first camera and second and subsequent cameras to **HTTPS** in advance.\n\n1. Select **INFORMATION > HARDWARE INFO** in the network/USB setting menu.  \n   A QR code is displayed.\n\n2. Tap the thumbnail of the **+** mark in the “Choose camera” area.\n\n   !Choose Camera Area\n\n3. Tap “Connect via QR Code” to scan the QR code displayed by the camera.  \n   The remote recording display will appear in the browser.\n\n   !QR Code Connection"
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "Disconnecting a Second or Subsequent Camera",
+                    "md": "## Disconnecting a Second or Subsequent Camera"
+                },
+                {
+                    "type": "text",
+                    "value": "To end a connection after adding a camera, select the “remove connected device” option in the “Remote recording” menu and click or tap the thumbnail for the camera you want to remove.",
+                    "md": "To end a connection after adding a camera, select the “remove connected device” option in the “Remote recording” menu and click or tap the thumbnail for the camera you want to remove."
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 149.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "86cd142e-7cfd-48d3-a749-fec1fb964282",
+    "file_path": "../data/raw_data/gfx100ii/gfx100ii_split/gfx100ii_page333.pdf"
+}

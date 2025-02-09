@@ -1,0 +1,73 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "# FACE/EYE DETECTION SETTING\n\nIntelligent Face Detection sets focus and exposure for human faces anywhere in the frame, preventing the camera from focusing on the background in group portraits. Choose for shots that emphasize portrait subjects. You can also choose whether the camera detects and focuses on either the left or right eye when Intelligent Face Detection is on.\n\n!Face Detection Example\n\n| Option              | Description                                                                                                                                   |\n|---------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|\n| **FACE DETECTION ON** | Adjust settings for Intelligent Face Detection. You can also adjust eye detection settings. <br> • !Eye Off Icon **EYE OFF**: Intelligent Face Detection only. <br> • !Eye Auto Icon **EYE AUTO**: The camera automatically chooses which eye to focus on when a face is detected. <br> • !Right Eye Priority Icon **RIGHT EYE PRIORITY**: The camera focuses on the right eye of subjects detected using Intelligent Face Detection. <br> • !Left Eye Priority Icon **LEFT EYE PRIORITY**: The camera focuses on the left eye of subjects detected using Intelligent Face Detection. |\n| **OFF**             | Intelligent Face Detection and eye priority off.                                                                                              |\n\n> 💡 **Note:**\n> - If the subject moves as the shutter button is pressed, the face may not be in the area indicated by the green border when the picture is taken.\n> - In some modes, the camera may set exposure for the frame as a whole rather than the portrait subject.",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "FACE/EYE DETECTION SETTING",
+                    "md": "# FACE/EYE DETECTION SETTING"
+                },
+                {
+                    "type": "text",
+                    "value": "Intelligent Face Detection sets focus and exposure for human faces anywhere in the frame, preventing the camera from focusing on the background in group portraits. Choose for shots that emphasize portrait subjects. You can also choose whether the camera detects and focuses on either the left or right eye when Intelligent Face Detection is on.\n\n!Face Detection Example",
+                    "md": "Intelligent Face Detection sets focus and exposure for human faces anywhere in the frame, preventing the camera from focusing on the background in group portraits. Choose for shots that emphasize portrait subjects. You can also choose whether the camera detects and focuses on either the left or right eye when Intelligent Face Detection is on.\n\n!Face Detection Example"
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Option",
+                            "Description"
+                        ],
+                        [
+                            "**FACE DETECTION ON**",
+                            "Adjust settings for Intelligent Face Detection. You can also adjust eye detection settings. <br> • !Eye Off Icon **EYE OFF**: Intelligent Face Detection only. <br> • !Eye Auto Icon **EYE AUTO**: The camera automatically chooses which eye to focus on when a face is detected. <br> • !Right Eye Priority Icon **RIGHT EYE PRIORITY**: The camera focuses on the right eye of subjects detected using Intelligent Face Detection. <br> • !Left Eye Priority Icon **LEFT EYE PRIORITY**: The camera focuses on the left eye of subjects detected using Intelligent Face Detection."
+                        ],
+                        [
+                            "**OFF**",
+                            "Intelligent Face Detection and eye priority off."
+                        ]
+                    ],
+                    "md": "| Option              | Description                                                                                                                                   |\n|---------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|\n| **FACE DETECTION ON** | Adjust settings for Intelligent Face Detection. You can also adjust eye detection settings. <br> • !Eye Off Icon **EYE OFF**: Intelligent Face Detection only. <br> • !Eye Auto Icon **EYE AUTO**: The camera automatically chooses which eye to focus on when a face is detected. <br> • !Right Eye Priority Icon **RIGHT EYE PRIORITY**: The camera focuses on the right eye of subjects detected using Intelligent Face Detection. <br> • !Left Eye Priority Icon **LEFT EYE PRIORITY**: The camera focuses on the left eye of subjects detected using Intelligent Face Detection. |\n| **OFF**             | Intelligent Face Detection and eye priority off.                                                                                              |",
+                    "isPerfectTable": true,
+                    "csv": "\"Option\",\"Description\"\n\"**FACE DETECTION ON**\",\"Adjust settings for Intelligent Face Detection. You can also adjust eye detection settings. <br> • !Eye Off Icon **EYE OFF**: Intelligent Face Detection only. <br> • !Eye Auto Icon **EYE AUTO**: The camera automatically chooses which eye to focus on when a face is detected. <br> • !Right Eye Priority Icon **RIGHT EYE PRIORITY**: The camera focuses on the right eye of subjects detected using Intelligent Face Detection. <br> • !Left Eye Priority Icon **LEFT EYE PRIORITY**: The camera focuses on the left eye of subjects detected using Intelligent Face Detection.\"\n\"**OFF**\",\"Intelligent Face Detection and eye priority off.\""
+                },
+                {
+                    "type": "text",
+                    "value": "> 💡 **Note:**\n> - If the subject moves as the shutter button is pressed, the face may not be in the area indicated by the green border when the picture is taken.\n> - In some modes, the camera may set exposure for the frame as a whole rather than the portrait subject.",
+                    "md": "> 💡 **Note:**\n> - If the subject moves as the shutter button is pressed, the face may not be in the area indicated by the green border when the picture is taken.\n> - In some modes, the camera may set exposure for the frame as a whole rather than the portrait subject."
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 835.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "a26061be-62fc-4c0b-acc3-ab17e8422a1a",
+    "file_path": "../data/raw_data/x100v/x100v_split/x100v_page148.pdf"
+}

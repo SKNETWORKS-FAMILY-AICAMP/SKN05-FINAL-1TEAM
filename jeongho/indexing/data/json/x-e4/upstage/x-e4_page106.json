@@ -1,0 +1,238 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<h1 id='0' style='font-size:16px'>RAW RECORDING</h1>\n<br><h1 id='1' style='font-size:18px'>Choose whether to compress RAW images.</h1>\n<table id='2' style='font-size:14px'><tr><td>Option</td><td>Description</td></tr><tr><td>UNCOMPRESSED</td><td>RAWimages are not compressed.</td></tr><tr><td>LOSSLESS COMPRESSED</td><td>RAW images are compressed using a reversible algo- rithm that reduces file size with no loss of image data. The images can be viewed in Capture One Express Fujifilm (□□ 301), RAW FILE CONVERTER EX powered by SILKYPIX (□□ 301), FUJIFILM X RAW STUDIO (□□ 302), or other software that supports \"lossless\" RAW compres- sion. Quality is the same as UNCOMPRESSED, but the resulting files are anywhere from about 30 to 90 percent of their uncompressed size.</td></tr><tr><td>COMPRESSED</td><td>RAW images are compressed using a \"lossy\", non-reversible algorithm. Qualityis about the same as UNCOMPRESSED, but the resulting files are anywhere from about 25 to 35 percent of their uncompressed size.</td></tr></table>\n<p id='3' data-category='paragraph' style='font-size:16px'>FILM SIMULATION</p>\n\n<table id='5' style='font-size:14px'><tr><td>Option</td><td>Description</td></tr><tr><td>STD PROVIA/STANDARD</td><td>Ideal for a wide range of subjects.</td></tr><tr><td>Velvia/VIVID</td><td>Vibrant reproduction, ideal for landscape and nature.</td></tr><tr><td>S. ASTIA/SOFT</td><td>Softer color and contrast for a more subdued look.</td></tr><tr><td>Cc CLASSIC CHROME</td><td>Soft color and enhanced shadow contrast for a calm look.</td></tr><br><caption id='4' style='font-size:18px'>Simulate the effects of different kinds of film, including black-<br>and-white (with or without color filters). Choose a palette ac-<br>cording to your subject and creative intent.</caption></table>\n<br><header id='6' style='font-size:22px'>The<br>Shooting<br>Menus</header>\n<footer id='7' style='font-size:20px'>106</footer>",
+        "markdown": "# RAW RECORDING\n\n# Choose whether to compress RAW images.\n\n| Option | Description |\n| --- | --- |\n| UNCOMPRESSED | RAWimages are not compressed. |\n| LOSSLESS COMPRESSED | RAW images are compressed using a reversible algo- rithm that reduces file size with no loss of image data. The images can be viewed in Capture One Express Fujifilm (□□ 301), RAW FILE CONVERTER EX powered by SILKYPIX (□□ 301), FUJIFILM X RAW STUDIO (□□ 302), or other software that supports \"lossless\" RAW compres- sion. Quality is the same as UNCOMPRESSED, but the resulting files are anywhere from about 30 to 90 percent of their uncompressed size. |\n| COMPRESSED | RAW images are compressed using a \"lossy\", non-reversible algorithm. Qualityis about the same as UNCOMPRESSED, but the resulting files are anywhere from about 25 to 35 percent of their uncompressed size. |\n\n\nFILM SIMULATION\n\nSimulate the effects of different kinds of film, including black-\nand-white (with or without color filters). Choose a palette ac-\ncording to your subject and creative intent.\n\n| Option | Description |\n| --- | --- |\n| STD PROVIA/STANDARD | Ideal for a wide range of subjects. |\n| Velvia/VIVID | Vibrant reproduction, ideal for landscape and nature. |\n| S. ASTIA/SOFT | Softer color and contrast for a more subdued look. |\n| Cc CLASSIC CHROME | Soft color and enhanced shadow contrast for a calm look. |\n\n\nThe\nShooting\nMenus\n\n106",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='0' style='font-size:16px'>RAW RECORDING</h1>",
+                "markdown": "# RAW RECORDING",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0824,
+                    "y": 0.073
+                },
+                {
+                    "x": 0.3195,
+                    "y": 0.073
+                },
+                {
+                    "x": 0.3195,
+                    "y": 0.0945
+                },
+                {
+                    "x": 0.0824,
+                    "y": 0.0945
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='1' style='font-size:18px'>Choose whether to compress RAW images.</h1>",
+                "markdown": "# Choose whether to compress RAW images.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0816,
+                    "y": 0.1042
+                },
+                {
+                    "x": 0.6211,
+                    "y": 0.1042
+                },
+                {
+                    "x": 0.6211,
+                    "y": 0.1288
+                },
+                {
+                    "x": 0.0816,
+                    "y": 0.1288
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='2' style='font-size:14px'><tr><td>Option</td><td>Description</td></tr><tr><td>UNCOMPRESSED</td><td>RAWimages are not compressed.</td></tr><tr><td>LOSSLESS COMPRESSED</td><td>RAW images are compressed using a reversible algo- rithm that reduces file size with no loss of image data. The images can be viewed in Capture One Express Fujifilm (□□ 301), RAW FILE CONVERTER EX powered by SILKYPIX (□□ 301), FUJIFILM X RAW STUDIO (□□ 302), or other software that supports \"lossless\" RAW compres- sion. Quality is the same as UNCOMPRESSED, but the resulting files are anywhere from about 30 to 90 percent of their uncompressed size.</td></tr><tr><td>COMPRESSED</td><td>RAW images are compressed using a \"lossy\", non-reversible algorithm. Qualityis about the same as UNCOMPRESSED, but the resulting files are anywhere from about 25 to 35 percent of their uncompressed size.</td></tr></table>",
+                "markdown": "| Option | Description |\n| --- | --- |\n| UNCOMPRESSED | RAWimages are not compressed. |\n| LOSSLESS COMPRESSED | RAW images are compressed using a reversible algo- rithm that reduces file size with no loss of image data. The images can be viewed in Capture One Express Fujifilm (□□ 301), RAW FILE CONVERTER EX powered by SILKYPIX (□□ 301), FUJIFILM X RAW STUDIO (□□ 302), or other software that supports \"lossless\" RAW compres- sion. Quality is the same as UNCOMPRESSED, but the resulting files are anywhere from about 30 to 90 percent of their uncompressed size. |\n| COMPRESSED | RAW images are compressed using a \"lossy\", non-reversible algorithm. Qualityis about the same as UNCOMPRESSED, but the resulting files are anywhere from about 25 to 35 percent of their uncompressed size. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0812,
+                    "y": 0.14
+                },
+                {
+                    "x": 0.8973,
+                    "y": 0.14
+                },
+                {
+                    "x": 0.8973,
+                    "y": 0.4925
+                },
+                {
+                    "x": 0.0812,
+                    "y": 0.4925
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='3' data-category='paragraph' style='font-size:16px'>FILM SIMULATION</p>",
+                "markdown": "FILM SIMULATION",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0823,
+                    "y": 0.51
+                },
+                {
+                    "x": 0.3329,
+                    "y": 0.51
+                },
+                {
+                    "x": 0.3329,
+                    "y": 0.5324
+                },
+                {
+                    "x": 0.0823,
+                    "y": 0.5324
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='4' data-category='paragraph' style='font-size:18px'>Simulate the effects of different kinds of film, including black-<br>and-white (with or without color filters). Choose a palette ac-<br>cording to your subject and creative intent.</p>",
+                "markdown": "Simulate the effects of different kinds of film, including black-\nand-white (with or without color filters). Choose a palette ac-\ncording to your subject and creative intent.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.08,
+                    "y": 0.5414
+                },
+                {
+                    "x": 0.8933,
+                    "y": 0.5414
+                },
+                {
+                    "x": 0.8933,
+                    "y": 0.6184
+                },
+                {
+                    "x": 0.08,
+                    "y": 0.6184
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='5' style='font-size:14px'><tr><td>Option</td><td>Description</td></tr><tr><td>STD PROVIA/STANDARD</td><td>Ideal for a wide range of subjects.</td></tr><tr><td>Velvia/VIVID</td><td>Vibrant reproduction, ideal for landscape and nature.</td></tr><tr><td>S. ASTIA/SOFT</td><td>Softer color and contrast for a more subdued look.</td></tr><tr><td>Cc CLASSIC CHROME</td><td>Soft color and enhanced shadow contrast for a calm look.</td></tr></table>",
+                "markdown": "| Option | Description |\n| --- | --- |\n| STD PROVIA/STANDARD | Ideal for a wide range of subjects. |\n| Velvia/VIVID | Vibrant reproduction, ideal for landscape and nature. |\n| S. ASTIA/SOFT | Softer color and contrast for a more subdued look. |\n| Cc CLASSIC CHROME | Soft color and enhanced shadow contrast for a calm look. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.084,
+                    "y": 0.6305
+                },
+                {
+                    "x": 0.8938,
+                    "y": 0.6305
+                },
+                {
+                    "x": 0.8938,
+                    "y": 0.845
+                },
+                {
+                    "x": 0.084,
+                    "y": 0.845
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "header",
+            "content": {
+                "html": "<br><header id='6' style='font-size:22px'>The<br>Shooting<br>Menus</header>",
+                "markdown": "The\nShooting\nMenus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0164,
+                    "y": 0.5765
+                },
+                {
+                    "x": 0.0417,
+                    "y": 0.5765
+                },
+                {
+                    "x": 0.0417,
+                    "y": 0.7307
+                },
+                {
+                    "x": 0.0164,
+                    "y": 0.7307
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='7' style='font-size:20px'>106</footer>",
+                "markdown": "106",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0849,
+                    "y": 0.9567
+                },
+                {
+                    "x": 0.1403,
+                    "y": 0.9567
+                },
+                {
+                    "x": 0.1403,
+                    "y": 0.9795
+                },
+                {
+                    "x": 0.0849,
+                    "y": 0.9795
+                }
+            ],
+            "id": 7,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

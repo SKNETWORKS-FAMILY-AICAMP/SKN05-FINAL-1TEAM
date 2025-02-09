@@ -1,0 +1,89 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "# Viewing Movies\n\nPlayback controls can be displayed by tapping !Menu Icon during playback.\n\n!Playback Controls\n\n| Control             | Function                                                                 |\n|---------------------|--------------------------------------------------------------------------|\n| **Pause**           | Pause playback. Tap again to resume.                                     |\n| **Rewind/advance**  | Rewind or advance the movie. When playback paused, you can tap these buttons to rewind or advance a frame at a time. |\n| **Volume**          | Adjust playback volume.                                                  |\n| **Channel selection** | Adjust audio settings for use when viewing 4ch movies.                  |\n| **Close**           | Hide movie playback controls.                                            |\n| **Back**            | End playback and return to the shooting display.                         |\n\n> 💡 **Note:**  \n> Volume adjustment and channel selection are not available while playback is in progress. Pause playback to use these controls.",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "Viewing Movies",
+                    "md": "# Viewing Movies"
+                },
+                {
+                    "type": "text",
+                    "value": "Playback controls can be displayed by tapping !Menu Icon during playback.\n\n!Playback Controls",
+                    "md": "Playback controls can be displayed by tapping !Menu Icon during playback.\n\n!Playback Controls"
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Control",
+                            "Function"
+                        ],
+                        [
+                            "**Pause**",
+                            "Pause playback. Tap again to resume."
+                        ],
+                        [
+                            "**Rewind/advance**",
+                            "Rewind or advance the movie. When playback paused, you can tap these buttons to rewind or advance a frame at a time."
+                        ],
+                        [
+                            "**Volume**",
+                            "Adjust playback volume."
+                        ],
+                        [
+                            "**Channel selection**",
+                            "Adjust audio settings for use when viewing 4ch movies."
+                        ],
+                        [
+                            "**Close**",
+                            "Hide movie playback controls."
+                        ],
+                        [
+                            "**Back**",
+                            "End playback and return to the shooting display."
+                        ]
+                    ],
+                    "md": "| Control             | Function                                                                 |\n|---------------------|--------------------------------------------------------------------------|\n| **Pause**           | Pause playback. Tap again to resume.                                     |\n| **Rewind/advance**  | Rewind or advance the movie. When playback paused, you can tap these buttons to rewind or advance a frame at a time. |\n| **Volume**          | Adjust playback volume.                                                  |\n| **Channel selection** | Adjust audio settings for use when viewing 4ch movies.                  |\n| **Close**           | Hide movie playback controls.                                            |\n| **Back**            | End playback and return to the shooting display.                         |",
+                    "isPerfectTable": true,
+                    "csv": "\"Control\",\"Function\"\n\"**Pause**\",\"Pause playback. Tap again to resume.\"\n\"**Rewind/advance**\",\"Rewind or advance the movie. When playback paused, you can tap these buttons to rewind or advance a frame at a time.\"\n\"**Volume**\",\"Adjust playback volume.\"\n\"**Channel selection**\",\"Adjust audio settings for use when viewing 4ch movies.\"\n\"**Close**\",\"Hide movie playback controls.\"\n\"**Back**\",\"End playback and return to the shooting display.\""
+                },
+                {
+                    "type": "text",
+                    "value": "> 💡 **Note:**  \n> Volume adjustment and channel selection are not available while playback is in progress. Pause playback to use these controls.",
+                    "md": "> 💡 **Note:**  \n> Volume adjustment and channel selection are not available while playback is in progress. Pause playback to use these controls."
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 43.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "65cb27ec-7e31-4e1a-9e9a-000748bb0205",
+    "file_path": "../data/raw_data/x-s20/x-s20_split/x-s20_page91.pdf"
+}

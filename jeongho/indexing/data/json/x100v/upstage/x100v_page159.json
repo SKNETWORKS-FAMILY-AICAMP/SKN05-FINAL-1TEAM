@@ -1,0 +1,378 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:14px'>MOVIE SETTING</header>\n<h1 id='1' style='font-size:18px'>TONE CURVE</h1>\n<figure id='2' data-category='chart'><img style='font-size:14px' alt=\"TONE CURVE \nHIGHLIGHTS SHADOWS \n+2 \n+1 \n0 0 \n-1 \n-2 \nOK SET BACK CANCEL \n\" data-coord=\"top-left:(1856,419); bottom-right:(2525,989)\" /></figure>\n\n<table id='4' style='font-size:16px'><tr><td rowspan=\"2\" colspan=\"7\">Options</td></tr><tr></tr><tr><td>-2</td><td>-1</td><td>0</td><td>+1</td><td>+2</td><td>+3</td><td>+4</td></tr><br><caption id='3' style='font-size:18px'>With reference to a tone curve, use the<br>focus stick (focus lever) to adjust the<br>appearance of highlights or shadows,<br>making them harsher or softer. Choose<br>higher values to make shadows and<br>highlights harsher, lower values to make<br>them softer.</caption></table>\n<br><p id='5' data-category='paragraph' style='font-size:18px'>COLOR</p>\n\n<br><table id='7' style='font-size:16px'><tr><td rowspan=\"2\" colspan=\"9\">Options</td></tr><tr></tr><tr><td>-4</td><td>-3</td><td>-2</td><td>-1</td><td>0</td><td>+1</td><td>+2</td><td>+3</td><td>+4</td></tr><br><caption id='6' style='font-size:20px'>Adjust color density for movie recording. Choose higher values<br>to increase saturation, lower values to reduce it.</caption></table>\n<br><p id='8' data-category='paragraph' style='font-size:18px'>SHARPNESS</p>\n\n<table id='10' style='font-size:16px'><tr><td rowspan=\"2\" colspan=\"9\">Options</td></tr><tr></tr><tr><td>4</td><td>-3</td><td>-2</td><td>-1</td><td>0</td><td>+1</td><td>+2</td><td>+3</td><td>+4</td></tr><br><caption id='9' style='font-size:20px'>Sharpen or soften outlines in movies. Choose higher values for<br>sharper outlines, lower values for softer outlines.</caption></table>\n<br><footer id='11' style='font-size:22px'>6<br>The<br>Shooting<br>Menus</footer>\n<footer id='12' style='font-size:20px'>159</footer>",
+        "markdown": "MOVIE SETTING\n\n# TONE CURVE\n\n![image](/image/placeholder)\nTONE CURVE \nHIGHLIGHTS SHADOWS \n+2 \n+1 \n0 0 \n-1 \n-2 \nOK SET BACK CANCEL \n\n\nWith reference to a tone curve, use the\nfocus stick (focus lever) to adjust the\nappearance of highlights or shadows,\nmaking them harsher or softer. Choose\nhigher values to make shadows and\nhighlights harsher, lower values to make\nthem softer.\n\n| Options | Options | Options | Options | Options | Options | Options |\n| --- | --- | --- | --- | --- | --- | --- |\n| Options | Options | Options | Options | Options | Options | Options |\n| -2 | -1 | 0 | +1 | +2 | +3 | +4 |\n\n\nCOLOR\n\nAdjust color density for movie recording. Choose higher values\nto increase saturation, lower values to reduce it.\n\n| Options | Options | Options | Options | Options | Options | Options | Options | Options |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| Options | Options | Options | Options | Options | Options | Options | Options | Options |\n| -4 | -3 | -2 | -1 | 0 | +1 | +2 | +3 | +4 |\n\n\nSHARPNESS\n\nSharpen or soften outlines in movies. Choose higher values for\nsharper outlines, lower values for softer outlines.\n\n| Options | Options | Options | Options | Options | Options | Options | Options | Options |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| Options | Options | Options | Options | Options | Options | Options | Options | Options |\n| 4 | -3 | -2 | -1 | 0 | +1 | +2 | +3 | +4 |\n\n\n6\nThe\nShooting\nMenus\n\n159",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:14px'>MOVIE SETTING</header>",
+                "markdown": "MOVIE SETTING",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.759,
+                    "y": 0.029
+                },
+                {
+                    "x": 0.9174,
+                    "y": 0.029
+                },
+                {
+                    "x": 0.9174,
+                    "y": 0.0488
+                },
+                {
+                    "x": 0.759,
+                    "y": 0.0488
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='1' style='font-size:18px'>TONE CURVE</h1>",
+                "markdown": "# TONE CURVE",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1083,
+                    "y": 0.0733
+                },
+                {
+                    "x": 0.3264,
+                    "y": 0.0733
+                },
+                {
+                    "x": 0.3264,
+                    "y": 0.0951
+                },
+                {
+                    "x": 0.1083,
+                    "y": 0.0951
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "figure",
+            "content": {
+                "html": "<figure id='2' data-category='chart'><img style='font-size:14px' alt=\"TONE CURVE \nHIGHLIGHTS SHADOWS \n+2 \n+1 \n0 0 \n-1 \n-2 \nOK SET BACK CANCEL \n\" data-coord=\"top-left:(1856,419); bottom-right:(2525,989)\" /></figure>",
+                "markdown": "![image](/image/placeholder)\nTONE CURVE \nHIGHLIGHTS SHADOWS \n+2 \n+1 \n0 0 \n-1 \n-2 \nOK SET BACK CANCEL \n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6718,
+                    "y": 0.1075
+                },
+                {
+                    "x": 0.9139,
+                    "y": 0.1075
+                },
+                {
+                    "x": 0.9139,
+                    "y": 0.2538
+                },
+                {
+                    "x": 0.6718,
+                    "y": 0.2538
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='3' data-category='paragraph' style='font-size:18px'>With reference to a tone curve, use the<br>focus stick (focus lever) to adjust the<br>appearance of highlights or shadows,<br>making them harsher or softer. Choose<br>higher values to make shadows and<br>highlights harsher, lower values to make<br>them softer.</p>",
+                "markdown": "With reference to a tone curve, use the\nfocus stick (focus lever) to adjust the\nappearance of highlights or shadows,\nmaking them harsher or softer. Choose\nhigher values to make shadows and\nhighlights harsher, lower values to make\nthem softer.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1056,
+                    "y": 0.105
+                },
+                {
+                    "x": 0.6302,
+                    "y": 0.105
+                },
+                {
+                    "x": 0.6302,
+                    "y": 0.2825
+                },
+                {
+                    "x": 0.1056,
+                    "y": 0.2825
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='4' style='font-size:16px'><tr><td rowspan=\"2\" colspan=\"7\">Options</td></tr><tr></tr><tr><td>-2</td><td>-1</td><td>0</td><td>+1</td><td>+2</td><td>+3</td><td>+4</td></tr></table>",
+                "markdown": "| Options | Options | Options | Options | Options | Options | Options |\n| --- | --- | --- | --- | --- | --- | --- |\n| Options | Options | Options | Options | Options | Options | Options |\n| -2 | -1 | 0 | +1 | +2 | +3 | +4 |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1091,
+                    "y": 0.3036
+                },
+                {
+                    "x": 0.9154,
+                    "y": 0.3036
+                },
+                {
+                    "x": 0.9154,
+                    "y": 0.3568
+                },
+                {
+                    "x": 0.1091,
+                    "y": 0.3568
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='5' data-category='paragraph' style='font-size:18px'>COLOR</p>",
+                "markdown": "COLOR",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1073,
+                    "y": 0.3698
+                },
+                {
+                    "x": 0.2501,
+                    "y": 0.3698
+                },
+                {
+                    "x": 0.2501,
+                    "y": 0.394
+                },
+                {
+                    "x": 0.1073,
+                    "y": 0.394
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='6' data-category='paragraph' style='font-size:20px'>Adjust color density for movie recording. Choose higher values<br>to increase saturation, lower values to reduce it.</p>",
+                "markdown": "Adjust color density for movie recording. Choose higher values\nto increase saturation, lower values to reduce it.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1051,
+                    "y": 0.4018
+                },
+                {
+                    "x": 0.9173,
+                    "y": 0.4018
+                },
+                {
+                    "x": 0.9173,
+                    "y": 0.4535
+                },
+                {
+                    "x": 0.1051,
+                    "y": 0.4535
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='7' style='font-size:16px'><tr><td rowspan=\"2\" colspan=\"9\">Options</td></tr><tr></tr><tr><td>-4</td><td>-3</td><td>-2</td><td>-1</td><td>0</td><td>+1</td><td>+2</td><td>+3</td><td>+4</td></tr></table>",
+                "markdown": "| Options | Options | Options | Options | Options | Options | Options | Options | Options |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| Options | Options | Options | Options | Options | Options | Options | Options | Options |\n| -4 | -3 | -2 | -1 | 0 | +1 | +2 | +3 | +4 |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1097,
+                    "y": 0.4653
+                },
+                {
+                    "x": 0.9164,
+                    "y": 0.4653
+                },
+                {
+                    "x": 0.9164,
+                    "y": 0.5188
+                },
+                {
+                    "x": 0.1097,
+                    "y": 0.5188
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='8' data-category='paragraph' style='font-size:18px'>SHARPNESS</p>",
+                "markdown": "SHARPNESS",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1074,
+                    "y": 0.5328
+                },
+                {
+                    "x": 0.3177,
+                    "y": 0.5328
+                },
+                {
+                    "x": 0.3177,
+                    "y": 0.5552
+                },
+                {
+                    "x": 0.1074,
+                    "y": 0.5552
+                }
+            ],
+            "id": 8,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='9' data-category='paragraph' style='font-size:20px'>Sharpen or soften outlines in movies. Choose higher values for<br>sharper outlines, lower values for softer outlines.</p>",
+                "markdown": "Sharpen or soften outlines in movies. Choose higher values for\nsharper outlines, lower values for softer outlines.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1059,
+                    "y": 0.5644
+                },
+                {
+                    "x": 0.9151,
+                    "y": 0.5644
+                },
+                {
+                    "x": 0.9151,
+                    "y": 0.616
+                },
+                {
+                    "x": 0.1059,
+                    "y": 0.616
+                }
+            ],
+            "id": 9,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='10' style='font-size:16px'><tr><td rowspan=\"2\" colspan=\"9\">Options</td></tr><tr></tr><tr><td>4</td><td>-3</td><td>-2</td><td>-1</td><td>0</td><td>+1</td><td>+2</td><td>+3</td><td>+4</td></tr></table>",
+                "markdown": "| Options | Options | Options | Options | Options | Options | Options | Options | Options |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| Options | Options | Options | Options | Options | Options | Options | Options | Options |\n| 4 | -3 | -2 | -1 | 0 | +1 | +2 | +3 | +4 |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1107,
+                    "y": 0.6275
+                },
+                {
+                    "x": 0.9174,
+                    "y": 0.6275
+                },
+                {
+                    "x": 0.9174,
+                    "y": 0.6811
+                },
+                {
+                    "x": 0.1107,
+                    "y": 0.6811
+                }
+            ],
+            "id": 10,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<br><footer id='11' style='font-size:22px'>6<br>The<br>Shooting<br>Menus</footer>",
+                "markdown": "6\nThe\nShooting\nMenus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9561,
+                    "y": 0.5394
+                },
+                {
+                    "x": 0.9835,
+                    "y": 0.5394
+                },
+                {
+                    "x": 0.9835,
+                    "y": 0.7323
+                },
+                {
+                    "x": 0.9561,
+                    "y": 0.7323
+                }
+            ],
+            "id": 11,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='12' style='font-size:20px'>159</footer>",
+                "markdown": "159",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.8624,
+                    "y": 0.9568
+                },
+                {
+                    "x": 0.9177,
+                    "y": 0.9568
+                },
+                {
+                    "x": 0.9177,
+                    "y": 0.9788
+                },
+                {
+                    "x": 0.8624,
+                    "y": 0.9788
+                }
+            ],
+            "id": 12,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

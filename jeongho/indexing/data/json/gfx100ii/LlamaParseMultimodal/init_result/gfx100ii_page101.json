@@ -1,0 +1,85 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "# Viewing Movies\n\nView movies on the camera.\n\nAny movie selected after the ▶️ button is pressed to begin playback will be indicated by a 🎥 icon. Press the focus stick (focus lever) down to start movie playback.\n\n!Movie Playback Screen\n\nThe following operations can be performed while a movie is displayed:\n\n| Focus stick (focus lever) | Full-frame playback       | Playback in progress (▶️) | Playback paused (⏸️)       |\n|---------------------------|---------------------------|---------------------------|----------------------------|\n| Up                        | View photo information    | End playback              |                            |\n| Down                      | Start playback            | Pause playback            | Start/resume playback      |\n| Left/right                | View other pictures       | Adjust speed              | Single frame rewind/advance|\n\nProgress is shown in the display during playback.\n\n!Playback Progress Display",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "Viewing Movies",
+                    "md": "# Viewing Movies"
+                },
+                {
+                    "type": "text",
+                    "value": "View movies on the camera.\n\nAny movie selected after the ▶️ button is pressed to begin playback will be indicated by a 🎥 icon. Press the focus stick (focus lever) down to start movie playback.\n\n!Movie Playback Screen\n\nThe following operations can be performed while a movie is displayed:",
+                    "md": "View movies on the camera.\n\nAny movie selected after the ▶️ button is pressed to begin playback will be indicated by a 🎥 icon. Press the focus stick (focus lever) down to start movie playback.\n\n!Movie Playback Screen\n\nThe following operations can be performed while a movie is displayed:"
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Focus stick (focus lever)",
+                            "Full-frame playback",
+                            "Playback in progress (▶️)",
+                            "Playback paused (⏸️)"
+                        ],
+                        [
+                            "Up",
+                            "View photo information",
+                            "End playback",
+                            ""
+                        ],
+                        [
+                            "Down",
+                            "Start playback",
+                            "Pause playback",
+                            "Start/resume playback"
+                        ],
+                        [
+                            "Left/right",
+                            "View other pictures",
+                            "Adjust speed",
+                            "Single frame rewind/advance"
+                        ]
+                    ],
+                    "md": "| Focus stick (focus lever) | Full-frame playback       | Playback in progress (▶️) | Playback paused (⏸️)       |\n|---------------------------|---------------------------|---------------------------|----------------------------|\n| Up                        | View photo information    | End playback              |                            |\n| Down                      | Start playback            | Pause playback            | Start/resume playback      |\n| Left/right                | View other pictures       | Adjust speed              | Single frame rewind/advance|",
+                    "isPerfectTable": true,
+                    "csv": "\"Focus stick (focus lever)\",\"Full-frame playback\",\"Playback in progress (▶️)\",\"Playback paused (⏸️)\"\n\"Up\",\"View photo information\",\"End playback\",\"\"\n\"Down\",\"Start playback\",\"Pause playback\",\"Start/resume playback\"\n\"Left/right\",\"View other pictures\",\"Adjust speed\",\"Single frame rewind/advance\""
+                },
+                {
+                    "type": "text",
+                    "value": "Progress is shown in the display during playback.\n\n!Playback Progress Display",
+                    "md": "Progress is shown in the display during playback.\n\n!Playback Progress Display"
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 387.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "494be2a7-8a4f-4320-a493-36f16769af28",
+    "file_path": "../data/raw_data/gfx100ii/gfx100ii_split/gfx100ii_page101.pdf"
+}

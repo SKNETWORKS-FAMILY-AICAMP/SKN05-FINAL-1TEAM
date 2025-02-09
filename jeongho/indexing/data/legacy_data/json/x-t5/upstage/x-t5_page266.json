@@ -1,0 +1,462 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:22px'>Network/USB<br>Features<br>and<br>Settings</header>\n<br><h1 id='1' style='font-size:18px'>IMAGE TRANSFER WHILE POWER OFF</h1>\n<br><p id='2' data-category='paragraph' style='font-size:20px'>If ON is selected, the camera will continue to upload pictures to<br>paired smartphones or tablets even while off.</p>\n<br><table id='3' style='font-size:16px'><tr><td colspan=\"2\">Options</td></tr><tr><td>ON</td><td>OFF</td></tr></table>\n<h1 id='4' style='font-size:18px'>RESIZE IMAGE FOR SMARTPHONE</h1>\n\n<table id='6' style='font-size:18px'><tr><td colspan=\"2\">Options</td></tr><tr><td>ON</td><td>OFF</td></tr><br><caption id='5' style='font-size:22px'>Select ON (recommended) to enable compression, reducing file<br>size for upload.</caption></table>\n<p id='7' data-category='list' style='font-size:14px'>● The pictures on the camera memory card are not affected.<br>● Compression is used only for pictures taken at sizes of L and M.</p>\n<p id='8' data-category='paragraph' style='font-size:20px'>WIRELESS COM. FREQUENCY SETTING</p>\n\n<table id='10' style='font-size:20px'><tr><td colspan=\"2\">Options</td></tr><tr><td>2.4GHz (IEEE802.11 b/g/n)</td><td>5GHz (IEEE802.11 a/n/ac)</td></tr><br><caption id='9' style='font-size:20px'>Choose the band for wireless LAN connections.</caption></table>\n<header id='11' style='font-size:14px'>8</header>\n<br><p id='12' data-category='list' style='font-size:16px'>● Some countries and regions prohibit outdoor use of certain channels<br>in the 5 GHz band. Check whether use of the 5.2 GHz (W52) band is<br>permitted before selecting the 5 GHz option.<br>● The options available vary with the country or region of sale.</p>\n<p id='13' data-category='paragraph' style='font-size:18px'>SELECT FILE TYPE</p>\n<br><p id='14' data-category='paragraph' style='font-size:20px'>Choose the format or formats used for upload. Pictures can be<br>uploaded in JPEG format and/or HEIF.</p>\n<footer id='15' style='font-size:22px'>266</footer>",
+        "markdown": "Network/USB\nFeatures\nand\nSettings\n\n# IMAGE TRANSFER WHILE POWER OFF\n\nIf ON is selected, the camera will continue to upload pictures to\npaired smartphones or tablets even while off.\n\n| Options | Options |\n| --- | --- |\n| ON | OFF |\n\n\n# RESIZE IMAGE FOR SMARTPHONE\n\nSelect ON (recommended) to enable compression, reducing file\nsize for upload.\n\n| Options | Options |\n| --- | --- |\n| ON | OFF |\n\n\n- ● The pictures on the camera memory card are not affected.\n- ● Compression is used only for pictures taken at sizes of L and M.\n\n\nWIRELESS COM. FREQUENCY SETTING\n\nChoose the band for wireless LAN connections.\n\n| Options | Options |\n| --- | --- |\n| 2.4GHz (IEEE802.11 b/g/n) | 5GHz (IEEE802.11 a/n/ac) |\n\n\n8\n\n- ● Some countries and regions prohibit outdoor use of certain channels\n- in the 5 GHz band. Check whether use of the 5.2 GHz (W52) band is\n- permitted before selecting the 5 GHz option.\n- ● The options available vary with the country or region of sale.\n\n\nSELECT FILE TYPE\n\nChoose the format or formats used for upload. Pictures can be\nuploaded in JPEG format and/or HEIF.\n\n266",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:22px'>Network/USB<br>Features<br>and<br>Settings</header>",
+                "markdown": "Network/USB\nFeatures\nand\nSettings",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.018,
+                    "y": 0.3767
+                },
+                {
+                    "x": 0.0406,
+                    "y": 0.3767
+                },
+                {
+                    "x": 0.0406,
+                    "y": 0.6384
+                },
+                {
+                    "x": 0.018,
+                    "y": 0.6384
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='1' style='font-size:18px'>IMAGE TRANSFER WHILE POWER OFF</h1>",
+                "markdown": "# IMAGE TRANSFER WHILE POWER OFF",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0944,
+                    "y": 0.074
+                },
+                {
+                    "x": 0.5495,
+                    "y": 0.074
+                },
+                {
+                    "x": 0.5495,
+                    "y": 0.0968
+                },
+                {
+                    "x": 0.0944,
+                    "y": 0.0968
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='2' data-category='paragraph' style='font-size:20px'>If ON is selected, the camera will continue to upload pictures to<br>paired smartphones or tablets even while off.</p>",
+                "markdown": "If ON is selected, the camera will continue to upload pictures to\npaired smartphones or tablets even while off.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0804,
+                    "y": 0.1033
+                },
+                {
+                    "x": 0.8931,
+                    "y": 0.1033
+                },
+                {
+                    "x": 0.8931,
+                    "y": 0.155
+                },
+                {
+                    "x": 0.0804,
+                    "y": 0.155
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='3' style='font-size:16px'><tr><td colspan=\"2\">Options</td></tr><tr><td>ON</td><td>OFF</td></tr></table>",
+                "markdown": "| Options | Options |\n| --- | --- |\n| ON | OFF |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0837,
+                    "y": 0.169
+                },
+                {
+                    "x": 0.8911,
+                    "y": 0.169
+                },
+                {
+                    "x": 0.8911,
+                    "y": 0.2224
+                },
+                {
+                    "x": 0.0837,
+                    "y": 0.2224
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='4' style='font-size:18px'>RESIZE IMAGE FOR SMARTPHONE</h1>",
+                "markdown": "# RESIZE IMAGE FOR SMARTPHONE",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0915,
+                    "y": 0.2415
+                },
+                {
+                    "x": 0.5065,
+                    "y": 0.2415
+                },
+                {
+                    "x": 0.5065,
+                    "y": 0.2653
+                },
+                {
+                    "x": 0.0915,
+                    "y": 0.2653
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='5' data-category='paragraph' style='font-size:22px'>Select ON (recommended) to enable compression, reducing file<br>size for upload.</p>",
+                "markdown": "Select ON (recommended) to enable compression, reducing file\nsize for upload.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.081,
+                    "y": 0.2711
+                },
+                {
+                    "x": 0.8931,
+                    "y": 0.2711
+                },
+                {
+                    "x": 0.8931,
+                    "y": 0.3215
+                },
+                {
+                    "x": 0.081,
+                    "y": 0.3215
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='6' style='font-size:18px'><tr><td colspan=\"2\">Options</td></tr><tr><td>ON</td><td>OFF</td></tr></table>",
+                "markdown": "| Options | Options |\n| --- | --- |\n| ON | OFF |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0832,
+                    "y": 0.3362
+                },
+                {
+                    "x": 0.891,
+                    "y": 0.3362
+                },
+                {
+                    "x": 0.891,
+                    "y": 0.3908
+                },
+                {
+                    "x": 0.0832,
+                    "y": 0.3908
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "list",
+            "content": {
+                "html": "<p id='7' data-category='list' style='font-size:14px'>● The pictures on the camera memory card are not affected.<br>● Compression is used only for pictures taken at sizes of L and M.</p>",
+                "markdown": "- ● The pictures on the camera memory card are not affected.\n- ● Compression is used only for pictures taken at sizes of L and M.\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0903,
+                    "y": 0.4103
+                },
+                {
+                    "x": 0.8288,
+                    "y": 0.4103
+                },
+                {
+                    "x": 0.8288,
+                    "y": 0.4547
+                },
+                {
+                    "x": 0.0903,
+                    "y": 0.4547
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='8' data-category='paragraph' style='font-size:20px'>WIRELESS COM. FREQUENCY SETTING</p>",
+                "markdown": "WIRELESS COM. FREQUENCY SETTING",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0937,
+                    "y": 0.4756
+                },
+                {
+                    "x": 0.5583,
+                    "y": 0.4756
+                },
+                {
+                    "x": 0.5583,
+                    "y": 0.4989
+                },
+                {
+                    "x": 0.0937,
+                    "y": 0.4989
+                }
+            ],
+            "id": 8,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='9' data-category='paragraph' style='font-size:20px'>Choose the band for wireless LAN connections.</p>",
+                "markdown": "Choose the band for wireless LAN connections.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0819,
+                    "y": 0.5073
+                },
+                {
+                    "x": 0.6767,
+                    "y": 0.5073
+                },
+                {
+                    "x": 0.6767,
+                    "y": 0.5306
+                },
+                {
+                    "x": 0.0819,
+                    "y": 0.5306
+                }
+            ],
+            "id": 9,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='10' style='font-size:20px'><tr><td colspan=\"2\">Options</td></tr><tr><td>2.4GHz (IEEE802.11 b/g/n)</td><td>5GHz (IEEE802.11 a/n/ac)</td></tr></table>",
+                "markdown": "| Options | Options |\n| --- | --- |\n| 2.4GHz (IEEE802.11 b/g/n) | 5GHz (IEEE802.11 a/n/ac) |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1398,
+                    "y": 0.5452
+                },
+                {
+                    "x": 0.8495,
+                    "y": 0.5452
+                },
+                {
+                    "x": 0.8495,
+                    "y": 0.5933
+                },
+                {
+                    "x": 0.1398,
+                    "y": 0.5933
+                }
+            ],
+            "id": 10,
+            "page": 1
+        },
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='11' style='font-size:14px'>8</header>",
+                "markdown": "8",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0258,
+                    "y": 0.6569
+                },
+                {
+                    "x": 0.044,
+                    "y": 0.6569
+                },
+                {
+                    "x": 0.044,
+                    "y": 0.6781
+                },
+                {
+                    "x": 0.0258,
+                    "y": 0.6781
+                }
+            ],
+            "id": 11,
+            "page": 1
+        },
+        {
+            "category": "list",
+            "content": {
+                "html": "<br><p id='12' data-category='list' style='font-size:16px'>● Some countries and regions prohibit outdoor use of certain channels<br>in the 5 GHz band. Check whether use of the 5.2 GHz (W52) band is<br>permitted before selecting the 5 GHz option.<br>● The options available vary with the country or region of sale.</p>",
+                "markdown": "- ● Some countries and regions prohibit outdoor use of certain channels\n- in the 5 GHz band. Check whether use of the 5.2 GHz (W52) band is\n- permitted before selecting the 5 GHz option.\n- ● The options available vary with the country or region of sale.\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0925,
+                    "y": 0.6118
+                },
+                {
+                    "x": 0.8893,
+                    "y": 0.6118
+                },
+                {
+                    "x": 0.8893,
+                    "y": 0.7043
+                },
+                {
+                    "x": 0.0925,
+                    "y": 0.7043
+                }
+            ],
+            "id": 12,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='13' data-category='paragraph' style='font-size:18px'>SELECT FILE TYPE</p>",
+                "markdown": "SELECT FILE TYPE",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0944,
+                    "y": 0.7253
+                },
+                {
+                    "x": 0.3156,
+                    "y": 0.7253
+                },
+                {
+                    "x": 0.3156,
+                    "y": 0.7477
+                },
+                {
+                    "x": 0.0944,
+                    "y": 0.7477
+                }
+            ],
+            "id": 13,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='14' data-category='paragraph' style='font-size:20px'>Choose the format or formats used for upload. Pictures can be<br>uploaded in JPEG format and/or HEIF.</p>",
+                "markdown": "Choose the format or formats used for upload. Pictures can be\nuploaded in JPEG format and/or HEIF.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0817,
+                    "y": 0.7559
+                },
+                {
+                    "x": 0.8914,
+                    "y": 0.7559
+                },
+                {
+                    "x": 0.8914,
+                    "y": 0.8054
+                },
+                {
+                    "x": 0.0817,
+                    "y": 0.8054
+                }
+            ],
+            "id": 14,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='15' style='font-size:22px'>266</footer>",
+                "markdown": "266",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0821,
+                    "y": 0.9564
+                },
+                {
+                    "x": 0.1408,
+                    "y": 0.9564
+                },
+                {
+                    "x": 0.1408,
+                    "y": 0.9801
+                },
+                {
+                    "x": 0.0821,
+                    "y": 0.9801
+                }
+            ],
+            "id": 15,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

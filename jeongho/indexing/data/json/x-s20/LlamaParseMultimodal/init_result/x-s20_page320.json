@@ -1,0 +1,153 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "# LENS ZOOM/FOCUS SETTING\n\nAdjust settings for compatible lenses with focus rings or power zoom.\n\n## FOCUS RING ROTATE\n\nChoose the direction in which the focus ring is rotated to increase the focus distance.\n\n| Options | \n|---------|\n| ↻ CW (clockwise) | \n| ↺ CCW (counterclockwise) |\n\n## FOCUS RING OPERATION\n\nChoose how the camera adjusts focus in response to the movement of the focus ring.\n\n| Option     | Description                                                                 |\n|------------|-----------------------------------------------------------------------------|\n| NONLINEAR  | Focus is adjusted at the same rate as the ring is rotated.                  |\n| LINEAR     | Focus is adjusted linearly according to the amount the ring is rotated, but the focusing speed is unaffected by the speed the ring is rotated. |\n\n## CONSTANT SPEED FOCUS (Fn)\n\nChoose the rate at which the focus distance changes when adjusted using function buttons during manual focus with compatible power zoom lenses. The higher the number, the higher the rate.\n\n| Options    |\n|------------|\n| 1 (SLOW)   |\n| 2          |\n| 3          |\n| 4          |\n| 5          |\n| 6          |\n| 7          |\n| 8 (FAST)   |",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "LENS ZOOM/FOCUS SETTING",
+                    "md": "# LENS ZOOM/FOCUS SETTING"
+                },
+                {
+                    "type": "text",
+                    "value": "Adjust settings for compatible lenses with focus rings or power zoom.",
+                    "md": "Adjust settings for compatible lenses with focus rings or power zoom."
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "FOCUS RING ROTATE",
+                    "md": "## FOCUS RING ROTATE"
+                },
+                {
+                    "type": "text",
+                    "value": "Choose the direction in which the focus ring is rotated to increase the focus distance.",
+                    "md": "Choose the direction in which the focus ring is rotated to increase the focus distance."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Options"
+                        ],
+                        [
+                            "↻ CW (clockwise)"
+                        ],
+                        [
+                            "↺ CCW (counterclockwise)"
+                        ]
+                    ],
+                    "md": "| Options | \n|---------|\n| ↻ CW (clockwise) | \n| ↺ CCW (counterclockwise) |",
+                    "isPerfectTable": true,
+                    "csv": "\"Options\"\n\"↻ CW (clockwise)\"\n\"↺ CCW (counterclockwise)\""
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "FOCUS RING OPERATION",
+                    "md": "## FOCUS RING OPERATION"
+                },
+                {
+                    "type": "text",
+                    "value": "Choose how the camera adjusts focus in response to the movement of the focus ring.",
+                    "md": "Choose how the camera adjusts focus in response to the movement of the focus ring."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Option",
+                            "Description"
+                        ],
+                        [
+                            "NONLINEAR",
+                            "Focus is adjusted at the same rate as the ring is rotated."
+                        ],
+                        [
+                            "LINEAR",
+                            "Focus is adjusted linearly according to the amount the ring is rotated, but the focusing speed is unaffected by the speed the ring is rotated."
+                        ]
+                    ],
+                    "md": "| Option     | Description                                                                 |\n|------------|-----------------------------------------------------------------------------|\n| NONLINEAR  | Focus is adjusted at the same rate as the ring is rotated.                  |\n| LINEAR     | Focus is adjusted linearly according to the amount the ring is rotated, but the focusing speed is unaffected by the speed the ring is rotated. |",
+                    "isPerfectTable": true,
+                    "csv": "\"Option\",\"Description\"\n\"NONLINEAR\",\"Focus is adjusted at the same rate as the ring is rotated.\"\n\"LINEAR\",\"Focus is adjusted linearly according to the amount the ring is rotated, but the focusing speed is unaffected by the speed the ring is rotated.\""
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "CONSTANT SPEED FOCUS (Fn)",
+                    "md": "## CONSTANT SPEED FOCUS (Fn)"
+                },
+                {
+                    "type": "text",
+                    "value": "Choose the rate at which the focus distance changes when adjusted using function buttons during manual focus with compatible power zoom lenses. The higher the number, the higher the rate.",
+                    "md": "Choose the rate at which the focus distance changes when adjusted using function buttons during manual focus with compatible power zoom lenses. The higher the number, the higher the rate."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Options"
+                        ],
+                        [
+                            "1 (SLOW)"
+                        ],
+                        [
+                            "2"
+                        ],
+                        [
+                            "3"
+                        ],
+                        [
+                            "4"
+                        ],
+                        [
+                            "5"
+                        ],
+                        [
+                            "6"
+                        ],
+                        [
+                            "7"
+                        ],
+                        [
+                            "8 (FAST)"
+                        ]
+                    ],
+                    "md": "| Options    |\n|------------|\n| 1 (SLOW)   |\n| 2          |\n| 3          |\n| 4          |\n| 5          |\n| 6          |\n| 7          |\n| 8 (FAST)   |",
+                    "isPerfectTable": true,
+                    "csv": "\"Options\"\n\"1 (SLOW)\"\n\"2\"\n\"3\"\n\"4\"\n\"5\"\n\"6\"\n\"7\"\n\"8 (FAST)\""
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 347.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "53ff8dc5-db90-4832-b54a-e3cecddb8207",
+    "file_path": "../data/raw_data/x-s20/x-s20_split/x-s20_page320.pdf"
+}

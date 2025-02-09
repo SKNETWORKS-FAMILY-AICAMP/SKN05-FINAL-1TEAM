@@ -1,0 +1,77 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "\n# SOUND SETTING\n\n## OPERATION VOL.\nAdjust the volume of the sounds produced when camera controls are operated. Choose **OFF** to disable control sounds.\n\n**Options:**\n- High\n- Medium\n- Low\n- OFF (mute)\n\n## REC START/STOP VOLUME\nChoose the volume at the start and end of movie recording.\n\n**Options:**\n- High\n- Medium\n- Low\n- OFF (mute)\n\n## MS EF ELECTRONIC SHUTTER VOLUME\nAdjust the volume of the sounds produced by the mechanical or electronic front-curtain shutter.\n\n**Options:**\n- High\n- Medium\n- Low\n- OFF (mute)\n",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "SOUND SETTING",
+                    "md": "# SOUND SETTING"
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "OPERATION VOL.",
+                    "md": "## OPERATION VOL."
+                },
+                {
+                    "type": "text",
+                    "value": "Adjust the volume of the sounds produced when camera controls are operated. Choose **OFF** to disable control sounds.\n\n**Options:**\n- High\n- Medium\n- Low\n- OFF (mute)",
+                    "md": "Adjust the volume of the sounds produced when camera controls are operated. Choose **OFF** to disable control sounds.\n\n**Options:**\n- High\n- Medium\n- Low\n- OFF (mute)"
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "REC START/STOP VOLUME",
+                    "md": "## REC START/STOP VOLUME"
+                },
+                {
+                    "type": "text",
+                    "value": "Choose the volume at the start and end of movie recording.\n\n**Options:**\n- High\n- Medium\n- Low\n- OFF (mute)",
+                    "md": "Choose the volume at the start and end of movie recording.\n\n**Options:**\n- High\n- Medium\n- Low\n- OFF (mute)"
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "MS EF ELECTRONIC SHUTTER VOLUME",
+                    "md": "## MS EF ELECTRONIC SHUTTER VOLUME"
+                },
+                {
+                    "type": "text",
+                    "value": "Adjust the volume of the sounds produced by the mechanical or electronic front-curtain shutter.\n\n**Options:**\n- High\n- Medium\n- Low\n- OFF (mute)",
+                    "md": "Adjust the volume of the sounds produced by the mechanical or electronic front-curtain shutter.\n\n**Options:**\n- High\n- Medium\n- Low\n- OFF (mute)"
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "parsingMode": "multimodal-openai-gpt4o",
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 574.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "fa828abf-76bc-47e0-a838-7c9321ccb0f5",
+    "file_path": "../data/raw_data/x-t5/x-t5_split/x-t5_page305.pdf"
+}

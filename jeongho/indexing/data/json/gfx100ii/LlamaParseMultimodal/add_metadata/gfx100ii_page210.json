@@ -1,0 +1,8 @@
+{
+    "parsing_result": "# COUNT UP SETTING\n\nChoose whether time is clocked continuously or only during movie recording.\n\n| Option   | Description                                      |\n|----------|--------------------------------------------------|\n| REC RUN  | Time is clocked only during movie recording.     |\n| FREE RUN | Time is clocked continuously.                    |\n\n# DROP FRAME\n\nAt frame rates of 59.94P and 29.97P, a discrepancy will gradually develop between the time code (measured in seconds) and the actual recording time (measured in fractions of a second). Choose whether the camera drops frames as necessary to match the recording time to the time code.\n\n| Option | Description                                                                 |\n|--------|-----------------------------------------------------------------------------|\n| ON     | The camera drops frames as necessary to maintain a strict match between the time code and the actual recording time. |\n| OFF    | Frames are not dropped.                                                     |\n\n- The time code display varies with the option selected.\n\n  !Time Code Display\n\n- Selecting a frame rate of 23.98P disables frame drop.",
+    "embedding_result": [],
+    "metadata": {
+        "page": 210,
+        "model": "gfx100ii"
+    }
+}

@@ -1,0 +1,378 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:14px'>SOUND SETTING</header>\n<h1 id='1' style='font-size:16px'>OPERATION VOL.</h1>\n\n<br><table id='3' style='font-size:20px'><tr><td colspan=\"4\">Options</td></tr><tr><td>(high)</td><td>(medium)</td><td>(low)</td><td>OFF (mute)</td></tr><br><caption id='2' style='font-size:18px'>Adjust the volume of the sounds produced when camera con-<br>trols are operated. Choose IOFF to disable control sounds.</caption></table>\n<h1 id='4' style='font-size:16px'>REC START/STOP VOLUME</h1>\n\n<br><table id='6' style='font-size:18px'><tr><td colspan=\"4\">Options</td></tr><tr><td>(high)</td><td>(medium)</td><td>(low)</td><td>OFF (mute)</td></tr><br><caption id='5' style='font-size:18px'>Choose the volume at the start and end of movie recording.</caption></table>\n\n<br><p id='8' data-category='paragraph' style='font-size:20px'>Adjust the volume of the sounds produced by the mechanical or<br>electronic front-curtain shutter.</p>\n<br><table id='9' style='font-size:18px'><tr><td colspan=\"4\">Options</td></tr><tr><td>1) (high)</td><td>(medium)</td><td>(low)</td><td>OFF (mute)</td></tr><br><caption id='7' style='font-size:20px'>MS EF ELECTRONIC SHUTTER VOLUME</caption></table>\n<footer id='10' style='font-size:22px'>The<br>Setup<br>Menus</footer>\n<footer id='11' style='font-size:14px'>9</footer>\n<footer id='12' style='font-size:22px'>339</footer>",
+        "markdown": "SOUND SETTING\n\n# OPERATION VOL.\n\nAdjust the volume of the sounds produced when camera con-\ntrols are operated. Choose IOFF to disable control sounds.\n\n| Options | Options | Options | Options |\n| --- | --- | --- | --- |\n| (high) | (medium) | (low) | OFF (mute) |\n\n\n# REC START/STOP VOLUME\n\nChoose the volume at the start and end of movie recording.\n\n| Options | Options | Options | Options |\n| --- | --- | --- | --- |\n| (high) | (medium) | (low) | OFF (mute) |\n\n\nMS EF ELECTRONIC SHUTTER VOLUME\n\nAdjust the volume of the sounds produced by the mechanical or\nelectronic front-curtain shutter.\n\n| Options | Options | Options | Options |\n| --- | --- | --- | --- |\n| 1) (high) | (medium) | (low) | OFF (mute) |\n\n\nThe\nSetup\nMenus\n\n9\n\n339",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:14px'>SOUND SETTING</header>",
+                "markdown": "SOUND SETTING",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.7489,
+                    "y": 0.0284
+                },
+                {
+                    "x": 0.9185,
+                    "y": 0.0284
+                },
+                {
+                    "x": 0.9185,
+                    "y": 0.0491
+                },
+                {
+                    "x": 0.7489,
+                    "y": 0.0491
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='1' style='font-size:16px'>OPERATION VOL.</h1>",
+                "markdown": "# OPERATION VOL.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1071,
+                    "y": 0.0735
+                },
+                {
+                    "x": 0.339,
+                    "y": 0.0735
+                },
+                {
+                    "x": 0.339,
+                    "y": 0.0947
+                },
+                {
+                    "x": 0.1071,
+                    "y": 0.0947
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='2' data-category='paragraph' style='font-size:18px'>Adjust the volume of the sounds produced when camera con-<br>trols are operated. Choose IOFF to disable control sounds.</p>",
+                "markdown": "Adjust the volume of the sounds produced when camera con-\ntrols are operated. Choose IOFF to disable control sounds.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1056,
+                    "y": 0.1041
+                },
+                {
+                    "x": 0.9165,
+                    "y": 0.1041
+                },
+                {
+                    "x": 0.9165,
+                    "y": 0.1551
+                },
+                {
+                    "x": 0.1056,
+                    "y": 0.1551
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='3' style='font-size:20px'><tr><td colspan=\"4\">Options</td></tr><tr><td>(high)</td><td>(medium)</td><td>(low)</td><td>OFF (mute)</td></tr></table>",
+                "markdown": "| Options | Options | Options | Options |\n| --- | --- | --- | --- |\n| (high) | (medium) | (low) | OFF (mute) |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1138,
+                    "y": 0.1674
+                },
+                {
+                    "x": 0.9162,
+                    "y": 0.1674
+                },
+                {
+                    "x": 0.9162,
+                    "y": 0.2191
+                },
+                {
+                    "x": 0.1138,
+                    "y": 0.2191
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='4' style='font-size:16px'>REC START/STOP VOLUME</h1>",
+                "markdown": "# REC START/STOP VOLUME",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.109,
+                    "y": 0.2355
+                },
+                {
+                    "x": 0.5007,
+                    "y": 0.2355
+                },
+                {
+                    "x": 0.5007,
+                    "y": 0.257
+                },
+                {
+                    "x": 0.109,
+                    "y": 0.257
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='5' data-category='paragraph' style='font-size:18px'>Choose the volume at the start and end of movie recording.</p>",
+                "markdown": "Choose the volume at the start and end of movie recording.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1062,
+                    "y": 0.2671
+                },
+                {
+                    "x": 0.86,
+                    "y": 0.2671
+                },
+                {
+                    "x": 0.86,
+                    "y": 0.2921
+                },
+                {
+                    "x": 0.1062,
+                    "y": 0.2921
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='6' style='font-size:18px'><tr><td colspan=\"4\">Options</td></tr><tr><td>(high)</td><td>(medium)</td><td>(low)</td><td>OFF (mute)</td></tr></table>",
+                "markdown": "| Options | Options | Options | Options |\n| --- | --- | --- | --- |\n| (high) | (medium) | (low) | OFF (mute) |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1109,
+                    "y": 0.3029
+                },
+                {
+                    "x": 0.9123,
+                    "y": 0.3029
+                },
+                {
+                    "x": 0.9123,
+                    "y": 0.3579
+                },
+                {
+                    "x": 0.1109,
+                    "y": 0.3579
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='7' data-category='paragraph' style='font-size:20px'>MS EF ELECTRONIC SHUTTER VOLUME</p>",
+                "markdown": "MS EF ELECTRONIC SHUTTER VOLUME",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1047,
+                    "y": 0.3706
+                },
+                {
+                    "x": 0.613,
+                    "y": 0.3706
+                },
+                {
+                    "x": 0.613,
+                    "y": 0.3949
+                },
+                {
+                    "x": 0.1047,
+                    "y": 0.3949
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='8' data-category='paragraph' style='font-size:20px'>Adjust the volume of the sounds produced by the mechanical or<br>electronic front-curtain shutter.</p>",
+                "markdown": "Adjust the volume of the sounds produced by the mechanical or\nelectronic front-curtain shutter.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1054,
+                    "y": 0.4029
+                },
+                {
+                    "x": 0.9176,
+                    "y": 0.4029
+                },
+                {
+                    "x": 0.9176,
+                    "y": 0.4538
+                },
+                {
+                    "x": 0.1054,
+                    "y": 0.4538
+                }
+            ],
+            "id": 8,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='9' style='font-size:18px'><tr><td colspan=\"4\">Options</td></tr><tr><td>1) (high)</td><td>(medium)</td><td>(low)</td><td>OFF (mute)</td></tr></table>",
+                "markdown": "| Options | Options | Options | Options |\n| --- | --- | --- | --- |\n| 1) (high) | (medium) | (low) | OFF (mute) |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1111,
+                    "y": 0.467
+                },
+                {
+                    "x": 0.913,
+                    "y": 0.467
+                },
+                {
+                    "x": 0.913,
+                    "y": 0.5182
+                },
+                {
+                    "x": 0.1111,
+                    "y": 0.5182
+                }
+            ],
+            "id": 9,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='10' style='font-size:22px'>The<br>Setup<br>Menus</footer>",
+                "markdown": "The\nSetup\nMenus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9577,
+                    "y": 0.5704
+                },
+                {
+                    "x": 0.9799,
+                    "y": 0.5704
+                },
+                {
+                    "x": 0.9799,
+                    "y": 0.6973
+                },
+                {
+                    "x": 0.9577,
+                    "y": 0.6973
+                }
+            ],
+            "id": 10,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='11' style='font-size:14px'>9</footer>",
+                "markdown": "9",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9576,
+                    "y": 0.7171
+                },
+                {
+                    "x": 0.9762,
+                    "y": 0.7171
+                },
+                {
+                    "x": 0.9762,
+                    "y": 0.7371
+                },
+                {
+                    "x": 0.9576,
+                    "y": 0.7371
+                }
+            ],
+            "id": 11,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='12' style='font-size:22px'>339</footer>",
+                "markdown": "339",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.8607,
+                    "y": 0.9565
+                },
+                {
+                    "x": 0.9176,
+                    "y": 0.9565
+                },
+                {
+                    "x": 0.9176,
+                    "y": 0.9794
+                },
+                {
+                    "x": 0.8607,
+                    "y": 0.9794
+                }
+            ],
+            "id": 12,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

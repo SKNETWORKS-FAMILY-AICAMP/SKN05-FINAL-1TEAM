@@ -1,0 +1,266 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<h1 id='0' style='font-size:18px'>AE/AF-LOCK MODE</h1>\n<header id='1' style='font-size:22px'>The<br>Setup<br>Menus</header>\n\n<br><table id='3' style='font-size:14px'><tr><td>Option</td><td>Description</td></tr><tr><td>AE&AF ON WHEN PRESSING</td><td>Exposure and/or focus will lock while the button is pressed.</td></tr><tr><td>AE&AF ON/OFF SWITCH</td><td>Exposure and/or focus will lock when the button is pressed and re- main locked until it is pressed again.</td></tr><br><caption id='2' style='font-size:18px'>This option determines the behavior of the button to which<br>exposure and/or focus lock is assigned.</caption></table>\n<p id='4' data-category='paragraph' style='font-size:16px'>AWB-LOCK MODE</p>\n\n<br><table id='6' style='font-size:14px'><tr><td>Option</td><td>Description</td></tr><tr><td>AWB ON WHEN PRESSING</td><td>Auto white balance locks while the button is pressed.</td></tr><tr><td>AWB ON/OFF SWITCH</td><td>Press the button once to lock auto white balance and again to end the lock.</td></tr><caption id='5' style='font-size:16px'>Choose the behavior of function buttons assigned auto white balance<br>(AWB) lock. Auto white balance lock is used to lock white balance at<br>WB AUTO WHITE PRIORITY, AUTO,<br>the value metered by the camera when w<br>WB AUTO AMBIENCE PRIORITY is selected for white balance.<br>or</caption></table>\n<p id='7' data-category='paragraph' style='font-size:14px'>9</p>\n<footer id='8' style='font-size:20px'>302</footer>",
+        "markdown": "# AE/AF-LOCK MODE\n\nThe\nSetup\nMenus\n\nThis option determines the behavior of the button to which\nexposure and/or focus lock is assigned.\n\n| Option | Description |\n| --- | --- |\n| AE&AF ON WHEN PRESSING | Exposure and/or focus will lock while the button is pressed. |\n| AE&AF ON/OFF SWITCH | Exposure and/or focus will lock when the button is pressed and re- main locked until it is pressed again. |\n\n\nAWB-LOCK MODE\n\nChoose the behavior of function buttons assigned auto white balance\n(AWB) lock. Auto white balance lock is used to lock white balance at\nWB AUTO WHITE PRIORITY, AUTO,\nthe value metered by the camera when w\nWB AUTO AMBIENCE PRIORITY is selected for white balance.\nor\n\n| Option | Description |\n| --- | --- |\n| AWB ON WHEN PRESSING | Auto white balance locks while the button is pressed. |\n| AWB ON/OFF SWITCH | Press the button once to lock auto white balance and again to end the lock. |\n\n\n9\n\n302",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='0' style='font-size:18px'>AE/AF-LOCK MODE</h1>",
+                "markdown": "# AE/AF-LOCK MODE",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0813,
+                    "y": 0.0721
+                },
+                {
+                    "x": 0.3455,
+                    "y": 0.0721
+                },
+                {
+                    "x": 0.3455,
+                    "y": 0.0955
+                },
+                {
+                    "x": 0.0813,
+                    "y": 0.0955
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='1' style='font-size:22px'>The<br>Setup<br>Menus</header>",
+                "markdown": "The\nSetup\nMenus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0186,
+                    "y": 0.5687
+                },
+                {
+                    "x": 0.041,
+                    "y": 0.5687
+                },
+                {
+                    "x": 0.041,
+                    "y": 0.6986
+                },
+                {
+                    "x": 0.0186,
+                    "y": 0.6986
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='2' data-category='paragraph' style='font-size:18px'>This option determines the behavior of the button to which<br>exposure and/or focus lock is assigned.</p>",
+                "markdown": "This option determines the behavior of the button to which\nexposure and/or focus lock is assigned.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0806,
+                    "y": 0.1037
+                },
+                {
+                    "x": 0.8919,
+                    "y": 0.1037
+                },
+                {
+                    "x": 0.8919,
+                    "y": 0.1546
+                },
+                {
+                    "x": 0.0806,
+                    "y": 0.1546
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='3' style='font-size:14px'><tr><td>Option</td><td>Description</td></tr><tr><td>AE&AF ON WHEN PRESSING</td><td>Exposure and/or focus will lock while the button is pressed.</td></tr><tr><td>AE&AF ON/OFF SWITCH</td><td>Exposure and/or focus will lock when the button is pressed and re- main locked until it is pressed again.</td></tr></table>",
+                "markdown": "| Option | Description |\n| --- | --- |\n| AE&AF ON WHEN PRESSING | Exposure and/or focus will lock while the button is pressed. |\n| AE&AF ON/OFF SWITCH | Exposure and/or focus will lock when the button is pressed and re- main locked until it is pressed again. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0841,
+                    "y": 0.1626
+                },
+                {
+                    "x": 0.893,
+                    "y": 0.1626
+                },
+                {
+                    "x": 0.893,
+                    "y": 0.2816
+                },
+                {
+                    "x": 0.0841,
+                    "y": 0.2816
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='4' data-category='paragraph' style='font-size:16px'>AWB-LOCK MODE</p>",
+                "markdown": "AWB-LOCK MODE",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0808,
+                    "y": 0.3002
+                },
+                {
+                    "x": 0.3246,
+                    "y": 0.3002
+                },
+                {
+                    "x": 0.3246,
+                    "y": 0.3215
+                },
+                {
+                    "x": 0.0808,
+                    "y": 0.3215
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='5' data-category='paragraph' style='font-size:16px'>Choose the behavior of function buttons assigned auto white balance<br>(AWB) lock. Auto white balance lock is used to lock white balance at<br>WB AUTO WHITE PRIORITY, AUTO,<br>the value metered by the camera when w<br>WB AUTO AMBIENCE PRIORITY is selected for white balance.<br>or</p>",
+                "markdown": "Choose the behavior of function buttons assigned auto white balance\n(AWB) lock. Auto white balance lock is used to lock white balance at\nWB AUTO WHITE PRIORITY, AUTO,\nthe value metered by the camera when w\nWB AUTO AMBIENCE PRIORITY is selected for white balance.\nor",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0798,
+                    "y": 0.3317
+                },
+                {
+                    "x": 0.8945,
+                    "y": 0.3317
+                },
+                {
+                    "x": 0.8945,
+                    "y": 0.4318
+                },
+                {
+                    "x": 0.0798,
+                    "y": 0.4318
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='6' style='font-size:14px'><tr><td>Option</td><td>Description</td></tr><tr><td>AWB ON WHEN PRESSING</td><td>Auto white balance locks while the button is pressed.</td></tr><tr><td>AWB ON/OFF SWITCH</td><td>Press the button once to lock auto white balance and again to end the lock.</td></tr></table>",
+                "markdown": "| Option | Description |\n| --- | --- |\n| AWB ON WHEN PRESSING | Auto white balance locks while the button is pressed. |\n| AWB ON/OFF SWITCH | Press the button once to lock auto white balance and again to end the lock. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0853,
+                    "y": 0.4411
+                },
+                {
+                    "x": 0.893,
+                    "y": 0.4411
+                },
+                {
+                    "x": 0.893,
+                    "y": 0.5601
+                },
+                {
+                    "x": 0.0853,
+                    "y": 0.5601
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='7' data-category='paragraph' style='font-size:14px'>9</p>",
+                "markdown": "9",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0278,
+                    "y": 0.7187
+                },
+                {
+                    "x": 0.0417,
+                    "y": 0.7187
+                },
+                {
+                    "x": 0.0417,
+                    "y": 0.7352
+                },
+                {
+                    "x": 0.0278,
+                    "y": 0.7352
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='8' style='font-size:20px'>302</footer>",
+                "markdown": "302",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0833,
+                    "y": 0.9565
+                },
+                {
+                    "x": 0.1392,
+                    "y": 0.9565
+                },
+                {
+                    "x": 0.1392,
+                    "y": 0.9796
+                },
+                {
+                    "x": 0.0833,
+                    "y": 0.9796
+                }
+            ],
+            "id": 8,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

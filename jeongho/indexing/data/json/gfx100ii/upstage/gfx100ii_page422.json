@@ -1,0 +1,154 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:14px'>Accessories from Fujifilm</header>\n<table id='1' style='font-size:14px'><tr><td>Grip belts</td></tr><tr><td>GB-001: Improves grip.</td></tr><tr><td>Body caps</td></tr><tr><td>BCP-002: Cover the camera lens mount when no lens is attached.</td></tr><tr><td>instax SHARE printers</td></tr><tr><td>SP-1/SP-2/SP-3: Connect via wireless LAN to print pictures on instax film.</td></tr></table>\n<header id='2' style='font-size:20px'>Technical<br>Notes</header>\n<footer id='3' style='font-size:16px'>12</footer>\n<footer id='4' style='font-size:18px'>422</footer>",
+        "markdown": "Accessories from Fujifilm\n\n| Grip belts |\n| --- |\n| GB-001: Improves grip. |\n| Body caps |\n| BCP-002: Cover the camera lens mount when no lens is attached. |\n| instax SHARE printers |\n| SP-1/SP-2/SP-3: Connect via wireless LAN to print pictures on instax film. |\n\n\nTechnical\nNotes\n\n12\n\n422",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:14px'>Accessories from Fujifilm</header>",
+                "markdown": "Accessories from Fujifilm",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.648,
+                    "y": 0.0284
+                },
+                {
+                    "x": 0.8914,
+                    "y": 0.0284
+                },
+                {
+                    "x": 0.8914,
+                    "y": 0.0506
+                },
+                {
+                    "x": 0.648,
+                    "y": 0.0506
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='1' style='font-size:14px'><tr><td>Grip belts</td></tr><tr><td>GB-001: Improves grip.</td></tr><tr><td>Body caps</td></tr><tr><td>BCP-002: Cover the camera lens mount when no lens is attached.</td></tr><tr><td>instax SHARE printers</td></tr><tr><td>SP-1/SP-2/SP-3: Connect via wireless LAN to print pictures on instax film.</td></tr></table>",
+                "markdown": "| Grip belts |\n| --- |\n| GB-001: Improves grip. |\n| Body caps |\n| BCP-002: Cover the camera lens mount when no lens is attached. |\n| instax SHARE printers |\n| SP-1/SP-2/SP-3: Connect via wireless LAN to print pictures on instax film. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0846,
+                    "y": 0.0775
+                },
+                {
+                    "x": 0.8884,
+                    "y": 0.0775
+                },
+                {
+                    "x": 0.8884,
+                    "y": 0.227
+                },
+                {
+                    "x": 0.0846,
+                    "y": 0.227
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='2' style='font-size:20px'>Technical<br>Notes</header>",
+                "markdown": "Technical\nNotes",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0198,
+                    "y": 0.7618
+                },
+                {
+                    "x": 0.0402,
+                    "y": 0.7618
+                },
+                {
+                    "x": 0.0402,
+                    "y": 0.8812
+                },
+                {
+                    "x": 0.0198,
+                    "y": 0.8812
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='3' style='font-size:16px'>12</footer>",
+                "markdown": "12",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0195,
+                    "y": 0.8969
+                },
+                {
+                    "x": 0.044,
+                    "y": 0.8969
+                },
+                {
+                    "x": 0.044,
+                    "y": 0.9168
+                },
+                {
+                    "x": 0.0195,
+                    "y": 0.9168
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='4' style='font-size:18px'>422</footer>",
+                "markdown": "422",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0832,
+                    "y": 0.9568
+                },
+                {
+                    "x": 0.1388,
+                    "y": 0.9568
+                },
+                {
+                    "x": 0.1388,
+                    "y": 0.9785
+                },
+                {
+                    "x": 0.0832,
+                    "y": 0.9785
+                }
+            ],
+            "id": 4,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

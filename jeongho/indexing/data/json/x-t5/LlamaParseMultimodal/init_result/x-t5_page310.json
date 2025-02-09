@@ -1,0 +1,99 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "\n# LCD BRIGHTNESS\nAdjust monitor brightness.\n\n| Options |\n|---------|\n| -5 -4 -3 -2 -1 0 +1 +2 +3 +4 +5 |\n\n# LCD COLOR\nAdjust monitor saturation.\n\n| Options |\n|---------|\n| -5 -4 -3 -2 -1 0 +1 +2 +3 +4 +5 |\n\n# LCD COLOR ADJUSTMENT\nAdjust the color of the display in the LCD monitor.\n\n1. Adjust colors using the selector.\n2. Press **MENU/OK**.\n",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "LCD BRIGHTNESS",
+                    "md": "# LCD BRIGHTNESS"
+                },
+                {
+                    "type": "text",
+                    "value": "Adjust monitor brightness.",
+                    "md": "Adjust monitor brightness."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Options"
+                        ],
+                        [
+                            "-5 -4 -3 -2 -1 0 +1 +2 +3 +4 +5"
+                        ]
+                    ],
+                    "md": "| Options |\n|---------|\n| -5 -4 -3 -2 -1 0 +1 +2 +3 +4 +5 |",
+                    "isPerfectTable": true,
+                    "csv": "\"Options\"\n\"-5 -4 -3 -2 -1 0 +1 +2 +3 +4 +5\""
+                },
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "LCD COLOR",
+                    "md": "# LCD COLOR"
+                },
+                {
+                    "type": "text",
+                    "value": "Adjust monitor saturation.",
+                    "md": "Adjust monitor saturation."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Options"
+                        ],
+                        [
+                            "-5 -4 -3 -2 -1 0 +1 +2 +3 +4 +5"
+                        ]
+                    ],
+                    "md": "| Options |\n|---------|\n| -5 -4 -3 -2 -1 0 +1 +2 +3 +4 +5 |",
+                    "isPerfectTable": true,
+                    "csv": "\"Options\"\n\"-5 -4 -3 -2 -1 0 +1 +2 +3 +4 +5\""
+                },
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "LCD COLOR ADJUSTMENT",
+                    "md": "# LCD COLOR ADJUSTMENT"
+                },
+                {
+                    "type": "text",
+                    "value": "Adjust the color of the display in the LCD monitor.\n\n1. Adjust colors using the selector.\n2. Press **MENU/OK**.",
+                    "md": "Adjust the color of the display in the LCD monitor.\n\n1. Adjust colors using the selector.\n2. Press **MENU/OK**."
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "parsingMode": "multimodal-openai-gpt4o",
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 716.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "00768fb4-e827-4f30-909a-13f168c1fc16",
+    "file_path": "../data/raw_data/x-t5/x-t5_split/x-t5_page310.pdf"
+}

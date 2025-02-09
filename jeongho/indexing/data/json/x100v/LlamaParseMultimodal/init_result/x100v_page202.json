@@ -1,0 +1,83 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "# ERASE\n\nDelete individual pictures, multiple selected pictures, or all pictures.\n\n> ⚠️ **Note:**  \n> Deleted pictures cannot be recovered. Protect important pictures or copy them to a computer or other storage device before proceeding.\n\n| Option          | Description                          |\n|-----------------|--------------------------------------|\n| FRAME           | Delete pictures one at a time.       |\n| SELECTED FRAMES | Delete multiple selected pictures.   |\n| ALL FRAMES      | Delete all unprotected pictures.     |\n\n## FRAME\n\n1. Select **FRAME** for ERASE in the playback menu.\n2. Press the focus stick (focus lever) left or right to scroll through pictures and press **MENU/OK** to delete.\n\n> 💡 **Tips:**\n> - A confirmation dialog is not displayed before pictures are deleted; be sure the correct picture is selected before pressing **MENU/OK**.\n> - Additional pictures can be deleted by pressing **MENU/OK**. Press the focus stick left or right to scroll through pictures and press **MENU/OK** to delete.",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "ERASE",
+                    "md": "# ERASE"
+                },
+                {
+                    "type": "text",
+                    "value": "Delete individual pictures, multiple selected pictures, or all pictures.\n\n> ⚠️ **Note:**  \n> Deleted pictures cannot be recovered. Protect important pictures or copy them to a computer or other storage device before proceeding.",
+                    "md": "Delete individual pictures, multiple selected pictures, or all pictures.\n\n> ⚠️ **Note:**  \n> Deleted pictures cannot be recovered. Protect important pictures or copy them to a computer or other storage device before proceeding."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Option",
+                            "Description"
+                        ],
+                        [
+                            "FRAME",
+                            "Delete pictures one at a time."
+                        ],
+                        [
+                            "SELECTED FRAMES",
+                            "Delete multiple selected pictures."
+                        ],
+                        [
+                            "ALL FRAMES",
+                            "Delete all unprotected pictures."
+                        ]
+                    ],
+                    "md": "| Option          | Description                          |\n|-----------------|--------------------------------------|\n| FRAME           | Delete pictures one at a time.       |\n| SELECTED FRAMES | Delete multiple selected pictures.   |\n| ALL FRAMES      | Delete all unprotected pictures.     |",
+                    "isPerfectTable": true,
+                    "csv": "\"Option\",\"Description\"\n\"FRAME\",\"Delete pictures one at a time.\"\n\"SELECTED FRAMES\",\"Delete multiple selected pictures.\"\n\"ALL FRAMES\",\"Delete all unprotected pictures.\""
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "FRAME",
+                    "md": "## FRAME"
+                },
+                {
+                    "type": "text",
+                    "value": "1. Select **FRAME** for ERASE in the playback menu.\n2. Press the focus stick (focus lever) left or right to scroll through pictures and press **MENU/OK** to delete.\n\n> 💡 **Tips:**\n> - A confirmation dialog is not displayed before pictures are deleted; be sure the correct picture is selected before pressing **MENU/OK**.\n> - Additional pictures can be deleted by pressing **MENU/OK**. Press the focus stick left or right to scroll through pictures and press **MENU/OK** to delete.",
+                    "md": "1. Select **FRAME** for ERASE in the playback menu.\n2. Press the focus stick (focus lever) left or right to scroll through pictures and press **MENU/OK** to delete.\n\n> 💡 **Tips:**\n> - A confirmation dialog is not displayed before pictures are deleted; be sure the correct picture is selected before pressing **MENU/OK**.\n> - Additional pictures can be deleted by pressing **MENU/OK**. Press the focus stick left or right to scroll through pictures and press **MENU/OK** to delete."
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 689.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "468a70ab-4732-4007-a6e7-d1821846b6a7",
+    "file_path": "../data/raw_data/x100v/x100v_split/x100v_page202.pdf"
+}

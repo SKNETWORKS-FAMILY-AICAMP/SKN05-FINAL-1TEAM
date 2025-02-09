@@ -1,0 +1,70 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<p id='0' data-category='paragraph' style='font-size:18px'>The Setup Menus</p>\n<footer id='1' style='font-size:14px'>269</footer>",
+        "markdown": "The Setup Menus\n\n269",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='0' data-category='paragraph' style='font-size:18px'>The Setup Menus</p>",
+                "markdown": "The Setup Menus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.3835,
+                    "y": 0.3627
+                },
+                {
+                    "x": 0.7935,
+                    "y": 0.3627
+                },
+                {
+                    "x": 0.7935,
+                    "y": 0.3999
+                },
+                {
+                    "x": 0.3835,
+                    "y": 0.3999
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='1' style='font-size:14px'>269</footer>",
+                "markdown": "269",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.8603,
+                    "y": 0.9561
+                },
+                {
+                    "x": 0.9178,
+                    "y": 0.9561
+                },
+                {
+                    "x": 0.9178,
+                    "y": 0.9794
+                },
+                {
+                    "x": 0.8603,
+                    "y": 0.9794
+                }
+            ],
+            "id": 1,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

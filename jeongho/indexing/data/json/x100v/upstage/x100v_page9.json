@@ -1,0 +1,238 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:14px'>Parts of the Camera</header>\n<h1 id='1' style='font-size:18px'>The DRIVE/DELETE Button</h1>\n<br><h1 id='2' style='font-size:20px'>Pressing the DRIVE/DELETE button displays<br>the drive-mode menu.</h1>\n<br><figure id='3'><img style='font-size:14px' alt=\"DRIVE\nDELETE\" data-coord=\"top-left:(1756,483); bottom-right:(2530,892)\" /></figure>\n\n<br><table id='5' style='font-size:16px'><tr><td>Mode</td><td></td><td>Mode</td><td></td></tr><tr><td>STILL IMAGE</td><td>44</td><td>BKT BKT</td><td>86</td></tr><tr><td>현 CONTINUOUS ES</td><td rowspan=\"3\">89</td><td>HDR HDR</td><td>90</td></tr><tr><td>CH CH HIGH SPEED BURST</td><td rowspan=\"3\">Adv. Adv. MODE</td><td>92</td></tr><tr><td>CL CL LOW SPEED BURST</td><td>95</td></tr><tr><td>ISO ISO BKT</td><td>85</td><td>97</td></tr><tr><td>WB WHITE BALANCE BKT</td><td>85</td><td>MOVIE</td><td>50</td></tr><br><caption id='4' style='font-size:16px'>1</caption></table>\n<footer id='6' style='font-size:20px'>9</footer>\n<br><footer id='7' style='font-size:22px'>Before<br>You<br>Begin</footer>",
+        "markdown": "Parts of the Camera\n\n# The DRIVE/DELETE Button\n\n# Pressing the DRIVE/DELETE button displays\nthe drive-mode menu.\n\n![image](/image/placeholder)\nDRIVE\nDELETE\n\n1\n\n| Mode |  | Mode |  |\n| --- | --- | --- | --- |\n| STILL IMAGE | 44 | BKT BKT | 86 |\n| 현 CONTINUOUS ES | 89 | HDR HDR | 90 |\n| CH CH HIGH SPEED BURST | 89 | Adv. Adv. MODE | 92 |\n| CL CL LOW SPEED BURST | 89 | Adv. Adv. MODE | 95 |\n| ISO ISO BKT | 85 | Adv. Adv. MODE | 97 |\n| WB WHITE BALANCE BKT | 85 | MOVIE | 50 |\n\n\n9\n\nBefore\nYou\nBegin",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:14px'>Parts of the Camera</header>",
+                "markdown": "Parts of the Camera",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.7228,
+                    "y": 0.0297
+                },
+                {
+                    "x": 0.9181,
+                    "y": 0.0297
+                },
+                {
+                    "x": 0.9181,
+                    "y": 0.0496
+                },
+                {
+                    "x": 0.7228,
+                    "y": 0.0496
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='1' style='font-size:18px'>The DRIVE/DELETE Button</h1>",
+                "markdown": "# The DRIVE/DELETE Button",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.109,
+                    "y": 0.0733
+                },
+                {
+                    "x": 0.4645,
+                    "y": 0.0733
+                },
+                {
+                    "x": 0.4645,
+                    "y": 0.0953
+                },
+                {
+                    "x": 0.109,
+                    "y": 0.0953
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='2' style='font-size:20px'>Pressing the DRIVE/DELETE button displays<br>the drive-mode menu.</h1>",
+                "markdown": "# Pressing the DRIVE/DELETE button displays\nthe drive-mode menu.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1048,
+                    "y": 0.1043
+                },
+                {
+                    "x": 0.6276,
+                    "y": 0.1043
+                },
+                {
+                    "x": 0.6276,
+                    "y": 0.1537
+                },
+                {
+                    "x": 0.1048,
+                    "y": 0.1537
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "figure",
+            "content": {
+                "html": "<br><figure id='3'><img style='font-size:14px' alt=\"DRIVE\nDELETE\" data-coord=\"top-left:(1756,483); bottom-right:(2530,892)\" /></figure>",
+                "markdown": "![image](/image/placeholder)\nDRIVE\nDELETE",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6356,
+                    "y": 0.1241
+                },
+                {
+                    "x": 0.9157,
+                    "y": 0.1241
+                },
+                {
+                    "x": 0.9157,
+                    "y": 0.229
+                },
+                {
+                    "x": 0.6356,
+                    "y": 0.229
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='4' data-category='paragraph' style='font-size:16px'>1</p>",
+                "markdown": "1",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9595,
+                    "y": 0.2403
+                },
+                {
+                    "x": 0.9721,
+                    "y": 0.2403
+                },
+                {
+                    "x": 0.9721,
+                    "y": 0.2562
+                },
+                {
+                    "x": 0.9595,
+                    "y": 0.2562
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='5' style='font-size:16px'><tr><td>Mode</td><td></td><td>Mode</td><td></td></tr><tr><td>STILL IMAGE</td><td>44</td><td>BKT BKT</td><td>86</td></tr><tr><td>현 CONTINUOUS ES</td><td rowspan=\"3\">89</td><td>HDR HDR</td><td>90</td></tr><tr><td>CH CH HIGH SPEED BURST</td><td rowspan=\"3\">Adv. Adv. MODE</td><td>92</td></tr><tr><td>CL CL LOW SPEED BURST</td><td>95</td></tr><tr><td>ISO ISO BKT</td><td>85</td><td>97</td></tr><tr><td>WB WHITE BALANCE BKT</td><td>85</td><td>MOVIE</td><td>50</td></tr></table>",
+                "markdown": "| Mode |  | Mode |  |\n| --- | --- | --- | --- |\n| STILL IMAGE | 44 | BKT BKT | 86 |\n| 현 CONTINUOUS ES | 89 | HDR HDR | 90 |\n| CH CH HIGH SPEED BURST | 89 | Adv. Adv. MODE | 92 |\n| CL CL LOW SPEED BURST | 89 | Adv. Adv. MODE | 95 |\n| ISO ISO BKT | 85 | Adv. Adv. MODE | 97 |\n| WB WHITE BALANCE BKT | 85 | MOVIE | 50 |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1089,
+                    "y": 0.2591
+                },
+                {
+                    "x": 0.911,
+                    "y": 0.2591
+                },
+                {
+                    "x": 0.911,
+                    "y": 0.4312
+                },
+                {
+                    "x": 0.1089,
+                    "y": 0.4312
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='6' style='font-size:20px'>9</footer>",
+                "markdown": "9",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.8954,
+                    "y": 0.9573
+                },
+                {
+                    "x": 0.917,
+                    "y": 0.9573
+                },
+                {
+                    "x": 0.917,
+                    "y": 0.9782
+                },
+                {
+                    "x": 0.8954,
+                    "y": 0.9782
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<br><footer id='7' style='font-size:22px'>Before<br>You<br>Begin</footer>",
+                "markdown": "Before\nYou\nBegin",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9565,
+                    "y": 0.2773
+                },
+                {
+                    "x": 0.982,
+                    "y": 0.2773
+                },
+                {
+                    "x": 0.982,
+                    "y": 0.4021
+                },
+                {
+                    "x": 0.9565,
+                    "y": 0.4021
+                }
+            ],
+            "id": 7,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

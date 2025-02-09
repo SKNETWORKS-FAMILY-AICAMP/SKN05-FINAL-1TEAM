@@ -1,0 +1,94 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "\n# PC AUTO SAVE\n\nAdjust settings for connection to computers via wireless LAN.\n\n| Option                          | Description                                                                                                                                   |\n|---------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|\n| **PC AUTO SAVE SETTING**        | Choose the method used for connection to computers via a wireless LAN.  - **SIMPLE SETUP**: Connect using WPS.  - **MANUAL SETUP**: Choose the network from a list (SELECT FROM NETWORK LIST) or enter the name manually (ENTER SSID). |\n| **DELETE REGISTERED DESTINATION PC** | Remove selected destinations.                                                                                                                   |\n| **DETAILS OF PREVIOUS CONNECTION**   | View computers to which the camera has recently connected.                                                                                       |\n\n# instax PRINTER CONNECTION SETTING\n\nAdjust settings for connection to optional Fujifilm instax SHARE printers.\n\n### The Printer Name (SSID) and Password\n\nThe printer name (SSID) can be found on the bottom of the printer; the default password is \"1111\". If you have already chosen a different password to print from a smartphone, enter that password instead.\n\n!Printer SSID and Password\n",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "PC AUTO SAVE",
+                    "md": "# PC AUTO SAVE"
+                },
+                {
+                    "type": "text",
+                    "value": "Adjust settings for connection to computers via wireless LAN.",
+                    "md": "Adjust settings for connection to computers via wireless LAN."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Option",
+                            "Description"
+                        ],
+                        [
+                            "**PC AUTO SAVE SETTING**",
+                            "Choose the method used for connection to computers via a wireless LAN.  - **SIMPLE SETUP**: Connect using WPS.  - **MANUAL SETUP**: Choose the network from a list (SELECT FROM NETWORK LIST) or enter the name manually (ENTER SSID)."
+                        ],
+                        [
+                            "**DELETE REGISTERED DESTINATION PC**",
+                            "Remove selected destinations."
+                        ],
+                        [
+                            "**DETAILS OF PREVIOUS CONNECTION**",
+                            "View computers to which the camera has recently connected."
+                        ]
+                    ],
+                    "md": "| Option                          | Description                                                                                                                                   |\n|---------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|\n| **PC AUTO SAVE SETTING**        | Choose the method used for connection to computers via a wireless LAN.  - **SIMPLE SETUP**: Connect using WPS.  - **MANUAL SETUP**: Choose the network from a list (SELECT FROM NETWORK LIST) or enter the name manually (ENTER SSID). |\n| **DELETE REGISTERED DESTINATION PC** | Remove selected destinations.                                                                                                                   |\n| **DETAILS OF PREVIOUS CONNECTION**   | View computers to which the camera has recently connected.                                                                                       |",
+                    "isPerfectTable": true,
+                    "csv": "\"Option\",\"Description\"\n\"**PC AUTO SAVE SETTING**\",\"Choose the method used for connection to computers via a wireless LAN.  - **SIMPLE SETUP**: Connect using WPS.  - **MANUAL SETUP**: Choose the network from a list (SELECT FROM NETWORK LIST) or enter the name manually (ENTER SSID).\"\n\"**DELETE REGISTERED DESTINATION PC**\",\"Remove selected destinations.\"\n\"**DETAILS OF PREVIOUS CONNECTION**\",\"View computers to which the camera has recently connected.\""
+                },
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "instax PRINTER CONNECTION SETTING",
+                    "md": "# instax PRINTER CONNECTION SETTING"
+                },
+                {
+                    "type": "text",
+                    "value": "Adjust settings for connection to optional Fujifilm instax SHARE printers.",
+                    "md": "Adjust settings for connection to optional Fujifilm instax SHARE printers."
+                },
+                {
+                    "type": "heading",
+                    "lvl": 3,
+                    "value": "The Printer Name (SSID) and Password",
+                    "md": "### The Printer Name (SSID) and Password"
+                },
+                {
+                    "type": "text",
+                    "value": "The printer name (SSID) can be found on the bottom of the printer; the default password is \"1111\". If you have already chosen a different password to print from a smartphone, enter that password instead.\n\n!Printer SSID and Password",
+                    "md": "The printer name (SSID) can be found on the bottom of the printer; the default password is \"1111\". If you have already chosen a different password to print from a smartphone, enter that password instead.\n\n!Printer SSID and Password"
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 703.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "4fdda936-7281-4e02-b2cc-5db527bcb5d1",
+    "file_path": "../data/raw_data/x100v/x100v_split/x100v_page258.pdf"
+}

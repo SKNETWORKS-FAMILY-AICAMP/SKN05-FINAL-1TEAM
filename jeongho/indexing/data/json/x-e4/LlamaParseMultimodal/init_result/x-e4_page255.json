@@ -1,0 +1,119 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "\n# TOUCH SCREEN SETTING\n\n| Option | Description                                           |\n|--------|-------------------------------------------------------|\n| ON     | The LCD monitor functions as a touch screen during playback. |\n| OFF    | Touch controls disabled.                              |\n\n# EVF TOUCH SCREEN AREA SETTINGS\n\nSelect the area of the LCD monitor used for touch controls while the viewfinder is active. The area used for touch controls can be selected from:\n\n| Option | Description            |\n|--------|------------------------|\n| □      | All.                   |\n| ■      | Right half.            |\n| ▪      | Top right quarter.     |\n| ▫      | Bottom right quarter.  |\n| ◇      | Left half.             |\n| ▴      | Top left quarter.      |\n| ▾      | Bottom left quarter.   |\n| OFF    | Touch controls disabled. |\n",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "TOUCH SCREEN SETTING",
+                    "md": "# TOUCH SCREEN SETTING"
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Option",
+                            "Description"
+                        ],
+                        [
+                            "ON",
+                            "The LCD monitor functions as a touch screen during playback."
+                        ],
+                        [
+                            "OFF",
+                            "Touch controls disabled."
+                        ]
+                    ],
+                    "md": "| Option | Description                                           |\n|--------|-------------------------------------------------------|\n| ON     | The LCD monitor functions as a touch screen during playback. |\n| OFF    | Touch controls disabled.                              |",
+                    "isPerfectTable": true,
+                    "csv": "\"Option\",\"Description\"\n\"ON\",\"The LCD monitor functions as a touch screen during playback.\"\n\"OFF\",\"Touch controls disabled.\""
+                },
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "EVF TOUCH SCREEN AREA SETTINGS",
+                    "md": "# EVF TOUCH SCREEN AREA SETTINGS"
+                },
+                {
+                    "type": "text",
+                    "value": "Select the area of the LCD monitor used for touch controls while the viewfinder is active. The area used for touch controls can be selected from:",
+                    "md": "Select the area of the LCD monitor used for touch controls while the viewfinder is active. The area used for touch controls can be selected from:"
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Option",
+                            "Description"
+                        ],
+                        [
+                            "□",
+                            "All."
+                        ],
+                        [
+                            "■",
+                            "Right half."
+                        ],
+                        [
+                            "▪",
+                            "Top right quarter."
+                        ],
+                        [
+                            "▫",
+                            "Bottom right quarter."
+                        ],
+                        [
+                            "◇",
+                            "Left half."
+                        ],
+                        [
+                            "▴",
+                            "Top left quarter."
+                        ],
+                        [
+                            "▾",
+                            "Bottom left quarter."
+                        ],
+                        [
+                            "OFF",
+                            "Touch controls disabled."
+                        ]
+                    ],
+                    "md": "| Option | Description            |\n|--------|------------------------|\n| □      | All.                   |\n| ■      | Right half.            |\n| ▪      | Top right quarter.     |\n| ▫      | Bottom right quarter.  |\n| ◇      | Left half.             |\n| ▴      | Top left quarter.      |\n| ▾      | Bottom left quarter.   |\n| OFF    | Touch controls disabled. |",
+                    "isPerfectTable": true,
+                    "csv": "\"Option\",\"Description\"\n\"□\",\"All.\"\n\"■\",\"Right half.\"\n\"▪\",\"Top right quarter.\"\n\"▫\",\"Bottom right quarter.\"\n\"◇\",\"Left half.\"\n\"▴\",\"Top left quarter.\"\n\"▾\",\"Bottom left quarter.\"\n\"OFF\",\"Touch controls disabled.\""
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "parsingMode": "multimodal-openai-gpt4o",
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 237.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "c8293944-5ba8-42b5-8389-c7e2b9fdfad5",
+    "file_path": "../data/raw_data/x-e4/x-e4_split/x-e4_page255.pdf"
+}

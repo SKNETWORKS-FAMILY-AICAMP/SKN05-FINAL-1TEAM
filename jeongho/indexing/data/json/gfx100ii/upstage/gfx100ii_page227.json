@@ -1,0 +1,322 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<p id='0' data-category='paragraph' style='font-size:14px'>The Playback Menu</p>\n<h1 id='1' style='font-size:16px'>RESIZE</h1>\n<br><h1 id='2' style='font-size:18px'>Create a small copy of the current picture.</h1>\n<br><p id='3' data-category='list' style='font-size:22px'>1 Display the desired picture.</p>\n<br><p id='4' data-category='list' style='font-size:20px'>2 Select RESIZE in the playback menu.</p>\n<p id='5' data-category='list' style='font-size:20px'>3 Highlight a size and press MENU/OK to display a confirmation<br>dialog.</p>\n<p id='6' data-category='list' style='font-size:18px'>4 Press MENU/OK again to save the resized copy to a separate<br>file.</p>\n<p id='7' data-category='paragraph' style='font-size:16px'>The sizes available vary with the size of the original image.</p>\n<footer id='8' style='font-size:14px'>7</footer>\n<br><footer id='9' style='font-size:22px'>Playback<br>and<br>the<br>Playback<br>Menu</footer>\n<footer id='10' style='font-size:20px'>227</footer>",
+        "markdown": "The Playback Menu\n\n# RESIZE\n\n# Create a small copy of the current picture.\n\n- 1 Display the desired picture.\n\n\n- 2 Select RESIZE in the playback menu.\n\n\n- 3 Highlight a size and press MENU/OK to display a confirmation\n- dialog.\n\n\n- 4 Press MENU/OK again to save the resized copy to a separate\n- file.\n\n\nThe sizes available vary with the size of the original image.\n\n7\n\nPlayback\nand\nthe\nPlayback\nMenu\n\n227",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='0' data-category='paragraph' style='font-size:14px'>The Playback Menu</p>",
+                "markdown": "The Playback Menu",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.7234,
+                    "y": 0.0284
+                },
+                {
+                    "x": 0.9185,
+                    "y": 0.0284
+                },
+                {
+                    "x": 0.9185,
+                    "y": 0.0506
+                },
+                {
+                    "x": 0.7234,
+                    "y": 0.0506
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='1' style='font-size:16px'>RESIZE</h1>",
+                "markdown": "# RESIZE",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1082,
+                    "y": 0.0721
+                },
+                {
+                    "x": 0.2094,
+                    "y": 0.0721
+                },
+                {
+                    "x": 0.2094,
+                    "y": 0.0959
+                },
+                {
+                    "x": 0.1082,
+                    "y": 0.0959
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='2' style='font-size:18px'>Create a small copy of the current picture.</h1>",
+                "markdown": "# Create a small copy of the current picture.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1069,
+                    "y": 0.1047
+                },
+                {
+                    "x": 0.6351,
+                    "y": 0.1047
+                },
+                {
+                    "x": 0.6351,
+                    "y": 0.1294
+                },
+                {
+                    "x": 0.1069,
+                    "y": 0.1294
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "list",
+            "content": {
+                "html": "<br><p id='3' data-category='list' style='font-size:22px'>1 Display the desired picture.</p>",
+                "markdown": "- 1 Display the desired picture.\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1268,
+                    "y": 0.1432
+                },
+                {
+                    "x": 0.5049,
+                    "y": 0.1432
+                },
+                {
+                    "x": 0.5049,
+                    "y": 0.1669
+                },
+                {
+                    "x": 0.1268,
+                    "y": 0.1669
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "list",
+            "content": {
+                "html": "<br><p id='4' data-category='list' style='font-size:20px'>2 Select RESIZE in the playback menu.</p>",
+                "markdown": "- 2 Select RESIZE in the playback menu.\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.122,
+                    "y": 0.1814
+                },
+                {
+                    "x": 0.6187,
+                    "y": 0.1814
+                },
+                {
+                    "x": 0.6187,
+                    "y": 0.2054
+                },
+                {
+                    "x": 0.122,
+                    "y": 0.2054
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "list",
+            "content": {
+                "html": "<p id='5' data-category='list' style='font-size:20px'>3 Highlight a size and press MENU/OK to display a confirmation<br>dialog.</p>",
+                "markdown": "- 3 Highlight a size and press MENU/OK to display a confirmation\n- dialog.\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1218,
+                    "y": 0.2199
+                },
+                {
+                    "x": 0.9177,
+                    "y": 0.2199
+                },
+                {
+                    "x": 0.9177,
+                    "y": 0.2691
+                },
+                {
+                    "x": 0.1218,
+                    "y": 0.2691
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "list",
+            "content": {
+                "html": "<p id='6' data-category='list' style='font-size:18px'>4 Press MENU/OK again to save the resized copy to a separate<br>file.</p>",
+                "markdown": "- 4 Press MENU/OK again to save the resized copy to a separate\n- file.\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1222,
+                    "y": 0.2837
+                },
+                {
+                    "x": 0.9181,
+                    "y": 0.2837
+                },
+                {
+                    "x": 0.9181,
+                    "y": 0.3317
+                },
+                {
+                    "x": 0.1222,
+                    "y": 0.3317
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='7' data-category='paragraph' style='font-size:16px'>The sizes available vary with the size of the original image.</p>",
+                "markdown": "The sizes available vary with the size of the original image.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1113,
+                    "y": 0.3488
+                },
+                {
+                    "x": 0.7809,
+                    "y": 0.3488
+                },
+                {
+                    "x": 0.7809,
+                    "y": 0.3712
+                },
+                {
+                    "x": 0.1113,
+                    "y": 0.3712
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='8' style='font-size:14px'>7</footer>",
+                "markdown": "7",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9579,
+                    "y": 0.5983
+                },
+                {
+                    "x": 0.974,
+                    "y": 0.5983
+                },
+                {
+                    "x": 0.974,
+                    "y": 0.6175
+                },
+                {
+                    "x": 0.9579,
+                    "y": 0.6175
+                }
+            ],
+            "id": 8,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<br><footer id='9' style='font-size:22px'>Playback<br>and<br>the<br>Playback<br>Menu</footer>",
+                "markdown": "Playback\nand\nthe\nPlayback\nMenu",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9567,
+                    "y": 0.338
+                },
+                {
+                    "x": 0.9803,
+                    "y": 0.338
+                },
+                {
+                    "x": 0.9803,
+                    "y": 0.5772
+                },
+                {
+                    "x": 0.9567,
+                    "y": 0.5772
+                }
+            ],
+            "id": 9,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='10' style='font-size:20px'>227</footer>",
+                "markdown": "227",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.8595,
+                    "y": 0.9557
+                },
+                {
+                    "x": 0.9183,
+                    "y": 0.9557
+                },
+                {
+                    "x": 0.9183,
+                    "y": 0.9799
+                },
+                {
+                    "x": 0.8595,
+                    "y": 0.9799
+                }
+            ],
+            "id": 10,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

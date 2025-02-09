@@ -1,0 +1,128 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "\n# SHOOT WITHOUT CARD\n\nChoose whether the shutter can be released without a memory card inserted in the camera.\n\n| Option | Description |\n|--------|-------------|\n| ON     | When no memory card is inserted, the shutter can be released to test camera function and the shooting and setup menus can be displayed. |\n| OFF    | The shutter is disabled if no memory card is inserted, preventing accidental loss of pictures taken without a memory card. |\n\n# FOCUS RING\n\nChoose the direction in which the focus ring is rotated to increase the focus distance.\n\n| Options | \n|---------|\n| ↻ CW (clockwise) |\n| ↺ CCW (counterclockwise) |\n\n# FOCUS RING OPERATION\n\nChoose how the camera adjusts focus in response to the movement of the focus ring.\n\n| Option    | Description |\n|-----------|-------------|\n| NONLINEAR | Focus is adjusted at the same rate as the ring is rotated. |\n| LINEAR    | Focus is adjusted linearly according to the amount the ring is rotated, but the focusing speed is unaffected by the speed the ring is rotated. |\n",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "SHOOT WITHOUT CARD",
+                    "md": "# SHOOT WITHOUT CARD"
+                },
+                {
+                    "type": "text",
+                    "value": "Choose whether the shutter can be released without a memory card inserted in the camera.",
+                    "md": "Choose whether the shutter can be released without a memory card inserted in the camera."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Option",
+                            "Description"
+                        ],
+                        [
+                            "ON",
+                            "When no memory card is inserted, the shutter can be released to test camera function and the shooting and setup menus can be displayed."
+                        ],
+                        [
+                            "OFF",
+                            "The shutter is disabled if no memory card is inserted, preventing accidental loss of pictures taken without a memory card."
+                        ]
+                    ],
+                    "md": "| Option | Description |\n|--------|-------------|\n| ON     | When no memory card is inserted, the shutter can be released to test camera function and the shooting and setup menus can be displayed. |\n| OFF    | The shutter is disabled if no memory card is inserted, preventing accidental loss of pictures taken without a memory card. |",
+                    "isPerfectTable": true,
+                    "csv": "\"Option\",\"Description\"\n\"ON\",\"When no memory card is inserted, the shutter can be released to test camera function and the shooting and setup menus can be displayed.\"\n\"OFF\",\"The shutter is disabled if no memory card is inserted, preventing accidental loss of pictures taken without a memory card.\""
+                },
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "FOCUS RING",
+                    "md": "# FOCUS RING"
+                },
+                {
+                    "type": "text",
+                    "value": "Choose the direction in which the focus ring is rotated to increase the focus distance.",
+                    "md": "Choose the direction in which the focus ring is rotated to increase the focus distance."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Options"
+                        ],
+                        [
+                            "↻ CW (clockwise)"
+                        ],
+                        [
+                            "↺ CCW (counterclockwise)"
+                        ]
+                    ],
+                    "md": "| Options | \n|---------|\n| ↻ CW (clockwise) |\n| ↺ CCW (counterclockwise) |",
+                    "isPerfectTable": true,
+                    "csv": "\"Options\"\n\"↻ CW (clockwise)\"\n\"↺ CCW (counterclockwise)\""
+                },
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "FOCUS RING OPERATION",
+                    "md": "# FOCUS RING OPERATION"
+                },
+                {
+                    "type": "text",
+                    "value": "Choose how the camera adjusts focus in response to the movement of the focus ring.",
+                    "md": "Choose how the camera adjusts focus in response to the movement of the focus ring."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Option",
+                            "Description"
+                        ],
+                        [
+                            "NONLINEAR",
+                            "Focus is adjusted at the same rate as the ring is rotated."
+                        ],
+                        [
+                            "LINEAR",
+                            "Focus is adjusted linearly according to the amount the ring is rotated, but the focusing speed is unaffected by the speed the ring is rotated."
+                        ]
+                    ],
+                    "md": "| Option    | Description |\n|-----------|-------------|\n| NONLINEAR | Focus is adjusted at the same rate as the ring is rotated. |\n| LINEAR    | Focus is adjusted linearly according to the amount the ring is rotated, but the focusing speed is unaffected by the speed the ring is rotated. |",
+                    "isPerfectTable": true,
+                    "csv": "\"Option\",\"Description\"\n\"NONLINEAR\",\"Focus is adjusted at the same rate as the ring is rotated.\"\n\"LINEAR\",\"Focus is adjusted linearly according to the amount the ring is rotated, but the focusing speed is unaffected by the speed the ring is rotated.\""
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "parsingMode": "multimodal-openai-gpt4o",
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 79.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "f651f86a-19c2-46cd-941f-131a5d7e11dd",
+    "file_path": "../data/raw_data/x-e4/x-e4_split/x-e4_page252.pdf"
+}

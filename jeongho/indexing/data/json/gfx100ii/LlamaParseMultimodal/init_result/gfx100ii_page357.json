@@ -1,0 +1,83 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "\n# INFORMATION\n\nView network-related settings.\n\n| Option              | Description                                                                                   |\n|---------------------|-----------------------------------------------------------------------------------------------|\n| HARDWARE INFO       | View the camera’s wireless and wired LAN Mac addresses and IP addresses, and Bluetooth MAC address. |\n| TRANSFER ORDER STATUS | View upload progress and the destination for files uploaded to Frame.io or via FTP.            |\n| ERROR DESCRIPTION   | View the content of errors when a !Error Icon or !Warning Icon icon is displayed (📖 457). |\n\n# RESET NETWORK/USB SETTING\n\nReset network/USB settings to default values.\n",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "INFORMATION",
+                    "md": "# INFORMATION"
+                },
+                {
+                    "type": "text",
+                    "value": "View network-related settings.",
+                    "md": "View network-related settings."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Option",
+                            "Description"
+                        ],
+                        [
+                            "HARDWARE INFO",
+                            "View the camera’s wireless and wired LAN Mac addresses and IP addresses, and Bluetooth MAC address."
+                        ],
+                        [
+                            "TRANSFER ORDER STATUS",
+                            "View upload progress and the destination for files uploaded to Frame.io or via FTP."
+                        ],
+                        [
+                            "ERROR DESCRIPTION",
+                            "View the content of errors when a !Error Icon or !Warning Icon icon is displayed (📖 457)."
+                        ]
+                    ],
+                    "md": "| Option              | Description                                                                                   |\n|---------------------|-----------------------------------------------------------------------------------------------|\n| HARDWARE INFO       | View the camera’s wireless and wired LAN Mac addresses and IP addresses, and Bluetooth MAC address. |\n| TRANSFER ORDER STATUS | View upload progress and the destination for files uploaded to Frame.io or via FTP.            |\n| ERROR DESCRIPTION   | View the content of errors when a !Error Icon or !Warning Icon icon is displayed (📖 457). |",
+                    "isPerfectTable": true,
+                    "csv": "\"Option\",\"Description\"\n\"HARDWARE INFO\",\"View the camera’s wireless and wired LAN Mac addresses and IP addresses, and Bluetooth MAC address.\"\n\"TRANSFER ORDER STATUS\",\"View upload progress and the destination for files uploaded to Frame.io or via FTP.\"\n\"ERROR DESCRIPTION\",\"View the content of errors when a !Error Icon or !Warning Icon icon is displayed (📖 457).\""
+                },
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "RESET NETWORK/USB SETTING",
+                    "md": "# RESET NETWORK/USB SETTING"
+                },
+                {
+                    "type": "text",
+                    "value": "Reset network/USB settings to default values.",
+                    "md": "Reset network/USB settings to default values."
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 118.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "607f6e62-5a4a-49e0-bedf-9824c3363fc9",
+    "file_path": "../data/raw_data/gfx100ii/gfx100ii_split/gfx100ii_page357.pdf"
+}

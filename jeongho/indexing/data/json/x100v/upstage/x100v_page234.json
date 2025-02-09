@@ -1,0 +1,350 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<h1 id='0' style='font-size:16px'>SAVE ORG IMAGE</h1>\n\n<br><table id='2' style='font-size:16px'><tr><td colspan=\"2\">Options</td></tr><tr><td>ON</td><td>OFF</td></tr><br><caption id='1' style='font-size:18px'>Choose ON to save unprocessed copies of pictures taken using<br>RED EYE REMOVAL.</caption></table>\n\n<br><p id='4' data-category='paragraph' style='font-size:20px'>Change the file name prefix. sRGB images use a four-letter prefix<br>(default \"DSCF\"), Adobe RGB images a three-letter prefix (\"DSF\")<br>preceded by an underscore.</p>\n<br><table id='5' style='font-size:16px'><tr><td>Option</td><td>Default prefix</td><td>Sample file name</td></tr><tr><td>sRGB</td><td>DSCF</td><td>ABCD0001</td></tr><tr><td>AdobeRGB</td><td>DSF</td><td>ABC0001</td></tr><caption id='3' style='font-size:16px'>EDIT FILE NAME</caption></table>\n\n<br><p id='7' data-category='paragraph' style='font-size:18px'>Create folders and choose the folder used to store subsequent<br>pictures.</p>\n<table id='8' style='font-size:14px'><tr><td>Option</td><td>Description</td></tr><tr><td>SELECT FOLDER</td><td>To choose the folder in which subsequent pictures will be stored, press the focus stick (focus lever) up or down to highlight an ex- isting folder and press MENU/OK.</td></tr><tr><td>CREATE FOLDER</td><td>Enter a five-character folder name to create a new folder in which to store subsequent pictures. The new folder will be cre- ated with the next picture you take and subsequent pictures will be stored in that folder.</td></tr><caption id='6' style='font-size:16px'>SELECT FOLDER</caption></table>\n<br><header id='9' style='font-size:22px'>The<br>Setup<br>Menus</header>\n<header id='10' style='font-size:14px'>8</header>\n<footer id='11' style='font-size:20px'>234</footer>",
+        "markdown": "# SAVE ORG IMAGE\n\nChoose ON to save unprocessed copies of pictures taken using\nRED EYE REMOVAL.\n\n| Options | Options |\n| --- | --- |\n| ON | OFF |\n\n\nEDIT FILE NAME\n\nChange the file name prefix. sRGB images use a four-letter prefix\n(default \"DSCF\"), Adobe RGB images a three-letter prefix (\"DSF\")\npreceded by an underscore.\n\n| Option | Default prefix | Sample file name |\n| --- | --- | --- |\n| sRGB | DSCF | ABCD0001 |\n| AdobeRGB | DSF | ABC0001 |\n\n\nSELECT FOLDER\n\nCreate folders and choose the folder used to store subsequent\npictures.\n\n| Option | Description |\n| --- | --- |\n| SELECT FOLDER | To choose the folder in which subsequent pictures will be stored, press the focus stick (focus lever) up or down to highlight an ex- isting folder and press MENU/OK. |\n| CREATE FOLDER | Enter a five-character folder name to create a new folder in which to store subsequent pictures. The new folder will be cre- ated with the next picture you take and subsequent pictures will be stored in that folder. |\n\n\nThe\nSetup\nMenus\n\n8\n\n234",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='0' style='font-size:16px'>SAVE ORG IMAGE</h1>",
+                "markdown": "# SAVE ORG IMAGE",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0821,
+                    "y": 0.0735
+                },
+                {
+                    "x": 0.3229,
+                    "y": 0.0735
+                },
+                {
+                    "x": 0.3229,
+                    "y": 0.0944
+                },
+                {
+                    "x": 0.0821,
+                    "y": 0.0944
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='1' data-category='paragraph' style='font-size:18px'>Choose ON to save unprocessed copies of pictures taken using<br>RED EYE REMOVAL.</p>",
+                "markdown": "Choose ON to save unprocessed copies of pictures taken using\nRED EYE REMOVAL.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0816,
+                    "y": 0.1052
+                },
+                {
+                    "x": 0.8922,
+                    "y": 0.1052
+                },
+                {
+                    "x": 0.8922,
+                    "y": 0.1533
+                },
+                {
+                    "x": 0.0816,
+                    "y": 0.1533
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='2' style='font-size:16px'><tr><td colspan=\"2\">Options</td></tr><tr><td>ON</td><td>OFF</td></tr></table>",
+                "markdown": "| Options | Options |\n| --- | --- |\n| ON | OFF |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0846,
+                    "y": 0.1669
+                },
+                {
+                    "x": 0.8919,
+                    "y": 0.1669
+                },
+                {
+                    "x": 0.8919,
+                    "y": 0.2184
+                },
+                {
+                    "x": 0.0846,
+                    "y": 0.2184
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='3' data-category='paragraph' style='font-size:16px'>EDIT FILE NAME</p>",
+                "markdown": "EDIT FILE NAME",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0824,
+                    "y": 0.2354
+                },
+                {
+                    "x": 0.3025,
+                    "y": 0.2354
+                },
+                {
+                    "x": 0.3025,
+                    "y": 0.257
+                },
+                {
+                    "x": 0.0824,
+                    "y": 0.257
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='4' data-category='paragraph' style='font-size:20px'>Change the file name prefix. sRGB images use a four-letter prefix<br>(default \"DSCF\"), Adobe RGB images a three-letter prefix (\"DSF\")<br>preceded by an underscore.</p>",
+                "markdown": "Change the file name prefix. sRGB images use a four-letter prefix\n(default \"DSCF\"), Adobe RGB images a three-letter prefix (\"DSF\")\npreceded by an underscore.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0812,
+                    "y": 0.2664
+                },
+                {
+                    "x": 0.893,
+                    "y": 0.2664
+                },
+                {
+                    "x": 0.893,
+                    "y": 0.3415
+                },
+                {
+                    "x": 0.0812,
+                    "y": 0.3415
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='5' style='font-size:16px'><tr><td>Option</td><td>Default prefix</td><td>Sample file name</td></tr><tr><td>sRGB</td><td>DSCF</td><td>ABCD0001</td></tr><tr><td>AdobeRGB</td><td>DSF</td><td>ABC0001</td></tr></table>",
+                "markdown": "| Option | Default prefix | Sample file name |\n| --- | --- | --- |\n| sRGB | DSCF | ABCD0001 |\n| AdobeRGB | DSF | ABC0001 |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0822,
+                    "y": 0.3542
+                },
+                {
+                    "x": 0.8901,
+                    "y": 0.3542
+                },
+                {
+                    "x": 0.8901,
+                    "y": 0.4293
+                },
+                {
+                    "x": 0.0822,
+                    "y": 0.4293
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='6' data-category='paragraph' style='font-size:16px'>SELECT FOLDER</p>",
+                "markdown": "SELECT FOLDER",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0814,
+                    "y": 0.4456
+                },
+                {
+                    "x": 0.3046,
+                    "y": 0.4456
+                },
+                {
+                    "x": 0.3046,
+                    "y": 0.4688
+                },
+                {
+                    "x": 0.0814,
+                    "y": 0.4688
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='7' data-category='paragraph' style='font-size:18px'>Create folders and choose the folder used to store subsequent<br>pictures.</p>",
+                "markdown": "Create folders and choose the folder used to store subsequent\npictures.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0816,
+                    "y": 0.4771
+                },
+                {
+                    "x": 0.8926,
+                    "y": 0.4771
+                },
+                {
+                    "x": 0.8926,
+                    "y": 0.5267
+                },
+                {
+                    "x": 0.0816,
+                    "y": 0.5267
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='8' style='font-size:14px'><tr><td>Option</td><td>Description</td></tr><tr><td>SELECT FOLDER</td><td>To choose the folder in which subsequent pictures will be stored, press the focus stick (focus lever) up or down to highlight an ex- isting folder and press MENU/OK.</td></tr><tr><td>CREATE FOLDER</td><td>Enter a five-character folder name to create a new folder in which to store subsequent pictures. The new folder will be cre- ated with the next picture you take and subsequent pictures will be stored in that folder.</td></tr></table>",
+                "markdown": "| Option | Description |\n| --- | --- |\n| SELECT FOLDER | To choose the folder in which subsequent pictures will be stored, press the focus stick (focus lever) up or down to highlight an ex- isting folder and press MENU/OK. |\n| CREATE FOLDER | Enter a five-character folder name to create a new folder in which to store subsequent pictures. The new folder will be cre- ated with the next picture you take and subsequent pictures will be stored in that folder. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0877,
+                    "y": 0.5402
+                },
+                {
+                    "x": 0.8944,
+                    "y": 0.5402
+                },
+                {
+                    "x": 0.8944,
+                    "y": 0.7294
+                },
+                {
+                    "x": 0.0877,
+                    "y": 0.7294
+                }
+            ],
+            "id": 8,
+            "page": 1
+        },
+        {
+            "category": "header",
+            "content": {
+                "html": "<br><header id='9' style='font-size:22px'>The<br>Setup<br>Menus</header>",
+                "markdown": "The\nSetup\nMenus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0178,
+                    "y": 0.5081
+                },
+                {
+                    "x": 0.0403,
+                    "y": 0.5081
+                },
+                {
+                    "x": 0.0403,
+                    "y": 0.6385
+                },
+                {
+                    "x": 0.0178,
+                    "y": 0.6385
+                }
+            ],
+            "id": 9,
+            "page": 1
+        },
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='10' style='font-size:14px'>8</header>",
+                "markdown": "8",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0255,
+                    "y": 0.6567
+                },
+                {
+                    "x": 0.0441,
+                    "y": 0.6567
+                },
+                {
+                    "x": 0.0441,
+                    "y": 0.6782
+                },
+                {
+                    "x": 0.0255,
+                    "y": 0.6782
+                }
+            ],
+            "id": 10,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='11' style='font-size:20px'>234</footer>",
+                "markdown": "234",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0826,
+                    "y": 0.9562
+                },
+                {
+                    "x": 0.1404,
+                    "y": 0.9562
+                },
+                {
+                    "x": 0.1404,
+                    "y": 0.9794
+                },
+                {
+                    "x": 0.0826,
+                    "y": 0.9794
+                }
+            ],
+            "id": 11,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

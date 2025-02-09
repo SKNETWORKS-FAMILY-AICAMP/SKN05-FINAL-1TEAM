@@ -1,0 +1,238 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<h1 id='0' style='font-size:14px'>CROP<br>FIX MOVIE CROP MAGNIFICATION 1.29x</h1>\n<br><p id='1' data-category='paragraph' style='font-size:16px'>Fix the movie crop ratio at 1.29: 1. This makes it easier to match<br>crops when filming in different formats.</p>\n<table id='2' style='font-size:14px'><tr><td rowspan=\"2\" colspan=\"2\">Options</td></tr><tr></tr><tr><td>ON</td><td>OFF</td></tr></table>\n<h1 id='3' style='font-size:20px'>F-Log RECORDING</h1>\n\n<br><table id='5' style='font-size:16px'><tr><td colspan=\"2\">Options</td></tr><tr><td>ON</td><td>OFF</td></tr><br><caption id='4' style='font-size:18px'>Select ON to record movies using a soft gamma curve with a wide<br>gamut suitable for further processing post-production. Sensitivi-<br>ty is restricted to values between ISO 640 and 12800.</caption></table>\n<header id='6' style='font-size:22px'>The<br>Shooting<br>Menus</header>\n<footer id='7' style='font-size:20px'>158</footer>",
+        "markdown": "# CROP\nFIX MOVIE CROP MAGNIFICATION 1.29x\n\nFix the movie crop ratio at 1.29: 1. This makes it easier to match\ncrops when filming in different formats.\n\n| Options | Options |\n| --- | --- |\n| Options | Options |\n| ON | OFF |\n\n\n# F-Log RECORDING\n\nSelect ON to record movies using a soft gamma curve with a wide\ngamut suitable for further processing post-production. Sensitivi-\nty is restricted to values between ISO 640 and 12800.\n\n| Options | Options |\n| --- | --- |\n| ON | OFF |\n\n\nThe\nShooting\nMenus\n\n158",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='0' style='font-size:14px'>CROP<br>FIX MOVIE CROP MAGNIFICATION 1.29x</h1>",
+                "markdown": "# CROP\nFIX MOVIE CROP MAGNIFICATION 1.29x",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0834,
+                    "y": 0.0735
+                },
+                {
+                    "x": 0.585,
+                    "y": 0.0735
+                },
+                {
+                    "x": 0.585,
+                    "y": 0.0949
+                },
+                {
+                    "x": 0.0834,
+                    "y": 0.0949
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='1' data-category='paragraph' style='font-size:16px'>Fix the movie crop ratio at 1.29: 1. This makes it easier to match<br>crops when filming in different formats.</p>",
+                "markdown": "Fix the movie crop ratio at 1.29: 1. This makes it easier to match\ncrops when filming in different formats.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0808,
+                    "y": 0.1051
+                },
+                {
+                    "x": 0.8925,
+                    "y": 0.1051
+                },
+                {
+                    "x": 0.8925,
+                    "y": 0.1544
+                },
+                {
+                    "x": 0.0808,
+                    "y": 0.1544
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='2' style='font-size:14px'><tr><td rowspan=\"2\" colspan=\"2\">Options</td></tr><tr></tr><tr><td>ON</td><td>OFF</td></tr></table>",
+                "markdown": "| Options | Options |\n| --- | --- |\n| Options | Options |\n| ON | OFF |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1009,
+                    "y": 0.1683
+                },
+                {
+                    "x": 0.8891,
+                    "y": 0.1683
+                },
+                {
+                    "x": 0.8891,
+                    "y": 0.2221
+                },
+                {
+                    "x": 0.1009,
+                    "y": 0.2221
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='3' style='font-size:20px'>F-Log RECORDING</h1>",
+                "markdown": "# F-Log RECORDING",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0824,
+                    "y": 0.241
+                },
+                {
+                    "x": 0.334,
+                    "y": 0.241
+                },
+                {
+                    "x": 0.334,
+                    "y": 0.2636
+                },
+                {
+                    "x": 0.0824,
+                    "y": 0.2636
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='4' data-category='paragraph' style='font-size:18px'>Select ON to record movies using a soft gamma curve with a wide<br>gamut suitable for further processing post-production. Sensitivi-<br>ty is restricted to values between ISO 640 and 12800.</p>",
+                "markdown": "Select ON to record movies using a soft gamma curve with a wide\ngamut suitable for further processing post-production. Sensitivi-\nty is restricted to values between ISO 640 and 12800.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0806,
+                    "y": 0.2719
+                },
+                {
+                    "x": 0.894,
+                    "y": 0.2719
+                },
+                {
+                    "x": 0.894,
+                    "y": 0.3484
+                },
+                {
+                    "x": 0.0806,
+                    "y": 0.3484
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='5' style='font-size:16px'><tr><td colspan=\"2\">Options</td></tr><tr><td>ON</td><td>OFF</td></tr></table>",
+                "markdown": "| Options | Options |\n| --- | --- |\n| ON | OFF |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0853,
+                    "y": 0.3603
+                },
+                {
+                    "x": 0.8893,
+                    "y": 0.3603
+                },
+                {
+                    "x": 0.8893,
+                    "y": 0.4089
+                },
+                {
+                    "x": 0.0853,
+                    "y": 0.4089
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='6' style='font-size:22px'>The<br>Shooting<br>Menus</header>",
+                "markdown": "The\nShooting\nMenus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0162,
+                    "y": 0.5786
+                },
+                {
+                    "x": 0.0429,
+                    "y": 0.5786
+                },
+                {
+                    "x": 0.0429,
+                    "y": 0.7308
+                },
+                {
+                    "x": 0.0162,
+                    "y": 0.7308
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='7' style='font-size:20px'>158</footer>",
+                "markdown": "158",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0848,
+                    "y": 0.9567
+                },
+                {
+                    "x": 0.1399,
+                    "y": 0.9567
+                },
+                {
+                    "x": 0.1399,
+                    "y": 0.9794
+                },
+                {
+                    "x": 0.0848,
+                    "y": 0.9794
+                }
+            ],
+            "id": 7,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

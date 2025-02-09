@@ -1,0 +1,294 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:14px'>BUTTON/DIAL SETTING</header>\n<h1 id='1' style='font-size:16px'>EVF TOUCH SCREEN AREA SETTINGS</h1>\n<br><p id='2' data-category='paragraph' style='font-size:16px'>Select the area of the LCD monitor used for touch controls while<br>the viewfinder is active. The area used for touch controls can be<br>selected from:</p>\n<table id='3' style='font-size:16px'><tr><td>Option</td><td>Description</td></tr><tr><td></td><td>All.</td></tr><tr><td></td><td>Right half.</td></tr><tr><td></td><td>Top right quarter.</td></tr><tr><td></td><td>Bottom right quarter.</td></tr><tr><td></td><td>Left half.</td></tr><tr><td></td><td>Top left quarter.</td></tr><tr><td></td><td>Bottom left quarter.</td></tr><tr><td>OFF</td><td>Touch controls disabled.</td></tr></table>\n<br><p id='4' data-category='paragraph' style='font-size:18px'>LOCK</p>\n\n<br><table id='6' style='font-size:14px'><tr><td>Option</td><td>Description</td></tr><tr><td>LOCK SETTING</td><td>Choose from the following: UNLOCK: Reset lock options. ALL FUNCTION: Lock all controls in the FUNCTION SELECTION list. SELECTED FUNCTION: Lock only the controls selected in the FUNCTION SELECTION list.</td></tr><tr><td>FUNCTION SELECTION</td><td>Choose the controls locked when SELECTED FUNCTION is chosen for LOCK SETTING.</td></tr><br><caption id='5' style='font-size:18px'>Lock selected controls to prevent unintended operation.</caption></table>\n<p id='7' data-category='paragraph' style='font-size:16px'>The controls selected using SELECTED FUNCTION can be locked at any<br>time during shooting by pressing and holding MENU/OK. To unlock the<br>controls, press and hold the button again.</p>\n<br><footer id='8' style='font-size:22px'>The<br>Setup<br>Menus<br>9</footer>\n<footer id='9' style='font-size:20px'>305</footer>",
+        "markdown": "BUTTON/DIAL SETTING\n\n# EVF TOUCH SCREEN AREA SETTINGS\n\nSelect the area of the LCD monitor used for touch controls while\nthe viewfinder is active. The area used for touch controls can be\nselected from:\n\n| Option | Description |\n| --- | --- |\n|  | All. |\n|  | Right half. |\n|  | Top right quarter. |\n|  | Bottom right quarter. |\n|  | Left half. |\n|  | Top left quarter. |\n|  | Bottom left quarter. |\n| OFF | Touch controls disabled. |\n\n\nLOCK\n\nLock selected controls to prevent unintended operation.\n\n| Option | Description |\n| --- | --- |\n| LOCK SETTING | Choose from the following: UNLOCK: Reset lock options. ALL FUNCTION: Lock all controls in the FUNCTION SELECTION list. SELECTED FUNCTION: Lock only the controls selected in the FUNCTION SELECTION list. |\n| FUNCTION SELECTION | Choose the controls locked when SELECTED FUNCTION is chosen for LOCK SETTING. |\n\n\nThe controls selected using SELECTED FUNCTION can be locked at any\ntime during shooting by pressing and holding MENU/OK. To unlock the\ncontrols, press and hold the button again.\n\nThe\nSetup\nMenus\n9\n\n305",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:14px'>BUTTON/DIAL SETTING</header>",
+                "markdown": "BUTTON/DIAL SETTING",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6869,
+                    "y": 0.0277
+                },
+                {
+                    "x": 0.9189,
+                    "y": 0.0277
+                },
+                {
+                    "x": 0.9189,
+                    "y": 0.0503
+                },
+                {
+                    "x": 0.6869,
+                    "y": 0.0503
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='1' style='font-size:16px'>EVF TOUCH SCREEN AREA SETTINGS</h1>",
+                "markdown": "# EVF TOUCH SCREEN AREA SETTINGS",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1177,
+                    "y": 0.0739
+                },
+                {
+                    "x": 0.562,
+                    "y": 0.0739
+                },
+                {
+                    "x": 0.562,
+                    "y": 0.0967
+                },
+                {
+                    "x": 0.1177,
+                    "y": 0.0967
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='2' data-category='paragraph' style='font-size:16px'>Select the area of the LCD monitor used for touch controls while<br>the viewfinder is active. The area used for touch controls can be<br>selected from:</p>",
+                "markdown": "Select the area of the LCD monitor used for touch controls while\nthe viewfinder is active. The area used for touch controls can be\nselected from:",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1061,
+                    "y": 0.1038
+                },
+                {
+                    "x": 0.9213,
+                    "y": 0.1038
+                },
+                {
+                    "x": 0.9213,
+                    "y": 0.1793
+                },
+                {
+                    "x": 0.1061,
+                    "y": 0.1793
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='3' style='font-size:16px'><tr><td>Option</td><td>Description</td></tr><tr><td></td><td>All.</td></tr><tr><td></td><td>Right half.</td></tr><tr><td></td><td>Top right quarter.</td></tr><tr><td></td><td>Bottom right quarter.</td></tr><tr><td></td><td>Left half.</td></tr><tr><td></td><td>Top left quarter.</td></tr><tr><td></td><td>Bottom left quarter.</td></tr><tr><td>OFF</td><td>Touch controls disabled.</td></tr></table>",
+                "markdown": "| Option | Description |\n| --- | --- |\n|  | All. |\n|  | Right half. |\n|  | Top right quarter. |\n|  | Bottom right quarter. |\n|  | Left half. |\n|  | Top left quarter. |\n|  | Bottom left quarter. |\n| OFF | Touch controls disabled. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1063,
+                    "y": 0.1946
+                },
+                {
+                    "x": 0.9202,
+                    "y": 0.1946
+                },
+                {
+                    "x": 0.9202,
+                    "y": 0.4346
+                },
+                {
+                    "x": 0.1063,
+                    "y": 0.4346
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='4' data-category='paragraph' style='font-size:18px'>LOCK</p>",
+                "markdown": "LOCK",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1083,
+                    "y": 0.4502
+                },
+                {
+                    "x": 0.1892,
+                    "y": 0.4502
+                },
+                {
+                    "x": 0.1892,
+                    "y": 0.473
+                },
+                {
+                    "x": 0.1083,
+                    "y": 0.473
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='5' data-category='paragraph' style='font-size:18px'>Lock selected controls to prevent unintended operation.</p>",
+                "markdown": "Lock selected controls to prevent unintended operation.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1066,
+                    "y": 0.4821
+                },
+                {
+                    "x": 0.82,
+                    "y": 0.4821
+                },
+                {
+                    "x": 0.82,
+                    "y": 0.5077
+                },
+                {
+                    "x": 0.1066,
+                    "y": 0.5077
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='6' style='font-size:14px'><tr><td>Option</td><td>Description</td></tr><tr><td>LOCK SETTING</td><td>Choose from the following: UNLOCK: Reset lock options. ALL FUNCTION: Lock all controls in the FUNCTION SELECTION list. SELECTED FUNCTION: Lock only the controls selected in the FUNCTION SELECTION list.</td></tr><tr><td>FUNCTION SELECTION</td><td>Choose the controls locked when SELECTED FUNCTION is chosen for LOCK SETTING.</td></tr></table>",
+                "markdown": "| Option | Description |\n| --- | --- |\n| LOCK SETTING | Choose from the following: UNLOCK: Reset lock options. ALL FUNCTION: Lock all controls in the FUNCTION SELECTION list. SELECTED FUNCTION: Lock only the controls selected in the FUNCTION SELECTION list. |\n| FUNCTION SELECTION | Choose the controls locked when SELECTED FUNCTION is chosen for LOCK SETTING. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1092,
+                    "y": 0.5169
+                },
+                {
+                    "x": 0.9223,
+                    "y": 0.5169
+                },
+                {
+                    "x": 0.9223,
+                    "y": 0.7418
+                },
+                {
+                    "x": 0.1092,
+                    "y": 0.7418
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='7' data-category='paragraph' style='font-size:16px'>The controls selected using SELECTED FUNCTION can be locked at any<br>time during shooting by pressing and holding MENU/OK. To unlock the<br>controls, press and hold the button again.</p>",
+                "markdown": "The controls selected using SELECTED FUNCTION can be locked at any\ntime during shooting by pressing and holding MENU/OK. To unlock the\ncontrols, press and hold the button again.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1138,
+                    "y": 0.7604
+                },
+                {
+                    "x": 0.9158,
+                    "y": 0.7604
+                },
+                {
+                    "x": 0.9158,
+                    "y": 0.8304
+                },
+                {
+                    "x": 0.1138,
+                    "y": 0.8304
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<br><footer id='8' style='font-size:22px'>The<br>Setup<br>Menus<br>9</footer>",
+                "markdown": "The\nSetup\nMenus\n9",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9551,
+                    "y": 0.5658
+                },
+                {
+                    "x": 0.9898,
+                    "y": 0.5658
+                },
+                {
+                    "x": 0.9898,
+                    "y": 0.7388
+                },
+                {
+                    "x": 0.9551,
+                    "y": 0.7388
+                }
+            ],
+            "id": 8,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='9' style='font-size:20px'>305</footer>",
+                "markdown": "305",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.8606,
+                    "y": 0.9567
+                },
+                {
+                    "x": 0.9171,
+                    "y": 0.9567
+                },
+                {
+                    "x": 0.9171,
+                    "y": 0.9792
+                },
+                {
+                    "x": 0.8606,
+                    "y": 0.9792
+                }
+            ],
+            "id": 9,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

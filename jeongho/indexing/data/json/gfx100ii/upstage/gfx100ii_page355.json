@@ -1,0 +1,518 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:18px'>SCREEN SETTING</header>\n<h1 id='1' style='font-size:20px'>Movie Mode</h1>\n<br><p id='2' data-category='paragraph' style='font-size:20px'>Choose from:</p>\n<br><p id='3' data-category='list' style='font-size:18px'>● TIME CODE<br>● REMAINING TIME/REC. TIME<br>● REMAINING TIME<br>● REC. TIME<br>● SHUTTER SPEED<br>● APERTURE<br>● EXPO. COMP.<br>● ISO<br>● SHOOTING MODE<br>● PHOTOMETRY</p>\n<br><p id='4' data-category='list' style='font-size:18px'>● FOCUS MODE<br>● WHITE BALANCE<br>● FILM SIMULATION<br>● DYNAMIC RANGE<br>● IMAGE FORMAT<br>● BOOST MODE<br>● DUAL IS MODE<br>● SELF-TIMER<br>● COMMUNICATION STATUS<br>● NONE</p>\n<p id='5' data-category='paragraph' style='font-size:22px'>6 Repeat Steps 4 and 5 to change additional indicators.</p>\n<p id='6' data-category='paragraph' style='font-size:18px'>The Scale indicator can only be enabled<br>or disabled.</p>\n<br><p id='7' data-category='paragraph' style='font-size:16px'>5</p>\n<br><p id='8' data-category='paragraph' style='font-size:16px'>4</p>\n<p id='9' data-category='paragraph' style='font-size:14px'>1</p>\n<p id='10' data-category='paragraph' style='font-size:14px'>1</p>\n<p id='11' data-category='paragraph' style='font-size:14px'>3</p>\n<br><p id='12' data-category='paragraph' style='font-size:14px'>4</p>\n<br><table id='13' style='font-size:16px'><tr><td></td><td>[AI] V</td></tr><tr><td>3 4000 2 S.S.</td><td>M</td></tr><tr><td>0 - 2.8</td><td>L</td></tr><tr><td>F</td><td>WB</td></tr><tr><td>2 800 ISO</td><td>AUTO</td></tr><tr><td></td><td>STD</td></tr><tr><td>1 2 2309</td><td>L ■■■■■</td></tr></table>\n<br><p id='14' data-category='paragraph' style='font-size:14px'>5</p>\n<p id='15' data-category='paragraph' style='font-size:20px'>Scale</p>\n<br><footer id='16' style='font-size:22px'>The<br>Setup<br>Menus</footer>\n<footer id='17' style='font-size:22px'>355</footer>",
+        "markdown": "SCREEN SETTING\n\n# Movie Mode\n\nChoose from:\n\n- ● TIME CODE\n- ● REMAINING TIME/REC. TIME\n- ● REMAINING TIME\n- ● REC. TIME\n- ● SHUTTER SPEED\n- ● APERTURE\n- ● EXPO. COMP.\n- ● ISO\n- ● SHOOTING MODE\n- ● PHOTOMETRY\n\n\n- ● FOCUS MODE\n- ● WHITE BALANCE\n- ● FILM SIMULATION\n- ● DYNAMIC RANGE\n- ● IMAGE FORMAT\n- ● BOOST MODE\n- ● DUAL IS MODE\n- ● SELF-TIMER\n- ● COMMUNICATION STATUS\n- ● NONE\n\n\n6 Repeat Steps 4 and 5 to change additional indicators.\n\nThe Scale indicator can only be enabled\nor disabled.\n\n5\n\n4\n\n1\n\n1\n\n3\n\n4\n\n|  | [AI] V |\n| --- | --- |\n| 3 4000 2 S.S. | M |\n| 0 - 2.8 | L |\n| F | WB |\n| 2 800 ISO | AUTO |\n|  | STD |\n| 1 2 2309 | L ■■■■■ |\n\n\n5\n\nScale\n\nThe\nSetup\nMenus\n\n355",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:18px'>SCREEN SETTING</header>",
+                "markdown": "SCREEN SETTING",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.7478,
+                    "y": 0.0284
+                },
+                {
+                    "x": 0.9186,
+                    "y": 0.0284
+                },
+                {
+                    "x": 0.9186,
+                    "y": 0.049
+                },
+                {
+                    "x": 0.7478,
+                    "y": 0.049
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='1' style='font-size:20px'>Movie Mode</h1>",
+                "markdown": "# Movie Mode",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1571,
+                    "y": 0.0774
+                },
+                {
+                    "x": 0.2907,
+                    "y": 0.0774
+                },
+                {
+                    "x": 0.2907,
+                    "y": 0.0982
+                },
+                {
+                    "x": 0.1571,
+                    "y": 0.0982
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='2' data-category='paragraph' style='font-size:20px'>Choose from:</p>",
+                "markdown": "Choose from:",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1577,
+                    "y": 0.1034
+                },
+                {
+                    "x": 0.3301,
+                    "y": 0.1034
+                },
+                {
+                    "x": 0.3301,
+                    "y": 0.124
+                },
+                {
+                    "x": 0.1577,
+                    "y": 0.124
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "list",
+            "content": {
+                "html": "<br><p id='3' data-category='list' style='font-size:18px'>● TIME CODE<br>● REMAINING TIME/REC. TIME<br>● REMAINING TIME<br>● REC. TIME<br>● SHUTTER SPEED<br>● APERTURE<br>● EXPO. COMP.<br>● ISO<br>● SHOOTING MODE<br>● PHOTOMETRY</p>",
+                "markdown": "- ● TIME CODE\n- ● REMAINING TIME/REC. TIME\n- ● REMAINING TIME\n- ● REC. TIME\n- ● SHUTTER SPEED\n- ● APERTURE\n- ● EXPO. COMP.\n- ● ISO\n- ● SHOOTING MODE\n- ● PHOTOMETRY\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1582,
+                    "y": 0.1293
+                },
+                {
+                    "x": 0.4463,
+                    "y": 0.1293
+                },
+                {
+                    "x": 0.4463,
+                    "y": 0.3556
+                },
+                {
+                    "x": 0.1582,
+                    "y": 0.3556
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "list",
+            "content": {
+                "html": "<br><p id='4' data-category='list' style='font-size:18px'>● FOCUS MODE<br>● WHITE BALANCE<br>● FILM SIMULATION<br>● DYNAMIC RANGE<br>● IMAGE FORMAT<br>● BOOST MODE<br>● DUAL IS MODE<br>● SELF-TIMER<br>● COMMUNICATION STATUS<br>● NONE</p>",
+                "markdown": "- ● FOCUS MODE\n- ● WHITE BALANCE\n- ● FILM SIMULATION\n- ● DYNAMIC RANGE\n- ● IMAGE FORMAT\n- ● BOOST MODE\n- ● DUAL IS MODE\n- ● SELF-TIMER\n- ● COMMUNICATION STATUS\n- ● NONE\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.5421,
+                    "y": 0.1264
+                },
+                {
+                    "x": 0.8261,
+                    "y": 0.1264
+                },
+                {
+                    "x": 0.8261,
+                    "y": 0.3567
+                },
+                {
+                    "x": 0.5421,
+                    "y": 0.3567
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='5' data-category='paragraph' style='font-size:22px'>6 Repeat Steps 4 and 5 to change additional indicators.</p>",
+                "markdown": "6 Repeat Steps 4 and 5 to change additional indicators.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.124,
+                    "y": 0.386
+                },
+                {
+                    "x": 0.8288,
+                    "y": 0.386
+                },
+                {
+                    "x": 0.8288,
+                    "y": 0.4122
+                },
+                {
+                    "x": 0.124,
+                    "y": 0.4122
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='6' data-category='paragraph' style='font-size:18px'>The Scale indicator can only be enabled<br>or disabled.</p>",
+                "markdown": "The Scale indicator can only be enabled\nor disabled.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1432,
+                    "y": 0.425
+                },
+                {
+                    "x": 0.6225,
+                    "y": 0.425
+                },
+                {
+                    "x": 0.6225,
+                    "y": 0.4689
+                },
+                {
+                    "x": 0.1432,
+                    "y": 0.4689
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='7' data-category='paragraph' style='font-size:16px'>5</p>",
+                "markdown": "5",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6405,
+                    "y": 0.4337
+                },
+                {
+                    "x": 0.6503,
+                    "y": 0.4337
+                },
+                {
+                    "x": 0.6503,
+                    "y": 0.4421
+                },
+                {
+                    "x": 0.6405,
+                    "y": 0.4421
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='8' data-category='paragraph' style='font-size:16px'>4</p>",
+                "markdown": "4",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6405,
+                    "y": 0.4446
+                },
+                {
+                    "x": 0.6504,
+                    "y": 0.4446
+                },
+                {
+                    "x": 0.6504,
+                    "y": 0.4534
+                },
+                {
+                    "x": 0.6405,
+                    "y": 0.4534
+                }
+            ],
+            "id": 8,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='9' data-category='paragraph' style='font-size:14px'>1</p>",
+                "markdown": "1",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6415,
+                    "y": 0.4792
+                },
+                {
+                    "x": 0.6494,
+                    "y": 0.4792
+                },
+                {
+                    "x": 0.6494,
+                    "y": 0.4868
+                },
+                {
+                    "x": 0.6415,
+                    "y": 0.4868
+                }
+            ],
+            "id": 9,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='10' data-category='paragraph' style='font-size:14px'>1</p>",
+                "markdown": "1",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6415,
+                    "y": 0.5019
+                },
+                {
+                    "x": 0.6488,
+                    "y": 0.5019
+                },
+                {
+                    "x": 0.6488,
+                    "y": 0.509
+                },
+                {
+                    "x": 0.6415,
+                    "y": 0.509
+                }
+            ],
+            "id": 10,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='11' data-category='paragraph' style='font-size:14px'>3</p>",
+                "markdown": "3",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6407,
+                    "y": 0.524
+                },
+                {
+                    "x": 0.6502,
+                    "y": 0.524
+                },
+                {
+                    "x": 0.6502,
+                    "y": 0.5323
+                },
+                {
+                    "x": 0.6407,
+                    "y": 0.5323
+                }
+            ],
+            "id": 11,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='12' data-category='paragraph' style='font-size:14px'>4</p>",
+                "markdown": "4",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6404,
+                    "y": 0.5356
+                },
+                {
+                    "x": 0.6504,
+                    "y": 0.5356
+                },
+                {
+                    "x": 0.6504,
+                    "y": 0.5437
+                },
+                {
+                    "x": 0.6404,
+                    "y": 0.5437
+                }
+            ],
+            "id": 12,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='13' style='font-size:16px'><tr><td></td><td>[AI] V</td></tr><tr><td>3 4000 2 S.S.</td><td>M</td></tr><tr><td>0 - 2.8</td><td>L</td></tr><tr><td>F</td><td>WB</td></tr><tr><td>2 800 ISO</td><td>AUTO</td></tr><tr><td></td><td>STD</td></tr><tr><td>1 2 2309</td><td>L ■■■■■</td></tr></table>",
+                "markdown": "|  | [AI] V |\n| --- | --- |\n| 3 4000 2 S.S. | M |\n| 0 - 2.8 | L |\n| F | WB |\n| 2 800 ISO | AUTO |\n|  | STD |\n| 1 2 2309 | L ■■■■■ |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6456,
+                    "y": 0.426
+                },
+                {
+                    "x": 0.9111,
+                    "y": 0.426
+                },
+                {
+                    "x": 0.9111,
+                    "y": 0.5621
+                },
+                {
+                    "x": 0.6456,
+                    "y": 0.5621
+                }
+            ],
+            "id": 13,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='14' data-category='paragraph' style='font-size:14px'>5</p>",
+                "markdown": "5",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6407,
+                    "y": 0.5467
+                },
+                {
+                    "x": 0.6496,
+                    "y": 0.5467
+                },
+                {
+                    "x": 0.6496,
+                    "y": 0.5549
+                },
+                {
+                    "x": 0.6407,
+                    "y": 0.5549
+                }
+            ],
+            "id": 14,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='15' data-category='paragraph' style='font-size:20px'>Scale</p>",
+                "markdown": "Scale",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6404,
+                    "y": 0.575
+                },
+                {
+                    "x": 0.7372,
+                    "y": 0.575
+                },
+                {
+                    "x": 0.7372,
+                    "y": 0.5934
+                },
+                {
+                    "x": 0.6404,
+                    "y": 0.5934
+                }
+            ],
+            "id": 15,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<br><footer id='16' style='font-size:22px'>The<br>Setup<br>Menus</footer>",
+                "markdown": "The\nSetup\nMenus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.958,
+                    "y": 0.5696
+                },
+                {
+                    "x": 0.9795,
+                    "y": 0.5696
+                },
+                {
+                    "x": 0.9795,
+                    "y": 0.6971
+                },
+                {
+                    "x": 0.958,
+                    "y": 0.6971
+                }
+            ],
+            "id": 16,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='17' style='font-size:22px'>355</footer>",
+                "markdown": "355",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.8608,
+                    "y": 0.9565
+                },
+                {
+                    "x": 0.9174,
+                    "y": 0.9565
+                },
+                {
+                    "x": 0.9174,
+                    "y": 0.9797
+                },
+                {
+                    "x": 0.8608,
+                    "y": 0.9797
+                }
+            ],
+            "id": 17,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

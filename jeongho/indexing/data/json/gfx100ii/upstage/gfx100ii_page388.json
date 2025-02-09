@@ -1,0 +1,182 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<p id='0' data-category='list' style='font-size:14px'>● AF-ON<br>● AWB LOCK ONLY<br>● LOCK SETTING<br>● PERFORMANCE<br>● AUTO IMAGE TRANSFER ORDER</p>\n<br><p id='1' data-category='list' style='font-size:14px'>● Bluetooth ON/OFF<br>● QUICK MENU<br>● PLAYBACK<br>● NONE</p>\n<h1 id='2' style='font-size:16px'>To disable the function button, choose NONE.</h1>\n<header id='3' style='font-size:22px'>Shortcuts</header>\n<p id='4' data-category='paragraph' style='font-size:18px'>10</p>\n<footer id='5' style='font-size:20px'>388</footer>",
+        "markdown": "- ● AF-ON\n- ● AWB LOCK ONLY\n- ● LOCK SETTING\n- ● PERFORMANCE\n- ● AUTO IMAGE TRANSFER ORDER\n\n\n- ● Bluetooth ON/OFF\n- ● QUICK MENU\n- ● PLAYBACK\n- ● NONE\n\n\n# To disable the function button, choose NONE.\n\nShortcuts\n\n10\n\n388",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "list",
+            "content": {
+                "html": "<p id='0' data-category='list' style='font-size:14px'>● AF-ON<br>● AWB LOCK ONLY<br>● LOCK SETTING<br>● PERFORMANCE<br>● AUTO IMAGE TRANSFER ORDER</p>",
+                "markdown": "- ● AF-ON\n- ● AWB LOCK ONLY\n- ● LOCK SETTING\n- ● PERFORMANCE\n- ● AUTO IMAGE TRANSFER ORDER\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0808,
+                    "y": 0.0737
+                },
+                {
+                    "x": 0.4116,
+                    "y": 0.0737
+                },
+                {
+                    "x": 0.4116,
+                    "y": 0.1868
+                },
+                {
+                    "x": 0.0808,
+                    "y": 0.1868
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "list",
+            "content": {
+                "html": "<br><p id='1' data-category='list' style='font-size:14px'>● Bluetooth ON/OFF<br>● QUICK MENU<br>● PLAYBACK<br>● NONE</p>",
+                "markdown": "- ● Bluetooth ON/OFF\n- ● QUICK MENU\n- ● PLAYBACK\n- ● NONE\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.4925,
+                    "y": 0.0723
+                },
+                {
+                    "x": 0.6984,
+                    "y": 0.0723
+                },
+                {
+                    "x": 0.6984,
+                    "y": 0.1635
+                },
+                {
+                    "x": 0.4925,
+                    "y": 0.1635
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='2' style='font-size:16px'>To disable the function button, choose NONE.</h1>",
+                "markdown": "# To disable the function button, choose NONE.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0864,
+                    "y": 0.2015
+                },
+                {
+                    "x": 0.6264,
+                    "y": 0.2015
+                },
+                {
+                    "x": 0.6264,
+                    "y": 0.2227
+                },
+                {
+                    "x": 0.0864,
+                    "y": 0.2227
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='3' style='font-size:22px'>Shortcuts</header>",
+                "markdown": "Shortcuts",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0194,
+                    "y": 0.6844
+                },
+                {
+                    "x": 0.0406,
+                    "y": 0.6844
+                },
+                {
+                    "x": 0.0406,
+                    "y": 0.7575
+                },
+                {
+                    "x": 0.0194,
+                    "y": 0.7575
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='4' data-category='paragraph' style='font-size:18px'>10</p>",
+                "markdown": "10",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0186,
+                    "y": 0.7778
+                },
+                {
+                    "x": 0.0433,
+                    "y": 0.7778
+                },
+                {
+                    "x": 0.0433,
+                    "y": 0.7965
+                },
+                {
+                    "x": 0.0186,
+                    "y": 0.7965
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='5' style='font-size:20px'>388</footer>",
+                "markdown": "388",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0832,
+                    "y": 0.9563
+                },
+                {
+                    "x": 0.1398,
+                    "y": 0.9563
+                },
+                {
+                    "x": 0.1398,
+                    "y": 0.98
+                },
+                {
+                    "x": 0.0832,
+                    "y": 0.98
+                }
+            ],
+            "id": 5,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

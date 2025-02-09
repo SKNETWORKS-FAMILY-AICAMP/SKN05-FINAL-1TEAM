@@ -1,0 +1,117 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "# FLICKERLESS S.S. SETTING\n\nSelect **ON** to allow shutter speed to be fine-tuned to reduce flicker caused by LED lighting and the like.\n\n| Options |        |\n|---------|--------|\n| ON      | OFF    |\n\n> This option takes effect only in modes **S** and **M**.\n\n# IS MODE\n\nReduce blur caused by camera shake or subject motion.\n\n| Option                  | Description                                                                                                                                          |\n|-------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|\n| CONTINUOUS + MOTION     | Image stabilization on. If **+ MOTION** is selected, the camera will adjust shutter speed to reduce motion blur when moving objects are detected.     |\n| CONTINUOUS              | Image stabilization on.                                                                                                                              |\n| SHOOTING + MOTION       | As above, except that image stabilization is performed only when the shutter button is pressed halfway (focus mode **AF-C** only) or the shutter is released. If **+ MOTION** is selected, the camera will adjust shutter speed to reduce motion blur when moving objects are detected. |\n| SHOOTING ONLY           | Image stabilization on.                                                                                                                              |\n| OFF                     | Image stabilization off. Choose this option when using a tripod.                                                                                     |\n\n> - **+ MOTION** has no effect when sensitivity is set to a fixed value, and may also be unavailable at some other combinations of settings. The effect may vary with lighting conditions and the speed at which the object is moving.\n> - The setting selected with the lens image stabilization switch, if any, takes priority over the setting chosen with **IS MODE**.\n> - Note that vibration or camera sounds may be noticeable as image stabilization takes effect.",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "FLICKERLESS S.S. SETTING",
+                    "md": "# FLICKERLESS S.S. SETTING"
+                },
+                {
+                    "type": "text",
+                    "value": "Select **ON** to allow shutter speed to be fine-tuned to reduce flicker caused by LED lighting and the like.",
+                    "md": "Select **ON** to allow shutter speed to be fine-tuned to reduce flicker caused by LED lighting and the like."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Options",
+                            ""
+                        ],
+                        [
+                            "ON",
+                            "OFF"
+                        ]
+                    ],
+                    "md": "| Options |        |\n|---------|--------|\n| ON      | OFF    |",
+                    "isPerfectTable": true,
+                    "csv": "\"Options\",\"\"\n\"ON\",\"OFF\""
+                },
+                {
+                    "type": "text",
+                    "value": "> This option takes effect only in modes **S** and **M**.",
+                    "md": "> This option takes effect only in modes **S** and **M**."
+                },
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "IS MODE",
+                    "md": "# IS MODE"
+                },
+                {
+                    "type": "text",
+                    "value": "Reduce blur caused by camera shake or subject motion.",
+                    "md": "Reduce blur caused by camera shake or subject motion."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Option",
+                            "Description"
+                        ],
+                        [
+                            "CONTINUOUS + MOTION",
+                            "Image stabilization on. If **+ MOTION** is selected, the camera will adjust shutter speed to reduce motion blur when moving objects are detected."
+                        ],
+                        [
+                            "CONTINUOUS",
+                            "Image stabilization on."
+                        ],
+                        [
+                            "SHOOTING + MOTION",
+                            "As above, except that image stabilization is performed only when the shutter button is pressed halfway (focus mode **AF-C** only) or the shutter is released. If **+ MOTION** is selected, the camera will adjust shutter speed to reduce motion blur when moving objects are detected."
+                        ],
+                        [
+                            "SHOOTING ONLY",
+                            "Image stabilization on."
+                        ],
+                        [
+                            "OFF",
+                            "Image stabilization off. Choose this option when using a tripod."
+                        ]
+                    ],
+                    "md": "| Option                  | Description                                                                                                                                          |\n|-------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|\n| CONTINUOUS + MOTION     | Image stabilization on. If **+ MOTION** is selected, the camera will adjust shutter speed to reduce motion blur when moving objects are detected.     |\n| CONTINUOUS              | Image stabilization on.                                                                                                                              |\n| SHOOTING + MOTION       | As above, except that image stabilization is performed only when the shutter button is pressed halfway (focus mode **AF-C** only) or the shutter is released. If **+ MOTION** is selected, the camera will adjust shutter speed to reduce motion blur when moving objects are detected. |\n| SHOOTING ONLY           | Image stabilization on.                                                                                                                              |\n| OFF                     | Image stabilization off. Choose this option when using a tripod.                                                                                     |",
+                    "isPerfectTable": true,
+                    "csv": "\"Option\",\"Description\"\n\"CONTINUOUS + MOTION\",\"Image stabilization on. If **+ MOTION** is selected, the camera will adjust shutter speed to reduce motion blur when moving objects are detected.\"\n\"CONTINUOUS\",\"Image stabilization on.\"\n\"SHOOTING + MOTION\",\"As above, except that image stabilization is performed only when the shutter button is pressed halfway (focus mode **AF-C** only) or the shutter is released. If **+ MOTION** is selected, the camera will adjust shutter speed to reduce motion blur when moving objects are detected.\"\n\"SHOOTING ONLY\",\"Image stabilization on.\"\n\"OFF\",\"Image stabilization off. Choose this option when using a tripod.\""
+                },
+                {
+                    "type": "text",
+                    "value": "> - **+ MOTION** has no effect when sensitivity is set to a fixed value, and may also be unavailable at some other combinations of settings. The effect may vary with lighting conditions and the speed at which the object is moving.\n> - The setting selected with the lens image stabilization switch, if any, takes priority over the setting chosen with **IS MODE**.\n> - Note that vibration or camera sounds may be noticeable as image stabilization takes effect.",
+                    "md": "> - **+ MOTION** has no effect when sensitivity is set to a fixed value, and may also be unavailable at some other combinations of settings. The effect may vary with lighting conditions and the speed at which the object is moving.\n> - The setting selected with the lens image stabilization switch, if any, takes priority over the setting chosen with **IS MODE**.\n> - Note that vibration or camera sounds may be noticeable as image stabilization takes effect."
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 243.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "6a119edc-aaee-4fd7-8735-fbf2f9dc548c",
+    "file_path": "../data/raw_data/x-s20/x-s20_split/x-s20_page202.pdf"
+}

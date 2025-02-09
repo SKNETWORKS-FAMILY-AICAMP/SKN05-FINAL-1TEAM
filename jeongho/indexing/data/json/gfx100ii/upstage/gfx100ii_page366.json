@@ -1,0 +1,266 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:22px'>The<br>Setup<br>Menus</header>\n<br><h1 id='1' style='font-size:20px'>POWER MANAGEMENT</h1>\n<br><h1 id='2' style='font-size:20px'>Adjust power management settings.</h1>\n\n<br><table id='4' style='font-size:14px'><tr><td>10</td><td>POWER MANAGEMENT</td><td></td></tr><tr><td>AF MF</td><td>AUTO POWER OFF</td><td></td></tr><tr><td></td><td>PERFORMANCE</td><td></td></tr><tr><td></td><td>SHOOTING STAND BY MODE</td><td></td></tr><tr><td></td><td>AUTO POWER SAVE</td><td></td></tr><tr><td>2</td><td>AUTO POWER OFF TEMP. BACK</td><td>EXIT</td></tr><caption id='3' style='font-size:18px'>To access power management settings,<br>press MENU/OK, select the 8 (SET UP) tab,<br>and choose POWER MANAGEMENT.</caption></table>\n<p id='5' data-category='paragraph' style='font-size:16px'>AUTO POWER OFF</p>\n\n<br><table id='7' style='font-size:16px'><tr><td colspan=\"6\">Options</td></tr><tr><td>5 MIN</td><td>2 MIN</td><td>1 MIN</td><td>30 SEC</td><td>15 SEC</td><td>OFF</td></tr><tr><td colspan=\"6\"></td></tr><tr><td>366</td><td></td><td></td><td></td><td></td><td></td></tr><br><caption id='6' style='font-size:18px'>Choose the length of time before the camera turns off automati-<br>cally when no operations are performed. Shorter times increase<br>battery life; if OFF is selected, the camera must be turned off<br>manually.</caption></table>\n<br><p id='8' data-category='paragraph' style='font-size:14px'>9</p>",
+        "markdown": "The\nSetup\nMenus\n\n# POWER MANAGEMENT\n\n# Adjust power management settings.\n\nTo access power management settings,\npress MENU/OK, select the 8 (SET UP) tab,\nand choose POWER MANAGEMENT.\n\n| 10 | POWER MANAGEMENT |  |\n| --- | --- | --- |\n| AF MF | AUTO POWER OFF |  |\n|  | PERFORMANCE |  |\n|  | SHOOTING STAND BY MODE |  |\n|  | AUTO POWER SAVE |  |\n| 2 | AUTO POWER OFF TEMP. BACK | EXIT |\n\n\nAUTO POWER OFF\n\nChoose the length of time before the camera turns off automati-\ncally when no operations are performed. Shorter times increase\nbattery life; if OFF is selected, the camera must be turned off\nmanually.\n\n| Options | Options | Options | Options | Options | Options |\n| --- | --- | --- | --- | --- | --- |\n| 5 MIN | 2 MIN | 1 MIN | 30 SEC | 15 SEC | OFF |\n|  |  |  |  |  |  |\n| 366 |  |  |  |  |  |\n\n\n9",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:22px'>The<br>Setup<br>Menus</header>",
+                "markdown": "The\nSetup\nMenus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.019,
+                    "y": 0.57
+                },
+                {
+                    "x": 0.0406,
+                    "y": 0.57
+                },
+                {
+                    "x": 0.0406,
+                    "y": 0.6985
+                },
+                {
+                    "x": 0.019,
+                    "y": 0.6985
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='1' style='font-size:20px'>POWER MANAGEMENT</h1>",
+                "markdown": "# POWER MANAGEMENT",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1547,
+                    "y": 0.0747
+                },
+                {
+                    "x": 0.5428,
+                    "y": 0.0747
+                },
+                {
+                    "x": 0.5428,
+                    "y": 0.0979
+                },
+                {
+                    "x": 0.1547,
+                    "y": 0.0979
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='2' style='font-size:20px'>Adjust power management settings.</h1>",
+                "markdown": "# Adjust power management settings.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1553,
+                    "y": 0.1106
+                },
+                {
+                    "x": 0.6147,
+                    "y": 0.1106
+                },
+                {
+                    "x": 0.6147,
+                    "y": 0.1323
+                },
+                {
+                    "x": 0.1553,
+                    "y": 0.1323
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='3' data-category='paragraph' style='font-size:18px'>To access power management settings,<br>press MENU/OK, select the 8 (SET UP) tab,<br>and choose POWER MANAGEMENT.</p>",
+                "markdown": "To access power management settings,\npress MENU/OK, select the 8 (SET UP) tab,\nand choose POWER MANAGEMENT.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0822,
+                    "y": 0.1497
+                },
+                {
+                    "x": 0.6,
+                    "y": 0.1497
+                },
+                {
+                    "x": 0.6,
+                    "y": 0.2224
+                },
+                {
+                    "x": 0.0822,
+                    "y": 0.2224
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='4' style='font-size:14px'><tr><td>10</td><td>POWER MANAGEMENT</td><td></td></tr><tr><td>AF MF</td><td>AUTO POWER OFF</td><td></td></tr><tr><td></td><td>PERFORMANCE</td><td></td></tr><tr><td></td><td>SHOOTING STAND BY MODE</td><td></td></tr><tr><td></td><td>AUTO POWER SAVE</td><td></td></tr><tr><td>2</td><td>AUTO POWER OFF TEMP. BACK</td><td>EXIT</td></tr></table>",
+                "markdown": "| 10 | POWER MANAGEMENT |  |\n| --- | --- | --- |\n| AF MF | AUTO POWER OFF |  |\n|  | PERFORMANCE |  |\n|  | SHOOTING STAND BY MODE |  |\n|  | AUTO POWER SAVE |  |\n| 2 | AUTO POWER OFF TEMP. BACK | EXIT |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.608,
+                    "y": 0.1458
+                },
+                {
+                    "x": 0.8911,
+                    "y": 0.1458
+                },
+                {
+                    "x": 0.8911,
+                    "y": 0.295
+                },
+                {
+                    "x": 0.608,
+                    "y": 0.295
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='5' data-category='paragraph' style='font-size:16px'>AUTO POWER OFF</p>",
+                "markdown": "AUTO POWER OFF",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0809,
+                    "y": 0.3119
+                },
+                {
+                    "x": 0.3336,
+                    "y": 0.3119
+                },
+                {
+                    "x": 0.3336,
+                    "y": 0.3339
+                },
+                {
+                    "x": 0.0809,
+                    "y": 0.3339
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='6' data-category='paragraph' style='font-size:18px'>Choose the length of time before the camera turns off automati-<br>cally when no operations are performed. Shorter times increase<br>battery life; if OFF is selected, the camera must be turned off<br>manually.</p>",
+                "markdown": "Choose the length of time before the camera turns off automati-\ncally when no operations are performed. Shorter times increase\nbattery life; if OFF is selected, the camera must be turned off\nmanually.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0813,
+                    "y": 0.3431
+                },
+                {
+                    "x": 0.8947,
+                    "y": 0.3431
+                },
+                {
+                    "x": 0.8947,
+                    "y": 0.4465
+                },
+                {
+                    "x": 0.0813,
+                    "y": 0.4465
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='7' style='font-size:16px'><tr><td colspan=\"6\">Options</td></tr><tr><td>5 MIN</td><td>2 MIN</td><td>1 MIN</td><td>30 SEC</td><td>15 SEC</td><td>OFF</td></tr><tr><td colspan=\"6\"></td></tr><tr><td>366</td><td></td><td></td><td></td><td></td><td></td></tr></table>",
+                "markdown": "| Options | Options | Options | Options | Options | Options |\n| --- | --- | --- | --- | --- | --- |\n| 5 MIN | 2 MIN | 1 MIN | 30 SEC | 15 SEC | OFF |\n|  |  |  |  |  |  |\n| 366 |  |  |  |  |  |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0834,
+                    "y": 0.444
+                },
+                {
+                    "x": 0.8936,
+                    "y": 0.444
+                },
+                {
+                    "x": 0.8936,
+                    "y": 1
+                },
+                {
+                    "x": 0.0834,
+                    "y": 1
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='8' data-category='paragraph' style='font-size:14px'>9</p>",
+                "markdown": "9",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0278,
+                    "y": 0.7195
+                },
+                {
+                    "x": 0.0417,
+                    "y": 0.7195
+                },
+                {
+                    "x": 0.0417,
+                    "y": 0.7344
+                },
+                {
+                    "x": 0.0278,
+                    "y": 0.7344
+                }
+            ],
+            "id": 8,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

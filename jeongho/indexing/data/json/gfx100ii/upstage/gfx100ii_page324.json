@@ -1,0 +1,434 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:22px'>Network/USB<br>Setting<br>Menus</header>\n<br><h1 id='1' style='font-size:16px'>SELECT FILE TYPE</h1>\n<br><p id='2' data-category='paragraph' style='font-size:18px'>Choose the types of files uploaded to Frame.io. You can select or<br>deselect each file type individually.</p>\n<table id='3' style='font-size:14px'><tr><td colspan=\"4\">Options</td></tr><tr><td>MOV - PROXY</td><td>MOV - ProRes</td><td>OTHER MOV/MP4</td><td>JPEG</td></tr><tr><td>RAW</td><td>HEIF</td><td>TIFF</td><td></td></tr></table>\n<p id='4' data-category='paragraph' style='font-size:16px'>UPLOAD SETTING</p>\n<br><h1 id='5' style='font-size:22px'>Adjust settings Frame.io upload settings.</h1>\n<br><p id='6' data-category='paragraph' style='font-size:14px'>SELECT IMAGE & TRANSFER</p>\n<br><p id='7' data-category='paragraph' style='font-size:20px'>Mark picture for upload.</p>\n<p id='8' data-category='paragraph' style='font-size:16px'>AUTO IMAGE TRANSFER ORDER</p>\n\n<br><table id='10' style='font-size:16px'><tr><td rowspan=\"2\" colspan=\"2\">Options</td></tr><tr></tr><tr><td>ON</td><td>OFF</td></tr><br><caption id='9' style='font-size:18px'>Select ON to automatically mark photos and movies for upload<br>as they are taken.</caption></table>\n\n<br><p id='12' data-category='paragraph' style='font-size:14px'>Pause or resume upload to Frame.io.</p>\n<br><table id='13' style='font-size:14px'><tr><td rowspan=\"2\" colspan=\"2\">Options</td></tr><tr></tr><tr><td>TRANSFER</td><td>SUSPEND</td></tr><br><caption id='11' style='font-size:16px'>TRANSFER/SUSPEND</caption></table>\n<footer id='14' style='font-size:20px'>324</footer>",
+        "markdown": "Network/USB\nSetting\nMenus\n\n# SELECT FILE TYPE\n\nChoose the types of files uploaded to Frame.io. You can select or\ndeselect each file type individually.\n\n| Options | Options | Options | Options |\n| --- | --- | --- | --- |\n| MOV - PROXY | MOV - ProRes | OTHER MOV/MP4 | JPEG |\n| RAW | HEIF | TIFF |  |\n\n\nUPLOAD SETTING\n\n# Adjust settings Frame.io upload settings.\n\nSELECT IMAGE & TRANSFER\n\nMark picture for upload.\n\nAUTO IMAGE TRANSFER ORDER\n\nSelect ON to automatically mark photos and movies for upload\nas they are taken.\n\n| Options | Options |\n| --- | --- |\n| Options | Options |\n| ON | OFF |\n\n\nTRANSFER/SUSPEND\n\nPause or resume upload to Frame.io.\n\n| Options | Options |\n| --- | --- |\n| Options | Options |\n| TRANSFER | SUSPEND |\n\n\n324",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:22px'>Network/USB<br>Setting<br>Menus</header>",
+                "markdown": "Network/USB\nSetting\nMenus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0177,
+                    "y": 0.4292
+                },
+                {
+                    "x": 0.0409,
+                    "y": 0.4292
+                },
+                {
+                    "x": 0.0409,
+                    "y": 0.6385
+                },
+                {
+                    "x": 0.0177,
+                    "y": 0.6385
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='1' style='font-size:16px'>SELECT FILE TYPE</h1>",
+                "markdown": "# SELECT FILE TYPE",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0928,
+                    "y": 0.0743
+                },
+                {
+                    "x": 0.316,
+                    "y": 0.0743
+                },
+                {
+                    "x": 0.316,
+                    "y": 0.0969
+                },
+                {
+                    "x": 0.0928,
+                    "y": 0.0969
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='2' data-category='paragraph' style='font-size:18px'>Choose the types of files uploaded to Frame.io. You can select or<br>deselect each file type individually.</p>",
+                "markdown": "Choose the types of files uploaded to Frame.io. You can select or\ndeselect each file type individually.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0812,
+                    "y": 0.1039
+                },
+                {
+                    "x": 0.8924,
+                    "y": 0.1039
+                },
+                {
+                    "x": 0.8924,
+                    "y": 0.1548
+                },
+                {
+                    "x": 0.0812,
+                    "y": 0.1548
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='3' style='font-size:14px'><tr><td colspan=\"4\">Options</td></tr><tr><td>MOV - PROXY</td><td>MOV - ProRes</td><td>OTHER MOV/MP4</td><td>JPEG</td></tr><tr><td>RAW</td><td>HEIF</td><td>TIFF</td><td></td></tr></table>",
+                "markdown": "| Options | Options | Options | Options |\n| --- | --- | --- | --- |\n| MOV - PROXY | MOV - ProRes | OTHER MOV/MP4 | JPEG |\n| RAW | HEIF | TIFF |  |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0869,
+                    "y": 0.1676
+                },
+                {
+                    "x": 0.8904,
+                    "y": 0.1676
+                },
+                {
+                    "x": 0.8904,
+                    "y": 0.25
+                },
+                {
+                    "x": 0.0869,
+                    "y": 0.25
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='4' data-category='paragraph' style='font-size:16px'>UPLOAD SETTING</p>",
+                "markdown": "UPLOAD SETTING",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0975,
+                    "y": 0.2671
+                },
+                {
+                    "x": 0.3177,
+                    "y": 0.2671
+                },
+                {
+                    "x": 0.3177,
+                    "y": 0.2902
+                },
+                {
+                    "x": 0.0975,
+                    "y": 0.2902
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='5' style='font-size:22px'>Adjust settings Frame.io upload settings.</h1>",
+                "markdown": "# Adjust settings Frame.io upload settings.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0818,
+                    "y": 0.2986
+                },
+                {
+                    "x": 0.5973,
+                    "y": 0.2986
+                },
+                {
+                    "x": 0.5973,
+                    "y": 0.3229
+                },
+                {
+                    "x": 0.0818,
+                    "y": 0.3229
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='6' data-category='paragraph' style='font-size:14px'>SELECT IMAGE & TRANSFER</p>",
+                "markdown": "SELECT IMAGE & TRANSFER",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0824,
+                    "y": 0.3377
+                },
+                {
+                    "x": 0.3611,
+                    "y": 0.3377
+                },
+                {
+                    "x": 0.3611,
+                    "y": 0.3579
+                },
+                {
+                    "x": 0.0824,
+                    "y": 0.3579
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='7' data-category='paragraph' style='font-size:20px'>Mark picture for upload.</p>",
+                "markdown": "Mark picture for upload.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0813,
+                    "y": 0.3624
+                },
+                {
+                    "x": 0.3891,
+                    "y": 0.3624
+                },
+                {
+                    "x": 0.3891,
+                    "y": 0.3864
+                },
+                {
+                    "x": 0.0813,
+                    "y": 0.3864
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='8' data-category='paragraph' style='font-size:16px'>AUTO IMAGE TRANSFER ORDER</p>",
+                "markdown": "AUTO IMAGE TRANSFER ORDER",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0826,
+                    "y": 0.4018
+                },
+                {
+                    "x": 0.3971,
+                    "y": 0.4018
+                },
+                {
+                    "x": 0.3971,
+                    "y": 0.4222
+                },
+                {
+                    "x": 0.0826,
+                    "y": 0.4222
+                }
+            ],
+            "id": 8,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='9' data-category='paragraph' style='font-size:18px'>Select ON to automatically mark photos and movies for upload<br>as they are taken.</p>",
+                "markdown": "Select ON to automatically mark photos and movies for upload\nas they are taken.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0819,
+                    "y": 0.4265
+                },
+                {
+                    "x": 0.8921,
+                    "y": 0.4265
+                },
+                {
+                    "x": 0.8921,
+                    "y": 0.4764
+                },
+                {
+                    "x": 0.0819,
+                    "y": 0.4764
+                }
+            ],
+            "id": 9,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='10' style='font-size:16px'><tr><td rowspan=\"2\" colspan=\"2\">Options</td></tr><tr></tr><tr><td>ON</td><td>OFF</td></tr></table>",
+                "markdown": "| Options | Options |\n| --- | --- |\n| Options | Options |\n| ON | OFF |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0831,
+                    "y": 0.4903
+                },
+                {
+                    "x": 0.8905,
+                    "y": 0.4903
+                },
+                {
+                    "x": 0.8905,
+                    "y": 0.5462
+                },
+                {
+                    "x": 0.0831,
+                    "y": 0.5462
+                }
+            ],
+            "id": 10,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='11' data-category='paragraph' style='font-size:16px'>TRANSFER/SUSPEND</p>",
+                "markdown": "TRANSFER/SUSPEND",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0816,
+                    "y": 0.5563
+                },
+                {
+                    "x": 0.2969,
+                    "y": 0.5563
+                },
+                {
+                    "x": 0.2969,
+                    "y": 0.5766
+                },
+                {
+                    "x": 0.0816,
+                    "y": 0.5766
+                }
+            ],
+            "id": 11,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='12' data-category='paragraph' style='font-size:14px'>Pause or resume upload to Frame.io.</p>",
+                "markdown": "Pause or resume upload to Frame.io.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0817,
+                    "y": 0.5815
+                },
+                {
+                    "x": 0.5427,
+                    "y": 0.5815
+                },
+                {
+                    "x": 0.5427,
+                    "y": 0.6049
+                },
+                {
+                    "x": 0.0817,
+                    "y": 0.6049
+                }
+            ],
+            "id": 12,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='13' style='font-size:14px'><tr><td rowspan=\"2\" colspan=\"2\">Options</td></tr><tr></tr><tr><td>TRANSFER</td><td>SUSPEND</td></tr></table>",
+                "markdown": "| Options | Options |\n| --- | --- |\n| Options | Options |\n| TRANSFER | SUSPEND |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1049,
+                    "y": 0.6186
+                },
+                {
+                    "x": 0.8897,
+                    "y": 0.6186
+                },
+                {
+                    "x": 0.8897,
+                    "y": 0.6729
+                },
+                {
+                    "x": 0.1049,
+                    "y": 0.6729
+                }
+            ],
+            "id": 13,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='14' style='font-size:20px'>324</footer>",
+                "markdown": "324",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0831,
+                    "y": 0.9564
+                },
+                {
+                    "x": 0.1405,
+                    "y": 0.9564
+                },
+                {
+                    "x": 0.1405,
+                    "y": 0.9794
+                },
+                {
+                    "x": 0.0831,
+                    "y": 0.9794
+                }
+            ],
+            "id": 14,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

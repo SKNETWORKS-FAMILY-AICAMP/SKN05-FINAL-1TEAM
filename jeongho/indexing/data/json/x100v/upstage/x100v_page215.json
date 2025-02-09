@@ -1,0 +1,126 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:14px'>SCREEN SETTING</header>\n<table id='1' style='font-size:16px'><tr><td rowspan=\"2\">Item</td><td colspan=\"2\">Default</td></tr><tr><td>OVF</td><td>EVF/LCD</td></tr><tr><td>PHOTOMETRY</td><td>V</td><td>V</td></tr><tr><td>SHUTTER TYPE</td><td>V</td><td>V</td></tr><tr><td>FLASH</td><td>V</td><td>V</td></tr><tr><td>CONTINUOUS MODE</td><td>V</td><td>V</td></tr><tr><td>TOUCH SCREEN MODE</td><td>V</td><td>V</td></tr><tr><td>WHITE BALANCE</td><td>V</td><td>V</td></tr><tr><td>FILM SIMULATION</td><td>V</td><td>V</td></tr><tr><td>DYNAMIC RANGE</td><td>V</td><td>V</td></tr><tr><td>BOOST MODE</td><td>V</td><td>V</td></tr><tr><td>FRAMES REMAINING</td><td>V</td><td>V</td></tr><tr><td>IMAGE SIZE/QUALITY</td><td>V</td><td>V</td></tr><tr><td>MOVIE MODE & REC. TIME</td><td></td><td>V</td></tr><tr><td>DIGITAL TELE-CONV.</td><td>V</td><td>V</td></tr><tr><td>CONVERSION LENS</td><td>V</td><td>V</td></tr><tr><td>IMAGE TRANSFER ORDER</td><td></td><td></td></tr><tr><td>MIC LEVEL</td><td></td><td>V V V</td></tr><tr><td>GUIDANCE MESSAGE</td><td>V</td><td>V</td></tr><tr><td>BATTERY LEVEL</td><td>V</td><td>V</td></tr><tr><td>FRAMING OUTLINE</td><td></td><td></td></tr></table>\n<br><footer id='2' style='font-size:20px'>The<br>Setup<br>Menus<br>8</footer>\n<footer id='3' style='font-size:18px'>215</footer>",
+        "markdown": "SCREEN SETTING\n\n| Item | Default | Default |\n| --- | --- | --- |\n| Item | OVF | EVF/LCD |\n| PHOTOMETRY | V | V |\n| SHUTTER TYPE | V | V |\n| FLASH | V | V |\n| CONTINUOUS MODE | V | V |\n| TOUCH SCREEN MODE | V | V |\n| WHITE BALANCE | V | V |\n| FILM SIMULATION | V | V |\n| DYNAMIC RANGE | V | V |\n| BOOST MODE | V | V |\n| FRAMES REMAINING | V | V |\n| IMAGE SIZE/QUALITY | V | V |\n| MOVIE MODE & REC. TIME |  | V |\n| DIGITAL TELE-CONV. | V | V |\n| CONVERSION LENS | V | V |\n| IMAGE TRANSFER ORDER |  |  |\n| MIC LEVEL |  | V V V |\n| GUIDANCE MESSAGE | V | V |\n| BATTERY LEVEL | V | V |\n| FRAMING OUTLINE |  |  |\n\n\nThe\nSetup\nMenus\n8\n\n215",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:14px'>SCREEN SETTING</header>",
+                "markdown": "SCREEN SETTING",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.7473,
+                    "y": 0.0288
+                },
+                {
+                    "x": 0.9183,
+                    "y": 0.0288
+                },
+                {
+                    "x": 0.9183,
+                    "y": 0.0486
+                },
+                {
+                    "x": 0.7473,
+                    "y": 0.0486
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='1' style='font-size:16px'><tr><td rowspan=\"2\">Item</td><td colspan=\"2\">Default</td></tr><tr><td>OVF</td><td>EVF/LCD</td></tr><tr><td>PHOTOMETRY</td><td>V</td><td>V</td></tr><tr><td>SHUTTER TYPE</td><td>V</td><td>V</td></tr><tr><td>FLASH</td><td>V</td><td>V</td></tr><tr><td>CONTINUOUS MODE</td><td>V</td><td>V</td></tr><tr><td>TOUCH SCREEN MODE</td><td>V</td><td>V</td></tr><tr><td>WHITE BALANCE</td><td>V</td><td>V</td></tr><tr><td>FILM SIMULATION</td><td>V</td><td>V</td></tr><tr><td>DYNAMIC RANGE</td><td>V</td><td>V</td></tr><tr><td>BOOST MODE</td><td>V</td><td>V</td></tr><tr><td>FRAMES REMAINING</td><td>V</td><td>V</td></tr><tr><td>IMAGE SIZE/QUALITY</td><td>V</td><td>V</td></tr><tr><td>MOVIE MODE & REC. TIME</td><td></td><td>V</td></tr><tr><td>DIGITAL TELE-CONV.</td><td>V</td><td>V</td></tr><tr><td>CONVERSION LENS</td><td>V</td><td>V</td></tr><tr><td>IMAGE TRANSFER ORDER</td><td></td><td></td></tr><tr><td>MIC LEVEL</td><td></td><td>V V V</td></tr><tr><td>GUIDANCE MESSAGE</td><td>V</td><td>V</td></tr><tr><td>BATTERY LEVEL</td><td>V</td><td>V</td></tr><tr><td>FRAMING OUTLINE</td><td></td><td></td></tr></table>",
+                "markdown": "| Item | Default | Default |\n| --- | --- | --- |\n| Item | OVF | EVF/LCD |\n| PHOTOMETRY | V | V |\n| SHUTTER TYPE | V | V |\n| FLASH | V | V |\n| CONTINUOUS MODE | V | V |\n| TOUCH SCREEN MODE | V | V |\n| WHITE BALANCE | V | V |\n| FILM SIMULATION | V | V |\n| DYNAMIC RANGE | V | V |\n| BOOST MODE | V | V |\n| FRAMES REMAINING | V | V |\n| IMAGE SIZE/QUALITY | V | V |\n| MOVIE MODE & REC. TIME |  | V |\n| DIGITAL TELE-CONV. | V | V |\n| CONVERSION LENS | V | V |\n| IMAGE TRANSFER ORDER |  |  |\n| MIC LEVEL |  | V V V |\n| GUIDANCE MESSAGE | V | V |\n| BATTERY LEVEL | V | V |\n| FRAMING OUTLINE |  |  |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1082,
+                    "y": 0.0722
+                },
+                {
+                    "x": 0.9149,
+                    "y": 0.0722
+                },
+                {
+                    "x": 0.9149,
+                    "y": 0.571
+                },
+                {
+                    "x": 0.1082,
+                    "y": 0.571
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<br><footer id='2' style='font-size:20px'>The<br>Setup<br>Menus<br>8</footer>",
+                "markdown": "The\nSetup\nMenus\n8",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9554,
+                    "y": 0.5031
+                },
+                {
+                    "x": 0.99,
+                    "y": 0.5031
+                },
+                {
+                    "x": 0.99,
+                    "y": 0.6806
+                },
+                {
+                    "x": 0.9554,
+                    "y": 0.6806
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='3' style='font-size:18px'>215</footer>",
+                "markdown": "215",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.8604,
+                    "y": 0.9562
+                },
+                {
+                    "x": 0.9174,
+                    "y": 0.9562
+                },
+                {
+                    "x": 0.9174,
+                    "y": 0.9796
+                },
+                {
+                    "x": 0.8604,
+                    "y": 0.9796
+                }
+            ],
+            "id": 3,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

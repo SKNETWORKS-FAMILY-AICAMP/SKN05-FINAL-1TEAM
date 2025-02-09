@@ -1,0 +1,13 @@
+{
+    "parsing_result": "# File Type and Compression\n\nChoose the movie file type and compression.\n\n| Option                  | Description                                                                                                                                  |\n|-------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|\n| **H.264 ALL-I 420 MOV** | A highly-portable compressed format. Footage is recorded at a depth of 8 bits using All-I interframe compression and 4:2:0 chroma sub-sampling. |\n| **H.264 LongGOP 420 MOV** | A highly-portable compressed format. Footage is recorded at a depth of 8 bits using Long GOP interframe compression and 4:2:0 chroma sub-sampling. |\n| **H.264 LongGOP 420 MP4** | A format suitable for movies that will be uploaded to the web.                                                                              |\n| **H.265 ALL-I 420 MOV** | A format with a higher compression ratio than H.264. Footage is recorded at a depth of 10 bits using All-I interframe compression and 4:2:0 chroma sub-sampling. |\n| **H.265 LongGOP 420 MOV** | A format with a higher compression ratio than H.264. Footage is recorded at a depth of 10 bits using Long GOP interframe compression and 4:2:0 chroma sub-sampling. |\n| **H.265 ALL-I 422 MOV** | A format with a higher compression ratio than H.264. Footage is recorded at a depth of 10 bits using All-I interframe compression and 4:2:2 chroma sub-sampling. |\n| **H.265 LongGOP 422 MOV** | A format with a higher compression ratio than H.264. Footage is recorded at a depth of 10 bits using Long GOP interframe compression and 4:2:2 chroma sub-sampling. |\n| **ProRes HQ MOV** *     | Record movies in ProRes 422 HQ format.                                                                                                       |\n| **ProRes 422 MOV** *    | Record movies in ProRes 422 format.                                                                                                          |\n| **ProRes LT MOV** *     | Record movies in ProRes 422 LT format.                                                                                                       |\n\n*Available only when [ ] is selected as the destination.",
+    "embedding_result": [],
+    "metadata": {
+        "page": 182,
+        "model": "gfx100ii",
+        "chapter": "The Shooting Menus",
+        "section": "MOVIE SETTING (Movie Recording)",
+        "subsection": [
+            "MEDIA REC SETTING"
+        ]
+    }
+}

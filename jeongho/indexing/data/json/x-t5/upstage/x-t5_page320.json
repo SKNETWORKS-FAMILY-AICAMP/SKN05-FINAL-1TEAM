@@ -1,0 +1,238 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:16px'>The Quick Menu</header>\n<h1 id='1' style='font-size:20px'>Available Items (Movies)</h1>\n<p id='2' data-category='list' style='font-size:14px'>● FILM SIMULATION<br>● DYNAMIC RANGE<br>● WHITE BALANCE<br>● WHITE BALANCE COLOR TEMP.<br>(WHEN K SELECTED)<br>● HIGHLIGHT TONE<br>● SHADOW TONE<br>● COLOR<br>● SHARPNESS<br>● HIGH ISO NR<br>● FACE/EYE DETECTION SETTING<br>● SUBJECT DETECTION SETTING<br>● MF ASSIST<br>● TOUCH SCREEN MODE<br>● PHOTOMETRY<br>● MOVIE MODE RESOLUTION/ASPECT<br>RATIO<br>● MOVIE MODE FRAME RATE</p>\n<br><p id='3' data-category='list' style='font-size:14px'>● BIT RATE<br>● HIGH SPEED REC<br>● SELF-TIMER<br>● MOVIE AF MODE<br>● FIX MOVIE CROP MAGNIFICATION<br>● IS MODE<br>● IS MODE BOOST<br>● S.S.<br>(MOVIE OPTIMIZED CONTROL 06)<br>● APERTURE<br>(MOVIE OPTIMIZED CONTROL - L )<br>● ISO<br>(MOVIE OPTIMIZED CONTROL 06)<br>● INTERNAL/EXTERNAL MIC LEVEL<br>ADJUSTMENT<br>● EVF/LCD BRIGHTNESS<br>● EVF/LCD COLOR<br>● NONE</p>\n<br><p id='4' data-category='paragraph' style='font-size:18px'>To disable the function button, choose NONE.</p>\n<header id='5' style='font-size:22px'>Shortcuts</header>\n<p id='6' data-category='paragraph' style='font-size:18px'>10</p>\n<footer id='7' style='font-size:20px'>320</footer>",
+        "markdown": "The Quick Menu\n\n# Available Items (Movies)\n\n- ● FILM SIMULATION\n- ● DYNAMIC RANGE\n- ● WHITE BALANCE\n- ● WHITE BALANCE COLOR TEMP.\n- (WHEN K SELECTED)\n- ● HIGHLIGHT TONE\n- ● SHADOW TONE\n- ● COLOR\n- ● SHARPNESS\n- ● HIGH ISO NR\n- ● FACE/EYE DETECTION SETTING\n- ● SUBJECT DETECTION SETTING\n- ● MF ASSIST\n- ● TOUCH SCREEN MODE\n- ● PHOTOMETRY\n- ● MOVIE MODE RESOLUTION/ASPECT\n- RATIO\n- ● MOVIE MODE FRAME RATE\n\n\n- ● BIT RATE\n- ● HIGH SPEED REC\n- ● SELF-TIMER\n- ● MOVIE AF MODE\n- ● FIX MOVIE CROP MAGNIFICATION\n- ● IS MODE\n- ● IS MODE BOOST\n- ● S.S.\n- (MOVIE OPTIMIZED CONTROL 06)\n- ● APERTURE\n- (MOVIE OPTIMIZED CONTROL - L )\n- ● ISO\n- (MOVIE OPTIMIZED CONTROL 06)\n- ● INTERNAL/EXTERNAL MIC LEVEL\n- ADJUSTMENT\n- ● EVF/LCD BRIGHTNESS\n- ● EVF/LCD COLOR\n- ● NONE\n\n\nTo disable the function button, choose NONE.\n\nShortcuts\n\n10\n\n320",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:16px'>The Quick Menu</header>",
+                "markdown": "The Quick Menu",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.7273,
+                    "y": 0.029
+                },
+                {
+                    "x": 0.8919,
+                    "y": 0.029
+                },
+                {
+                    "x": 0.8919,
+                    "y": 0.0496
+                },
+                {
+                    "x": 0.7273,
+                    "y": 0.0496
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='1' style='font-size:20px'>Available Items (Movies)</h1>",
+                "markdown": "# Available Items (Movies)",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.095,
+                    "y": 0.0737
+                },
+                {
+                    "x": 0.3985,
+                    "y": 0.0737
+                },
+                {
+                    "x": 0.3985,
+                    "y": 0.0971
+                },
+                {
+                    "x": 0.095,
+                    "y": 0.0971
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "list",
+            "content": {
+                "html": "<p id='2' data-category='list' style='font-size:14px'>● FILM SIMULATION<br>● DYNAMIC RANGE<br>● WHITE BALANCE<br>● WHITE BALANCE COLOR TEMP.<br>(WHEN K SELECTED)<br>● HIGHLIGHT TONE<br>● SHADOW TONE<br>● COLOR<br>● SHARPNESS<br>● HIGH ISO NR<br>● FACE/EYE DETECTION SETTING<br>● SUBJECT DETECTION SETTING<br>● MF ASSIST<br>● TOUCH SCREEN MODE<br>● PHOTOMETRY<br>● MOVIE MODE RESOLUTION/ASPECT<br>RATIO<br>● MOVIE MODE FRAME RATE</p>",
+                "markdown": "- ● FILM SIMULATION\n- ● DYNAMIC RANGE\n- ● WHITE BALANCE\n- ● WHITE BALANCE COLOR TEMP.\n- (WHEN K SELECTED)\n- ● HIGHLIGHT TONE\n- ● SHADOW TONE\n- ● COLOR\n- ● SHARPNESS\n- ● HIGH ISO NR\n- ● FACE/EYE DETECTION SETTING\n- ● SUBJECT DETECTION SETTING\n- ● MF ASSIST\n- ● TOUCH SCREEN MODE\n- ● PHOTOMETRY\n- ● MOVIE MODE RESOLUTION/ASPECT\n- RATIO\n- ● MOVIE MODE FRAME RATE\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0787,
+                    "y": 0.1041
+                },
+                {
+                    "x": 0.4571,
+                    "y": 0.1041
+                },
+                {
+                    "x": 0.4571,
+                    "y": 0.517
+                },
+                {
+                    "x": 0.0787,
+                    "y": 0.517
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "list",
+            "content": {
+                "html": "<br><p id='3' data-category='list' style='font-size:14px'>● BIT RATE<br>● HIGH SPEED REC<br>● SELF-TIMER<br>● MOVIE AF MODE<br>● FIX MOVIE CROP MAGNIFICATION<br>● IS MODE<br>● IS MODE BOOST<br>● S.S.<br>(MOVIE OPTIMIZED CONTROL 06)<br>● APERTURE<br>(MOVIE OPTIMIZED CONTROL - L )<br>● ISO<br>(MOVIE OPTIMIZED CONTROL 06)<br>● INTERNAL/EXTERNAL MIC LEVEL<br>ADJUSTMENT<br>● EVF/LCD BRIGHTNESS<br>● EVF/LCD COLOR<br>● NONE</p>",
+                "markdown": "- ● BIT RATE\n- ● HIGH SPEED REC\n- ● SELF-TIMER\n- ● MOVIE AF MODE\n- ● FIX MOVIE CROP MAGNIFICATION\n- ● IS MODE\n- ● IS MODE BOOST\n- ● S.S.\n- (MOVIE OPTIMIZED CONTROL 06)\n- ● APERTURE\n- (MOVIE OPTIMIZED CONTROL - L )\n- ● ISO\n- (MOVIE OPTIMIZED CONTROL 06)\n- ● INTERNAL/EXTERNAL MIC LEVEL\n- ADJUSTMENT\n- ● EVF/LCD BRIGHTNESS\n- ● EVF/LCD COLOR\n- ● NONE\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.4813,
+                    "y": 0.1005
+                },
+                {
+                    "x": 0.873,
+                    "y": 0.1005
+                },
+                {
+                    "x": 0.873,
+                    "y": 0.5181
+                },
+                {
+                    "x": 0.4813,
+                    "y": 0.5181
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='4' data-category='paragraph' style='font-size:18px'>To disable the function button, choose NONE.</p>",
+                "markdown": "To disable the function button, choose NONE.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0942,
+                    "y": 0.5318
+                },
+                {
+                    "x": 0.6279,
+                    "y": 0.5318
+                },
+                {
+                    "x": 0.6279,
+                    "y": 0.5534
+                },
+                {
+                    "x": 0.0942,
+                    "y": 0.5534
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='5' style='font-size:22px'>Shortcuts</header>",
+                "markdown": "Shortcuts",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0194,
+                    "y": 0.6841
+                },
+                {
+                    "x": 0.0405,
+                    "y": 0.6841
+                },
+                {
+                    "x": 0.0405,
+                    "y": 0.7577
+                },
+                {
+                    "x": 0.0194,
+                    "y": 0.7577
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='6' data-category='paragraph' style='font-size:18px'>10</p>",
+                "markdown": "10",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0178,
+                    "y": 0.7772
+                },
+                {
+                    "x": 0.0441,
+                    "y": 0.7772
+                },
+                {
+                    "x": 0.0441,
+                    "y": 0.7971
+                },
+                {
+                    "x": 0.0178,
+                    "y": 0.7971
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='7' style='font-size:20px'>320</footer>",
+                "markdown": "320",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0833,
+                    "y": 0.9561
+                },
+                {
+                    "x": 0.1403,
+                    "y": 0.9561
+                },
+                {
+                    "x": 0.1403,
+                    "y": 0.9797
+                },
+                {
+                    "x": 0.0833,
+                    "y": 0.9797
+                }
+            ],
+            "id": 7,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

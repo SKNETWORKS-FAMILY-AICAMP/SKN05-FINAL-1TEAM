@@ -1,0 +1,350 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:14px'>Manual Focus</header>\n<h1 id='1' style='font-size:22px'>Checking Focus</h1>\n<br><p id='2' data-category='paragraph' style='font-size:20px'>A variety of options are available for checking focus in manual<br>focus mode.</p>\n<h1 id='3' style='font-size:16px'>The Manual Focus Indicator</h1>\n<br><p id='4' data-category='paragraph' style='font-size:18px'>The manual focus indicator indicates<br>how closely the focus distance matches<br>the distance to the subject in the focus<br>brackets. The white line indicates the<br>distance to the subject in the focus area<br>(in meters or feet according to the option<br>selected for SCREEN SET-UP > FOCUS<br>SCALE UNITS in the setup menu), the<br>blue bar the depth of field, or in other<br>words the distance in front of and behind<br>the subject that appears to be in focus.</p>\n<br><figure id='5'><img style='font-size:14px' alt=\"pa⌀loperater\n0.1 0.5 1.0 1.5 2.0 3.0 5.0 10 8m\nMF\" data-coord=\"top-left:(1759,809); bottom-right:(2514,1316)\" /></figure>\n<figure id='6'><img style='font-size:14px' alt=\"Focus distance\n(white line)\n1.0 1.5 2.0 3.0 5.0\" data-coord=\"top-left:(1751,1391); bottom-right:(2536,1870)\" /></figure>\n<br><p id='7' data-category='paragraph' style='font-size:18px'>Depth of field</p>\n<br><p id='8' data-category='list' style='font-size:14px'>If both AF DISTANCE INDICATOR and MF DISTANCE INDICATOR<br>are selected in the f SCREEN SET-UP > DISP. CUSTOM SETTING<br>list, the manual focus indicator can also be viewed using the depth-<br>of-field indicator in the standard display. Use the DISP/BACK button to<br>display standard indicators.<br>● Use the AF AF/MF SETTING > DEPTH-OF-FIELD SCALE option<br>MF<br>to choose how depth of field is displayed. Choose FILM FORMAT<br>BASIS to help you make practical assessments of depth of field for<br>pictures that will be viewed as prints and the like, PIXEL BASIS to<br>help you assess depth of field for pictures that will be viewed at high<br>resolutions on computers or other electronic displays.</p>\n<br><footer id='9' style='font-size:16px'>5</footer>\n<footer id='10' style='font-size:20px'>75</footer>\n<br><footer id='11' style='font-size:22px'>Taking<br>Photographs</footer>",
+        "markdown": "Manual Focus\n\n# Checking Focus\n\nA variety of options are available for checking focus in manual\nfocus mode.\n\n# The Manual Focus Indicator\n\nThe manual focus indicator indicates\nhow closely the focus distance matches\nthe distance to the subject in the focus\nbrackets. The white line indicates the\ndistance to the subject in the focus area\n(in meters or feet according to the option\nselected for SCREEN SET-UP > FOCUS\nSCALE UNITS in the setup menu), the\nblue bar the depth of field, or in other\nwords the distance in front of and behind\nthe subject that appears to be in focus.\n\n![image](/image/placeholder)\npa⌀loperater\n0.1 0.5 1.0 1.5 2.0 3.0 5.0 10 8m\nMF\n\n![image](/image/placeholder)\nFocus distance\n(white line)\n1.0 1.5 2.0 3.0 5.0\n\nDepth of field\n\n- If both AF DISTANCE INDICATOR and MF DISTANCE INDICATOR\n- are selected in the f SCREEN SET-UP > DISP. CUSTOM SETTING\n- list, the manual focus indicator can also be viewed using the depth-\n- of-field indicator in the standard display. Use the DISP/BACK button to\n- display standard indicators.\n- ● Use the AF AF/MF SETTING > DEPTH-OF-FIELD SCALE option\n- MF\n- to choose how depth of field is displayed. Choose FILM FORMAT\n- BASIS to help you make practical assessments of depth of field for\n- pictures that will be viewed as prints and the like, PIXEL BASIS to\n- help you assess depth of field for pictures that will be viewed at high\n- resolutions on computers or other electronic displays.\n\n\n5\n\n75\n\nTaking\nPhotographs",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:14px'>Manual Focus</header>",
+                "markdown": "Manual Focus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.7766,
+                    "y": 0.0287
+                },
+                {
+                    "x": 0.9182,
+                    "y": 0.0287
+                },
+                {
+                    "x": 0.9182,
+                    "y": 0.05
+                },
+                {
+                    "x": 0.7766,
+                    "y": 0.05
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='1' style='font-size:22px'>Checking Focus</h1>",
+                "markdown": "# Checking Focus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1076,
+                    "y": 0.0727
+                },
+                {
+                    "x": 0.3245,
+                    "y": 0.0727
+                },
+                {
+                    "x": 0.3245,
+                    "y": 0.0959
+                },
+                {
+                    "x": 0.1076,
+                    "y": 0.0959
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='2' data-category='paragraph' style='font-size:20px'>A variety of options are available for checking focus in manual<br>focus mode.</p>",
+                "markdown": "A variety of options are available for checking focus in manual\nfocus mode.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1054,
+                    "y": 0.1049
+                },
+                {
+                    "x": 0.917,
+                    "y": 0.1049
+                },
+                {
+                    "x": 0.917,
+                    "y": 0.1532
+                },
+                {
+                    "x": 0.1054,
+                    "y": 0.1532
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='3' style='font-size:16px'>The Manual Focus Indicator</h1>",
+                "markdown": "# The Manual Focus Indicator",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1374,
+                    "y": 0.1736
+                },
+                {
+                    "x": 0.4878,
+                    "y": 0.1736
+                },
+                {
+                    "x": 0.4878,
+                    "y": 0.1988
+                },
+                {
+                    "x": 0.1374,
+                    "y": 0.1988
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='4' data-category='paragraph' style='font-size:18px'>The manual focus indicator indicates<br>how closely the focus distance matches<br>the distance to the subject in the focus<br>brackets. The white line indicates the<br>distance to the subject in the focus area<br>(in meters or feet according to the option<br>selected for SCREEN SET-UP > FOCUS<br>SCALE UNITS in the setup menu), the<br>blue bar the depth of field, or in other<br>words the distance in front of and behind<br>the subject that appears to be in focus.</p>",
+                "markdown": "The manual focus indicator indicates\nhow closely the focus distance matches\nthe distance to the subject in the focus\nbrackets. The white line indicates the\ndistance to the subject in the focus area\n(in meters or feet according to the option\nselected for SCREEN SET-UP > FOCUS\nSCALE UNITS in the setup menu), the\nblue bar the depth of field, or in other\nwords the distance in front of and behind\nthe subject that appears to be in focus.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1062,
+                    "y": 0.2051
+                },
+                {
+                    "x": 0.6304,
+                    "y": 0.2051
+                },
+                {
+                    "x": 0.6304,
+                    "y": 0.4897
+                },
+                {
+                    "x": 0.1062,
+                    "y": 0.4897
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "figure",
+            "content": {
+                "html": "<br><figure id='5'><img style='font-size:14px' alt=\"pa⌀loperater\n0.1 0.5 1.0 1.5 2.0 3.0 5.0 10 8m\nMF\" data-coord=\"top-left:(1759,809); bottom-right:(2514,1316)\" /></figure>",
+                "markdown": "![image](/image/placeholder)\npa⌀loperater\n0.1 0.5 1.0 1.5 2.0 3.0 5.0 10 8m\nMF",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6367,
+                    "y": 0.2076
+                },
+                {
+                    "x": 0.9098,
+                    "y": 0.2076
+                },
+                {
+                    "x": 0.9098,
+                    "y": 0.3378
+                },
+                {
+                    "x": 0.6367,
+                    "y": 0.3378
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "figure",
+            "content": {
+                "html": "<figure id='6'><img style='font-size:14px' alt=\"Focus distance\n(white line)\n1.0 1.5 2.0 3.0 5.0\" data-coord=\"top-left:(1751,1391); bottom-right:(2536,1870)\" /></figure>",
+                "markdown": "![image](/image/placeholder)\nFocus distance\n(white line)\n1.0 1.5 2.0 3.0 5.0",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6338,
+                    "y": 0.3571
+                },
+                {
+                    "x": 0.9177,
+                    "y": 0.3571
+                },
+                {
+                    "x": 0.9177,
+                    "y": 0.4798
+                },
+                {
+                    "x": 0.6338,
+                    "y": 0.4798
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='7' data-category='paragraph' style='font-size:18px'>Depth of field</p>",
+                "markdown": "Depth of field",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.7008,
+                    "y": 0.4801
+                },
+                {
+                    "x": 0.8555,
+                    "y": 0.4801
+                },
+                {
+                    "x": 0.8555,
+                    "y": 0.5012
+                },
+                {
+                    "x": 0.7008,
+                    "y": 0.5012
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "list",
+            "content": {
+                "html": "<br><p id='8' data-category='list' style='font-size:14px'>If both AF DISTANCE INDICATOR and MF DISTANCE INDICATOR<br>are selected in the f SCREEN SET-UP > DISP. CUSTOM SETTING<br>list, the manual focus indicator can also be viewed using the depth-<br>of-field indicator in the standard display. Use the DISP/BACK button to<br>display standard indicators.<br>● Use the AF AF/MF SETTING > DEPTH-OF-FIELD SCALE option<br>MF<br>to choose how depth of field is displayed. Choose FILM FORMAT<br>BASIS to help you make practical assessments of depth of field for<br>pictures that will be viewed as prints and the like, PIXEL BASIS to<br>help you assess depth of field for pictures that will be viewed at high<br>resolutions on computers or other electronic displays.</p>",
+                "markdown": "- If both AF DISTANCE INDICATOR and MF DISTANCE INDICATOR\n- are selected in the f SCREEN SET-UP > DISP. CUSTOM SETTING\n- list, the manual focus indicator can also be viewed using the depth-\n- of-field indicator in the standard display. Use the DISP/BACK button to\n- display standard indicators.\n- ● Use the AF AF/MF SETTING > DEPTH-OF-FIELD SCALE option\n- MF\n- to choose how depth of field is displayed. Choose FILM FORMAT\n- BASIS to help you make practical assessments of depth of field for\n- pictures that will be viewed as prints and the like, PIXEL BASIS to\n- help you assess depth of field for pictures that will be viewed at high\n- resolutions on computers or other electronic displays.\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1175,
+                    "y": 0.5078
+                },
+                {
+                    "x": 0.9182,
+                    "y": 0.5078
+                },
+                {
+                    "x": 0.9182,
+                    "y": 0.762
+                },
+                {
+                    "x": 0.1175,
+                    "y": 0.762
+                }
+            ],
+            "id": 8,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<br><footer id='9' style='font-size:16px'>5</footer>",
+                "markdown": "5",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9577,
+                    "y": 0.4778
+                },
+                {
+                    "x": 0.975,
+                    "y": 0.4778
+                },
+                {
+                    "x": 0.975,
+                    "y": 0.4976
+                },
+                {
+                    "x": 0.9577,
+                    "y": 0.4976
+                }
+            ],
+            "id": 9,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='10' style='font-size:20px'>75</footer>",
+                "markdown": "75",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.878,
+                    "y": 0.9566
+                },
+                {
+                    "x": 0.917,
+                    "y": 0.9566
+                },
+                {
+                    "x": 0.917,
+                    "y": 0.9794
+                },
+                {
+                    "x": 0.878,
+                    "y": 0.9794
+                }
+            ],
+            "id": 10,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<br><footer id='11' style='font-size:22px'>Taking<br>Photographs</footer>",
+                "markdown": "Taking\nPhotographs",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9564,
+                    "y": 0.5169
+                },
+                {
+                    "x": 0.9817,
+                    "y": 0.5169
+                },
+                {
+                    "x": 0.9817,
+                    "y": 0.6648
+                },
+                {
+                    "x": 0.9564,
+                    "y": 0.6648
+                }
+            ],
+            "id": 11,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

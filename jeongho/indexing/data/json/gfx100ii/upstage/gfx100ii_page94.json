@@ -1,0 +1,238 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:16px'>5</header>\n<br><p id='1' data-category='paragraph' style='font-size:14px'>The Focus Indicator</p>\n<br><h1 id='2' style='font-size:16px'>Focus status is shown by the focus indicator.</h1>\n<p id='3' data-category='paragraph' style='font-size:20px'>図 popperopl</p>\n<p id='4' data-category='paragraph' style='font-size:14px'>Focus indicator</p>\n<br><table id='5' style='font-size:18px'><tr><td>Focus indicator</td><td>Focus status</td></tr><tr><td></td><td>) Camera focusing.</td></tr><tr><td>(lights green)</td><td>Subject in focus; focus locked (focus mode S).</td></tr><tr><td>(lights green)</td><td>Subject in focus (focus mode C). Focus is automatically adjust- ed for changes in distance to subject.</td></tr><tr><td>(blinks white)</td><td>Camera unable to focus.</td></tr><tr><td>MF</td><td>Manual focus (focus mode M).</td></tr></table>\n<br><header id='6' style='font-size:22px'>Taking<br>Photographs</header>\n<footer id='7' style='font-size:20px'>94</footer>",
+        "markdown": "5\n\nThe Focus Indicator\n\n# Focus status is shown by the focus indicator.\n\n図 popperopl\n\nFocus indicator\n\n| Focus indicator | Focus status |\n| --- | --- |\n|  | ) Camera focusing. |\n| (lights green) | Subject in focus; focus locked (focus mode S). |\n| (lights green) | Subject in focus (focus mode C). Focus is automatically adjust- ed for changes in distance to subject. |\n| (blinks white) | Camera unable to focus. |\n| MF | Manual focus (focus mode M). |\n\n\nTaking\nPhotographs\n\n94",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:16px'>5</header>",
+                "markdown": "5",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0246,
+                    "y": 0.4771
+                },
+                {
+                    "x": 0.0441,
+                    "y": 0.4771
+                },
+                {
+                    "x": 0.0441,
+                    "y": 0.499
+                },
+                {
+                    "x": 0.0246,
+                    "y": 0.499
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='1' data-category='paragraph' style='font-size:14px'>The Focus Indicator</p>",
+                "markdown": "The Focus Indicator",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.088,
+                    "y": 0.0727
+                },
+                {
+                    "x": 0.2797,
+                    "y": 0.0727
+                },
+                {
+                    "x": 0.2797,
+                    "y": 0.0921
+                },
+                {
+                    "x": 0.088,
+                    "y": 0.0921
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='2' style='font-size:16px'>Focus status is shown by the focus indicator.</h1>",
+                "markdown": "# Focus status is shown by the focus indicator.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0821,
+                    "y": 0.094
+                },
+                {
+                    "x": 0.5681,
+                    "y": 0.094
+                },
+                {
+                    "x": 0.5681,
+                    "y": 0.1172
+                },
+                {
+                    "x": 0.0821,
+                    "y": 0.1172
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='3' data-category='paragraph' style='font-size:20px'>図 popperopl</p>",
+                "markdown": "図 popperopl",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6178,
+                    "y": 0.1433
+                },
+                {
+                    "x": 0.6251,
+                    "y": 0.1433
+                },
+                {
+                    "x": 0.6251,
+                    "y": 0.186
+                },
+                {
+                    "x": 0.6178,
+                    "y": 0.186
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='4' data-category='paragraph' style='font-size:14px'>Focus indicator</p>",
+                "markdown": "Focus indicator",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6133,
+                    "y": 0.2492
+                },
+                {
+                    "x": 0.7589,
+                    "y": 0.2492
+                },
+                {
+                    "x": 0.7589,
+                    "y": 0.2666
+                },
+                {
+                    "x": 0.6133,
+                    "y": 0.2666
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='5' style='font-size:18px'><tr><td>Focus indicator</td><td>Focus status</td></tr><tr><td></td><td>) Camera focusing.</td></tr><tr><td>(lights green)</td><td>Subject in focus; focus locked (focus mode S).</td></tr><tr><td>(lights green)</td><td>Subject in focus (focus mode C). Focus is automatically adjust- ed for changes in distance to subject.</td></tr><tr><td>(blinks white)</td><td>Camera unable to focus.</td></tr><tr><td>MF</td><td>Manual focus (focus mode M).</td></tr></table>",
+                "markdown": "| Focus indicator | Focus status |\n| --- | --- |\n|  | ) Camera focusing. |\n| (lights green) | Subject in focus; focus locked (focus mode S). |\n| (lights green) | Subject in focus (focus mode C). Focus is automatically adjust- ed for changes in distance to subject. |\n| (blinks white) | Camera unable to focus. |\n| MF | Manual focus (focus mode M). |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0813,
+                    "y": 0.2774
+                },
+                {
+                    "x": 0.8965,
+                    "y": 0.2774
+                },
+                {
+                    "x": 0.8965,
+                    "y": 0.5016
+                },
+                {
+                    "x": 0.0813,
+                    "y": 0.5016
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "header",
+            "content": {
+                "html": "<br><header id='6' style='font-size:22px'>Taking<br>Photographs</header>",
+                "markdown": "Taking\nPhotographs",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0169,
+                    "y": 0.5164
+                },
+                {
+                    "x": 0.0422,
+                    "y": 0.5164
+                },
+                {
+                    "x": 0.0422,
+                    "y": 0.6662
+                },
+                {
+                    "x": 0.0169,
+                    "y": 0.6662
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='7' style='font-size:20px'>94</footer>",
+                "markdown": "94",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0827,
+                    "y": 0.9566
+                },
+                {
+                    "x": 0.1223,
+                    "y": 0.9566
+                },
+                {
+                    "x": 0.1223,
+                    "y": 0.9788
+                },
+                {
+                    "x": 0.0827,
+                    "y": 0.9788
+                }
+            ],
+            "id": 7,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

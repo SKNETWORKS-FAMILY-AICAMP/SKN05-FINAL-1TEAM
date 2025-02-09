@@ -1,0 +1,406 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<h1 id='0' style='font-size:20px'>PROXY SETTING (ONLY WHEN REC ProRes)</h1>\n<br><h1 id='1' style='font-size:20px'>Choose whether the camera simultaneously records a duplicate<br>\"proxy\" video with movies shot in ProRes format.</h1>\n<br><table id='2' style='font-size:16px'><tr><td>Option</td><td>Description</td></tr><tr><td>ON (H.264)</td><td>Record proxy videos in H.264 format.</td></tr><tr><td>ON (ProRes Proxy)</td><td>Record proxy videos in ProRes Proxy format.</td></tr><tr><td>OFF</td><td>Proxy recording disabled.</td></tr></table>\n<p id='3' data-category='list' style='font-size:14px'>● Proxy recording is not available at a frame size of 8K if the frame rate<br>is either 29.97P or 25P.<br>● Deleting the original footage from the camera also deletes the proxy<br>video. The original and proxy videos cannot be deleted separately.<br>● When deleting movies from camera memory cards using a computer,<br>be sure to delete both the originals and the proxies.</p>\n<p id='4' data-category='paragraph' style='font-size:18px'>HDMI OUTPUT SETTING</p>\n<br><p id='5' data-category='paragraph' style='font-size:20px'>Adjust settings for use when the shooting display is output to an<br>HDMI device.</p>\n<p id='6' data-category='paragraph' style='font-size:16px'>HDMI OUTPUT INFO DISPLAY</p>\n\n<br><table id='8' style='font-size:16px'><tr><td colspan=\"2\">Options</td></tr><tr><td>ON</td><td>OFF</td></tr><br><caption id='7' style='font-size:18px'>If ON is selected, HDMI devices to which the camera is connected<br>will mirror the information in the camera display.</caption></table>\n<p id='9' data-category='paragraph' style='font-size:16px'>HDMI REC CONTROL</p>\n<br><header id='10' style='font-size:22px'>The<br>Shooting<br>Menus</header>\n\n<br><table id='12' style='font-size:14px'><tr><td colspan=\"2\">Options</td></tr><tr><td>ON</td><td>OFF</td></tr><br><caption id='11' style='font-size:20px'>Choose whether the camera sends movie start and stop signals<br>to the HDMI device when the shutter button is pressed to start<br>and stop movie recording.</caption></table>\n<footer id='13' style='font-size:22px'>184</footer>",
+        "markdown": "# PROXY SETTING (ONLY WHEN REC ProRes)\n\n# Choose whether the camera simultaneously records a duplicate\n\"proxy\" video with movies shot in ProRes format.\n\n| Option | Description |\n| --- | --- |\n| ON (H.264) | Record proxy videos in H.264 format. |\n| ON (ProRes Proxy) | Record proxy videos in ProRes Proxy format. |\n| OFF | Proxy recording disabled. |\n\n\n- ● Proxy recording is not available at a frame size of 8K if the frame rate\n- is either 29.97P or 25P.\n- ● Deleting the original footage from the camera also deletes the proxy\n- video. The original and proxy videos cannot be deleted separately.\n- ● When deleting movies from camera memory cards using a computer,\n- be sure to delete both the originals and the proxies.\n\n\nHDMI OUTPUT SETTING\n\nAdjust settings for use when the shooting display is output to an\nHDMI device.\n\nHDMI OUTPUT INFO DISPLAY\n\nIf ON is selected, HDMI devices to which the camera is connected\nwill mirror the information in the camera display.\n\n| Options | Options |\n| --- | --- |\n| ON | OFF |\n\n\nHDMI REC CONTROL\n\nThe\nShooting\nMenus\n\nChoose whether the camera sends movie start and stop signals\nto the HDMI device when the shutter button is pressed to start\nand stop movie recording.\n\n| Options | Options |\n| --- | --- |\n| ON | OFF |\n\n\n184",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='0' style='font-size:20px'>PROXY SETTING (ONLY WHEN REC ProRes)</h1>",
+                "markdown": "# PROXY SETTING (ONLY WHEN REC ProRes)",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0948,
+                    "y": 0.0736
+                },
+                {
+                    "x": 0.6063,
+                    "y": 0.0736
+                },
+                {
+                    "x": 0.6063,
+                    "y": 0.0971
+                },
+                {
+                    "x": 0.0948,
+                    "y": 0.0971
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='1' style='font-size:20px'>Choose whether the camera simultaneously records a duplicate<br>\"proxy\" video with movies shot in ProRes format.</h1>",
+                "markdown": "# Choose whether the camera simultaneously records a duplicate\n\"proxy\" video with movies shot in ProRes format.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0808,
+                    "y": 0.1033
+                },
+                {
+                    "x": 0.8925,
+                    "y": 0.1033
+                },
+                {
+                    "x": 0.8925,
+                    "y": 0.1543
+                },
+                {
+                    "x": 0.0808,
+                    "y": 0.1543
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='2' style='font-size:16px'><tr><td>Option</td><td>Description</td></tr><tr><td>ON (H.264)</td><td>Record proxy videos in H.264 format.</td></tr><tr><td>ON (ProRes Proxy)</td><td>Record proxy videos in ProRes Proxy format.</td></tr><tr><td>OFF</td><td>Proxy recording disabled.</td></tr></table>",
+                "markdown": "| Option | Description |\n| --- | --- |\n| ON (H.264) | Record proxy videos in H.264 format. |\n| ON (ProRes Proxy) | Record proxy videos in ProRes Proxy format. |\n| OFF | Proxy recording disabled. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0833,
+                    "y": 0.1667
+                },
+                {
+                    "x": 0.8888,
+                    "y": 0.1667
+                },
+                {
+                    "x": 0.8888,
+                    "y": 0.2637
+                },
+                {
+                    "x": 0.0833,
+                    "y": 0.2637
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "list",
+            "content": {
+                "html": "<p id='3' data-category='list' style='font-size:14px'>● Proxy recording is not available at a frame size of 8K if the frame rate<br>is either 29.97P or 25P.<br>● Deleting the original footage from the camera also deletes the proxy<br>video. The original and proxy videos cannot be deleted separately.<br>● When deleting movies from camera memory cards using a computer,<br>be sure to delete both the originals and the proxies.</p>",
+                "markdown": "- ● Proxy recording is not available at a frame size of 8K if the frame rate\n- is either 29.97P or 25P.\n- ● Deleting the original footage from the camera also deletes the proxy\n- video. The original and proxy videos cannot be deleted separately.\n- ● When deleting movies from camera memory cards using a computer,\n- be sure to delete both the originals and the proxies.\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0982,
+                    "y": 0.2751
+                },
+                {
+                    "x": 0.8892,
+                    "y": 0.2751
+                },
+                {
+                    "x": 0.8892,
+                    "y": 0.4125
+                },
+                {
+                    "x": 0.0982,
+                    "y": 0.4125
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='4' data-category='paragraph' style='font-size:18px'>HDMI OUTPUT SETTING</p>",
+                "markdown": "HDMI OUTPUT SETTING",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.082,
+                    "y": 0.4323
+                },
+                {
+                    "x": 0.4106,
+                    "y": 0.4323
+                },
+                {
+                    "x": 0.4106,
+                    "y": 0.4568
+                },
+                {
+                    "x": 0.082,
+                    "y": 0.4568
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='5' data-category='paragraph' style='font-size:20px'>Adjust settings for use when the shooting display is output to an<br>HDMI device.</p>",
+                "markdown": "Adjust settings for use when the shooting display is output to an\nHDMI device.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0803,
+                    "y": 0.4651
+                },
+                {
+                    "x": 0.8928,
+                    "y": 0.4651
+                },
+                {
+                    "x": 0.8928,
+                    "y": 0.5134
+                },
+                {
+                    "x": 0.0803,
+                    "y": 0.5134
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='6' data-category='paragraph' style='font-size:16px'>HDMI OUTPUT INFO DISPLAY</p>",
+                "markdown": "HDMI OUTPUT INFO DISPLAY",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0858,
+                    "y": 0.5353
+                },
+                {
+                    "x": 0.4552,
+                    "y": 0.5353
+                },
+                {
+                    "x": 0.4552,
+                    "y": 0.5602
+                },
+                {
+                    "x": 0.0858,
+                    "y": 0.5602
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='7' data-category='paragraph' style='font-size:18px'>If ON is selected, HDMI devices to which the camera is connected<br>will mirror the information in the camera display.</p>",
+                "markdown": "If ON is selected, HDMI devices to which the camera is connected\nwill mirror the information in the camera display.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0813,
+                    "y": 0.5676
+                },
+                {
+                    "x": 0.8922,
+                    "y": 0.5676
+                },
+                {
+                    "x": 0.8922,
+                    "y": 0.6182
+                },
+                {
+                    "x": 0.0813,
+                    "y": 0.6182
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='8' style='font-size:16px'><tr><td colspan=\"2\">Options</td></tr><tr><td>ON</td><td>OFF</td></tr></table>",
+                "markdown": "| Options | Options |\n| --- | --- |\n| ON | OFF |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0826,
+                    "y": 0.6301
+                },
+                {
+                    "x": 0.8899,
+                    "y": 0.6301
+                },
+                {
+                    "x": 0.8899,
+                    "y": 0.6817
+                },
+                {
+                    "x": 0.0826,
+                    "y": 0.6817
+                }
+            ],
+            "id": 8,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='9' data-category='paragraph' style='font-size:16px'>HDMI REC CONTROL</p>",
+                "markdown": "HDMI REC CONTROL",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0943,
+                    "y": 0.699
+                },
+                {
+                    "x": 0.3462,
+                    "y": 0.699
+                },
+                {
+                    "x": 0.3462,
+                    "y": 0.7221
+                },
+                {
+                    "x": 0.0943,
+                    "y": 0.7221
+                }
+            ],
+            "id": 9,
+            "page": 1
+        },
+        {
+            "category": "header",
+            "content": {
+                "html": "<br><header id='10' style='font-size:22px'>The<br>Shooting<br>Menus</header>",
+                "markdown": "The\nShooting\nMenus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0154,
+                    "y": 0.576
+                },
+                {
+                    "x": 0.0422,
+                    "y": 0.576
+                },
+                {
+                    "x": 0.0422,
+                    "y": 0.7303
+                },
+                {
+                    "x": 0.0154,
+                    "y": 0.7303
+                }
+            ],
+            "id": 10,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='11' data-category='paragraph' style='font-size:20px'>Choose whether the camera sends movie start and stop signals<br>to the HDMI device when the shutter button is pressed to start<br>and stop movie recording.</p>",
+                "markdown": "Choose whether the camera sends movie start and stop signals\nto the HDMI device when the shutter button is pressed to start\nand stop movie recording.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0816,
+                    "y": 0.73
+                },
+                {
+                    "x": 0.8935,
+                    "y": 0.73
+                },
+                {
+                    "x": 0.8935,
+                    "y": 0.8051
+                },
+                {
+                    "x": 0.0816,
+                    "y": 0.8051
+                }
+            ],
+            "id": 11,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='12' style='font-size:14px'><tr><td colspan=\"2\">Options</td></tr><tr><td>ON</td><td>OFF</td></tr></table>",
+                "markdown": "| Options | Options |\n| --- | --- |\n| ON | OFF |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1325,
+                    "y": 0.8167
+                },
+                {
+                    "x": 0.8871,
+                    "y": 0.8167
+                },
+                {
+                    "x": 0.8871,
+                    "y": 0.8699
+                },
+                {
+                    "x": 0.1325,
+                    "y": 0.8699
+                }
+            ],
+            "id": 12,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='13' style='font-size:22px'>184</footer>",
+                "markdown": "184",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0849,
+                    "y": 0.9569
+                },
+                {
+                    "x": 0.1402,
+                    "y": 0.9569
+                },
+                {
+                    "x": 0.1402,
+                    "y": 0.9788
+                },
+                {
+                    "x": 0.0849,
+                    "y": 0.9788
+                }
+            ],
+            "id": 13,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

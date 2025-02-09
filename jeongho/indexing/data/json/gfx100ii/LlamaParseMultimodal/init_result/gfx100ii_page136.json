@@ -1,0 +1,81 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "# Metering\n\nChoose how the camera meters exposure.\n\n**SHOOTING SETTING > PHOTOMETRY** offers a choice of the following metering options:\n\n> 💡 **Note:**  \n> The selected option will only take effect if **OFF** is selected for **FACE/EYE DETECTION SETTING** and **SUBJECT DETECTION SETTING** in the **AF/MF SETTING** menu.\n\n| Mode            | Description                                                                                                                                         |\n|-----------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|\n| !Multi MULTI            | The camera instantly determines exposure based on an analysis of composition, color, and brightness distribution. Recommended in most situations. |\n| !Center-Weighted CENTER-WEIGHTED | The camera meters the entire frame but assigns the greatest weight to the area at the center.                                                        |\n| !Spot SPOT             | The camera meters lighting conditions in an area equivalent to 2% of the frame. Recommended with backlit subjects and in other cases in which the background is much brighter or darker than the main subject. |\n| !Average AVERAGE          | Exposure is set to the average for the entire frame. Provides consistent exposure across multiple shots with the same lighting, and is particularly effective for landscapes and portraits of subjects dressed in black or white. |\n\n> 📘 **Tip:**  \n> To meter the subject in the selected focus area, choose **ON** for **AF/MF SETTING > INTERLOCK SPOT AE & FOCUS AREA** (page 159).",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "Metering",
+                    "md": "# Metering"
+                },
+                {
+                    "type": "text",
+                    "value": "Choose how the camera meters exposure.\n\n**SHOOTING SETTING > PHOTOMETRY** offers a choice of the following metering options:\n\n> 💡 **Note:**  \n> The selected option will only take effect if **OFF** is selected for **FACE/EYE DETECTION SETTING** and **SUBJECT DETECTION SETTING** in the **AF/MF SETTING** menu.",
+                    "md": "Choose how the camera meters exposure.\n\n**SHOOTING SETTING > PHOTOMETRY** offers a choice of the following metering options:\n\n> 💡 **Note:**  \n> The selected option will only take effect if **OFF** is selected for **FACE/EYE DETECTION SETTING** and **SUBJECT DETECTION SETTING** in the **AF/MF SETTING** menu."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Mode",
+                            "Description"
+                        ],
+                        [
+                            "!Multi MULTI",
+                            "The camera instantly determines exposure based on an analysis of composition, color, and brightness distribution. Recommended in most situations."
+                        ],
+                        [
+                            "!Center-Weighted CENTER-WEIGHTED",
+                            "The camera meters the entire frame but assigns the greatest weight to the area at the center."
+                        ],
+                        [
+                            "!Spot SPOT",
+                            "The camera meters lighting conditions in an area equivalent to 2% of the frame. Recommended with backlit subjects and in other cases in which the background is much brighter or darker than the main subject."
+                        ],
+                        [
+                            "!Average AVERAGE",
+                            "Exposure is set to the average for the entire frame. Provides consistent exposure across multiple shots with the same lighting, and is particularly effective for landscapes and portraits of subjects dressed in black or white."
+                        ]
+                    ],
+                    "md": "| Mode            | Description                                                                                                                                         |\n|-----------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|\n| !Multi MULTI            | The camera instantly determines exposure based on an analysis of composition, color, and brightness distribution. Recommended in most situations. |\n| !Center-Weighted CENTER-WEIGHTED | The camera meters the entire frame but assigns the greatest weight to the area at the center.                                                        |\n| !Spot SPOT             | The camera meters lighting conditions in an area equivalent to 2% of the frame. Recommended with backlit subjects and in other cases in which the background is much brighter or darker than the main subject. |\n| !Average AVERAGE          | Exposure is set to the average for the entire frame. Provides consistent exposure across multiple shots with the same lighting, and is particularly effective for landscapes and portraits of subjects dressed in black or white. |",
+                    "isPerfectTable": true,
+                    "csv": "\"Mode\",\"Description\"\n\"!Multi MULTI\",\"The camera instantly determines exposure based on an analysis of composition, color, and brightness distribution. Recommended in most situations.\"\n\"!Center-Weighted CENTER-WEIGHTED\",\"The camera meters the entire frame but assigns the greatest weight to the area at the center.\"\n\"!Spot SPOT\",\"The camera meters lighting conditions in an area equivalent to 2% of the frame. Recommended with backlit subjects and in other cases in which the background is much brighter or darker than the main subject.\"\n\"!Average AVERAGE\",\"Exposure is set to the average for the entire frame. Provides consistent exposure across multiple shots with the same lighting, and is particularly effective for landscapes and portraits of subjects dressed in black or white.\""
+                },
+                {
+                    "type": "text",
+                    "value": "> 📘 **Tip:**  \n> To meter the subject in the selected focus area, choose **ON** for **AF/MF SETTING > INTERLOCK SPOT AE & FOCUS AREA** (page 159).",
+                    "md": "> 📘 **Tip:**  \n> To meter the subject in the selected focus area, choose **ON** for **AF/MF SETTING > INTERLOCK SPOT AE & FOCUS AREA** (page 159)."
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 32.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "52b7ce97-8935-4201-bca9-39f69c53c0e8",
+    "file_path": "../data/raw_data/gfx100ii/gfx100ii_split/gfx100ii_page136.pdf"
+}

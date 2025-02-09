@@ -1,0 +1,82 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "# LCD Monitor\n\nThe operation performed can be selected by tapping the touch screen mode indicator in the display. Touch controls can be used for the following operations:\n\n| Mode           | Description                                                                                                                                                                                                 |\n|----------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| **TOUCH SHOOTING** | Tap your subject in the display to focus and release the shutter. In burst mode, pictures will be taken while you keep your finger on the display.                                                                 |\n| **AF**             | - In focus mode S (AF-S), the camera focuses when you tap your subject in the display. Focus locks at the current distance until you tap the **AF OFF** icon. <br> - In focus mode C (AF-C), the camera initiates focus when you tap your subject display. The camera will continue to adjust focus for changes in the distance to the subject until you tap the **AF OFF** icon. <br> - In manual focus mode (MF), you can tap the display to focus on the selected subject using autofocus. |\n| **AREA**           | Tap to select a point for focus or zoom. The focus frame will move to the selected point.                                                                                                                |\n| **OFF**            | Touch screen mode off.                                                                                                                                                                                   |\n\n> - The behavior of the touch screen varies with the AF mode.\n> - Different touch controls are used during focus zoom (see page 161).",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "LCD Monitor",
+                    "md": "# LCD Monitor"
+                },
+                {
+                    "type": "text",
+                    "value": "The operation performed can be selected by tapping the touch screen mode indicator in the display. Touch controls can be used for the following operations:",
+                    "md": "The operation performed can be selected by tapping the touch screen mode indicator in the display. Touch controls can be used for the following operations:"
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Mode",
+                            "Description"
+                        ],
+                        [
+                            "**TOUCH SHOOTING**",
+                            "Tap your subject in the display to focus and release the shutter. In burst mode, pictures will be taken while you keep your finger on the display."
+                        ],
+                        [
+                            "**AF**",
+                            "- In focus mode S (AF-S), the camera focuses when you tap your subject in the display. Focus locks at the current distance until you tap the **AF OFF** icon. <br> - In focus mode C (AF-C), the camera initiates focus when you tap your subject display. The camera will continue to adjust focus for changes in the distance to the subject until you tap the **AF OFF** icon. <br> - In manual focus mode (MF), you can tap the display to focus on the selected subject using autofocus."
+                        ],
+                        [
+                            "**AREA**",
+                            "Tap to select a point for focus or zoom. The focus frame will move to the selected point."
+                        ],
+                        [
+                            "**OFF**",
+                            "Touch screen mode off."
+                        ]
+                    ],
+                    "md": "| Mode           | Description                                                                                                                                                                                                 |\n|----------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| **TOUCH SHOOTING** | Tap your subject in the display to focus and release the shutter. In burst mode, pictures will be taken while you keep your finger on the display.                                                                 |\n| **AF**             | - In focus mode S (AF-S), the camera focuses when you tap your subject in the display. Focus locks at the current distance until you tap the **AF OFF** icon. <br> - In focus mode C (AF-C), the camera initiates focus when you tap your subject display. The camera will continue to adjust focus for changes in the distance to the subject until you tap the **AF OFF** icon. <br> - In manual focus mode (MF), you can tap the display to focus on the selected subject using autofocus. |\n| **AREA**           | Tap to select a point for focus or zoom. The focus frame will move to the selected point.                                                                                                                |\n| **OFF**            | Touch screen mode off.                                                                                                                                                                                   |",
+                    "isPerfectTable": true,
+                    "csv": "\"Mode\",\"Description\"\n\"**TOUCH SHOOTING**\",\"Tap your subject in the display to focus and release the shutter. In burst mode, pictures will be taken while you keep your finger on the display.\"\n\"**AF**\",\"- In focus mode S (AF-S), the camera focuses when you tap your subject in the display. Focus locks at the current distance until you tap the **AF OFF** icon. <br> - In focus mode C (AF-C), the camera initiates focus when you tap your subject display. The camera will continue to adjust focus for changes in the distance to the subject until you tap the **AF OFF** icon. <br> - In manual focus mode (MF), you can tap the display to focus on the selected subject using autofocus.\"\n\"**AREA**\",\"Tap to select a point for focus or zoom. The focus frame will move to the selected point.\"\n\"**OFF**\",\"Touch screen mode off.\""
+                },
+                {
+                    "type": "text",
+                    "value": "> - The behavior of the touch screen varies with the AF mode.\n> - Different touch controls are used during focus zoom (see page 161).",
+                    "md": "> - The behavior of the touch screen varies with the AF mode.\n> - Different touch controls are used during focus zoom (see page 161)."
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "parsingMode": "multimodal-openai-gpt4o",
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 392.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "e1712262-09f9-41bf-8d80-46cb23db5580",
+    "file_path": "../data/raw_data/x-t5/x-t5_split/x-t5_page53.pdf"
+}

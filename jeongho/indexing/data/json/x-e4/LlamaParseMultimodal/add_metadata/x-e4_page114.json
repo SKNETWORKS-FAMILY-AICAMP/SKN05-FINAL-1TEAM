@@ -1,0 +1,8 @@
+{
+    "parsing_result": "\n# D RANGE PRIORITY\n\nReduce loss of detail in highlights and shadows for natural-looking results when photographing high-contrast scenes.\n\n| Option  | Description                                                                 |\n|---------|-----------------------------------------------------------------------------|\n| AUTO    | Contrast is adjusted automatically in response to lighting conditions.      |\n| STRONG  | Adjust dynamic range by a large amount for very high-contrast scenes.       |\n| WEAK    | Adjust dynamic range by a smaller amount for moderately high-contrast scenes.|\n| OFF     | Contrast reduction off.                                                     |\n\n> - **WEAK** is available at sensitivities from ISO 320 to ISO 12800, **STRONG** at sensitivities from ISO 640 to 12800.\n> - When an option other than **OFF** is selected, **TONE CURVE**, and **DYNAMIC RANGE** will be adjusted automatically.\n\n# TONE CURVE\n\nWith reference to a tone curve, adjust the appearance of highlights or shadows, making them harsher or softer. Choose higher values to make shadows and highlights harsher, lower values to make them softer.\n\n!Tone Curve Display\n\n| Option     | Description |\n|------------|-------------|\n| HIGHLIGHTS | -2 to +4    |\n| SHADOWS    | -2 to +4    |\n",
+    "embedding_result": [],
+    "metadata": {
+        "page": 114,
+        "model": "x-e4"
+    }
+}

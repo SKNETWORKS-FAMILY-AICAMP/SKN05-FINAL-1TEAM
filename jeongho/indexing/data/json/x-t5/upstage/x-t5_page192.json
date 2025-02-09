@@ -1,0 +1,378 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<h1 id='0' style='font-size:16px'>Bit Rate</h1>\n\n<br><table id='2' style='font-size:16px'><tr><td colspan=\"4\">Options</td></tr><tr><td>50Mbps</td><td>100Mbps</td><td>200Mbps</td><td>360Mbps</td></tr><tr><td colspan=\"4\">The options available for bit rate vary with the settings chosen for high- speed movie recording and compression. The actual bit rate may be slower than the selected value depending on the subject.</td></tr><br><caption id='1' style='font-size:14px'>Choose the movie bit rate.</caption></table>\n<h1 id='3' style='font-size:16px'>HDMI OUTPUT SETTING</h1>\n<br><p id='4' data-category='paragraph' style='font-size:20px'>Adjust settings for use when the shooting display is output to an<br>HDMI device.</p>\n<p id='5' data-category='paragraph' style='font-size:14px'>HDMI OUTPUT INFO DISPLAY</p>\n\n<br><table id='7' style='font-size:14px'><tr><td colspan=\"2\">Options</td></tr><tr><td>ON</td><td>OFF</td></tr><br><caption id='6' style='font-size:16px'>If ON is selected, HDMI devices to which the camera is connected<br>will mirror the information in the camera display.</caption></table>\n<p id='8' data-category='paragraph' style='font-size:16px'>HDMI REC CONTROL</p>\n\n<br><table id='10' style='font-size:14px'><tr><td colspan=\"2\">Options</td></tr><tr><td>ON</td><td>OFF</td></tr><br><caption id='9' style='font-size:18px'>Choose whether the camera sends movie start and stop signals<br>to the HDMI device when the shutter button is pressed to start<br>and stop movie recording.</caption></table>\n<br><header id='11' style='font-size:22px'>The<br>Shooting<br>Menus</header>\n<footer id='12' style='font-size:20px'>192</footer>",
+        "markdown": "# Bit Rate\n\nChoose the movie bit rate.\n\n| Options | Options | Options | Options |\n| --- | --- | --- | --- |\n| 50Mbps | 100Mbps | 200Mbps | 360Mbps |\n| The options available for bit rate vary with the settings chosen for high- speed movie recording and compression. The actual bit rate may be slower than the selected value depending on the subject. | The options available for bit rate vary with the settings chosen for high- speed movie recording and compression. The actual bit rate may be slower than the selected value depending on the subject. | The options available for bit rate vary with the settings chosen for high- speed movie recording and compression. The actual bit rate may be slower than the selected value depending on the subject. | The options available for bit rate vary with the settings chosen for high- speed movie recording and compression. The actual bit rate may be slower than the selected value depending on the subject. |\n\n\n# HDMI OUTPUT SETTING\n\nAdjust settings for use when the shooting display is output to an\nHDMI device.\n\nHDMI OUTPUT INFO DISPLAY\n\nIf ON is selected, HDMI devices to which the camera is connected\nwill mirror the information in the camera display.\n\n| Options | Options |\n| --- | --- |\n| ON | OFF |\n\n\nHDMI REC CONTROL\n\nChoose whether the camera sends movie start and stop signals\nto the HDMI device when the shutter button is pressed to start\nand stop movie recording.\n\n| Options | Options |\n| --- | --- |\n| ON | OFF |\n\n\nThe\nShooting\nMenus\n\n192",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='0' style='font-size:16px'>Bit Rate</h1>",
+                "markdown": "# Bit Rate",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0825,
+                    "y": 0.0724
+                },
+                {
+                    "x": 0.1737,
+                    "y": 0.0724
+                },
+                {
+                    "x": 0.1737,
+                    "y": 0.094
+                },
+                {
+                    "x": 0.0825,
+                    "y": 0.094
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='1' data-category='paragraph' style='font-size:14px'>Choose the movie bit rate.</p>",
+                "markdown": "Choose the movie bit rate.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0823,
+                    "y": 0.0991
+                },
+                {
+                    "x": 0.4184,
+                    "y": 0.0991
+                },
+                {
+                    "x": 0.4184,
+                    "y": 0.1209
+                },
+                {
+                    "x": 0.0823,
+                    "y": 0.1209
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='2' style='font-size:16px'><tr><td colspan=\"4\">Options</td></tr><tr><td>50Mbps</td><td>100Mbps</td><td>200Mbps</td><td>360Mbps</td></tr><tr><td colspan=\"4\">The options available for bit rate vary with the settings chosen for high- speed movie recording and compression. The actual bit rate may be slower than the selected value depending on the subject.</td></tr></table>",
+                "markdown": "| Options | Options | Options | Options |\n| --- | --- | --- | --- |\n| 50Mbps | 100Mbps | 200Mbps | 360Mbps |\n| The options available for bit rate vary with the settings chosen for high- speed movie recording and compression. The actual bit rate may be slower than the selected value depending on the subject. | The options available for bit rate vary with the settings chosen for high- speed movie recording and compression. The actual bit rate may be slower than the selected value depending on the subject. | The options available for bit rate vary with the settings chosen for high- speed movie recording and compression. The actual bit rate may be slower than the selected value depending on the subject. | The options available for bit rate vary with the settings chosen for high- speed movie recording and compression. The actual bit rate may be slower than the selected value depending on the subject. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0858,
+                    "y": 0.1302
+                },
+                {
+                    "x": 0.8935,
+                    "y": 0.1302
+                },
+                {
+                    "x": 0.8935,
+                    "y": 0.2647
+                },
+                {
+                    "x": 0.0858,
+                    "y": 0.2647
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='3' style='font-size:16px'>HDMI OUTPUT SETTING</h1>",
+                "markdown": "# HDMI OUTPUT SETTING",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0834,
+                    "y": 0.283
+                },
+                {
+                    "x": 0.4081,
+                    "y": 0.283
+                },
+                {
+                    "x": 0.4081,
+                    "y": 0.3041
+                },
+                {
+                    "x": 0.0834,
+                    "y": 0.3041
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='4' data-category='paragraph' style='font-size:20px'>Adjust settings for use when the shooting display is output to an<br>HDMI device.</p>",
+                "markdown": "Adjust settings for use when the shooting display is output to an\nHDMI device.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0822,
+                    "y": 0.3144
+                },
+                {
+                    "x": 0.8924,
+                    "y": 0.3144
+                },
+                {
+                    "x": 0.8924,
+                    "y": 0.363
+                },
+                {
+                    "x": 0.0822,
+                    "y": 0.363
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='5' data-category='paragraph' style='font-size:14px'>HDMI OUTPUT INFO DISPLAY</p>",
+                "markdown": "HDMI OUTPUT INFO DISPLAY",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0897,
+                    "y": 0.3859
+                },
+                {
+                    "x": 0.4538,
+                    "y": 0.3859
+                },
+                {
+                    "x": 0.4538,
+                    "y": 0.4095
+                },
+                {
+                    "x": 0.0897,
+                    "y": 0.4095
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='6' data-category='paragraph' style='font-size:16px'>If ON is selected, HDMI devices to which the camera is connected<br>will mirror the information in the camera display.</p>",
+                "markdown": "If ON is selected, HDMI devices to which the camera is connected\nwill mirror the information in the camera display.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.079,
+                    "y": 0.417
+                },
+                {
+                    "x": 0.8911,
+                    "y": 0.417
+                },
+                {
+                    "x": 0.8911,
+                    "y": 0.467
+                },
+                {
+                    "x": 0.079,
+                    "y": 0.467
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='7' style='font-size:14px'><tr><td colspan=\"2\">Options</td></tr><tr><td>ON</td><td>OFF</td></tr></table>",
+                "markdown": "| Options | Options |\n| --- | --- |\n| ON | OFF |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0903,
+                    "y": 0.4801
+                },
+                {
+                    "x": 0.8896,
+                    "y": 0.4801
+                },
+                {
+                    "x": 0.8896,
+                    "y": 0.5295
+                },
+                {
+                    "x": 0.0903,
+                    "y": 0.5295
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='8' data-category='paragraph' style='font-size:16px'>HDMI REC CONTROL</p>",
+                "markdown": "HDMI REC CONTROL",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0931,
+                    "y": 0.5477
+                },
+                {
+                    "x": 0.3458,
+                    "y": 0.5477
+                },
+                {
+                    "x": 0.3458,
+                    "y": 0.5722
+                },
+                {
+                    "x": 0.0931,
+                    "y": 0.5722
+                }
+            ],
+            "id": 8,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='9' data-category='paragraph' style='font-size:18px'>Choose whether the camera sends movie start and stop signals<br>to the HDMI device when the shutter button is pressed to start<br>and stop movie recording.</p>",
+                "markdown": "Choose whether the camera sends movie start and stop signals\nto the HDMI device when the shutter button is pressed to start\nand stop movie recording.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.081,
+                    "y": 0.5788
+                },
+                {
+                    "x": 0.8932,
+                    "y": 0.5788
+                },
+                {
+                    "x": 0.8932,
+                    "y": 0.6552
+                },
+                {
+                    "x": 0.081,
+                    "y": 0.6552
+                }
+            ],
+            "id": 9,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='10' style='font-size:14px'><tr><td colspan=\"2\">Options</td></tr><tr><td>ON</td><td>OFF</td></tr></table>",
+                "markdown": "| Options | Options |\n| --- | --- |\n| ON | OFF |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1031,
+                    "y": 0.6667
+                },
+                {
+                    "x": 0.8928,
+                    "y": 0.6667
+                },
+                {
+                    "x": 0.8928,
+                    "y": 0.7178
+                },
+                {
+                    "x": 0.1031,
+                    "y": 0.7178
+                }
+            ],
+            "id": 10,
+            "page": 1
+        },
+        {
+            "category": "header",
+            "content": {
+                "html": "<br><header id='11' style='font-size:22px'>The<br>Shooting<br>Menus</header>",
+                "markdown": "The\nShooting\nMenus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0159,
+                    "y": 0.5765
+                },
+                {
+                    "x": 0.042,
+                    "y": 0.5765
+                },
+                {
+                    "x": 0.042,
+                    "y": 0.7319
+                },
+                {
+                    "x": 0.0159,
+                    "y": 0.7319
+                }
+            ],
+            "id": 11,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='12' style='font-size:20px'>192</footer>",
+                "markdown": "192",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0847,
+                    "y": 0.9565
+                },
+                {
+                    "x": 0.1396,
+                    "y": 0.9565
+                },
+                {
+                    "x": 0.1396,
+                    "y": 0.9796
+                },
+                {
+                    "x": 0.0847,
+                    "y": 0.9796
+                }
+            ],
+            "id": 12,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

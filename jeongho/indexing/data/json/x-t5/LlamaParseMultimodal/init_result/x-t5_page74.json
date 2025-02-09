@@ -1,0 +1,82 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "\n# Basic Setup\n\nWhen you turn the camera on for the first time, you can choose a language and set the camera clock. Follow the steps below when turning the camera on for the first time.\n\n## 1. Turn the camera on.\n\nA language-selection dialog will be displayed.\n\n!Camera On\n\n## 2. Choose a language.\n\nHighlight a language and press **MENU/OK**.\n\n!Language Selection\n\n## 3. Choose a time zone.\n\nWhen prompted, choose a time zone and turn daylight savings time on or off using the selector, then highlight **SET** and press **MENU/OK**.\n\n!Time Zone Setting\n\n> To skip this step, press **DISP/BACK**.\n",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "Basic Setup",
+                    "md": "# Basic Setup"
+                },
+                {
+                    "type": "text",
+                    "value": "When you turn the camera on for the first time, you can choose a language and set the camera clock. Follow the steps below when turning the camera on for the first time.",
+                    "md": "When you turn the camera on for the first time, you can choose a language and set the camera clock. Follow the steps below when turning the camera on for the first time."
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "1. Turn the camera on.",
+                    "md": "## 1. Turn the camera on."
+                },
+                {
+                    "type": "text",
+                    "value": "A language-selection dialog will be displayed.\n\n!Camera On",
+                    "md": "A language-selection dialog will be displayed.\n\n!Camera On"
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "2. Choose a language.",
+                    "md": "## 2. Choose a language."
+                },
+                {
+                    "type": "text",
+                    "value": "Highlight a language and press **MENU/OK**.\n\n!Language Selection",
+                    "md": "Highlight a language and press **MENU/OK**.\n\n!Language Selection"
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "3. Choose a time zone.",
+                    "md": "## 3. Choose a time zone."
+                },
+                {
+                    "type": "text",
+                    "value": "When prompted, choose a time zone and turn daylight savings time on or off using the selector, then highlight **SET** and press **MENU/OK**.\n\n!Time Zone Setting\n\n> To skip this step, press **DISP/BACK**.",
+                    "md": "When prompted, choose a time zone and turn daylight savings time on or off using the selector, then highlight **SET** and press **MENU/OK**.\n\n!Time Zone Setting\n\n> To skip this step, press **DISP/BACK**."
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "parsingMode": "multimodal-openai-gpt4o",
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 521.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "0dbb98ad-12ca-422e-9682-b3eba1719e37",
+    "file_path": "../data/raw_data/x-t5/x-t5_split/x-t5_page74.pdf"
+}

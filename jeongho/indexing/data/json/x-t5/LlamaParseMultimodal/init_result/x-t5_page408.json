@@ -1,0 +1,78 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "\n| Problem                                | Solution                                                                                     |\n|----------------------------------------|----------------------------------------------------------------------------------------------|\n| **The flash does not fire.**           | - **The flash is disabled:** Adjust settings (📖 180).                                        |\n|                                        | - **The electronic shutter is enabled:** Choose a **SHUTTER TYPE** that does not use the electronic shutter (📖 170). |\n|                                        | - **The battery is exhausted:** Charge the battery or insert a fully-charged spare battery (📖 42). |\n|                                        | - **The camera is in bracketing or continuous mode:** Select single frame mode (📖 6).        |\n| **The flash does not fully light the subject.** | - **The subject is not in range of the flash:** Position the subject in range of the flash.  |\n|                                        | - **The flash window is obstructed:** Hold the camera correctly.                             |\n|                                        | - **Shutter speed is faster than the sync speed:** Choose a slower shutter speed (📖 74, 80, 398). |\n",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Problem",
+                            "Solution"
+                        ],
+                        [
+                            "**The flash does not fire.**",
+                            "- **The flash is disabled:** Adjust settings (📖 180)."
+                        ],
+                        [
+                            "",
+                            "- **The electronic shutter is enabled:** Choose a **SHUTTER TYPE** that does not use the electronic shutter (📖 170)."
+                        ],
+                        [
+                            "",
+                            "- **The battery is exhausted:** Charge the battery or insert a fully-charged spare battery (📖 42)."
+                        ],
+                        [
+                            "",
+                            "- **The camera is in bracketing or continuous mode:** Select single frame mode (📖 6)."
+                        ],
+                        [
+                            "**The flash does not fully light the subject.**",
+                            "- **The subject is not in range of the flash:** Position the subject in range of the flash."
+                        ],
+                        [
+                            "",
+                            "- **The flash window is obstructed:** Hold the camera correctly."
+                        ],
+                        [
+                            "",
+                            "- **Shutter speed is faster than the sync speed:** Choose a slower shutter speed (📖 74, 80, 398)."
+                        ]
+                    ],
+                    "md": "| Problem                                | Solution                                                                                     |\n|----------------------------------------|----------------------------------------------------------------------------------------------|\n| **The flash does not fire.**           | - **The flash is disabled:** Adjust settings (📖 180).                                        |\n|                                        | - **The electronic shutter is enabled:** Choose a **SHUTTER TYPE** that does not use the electronic shutter (📖 170). |\n|                                        | - **The battery is exhausted:** Charge the battery or insert a fully-charged spare battery (📖 42). |\n|                                        | - **The camera is in bracketing or continuous mode:** Select single frame mode (📖 6).        |\n| **The flash does not fully light the subject.** | - **The subject is not in range of the flash:** Position the subject in range of the flash.  |\n|                                        | - **The flash window is obstructed:** Hold the camera correctly.                             |\n|                                        | - **Shutter speed is faster than the sync speed:** Choose a slower shutter speed (📖 74, 80, 398). |",
+                    "isPerfectTable": true,
+                    "csv": "\"Problem\",\"Solution\"\n\"**The flash does not fire.**\",\"- **The flash is disabled:** Adjust settings (📖 180).\"\n\"\",\"- **The electronic shutter is enabled:** Choose a **SHUTTER TYPE** that does not use the electronic shutter (📖 170).\"\n\"\",\"- **The battery is exhausted:** Charge the battery or insert a fully-charged spare battery (📖 42).\"\n\"\",\"- **The camera is in bracketing or continuous mode:** Select single frame mode (📖 6).\"\n\"**The flash does not fully light the subject.**\",\"- **The subject is not in range of the flash:** Position the subject in range of the flash.\"\n\"\",\"- **The flash window is obstructed:** Hold the camera correctly.\"\n\"\",\"- **Shutter speed is faster than the sync speed:** Choose a slower shutter speed (📖 74, 80, 398).\""
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "parsingMode": "multimodal-openai-gpt4o",
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 442.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "64853f5f-f485-43b4-9951-e5c6d5a2851f",
+    "file_path": "../data/raw_data/x-t5/x-t5_split/x-t5_page408.pdf"
+}

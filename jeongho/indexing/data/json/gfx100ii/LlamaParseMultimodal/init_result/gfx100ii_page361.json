@@ -1,0 +1,107 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "# USER SETTING\n\n## AREA SETTING\nAdjust settings for your current time zone.\n\n### AREA SETTING\nChoose your time zone from a map.\n\n### DAYLIGHT SAVINGS\nTurn daylight saving time on or off.\n\n| Option | Description                |\n|--------|----------------------------|\n| ON     | Daylight saving time on.   |\n| OFF    | Daylight saving time off.  |\n\n## DATE/TIME\nTo set the camera clock:\n\n1. Select **USER SETTING > DATE/TIME** in the **(SET UP)** tab.\n2. Press the focus stick (focus lever) left or right to highlight the year, month, day, hour, or minute and press up or down to change. To change the order in which the year, month, and day are displayed, highlight the date format and press the focus stick up or down.\n3. Press **MENU/OK** to set the clock.",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "USER SETTING",
+                    "md": "# USER SETTING"
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "AREA SETTING",
+                    "md": "## AREA SETTING"
+                },
+                {
+                    "type": "text",
+                    "value": "Adjust settings for your current time zone.",
+                    "md": "Adjust settings for your current time zone."
+                },
+                {
+                    "type": "heading",
+                    "lvl": 3,
+                    "value": "AREA SETTING",
+                    "md": "### AREA SETTING"
+                },
+                {
+                    "type": "text",
+                    "value": "Choose your time zone from a map.",
+                    "md": "Choose your time zone from a map."
+                },
+                {
+                    "type": "heading",
+                    "lvl": 3,
+                    "value": "DAYLIGHT SAVINGS",
+                    "md": "### DAYLIGHT SAVINGS"
+                },
+                {
+                    "type": "text",
+                    "value": "Turn daylight saving time on or off.",
+                    "md": "Turn daylight saving time on or off."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Option",
+                            "Description"
+                        ],
+                        [
+                            "ON",
+                            "Daylight saving time on."
+                        ],
+                        [
+                            "OFF",
+                            "Daylight saving time off."
+                        ]
+                    ],
+                    "md": "| Option | Description                |\n|--------|----------------------------|\n| ON     | Daylight saving time on.   |\n| OFF    | Daylight saving time off.  |",
+                    "isPerfectTable": true,
+                    "csv": "\"Option\",\"Description\"\n\"ON\",\"Daylight saving time on.\"\n\"OFF\",\"Daylight saving time off.\""
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "DATE/TIME",
+                    "md": "## DATE/TIME"
+                },
+                {
+                    "type": "text",
+                    "value": "To set the camera clock:\n\n1. Select **USER SETTING > DATE/TIME** in the **(SET UP)** tab.\n2. Press the focus stick (focus lever) left or right to highlight the year, month, day, hour, or minute and press up or down to change. To change the order in which the year, month, and day are displayed, highlight the date format and press the focus stick up or down.\n3. Press **MENU/OK** to set the clock.",
+                    "md": "To set the camera clock:\n\n1. Select **USER SETTING > DATE/TIME** in the **(SET UP)** tab.\n2. Press the focus stick (focus lever) left or right to highlight the year, month, day, hour, or minute and press up or down to change. To change the order in which the year, month, and day are displayed, highlight the date format and press the focus stick up or down.\n3. Press **MENU/OK** to set the clock."
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 315.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "b226ae16-e5bb-495a-a0f0-8008f35a30d9",
+    "file_path": "../data/raw_data/gfx100ii/gfx100ii_split/gfx100ii_page361.pdf"
+}

@@ -1,0 +1,136 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "# AF/MF SETTING (Movie Recording)\n\n## Touch Controls for Focus Zoom\n\nDifferent touch controls are used during focus zoom (focus check enabled).\n\n### Central Area\n\nTapping the center of the display performs the operations below.\n\n!Touch Controls for Focus Zoom\n\n| Mode  | Operation performed |\n|-------|----------------------|\n| AF    | **AF-S**: AF         |\n|       | **MF**: Instant AF   |\n| AREA  | **AF-S**: AF         |\n|       | **MF**: Instant AF   |\n| OFF   | **AF-S/MF**: OFF     |\n\n### Other Areas\n\nTapping other areas simply scrolls the display, whether during still photography or movie recording and regardless of the option selected for touch screen mode.\n\n!Other Areas\n\n## FOCUS CHECK LOCK\n\nChoose whether focus zoom remains in effect once movie recording begins.\n\n| Options |\n|---------|\n| ON      |\n| OFF     |",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "AF/MF SETTING (Movie Recording)",
+                    "md": "# AF/MF SETTING (Movie Recording)"
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "Touch Controls for Focus Zoom",
+                    "md": "## Touch Controls for Focus Zoom"
+                },
+                {
+                    "type": "text",
+                    "value": "Different touch controls are used during focus zoom (focus check enabled).",
+                    "md": "Different touch controls are used during focus zoom (focus check enabled)."
+                },
+                {
+                    "type": "heading",
+                    "lvl": 3,
+                    "value": "Central Area",
+                    "md": "### Central Area"
+                },
+                {
+                    "type": "text",
+                    "value": "Tapping the center of the display performs the operations below.\n\n!Touch Controls for Focus Zoom",
+                    "md": "Tapping the center of the display performs the operations below.\n\n!Touch Controls for Focus Zoom"
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Mode",
+                            "Operation performed"
+                        ],
+                        [
+                            "AF",
+                            "**AF-S**: AF"
+                        ],
+                        [
+                            "",
+                            "**MF**: Instant AF"
+                        ],
+                        [
+                            "AREA",
+                            "**AF-S**: AF"
+                        ],
+                        [
+                            "",
+                            "**MF**: Instant AF"
+                        ],
+                        [
+                            "OFF",
+                            "**AF-S/MF**: OFF"
+                        ]
+                    ],
+                    "md": "| Mode  | Operation performed |\n|-------|----------------------|\n| AF    | **AF-S**: AF         |\n|       | **MF**: Instant AF   |\n| AREA  | **AF-S**: AF         |\n|       | **MF**: Instant AF   |\n| OFF   | **AF-S/MF**: OFF     |",
+                    "isPerfectTable": true,
+                    "csv": "\"Mode\",\"Operation performed\"\n\"AF\",\"**AF-S**: AF\"\n\"\",\"**MF**: Instant AF\"\n\"AREA\",\"**AF-S**: AF\"\n\"\",\"**MF**: Instant AF\"\n\"OFF\",\"**AF-S/MF**: OFF\""
+                },
+                {
+                    "type": "heading",
+                    "lvl": 3,
+                    "value": "Other Areas",
+                    "md": "### Other Areas"
+                },
+                {
+                    "type": "text",
+                    "value": "Tapping other areas simply scrolls the display, whether during still photography or movie recording and regardless of the option selected for touch screen mode.\n\n!Other Areas",
+                    "md": "Tapping other areas simply scrolls the display, whether during still photography or movie recording and regardless of the option selected for touch screen mode.\n\n!Other Areas"
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "FOCUS CHECK LOCK",
+                    "md": "## FOCUS CHECK LOCK"
+                },
+                {
+                    "type": "text",
+                    "value": "Choose whether focus zoom remains in effect once movie recording begins.",
+                    "md": "Choose whether focus zoom remains in effect once movie recording begins."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Options"
+                        ],
+                        [
+                            "ON"
+                        ],
+                        [
+                            "OFF"
+                        ]
+                    ],
+                    "md": "| Options |\n|---------|\n| ON      |\n| OFF     |",
+                    "isPerfectTable": true,
+                    "csv": "\"Options\"\n\"ON\"\n\"OFF\""
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 132.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "2d19fae5-3901-4938-9aff-eb2ef5c5f6af",
+    "file_path": "../data/raw_data/gfx100ii/gfx100ii_split/gfx100ii_page232.pdf"
+}

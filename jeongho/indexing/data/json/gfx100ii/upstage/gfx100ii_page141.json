@@ -1,0 +1,462 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:14px'>IMAGE QUALITY SETTING (Still Photography)</header>\n<h1 id='1' style='font-size:16px'>CLARITY</h1>\n\n<table id='3' style='font-size:14px'><tr><td rowspan=\"2\" colspan=\"11\">Options</td></tr><tr></tr><tr><td>-5</td><td>-4</td><td>-3</td><td>-2</td><td>-1</td><td>0</td><td>+1</td><td>+2</td><td>+3</td><td>+4</td><td>+5</td></tr><br><caption id='2' style='font-size:20px'>Increase definition while altering tones in highlights and shad-<br>OWS as little as possible. Choose higher values for increased defi-<br>nition, lower values for a softer effect.</caption></table>\n<br><p id='4' data-category='paragraph' style='font-size:14px'>The additional processing required at settings other than 0 increases<br>the time need to save each shot.</p>\n<p id='5' data-category='paragraph' style='font-size:18px'>LONG EXPOSURE NR</p>\n\n<table id='7' style='font-size:16px'><tr><td colspan=\"2\">Options</td></tr><tr><td>ON</td><td>OFF</td></tr><tr><td>The</td><td>additional processing required when ON is selected increases save times.</td></tr><br><caption id='6' style='font-size:20px'>Select ON to reduce mottling in long time-exposures.</caption></table>\n\n<br><p id='9' data-category='paragraph' style='font-size:20px'>Select ON to improve definition by adjusting for diffraction and<br>the slight loss of focus at the periphery of the lens.</p>\n<br><table id='10' style='font-size:18px'><tr><td colspan=\"2\">Options</td></tr><tr><td>ON</td><td>OFF</td></tr><caption id='8' style='font-size:18px'>LENS MODULATION OPTIMIZER</caption></table>\n<p id='11' data-category='paragraph' style='font-size:18px'>COLOR SPACE</p>\n\n<br><table id='13' style='font-size:18px'><tr><td>Option</td><td>Description</td></tr><tr><td>sRGB</td><td>Recommended in most situations.</td></tr><tr><td>Adobe RGB</td><td>For commercial printing.</td></tr><br><caption id='12' style='font-size:20px'>Choose the gamut of colors available for color reproduction.</caption></table>\n<footer id='14' style='font-size:22px'>141</footer>\n<br><footer id='15' style='font-size:22px'>6<br>The<br>Shooting<br>Menus</footer>",
+        "markdown": "IMAGE QUALITY SETTING (Still Photography)\n\n# CLARITY\n\nIncrease definition while altering tones in highlights and shad-\nOWS as little as possible. Choose higher values for increased defi-\nnition, lower values for a softer effect.\n\n| Options | Options | Options | Options | Options | Options | Options | Options | Options | Options | Options |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| Options | Options | Options | Options | Options | Options | Options | Options | Options | Options | Options |\n| -5 | -4 | -3 | -2 | -1 | 0 | +1 | +2 | +3 | +4 | +5 |\n\n\nThe additional processing required at settings other than 0 increases\nthe time need to save each shot.\n\nLONG EXPOSURE NR\n\nSelect ON to reduce mottling in long time-exposures.\n\n| Options | Options |\n| --- | --- |\n| ON | OFF |\n| The | additional processing required when ON is selected increases save times. |\n\n\nLENS MODULATION OPTIMIZER\n\nSelect ON to improve definition by adjusting for diffraction and\nthe slight loss of focus at the periphery of the lens.\n\n| Options | Options |\n| --- | --- |\n| ON | OFF |\n\n\nCOLOR SPACE\n\nChoose the gamut of colors available for color reproduction.\n\n| Option | Description |\n| --- | --- |\n| sRGB | Recommended in most situations. |\n| Adobe RGB | For commercial printing. |\n\n\n141\n\n6\nThe\nShooting\nMenus",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:14px'>IMAGE QUALITY SETTING (Still Photography)</header>",
+                "markdown": "IMAGE QUALITY SETTING (Still Photography)",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.4855,
+                    "y": 0.0275
+                },
+                {
+                    "x": 0.9183,
+                    "y": 0.0275
+                },
+                {
+                    "x": 0.9183,
+                    "y": 0.0515
+                },
+                {
+                    "x": 0.4855,
+                    "y": 0.0515
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='1' style='font-size:16px'>CLARITY</h1>",
+                "markdown": "# CLARITY",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1074,
+                    "y": 0.0728
+                },
+                {
+                    "x": 0.231,
+                    "y": 0.0728
+                },
+                {
+                    "x": 0.231,
+                    "y": 0.0952
+                },
+                {
+                    "x": 0.1074,
+                    "y": 0.0952
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='2' data-category='paragraph' style='font-size:20px'>Increase definition while altering tones in highlights and shad-<br>OWS as little as possible. Choose higher values for increased defi-<br>nition, lower values for a softer effect.</p>",
+                "markdown": "Increase definition while altering tones in highlights and shad-\nOWS as little as possible. Choose higher values for increased defi-\nnition, lower values for a softer effect.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.105,
+                    "y": 0.1043
+                },
+                {
+                    "x": 0.9186,
+                    "y": 0.1043
+                },
+                {
+                    "x": 0.9186,
+                    "y": 0.1802
+                },
+                {
+                    "x": 0.105,
+                    "y": 0.1802
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='3' style='font-size:14px'><tr><td rowspan=\"2\" colspan=\"11\">Options</td></tr><tr></tr><tr><td>-5</td><td>-4</td><td>-3</td><td>-2</td><td>-1</td><td>0</td><td>+1</td><td>+2</td><td>+3</td><td>+4</td><td>+5</td></tr></table>",
+                "markdown": "| Options | Options | Options | Options | Options | Options | Options | Options | Options | Options | Options |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| Options | Options | Options | Options | Options | Options | Options | Options | Options | Options | Options |\n| -5 | -4 | -3 | -2 | -1 | 0 | +1 | +2 | +3 | +4 | +5 |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1093,
+                    "y": 0.1928
+                },
+                {
+                    "x": 0.9175,
+                    "y": 0.1928
+                },
+                {
+                    "x": 0.9175,
+                    "y": 0.2499
+                },
+                {
+                    "x": 0.1093,
+                    "y": 0.2499
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='4' data-category='paragraph' style='font-size:14px'>The additional processing required at settings other than 0 increases<br>the time need to save each shot.</p>",
+                "markdown": "The additional processing required at settings other than 0 increases\nthe time need to save each shot.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1094,
+                    "y": 0.2594
+                },
+                {
+                    "x": 0.9165,
+                    "y": 0.2594
+                },
+                {
+                    "x": 0.9165,
+                    "y": 0.3046
+                },
+                {
+                    "x": 0.1094,
+                    "y": 0.3046
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='5' data-category='paragraph' style='font-size:18px'>LONG EXPOSURE NR</p>",
+                "markdown": "LONG EXPOSURE NR",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1107,
+                    "y": 0.3257
+                },
+                {
+                    "x": 0.3896,
+                    "y": 0.3257
+                },
+                {
+                    "x": 0.3896,
+                    "y": 0.3473
+                },
+                {
+                    "x": 0.1107,
+                    "y": 0.3473
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='6' data-category='paragraph' style='font-size:20px'>Select ON to reduce mottling in long time-exposures.</p>",
+                "markdown": "Select ON to reduce mottling in long time-exposures.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1056,
+                    "y": 0.3564
+                },
+                {
+                    "x": 0.7829,
+                    "y": 0.3564
+                },
+                {
+                    "x": 0.7829,
+                    "y": 0.382
+                },
+                {
+                    "x": 0.1056,
+                    "y": 0.382
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='7' style='font-size:16px'><tr><td colspan=\"2\">Options</td></tr><tr><td>ON</td><td>OFF</td></tr><tr><td>The</td><td>additional processing required when ON is selected increases save times.</td></tr></table>",
+                "markdown": "| Options | Options |\n| --- | --- |\n| ON | OFF |\n| The | additional processing required when ON is selected increases save times. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1069,
+                    "y": 0.3969
+                },
+                {
+                    "x": 0.9167,
+                    "y": 0.3969
+                },
+                {
+                    "x": 0.9167,
+                    "y": 0.5067
+                },
+                {
+                    "x": 0.1069,
+                    "y": 0.5067
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='8' data-category='paragraph' style='font-size:18px'>LENS MODULATION OPTIMIZER</p>",
+                "markdown": "LENS MODULATION OPTIMIZER",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.109,
+                    "y": 0.5253
+                },
+                {
+                    "x": 0.5361,
+                    "y": 0.5253
+                },
+                {
+                    "x": 0.5361,
+                    "y": 0.5497
+                },
+                {
+                    "x": 0.109,
+                    "y": 0.5497
+                }
+            ],
+            "id": 8,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='9' data-category='paragraph' style='font-size:20px'>Select ON to improve definition by adjusting for diffraction and<br>the slight loss of focus at the periphery of the lens.</p>",
+                "markdown": "Select ON to improve definition by adjusting for diffraction and\nthe slight loss of focus at the periphery of the lens.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.105,
+                    "y": 0.5563
+                },
+                {
+                    "x": 0.9169,
+                    "y": 0.5563
+                },
+                {
+                    "x": 0.9169,
+                    "y": 0.6091
+                },
+                {
+                    "x": 0.105,
+                    "y": 0.6091
+                }
+            ],
+            "id": 9,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='10' style='font-size:18px'><tr><td colspan=\"2\">Options</td></tr><tr><td>ON</td><td>OFF</td></tr></table>",
+                "markdown": "| Options | Options |\n| --- | --- |\n| ON | OFF |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1079,
+                    "y": 0.6227
+                },
+                {
+                    "x": 0.9164,
+                    "y": 0.6227
+                },
+                {
+                    "x": 0.9164,
+                    "y": 0.674
+                },
+                {
+                    "x": 0.1079,
+                    "y": 0.674
+                }
+            ],
+            "id": 10,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='11' data-category='paragraph' style='font-size:18px'>COLOR SPACE</p>",
+                "markdown": "COLOR SPACE",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1062,
+                    "y": 0.6901
+                },
+                {
+                    "x": 0.299,
+                    "y": 0.6901
+                },
+                {
+                    "x": 0.299,
+                    "y": 0.7133
+                },
+                {
+                    "x": 0.1062,
+                    "y": 0.7133
+                }
+            ],
+            "id": 11,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='12' data-category='paragraph' style='font-size:20px'>Choose the gamut of colors available for color reproduction.</p>",
+                "markdown": "Choose the gamut of colors available for color reproduction.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1056,
+                    "y": 0.7226
+                },
+                {
+                    "x": 0.8682,
+                    "y": 0.7226
+                },
+                {
+                    "x": 0.8682,
+                    "y": 0.7477
+                },
+                {
+                    "x": 0.1056,
+                    "y": 0.7477
+                }
+            ],
+            "id": 12,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='13' style='font-size:18px'><tr><td>Option</td><td>Description</td></tr><tr><td>sRGB</td><td>Recommended in most situations.</td></tr><tr><td>Adobe RGB</td><td>For commercial printing.</td></tr></table>",
+                "markdown": "| Option | Description |\n| --- | --- |\n| sRGB | Recommended in most situations. |\n| Adobe RGB | For commercial printing. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1067,
+                    "y": 0.7597
+                },
+                {
+                    "x": 0.9136,
+                    "y": 0.7597
+                },
+                {
+                    "x": 0.9136,
+                    "y": 0.8428
+                },
+                {
+                    "x": 0.1067,
+                    "y": 0.8428
+                }
+            ],
+            "id": 13,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='14' style='font-size:22px'>141</footer>",
+                "markdown": "141",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.8625,
+                    "y": 0.9572
+                },
+                {
+                    "x": 0.9147,
+                    "y": 0.9572
+                },
+                {
+                    "x": 0.9147,
+                    "y": 0.9783
+                },
+                {
+                    "x": 0.8625,
+                    "y": 0.9783
+                }
+            ],
+            "id": 14,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<br><footer id='15' style='font-size:22px'>6<br>The<br>Shooting<br>Menus</footer>",
+                "markdown": "6\nThe\nShooting\nMenus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9563,
+                    "y": 0.5408
+                },
+                {
+                    "x": 0.983,
+                    "y": 0.5408
+                },
+                {
+                    "x": 0.983,
+                    "y": 0.7313
+                },
+                {
+                    "x": 0.9563,
+                    "y": 0.7313
+                }
+            ],
+            "id": 15,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

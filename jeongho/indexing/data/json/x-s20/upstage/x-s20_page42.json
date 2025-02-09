@@ -1,0 +1,238 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<h1 id='0' style='font-size:20px'>Checking the Battery Level</h1>\n<br><p id='1' data-category='paragraph' style='font-size:18px'>After turning the camera on, check the battery level in the<br>display.</p>\n<h1 id='2' style='font-size:18px'>Battery level is shown as follows:</h1>\n<h1 id='3' style='font-size:14px'>2</h1>\n<br><p id='4' data-category='paragraph' style='font-size:14px'>自</p>\n<table id='5' style='font-size:16px'><tr><td>Indicator</td><td>Description</td></tr><tr><td>■■■■■</td><td>Battery partially discharged.</td></tr><tr><td></td><td>Battery about 80% full.</td></tr><tr><td></td><td>Battery about 60% full.</td></tr><tr><td></td><td>Battery about 40% full.</td></tr><tr><td></td><td>Battery about 20% full.</td></tr><tr><td>(red)</td><td>Low battery. Charge as soon as possible.</td></tr><tr><td>(blinks red)</td><td>Battery exhausted. Turn camera off and recharge battery.</td></tr></table>\n<br><header id='6' style='font-size:22px'>First<br>Steps</header>\n<footer id='7' style='font-size:18px'>42</footer>",
+        "markdown": "# Checking the Battery Level\n\nAfter turning the camera on, check the battery level in the\ndisplay.\n\n# Battery level is shown as follows:\n\n# 2\n\n自\n\n| Indicator | Description |\n| --- | --- |\n| ■■■■■ | Battery partially discharged. |\n|  | Battery about 80% full. |\n|  | Battery about 60% full. |\n|  | Battery about 40% full. |\n|  | Battery about 20% full. |\n| (red) | Low battery. Charge as soon as possible. |\n| (blinks red) | Battery exhausted. Turn camera off and recharge battery. |\n\n\nFirst\nSteps\n\n42",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='0' style='font-size:20px'>Checking the Battery Level</h1>",
+                "markdown": "# Checking the Battery Level",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1543,
+                    "y": 0.0727
+                },
+                {
+                    "x": 0.6087,
+                    "y": 0.0727
+                },
+                {
+                    "x": 0.6087,
+                    "y": 0.1001
+                },
+                {
+                    "x": 0.1543,
+                    "y": 0.1001
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='1' data-category='paragraph' style='font-size:18px'>After turning the camera on, check the battery level in the<br>display.</p>",
+                "markdown": "After turning the camera on, check the battery level in the\ndisplay.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1525,
+                    "y": 0.1099
+                },
+                {
+                    "x": 0.8925,
+                    "y": 0.1099
+                },
+                {
+                    "x": 0.8925,
+                    "y": 0.1584
+                },
+                {
+                    "x": 0.1525,
+                    "y": 0.1584
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='2' style='font-size:18px'>Battery level is shown as follows:</h1>",
+                "markdown": "# Battery level is shown as follows:",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0817,
+                    "y": 0.1732
+                },
+                {
+                    "x": 0.4971,
+                    "y": 0.1732
+                },
+                {
+                    "x": 0.4971,
+                    "y": 0.1971
+                },
+                {
+                    "x": 0.0817,
+                    "y": 0.1971
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='3' style='font-size:14px'>2</h1>",
+                "markdown": "# 2",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0278,
+                    "y": 0.3
+                },
+                {
+                    "x": 0.0417,
+                    "y": 0.3
+                },
+                {
+                    "x": 0.0417,
+                    "y": 0.3161
+                },
+                {
+                    "x": 0.0278,
+                    "y": 0.3161
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='4' data-category='paragraph' style='font-size:14px'>自</p>",
+                "markdown": "自",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.8355,
+                    "y": 0.3125
+                },
+                {
+                    "x": 0.8465,
+                    "y": 0.3125
+                },
+                {
+                    "x": 0.8465,
+                    "y": 0.3168
+                },
+                {
+                    "x": 0.8355,
+                    "y": 0.3168
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='5' style='font-size:16px'><tr><td>Indicator</td><td>Description</td></tr><tr><td>■■■■■</td><td>Battery partially discharged.</td></tr><tr><td></td><td>Battery about 80% full.</td></tr><tr><td></td><td>Battery about 60% full.</td></tr><tr><td></td><td>Battery about 40% full.</td></tr><tr><td></td><td>Battery about 20% full.</td></tr><tr><td>(red)</td><td>Low battery. Charge as soon as possible.</td></tr><tr><td>(blinks red)</td><td>Battery exhausted. Turn camera off and recharge battery.</td></tr></table>",
+                "markdown": "| Indicator | Description |\n| --- | --- |\n| ■■■■■ | Battery partially discharged. |\n|  | Battery about 80% full. |\n|  | Battery about 60% full. |\n|  | Battery about 40% full. |\n|  | Battery about 20% full. |\n| (red) | Low battery. Charge as soon as possible. |\n| (blinks red) | Battery exhausted. Turn camera off and recharge battery. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0867,
+                    "y": 0.3252
+                },
+                {
+                    "x": 0.8887,
+                    "y": 0.3252
+                },
+                {
+                    "x": 0.8887,
+                    "y": 0.5621
+                },
+                {
+                    "x": 0.0867,
+                    "y": 0.5621
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "header",
+            "content": {
+                "html": "<br><header id='6' style='font-size:22px'>First<br>Steps</header>",
+                "markdown": "First\nSteps",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0166,
+                    "y": 0.3388
+                },
+                {
+                    "x": 0.0422,
+                    "y": 0.3388
+                },
+                {
+                    "x": 0.0422,
+                    "y": 0.4169
+                },
+                {
+                    "x": 0.0166,
+                    "y": 0.4169
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='7' style='font-size:18px'>42</footer>",
+                "markdown": "42",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0824,
+                    "y": 0.9565
+                },
+                {
+                    "x": 0.1223,
+                    "y": 0.9565
+                },
+                {
+                    "x": 0.1223,
+                    "y": 0.979
+                },
+                {
+                    "x": 0.0824,
+                    "y": 0.979
+                }
+            ],
+            "id": 7,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

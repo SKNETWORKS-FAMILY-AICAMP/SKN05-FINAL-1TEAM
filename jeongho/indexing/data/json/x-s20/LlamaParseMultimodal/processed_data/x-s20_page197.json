@@ -1,0 +1,15 @@
+{
+    "parsing_result": "# MOVIE SETTING (Movie Recording)\n\n## IS MODE\nChoose the image stabilization mode.\n\n| Option       | Description                                                                                                                                   |\n|--------------|-----------------------------------------------------------------------------------------------------------------------------------------------|\n| IBIS/OIS     | Enable in-body (IBIS) and optical (OIS) image stabilization. IBIS is used with lenses that do not support OIS.                                |\n| IBIS/OIS + DIS | Enable in-body (IBIS), optical (OIS), and digital (DIS) image stabilization. The crop is adjusted according to the option selected for MOVIE MODE. This setting can compensate for more severe camera shake. |\n| OFF          | Image stabilization off; !Icon appears in the display.                                                                    |\n\n- The setting selected with the lens image stabilization switch, if any, takes priority over the setting chosen with the IS mode.\n- Note that vibration or camera sounds may be noticeable as image stabilization takes effect.\n\n## IS MODE BOOST\nChoose the image stabilization level.\n\n| Option | Description                      |\n|--------|----------------------------------|\n| ON     | Suitable for shots with no panning. |\n| OFF    | Suitable for shots with panning.    |\n\n- Assigning IS MODE BOOST to a function button allows the image stabilization level to be changed while recording is in progress (📖 317).\n\n## ISO\nAdjust the camera’s sensitivity to light.\n\n| Option     | Description                                                                                                                                 |\n|------------|---------------------------------------------------------------------------------------------------------------------------------------------|\n| H (25600)  | Choose for special situations. Note that dynamic range may be reduced and that pictures may be mottled.                                      |\n| 160–12800  | Adjust sensitivity manually. Selected value is shown in display.                                                                            |\n| AUTO       | Sensitivity is automatically adjusted in response to shooting conditions.                                                                   |",
+    "embedding_result": [],
+    "metadata": {
+        "page": 197,
+        "model": "x-s20",
+        "subsection": [
+            "IS MODE",
+            "IS MODE BOOST",
+            "ISO"
+        ],
+        "chapter": "The Shooting Menus",
+        "section": "MOVIE SETTING (Movie Recording)"
+    }
+}

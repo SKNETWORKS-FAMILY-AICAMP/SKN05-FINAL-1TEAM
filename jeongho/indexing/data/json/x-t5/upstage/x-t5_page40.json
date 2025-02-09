@@ -1,0 +1,210 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<h1 id='0' style='font-size:20px'>Using Two Cards</h1>\n\n<h1 id='2' style='font-size:14px'>2</h1>\n<br><header id='3' style='font-size:22px'>First<br>Steps</header>\n<br><table id='4' style='font-size:14px'><tr><td>Option</td><td>Description</td><td>Display</td></tr><tr><td>SEQUENTIAL (default)</td><td>The card in the second slot is used only when the card in thefirstslotisfull. Ifthe second slotis selected for 8 SAVE DATA SET-UP > SELECT SLOT(� SEQUENTIAL), recording will start on the card in the second slot and switch to the first slot when the card in the second slot is full.</td><td>1</td></tr><tr><td>BACKUP</td><td>Each picture is recorded twice, once to each card.</td><td>1 2</td></tr><tr><td>SEPARATE</td><td>RAW pictures are recorded to the card in the first slot and JPEG or HEIF pictures to the card in the second slot. This setting takes effect only when FINE + RAW or NORMAL + RAW is selected for I.Q. IMAGE QUALITY SETTING > IMAGE QUALITY.</td><td> 2 R RAW+JPEG 1 2 R : RAW+HEIF</td></tr><br><caption id='1' style='font-size:16px'>The camera can be used with two cards, one in each of its two<br>slots. At default settings, photos are saved to the card in the sec-<br>ond slot only when the card in the first slot is full. This can be<br>changed using 8 SAVE DATA SET-UP > CARD SLOT SETTING.</caption></table>\n<p id='5' data-category='paragraph' style='font-size:14px'>The card used to store movies can be selected using □ MOVIE<br>SETTING > MEDIA REC SETTING.</p>\n<footer id='6' style='font-size:18px'>40</footer>",
+        "markdown": "# Using Two Cards\n\nThe camera can be used with two cards, one in each of its two\nslots. At default settings, photos are saved to the card in the sec-\nond slot only when the card in the first slot is full. This can be\nchanged using 8 SAVE DATA SET-UP > CARD SLOT SETTING.\n\n# 2\n\nFirst\nSteps\n\n| Option | Description | Display |\n| --- | --- | --- |\n| SEQUENTIAL (default) | The card in the second slot is used only when the card in thefirstslotisfull. Ifthe second slotis selected for 8 SAVE DATA SET-UP > SELECT SLOT(� SEQUENTIAL), recording will start on the card in the second slot and switch to the first slot when the card in the second slot is full. | 1 |\n| BACKUP | Each picture is recorded twice, once to each card. | 1 2 |\n| SEPARATE | RAW pictures are recorded to the card in the first slot and JPEG or HEIF pictures to the card in the second slot. This setting takes effect only when FINE + RAW or NORMAL + RAW is selected for I.Q. IMAGE QUALITY SETTING > IMAGE QUALITY. |  2 R RAW+JPEG 1 2 R : RAW+HEIF |\n\n\nThe card used to store movies can be selected using □ MOVIE\nSETTING > MEDIA REC SETTING.\n\n40",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='0' style='font-size:20px'>Using Two Cards</h1>",
+                "markdown": "# Using Two Cards",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0826,
+                    "y": 0.0736
+                },
+                {
+                    "x": 0.3093,
+                    "y": 0.0736
+                },
+                {
+                    "x": 0.3093,
+                    "y": 0.096
+                },
+                {
+                    "x": 0.0826,
+                    "y": 0.096
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='1' data-category='paragraph' style='font-size:16px'>The camera can be used with two cards, one in each of its two<br>slots. At default settings, photos are saved to the card in the sec-<br>ond slot only when the card in the first slot is full. This can be<br>changed using 8 SAVE DATA SET-UP > CARD SLOT SETTING.</p>",
+                "markdown": "The camera can be used with two cards, one in each of its two\nslots. At default settings, photos are saved to the card in the sec-\nond slot only when the card in the first slot is full. This can be\nchanged using 8 SAVE DATA SET-UP > CARD SLOT SETTING.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0801,
+                    "y": 0.1045
+                },
+                {
+                    "x": 0.8937,
+                    "y": 0.1045
+                },
+                {
+                    "x": 0.8937,
+                    "y": 0.2062
+                },
+                {
+                    "x": 0.0801,
+                    "y": 0.2062
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='2' style='font-size:14px'>2</h1>",
+                "markdown": "# 2",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0278,
+                    "y": 0.2999
+                },
+                {
+                    "x": 0.0423,
+                    "y": 0.2999
+                },
+                {
+                    "x": 0.0423,
+                    "y": 0.3165
+                },
+                {
+                    "x": 0.0278,
+                    "y": 0.3165
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "header",
+            "content": {
+                "html": "<br><header id='3' style='font-size:22px'>First<br>Steps</header>",
+                "markdown": "First\nSteps",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0163,
+                    "y": 0.3393
+                },
+                {
+                    "x": 0.0426,
+                    "y": 0.3393
+                },
+                {
+                    "x": 0.0426,
+                    "y": 0.4167
+                },
+                {
+                    "x": 0.0163,
+                    "y": 0.4167
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='4' style='font-size:14px'><tr><td>Option</td><td>Description</td><td>Display</td></tr><tr><td>SEQUENTIAL (default)</td><td>The card in the second slot is used only when the card in thefirstslotisfull. Ifthe second slotis selected for 8 SAVE DATA SET-UP > SELECT SLOT(� SEQUENTIAL), recording will start on the card in the second slot and switch to the first slot when the card in the second slot is full.</td><td>1</td></tr><tr><td>BACKUP</td><td>Each picture is recorded twice, once to each card.</td><td>1 2</td></tr><tr><td>SEPARATE</td><td>RAW pictures are recorded to the card in the first slot and JPEG or HEIF pictures to the card in the second slot. This setting takes effect only when FINE + RAW or NORMAL + RAW is selected for I.Q. IMAGE QUALITY SETTING > IMAGE QUALITY.</td><td> 2 R RAW+JPEG 1 2 R : RAW+HEIF</td></tr></table>",
+                "markdown": "| Option | Description | Display |\n| --- | --- | --- |\n| SEQUENTIAL (default) | The card in the second slot is used only when the card in thefirstslotisfull. Ifthe second slotis selected for 8 SAVE DATA SET-UP > SELECT SLOT(� SEQUENTIAL), recording will start on the card in the second slot and switch to the first slot when the card in the second slot is full. | 1 |\n| BACKUP | Each picture is recorded twice, once to each card. | 1 2 |\n| SEPARATE | RAW pictures are recorded to the card in the first slot and JPEG or HEIF pictures to the card in the second slot. This setting takes effect only when FINE + RAW or NORMAL + RAW is selected for I.Q. IMAGE QUALITY SETTING > IMAGE QUALITY. |  2 R RAW+JPEG 1 2 R : RAW+HEIF |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0862,
+                    "y": 0.2194
+                },
+                {
+                    "x": 0.8874,
+                    "y": 0.2194
+                },
+                {
+                    "x": 0.8874,
+                    "y": 0.5854
+                },
+                {
+                    "x": 0.0862,
+                    "y": 0.5854
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='5' data-category='paragraph' style='font-size:14px'>The card used to store movies can be selected using □ MOVIE<br>SETTING > MEDIA REC SETTING.</p>",
+                "markdown": "The card used to store movies can be selected using □ MOVIE\nSETTING > MEDIA REC SETTING.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0816,
+                    "y": 0.5999
+                },
+                {
+                    "x": 0.893,
+                    "y": 0.5999
+                },
+                {
+                    "x": 0.893,
+                    "y": 0.6509
+                },
+                {
+                    "x": 0.0816,
+                    "y": 0.6509
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='6' style='font-size:18px'>40</footer>",
+                "markdown": "40",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0824,
+                    "y": 0.9575
+                },
+                {
+                    "x": 0.1231,
+                    "y": 0.9575
+                },
+                {
+                    "x": 0.1231,
+                    "y": 0.9793
+                },
+                {
+                    "x": 0.0824,
+                    "y": 0.9793
+                }
+            ],
+            "id": 6,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

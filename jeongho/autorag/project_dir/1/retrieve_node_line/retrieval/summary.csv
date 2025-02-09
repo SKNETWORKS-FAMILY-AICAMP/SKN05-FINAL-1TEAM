@@ -1,0 +1,2 @@
+filename,module_name,module_params,execution_time,retrieval_f1,retrieval_recall,retrieval_precision,retrieval_ndcg,retrieval_map,retrieval_mrr
+1.parquet,BM25,{'top_k': 10},0.014478299082541952,0.10946196660482378,0.6020408163265306,0.06020408163265306,0.38803334751338714,0.3203919663103337,0.3203919663103337

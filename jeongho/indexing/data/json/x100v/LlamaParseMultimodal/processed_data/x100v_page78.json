@@ -1,0 +1,13 @@
+{
+    "parsing_result": "# Auto Sensitivity (A)\n\nUse **SHOOTING SETTING > ISO AUTO SETTING** to choose the base sensitivity, maximum sensitivity, and minimum shutter speed for the A position on the sensitivity dial. Settings for AUTO1, AUTO2, and AUTO3 can be stored separately; the defaults are shown below.\n\n| Item               | Options     | AUTO1 | AUTO2 | AUTO3 |\n|--------------------|-------------|-------|-------|-------|\n| DEFAULT SENSITIVITY| 160–12800   | 160   | 160   | 160   |\n| MAX. SENSITIVITY   | 400–12800   | 800   | 1600  | 3200  |\n| MIN. SHUTTER SPEED | 1/500–1/4 SEC | 1/60 SEC | 1/60 SEC | 1/60 SEC |\n\nThe camera automatically chooses a sensitivity between the default and maximum values; sensitivity is only raised above the default value if the shutter speed required for optimal exposure would be slower than the value selected for **MIN. SHUTTER SPEED**.\n\n- If the value selected for **DEFAULT SENSITIVITY** is higher than that selected for **MAX. SENSITIVITY**, **DEFAULT SENSITIVITY** will be set to the value selected for **MAX. SENSITIVITY**.\n- The camera may select shutter speeds slower than **MIN. SHUTTER SPEED** if pictures would still be underexposed at the value selected for **MAX. SENSITIVITY**.",
+    "embedding_result": [],
+    "metadata": {
+        "page": 78,
+        "model": "x100v",
+        "subsection": [
+            "Auto Sensitivity (A)"
+        ],
+        "chapter": "Taking Photographs",
+        "section": "Sensitivity"
+    }
+}

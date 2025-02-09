@@ -1,0 +1,434 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:14px'>MOVIE SETTING (Still Photography)</header>\n<h1 id='1' style='font-size:14px'>WIND FILTER</h1>\n<br><h1 id='2' style='font-size:18px'>Choose whether to enable wind noise reduction during movie<br>recording.</h1>\n<br><table id='3' style='font-size:16px'><tr><td colspan=\"2\">Options</td></tr><tr><td>ON</td><td>OFF</td></tr></table>\n\n<br><p id='5' data-category='paragraph' style='font-size:20px'>Choose whether to enable the low-cut filter, reducing low-fre-<br>quency noise during movie recording.</p>\n<br><table id='6' style='font-size:14px'><tr><td colspan=\"2\">Options</td></tr><tr><td>ON</td><td>OFF</td></tr><caption id='4' style='font-size:16px'>LOW CUT FILTER</caption></table>\n<p id='7' data-category='paragraph' style='font-size:16px'>HEADPHONES VOLUME</p>\n\n<table id='9' style='font-size:14px'><tr><td>Option</td><td>Description</td></tr><tr><td>0</td><td>Mute output to the headphones.</td></tr><tr><td>1-10</td><td>Choose a volume of from 1 to 10.</td></tr><br><caption id='8' style='font-size:20px'>Adjust the headphone volume.</caption></table>\n<p id='10' data-category='paragraph' style='font-size:16px'>MIC/REMOTE RELEASE</p>\n\n<br><table id='12' style='font-size:16px'><tr><td colspan=\"2\">Options</td></tr><tr><td>MIC</td><td>REMOTE</td></tr><br><caption id='11' style='font-size:16px'>Specify whether the device connected to the microphone/re-<br>mote release connector is a microphone or a remote release.</caption></table>\n<br><header id='13' style='font-size:22px'>The<br>Shooting<br>Menus</header>\n<footer id='14' style='font-size:20px'>154</footer>",
+        "markdown": "MOVIE SETTING (Still Photography)\n\n# WIND FILTER\n\n# Choose whether to enable wind noise reduction during movie\nrecording.\n\n| Options | Options |\n| --- | --- |\n| ON | OFF |\n\n\nLOW CUT FILTER\n\nChoose whether to enable the low-cut filter, reducing low-fre-\nquency noise during movie recording.\n\n| Options | Options |\n| --- | --- |\n| ON | OFF |\n\n\nHEADPHONES VOLUME\n\nAdjust the headphone volume.\n\n| Option | Description |\n| --- | --- |\n| 0 | Mute output to the headphones. |\n| 1-10 | Choose a volume of from 1 to 10. |\n\n\nMIC/REMOTE RELEASE\n\nSpecify whether the device connected to the microphone/re-\nmote release connector is a microphone or a remote release.\n\n| Options | Options |\n| --- | --- |\n| MIC | REMOTE |\n\n\nThe\nShooting\nMenus\n\n154",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:14px'>MOVIE SETTING (Still Photography)</header>",
+                "markdown": "MOVIE SETTING (Still Photography)",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.5509,
+                    "y": 0.0274
+                },
+                {
+                    "x": 0.8925,
+                    "y": 0.0274
+                },
+                {
+                    "x": 0.8925,
+                    "y": 0.0521
+                },
+                {
+                    "x": 0.5509,
+                    "y": 0.0521
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='1' style='font-size:14px'>WIND FILTER</h1>",
+                "markdown": "# WIND FILTER",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0937,
+                    "y": 0.0742
+                },
+                {
+                    "x": 0.2607,
+                    "y": 0.0742
+                },
+                {
+                    "x": 0.2607,
+                    "y": 0.0965
+                },
+                {
+                    "x": 0.0937,
+                    "y": 0.0965
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='2' style='font-size:18px'>Choose whether to enable wind noise reduction during movie<br>recording.</h1>",
+                "markdown": "# Choose whether to enable wind noise reduction during movie\nrecording.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0817,
+                    "y": 0.1041
+                },
+                {
+                    "x": 0.8932,
+                    "y": 0.1041
+                },
+                {
+                    "x": 0.8932,
+                    "y": 0.1546
+                },
+                {
+                    "x": 0.0817,
+                    "y": 0.1546
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='3' style='font-size:16px'><tr><td colspan=\"2\">Options</td></tr><tr><td>ON</td><td>OFF</td></tr></table>",
+                "markdown": "| Options | Options |\n| --- | --- |\n| ON | OFF |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0827,
+                    "y": 0.1669
+                },
+                {
+                    "x": 0.8916,
+                    "y": 0.1669
+                },
+                {
+                    "x": 0.8916,
+                    "y": 0.2182
+                },
+                {
+                    "x": 0.0827,
+                    "y": 0.2182
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='4' data-category='paragraph' style='font-size:16px'>LOW CUT FILTER</p>",
+                "markdown": "LOW CUT FILTER",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0963,
+                    "y": 0.236
+                },
+                {
+                    "x": 0.3006,
+                    "y": 0.236
+                },
+                {
+                    "x": 0.3006,
+                    "y": 0.2586
+                },
+                {
+                    "x": 0.0963,
+                    "y": 0.2586
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='5' data-category='paragraph' style='font-size:20px'>Choose whether to enable the low-cut filter, reducing low-fre-<br>quency noise during movie recording.</p>",
+                "markdown": "Choose whether to enable the low-cut filter, reducing low-fre-\nquency noise during movie recording.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0818,
+                    "y": 0.2661
+                },
+                {
+                    "x": 0.8892,
+                    "y": 0.2661
+                },
+                {
+                    "x": 0.8892,
+                    "y": 0.3177
+                },
+                {
+                    "x": 0.0818,
+                    "y": 0.3177
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='6' style='font-size:14px'><tr><td colspan=\"2\">Options</td></tr><tr><td>ON</td><td>OFF</td></tr></table>",
+                "markdown": "| Options | Options |\n| --- | --- |\n| ON | OFF |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0806,
+                    "y": 0.3286
+                },
+                {
+                    "x": 0.8919,
+                    "y": 0.3286
+                },
+                {
+                    "x": 0.8919,
+                    "y": 0.3804
+                },
+                {
+                    "x": 0.0806,
+                    "y": 0.3804
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='7' data-category='paragraph' style='font-size:16px'>HEADPHONES VOLUME</p>",
+                "markdown": "HEADPHONES VOLUME",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.091,
+                    "y": 0.3963
+                },
+                {
+                    "x": 0.3846,
+                    "y": 0.3963
+                },
+                {
+                    "x": 0.3846,
+                    "y": 0.422
+                },
+                {
+                    "x": 0.091,
+                    "y": 0.422
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='8' data-category='paragraph' style='font-size:20px'>Adjust the headphone volume.</p>",
+                "markdown": "Adjust the headphone volume.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0808,
+                    "y": 0.4277
+                },
+                {
+                    "x": 0.4781,
+                    "y": 0.4277
+                },
+                {
+                    "x": 0.4781,
+                    "y": 0.4529
+                },
+                {
+                    "x": 0.0808,
+                    "y": 0.4529
+                }
+            ],
+            "id": 8,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='9' style='font-size:14px'><tr><td>Option</td><td>Description</td></tr><tr><td>0</td><td>Mute output to the headphones.</td></tr><tr><td>1-10</td><td>Choose a volume of from 1 to 10.</td></tr></table>",
+                "markdown": "| Option | Description |\n| --- | --- |\n| 0 | Mute output to the headphones. |\n| 1-10 | Choose a volume of from 1 to 10. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0831,
+                    "y": 0.4647
+                },
+                {
+                    "x": 0.8906,
+                    "y": 0.4647
+                },
+                {
+                    "x": 0.8906,
+                    "y": 0.5399
+                },
+                {
+                    "x": 0.0831,
+                    "y": 0.5399
+                }
+            ],
+            "id": 9,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='10' data-category='paragraph' style='font-size:16px'>MIC/REMOTE RELEASE</p>",
+                "markdown": "MIC/REMOTE RELEASE",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0822,
+                    "y": 0.5578
+                },
+                {
+                    "x": 0.3886,
+                    "y": 0.5578
+                },
+                {
+                    "x": 0.3886,
+                    "y": 0.5786
+                },
+                {
+                    "x": 0.0822,
+                    "y": 0.5786
+                }
+            ],
+            "id": 10,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='11' data-category='paragraph' style='font-size:16px'>Specify whether the device connected to the microphone/re-<br>mote release connector is a microphone or a remote release.</p>",
+                "markdown": "Specify whether the device connected to the microphone/re-\nmote release connector is a microphone or a remote release.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0812,
+                    "y": 0.5878
+                },
+                {
+                    "x": 0.8915,
+                    "y": 0.5878
+                },
+                {
+                    "x": 0.8915,
+                    "y": 0.6388
+                },
+                {
+                    "x": 0.0812,
+                    "y": 0.6388
+                }
+            ],
+            "id": 11,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='12' style='font-size:16px'><tr><td colspan=\"2\">Options</td></tr><tr><td>MIC</td><td>REMOTE</td></tr></table>",
+                "markdown": "| Options | Options |\n| --- | --- |\n| MIC | REMOTE |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1411,
+                    "y": 0.6497
+                },
+                {
+                    "x": 0.8887,
+                    "y": 0.6497
+                },
+                {
+                    "x": 0.8887,
+                    "y": 0.7028
+                },
+                {
+                    "x": 0.1411,
+                    "y": 0.7028
+                }
+            ],
+            "id": 12,
+            "page": 1
+        },
+        {
+            "category": "header",
+            "content": {
+                "html": "<br><header id='13' style='font-size:22px'>The<br>Shooting<br>Menus</header>",
+                "markdown": "The\nShooting\nMenus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0163,
+                    "y": 0.577
+                },
+                {
+                    "x": 0.042,
+                    "y": 0.577
+                },
+                {
+                    "x": 0.042,
+                    "y": 0.7317
+                },
+                {
+                    "x": 0.0163,
+                    "y": 0.7317
+                }
+            ],
+            "id": 13,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='14' style='font-size:20px'>154</footer>",
+                "markdown": "154",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0849,
+                    "y": 0.9566
+                },
+                {
+                    "x": 0.1402,
+                    "y": 0.9566
+                },
+                {
+                    "x": 0.1402,
+                    "y": 0.9794
+                },
+                {
+                    "x": 0.0849,
+                    "y": 0.9794
+                }
+            ],
+            "id": 14,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

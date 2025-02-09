@@ -1,0 +1,378 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<h1 id='0' style='font-size:18px'>The Viewfinder Window</h1>\n<br><p id='1' data-category='paragraph' style='font-size:20px'>Use the viewfinder selector to switch<br>between the electronic viewfinder (EVF)<br>and the optical viewfinder (OVF). In addi-<br>tion, a small electronic rangefinder (ERF)<br>window can be displayed in the OVF.</p>\n<br><header id='2' style='font-size:16px'>1</header>\n<br><p id='3' data-category='paragraph' style='font-size:18px'>Switching Between the EVF and OVF</p>\n<br><p id='4' data-category='paragraph' style='font-size:20px'>To switch between the EVF and OVF, pull<br>the viewfinder selector as shown.</p>\n<br><header id='5' style='font-size:22px'>Before<br>You<br>Begin</header>\n<br><figure id='6'><img alt=\"\" data-coord=\"top-left:(1718,1180); bottom-right:(2482,1728)\" /></figure>\n\n<br><figure id='8' data-category='chart'><img style='font-size:14px' alt=\"9999 L N \n⌀10000000000 ��� \n0.1 0.5 1 .0 1.5 3.0 5.0 10 ○○ \nAF-S \nM⌀ ⌀ 1000 5.6 ⌀+1.0 ISO 12800 · \n\" data-coord=\"top-left:(446,1854); bottom-right:(1205,2440)\" /><br><figcaption id='7' style='font-size:16px'>EVF</figcaption></figure>\n\n<figure id='10' data-category='chart'><img style='font-size:14px' alt=\"9999 L N ⌀1000 \n⌀1000000000⌀ \n��� \nAF-S 0.1 0.5 1.0 1.5 2.0 3.0 5.0 10 8m \nM [⌀] ⌀s 1000 - 5.6 ⌀+1.0 ISO 12800 \n\" data-coord=\"top-left:(1484,1853); bottom-right:(2239,2424)\" /><br><figcaption id='9' style='font-size:16px'>OVF</figcaption></figure>\n<p id='11' data-category='paragraph' style='font-size:18px'>The camera automatically switches from the OVF to the EVF during<br>movie recording.</p>\n<footer id='12' style='font-size:20px'>4</footer>",
+        "markdown": "# The Viewfinder Window\n\nUse the viewfinder selector to switch\nbetween the electronic viewfinder (EVF)\nand the optical viewfinder (OVF). In addi-\ntion, a small electronic rangefinder (ERF)\nwindow can be displayed in the OVF.\n\n1\n\nSwitching Between the EVF and OVF\n\nTo switch between the EVF and OVF, pull\nthe viewfinder selector as shown.\n\nBefore\nYou\nBegin\n\n![image](/image/placeholder)\n\n\nEVF\n\n![image](/image/placeholder)\n9999 L N \n⌀10000000000 ��� \n0.1 0.5 1 .0 1.5 3.0 5.0 10 ○○ \nAF-S \nM⌀ ⌀ 1000 5.6 ⌀+1.0 ISO 12800 · \n\n\nOVF\n\n![image](/image/placeholder)\n9999 L N ⌀1000 \n⌀1000000000⌀ \n��� \nAF-S 0.1 0.5 1.0 1.5 2.0 3.0 5.0 10 8m \nM [⌀] ⌀s 1000 - 5.6 ⌀+1.0 ISO 12800 \n\n\nThe camera automatically switches from the OVF to the EVF during\nmovie recording.\n\n4",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='0' style='font-size:18px'>The Viewfinder Window</h1>",
+                "markdown": "# The Viewfinder Window",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0831,
+                    "y": 0.0733
+                },
+                {
+                    "x": 0.4063,
+                    "y": 0.0733
+                },
+                {
+                    "x": 0.4063,
+                    "y": 0.0954
+                },
+                {
+                    "x": 0.0831,
+                    "y": 0.0954
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='1' data-category='paragraph' style='font-size:20px'>Use the viewfinder selector to switch<br>between the electronic viewfinder (EVF)<br>and the optical viewfinder (OVF). In addi-<br>tion, a small electronic rangefinder (ERF)<br>window can be displayed in the OVF.</p>",
+                "markdown": "Use the viewfinder selector to switch\nbetween the electronic viewfinder (EVF)\nand the optical viewfinder (OVF). In addi-\ntion, a small electronic rangefinder (ERF)\nwindow can be displayed in the OVF.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0812,
+                    "y": 0.1047
+                },
+                {
+                    "x": 0.6082,
+                    "y": 0.1047
+                },
+                {
+                    "x": 0.6082,
+                    "y": 0.2322
+                },
+                {
+                    "x": 0.0812,
+                    "y": 0.2322
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "header",
+            "content": {
+                "html": "<br><header id='2' style='font-size:16px'>1</header>",
+                "markdown": "1",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0258,
+                    "y": 0.2379
+                },
+                {
+                    "x": 0.0429,
+                    "y": 0.2379
+                },
+                {
+                    "x": 0.0429,
+                    "y": 0.2592
+                },
+                {
+                    "x": 0.0258,
+                    "y": 0.2592
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='3' data-category='paragraph' style='font-size:18px'>Switching Between the EVF and OVF</p>",
+                "markdown": "Switching Between the EVF and OVF",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.117,
+                    "y": 0.268
+                },
+                {
+                    "x": 0.5694,
+                    "y": 0.268
+                },
+                {
+                    "x": 0.5694,
+                    "y": 0.2919
+                },
+                {
+                    "x": 0.117,
+                    "y": 0.2919
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='4' data-category='paragraph' style='font-size:20px'>To switch between the EVF and OVF, pull<br>the viewfinder selector as shown.</p>",
+                "markdown": "To switch between the EVF and OVF, pull\nthe viewfinder selector as shown.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0808,
+                    "y": 0.3022
+                },
+                {
+                    "x": 0.6004,
+                    "y": 0.3022
+                },
+                {
+                    "x": 0.6004,
+                    "y": 0.3505
+                },
+                {
+                    "x": 0.0808,
+                    "y": 0.3505
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "header",
+            "content": {
+                "html": "<br><header id='5' style='font-size:22px'>Before<br>You<br>Begin</header>",
+                "markdown": "Before\nYou\nBegin",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0171,
+                    "y": 0.2762
+                },
+                {
+                    "x": 0.0428,
+                    "y": 0.2762
+                },
+                {
+                    "x": 0.0428,
+                    "y": 0.4042
+                },
+                {
+                    "x": 0.0171,
+                    "y": 0.4042
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "figure",
+            "content": {
+                "html": "<br><figure id='6'><img alt=\"\" data-coord=\"top-left:(1718,1180); bottom-right:(2482,1728)\" /></figure>",
+                "markdown": "![image](/image/placeholder)\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6216,
+                    "y": 0.3029
+                },
+                {
+                    "x": 0.8981,
+                    "y": 0.3029
+                },
+                {
+                    "x": 0.8981,
+                    "y": 0.4434
+                },
+                {
+                    "x": 0.6216,
+                    "y": 0.4434
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='7' data-category='paragraph' style='font-size:16px'>EVF</p>",
+                "markdown": "EVF",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.2764,
+                    "y": 0.4547
+                },
+                {
+                    "x": 0.3224,
+                    "y": 0.4547
+                },
+                {
+                    "x": 0.3224,
+                    "y": 0.4737
+                },
+                {
+                    "x": 0.2764,
+                    "y": 0.4737
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "figure",
+            "content": {
+                "html": "<br><figure id='8' data-category='chart'><img style='font-size:14px' alt=\"9999 L N \n⌀10000000000 ��� \n0.1 0.5 1 .0 1.5 3.0 5.0 10 ○○ \nAF-S \nM⌀ ⌀ 1000 5.6 ⌀+1.0 ISO 12800 · \n\" data-coord=\"top-left:(446,1854); bottom-right:(1205,2440)\" /></figure>",
+                "markdown": "![image](/image/placeholder)\n9999 L N \n⌀10000000000 ��� \n0.1 0.5 1 .0 1.5 3.0 5.0 10 ○○ \nAF-S \nM⌀ ⌀ 1000 5.6 ⌀+1.0 ISO 12800 · \n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1614,
+                    "y": 0.4759
+                },
+                {
+                    "x": 0.4361,
+                    "y": 0.4759
+                },
+                {
+                    "x": 0.4361,
+                    "y": 0.626
+                },
+                {
+                    "x": 0.1614,
+                    "y": 0.626
+                }
+            ],
+            "id": 8,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='9' data-category='paragraph' style='font-size:16px'>OVF</p>",
+                "markdown": "OVF",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6496,
+                    "y": 0.4547
+                },
+                {
+                    "x": 0.7014,
+                    "y": 0.4547
+                },
+                {
+                    "x": 0.7014,
+                    "y": 0.4739
+                },
+                {
+                    "x": 0.6496,
+                    "y": 0.4739
+                }
+            ],
+            "id": 9,
+            "page": 1
+        },
+        {
+            "category": "figure",
+            "content": {
+                "html": "<figure id='10' data-category='chart'><img style='font-size:14px' alt=\"9999 L N ⌀1000 \n⌀1000000000⌀ \n��� \nAF-S 0.1 0.5 1.0 1.5 2.0 3.0 5.0 10 8m \nM [⌀] ⌀s 1000 - 5.6 ⌀+1.0 ISO 12800 \n\" data-coord=\"top-left:(1484,1853); bottom-right:(2239,2424)\" /></figure>",
+                "markdown": "![image](/image/placeholder)\n9999 L N ⌀1000 \n⌀1000000000⌀ \n��� \nAF-S 0.1 0.5 1.0 1.5 2.0 3.0 5.0 10 8m \nM [⌀] ⌀s 1000 - 5.6 ⌀+1.0 ISO 12800 \n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.537,
+                    "y": 0.4755
+                },
+                {
+                    "x": 0.8101,
+                    "y": 0.4755
+                },
+                {
+                    "x": 0.8101,
+                    "y": 0.622
+                },
+                {
+                    "x": 0.537,
+                    "y": 0.622
+                }
+            ],
+            "id": 10,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='11' data-category='paragraph' style='font-size:18px'>The camera automatically switches from the OVF to the EVF during<br>movie recording.</p>",
+                "markdown": "The camera automatically switches from the OVF to the EVF during\nmovie recording.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1123,
+                    "y": 0.6436
+                },
+                {
+                    "x": 0.889,
+                    "y": 0.6436
+                },
+                {
+                    "x": 0.889,
+                    "y": 0.6881
+                },
+                {
+                    "x": 0.1123,
+                    "y": 0.6881
+                }
+            ],
+            "id": 11,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='12' style='font-size:20px'>4</footer>",
+                "markdown": "4",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0814,
+                    "y": 0.958
+                },
+                {
+                    "x": 0.1063,
+                    "y": 0.958
+                },
+                {
+                    "x": 0.1063,
+                    "y": 0.9774
+                },
+                {
+                    "x": 0.0814,
+                    "y": 0.9774
+                }
+            ],
+            "id": 12,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

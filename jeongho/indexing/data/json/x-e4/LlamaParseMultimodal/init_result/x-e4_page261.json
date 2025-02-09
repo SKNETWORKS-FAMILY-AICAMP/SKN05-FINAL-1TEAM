@@ -1,0 +1,124 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "# CONNECTION SETTING\n\nAdjust settings for connection to other devices.\n\nTo access connection settings, press **MENU/OK**, select the !SET UP tab, and choose **CONNECTION SETTING**.\n\n> For more information on wireless connections, visit:  \n> http://fujifilm-dsc.com/wifi/\n\n## Bluetooth SETTINGS\n\nAdjust Bluetooth settings.\n\n| Option                  | Description                                                                                                                                  |\n|-------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|\n| **PAIRING REGISTRATION**| Pair the camera with a smartphone running the FUJIFILM Camera Remote app.                                                                    |\n| **SELECT PAIRING DESTINATION** | Choose a connection from a list of devices with which the camera has been paired using PAIRING REGISTRATION. Select NO CONNECTION to exit without connecting. |\n| **DELETE PAIRING REG.** | Delete pairing information for selected devices. Choose the device in the device list. The selected device will also be removed from the devices listed in SELECT PAIRING DESTINATION. |\n| **Bluetooth ON/OFF**    | • **ON**: The camera automatically establishes a Bluetooth connection with paired devices when turned on.  \n                           • **OFF**: The camera does not connect via Bluetooth. |\n| **AUTO IMAGE TRANSFER** | • **ON**: Mark photos for upload as they are taken. Mark JPEG photos for upload as they are taken.  \n                           • **OFF**: Photos are not marked for upload as they are taken. |\n| **SMARTPHONE SYNC. SETTING** | Choose whether to synchronize the camera to the time and/or location provided by a paired smartphone.  \n                           • **LOCATION&TIME**: Synchronize the time and location.  \n                           • **LOCATION**: Synchronize the location.  \n                           • **TIME**: Synchronize the time.  \n                           • **OFF**: Synchronization off. |",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "CONNECTION SETTING",
+                    "md": "# CONNECTION SETTING"
+                },
+                {
+                    "type": "text",
+                    "value": "Adjust settings for connection to other devices.\n\nTo access connection settings, press **MENU/OK**, select the !SET UP tab, and choose **CONNECTION SETTING**.\n\n> For more information on wireless connections, visit:  \n> http://fujifilm-dsc.com/wifi/",
+                    "md": "Adjust settings for connection to other devices.\n\nTo access connection settings, press **MENU/OK**, select the !SET UP tab, and choose **CONNECTION SETTING**.\n\n> For more information on wireless connections, visit:  \n> http://fujifilm-dsc.com/wifi/"
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "Bluetooth SETTINGS",
+                    "md": "## Bluetooth SETTINGS"
+                },
+                {
+                    "type": "text",
+                    "value": "Adjust Bluetooth settings.",
+                    "md": "Adjust Bluetooth settings."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Option",
+                            "Description"
+                        ],
+                        [
+                            "**PAIRING REGISTRATION**",
+                            "Pair the camera with a smartphone running the FUJIFILM Camera Remote app."
+                        ],
+                        [
+                            "**SELECT PAIRING DESTINATION**",
+                            "Choose a connection from a list of devices with which the camera has been paired using PAIRING REGISTRATION. Select NO CONNECTION to exit without connecting."
+                        ],
+                        [
+                            "**DELETE PAIRING REG.**",
+                            "Delete pairing information for selected devices. Choose the device in the device list. The selected device will also be removed from the devices listed in SELECT PAIRING DESTINATION."
+                        ],
+                        [
+                            "**Bluetooth ON/OFF**"
+                        ]
+                    ],
+                    "md": "| Option                  | Description                                                                                                                                  |\n|-------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|\n| **PAIRING REGISTRATION**| Pair the camera with a smartphone running the FUJIFILM Camera Remote app.                                                                    |\n| **SELECT PAIRING DESTINATION** | Choose a connection from a list of devices with which the camera has been paired using PAIRING REGISTRATION. Select NO CONNECTION to exit without connecting. |\n| **DELETE PAIRING REG.** | Delete pairing information for selected devices. Choose the device in the device list. The selected device will also be removed from the devices listed in SELECT PAIRING DESTINATION. |\n| **Bluetooth ON/OFF**    | • **ON**: The camera automatically establishes a Bluetooth connection with paired devices when turned on.",
+                    "isPerfectTable": false,
+                    "csv": "\"Option\",\"Description\"\n\"**PAIRING REGISTRATION**\",\"Pair the camera with a smartphone running the FUJIFILM Camera Remote app.\"\n\"**SELECT PAIRING DESTINATION**\",\"Choose a connection from a list of devices with which the camera has been paired using PAIRING REGISTRATION. Select NO CONNECTION to exit without connecting.\"\n\"**DELETE PAIRING REG.**\",\"Delete pairing information for selected devices. Choose the device in the device list. The selected device will also be removed from the devices listed in SELECT PAIRING DESTINATION.\"\n\"**Bluetooth ON/OFF**\""
+                },
+                {
+                    "type": "text",
+                    "value": "• **OFF**: The camera does not connect via Bluetooth. |",
+                    "md": "• **OFF**: The camera does not connect via Bluetooth. |"
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "**AUTO IMAGE TRANSFER**"
+                        ]
+                    ],
+                    "md": "| **AUTO IMAGE TRANSFER** | • **ON**: Mark photos for upload as they are taken. Mark JPEG photos for upload as they are taken.",
+                    "isPerfectTable": true,
+                    "csv": "\"**AUTO IMAGE TRANSFER**\""
+                },
+                {
+                    "type": "text",
+                    "value": "• **OFF**: Photos are not marked for upload as they are taken. |",
+                    "md": "• **OFF**: Photos are not marked for upload as they are taken. |"
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "**SMARTPHONE SYNC. SETTING**"
+                        ]
+                    ],
+                    "md": "| **SMARTPHONE SYNC. SETTING** | Choose whether to synchronize the camera to the time and/or location provided by a paired smartphone.",
+                    "isPerfectTable": true,
+                    "csv": "\"**SMARTPHONE SYNC. SETTING**\""
+                },
+                {
+                    "type": "text",
+                    "value": "• **LOCATION&TIME**: Synchronize the time and location.  \n                           • **LOCATION**: Synchronize the location.  \n                           • **TIME**: Synchronize the time.  \n                           • **OFF**: Synchronization off. |",
+                    "md": "• **LOCATION&TIME**: Synchronize the time and location.  \n                           • **LOCATION**: Synchronize the location.  \n                           • **TIME**: Synchronize the time.  \n                           • **OFF**: Synchronization off. |"
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "parsingMode": "multimodal-openai-gpt4o",
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 315.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "30aa337e-7376-490d-a766-34659494e8cb",
+    "file_path": "../data/raw_data/x-e4/x-e4_split/x-e4_page261.pdf"
+}

@@ -1,0 +1,84 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "# Charging the Battery\n\n## Charge Status\n\nThe indicator lamp shows battery charge status as follows:\n\n| Indicator lamp | Battery status       |\n|----------------|----------------------|\n| On             | Battery charging.    |\n| Off            | Charging complete.   |\n| Blinks         | Charging error.      |\n\n!Battery Indicator\n\n- Do not affix labels or other objects to the battery. Failure to observe this precaution could make it impossible to remove the battery from the camera.\n- Do not short the battery terminals. The battery could overheat.\n- Read the cautions in “The Battery and Power Supply”.\n- Use only genuine Fujifilm rechargeable batteries designated for use in this camera. Failure to observe this precaution could result in product malfunction.\n- Do not remove the labels from the battery or attempt to split or peel the outer casing.\n- The battery gradually loses its charge when not in use. Charge the battery one or two days before use.\n- If the battery fails to hold a charge, it has reached the end of its charging life and must be replaced.\n- Remove dirt from the battery terminals with a clean, dry cloth. Failure to observe this precaution could prevent the battery from charging.\n- Note that charging times increase at low or high temperatures.\n\n> 💡 **Note:**\n> - If the camera is turned on during charging, charging will end and the USB connection will instead be used to power the camera. The battery level will begin to gradually decline.\n> - The camera will display a “power supply” icon when powered via USB.",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "Charging the Battery",
+                    "md": "# Charging the Battery"
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "Charge Status",
+                    "md": "## Charge Status"
+                },
+                {
+                    "type": "text",
+                    "value": "The indicator lamp shows battery charge status as follows:",
+                    "md": "The indicator lamp shows battery charge status as follows:"
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Indicator lamp",
+                            "Battery status"
+                        ],
+                        [
+                            "On",
+                            "Battery charging."
+                        ],
+                        [
+                            "Off",
+                            "Charging complete."
+                        ],
+                        [
+                            "Blinks",
+                            "Charging error."
+                        ]
+                    ],
+                    "md": "| Indicator lamp | Battery status       |\n|----------------|----------------------|\n| On             | Battery charging.    |\n| Off            | Charging complete.   |\n| Blinks         | Charging error.      |",
+                    "isPerfectTable": true,
+                    "csv": "\"Indicator lamp\",\"Battery status\"\n\"On\",\"Battery charging.\"\n\"Off\",\"Charging complete.\"\n\"Blinks\",\"Charging error.\""
+                },
+                {
+                    "type": "text",
+                    "value": "!Battery Indicator\n\n- Do not affix labels or other objects to the battery. Failure to observe this precaution could make it impossible to remove the battery from the camera.\n- Do not short the battery terminals. The battery could overheat.\n- Read the cautions in “The Battery and Power Supply”.\n- Use only genuine Fujifilm rechargeable batteries designated for use in this camera. Failure to observe this precaution could result in product malfunction.\n- Do not remove the labels from the battery or attempt to split or peel the outer casing.\n- The battery gradually loses its charge when not in use. Charge the battery one or two days before use.\n- If the battery fails to hold a charge, it has reached the end of its charging life and must be replaced.\n- Remove dirt from the battery terminals with a clean, dry cloth. Failure to observe this precaution could prevent the battery from charging.\n- Note that charging times increase at low or high temperatures.\n\n> 💡 **Note:**\n> - If the camera is turned on during charging, charging will end and the USB connection will instead be used to power the camera. The battery level will begin to gradually decline.\n> - The camera will display a “power supply” icon when powered via USB.",
+                    "md": "!Battery Indicator\n\n- Do not affix labels or other objects to the battery. Failure to observe this precaution could make it impossible to remove the battery from the camera.\n- Do not short the battery terminals. The battery could overheat.\n- Read the cautions in “The Battery and Power Supply”.\n- Use only genuine Fujifilm rechargeable batteries designated for use in this camera. Failure to observe this precaution could result in product malfunction.\n- Do not remove the labels from the battery or attempt to split or peel the outer casing.\n- The battery gradually loses its charge when not in use. Charge the battery one or two days before use.\n- If the battery fails to hold a charge, it has reached the end of its charging life and must be replaced.\n- Remove dirt from the battery terminals with a clean, dry cloth. Failure to observe this precaution could prevent the battery from charging.\n- Note that charging times increase at low or high temperatures.\n\n> 💡 **Note:**\n> - If the camera is turned on during charging, charging will end and the USB connection will instead be used to power the camera. The battery level will begin to gradually decline.\n> - The camera will display a “power supply” icon when powered via USB."
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "parsingMode": "multimodal-openai-gpt4o",
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 272.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "718cfb26-403f-4eeb-8f98-a831d99dbf61",
+    "file_path": "../data/raw_data/x-e4/x-e4_split/x-e4_page58.pdf"
+}

@@ -1,0 +1,210 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:14px'>SHOOTING SETTING</header>\n<h1 id='1' style='font-size:18px'>INTERVAL TIMER SHOOTING EXPOSURE SMOOTHING</h1>\n<br><h1 id='2' style='font-size:20px'>Select ON to automatically adjust exposure during interval-timer<br>photography to prevent it changing dramatically between shots.</h1>\n<br><table id='3' style='font-size:14px'><tr><td colspan=\"2\">Options</td></tr><tr><td>ON</td><td>OFF</td></tr></table>\n<p id='4' data-category='list' style='font-size:16px'>Large changes in subject brightness may make exposure appear er-<br>ratic. We recommend that you choose shorter values for INTERVAL<br>TIMER SHOOTING > INTERVAL with subjects that brighten or dim<br>dramatically during shooting.<br>In manual mode (mode M), exposure smoothing is only available if an<br>A (auto) option is selected for sensitivity.</p>\n<footer id='5' style='font-size:20px'>141</footer>\n<br><footer id='6' style='font-size:22px'>6<br>The<br>Shooting<br>Menus</footer>",
+        "markdown": "SHOOTING SETTING\n\n# INTERVAL TIMER SHOOTING EXPOSURE SMOOTHING\n\n# Select ON to automatically adjust exposure during interval-timer\nphotography to prevent it changing dramatically between shots.\n\n| Options | Options |\n| --- | --- |\n| ON | OFF |\n\n\n- Large changes in subject brightness may make exposure appear er-\n- ratic. We recommend that you choose shorter values for INTERVAL\n- TIMER SHOOTING > INTERVAL with subjects that brighten or dim\n- dramatically during shooting.\n- In manual mode (mode M), exposure smoothing is only available if an\n- A (auto) option is selected for sensitivity.\n\n\n141\n\n6\nThe\nShooting\nMenus",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:14px'>SHOOTING SETTING</header>",
+                "markdown": "SHOOTING SETTING",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.718,
+                    "y": 0.0287
+                },
+                {
+                    "x": 0.9178,
+                    "y": 0.0287
+                },
+                {
+                    "x": 0.9178,
+                    "y": 0.0489
+                },
+                {
+                    "x": 0.718,
+                    "y": 0.0489
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='1' style='font-size:18px'>INTERVAL TIMER SHOOTING EXPOSURE SMOOTHING</h1>",
+                "markdown": "# INTERVAL TIMER SHOOTING EXPOSURE SMOOTHING",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1085,
+                    "y": 0.0733
+                },
+                {
+                    "x": 0.8187,
+                    "y": 0.0733
+                },
+                {
+                    "x": 0.8187,
+                    "y": 0.095
+                },
+                {
+                    "x": 0.1085,
+                    "y": 0.095
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='2' style='font-size:20px'>Select ON to automatically adjust exposure during interval-timer<br>photography to prevent it changing dramatically between shots.</h1>",
+                "markdown": "# Select ON to automatically adjust exposure during interval-timer\nphotography to prevent it changing dramatically between shots.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1059,
+                    "y": 0.1046
+                },
+                {
+                    "x": 0.919,
+                    "y": 0.1046
+                },
+                {
+                    "x": 0.919,
+                    "y": 0.1557
+                },
+                {
+                    "x": 0.1059,
+                    "y": 0.1557
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='3' style='font-size:14px'><tr><td colspan=\"2\">Options</td></tr><tr><td>ON</td><td>OFF</td></tr></table>",
+                "markdown": "| Options | Options |\n| --- | --- |\n| ON | OFF |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1099,
+                    "y": 0.1679
+                },
+                {
+                    "x": 0.9171,
+                    "y": 0.1679
+                },
+                {
+                    "x": 0.9171,
+                    "y": 0.2189
+                },
+                {
+                    "x": 0.1099,
+                    "y": 0.2189
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "list",
+            "content": {
+                "html": "<p id='4' data-category='list' style='font-size:16px'>Large changes in subject brightness may make exposure appear er-<br>ratic. We recommend that you choose shorter values for INTERVAL<br>TIMER SHOOTING > INTERVAL with subjects that brighten or dim<br>dramatically during shooting.<br>In manual mode (mode M), exposure smoothing is only available if an<br>A (auto) option is selected for sensitivity.</p>",
+                "markdown": "- Large changes in subject brightness may make exposure appear er-\n- ratic. We recommend that you choose shorter values for INTERVAL\n- TIMER SHOOTING > INTERVAL with subjects that brighten or dim\n- dramatically during shooting.\n- In manual mode (mode M), exposure smoothing is only available if an\n- A (auto) option is selected for sensitivity.\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1258,
+                    "y": 0.2369
+                },
+                {
+                    "x": 0.916,
+                    "y": 0.2369
+                },
+                {
+                    "x": 0.916,
+                    "y": 0.3737
+                },
+                {
+                    "x": 0.1258,
+                    "y": 0.3737
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='5' style='font-size:20px'>141</footer>",
+                "markdown": "141",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.8631,
+                    "y": 0.957
+                },
+                {
+                    "x": 0.9147,
+                    "y": 0.957
+                },
+                {
+                    "x": 0.9147,
+                    "y": 0.9784
+                },
+                {
+                    "x": 0.8631,
+                    "y": 0.9784
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<br><footer id='6' style='font-size:22px'>6<br>The<br>Shooting<br>Menus</footer>",
+                "markdown": "6\nThe\nShooting\nMenus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9562,
+                    "y": 0.5433
+                },
+                {
+                    "x": 0.9828,
+                    "y": 0.5433
+                },
+                {
+                    "x": 0.9828,
+                    "y": 0.7315
+                },
+                {
+                    "x": 0.9562,
+                    "y": 0.7315
+                }
+            ],
+            "id": 6,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

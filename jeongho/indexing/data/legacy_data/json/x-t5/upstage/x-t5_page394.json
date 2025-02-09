@@ -1,0 +1,238 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:22px'>Technical<br>Notes</header>\n<br><h1 id='1' style='font-size:20px'>Memory Card Capacity</h1>\n\n<table id='3' style='font-size:14px'><tr><td colspan=\"2\">Capacity</td><td colspan=\"2\">SD memory cards 64 GB</td></tr><tr><td colspan=\"2\">主主</td><td>FINE</td><td>NORMAL</td></tr><tr><td rowspan=\"4\">Photos</td><td>L 3:2</td><td>2660</td><td>3980</td></tr><tr><td>RAW (UNCOMPRESSED)</td><td colspan=\"2\">730</td></tr><tr><td>RAW (LOSSLESS COMPRESSED)</td><td colspan=\"2\">1380</td></tr><tr><td>RAW (COMPRESSED)</td><td colspan=\"2\">1950</td></tr><tr><td rowspan=\"2\">Movies *</td><td>4K 2160</td><td colspan=\"2\">79 minutes</td></tr><tr><td>:FHD: 1080</td><td colspan=\"2\">79 minutes</td></tr><br><caption id='2' style='font-size:18px'>The following table shows the recording time or number<br>of pictures available at different image sizes. All figures are<br>approximate; file size varies with the scene recorded, pro-<br>ducing wide variations in the number of files that can be<br>stored. The number of exposures or length remaining may<br>not diminish at an even rate.</caption></table>\n<br><p id='4' data-category='paragraph' style='font-size:14px'>* Assumes default bit rate.</p>\n<p id='5' data-category='list' style='font-size:16px'>● The types of memory cards suitable for movie recording vary with the<br>settings selected (目目 68).<br>● Shots over an hour in length may be recorded across multiple files<br>without interruption. In addition, movies over 4 GB in size will be re-<br>corded uninterrupted across multiple files to SD memory cards with<br>capacities 32 GB or less.</p>\n<footer id='6' style='font-size:16px'>12</footer>\n<footer id='7' style='font-size:20px'>394</footer>",
+        "markdown": "Technical\nNotes\n\n# Memory Card Capacity\n\nThe following table shows the recording time or number\nof pictures available at different image sizes. All figures are\napproximate; file size varies with the scene recorded, pro-\nducing wide variations in the number of files that can be\nstored. The number of exposures or length remaining may\nnot diminish at an even rate.\n\n| Capacity | Capacity | SD memory cards 64 GB | SD memory cards 64 GB |\n| --- | --- | --- | --- |\n| 主主 | 主主 | FINE | NORMAL |\n| Photos | L 3:2 | 2660 | 3980 |\n| Photos | RAW (UNCOMPRESSED) | 730 | 730 |\n| Photos | RAW (LOSSLESS COMPRESSED) | 1380 | 1380 |\n| Photos | RAW (COMPRESSED) | 1950 | 1950 |\n| Movies * | 4K 2160 | 79 minutes | 79 minutes |\n| Movies * | :FHD: 1080 | 79 minutes | 79 minutes |\n\n\n* Assumes default bit rate.\n\n- ● The types of memory cards suitable for movie recording vary with the\n- settings selected (目目 68).\n- ● Shots over an hour in length may be recorded across multiple files\n- without interruption. In addition, movies over 4 GB in size will be re-\n- corded uninterrupted across multiple files to SD memory cards with\n- capacities 32 GB or less.\n\n\n12\n\n394",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:22px'>Technical<br>Notes</header>",
+                "markdown": "Technical\nNotes",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0198,
+                    "y": 0.7611
+                },
+                {
+                    "x": 0.04,
+                    "y": 0.7611
+                },
+                {
+                    "x": 0.04,
+                    "y": 0.8804
+                },
+                {
+                    "x": 0.0198,
+                    "y": 0.8804
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='1' style='font-size:20px'>Memory Card Capacity</h1>",
+                "markdown": "# Memory Card Capacity",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.156,
+                    "y": 0.0729
+                },
+                {
+                    "x": 0.5408,
+                    "y": 0.0729
+                },
+                {
+                    "x": 0.5408,
+                    "y": 0.1013
+                },
+                {
+                    "x": 0.156,
+                    "y": 0.1013
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='2' data-category='paragraph' style='font-size:18px'>The following table shows the recording time or number<br>of pictures available at different image sizes. All figures are<br>approximate; file size varies with the scene recorded, pro-<br>ducing wide variations in the number of files that can be<br>stored. The number of exposures or length remaining may<br>not diminish at an even rate.</p>",
+                "markdown": "The following table shows the recording time or number\nof pictures available at different image sizes. All figures are\napproximate; file size varies with the scene recorded, pro-\nducing wide variations in the number of files that can be\nstored. The number of exposures or length remaining may\nnot diminish at an even rate.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1548,
+                    "y": 0.1085
+                },
+                {
+                    "x": 0.8953,
+                    "y": 0.1085
+                },
+                {
+                    "x": 0.8953,
+                    "y": 0.2603
+                },
+                {
+                    "x": 0.1548,
+                    "y": 0.2603
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='3' style='font-size:14px'><tr><td colspan=\"2\">Capacity</td><td colspan=\"2\">SD memory cards 64 GB</td></tr><tr><td colspan=\"2\">主主</td><td>FINE</td><td>NORMAL</td></tr><tr><td rowspan=\"4\">Photos</td><td>L 3:2</td><td>2660</td><td>3980</td></tr><tr><td>RAW (UNCOMPRESSED)</td><td colspan=\"2\">730</td></tr><tr><td>RAW (LOSSLESS COMPRESSED)</td><td colspan=\"2\">1380</td></tr><tr><td>RAW (COMPRESSED)</td><td colspan=\"2\">1950</td></tr><tr><td rowspan=\"2\">Movies *</td><td>4K 2160</td><td colspan=\"2\">79 minutes</td></tr><tr><td>:FHD: 1080</td><td colspan=\"2\">79 minutes</td></tr></table>",
+                "markdown": "| Capacity | Capacity | SD memory cards 64 GB | SD memory cards 64 GB |\n| --- | --- | --- | --- |\n| 主主 | 主主 | FINE | NORMAL |\n| Photos | L 3:2 | 2660 | 3980 |\n| Photos | RAW (UNCOMPRESSED) | 730 | 730 |\n| Photos | RAW (LOSSLESS COMPRESSED) | 1380 | 1380 |\n| Photos | RAW (COMPRESSED) | 1950 | 1950 |\n| Movies * | 4K 2160 | 79 minutes | 79 minutes |\n| Movies * | :FHD: 1080 | 79 minutes | 79 minutes |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0903,
+                    "y": 0.269
+                },
+                {
+                    "x": 0.8927,
+                    "y": 0.269
+                },
+                {
+                    "x": 0.8927,
+                    "y": 0.5099
+                },
+                {
+                    "x": 0.0903,
+                    "y": 0.5099
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='4' data-category='paragraph' style='font-size:14px'>* Assumes default bit rate.</p>",
+                "markdown": "* Assumes default bit rate.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0814,
+                    "y": 0.516
+                },
+                {
+                    "x": 0.347,
+                    "y": 0.516
+                },
+                {
+                    "x": 0.347,
+                    "y": 0.5368
+                },
+                {
+                    "x": 0.0814,
+                    "y": 0.5368
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "list",
+            "content": {
+                "html": "<p id='5' data-category='list' style='font-size:16px'>● The types of memory cards suitable for movie recording vary with the<br>settings selected (目目 68).<br>● Shots over an hour in length may be recorded across multiple files<br>without interruption. In addition, movies over 4 GB in size will be re-<br>corded uninterrupted across multiple files to SD memory cards with<br>capacities 32 GB or less.</p>",
+                "markdown": "- ● The types of memory cards suitable for movie recording vary with the\n- settings selected (目目 68).\n- ● Shots over an hour in length may be recorded across multiple files\n- without interruption. In addition, movies over 4 GB in size will be re-\n- corded uninterrupted across multiple files to SD memory cards with\n- capacities 32 GB or less.\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0979,
+                    "y": 0.5494
+                },
+                {
+                    "x": 0.8906,
+                    "y": 0.5494
+                },
+                {
+                    "x": 0.8906,
+                    "y": 0.6866
+                },
+                {
+                    "x": 0.0979,
+                    "y": 0.6866
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='6' style='font-size:16px'>12</footer>",
+                "markdown": "12",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0193,
+                    "y": 0.8973
+                },
+                {
+                    "x": 0.044,
+                    "y": 0.8973
+                },
+                {
+                    "x": 0.044,
+                    "y": 0.9169
+                },
+                {
+                    "x": 0.0193,
+                    "y": 0.9169
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='7' style='font-size:20px'>394</footer>",
+                "markdown": "394",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0839,
+                    "y": 0.9571
+                },
+                {
+                    "x": 0.1397,
+                    "y": 0.9571
+                },
+                {
+                    "x": 0.1397,
+                    "y": 0.9793
+                },
+                {
+                    "x": 0.0839,
+                    "y": 0.9793
+                }
+            ],
+            "id": 7,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

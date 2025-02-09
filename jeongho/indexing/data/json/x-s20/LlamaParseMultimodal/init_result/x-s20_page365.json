@@ -1,0 +1,74 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "# SYNC TERMINAL\n\n**SYNC TERMINAL** is displayed if the built-in flash is lowered and either no flash unit, or an incompatible flash unit, is mounted on the hot shoe.\n\n!Sync Terminal Display\n\n## Settings\n\n| Setting              | Description                                                                                                                                                                                                 |\n|----------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| ① Flash control mode | Choose from the following options: <br> • **M**: A trigger signal is transmitted via the hot shoe X contacts when a picture is taken. Choose a shutter speed slower than the sync speed; even slower speeds may be required if the unit uses long flashes or has a slow response time. <br> • **OFF (OFF)**: The trigger signal is disabled. |\n| ② Sync               | Choose whether the flash is timed to fire immediately after the shutter opens (**1ST CURTAIN**) or immediately before it closes (**2ND CURTAIN**). **1ST CURTAIN** is recommended in most circumstances. |",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "SYNC TERMINAL",
+                    "md": "# SYNC TERMINAL"
+                },
+                {
+                    "type": "text",
+                    "value": "**SYNC TERMINAL** is displayed if the built-in flash is lowered and either no flash unit, or an incompatible flash unit, is mounted on the hot shoe.\n\n!Sync Terminal Display",
+                    "md": "**SYNC TERMINAL** is displayed if the built-in flash is lowered and either no flash unit, or an incompatible flash unit, is mounted on the hot shoe.\n\n!Sync Terminal Display"
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "Settings",
+                    "md": "## Settings"
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Setting",
+                            "Description"
+                        ],
+                        [
+                            "① Flash control mode",
+                            "Choose from the following options: <br> • **M**: A trigger signal is transmitted via the hot shoe X contacts when a picture is taken. Choose a shutter speed slower than the sync speed; even slower speeds may be required if the unit uses long flashes or has a slow response time. <br> • **OFF (OFF)**: The trigger signal is disabled."
+                        ],
+                        [
+                            "② Sync",
+                            "Choose whether the flash is timed to fire immediately after the shutter opens (**1ST CURTAIN**) or immediately before it closes (**2ND CURTAIN**). **1ST CURTAIN** is recommended in most circumstances."
+                        ]
+                    ],
+                    "md": "| Setting              | Description                                                                                                                                                                                                 |\n|----------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| ① Flash control mode | Choose from the following options: <br> • **M**: A trigger signal is transmitted via the hot shoe X contacts when a picture is taken. Choose a shutter speed slower than the sync speed; even slower speeds may be required if the unit uses long flashes or has a slow response time. <br> • **OFF (OFF)**: The trigger signal is disabled. |\n| ② Sync               | Choose whether the flash is timed to fire immediately after the shutter opens (**1ST CURTAIN**) or immediately before it closes (**2ND CURTAIN**). **1ST CURTAIN** is recommended in most circumstances. |",
+                    "isPerfectTable": true,
+                    "csv": "\"Setting\",\"Description\"\n\"① Flash control mode\",\"Choose from the following options: <br> • **M**: A trigger signal is transmitted via the hot shoe X contacts when a picture is taken. Choose a shutter speed slower than the sync speed; even slower speeds may be required if the unit uses long flashes or has a slow response time. <br> • **OFF (OFF)**: The trigger signal is disabled.\"\n\"② Sync\",\"Choose whether the flash is timed to fire immediately after the shutter opens (**1ST CURTAIN**) or immediately before it closes (**2ND CURTAIN**). **1ST CURTAIN** is recommended in most circumstances.\""
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 169.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "5ad23634-7d44-41a1-b83c-faa65fc5d39f",
+    "file_path": "../data/raw_data/x-s20/x-s20_split/x-s20_page365.pdf"
+}

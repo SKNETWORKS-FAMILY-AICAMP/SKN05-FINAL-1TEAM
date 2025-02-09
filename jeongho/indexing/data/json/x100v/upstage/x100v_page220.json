@@ -1,0 +1,154 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<p id='0' data-category='paragraph' style='font-size:20px'>4 Highlight the desired option and press MENU/OK.<br>The selected option will be assigned to the quick menu.</p>\n<br><p id='1' data-category='paragraph' style='font-size:16px'>The quick menu can also be accessed in shooting mode by holding<br>the Q button.</p>\n<header id='2' style='font-size:22px'>The<br>Setup<br>Menus</header>\n<p id='3' data-category='paragraph' style='font-size:14px'>8</p>\n<footer id='4' style='font-size:18px'>220</footer>",
+        "markdown": "4 Highlight the desired option and press MENU/OK.\nThe selected option will be assigned to the quick menu.\n\nThe quick menu can also be accessed in shooting mode by holding\nthe Q button.\n\nThe\nSetup\nMenus\n\n8\n\n220",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='0' data-category='paragraph' style='font-size:20px'>4 Highlight the desired option and press MENU/OK.<br>The selected option will be assigned to the quick menu.</p>",
+                "markdown": "4 Highlight the desired option and press MENU/OK.\nThe selected option will be assigned to the quick menu.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0937,
+                    "y": 0.0728
+                },
+                {
+                    "x": 0.8366,
+                    "y": 0.0728
+                },
+                {
+                    "x": 0.8366,
+                    "y": 0.1223
+                },
+                {
+                    "x": 0.0937,
+                    "y": 0.1223
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='1' data-category='paragraph' style='font-size:16px'>The quick menu can also be accessed in shooting mode by holding<br>the Q button.</p>",
+                "markdown": "The quick menu can also be accessed in shooting mode by holding\nthe Q button.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1055,
+                    "y": 0.1297
+                },
+                {
+                    "x": 0.8892,
+                    "y": 0.1297
+                },
+                {
+                    "x": 0.8892,
+                    "y": 0.1729
+                },
+                {
+                    "x": 0.1055,
+                    "y": 0.1729
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='2' style='font-size:22px'>The<br>Setup<br>Menus</header>",
+                "markdown": "The\nSetup\nMenus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0191,
+                    "y": 0.5106
+                },
+                {
+                    "x": 0.0403,
+                    "y": 0.5106
+                },
+                {
+                    "x": 0.0403,
+                    "y": 0.6377
+                },
+                {
+                    "x": 0.0191,
+                    "y": 0.6377
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='3' data-category='paragraph' style='font-size:14px'>8</p>",
+                "markdown": "8",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0278,
+                    "y": 0.6593
+                },
+                {
+                    "x": 0.0423,
+                    "y": 0.6593
+                },
+                {
+                    "x": 0.0423,
+                    "y": 0.6755
+                },
+                {
+                    "x": 0.0278,
+                    "y": 0.6755
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='4' style='font-size:18px'>220</footer>",
+                "markdown": "220",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0827,
+                    "y": 0.9559
+                },
+                {
+                    "x": 0.1407,
+                    "y": 0.9559
+                },
+                {
+                    "x": 0.1407,
+                    "y": 0.9794
+                },
+                {
+                    "x": 0.0827,
+                    "y": 0.9794
+                }
+            ],
+            "id": 4,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

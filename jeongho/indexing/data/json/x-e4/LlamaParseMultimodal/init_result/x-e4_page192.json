@@ -1,0 +1,126 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "# AF/MF SETTING (Movie Recording)\n\nAdjust focus settings for movies.\n\nTo display AF/MF settings, press **MENU/OK** in the movie shooting display and select the !AF/MF Setting Tab (AF/MF SETTING) tab.\n\n> 💡 **Note:**  \n> The options available vary with the shooting mode selected.\n\n## FOCUS AREA\n\nOptions are the same as those for still photography, but settings must be adjusted separately (see page 73).\n\n## FOCUS MODE\n\nChoose the focus mode for movie recording.\n\n| Option          | Description                          |\n|-----------------|--------------------------------------|\n| **MANUAL FOCUS**| Focus manually.                      |\n| **CONTINUOUS AF**| The camera focuses using AF-C.      |\n| **SINGLE AF**   | The camera focuses using AF-S.       |\n\n## AF MODE\n\nChoose how the camera selects the focus point for movie recording.\n\n| Option | Description                                           |\n|--------|-------------------------------------------------------|\n| **MULTI** | The camera selects the focus area automatically.   |\n| **AREA**  | The camera focuses on the subject in the selected focus area. |",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "AF/MF SETTING (Movie Recording)",
+                    "md": "# AF/MF SETTING (Movie Recording)"
+                },
+                {
+                    "type": "text",
+                    "value": "Adjust focus settings for movies.\n\nTo display AF/MF settings, press **MENU/OK** in the movie shooting display and select the !AF/MF Setting Tab (AF/MF SETTING) tab.\n\n> 💡 **Note:**  \n> The options available vary with the shooting mode selected.",
+                    "md": "Adjust focus settings for movies.\n\nTo display AF/MF settings, press **MENU/OK** in the movie shooting display and select the !AF/MF Setting Tab (AF/MF SETTING) tab.\n\n> 💡 **Note:**  \n> The options available vary with the shooting mode selected."
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "FOCUS AREA",
+                    "md": "## FOCUS AREA"
+                },
+                {
+                    "type": "text",
+                    "value": "Options are the same as those for still photography, but settings must be adjusted separately (see page 73).",
+                    "md": "Options are the same as those for still photography, but settings must be adjusted separately (see page 73)."
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "FOCUS MODE",
+                    "md": "## FOCUS MODE"
+                },
+                {
+                    "type": "text",
+                    "value": "Choose the focus mode for movie recording.",
+                    "md": "Choose the focus mode for movie recording."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Option",
+                            "Description"
+                        ],
+                        [
+                            "**MANUAL FOCUS**",
+                            "Focus manually."
+                        ],
+                        [
+                            "**CONTINUOUS AF**",
+                            "The camera focuses using AF-C."
+                        ],
+                        [
+                            "**SINGLE AF**",
+                            "The camera focuses using AF-S."
+                        ]
+                    ],
+                    "md": "| Option          | Description                          |\n|-----------------|--------------------------------------|\n| **MANUAL FOCUS**| Focus manually.                      |\n| **CONTINUOUS AF**| The camera focuses using AF-C.      |\n| **SINGLE AF**   | The camera focuses using AF-S.       |",
+                    "isPerfectTable": true,
+                    "csv": "\"Option\",\"Description\"\n\"**MANUAL FOCUS**\",\"Focus manually.\"\n\"**CONTINUOUS AF**\",\"The camera focuses using AF-C.\"\n\"**SINGLE AF**\",\"The camera focuses using AF-S.\""
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "AF MODE",
+                    "md": "## AF MODE"
+                },
+                {
+                    "type": "text",
+                    "value": "Choose how the camera selects the focus point for movie recording.",
+                    "md": "Choose how the camera selects the focus point for movie recording."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Option",
+                            "Description"
+                        ],
+                        [
+                            "**MULTI**",
+                            "The camera selects the focus area automatically."
+                        ],
+                        [
+                            "**AREA**",
+                            "The camera focuses on the subject in the selected focus area."
+                        ]
+                    ],
+                    "md": "| Option | Description                                           |\n|--------|-------------------------------------------------------|\n| **MULTI** | The camera selects the focus area automatically.   |\n| **AREA**  | The camera focuses on the subject in the selected focus area. |",
+                    "isPerfectTable": true,
+                    "csv": "\"Option\",\"Description\"\n\"**MULTI**\",\"The camera selects the focus area automatically.\"\n\"**AREA**\",\"The camera focuses on the subject in the selected focus area.\""
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "parsingMode": "multimodal-openai-gpt4o",
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 184.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "f16defd3-1be5-46ac-8c4c-e57b6f643d1c",
+    "file_path": "../data/raw_data/x-e4/x-e4_split/x-e4_page192.pdf"
+}

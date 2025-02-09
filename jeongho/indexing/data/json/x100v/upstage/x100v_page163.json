@@ -1,0 +1,294 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:14px'>MOVIE SETTING</header>\n<h1 id='1' style='font-size:16px'>FACE/EYE DETECTION SETTING</h1>\n<br><h1 id='2' style='font-size:20px'>Enable or disable Intelligent Face Detection when recording<br>movies.</h1>\n<table id='3' style='font-size:14px'><tr><td>Option</td><td>Description</td></tr><tr><td>FACE DETECTION ON</td><td>See \"FACE/EYE DETECTION SETTING\" ( ≡ 128).</td></tr><tr><td>OFF</td><td>Intelligent Face Detection and eye priority off.</td></tr></table>\n<br><p id='4' data-category='paragraph' style='font-size:16px'>When Intelligent Face Detection is enabled, the camera will focus<br>using continuous AF even when single AF (S) is chosen with the<br>focus mode selector. Intelligent Face Detection is not available in<br>manual focus mode.</p>\n<p id='5' data-category='paragraph' style='font-size:18px'>MF ASSIST</p>\n\n<table id='7' style='font-size:16px'><tr><td>Option</td><td>Description</td></tr><tr><td>STANDARD</td><td>Focus is displayed normally (focus peaking is not available).</td></tr><tr><td>FOCUS PEAK HIGHLIGHT</td><td>The camera heightens high-contrast outlines. Choose a color and peaking level.</td></tr><br><caption id='6' style='font-size:20px'>Choose how focus is displayed in manual focus mode.</caption></table>\n<footer id='8' style='font-size:20px'>163</footer>\n<br><footer id='9' style='font-size:22px'>6<br>The<br>Shooting<br>Menus</footer>",
+        "markdown": "MOVIE SETTING\n\n# FACE/EYE DETECTION SETTING\n\n# Enable or disable Intelligent Face Detection when recording\nmovies.\n\n| Option | Description |\n| --- | --- |\n| FACE DETECTION ON | See \"FACE/EYE DETECTION SETTING\" ( ≡ 128). |\n| OFF | Intelligent Face Detection and eye priority off. |\n\n\nWhen Intelligent Face Detection is enabled, the camera will focus\nusing continuous AF even when single AF (S) is chosen with the\nfocus mode selector. Intelligent Face Detection is not available in\nmanual focus mode.\n\nMF ASSIST\n\nChoose how focus is displayed in manual focus mode.\n\n| Option | Description |\n| --- | --- |\n| STANDARD | Focus is displayed normally (focus peaking is not available). |\n| FOCUS PEAK HIGHLIGHT | The camera heightens high-contrast outlines. Choose a color and peaking level. |\n\n\n163\n\n6\nThe\nShooting\nMenus",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:14px'>MOVIE SETTING</header>",
+                "markdown": "MOVIE SETTING",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.7587,
+                    "y": 0.0288
+                },
+                {
+                    "x": 0.9179,
+                    "y": 0.0288
+                },
+                {
+                    "x": 0.9179,
+                    "y": 0.0488
+                },
+                {
+                    "x": 0.7587,
+                    "y": 0.0488
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='1' style='font-size:16px'>FACE/EYE DETECTION SETTING</h1>",
+                "markdown": "# FACE/EYE DETECTION SETTING",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1085,
+                    "y": 0.0738
+                },
+                {
+                    "x": 0.5666,
+                    "y": 0.0738
+                },
+                {
+                    "x": 0.5666,
+                    "y": 0.0948
+                },
+                {
+                    "x": 0.1085,
+                    "y": 0.0948
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='2' style='font-size:20px'>Enable or disable Intelligent Face Detection when recording<br>movies.</h1>",
+                "markdown": "# Enable or disable Intelligent Face Detection when recording\nmovies.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1066,
+                    "y": 0.1048
+                },
+                {
+                    "x": 0.9183,
+                    "y": 0.1048
+                },
+                {
+                    "x": 0.9183,
+                    "y": 0.1524
+                },
+                {
+                    "x": 0.1066,
+                    "y": 0.1524
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='3' style='font-size:14px'><tr><td>Option</td><td>Description</td></tr><tr><td>FACE DETECTION ON</td><td>See \"FACE/EYE DETECTION SETTING\" ( ≡ 128).</td></tr><tr><td>OFF</td><td>Intelligent Face Detection and eye priority off.</td></tr></table>",
+                "markdown": "| Option | Description |\n| --- | --- |\n| FACE DETECTION ON | See \"FACE/EYE DETECTION SETTING\" ( ≡ 128). |\n| OFF | Intelligent Face Detection and eye priority off. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1099,
+                    "y": 0.1674
+                },
+                {
+                    "x": 0.9169,
+                    "y": 0.1674
+                },
+                {
+                    "x": 0.9169,
+                    "y": 0.2412
+                },
+                {
+                    "x": 0.1099,
+                    "y": 0.2412
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='4' data-category='paragraph' style='font-size:16px'>When Intelligent Face Detection is enabled, the camera will focus<br>using continuous AF even when single AF (S) is chosen with the<br>focus mode selector. Intelligent Face Detection is not available in<br>manual focus mode.</p>",
+                "markdown": "When Intelligent Face Detection is enabled, the camera will focus\nusing continuous AF even when single AF (S) is chosen with the\nfocus mode selector. Intelligent Face Detection is not available in\nmanual focus mode.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1124,
+                    "y": 0.2518
+                },
+                {
+                    "x": 0.9164,
+                    "y": 0.2518
+                },
+                {
+                    "x": 0.9164,
+                    "y": 0.3425
+                },
+                {
+                    "x": 0.1124,
+                    "y": 0.3425
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='5' data-category='paragraph' style='font-size:18px'>MF ASSIST</p>",
+                "markdown": "MF ASSIST",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1088,
+                    "y": 0.3642
+                },
+                {
+                    "x": 0.294,
+                    "y": 0.3642
+                },
+                {
+                    "x": 0.294,
+                    "y": 0.3859
+                },
+                {
+                    "x": 0.1088,
+                    "y": 0.3859
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='6' data-category='paragraph' style='font-size:20px'>Choose how focus is displayed in manual focus mode.</p>",
+                "markdown": "Choose how focus is displayed in manual focus mode.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1054,
+                    "y": 0.3954
+                },
+                {
+                    "x": 0.7886,
+                    "y": 0.3954
+                },
+                {
+                    "x": 0.7886,
+                    "y": 0.4208
+                },
+                {
+                    "x": 0.1054,
+                    "y": 0.4208
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='7' style='font-size:16px'><tr><td>Option</td><td>Description</td></tr><tr><td>STANDARD</td><td>Focus is displayed normally (focus peaking is not available).</td></tr><tr><td>FOCUS PEAK HIGHLIGHT</td><td>The camera heightens high-contrast outlines. Choose a color and peaking level.</td></tr></table>",
+                "markdown": "| Option | Description |\n| --- | --- |\n| STANDARD | Focus is displayed normally (focus peaking is not available). |\n| FOCUS PEAK HIGHLIGHT | The camera heightens high-contrast outlines. Choose a color and peaking level. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1077,
+                    "y": 0.4331
+                },
+                {
+                    "x": 0.9194,
+                    "y": 0.4331
+                },
+                {
+                    "x": 0.9194,
+                    "y": 0.5289
+                },
+                {
+                    "x": 0.1077,
+                    "y": 0.5289
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='8' style='font-size:20px'>163</footer>",
+                "markdown": "163",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.8626,
+                    "y": 0.957
+                },
+                {
+                    "x": 0.9171,
+                    "y": 0.957
+                },
+                {
+                    "x": 0.9171,
+                    "y": 0.9789
+                },
+                {
+                    "x": 0.8626,
+                    "y": 0.9789
+                }
+            ],
+            "id": 8,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<br><footer id='9' style='font-size:22px'>6<br>The<br>Shooting<br>Menus</footer>",
+                "markdown": "6\nThe\nShooting\nMenus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.956,
+                    "y": 0.5412
+                },
+                {
+                    "x": 0.9828,
+                    "y": 0.5412
+                },
+                {
+                    "x": 0.9828,
+                    "y": 0.7311
+                },
+                {
+                    "x": 0.956,
+                    "y": 0.7311
+                }
+            ],
+            "id": 9,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

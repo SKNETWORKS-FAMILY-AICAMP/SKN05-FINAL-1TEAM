@@ -1,0 +1,148 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "# POWER MANAGEMENT\n\n## SHOOTING STAND BY MODE\n\nChoose the delay before the camera enters shooting standby mode.\n\n| Option | Description |\n|--------|-------------|\n| 5 MIN  | The camera will suspend all functions and enter power-saving (standby) mode if no operations are performed for the selected period. |\n| 2 MIN  | The camera will suspend all functions and enter power-saving (standby) mode if no operations are performed for the selected period. |\n| 1 MIN  | The camera will suspend all functions and enter power-saving (standby) mode if no operations are performed for the selected period. |\n| 30 SEC | The camera will suspend all functions and enter power-saving (standby) mode if no operations are performed for the selected period. |\n| 15 SEC | The camera will suspend all functions and enter power-saving (standby) mode if no operations are performed for the selected period. |\n| OFF    | Shooting standby mode disabled. |\n\n## AUTO POWER SAVE\n\nIf **ON** is selected, the display frame rate will drop to save power if no operations are performed for a short period, but the normal frame rate can be restored by operating camera controls.\n\n| Options |        |\n|---------|--------|\n| ON      | OFF    |\n\n## AUTO POWER OFF TEMP.\n\nIf its temperature rises beyond a certain point, the camera will first display a message and then, if the temperature rise continues, automatically end shooting and power down. Choose the temperature at which the camera turns off automatically.\n\n| Option    | Description |\n|-----------|-------------|\n| STANDARD  | The camera turns off automatically when its temperature reaches the **STANDARD** value. |\n| HIGH      | Shooting can continue at temperatures higher than the **STANDARD** value, extending the time available to record movies and the like. Because remaining in contact with the camera at these high temperatures could result in low-temperature burns, this option should only be used after mounting the camera on a tripod or taking other steps to avoid prolonged contact with the camera. |",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "POWER MANAGEMENT",
+                    "md": "# POWER MANAGEMENT"
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "SHOOTING STAND BY MODE",
+                    "md": "## SHOOTING STAND BY MODE"
+                },
+                {
+                    "type": "text",
+                    "value": "Choose the delay before the camera enters shooting standby mode.",
+                    "md": "Choose the delay before the camera enters shooting standby mode."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Option",
+                            "Description"
+                        ],
+                        [
+                            "5 MIN",
+                            "The camera will suspend all functions and enter power-saving (standby) mode if no operations are performed for the selected period."
+                        ],
+                        [
+                            "2 MIN",
+                            "The camera will suspend all functions and enter power-saving (standby) mode if no operations are performed for the selected period."
+                        ],
+                        [
+                            "1 MIN",
+                            "The camera will suspend all functions and enter power-saving (standby) mode if no operations are performed for the selected period."
+                        ],
+                        [
+                            "30 SEC",
+                            "The camera will suspend all functions and enter power-saving (standby) mode if no operations are performed for the selected period."
+                        ],
+                        [
+                            "15 SEC",
+                            "The camera will suspend all functions and enter power-saving (standby) mode if no operations are performed for the selected period."
+                        ],
+                        [
+                            "OFF",
+                            "Shooting standby mode disabled."
+                        ]
+                    ],
+                    "md": "| Option | Description |\n|--------|-------------|\n| 5 MIN  | The camera will suspend all functions and enter power-saving (standby) mode if no operations are performed for the selected period. |\n| 2 MIN  | The camera will suspend all functions and enter power-saving (standby) mode if no operations are performed for the selected period. |\n| 1 MIN  | The camera will suspend all functions and enter power-saving (standby) mode if no operations are performed for the selected period. |\n| 30 SEC | The camera will suspend all functions and enter power-saving (standby) mode if no operations are performed for the selected period. |\n| 15 SEC | The camera will suspend all functions and enter power-saving (standby) mode if no operations are performed for the selected period. |\n| OFF    | Shooting standby mode disabled. |",
+                    "isPerfectTable": true,
+                    "csv": "\"Option\",\"Description\"\n\"5 MIN\",\"The camera will suspend all functions and enter power-saving (standby) mode if no operations are performed for the selected period.\"\n\"2 MIN\",\"The camera will suspend all functions and enter power-saving (standby) mode if no operations are performed for the selected period.\"\n\"1 MIN\",\"The camera will suspend all functions and enter power-saving (standby) mode if no operations are performed for the selected period.\"\n\"30 SEC\",\"The camera will suspend all functions and enter power-saving (standby) mode if no operations are performed for the selected period.\"\n\"15 SEC\",\"The camera will suspend all functions and enter power-saving (standby) mode if no operations are performed for the selected period.\"\n\"OFF\",\"Shooting standby mode disabled.\""
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "AUTO POWER SAVE",
+                    "md": "## AUTO POWER SAVE"
+                },
+                {
+                    "type": "text",
+                    "value": "If **ON** is selected, the display frame rate will drop to save power if no operations are performed for a short period, but the normal frame rate can be restored by operating camera controls.",
+                    "md": "If **ON** is selected, the display frame rate will drop to save power if no operations are performed for a short period, but the normal frame rate can be restored by operating camera controls."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Options",
+                            ""
+                        ],
+                        [
+                            "ON",
+                            "OFF"
+                        ]
+                    ],
+                    "md": "| Options |        |\n|---------|--------|\n| ON      | OFF    |",
+                    "isPerfectTable": true,
+                    "csv": "\"Options\",\"\"\n\"ON\",\"OFF\""
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "AUTO POWER OFF TEMP.",
+                    "md": "## AUTO POWER OFF TEMP."
+                },
+                {
+                    "type": "text",
+                    "value": "If its temperature rises beyond a certain point, the camera will first display a message and then, if the temperature rise continues, automatically end shooting and power down. Choose the temperature at which the camera turns off automatically.",
+                    "md": "If its temperature rises beyond a certain point, the camera will first display a message and then, if the temperature rise continues, automatically end shooting and power down. Choose the temperature at which the camera turns off automatically."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Option",
+                            "Description"
+                        ],
+                        [
+                            "STANDARD",
+                            "The camera turns off automatically when its temperature reaches the **STANDARD** value."
+                        ],
+                        [
+                            "HIGH",
+                            "Shooting can continue at temperatures higher than the **STANDARD** value, extending the time available to record movies and the like. Because remaining in contact with the camera at these high temperatures could result in low-temperature burns, this option should only be used after mounting the camera on a tripod or taking other steps to avoid prolonged contact with the camera."
+                        ]
+                    ],
+                    "md": "| Option    | Description |\n|-----------|-------------|\n| STANDARD  | The camera turns off automatically when its temperature reaches the **STANDARD** value. |\n| HIGH      | Shooting can continue at temperatures higher than the **STANDARD** value, extending the time available to record movies and the like. Because remaining in contact with the camera at these high temperatures could result in low-temperature burns, this option should only be used after mounting the camera on a tripod or taking other steps to avoid prolonged contact with the camera. |",
+                    "isPerfectTable": true,
+                    "csv": "\"Option\",\"Description\"\n\"STANDARD\",\"The camera turns off automatically when its temperature reaches the **STANDARD** value.\"\n\"HIGH\",\"Shooting can continue at temperatures higher than the **STANDARD** value, extending the time available to record movies and the like. Because remaining in contact with the camera at these high temperatures could result in low-temperature burns, this option should only be used after mounting the camera on a tripod or taking other steps to avoid prolonged contact with the camera.\""
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 251.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "784f71fd-4bfb-41a5-b11b-0ecb23daef9f",
+    "file_path": "../data/raw_data/gfx100ii/gfx100ii_split/gfx100ii_page396.pdf"
+}

@@ -1,0 +1,462 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:14px'>Network/USB Setting Menus</header>\n<h1 id='1' style='font-size:16px'>IMAGE TRANSFER WHILE POWER OFF</h1>\n\n<table id='3' style='font-size:16px'><tr><td rowspan=\"2\" colspan=\"2\">Options</td></tr><tr></tr><tr><td>ON</td><td>OFF</td></tr><br><caption id='2' style='font-size:18px'>If ON is selected, upload of files to Frame.io will continue while<br>the camera is off.</caption></table>\n<br><h1 id='4' style='font-size:18px'>ROOT CERTIFICATE</h1>\n\n<table id='6' style='font-size:14px'><tr><td>Option</td><td>Description</td></tr><tr><td>LOAD FROM STORAGE MEDIA</td><td>Copy the root certificate from the camera memory card.</td></tr><tr><td>DELETE</td><td>Delete the current root certificate.</td></tr><br><caption id='5' style='font-size:16px'>Copy a root certificate to the camera for use with Frame.io.</caption></table>\n<p id='7' data-category='paragraph' style='font-size:14px'>Frame.io and FTP OPTIONAL SETTING > ROOT CERTIFICATE use the<br>same root certificate. Changing one changes the other.</p>\n<h1 id='8' style='font-size:16px'>UPLOAD STATUS</h1>\n<br><p id='9' data-category='paragraph' style='font-size:20px'>View Frame.io upload status.</p>\n<p id='10' data-category='paragraph' style='font-size:20px'>TRANSFER QUEUE</p>\n<br><p id='11' data-category='paragraph' style='font-size:20px'>View a list of the files awaiting upload.</p>\n<p id='12' data-category='paragraph' style='font-size:16px'>RESET TRANSFER ORDER</p>\n<br><p id='13' data-category='paragraph' style='font-size:20px'>Remove upload marking from all files selected for upload to<br>Frame.io.</p>\n<br><footer id='14' style='font-size:22px'>Network/USB<br>Setting<br>Menus</footer>\n<footer id='15' style='font-size:20px'>325</footer>",
+        "markdown": "Network/USB Setting Menus\n\n# IMAGE TRANSFER WHILE POWER OFF\n\nIf ON is selected, upload of files to Frame.io will continue while\nthe camera is off.\n\n| Options | Options |\n| --- | --- |\n| Options | Options |\n| ON | OFF |\n\n\n# ROOT CERTIFICATE\n\nCopy a root certificate to the camera for use with Frame.io.\n\n| Option | Description |\n| --- | --- |\n| LOAD FROM STORAGE MEDIA | Copy the root certificate from the camera memory card. |\n| DELETE | Delete the current root certificate. |\n\n\nFrame.io and FTP OPTIONAL SETTING > ROOT CERTIFICATE use the\nsame root certificate. Changing one changes the other.\n\n# UPLOAD STATUS\n\nView Frame.io upload status.\n\nTRANSFER QUEUE\n\nView a list of the files awaiting upload.\n\nRESET TRANSFER ORDER\n\nRemove upload marking from all files selected for upload to\nFrame.io.\n\nNetwork/USB\nSetting\nMenus\n\n325",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:14px'>Network/USB Setting Menus</header>",
+                "markdown": "Network/USB Setting Menus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6354,
+                    "y": 0.0283
+                },
+                {
+                    "x": 0.9185,
+                    "y": 0.0283
+                },
+                {
+                    "x": 0.9185,
+                    "y": 0.0507
+                },
+                {
+                    "x": 0.6354,
+                    "y": 0.0507
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='1' style='font-size:16px'>IMAGE TRANSFER WHILE POWER OFF</h1>",
+                "markdown": "# IMAGE TRANSFER WHILE POWER OFF",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1074,
+                    "y": 0.0722
+                },
+                {
+                    "x": 0.485,
+                    "y": 0.0722
+                },
+                {
+                    "x": 0.485,
+                    "y": 0.0928
+                },
+                {
+                    "x": 0.1074,
+                    "y": 0.0928
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='2' data-category='paragraph' style='font-size:18px'>If ON is selected, upload of files to Frame.io will continue while<br>the camera is off.</p>",
+                "markdown": "If ON is selected, upload of files to Frame.io will continue while\nthe camera is off.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1058,
+                    "y": 0.0987
+                },
+                {
+                    "x": 0.9198,
+                    "y": 0.0987
+                },
+                {
+                    "x": 0.9198,
+                    "y": 0.1468
+                },
+                {
+                    "x": 0.1058,
+                    "y": 0.1468
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='3' style='font-size:16px'><tr><td rowspan=\"2\" colspan=\"2\">Options</td></tr><tr></tr><tr><td>ON</td><td>OFF</td></tr></table>",
+                "markdown": "| Options | Options |\n| --- | --- |\n| Options | Options |\n| ON | OFF |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1066,
+                    "y": 0.1613
+                },
+                {
+                    "x": 0.9159,
+                    "y": 0.1613
+                },
+                {
+                    "x": 0.9159,
+                    "y": 0.2181
+                },
+                {
+                    "x": 0.1066,
+                    "y": 0.2181
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='4' style='font-size:18px'>ROOT CERTIFICATE</h1>",
+                "markdown": "# ROOT CERTIFICATE",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1064,
+                    "y": 0.2275
+                },
+                {
+                    "x": 0.2987,
+                    "y": 0.2275
+                },
+                {
+                    "x": 0.2987,
+                    "y": 0.2486
+                },
+                {
+                    "x": 0.1064,
+                    "y": 0.2486
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='5' data-category='paragraph' style='font-size:16px'>Copy a root certificate to the camera for use with Frame.io.</p>",
+                "markdown": "Copy a root certificate to the camera for use with Frame.io.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1047,
+                    "y": 0.2531
+                },
+                {
+                    "x": 0.8441,
+                    "y": 0.2531
+                },
+                {
+                    "x": 0.8441,
+                    "y": 0.2774
+                },
+                {
+                    "x": 0.1047,
+                    "y": 0.2774
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='6' style='font-size:14px'><tr><td>Option</td><td>Description</td></tr><tr><td>LOAD FROM STORAGE MEDIA</td><td>Copy the root certificate from the camera memory card.</td></tr><tr><td>DELETE</td><td>Delete the current root certificate.</td></tr></table>",
+                "markdown": "| Option | Description |\n| --- | --- |\n| LOAD FROM STORAGE MEDIA | Copy the root certificate from the camera memory card. |\n| DELETE | Delete the current root certificate. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1095,
+                    "y": 0.2904
+                },
+                {
+                    "x": 0.9114,
+                    "y": 0.2904
+                },
+                {
+                    "x": 0.9114,
+                    "y": 0.396
+                },
+                {
+                    "x": 0.1095,
+                    "y": 0.396
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='7' data-category='paragraph' style='font-size:14px'>Frame.io and FTP OPTIONAL SETTING > ROOT CERTIFICATE use the<br>same root certificate. Changing one changes the other.</p>",
+                "markdown": "Frame.io and FTP OPTIONAL SETTING > ROOT CERTIFICATE use the\nsame root certificate. Changing one changes the other.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1103,
+                    "y": 0.4132
+                },
+                {
+                    "x": 0.9142,
+                    "y": 0.4132
+                },
+                {
+                    "x": 0.9142,
+                    "y": 0.4581
+                },
+                {
+                    "x": 0.1103,
+                    "y": 0.4581
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='8' style='font-size:16px'>UPLOAD STATUS</h1>",
+                "markdown": "# UPLOAD STATUS",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1224,
+                    "y": 0.4802
+                },
+                {
+                    "x": 0.3295,
+                    "y": 0.4802
+                },
+                {
+                    "x": 0.3295,
+                    "y": 0.5027
+                },
+                {
+                    "x": 0.1224,
+                    "y": 0.5027
+                }
+            ],
+            "id": 8,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='9' data-category='paragraph' style='font-size:20px'>View Frame.io upload status.</p>",
+                "markdown": "View Frame.io upload status.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1062,
+                    "y": 0.5111
+                },
+                {
+                    "x": 0.4727,
+                    "y": 0.5111
+                },
+                {
+                    "x": 0.4727,
+                    "y": 0.5356
+                },
+                {
+                    "x": 0.1062,
+                    "y": 0.5356
+                }
+            ],
+            "id": 9,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='10' data-category='paragraph' style='font-size:20px'>TRANSFER QUEUE</p>",
+                "markdown": "TRANSFER QUEUE",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1227,
+                    "y": 0.5566
+                },
+                {
+                    "x": 0.3495,
+                    "y": 0.5566
+                },
+                {
+                    "x": 0.3495,
+                    "y": 0.5803
+                },
+                {
+                    "x": 0.1227,
+                    "y": 0.5803
+                }
+            ],
+            "id": 10,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='11' data-category='paragraph' style='font-size:20px'>View a list of the files awaiting upload.</p>",
+                "markdown": "View a list of the files awaiting upload.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1066,
+                    "y": 0.5882
+                },
+                {
+                    "x": 0.5922,
+                    "y": 0.5882
+                },
+                {
+                    "x": 0.5922,
+                    "y": 0.612
+                },
+                {
+                    "x": 0.1066,
+                    "y": 0.612
+                }
+            ],
+            "id": 11,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='12' data-category='paragraph' style='font-size:16px'>RESET TRANSFER ORDER</p>",
+                "markdown": "RESET TRANSFER ORDER",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1203,
+                    "y": 0.6329
+                },
+                {
+                    "x": 0.4276,
+                    "y": 0.6329
+                },
+                {
+                    "x": 0.4276,
+                    "y": 0.6578
+                },
+                {
+                    "x": 0.1203,
+                    "y": 0.6578
+                }
+            ],
+            "id": 12,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='13' data-category='paragraph' style='font-size:20px'>Remove upload marking from all files selected for upload to<br>Frame.io.</p>",
+                "markdown": "Remove upload marking from all files selected for upload to\nFrame.io.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1072,
+                    "y": 0.6637
+                },
+                {
+                    "x": 0.9175,
+                    "y": 0.6637
+                },
+                {
+                    "x": 0.9175,
+                    "y": 0.7139
+                },
+                {
+                    "x": 0.1072,
+                    "y": 0.7139
+                }
+            ],
+            "id": 13,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<br><footer id='14' style='font-size:22px'>Network/USB<br>Setting<br>Menus</footer>",
+                "markdown": "Network/USB\nSetting\nMenus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9574,
+                    "y": 0.4296
+                },
+                {
+                    "x": 0.9797,
+                    "y": 0.4296
+                },
+                {
+                    "x": 0.9797,
+                    "y": 0.6373
+                },
+                {
+                    "x": 0.9574,
+                    "y": 0.6373
+                }
+            ],
+            "id": 14,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='15' style='font-size:20px'>325</footer>",
+                "markdown": "325",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.8604,
+                    "y": 0.9564
+                },
+                {
+                    "x": 0.9178,
+                    "y": 0.9564
+                },
+                {
+                    "x": 0.9178,
+                    "y": 0.9798
+                },
+                {
+                    "x": 0.8604,
+                    "y": 0.9798
+                }
+            ],
+            "id": 15,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

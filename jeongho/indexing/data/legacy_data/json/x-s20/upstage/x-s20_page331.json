@@ -1,0 +1,70 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<p id='0' data-category='paragraph' style='font-size:18px'>Peripherals and Optional<br>Accessories</p>\n<footer id='1' style='font-size:14px'>329</footer>",
+        "markdown": "Peripherals and Optional\nAccessories\n\n329",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='0' data-category='paragraph' style='font-size:18px'>Peripherals and Optional<br>Accessories</p>",
+                "markdown": "Peripherals and Optional\nAccessories",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.2014,
+                    "y": 0.3151
+                },
+                {
+                    "x": 0.7985,
+                    "y": 0.3151
+                },
+                {
+                    "x": 0.7985,
+                    "y": 0.4003
+                },
+                {
+                    "x": 0.2014,
+                    "y": 0.4003
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='1' style='font-size:14px'>329</footer>",
+                "markdown": "329",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.8605,
+                    "y": 0.9562
+                },
+                {
+                    "x": 0.9178,
+                    "y": 0.9562
+                },
+                {
+                    "x": 0.9178,
+                    "y": 0.9793
+                },
+                {
+                    "x": 0.8605,
+                    "y": 0.9793
+                }
+            ],
+            "id": 1,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

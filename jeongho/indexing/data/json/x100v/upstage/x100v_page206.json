@@ -1,0 +1,210 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:14px'>SOUND SETTING</header>\n<h1 id='1' style='font-size:18px'>OPERATION VOL.</h1>\n<br><p id='2' data-category='paragraph' style='font-size:16px'>Adjust the volume of the sounds produced when camera con-<br>trols are operated. Choose OFF to disable control sounds.</p>\n<br><table id='3' style='font-size:16px'><tr><td colspan=\"9\">Options</td></tr><tr><td colspan=\"2\">이) (high)</td><td>(medium)</td><td></td><td></td><td>(low)</td><td>OFF</td><td>(mute)</td><td></td></tr><tr><td colspan=\"9\">SHUTTER VOLUME</td></tr><tr><td colspan=\"9\">Adjust the volume of the sounds produced by the electronic shutter. Choose OFF to disable the shutter sound.</td></tr><tr><td colspan=\"9\">Options</td></tr><tr><td colspan=\"3\">이) (high)</td><td>(medium)</td><td></td><td colspan=\"2\">(low)</td><td colspan=\"2\">OFF (mute)</td></tr><tr><td colspan=\"9\">SHUTTER SOUND</td></tr><tr><td colspan=\"9\">Choose the sound made by the electronic shutter.</td></tr><tr><td colspan=\"9\">Options</td></tr><tr><td colspan=\"3\">♪ 1SOUND 1</td><td colspan=\"3\">♪2 SOUND 2</td><td colspan=\"3\">♪ 3 SOUND 3</td></tr><tr><td colspan=\"9\">PLAYBACK VOLUME</td></tr><tr><td colspan=\"9\">Adjust the volume for movie playback.</td></tr><tr><td colspan=\"9\">Options</td></tr><tr><td>0</td><td>1</td><td>2</td><td>3 4</td><td>5</td><td>6</td><td>7</td><td>8 9</td><td>10</td></tr></table>\n<br><header id='4' style='font-size:22px'>The<br>Setup<br>Menus</header>\n<header id='5' style='font-size:14px'>8</header>\n<footer id='6' style='font-size:20px'>206</footer>",
+        "markdown": "SOUND SETTING\n\n# OPERATION VOL.\n\nAdjust the volume of the sounds produced when camera con-\ntrols are operated. Choose OFF to disable control sounds.\n\n| Options | Options | Options | Options | Options | Options | Options | Options | Options |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| 이) (high) | 이) (high) | (medium) |  |  | (low) | OFF | (mute) |  |\n| SHUTTER VOLUME | SHUTTER VOLUME | SHUTTER VOLUME | SHUTTER VOLUME | SHUTTER VOLUME | SHUTTER VOLUME | SHUTTER VOLUME | SHUTTER VOLUME | SHUTTER VOLUME |\n| Adjust the volume of the sounds produced by the electronic shutter. Choose OFF to disable the shutter sound. | Adjust the volume of the sounds produced by the electronic shutter. Choose OFF to disable the shutter sound. | Adjust the volume of the sounds produced by the electronic shutter. Choose OFF to disable the shutter sound. | Adjust the volume of the sounds produced by the electronic shutter. Choose OFF to disable the shutter sound. | Adjust the volume of the sounds produced by the electronic shutter. Choose OFF to disable the shutter sound. | Adjust the volume of the sounds produced by the electronic shutter. Choose OFF to disable the shutter sound. | Adjust the volume of the sounds produced by the electronic shutter. Choose OFF to disable the shutter sound. | Adjust the volume of the sounds produced by the electronic shutter. Choose OFF to disable the shutter sound. | Adjust the volume of the sounds produced by the electronic shutter. Choose OFF to disable the shutter sound. |\n| Options | Options | Options | Options | Options | Options | Options | Options | Options |\n| 이) (high) | 이) (high) | 이) (high) | (medium) |  | (low) | (low) | OFF (mute) | OFF (mute) |\n| SHUTTER SOUND | SHUTTER SOUND | SHUTTER SOUND | SHUTTER SOUND | SHUTTER SOUND | SHUTTER SOUND | SHUTTER SOUND | SHUTTER SOUND | SHUTTER SOUND |\n| Choose the sound made by the electronic shutter. | Choose the sound made by the electronic shutter. | Choose the sound made by the electronic shutter. | Choose the sound made by the electronic shutter. | Choose the sound made by the electronic shutter. | Choose the sound made by the electronic shutter. | Choose the sound made by the electronic shutter. | Choose the sound made by the electronic shutter. | Choose the sound made by the electronic shutter. |\n| Options | Options | Options | Options | Options | Options | Options | Options | Options |\n| ♪ 1SOUND 1 | ♪ 1SOUND 1 | ♪ 1SOUND 1 | ♪2 SOUND 2 | ♪2 SOUND 2 | ♪2 SOUND 2 | ♪ 3 SOUND 3 | ♪ 3 SOUND 3 | ♪ 3 SOUND 3 |\n| PLAYBACK VOLUME | PLAYBACK VOLUME | PLAYBACK VOLUME | PLAYBACK VOLUME | PLAYBACK VOLUME | PLAYBACK VOLUME | PLAYBACK VOLUME | PLAYBACK VOLUME | PLAYBACK VOLUME |\n| Adjust the volume for movie playback. | Adjust the volume for movie playback. | Adjust the volume for movie playback. | Adjust the volume for movie playback. | Adjust the volume for movie playback. | Adjust the volume for movie playback. | Adjust the volume for movie playback. | Adjust the volume for movie playback. | Adjust the volume for movie playback. |\n| Options | Options | Options | Options | Options | Options | Options | Options | Options |\n| 0 | 1 | 2 | 3 4 | 5 | 6 | 7 | 8 9 | 10 |\n\n\nThe\nSetup\nMenus\n\n8\n\n206",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:14px'>SOUND SETTING</header>",
+                "markdown": "SOUND SETTING",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.7231,
+                    "y": 0.0287
+                },
+                {
+                    "x": 0.8927,
+                    "y": 0.0287
+                },
+                {
+                    "x": 0.8927,
+                    "y": 0.0492
+                },
+                {
+                    "x": 0.7231,
+                    "y": 0.0492
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='1' style='font-size:18px'>OPERATION VOL.</h1>",
+                "markdown": "# OPERATION VOL.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0812,
+                    "y": 0.0727
+                },
+                {
+                    "x": 0.315,
+                    "y": 0.0727
+                },
+                {
+                    "x": 0.315,
+                    "y": 0.0949
+                },
+                {
+                    "x": 0.0812,
+                    "y": 0.0949
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='2' data-category='paragraph' style='font-size:16px'>Adjust the volume of the sounds produced when camera con-<br>trols are operated. Choose OFF to disable control sounds.</p>",
+                "markdown": "Adjust the volume of the sounds produced when camera con-\ntrols are operated. Choose OFF to disable control sounds.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0801,
+                    "y": 0.1038
+                },
+                {
+                    "x": 0.8924,
+                    "y": 0.1038
+                },
+                {
+                    "x": 0.8924,
+                    "y": 0.1555
+                },
+                {
+                    "x": 0.0801,
+                    "y": 0.1555
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='3' style='font-size:16px'><tr><td colspan=\"9\">Options</td></tr><tr><td colspan=\"2\">이) (high)</td><td>(medium)</td><td></td><td></td><td>(low)</td><td>OFF</td><td>(mute)</td><td></td></tr><tr><td colspan=\"9\">SHUTTER VOLUME</td></tr><tr><td colspan=\"9\">Adjust the volume of the sounds produced by the electronic shutter. Choose OFF to disable the shutter sound.</td></tr><tr><td colspan=\"9\">Options</td></tr><tr><td colspan=\"3\">이) (high)</td><td>(medium)</td><td></td><td colspan=\"2\">(low)</td><td colspan=\"2\">OFF (mute)</td></tr><tr><td colspan=\"9\">SHUTTER SOUND</td></tr><tr><td colspan=\"9\">Choose the sound made by the electronic shutter.</td></tr><tr><td colspan=\"9\">Options</td></tr><tr><td colspan=\"3\">♪ 1SOUND 1</td><td colspan=\"3\">♪2 SOUND 2</td><td colspan=\"3\">♪ 3 SOUND 3</td></tr><tr><td colspan=\"9\">PLAYBACK VOLUME</td></tr><tr><td colspan=\"9\">Adjust the volume for movie playback.</td></tr><tr><td colspan=\"9\">Options</td></tr><tr><td>0</td><td>1</td><td>2</td><td>3 4</td><td>5</td><td>6</td><td>7</td><td>8 9</td><td>10</td></tr></table>",
+                "markdown": "| Options | Options | Options | Options | Options | Options | Options | Options | Options |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| 이) (high) | 이) (high) | (medium) |  |  | (low) | OFF | (mute) |  |\n| SHUTTER VOLUME | SHUTTER VOLUME | SHUTTER VOLUME | SHUTTER VOLUME | SHUTTER VOLUME | SHUTTER VOLUME | SHUTTER VOLUME | SHUTTER VOLUME | SHUTTER VOLUME |\n| Adjust the volume of the sounds produced by the electronic shutter. Choose OFF to disable the shutter sound. | Adjust the volume of the sounds produced by the electronic shutter. Choose OFF to disable the shutter sound. | Adjust the volume of the sounds produced by the electronic shutter. Choose OFF to disable the shutter sound. | Adjust the volume of the sounds produced by the electronic shutter. Choose OFF to disable the shutter sound. | Adjust the volume of the sounds produced by the electronic shutter. Choose OFF to disable the shutter sound. | Adjust the volume of the sounds produced by the electronic shutter. Choose OFF to disable the shutter sound. | Adjust the volume of the sounds produced by the electronic shutter. Choose OFF to disable the shutter sound. | Adjust the volume of the sounds produced by the electronic shutter. Choose OFF to disable the shutter sound. | Adjust the volume of the sounds produced by the electronic shutter. Choose OFF to disable the shutter sound. |\n| Options | Options | Options | Options | Options | Options | Options | Options | Options |\n| 이) (high) | 이) (high) | 이) (high) | (medium) |  | (low) | (low) | OFF (mute) | OFF (mute) |\n| SHUTTER SOUND | SHUTTER SOUND | SHUTTER SOUND | SHUTTER SOUND | SHUTTER SOUND | SHUTTER SOUND | SHUTTER SOUND | SHUTTER SOUND | SHUTTER SOUND |\n| Choose the sound made by the electronic shutter. | Choose the sound made by the electronic shutter. | Choose the sound made by the electronic shutter. | Choose the sound made by the electronic shutter. | Choose the sound made by the electronic shutter. | Choose the sound made by the electronic shutter. | Choose the sound made by the electronic shutter. | Choose the sound made by the electronic shutter. | Choose the sound made by the electronic shutter. |\n| Options | Options | Options | Options | Options | Options | Options | Options | Options |\n| ♪ 1SOUND 1 | ♪ 1SOUND 1 | ♪ 1SOUND 1 | ♪2 SOUND 2 | ♪2 SOUND 2 | ♪2 SOUND 2 | ♪ 3 SOUND 3 | ♪ 3 SOUND 3 | ♪ 3 SOUND 3 |\n| PLAYBACK VOLUME | PLAYBACK VOLUME | PLAYBACK VOLUME | PLAYBACK VOLUME | PLAYBACK VOLUME | PLAYBACK VOLUME | PLAYBACK VOLUME | PLAYBACK VOLUME | PLAYBACK VOLUME |\n| Adjust the volume for movie playback. | Adjust the volume for movie playback. | Adjust the volume for movie playback. | Adjust the volume for movie playback. | Adjust the volume for movie playback. | Adjust the volume for movie playback. | Adjust the volume for movie playback. | Adjust the volume for movie playback. | Adjust the volume for movie playback. |\n| Options | Options | Options | Options | Options | Options | Options | Options | Options |\n| 0 | 1 | 2 | 3 4 | 5 | 6 | 7 | 8 9 | 10 |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0777,
+                    "y": 0.1513
+                },
+                {
+                    "x": 0.8943,
+                    "y": 0.1513
+                },
+                {
+                    "x": 0.8943,
+                    "y": 0.6597
+                },
+                {
+                    "x": 0.0777,
+                    "y": 0.6597
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "header",
+            "content": {
+                "html": "<br><header id='4' style='font-size:22px'>The<br>Setup<br>Menus</header>",
+                "markdown": "The\nSetup\nMenus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0181,
+                    "y": 0.5081
+                },
+                {
+                    "x": 0.0408,
+                    "y": 0.5081
+                },
+                {
+                    "x": 0.0408,
+                    "y": 0.6371
+                },
+                {
+                    "x": 0.0181,
+                    "y": 0.6371
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='5' style='font-size:14px'>8</header>",
+                "markdown": "8",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0257,
+                    "y": 0.6569
+                },
+                {
+                    "x": 0.0441,
+                    "y": 0.6569
+                },
+                {
+                    "x": 0.0441,
+                    "y": 0.6778
+                },
+                {
+                    "x": 0.0257,
+                    "y": 0.6778
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='6' style='font-size:20px'>206</footer>",
+                "markdown": "206",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.082,
+                    "y": 0.9558
+                },
+                {
+                    "x": 0.1408,
+                    "y": 0.9558
+                },
+                {
+                    "x": 0.1408,
+                    "y": 0.9802
+                },
+                {
+                    "x": 0.082,
+                    "y": 0.9802
+                }
+            ],
+            "id": 6,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

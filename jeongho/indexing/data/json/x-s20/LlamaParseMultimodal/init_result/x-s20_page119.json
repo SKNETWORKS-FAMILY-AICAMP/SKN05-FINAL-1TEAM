@@ -1,0 +1,80 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "# The Focus Indicator\n\nFocus status is shown by the focus indicator.\n\n!Focus Indicator\n\n| Focus Indicator          | Focus Status                                                                                       |\n|--------------------------|----------------------------------------------------------------------------------------------------|\n| (  )                     | Camera focusing.                                                                                   |\n| ● (lights green)         | Subject in focus; focus locked (focus mode **AF-S**).                                              |\n| ● (lights green)         | Subject in focus (focus mode **AF-C**). Focus is automatically adjusted for changes in distance to subject. |\n| ○ (blinks white)         | Camera unable to focus.                                                                            |\n| **MF**                   | Manual focus (focus mode **MF**).                                                                  |",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "The Focus Indicator",
+                    "md": "# The Focus Indicator"
+                },
+                {
+                    "type": "text",
+                    "value": "Focus status is shown by the focus indicator.\n\n!Focus Indicator",
+                    "md": "Focus status is shown by the focus indicator.\n\n!Focus Indicator"
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Focus Indicator",
+                            "Focus Status"
+                        ],
+                        [
+                            "(  )",
+                            "Camera focusing."
+                        ],
+                        [
+                            "● (lights green)",
+                            "Subject in focus; focus locked (focus mode **AF-S**)."
+                        ],
+                        [
+                            "● (lights green)",
+                            "Subject in focus (focus mode **AF-C**). Focus is automatically adjusted for changes in distance to subject."
+                        ],
+                        [
+                            "○ (blinks white)",
+                            "Camera unable to focus."
+                        ],
+                        [
+                            "**MF**",
+                            "Manual focus (focus mode **MF**)."
+                        ]
+                    ],
+                    "md": "| Focus Indicator          | Focus Status                                                                                       |\n|--------------------------|----------------------------------------------------------------------------------------------------|\n| (  )                     | Camera focusing.                                                                                   |\n| ● (lights green)         | Subject in focus; focus locked (focus mode **AF-S**).                                              |\n| ● (lights green)         | Subject in focus (focus mode **AF-C**). Focus is automatically adjusted for changes in distance to subject. |\n| ○ (blinks white)         | Camera unable to focus.                                                                            |\n| **MF**                   | Manual focus (focus mode **MF**).                                                                  |",
+                    "isPerfectTable": true,
+                    "csv": "\"Focus Indicator\",\"Focus Status\"\n\"(  )\",\"Camera focusing.\"\n\"● (lights green)\",\"Subject in focus; focus locked (focus mode **AF-S**).\"\n\"● (lights green)\",\"Subject in focus (focus mode **AF-C**). Focus is automatically adjusted for changes in distance to subject.\"\n\"○ (blinks white)\",\"Camera unable to focus.\"\n\"**MF**\",\"Manual focus (focus mode **MF**).\""
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 279.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "d9e379e6-eed0-42a7-818e-fc1e10262fc0",
+    "file_path": "../data/raw_data/x-s20/x-s20_split/x-s20_page119.pdf"
+}

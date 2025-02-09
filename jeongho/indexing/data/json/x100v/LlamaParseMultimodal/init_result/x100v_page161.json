@@ -1,0 +1,75 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "# SHOOTING SETTING\n\n## INTERVAL TIMER SHOOTING EXPOSURE SMOOTHING\n\nSelect **ON** to automatically adjust exposure during interval-timer photography to prevent it from changing dramatically between shots.\n\n| Options |        |\n|---------|--------|\n| ON      | OFF    |\n\n> 💡 **Note:**\n> - Large changes in subject brightness may make exposure appear erratic. We recommend that you choose shorter values for **INTERVAL TIMER SHOOTING > INTERVAL** with subjects that brighten or dim dramatically during shooting.\n> - In manual mode (mode **M**), exposure smoothing is only available if an **A** (auto) option is selected for sensitivity.",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "SHOOTING SETTING",
+                    "md": "# SHOOTING SETTING"
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "INTERVAL TIMER SHOOTING EXPOSURE SMOOTHING",
+                    "md": "## INTERVAL TIMER SHOOTING EXPOSURE SMOOTHING"
+                },
+                {
+                    "type": "text",
+                    "value": "Select **ON** to automatically adjust exposure during interval-timer photography to prevent it from changing dramatically between shots.",
+                    "md": "Select **ON** to automatically adjust exposure during interval-timer photography to prevent it from changing dramatically between shots."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Options",
+                            ""
+                        ],
+                        [
+                            "ON",
+                            "OFF"
+                        ]
+                    ],
+                    "md": "| Options |        |\n|---------|--------|\n| ON      | OFF    |",
+                    "isPerfectTable": true,
+                    "csv": "\"Options\",\"\"\n\"ON\",\"OFF\""
+                },
+                {
+                    "type": "text",
+                    "value": "> 💡 **Note:**\n> - Large changes in subject brightness may make exposure appear erratic. We recommend that you choose shorter values for **INTERVAL TIMER SHOOTING > INTERVAL** with subjects that brighten or dim dramatically during shooting.\n> - In manual mode (mode **M**), exposure smoothing is only available if an **A** (auto) option is selected for sensitivity.",
+                    "md": "> 💡 **Note:**\n> - Large changes in subject brightness may make exposure appear erratic. We recommend that you choose shorter values for **INTERVAL TIMER SHOOTING > INTERVAL** with subjects that brighten or dim dramatically during shooting.\n> - In manual mode (mode **M**), exposure smoothing is only available if an **A** (auto) option is selected for sensitivity."
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 651.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "a770e751-2ea0-4e2f-a374-cce9c696f07b",
+    "file_path": "../data/raw_data/x100v/x100v_split/x100v_page161.pdf"
+}

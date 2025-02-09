@@ -1,0 +1,294 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:14px'>SCREEN SETTING</header>\n<h1 id='1' style='font-size:16px'>AUTOROTATE PB</h1>\n<br><h1 id='2' style='font-size:20px'>Choose ON to automatically rotate \"tall\" (portrait-orientation)<br>pictures during playback.</h1>\n<br><table id='3' style='font-size:18px'><tr><td colspan=\"2\">Options</td></tr><tr><td>ON</td><td>OFF</td></tr><tr><td>FOCUS SCALE UNITS</td><td></td></tr><tr><td colspan=\"2\">Choose the units used for the focus distance indicator.</td></tr></table>\n<br><table id='4' style='font-size:16px'><tr><td colspan=\"2\">Options</td></tr><tr><td>METERS</td><td>FEET</td></tr></table>\n\n<br><p id='6' data-category='paragraph' style='font-size:18px'>Choose whether the camera displays aperture as a T-number<br>(used for movie camera lenses) or an f/-number (used for still<br>camera lenses) when an optional FUJINON MKX-series lens is<br>attached. For information on using cinema lenses, see the docu-<br>mentation provided with the lens.</p>\n<br><table id='7' style='font-size:14px'><tr><td>Option</td><td>Description</td></tr><tr><td>T NUMBER</td><td>A measure of lens aperture commonly used by cinematogra- phers. Lens transmittance is taken into account to better cal- culate exposure.</td></tr><tr><td>F NUMBER</td><td>A measure oflens aperture commonly used by photographers. Lens transmittance is assumed to be 100%, meaning that the same aperture may produce different exposures depending on the lens.</td></tr><caption id='5' style='font-size:16px'>APERTURE UNIT FOR CINEMA LENS</caption></table>\n<br><footer id='8' style='font-size:22px'>The<br>Setup<br>Menus</footer>\n<footer id='9' style='font-size:20px'>289</footer>",
+        "markdown": "SCREEN SETTING\n\n# AUTOROTATE PB\n\n# Choose ON to automatically rotate \"tall\" (portrait-orientation)\npictures during playback.\n\n| Options | Options |\n| --- | --- |\n| ON | OFF |\n| FOCUS SCALE UNITS |  |\n| Choose the units used for the focus distance indicator. | Choose the units used for the focus distance indicator. |\n\n\n| Options | Options |\n| --- | --- |\n| METERS | FEET |\n\n\nAPERTURE UNIT FOR CINEMA LENS\n\nChoose whether the camera displays aperture as a T-number\n(used for movie camera lenses) or an f/-number (used for still\ncamera lenses) when an optional FUJINON MKX-series lens is\nattached. For information on using cinema lenses, see the docu-\nmentation provided with the lens.\n\n| Option | Description |\n| --- | --- |\n| T NUMBER | A measure of lens aperture commonly used by cinematogra- phers. Lens transmittance is taken into account to better cal- culate exposure. |\n| F NUMBER | A measure oflens aperture commonly used by photographers. Lens transmittance is assumed to be 100%, meaning that the same aperture may produce different exposures depending on the lens. |\n\n\nThe\nSetup\nMenus\n\n289",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:14px'>SCREEN SETTING</header>",
+                "markdown": "SCREEN SETTING",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.7467,
+                    "y": 0.0283
+                },
+                {
+                    "x": 0.9184,
+                    "y": 0.0283
+                },
+                {
+                    "x": 0.9184,
+                    "y": 0.0492
+                },
+                {
+                    "x": 0.7467,
+                    "y": 0.0492
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='1' style='font-size:16px'>AUTOROTATE PB</h1>",
+                "markdown": "# AUTOROTATE PB",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1061,
+                    "y": 0.0727
+                },
+                {
+                    "x": 0.3363,
+                    "y": 0.0727
+                },
+                {
+                    "x": 0.3363,
+                    "y": 0.0946
+                },
+                {
+                    "x": 0.1061,
+                    "y": 0.0946
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='2' style='font-size:20px'>Choose ON to automatically rotate \"tall\" (portrait-orientation)<br>pictures during playback.</h1>",
+                "markdown": "# Choose ON to automatically rotate \"tall\" (portrait-orientation)\npictures during playback.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1052,
+                    "y": 0.1047
+                },
+                {
+                    "x": 0.9169,
+                    "y": 0.1047
+                },
+                {
+                    "x": 0.9169,
+                    "y": 0.1544
+                },
+                {
+                    "x": 0.1052,
+                    "y": 0.1544
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='3' style='font-size:18px'><tr><td colspan=\"2\">Options</td></tr><tr><td>ON</td><td>OFF</td></tr><tr><td>FOCUS SCALE UNITS</td><td></td></tr><tr><td colspan=\"2\">Choose the units used for the focus distance indicator.</td></tr></table>",
+                "markdown": "| Options | Options |\n| --- | --- |\n| ON | OFF |\n| FOCUS SCALE UNITS |  |\n| Choose the units used for the focus distance indicator. | Choose the units used for the focus distance indicator. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1071,
+                    "y": 0.1678
+                },
+                {
+                    "x": 0.9178,
+                    "y": 0.1678
+                },
+                {
+                    "x": 0.9178,
+                    "y": 0.2902
+                },
+                {
+                    "x": 0.1071,
+                    "y": 0.2902
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='4' style='font-size:16px'><tr><td colspan=\"2\">Options</td></tr><tr><td>METERS</td><td>FEET</td></tr></table>",
+                "markdown": "| Options | Options |\n| --- | --- |\n| METERS | FEET |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1065,
+                    "y": 0.3029
+                },
+                {
+                    "x": 0.9163,
+                    "y": 0.3029
+                },
+                {
+                    "x": 0.9163,
+                    "y": 0.3541
+                },
+                {
+                    "x": 0.1065,
+                    "y": 0.3541
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='5' data-category='paragraph' style='font-size:16px'>APERTURE UNIT FOR CINEMA LENS</p>",
+                "markdown": "APERTURE UNIT FOR CINEMA LENS",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1046,
+                    "y": 0.3712
+                },
+                {
+                    "x": 0.5831,
+                    "y": 0.3712
+                },
+                {
+                    "x": 0.5831,
+                    "y": 0.394
+                },
+                {
+                    "x": 0.1046,
+                    "y": 0.394
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='6' data-category='paragraph' style='font-size:18px'>Choose whether the camera displays aperture as a T-number<br>(used for movie camera lenses) or an f/-number (used for still<br>camera lenses) when an optional FUJINON MKX-series lens is<br>attached. For information on using cinema lenses, see the docu-<br>mentation provided with the lens.</p>",
+                "markdown": "Choose whether the camera displays aperture as a T-number\n(used for movie camera lenses) or an f/-number (used for still\ncamera lenses) when an optional FUJINON MKX-series lens is\nattached. For information on using cinema lenses, see the docu-\nmentation provided with the lens.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1053,
+                    "y": 0.4033
+                },
+                {
+                    "x": 0.9196,
+                    "y": 0.4033
+                },
+                {
+                    "x": 0.9196,
+                    "y": 0.5297
+                },
+                {
+                    "x": 0.1053,
+                    "y": 0.5297
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='7' style='font-size:14px'><tr><td>Option</td><td>Description</td></tr><tr><td>T NUMBER</td><td>A measure of lens aperture commonly used by cinematogra- phers. Lens transmittance is taken into account to better cal- culate exposure.</td></tr><tr><td>F NUMBER</td><td>A measure oflens aperture commonly used by photographers. Lens transmittance is assumed to be 100%, meaning that the same aperture may produce different exposures depending on the lens.</td></tr></table>",
+                "markdown": "| Option | Description |\n| --- | --- |\n| T NUMBER | A measure of lens aperture commonly used by cinematogra- phers. Lens transmittance is taken into account to better cal- culate exposure. |\n| F NUMBER | A measure oflens aperture commonly used by photographers. Lens transmittance is assumed to be 100%, meaning that the same aperture may produce different exposures depending on the lens. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1099,
+                    "y": 0.5406
+                },
+                {
+                    "x": 0.9192,
+                    "y": 0.5406
+                },
+                {
+                    "x": 0.9192,
+                    "y": 0.7308
+                },
+                {
+                    "x": 0.1099,
+                    "y": 0.7308
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<br><footer id='8' style='font-size:22px'>The<br>Setup<br>Menus</footer>",
+                "markdown": "The\nSetup\nMenus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9549,
+                    "y": 0.5666
+                },
+                {
+                    "x": 0.9893,
+                    "y": 0.5666
+                },
+                {
+                    "x": 0.9893,
+                    "y": 0.7407
+                },
+                {
+                    "x": 0.9549,
+                    "y": 0.7407
+                }
+            ],
+            "id": 8,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='9' style='font-size:20px'>289</footer>",
+                "markdown": "289",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.8601,
+                    "y": 0.9559
+                },
+                {
+                    "x": 0.9182,
+                    "y": 0.9559
+                },
+                {
+                    "x": 0.9182,
+                    "y": 0.98
+                },
+                {
+                    "x": 0.8601,
+                    "y": 0.98
+                }
+            ],
+            "id": 9,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

@@ -1,0 +1,406 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<h1 id='0' style='font-size:18px'>4K HDMI STANDBY QUALITY</h1>\n<br><h1 id='1' style='font-size:18px'>Choose whether output to connected HDMI devices switches<br>from 4K to Full HD during standby.</h1>\n<table id='2' style='font-size:14px'><tr><td>Option</td><td>Description</td></tr><tr><td>4K</td><td>Output to HDMI devices continues at 4K during standby.</td></tr><tr><td>FHD</td><td>Output to HDMI devices switches to Full HD during standby, reducing the drain on the battery.</td></tr></table>\n<p id='3' data-category='paragraph' style='font-size:16px'>HDMI REC CONTROL</p>\n\n<br><table id='5' style='font-size:16px'><tr><td colspan=\"2\">Options</td></tr><tr><td>ON</td><td>OFF</td></tr><br><caption id='4' style='font-size:18px'>Choose whether the camera sends movie start and stop signals<br>to the HDMI device when the shutter button is pressed to start<br>and stop movie recording.</caption></table>\n<p id='6' data-category='paragraph' style='font-size:16px'>ZEBRA SETTING</p>\n<br><p id='7' data-category='paragraph' style='font-size:20px'>Highlights that may be overexposed are shown by zebra stripes<br>in the movie mode display.</p>\n<br><table id='8' style='font-size:18px'><tr><td>Option</td><td>Description</td></tr><tr><td>ZEBRA RIGHT</td><td>Right-slanting stripes.</td></tr><tr><td>ZEBRA LEFT</td><td>Left-slanting stripes.</td></tr><tr><td>OFF</td><td>Stripes off.</td></tr></table>\n<p id='9' data-category='paragraph' style='font-size:16px'>ZEBRA LEVEL</p>\n<br><header id='10' style='font-size:22px'>The<br>Shooting<br>Menus</header>\n\n<br><table id='12' style='font-size:14px'><tr><td rowspan=\"2\" colspan=\"11\">Options</td></tr><tr></tr><tr><td>50</td><td>55</td><td>60</td><td>65</td><td>70</td><td>75</td><td>80</td><td>85</td><td>90</td><td>95</td><td>100</td></tr><br><caption id='11' style='font-size:20px'>Choose the brightness threshold for the zebra stripe display.</caption></table>\n<footer id='13' style='font-size:20px'>166</footer>",
+        "markdown": "# 4K HDMI STANDBY QUALITY\n\n# Choose whether output to connected HDMI devices switches\nfrom 4K to Full HD during standby.\n\n| Option | Description |\n| --- | --- |\n| 4K | Output to HDMI devices continues at 4K during standby. |\n| FHD | Output to HDMI devices switches to Full HD during standby, reducing the drain on the battery. |\n\n\nHDMI REC CONTROL\n\nChoose whether the camera sends movie start and stop signals\nto the HDMI device when the shutter button is pressed to start\nand stop movie recording.\n\n| Options | Options |\n| --- | --- |\n| ON | OFF |\n\n\nZEBRA SETTING\n\nHighlights that may be overexposed are shown by zebra stripes\nin the movie mode display.\n\n| Option | Description |\n| --- | --- |\n| ZEBRA RIGHT | Right-slanting stripes. |\n| ZEBRA LEFT | Left-slanting stripes. |\n| OFF | Stripes off. |\n\n\nZEBRA LEVEL\n\nThe\nShooting\nMenus\n\nChoose the brightness threshold for the zebra stripe display.\n\n| Options | Options | Options | Options | Options | Options | Options | Options | Options | Options | Options |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| Options | Options | Options | Options | Options | Options | Options | Options | Options | Options | Options |\n| 50 | 55 | 60 | 65 | 70 | 75 | 80 | 85 | 90 | 95 | 100 |\n\n\n166",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='0' style='font-size:18px'>4K HDMI STANDBY QUALITY</h1>",
+                "markdown": "# 4K HDMI STANDBY QUALITY",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0817,
+                    "y": 0.0728
+                },
+                {
+                    "x": 0.4676,
+                    "y": 0.0728
+                },
+                {
+                    "x": 0.4676,
+                    "y": 0.0956
+                },
+                {
+                    "x": 0.0817,
+                    "y": 0.0956
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='1' style='font-size:18px'>Choose whether output to connected HDMI devices switches<br>from 4K to Full HD during standby.</h1>",
+                "markdown": "# Choose whether output to connected HDMI devices switches\nfrom 4K to Full HD during standby.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0797,
+                    "y": 0.1044
+                },
+                {
+                    "x": 0.8923,
+                    "y": 0.1044
+                },
+                {
+                    "x": 0.8923,
+                    "y": 0.1547
+                },
+                {
+                    "x": 0.0797,
+                    "y": 0.1547
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='2' style='font-size:14px'><tr><td>Option</td><td>Description</td></tr><tr><td>4K</td><td>Output to HDMI devices continues at 4K during standby.</td></tr><tr><td>FHD</td><td>Output to HDMI devices switches to Full HD during standby, reducing the drain on the battery.</td></tr></table>",
+                "markdown": "| Option | Description |\n| --- | --- |\n| 4K | Output to HDMI devices continues at 4K during standby. |\n| FHD | Output to HDMI devices switches to Full HD during standby, reducing the drain on the battery. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0855,
+                    "y": 0.167
+                },
+                {
+                    "x": 0.8926,
+                    "y": 0.167
+                },
+                {
+                    "x": 0.8926,
+                    "y": 0.264
+                },
+                {
+                    "x": 0.0855,
+                    "y": 0.264
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='3' data-category='paragraph' style='font-size:16px'>HDMI REC CONTROL</p>",
+                "markdown": "HDMI REC CONTROL",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0835,
+                    "y": 0.2822
+                },
+                {
+                    "x": 0.3576,
+                    "y": 0.2822
+                },
+                {
+                    "x": 0.3576,
+                    "y": 0.3039
+                },
+                {
+                    "x": 0.0835,
+                    "y": 0.3039
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='4' data-category='paragraph' style='font-size:18px'>Choose whether the camera sends movie start and stop signals<br>to the HDMI device when the shutter button is pressed to start<br>and stop movie recording.</p>",
+                "markdown": "Choose whether the camera sends movie start and stop signals\nto the HDMI device when the shutter button is pressed to start\nand stop movie recording.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0811,
+                    "y": 0.3135
+                },
+                {
+                    "x": 0.8948,
+                    "y": 0.3135
+                },
+                {
+                    "x": 0.8948,
+                    "y": 0.3891
+                },
+                {
+                    "x": 0.0811,
+                    "y": 0.3891
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='5' style='font-size:16px'><tr><td colspan=\"2\">Options</td></tr><tr><td>ON</td><td>OFF</td></tr></table>",
+                "markdown": "| Options | Options |\n| --- | --- |\n| ON | OFF |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0894,
+                    "y": 0.4016
+                },
+                {
+                    "x": 0.8897,
+                    "y": 0.4016
+                },
+                {
+                    "x": 0.8897,
+                    "y": 0.4541
+                },
+                {
+                    "x": 0.0894,
+                    "y": 0.4541
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='6' data-category='paragraph' style='font-size:16px'>ZEBRA SETTING</p>",
+                "markdown": "ZEBRA SETTING",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0809,
+                    "y": 0.4695
+                },
+                {
+                    "x": 0.3034,
+                    "y": 0.4695
+                },
+                {
+                    "x": 0.3034,
+                    "y": 0.4911
+                },
+                {
+                    "x": 0.0809,
+                    "y": 0.4911
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='7' data-category='paragraph' style='font-size:20px'>Highlights that may be overexposed are shown by zebra stripes<br>in the movie mode display.</p>",
+                "markdown": "Highlights that may be overexposed are shown by zebra stripes\nin the movie mode display.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0804,
+                    "y": 0.5002
+                },
+                {
+                    "x": 0.8916,
+                    "y": 0.5002
+                },
+                {
+                    "x": 0.8916,
+                    "y": 0.5515
+                },
+                {
+                    "x": 0.0804,
+                    "y": 0.5515
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='8' style='font-size:18px'><tr><td>Option</td><td>Description</td></tr><tr><td>ZEBRA RIGHT</td><td>Right-slanting stripes.</td></tr><tr><td>ZEBRA LEFT</td><td>Left-slanting stripes.</td></tr><tr><td>OFF</td><td>Stripes off.</td></tr></table>",
+                "markdown": "| Option | Description |\n| --- | --- |\n| ZEBRA RIGHT | Right-slanting stripes. |\n| ZEBRA LEFT | Left-slanting stripes. |\n| OFF | Stripes off. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0816,
+                    "y": 0.5629
+                },
+                {
+                    "x": 0.89,
+                    "y": 0.5629
+                },
+                {
+                    "x": 0.89,
+                    "y": 0.6725
+                },
+                {
+                    "x": 0.0816,
+                    "y": 0.6725
+                }
+            ],
+            "id": 8,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='9' data-category='paragraph' style='font-size:16px'>ZEBRA LEVEL</p>",
+                "markdown": "ZEBRA LEVEL",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0813,
+                    "y": 0.6907
+                },
+                {
+                    "x": 0.2653,
+                    "y": 0.6907
+                },
+                {
+                    "x": 0.2653,
+                    "y": 0.7125
+                },
+                {
+                    "x": 0.0813,
+                    "y": 0.7125
+                }
+            ],
+            "id": 9,
+            "page": 1
+        },
+        {
+            "category": "header",
+            "content": {
+                "html": "<br><header id='10' style='font-size:22px'>The<br>Shooting<br>Menus</header>",
+                "markdown": "The\nShooting\nMenus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0166,
+                    "y": 0.5764
+                },
+                {
+                    "x": 0.0413,
+                    "y": 0.5764
+                },
+                {
+                    "x": 0.0413,
+                    "y": 0.7307
+                },
+                {
+                    "x": 0.0166,
+                    "y": 0.7307
+                }
+            ],
+            "id": 10,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='11' data-category='paragraph' style='font-size:20px'>Choose the brightness threshold for the zebra stripe display.</p>",
+                "markdown": "Choose the brightness threshold for the zebra stripe display.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0805,
+                    "y": 0.7214
+                },
+                {
+                    "x": 0.8418,
+                    "y": 0.7214
+                },
+                {
+                    "x": 0.8418,
+                    "y": 0.7479
+                },
+                {
+                    "x": 0.0805,
+                    "y": 0.7479
+                }
+            ],
+            "id": 11,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='12' style='font-size:14px'><tr><td rowspan=\"2\" colspan=\"11\">Options</td></tr><tr></tr><tr><td>50</td><td>55</td><td>60</td><td>65</td><td>70</td><td>75</td><td>80</td><td>85</td><td>90</td><td>95</td><td>100</td></tr></table>",
+                "markdown": "| Options | Options | Options | Options | Options | Options | Options | Options | Options | Options | Options |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| Options | Options | Options | Options | Options | Options | Options | Options | Options | Options | Options |\n| 50 | 55 | 60 | 65 | 70 | 75 | 80 | 85 | 90 | 95 | 100 |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0843,
+                    "y": 0.7591
+                },
+                {
+                    "x": 0.8927,
+                    "y": 0.7591
+                },
+                {
+                    "x": 0.8927,
+                    "y": 0.8112
+                },
+                {
+                    "x": 0.0843,
+                    "y": 0.8112
+                }
+            ],
+            "id": 12,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='13' style='font-size:20px'>166</footer>",
+                "markdown": "166",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0846,
+                    "y": 0.9565
+                },
+                {
+                    "x": 0.1406,
+                    "y": 0.9565
+                },
+                {
+                    "x": 0.1406,
+                    "y": 0.9794
+                },
+                {
+                    "x": 0.0846,
+                    "y": 0.9794
+                }
+            ],
+            "id": 13,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

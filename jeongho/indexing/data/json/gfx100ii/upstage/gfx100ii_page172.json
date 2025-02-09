@@ -1,0 +1,322 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<h1 id='0' style='font-size:16px'>IS MODE</h1>\n\n<table id='2' style='font-size:18px'><tr><td>Option</td><td>Description</td></tr><tr><td>CONTINUOUS</td><td>Image stabilization on.</td></tr><tr><td>SHOOTING ONLY</td><td>Image stabilization enabled only when the shutter button is pressed halfway (focus mode C) or the shutter is released.</td></tr><tr><td>OFF</td><td>Image stabilization off; appears in the display.</td></tr><br><caption id='1' style='font-size:18px'>Turn image stabilization on or off.</caption></table>\n<p id='3' data-category='list' style='font-size:16px'>The setting selected with the lens image stabilization switch, if any,<br>takes priority over the setting chosen with IS MODE.<br>● Note that vibration or camera sounds may be noticeable as image<br>stabilization takes effect.</p>\n<p id='4' data-category='paragraph' style='font-size:18px'>35mm FORMAT MODE</p>\n<br><p id='5' data-category='paragraph' style='font-size:20px'>Enabling □ SHOOTING SETTING > 35mm<br>FORMAT MODE in the shooting menu sets<br>the picture angle to 35 mm; the change is<br>reflected in the display.</p>\n<br><figure id='6' data-category='chart'><img style='font-size:14px' alt=\"35 L SH \n区 \n000000 \n\" data-coord=\"top-left:(1686,1621); bottom-right:(2462,2211)\" /></figure>\n<br><table id='7' style='font-size:16px'><tr><td>Option</td><td>Description</td></tr><tr><td>ON</td><td>The picture angle is set to 35 mm; the change is reflected in the display.</td></tr><tr><td>OFF</td><td>35 mm format mode disabled.</td></tr><tr><td>AUTO</td><td>35 mm format mode is enabled automatically when a mount adapter that supports automatic detection is attached.</td></tr></table>\n<br><header id='8' style='font-size:22px'>The<br>Shooting<br>Menus</header>\n<br><p id='9' data-category='paragraph' style='font-size:14px'>● The 8 SCREEN SET-UP > DISP. CUSTOM SETTING item in the setup<br>menu ( == 25, 349) includes an option (enabled by default) for dis-<br>playing a 35mm FORMAT MODE icon.<br>● The I.Q. IMAGE QUALITY SETTING > IMAGE SIZE item in the shoot-<br>ing menu is fixed at  3:2.</p>\n<footer id='10' style='font-size:20px'>172</footer>",
+        "markdown": "# IS MODE\n\nTurn image stabilization on or off.\n\n| Option | Description |\n| --- | --- |\n| CONTINUOUS | Image stabilization on. |\n| SHOOTING ONLY | Image stabilization enabled only when the shutter button is pressed halfway (focus mode C) or the shutter is released. |\n| OFF | Image stabilization off; appears in the display. |\n\n\n- The setting selected with the lens image stabilization switch, if any,\n- takes priority over the setting chosen with IS MODE.\n- ● Note that vibration or camera sounds may be noticeable as image\n- stabilization takes effect.\n\n\n35mm FORMAT MODE\n\nEnabling □ SHOOTING SETTING > 35mm\nFORMAT MODE in the shooting menu sets\nthe picture angle to 35 mm; the change is\nreflected in the display.\n\n![image](/image/placeholder)\n35 L SH \n区 \n000000 \n\n\n| Option | Description |\n| --- | --- |\n| ON | The picture angle is set to 35 mm; the change is reflected in the display. |\n| OFF | 35 mm format mode disabled. |\n| AUTO | 35 mm format mode is enabled automatically when a mount adapter that supports automatic detection is attached. |\n\n\nThe\nShooting\nMenus\n\n● The 8 SCREEN SET-UP > DISP. CUSTOM SETTING item in the setup\nmenu ( == 25, 349) includes an option (enabled by default) for dis-\nplaying a 35mm FORMAT MODE icon.\n● The I.Q. IMAGE QUALITY SETTING > IMAGE SIZE item in the shoot-\ning menu is fixed at  3:2.\n\n172",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='0' style='font-size:16px'>IS MODE</h1>",
+                "markdown": "# IS MODE",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0829,
+                    "y": 0.073
+                },
+                {
+                    "x": 0.2049,
+                    "y": 0.073
+                },
+                {
+                    "x": 0.2049,
+                    "y": 0.0947
+                },
+                {
+                    "x": 0.0829,
+                    "y": 0.0947
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='1' data-category='paragraph' style='font-size:18px'>Turn image stabilization on or off.</p>",
+                "markdown": "Turn image stabilization on or off.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0815,
+                    "y": 0.105
+                },
+                {
+                    "x": 0.5072,
+                    "y": 0.105
+                },
+                {
+                    "x": 0.5072,
+                    "y": 0.1278
+                },
+                {
+                    "x": 0.0815,
+                    "y": 0.1278
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='2' style='font-size:18px'><tr><td>Option</td><td>Description</td></tr><tr><td>CONTINUOUS</td><td>Image stabilization on.</td></tr><tr><td>SHOOTING ONLY</td><td>Image stabilization enabled only when the shutter button is pressed halfway (focus mode C) or the shutter is released.</td></tr><tr><td>OFF</td><td>Image stabilization off; appears in the display.</td></tr></table>",
+                "markdown": "| Option | Description |\n| --- | --- |\n| CONTINUOUS | Image stabilization on. |\n| SHOOTING ONLY | Image stabilization enabled only when the shutter button is pressed halfway (focus mode C) or the shutter is released. |\n| OFF | Image stabilization off; appears in the display. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0844,
+                    "y": 0.1416
+                },
+                {
+                    "x": 0.8921,
+                    "y": 0.1416
+                },
+                {
+                    "x": 0.8921,
+                    "y": 0.2616
+                },
+                {
+                    "x": 0.0844,
+                    "y": 0.2616
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "list",
+            "content": {
+                "html": "<p id='3' data-category='list' style='font-size:16px'>The setting selected with the lens image stabilization switch, if any,<br>takes priority over the setting chosen with IS MODE.<br>● Note that vibration or camera sounds may be noticeable as image<br>stabilization takes effect.</p>",
+                "markdown": "- The setting selected with the lens image stabilization switch, if any,\n- takes priority over the setting chosen with IS MODE.\n- ● Note that vibration or camera sounds may be noticeable as image\n- stabilization takes effect.\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0934,
+                    "y": 0.2727
+                },
+                {
+                    "x": 0.8905,
+                    "y": 0.2727
+                },
+                {
+                    "x": 0.8905,
+                    "y": 0.3634
+                },
+                {
+                    "x": 0.0934,
+                    "y": 0.3634
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='4' data-category='paragraph' style='font-size:18px'>35mm FORMAT MODE</p>",
+                "markdown": "35mm FORMAT MODE",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0808,
+                    "y": 0.385
+                },
+                {
+                    "x": 0.3878,
+                    "y": 0.385
+                },
+                {
+                    "x": 0.3878,
+                    "y": 0.4073
+                },
+                {
+                    "x": 0.0808,
+                    "y": 0.4073
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='5' data-category='paragraph' style='font-size:20px'>Enabling □ SHOOTING SETTING > 35mm<br>FORMAT MODE in the shooting menu sets<br>the picture angle to 35 mm; the change is<br>reflected in the display.</p>",
+                "markdown": "Enabling □ SHOOTING SETTING > 35mm\nFORMAT MODE in the shooting menu sets\nthe picture angle to 35 mm; the change is\nreflected in the display.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0807,
+                    "y": 0.4176
+                },
+                {
+                    "x": 0.6008,
+                    "y": 0.4176
+                },
+                {
+                    "x": 0.6008,
+                    "y": 0.5181
+                },
+                {
+                    "x": 0.0807,
+                    "y": 0.5181
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "figure",
+            "content": {
+                "html": "<br><figure id='6' data-category='chart'><img style='font-size:14px' alt=\"35 L SH \n区 \n000000 \n\" data-coord=\"top-left:(1686,1621); bottom-right:(2462,2211)\" /></figure>",
+                "markdown": "![image](/image/placeholder)\n35 L SH \n区 \n000000 \n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6103,
+                    "y": 0.4159
+                },
+                {
+                    "x": 0.8909,
+                    "y": 0.4159
+                },
+                {
+                    "x": 0.8909,
+                    "y": 0.5672
+                },
+                {
+                    "x": 0.6103,
+                    "y": 0.5672
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='7' style='font-size:16px'><tr><td>Option</td><td>Description</td></tr><tr><td>ON</td><td>The picture angle is set to 35 mm; the change is reflected in the display.</td></tr><tr><td>OFF</td><td>35 mm format mode disabled.</td></tr><tr><td>AUTO</td><td>35 mm format mode is enabled automatically when a mount adapter that supports automatic detection is attached.</td></tr></table>",
+                "markdown": "| Option | Description |\n| --- | --- |\n| ON | The picture angle is set to 35 mm; the change is reflected in the display. |\n| OFF | 35 mm format mode disabled. |\n| AUTO | 35 mm format mode is enabled automatically when a mount adapter that supports automatic detection is attached. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0869,
+                    "y": 0.5709
+                },
+                {
+                    "x": 0.8942,
+                    "y": 0.5709
+                },
+                {
+                    "x": 0.8942,
+                    "y": 0.7133
+                },
+                {
+                    "x": 0.0869,
+                    "y": 0.7133
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "header",
+            "content": {
+                "html": "<br><header id='8' style='font-size:22px'>The<br>Shooting<br>Menus</header>",
+                "markdown": "The\nShooting\nMenus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0168,
+                    "y": 0.5767
+                },
+                {
+                    "x": 0.0416,
+                    "y": 0.5767
+                },
+                {
+                    "x": 0.0416,
+                    "y": 0.731
+                },
+                {
+                    "x": 0.0168,
+                    "y": 0.731
+                }
+            ],
+            "id": 8,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='9' data-category='paragraph' style='font-size:14px'>● The 8 SCREEN SET-UP > DISP. CUSTOM SETTING item in the setup<br>menu ( == 25, 349) includes an option (enabled by default) for dis-<br>playing a 35mm FORMAT MODE icon.<br>● The I.Q. IMAGE QUALITY SETTING > IMAGE SIZE item in the shoot-<br>ing menu is fixed at  3:2.</p>",
+                "markdown": "● The 8 SCREEN SET-UP > DISP. CUSTOM SETTING item in the setup\nmenu ( == 25, 349) includes an option (enabled by default) for dis-\nplaying a 35mm FORMAT MODE icon.\n● The I.Q. IMAGE QUALITY SETTING > IMAGE SIZE item in the shoot-\ning menu is fixed at  3:2.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1159,
+                    "y": 0.7309
+                },
+                {
+                    "x": 0.888,
+                    "y": 0.7309
+                },
+                {
+                    "x": 0.888,
+                    "y": 0.8392
+                },
+                {
+                    "x": 0.1159,
+                    "y": 0.8392
+                }
+            ],
+            "id": 9,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='10' style='font-size:20px'>172</footer>",
+                "markdown": "172",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0851,
+                    "y": 0.9569
+                },
+                {
+                    "x": 0.1388,
+                    "y": 0.9569
+                },
+                {
+                    "x": 0.1388,
+                    "y": 0.9786
+                },
+                {
+                    "x": 0.0851,
+                    "y": 0.9786
+                }
+            ],
+            "id": 10,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

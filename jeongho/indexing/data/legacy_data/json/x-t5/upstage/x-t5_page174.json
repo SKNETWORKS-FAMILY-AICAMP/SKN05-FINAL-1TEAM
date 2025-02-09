@@ -1,0 +1,322 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<h1 id='0' style='font-size:18px'>FLICKERLESS S.S. SETTING</h1>\n<br><p id='1' data-category='paragraph' style='font-size:20px'>Select ON to allow shutter speed to be fine-tuned to reduce flick-<br>er caused by LED lighting and the like.</p>\n<br><h1 id='2' style='font-size:22px'>Options</h1>\n<br><p id='3' data-category='paragraph' style='font-size:14px'>ON OFF</p>\n<p id='4' data-category='paragraph' style='font-size:16px'>This option takes effect only in modes S and M.</p>\n<p id='5' data-category='paragraph' style='font-size:16px'>IS MODE</p>\n\n<table id='7' style='font-size:18px'><tr><td>Option</td><td>Description</td></tr><tr><td>CONTINUOUS</td><td>Image stabilization on.</td></tr><tr><td>SHOOTING ONLY</td><td>Image stabilization enabled only when the shutter button is pressed halfway (focus mode C) or the shutter is released.</td></tr><tr><td>OFF</td><td>Image stabilization off; appears in the display.</td></tr><br><caption id='6' style='font-size:18px'>Turn image stabilization on or off.</caption></table>\n<p id='8' data-category='list' style='font-size:14px'>● The setting selected with the lens image stabilization switch, if any,<br>takes priority over the setting chosen with IS MODE.<br>● Note that vibration or camera sounds may be noticeable as image<br>stabilization takes effect.</p>\n<footer id='9' style='font-size:20px'>174</footer>\n<br><header id='10' style='font-size:22px'>The<br>Shooting<br>Menus</header>",
+        "markdown": "# FLICKERLESS S.S. SETTING\n\nSelect ON to allow shutter speed to be fine-tuned to reduce flick-\ner caused by LED lighting and the like.\n\n# Options\n\nON OFF\n\nThis option takes effect only in modes S and M.\n\nIS MODE\n\nTurn image stabilization on or off.\n\n| Option | Description |\n| --- | --- |\n| CONTINUOUS | Image stabilization on. |\n| SHOOTING ONLY | Image stabilization enabled only when the shutter button is pressed halfway (focus mode C) or the shutter is released. |\n| OFF | Image stabilization off; appears in the display. |\n\n\n- ● The setting selected with the lens image stabilization switch, if any,\n- takes priority over the setting chosen with IS MODE.\n- ● Note that vibration or camera sounds may be noticeable as image\n- stabilization takes effect.\n\n\n174\n\nThe\nShooting\nMenus",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='0' style='font-size:18px'>FLICKERLESS S.S. SETTING</h1>",
+                "markdown": "# FLICKERLESS S.S. SETTING",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.083,
+                    "y": 0.0728
+                },
+                {
+                    "x": 0.4425,
+                    "y": 0.0728
+                },
+                {
+                    "x": 0.4425,
+                    "y": 0.0953
+                },
+                {
+                    "x": 0.083,
+                    "y": 0.0953
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='1' data-category='paragraph' style='font-size:20px'>Select ON to allow shutter speed to be fine-tuned to reduce flick-<br>er caused by LED lighting and the like.</p>",
+                "markdown": "Select ON to allow shutter speed to be fine-tuned to reduce flick-\ner caused by LED lighting and the like.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0811,
+                    "y": 0.1044
+                },
+                {
+                    "x": 0.8906,
+                    "y": 0.1044
+                },
+                {
+                    "x": 0.8906,
+                    "y": 0.1545
+                },
+                {
+                    "x": 0.0811,
+                    "y": 0.1545
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='2' style='font-size:22px'>Options</h1>",
+                "markdown": "# Options",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.4473,
+                    "y": 0.1693
+                },
+                {
+                    "x": 0.5279,
+                    "y": 0.1693
+                },
+                {
+                    "x": 0.5279,
+                    "y": 0.1913
+                },
+                {
+                    "x": 0.4473,
+                    "y": 0.1913
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='3' data-category='paragraph' style='font-size:14px'>ON OFF</p>",
+                "markdown": "ON OFF",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.2704,
+                    "y": 0.1935
+                },
+                {
+                    "x": 0.7081,
+                    "y": 0.1935
+                },
+                {
+                    "x": 0.7081,
+                    "y": 0.2109
+                },
+                {
+                    "x": 0.2704,
+                    "y": 0.2109
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='4' data-category='paragraph' style='font-size:16px'>This option takes effect only in modes S and M.</p>",
+                "markdown": "This option takes effect only in modes S and M.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.084,
+                    "y": 0.2299
+                },
+                {
+                    "x": 0.6327,
+                    "y": 0.2299
+                },
+                {
+                    "x": 0.6327,
+                    "y": 0.2521
+                },
+                {
+                    "x": 0.084,
+                    "y": 0.2521
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='5' data-category='paragraph' style='font-size:16px'>IS MODE</p>",
+                "markdown": "IS MODE",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0831,
+                    "y": 0.2783
+                },
+                {
+                    "x": 0.2048,
+                    "y": 0.2783
+                },
+                {
+                    "x": 0.2048,
+                    "y": 0.3015
+                },
+                {
+                    "x": 0.0831,
+                    "y": 0.3015
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='6' data-category='paragraph' style='font-size:18px'>Turn image stabilization on or off.</p>",
+                "markdown": "Turn image stabilization on or off.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0818,
+                    "y": 0.3108
+                },
+                {
+                    "x": 0.5072,
+                    "y": 0.3108
+                },
+                {
+                    "x": 0.5072,
+                    "y": 0.3348
+                },
+                {
+                    "x": 0.0818,
+                    "y": 0.3348
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='7' style='font-size:18px'><tr><td>Option</td><td>Description</td></tr><tr><td>CONTINUOUS</td><td>Image stabilization on.</td></tr><tr><td>SHOOTING ONLY</td><td>Image stabilization enabled only when the shutter button is pressed halfway (focus mode C) or the shutter is released.</td></tr><tr><td>OFF</td><td>Image stabilization off; appears in the display.</td></tr></table>",
+                "markdown": "| Option | Description |\n| --- | --- |\n| CONTINUOUS | Image stabilization on. |\n| SHOOTING ONLY | Image stabilization enabled only when the shutter button is pressed halfway (focus mode C) or the shutter is released. |\n| OFF | Image stabilization off; appears in the display. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0852,
+                    "y": 0.3476
+                },
+                {
+                    "x": 0.8928,
+                    "y": 0.3476
+                },
+                {
+                    "x": 0.8928,
+                    "y": 0.4684
+                },
+                {
+                    "x": 0.0852,
+                    "y": 0.4684
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "list",
+            "content": {
+                "html": "<p id='8' data-category='list' style='font-size:14px'>● The setting selected with the lens image stabilization switch, if any,<br>takes priority over the setting chosen with IS MODE.<br>● Note that vibration or camera sounds may be noticeable as image<br>stabilization takes effect.</p>",
+                "markdown": "- ● The setting selected with the lens image stabilization switch, if any,\n- takes priority over the setting chosen with IS MODE.\n- ● Note that vibration or camera sounds may be noticeable as image\n- stabilization takes effect.\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0993,
+                    "y": 0.4804
+                },
+                {
+                    "x": 0.89,
+                    "y": 0.4804
+                },
+                {
+                    "x": 0.89,
+                    "y": 0.5699
+                },
+                {
+                    "x": 0.0993,
+                    "y": 0.5699
+                }
+            ],
+            "id": 8,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='9' style='font-size:20px'>174</footer>",
+                "markdown": "174",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0848,
+                    "y": 0.9569
+                },
+                {
+                    "x": 0.1401,
+                    "y": 0.9569
+                },
+                {
+                    "x": 0.1401,
+                    "y": 0.9789
+                },
+                {
+                    "x": 0.0848,
+                    "y": 0.9789
+                }
+            ],
+            "id": 9,
+            "page": 1
+        },
+        {
+            "category": "header",
+            "content": {
+                "html": "<br><header id='10' style='font-size:22px'>The<br>Shooting<br>Menus</header>",
+                "markdown": "The\nShooting\nMenus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0164,
+                    "y": 0.5791
+                },
+                {
+                    "x": 0.0422,
+                    "y": 0.5791
+                },
+                {
+                    "x": 0.0422,
+                    "y": 0.7312
+                },
+                {
+                    "x": 0.0164,
+                    "y": 0.7312
+                }
+            ],
+            "id": 10,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

@@ -1,0 +1,182 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:22px'>Before<br>You<br>Begin</header>\n<br><h1 id='1' style='font-size:20px'>The Eye Cup</h1>\n<br><h1 id='2' style='font-size:16px'>To remove the eye cup, hold the buttons<br>on either side and slide eye cup up.</h1>\n\n<br><figure id='4'><img alt=\"\" data-coord=\"top-left:(1670,413); bottom-right:(2483,999)\" /><figcaption id='3' style='font-size:14px'>1</figcaption></figure>\n<footer id='5' style='font-size:18px'>14</footer>",
+        "markdown": "Before\nYou\nBegin\n\n# The Eye Cup\n\n# To remove the eye cup, hold the buttons\non either side and slide eye cup up.\n\n1\n\n![image](/image/placeholder)\n\n\n14",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:22px'>Before<br>You<br>Begin</header>",
+                "markdown": "Before\nYou\nBegin",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0177,
+                    "y": 0.2779
+                },
+                {
+                    "x": 0.043,
+                    "y": 0.2779
+                },
+                {
+                    "x": 0.043,
+                    "y": 0.4033
+                },
+                {
+                    "x": 0.0177,
+                    "y": 0.4033
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='1' style='font-size:20px'>The Eye Cup</h1>",
+                "markdown": "# The Eye Cup",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0831,
+                    "y": 0.0737
+                },
+                {
+                    "x": 0.2514,
+                    "y": 0.0737
+                },
+                {
+                    "x": 0.2514,
+                    "y": 0.0961
+                },
+                {
+                    "x": 0.0831,
+                    "y": 0.0961
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='2' style='font-size:16px'>To remove the eye cup, hold the buttons<br>on either side and slide eye cup up.</h1>",
+                "markdown": "# To remove the eye cup, hold the buttons\non either side and slide eye cup up.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0811,
+                    "y": 0.105
+                },
+                {
+                    "x": 0.6037,
+                    "y": 0.105
+                },
+                {
+                    "x": 0.6037,
+                    "y": 0.1551
+                },
+                {
+                    "x": 0.0811,
+                    "y": 0.1551
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='3' data-category='paragraph' style='font-size:14px'>1</p>",
+                "markdown": "1",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0286,
+                    "y": 0.2407
+                },
+                {
+                    "x": 0.0398,
+                    "y": 0.2407
+                },
+                {
+                    "x": 0.0398,
+                    "y": 0.2554
+                },
+                {
+                    "x": 0.0286,
+                    "y": 0.2554
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "figure",
+            "content": {
+                "html": "<br><figure id='4'><img alt=\"\" data-coord=\"top-left:(1670,413); bottom-right:(2483,999)\" /></figure>",
+                "markdown": "![image](/image/placeholder)\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6043,
+                    "y": 0.1061
+                },
+                {
+                    "x": 0.8986,
+                    "y": 0.1061
+                },
+                {
+                    "x": 0.8986,
+                    "y": 0.2564
+                },
+                {
+                    "x": 0.6043,
+                    "y": 0.2564
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='5' style='font-size:18px'>14</footer>",
+                "markdown": "14",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0851,
+                    "y": 0.9572
+                },
+                {
+                    "x": 0.1223,
+                    "y": 0.9572
+                },
+                {
+                    "x": 0.1223,
+                    "y": 0.9792
+                },
+                {
+                    "x": 0.0851,
+                    "y": 0.9792
+                }
+            ],
+            "id": 5,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

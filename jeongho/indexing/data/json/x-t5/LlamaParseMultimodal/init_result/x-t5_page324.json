@@ -1,0 +1,101 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "# SHUTTER AF\n\nChoose whether the camera focuses when the shutter button is pressed halfway.\n\n| Option | Description |\n|--------|-------------|\n| **AF-S** | - **ON**: Focus locks when the shutter button is pressed halfway. <br> - **OFF**: No focus operation is performed when the shutter button is pressed halfway. |\n| **AF-C** | - **ON**: The camera focuses while the shutter button is pressed halfway. <br> - **OFF**: No focus operation is performed when the shutter button is pressed halfway. |\n\n# SHUTTER AE\n\nIf **ON** is selected, exposure will lock while the shutter button is pressed halfway. The setting for focus mode C (**AF-C**) can be adjusted separately from that for modes S (**AF-S**) and M (manual focus).\n\n| Options |  |\n|---------|--|\n| **ON**  | **OFF** |\n\n> 💡 **Note:**  \n> Select **OFF** to allow the camera to adjust exposure before each shot taken in burst mode.",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "SHUTTER AF",
+                    "md": "# SHUTTER AF"
+                },
+                {
+                    "type": "text",
+                    "value": "Choose whether the camera focuses when the shutter button is pressed halfway.",
+                    "md": "Choose whether the camera focuses when the shutter button is pressed halfway."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Option",
+                            "Description"
+                        ],
+                        [
+                            "**AF-S**",
+                            "- **ON**: Focus locks when the shutter button is pressed halfway. <br> - **OFF**: No focus operation is performed when the shutter button is pressed halfway."
+                        ],
+                        [
+                            "**AF-C**",
+                            "- **ON**: The camera focuses while the shutter button is pressed halfway. <br> - **OFF**: No focus operation is performed when the shutter button is pressed halfway."
+                        ]
+                    ],
+                    "md": "| Option | Description |\n|--------|-------------|\n| **AF-S** | - **ON**: Focus locks when the shutter button is pressed halfway. <br> - **OFF**: No focus operation is performed when the shutter button is pressed halfway. |\n| **AF-C** | - **ON**: The camera focuses while the shutter button is pressed halfway. <br> - **OFF**: No focus operation is performed when the shutter button is pressed halfway. |",
+                    "isPerfectTable": true,
+                    "csv": "\"Option\",\"Description\"\n\"**AF-S**\",\"- **ON**: Focus locks when the shutter button is pressed halfway. <br> - **OFF**: No focus operation is performed when the shutter button is pressed halfway.\"\n\"**AF-C**\",\"- **ON**: The camera focuses while the shutter button is pressed halfway. <br> - **OFF**: No focus operation is performed when the shutter button is pressed halfway.\""
+                },
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "SHUTTER AE",
+                    "md": "# SHUTTER AE"
+                },
+                {
+                    "type": "text",
+                    "value": "If **ON** is selected, exposure will lock while the shutter button is pressed halfway. The setting for focus mode C (**AF-C**) can be adjusted separately from that for modes S (**AF-S**) and M (manual focus).",
+                    "md": "If **ON** is selected, exposure will lock while the shutter button is pressed halfway. The setting for focus mode C (**AF-C**) can be adjusted separately from that for modes S (**AF-S**) and M (manual focus)."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Options",
+                            ""
+                        ],
+                        [
+                            "**ON**",
+                            "**OFF**"
+                        ]
+                    ],
+                    "md": "| Options |  |\n|---------|--|\n| **ON**  | **OFF** |",
+                    "isPerfectTable": true,
+                    "csv": "\"Options\",\"\"\n\"**ON**\",\"**OFF**\""
+                },
+                {
+                    "type": "text",
+                    "value": "> 💡 **Note:**  \n> Select **OFF** to allow the camera to adjust exposure before each shot taken in burst mode.",
+                    "md": "> 💡 **Note:**  \n> Select **OFF** to allow the camera to adjust exposure before each shot taken in burst mode."
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "parsingMode": "multimodal-openai-gpt4o",
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 629.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "bfd604b0-a97a-4223-af78-e9a20adf55fc",
+    "file_path": "../data/raw_data/x-t5/x-t5_split/x-t5_page324.pdf"
+}

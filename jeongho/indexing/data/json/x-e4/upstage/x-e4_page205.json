@@ -1,0 +1,266 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:14px'>The Playback Menu</header>\n<h1 id='1' style='font-size:18px'>DISP ASPECT</h1>\n\n<figure id='3'><img alt=\"\" data-coord=\"top-left:(646,724); bottom-right:(2172,1075)\" /><br><figcaption id='2' style='font-size:20px'>Choose the aspect ratio used for the display of still pictures on<br>High Definition (HD) devices (this option is available only when<br>an HDMI cable is connected).</figcaption></figure>\n<table id='4' style='font-size:16px'><tr><td colspan=\"2\">Options</td></tr><tr><td>16:9</td><td>3 :2</td></tr><br><caption id='2' style='font-size:20px'>Choose the aspect ratio used for the display of still pictures on<br>High Definition (HD) devices (this option is available only when<br>an HDMI cable is connected).</caption></table>\n<p id='5' data-category='paragraph' style='font-size:16px'>Choose 16:9 to display photos with an aspect ratio of 16:9 full screen.<br>The pictures will be displayed full screen with tops and bottoms<br>cropped out.</p>\n<br><footer id='6' style='font-size:22px'>Playback<br>and<br>the<br>Playback<br>Menu</footer>\n<footer id='7' style='font-size:14px'>7</footer>\n<footer id='8' style='font-size:20px'>205</footer>",
+        "markdown": "The Playback Menu\n\n# DISP ASPECT\n\nChoose the aspect ratio used for the display of still pictures on\nHigh Definition (HD) devices (this option is available only when\nan HDMI cable is connected).\n\n![image](/image/placeholder)\n\n\n| Options | Options |\n| --- | --- |\n| 16:9 | 3 :2 |\n\n\nChoose 16:9 to display photos with an aspect ratio of 16:9 full screen.\nThe pictures will be displayed full screen with tops and bottoms\ncropped out.\n\nPlayback\nand\nthe\nPlayback\nMenu\n\n7\n\n205",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:14px'>The Playback Menu</header>",
+                "markdown": "The Playback Menu",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.7235,
+                    "y": 0.029
+                },
+                {
+                    "x": 0.9183,
+                    "y": 0.029
+                },
+                {
+                    "x": 0.9183,
+                    "y": 0.0502
+                },
+                {
+                    "x": 0.7235,
+                    "y": 0.0502
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='1' style='font-size:18px'>DISP ASPECT</h1>",
+                "markdown": "# DISP ASPECT",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1083,
+                    "y": 0.0725
+                },
+                {
+                    "x": 0.2885,
+                    "y": 0.0725
+                },
+                {
+                    "x": 0.2885,
+                    "y": 0.0949
+                },
+                {
+                    "x": 0.1083,
+                    "y": 0.0949
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='2' data-category='paragraph' style='font-size:20px'>Choose the aspect ratio used for the display of still pictures on<br>High Definition (HD) devices (this option is available only when<br>an HDMI cable is connected).</p>",
+                "markdown": "Choose the aspect ratio used for the display of still pictures on\nHigh Definition (HD) devices (this option is available only when\nan HDMI cable is connected).",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1052,
+                    "y": 0.104
+                },
+                {
+                    "x": 0.9197,
+                    "y": 0.104
+                },
+                {
+                    "x": 0.9197,
+                    "y": 0.1792
+                },
+                {
+                    "x": 0.1052,
+                    "y": 0.1792
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "figure",
+            "content": {
+                "html": "<figure id='3'><img alt=\"\" data-coord=\"top-left:(646,724); bottom-right:(2172,1075)\" /></figure>",
+                "markdown": "![image](/image/placeholder)\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.2338,
+                    "y": 0.1858
+                },
+                {
+                    "x": 0.7858,
+                    "y": 0.1858
+                },
+                {
+                    "x": 0.7858,
+                    "y": 0.276
+                },
+                {
+                    "x": 0.2338,
+                    "y": 0.276
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='4' style='font-size:16px'><tr><td colspan=\"2\">Options</td></tr><tr><td>16:9</td><td>3 :2</td></tr></table>",
+                "markdown": "| Options | Options |\n| --- | --- |\n| 16:9 | 3 :2 |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1025,
+                    "y": 0.2971
+                },
+                {
+                    "x": 0.9192,
+                    "y": 0.2971
+                },
+                {
+                    "x": 0.9192,
+                    "y": 0.3468
+                },
+                {
+                    "x": 0.1025,
+                    "y": 0.3468
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='5' data-category='paragraph' style='font-size:16px'>Choose 16:9 to display photos with an aspect ratio of 16:9 full screen.<br>The pictures will be displayed full screen with tops and bottoms<br>cropped out.</p>",
+                "markdown": "Choose 16:9 to display photos with an aspect ratio of 16:9 full screen.\nThe pictures will be displayed full screen with tops and bottoms\ncropped out.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1212,
+                    "y": 0.3648
+                },
+                {
+                    "x": 0.9156,
+                    "y": 0.3648
+                },
+                {
+                    "x": 0.9156,
+                    "y": 0.4323
+                },
+                {
+                    "x": 0.1212,
+                    "y": 0.4323
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<br><footer id='6' style='font-size:22px'>Playback<br>and<br>the<br>Playback<br>Menu</footer>",
+                "markdown": "Playback\nand\nthe\nPlayback\nMenu",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9573,
+                    "y": 0.3368
+                },
+                {
+                    "x": 0.9801,
+                    "y": 0.3368
+                },
+                {
+                    "x": 0.9801,
+                    "y": 0.5777
+                },
+                {
+                    "x": 0.9573,
+                    "y": 0.5777
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='7' style='font-size:14px'>7</footer>",
+                "markdown": "7",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9579,
+                    "y": 0.5984
+                },
+                {
+                    "x": 0.9741,
+                    "y": 0.5984
+                },
+                {
+                    "x": 0.9741,
+                    "y": 0.6175
+                },
+                {
+                    "x": 0.9579,
+                    "y": 0.6175
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='8' style='font-size:20px'>205</footer>",
+                "markdown": "205",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.8602,
+                    "y": 0.9562
+                },
+                {
+                    "x": 0.9175,
+                    "y": 0.9562
+                },
+                {
+                    "x": 0.9175,
+                    "y": 0.9797
+                },
+                {
+                    "x": 0.8602,
+                    "y": 0.9797
+                }
+            ],
+            "id": 8,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

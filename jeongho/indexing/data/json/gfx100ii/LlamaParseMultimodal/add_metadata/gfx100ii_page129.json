@@ -1,0 +1,8 @@
+{
+    "parsing_result": "# IMAGE QUALITY SETTING (Still Photography)\n\n## SELECT JPEG/HEIF\n\nChoose whether pictures are recorded in JPEG or HEIF.\n\n| Option | Description |\n|--------|-------------|\n| JPEG   | Pictures are recorded in the widely-supported JPEG format. |\n| HEIF   | Pictures are recorded in HEIF, a format with excellent compression but limited options for viewing and sharing. |\n\n> 💡 **Note:**\n> - **JPEG** is automatically selected in place of **HEIF** during multiple-exposure photography.\n> - Selecting **HEIF** disables **CLARITY** and sets **COLOR SPACE** to **sRGB**.\n> - HEIF pictures are stored on the memory card as files with the extension “.HIF”. Before the pictures can be viewed on a computer, the extension must be changed to “.HEIC”. This occurs automatically when HEIF pictures are uploaded from the camera to a computer via USB.",
+    "embedding_result": [],
+    "metadata": {
+        "page": 129,
+        "model": "gfx100ii"
+    }
+}

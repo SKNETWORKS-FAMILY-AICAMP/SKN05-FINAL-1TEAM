@@ -1,0 +1,406 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<h1 id='0' style='font-size:16px'>SELF-TIMER</h1>\n<br><p id='1' data-category='paragraph' style='font-size:18px'>Choose the delay between the shutter button being pressed all<br>the way down and the start of recording.</p>\n<br><p id='2' data-category='list' style='font-size:18px'>● The display shows the number of sec-<br>onds remaining before recording be-<br>gins.<br>● To stop the timer before recording be-<br>gins, press DISP/BACK.</p>\n<br><figure id='3'><img style='font-size:14px' alt=\"1h12m36s\nAREA\n区\n21773 1\n⌀B\nSET\nR\" data-coord=\"top-left:(1702,609); bottom-right:(2468,1127)\" /></figure>\n<table id='4' style='font-size:14px'><tr><td rowspan=\"2\" colspan=\"4\">Options</td></tr><tr></tr><tr><td>3 SEC</td><td>5 SEC</td><td>10 SEC</td><td>OFF</td></tr></table>\n<p id='5' data-category='paragraph' style='font-size:16px'>MEDIA REC SETTING</p>\n<br><p id='6' data-category='paragraph' style='font-size:20px'>Choose movie file settings, including destination, file type, com-<br>pression, and bit rate.</p>\n<p id='7' data-category='paragraph' style='font-size:16px'>MEDIA REC SETTING</p>\n<br><p id='8' data-category='paragraph' style='font-size:22px'>Choose movie file settings, including destination, file type, and<br>compression.</p>\n<br><p id='9' data-category='paragraph' style='font-size:18px'>Destination</p>\n\n<table id='11' style='font-size:14px'><tr><td>Option</td><td>Description</td></tr><tr><td>SD</td><td>Movies are saved solely to the memory card.</td></tr><tr><td>HDMI</td><td>Movies are recorded only to devices connected via HDMI.</td></tr><br><caption id='10' style='font-size:18px'>Choose save options and save and output destinations for mov-<br>ies.</caption></table>\n<br><header id='12' style='font-size:22px'>The<br>Shooting<br>Menus</header>\n<footer id='13' style='font-size:20px'>190</footer>",
+        "markdown": "# SELF-TIMER\n\nChoose the delay between the shutter button being pressed all\nthe way down and the start of recording.\n\n- ● The display shows the number of sec-\n- onds remaining before recording be-\n- gins.\n- ● To stop the timer before recording be-\n- gins, press DISP/BACK.\n\n\n![image](/image/placeholder)\n1h12m36s\nAREA\n区\n21773 1\n⌀B\nSET\nR\n\n| Options | Options | Options | Options |\n| --- | --- | --- | --- |\n| Options | Options | Options | Options |\n| 3 SEC | 5 SEC | 10 SEC | OFF |\n\n\nMEDIA REC SETTING\n\nChoose movie file settings, including destination, file type, com-\npression, and bit rate.\n\nMEDIA REC SETTING\n\nChoose movie file settings, including destination, file type, and\ncompression.\n\nDestination\n\nChoose save options and save and output destinations for mov-\nies.\n\n| Option | Description |\n| --- | --- |\n| SD | Movies are saved solely to the memory card. |\n| HDMI | Movies are recorded only to devices connected via HDMI. |\n\n\nThe\nShooting\nMenus\n\n190",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='0' style='font-size:16px'>SELF-TIMER</h1>",
+                "markdown": "# SELF-TIMER",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0835,
+                    "y": 0.0732
+                },
+                {
+                    "x": 0.2848,
+                    "y": 0.0732
+                },
+                {
+                    "x": 0.2848,
+                    "y": 0.0951
+                },
+                {
+                    "x": 0.0835,
+                    "y": 0.0951
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='1' data-category='paragraph' style='font-size:18px'>Choose the delay between the shutter button being pressed all<br>the way down and the start of recording.</p>",
+                "markdown": "Choose the delay between the shutter button being pressed all\nthe way down and the start of recording.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0797,
+                    "y": 0.105
+                },
+                {
+                    "x": 0.8919,
+                    "y": 0.105
+                },
+                {
+                    "x": 0.8919,
+                    "y": 0.1541
+                },
+                {
+                    "x": 0.0797,
+                    "y": 0.1541
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "list",
+            "content": {
+                "html": "<br><p id='2' data-category='list' style='font-size:18px'>● The display shows the number of sec-<br>onds remaining before recording be-<br>gins.<br>● To stop the timer before recording be-<br>gins, press DISP/BACK.</p>",
+                "markdown": "- ● The display shows the number of sec-\n- onds remaining before recording be-\n- gins.\n- ● To stop the timer before recording be-\n- gins, press DISP/BACK.\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0819,
+                    "y": 0.1575
+                },
+                {
+                    "x": 0.6038,
+                    "y": 0.1575
+                },
+                {
+                    "x": 0.6038,
+                    "y": 0.2835
+                },
+                {
+                    "x": 0.0819,
+                    "y": 0.2835
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "figure",
+            "content": {
+                "html": "<br><figure id='3'><img style='font-size:14px' alt=\"1h12m36s\nAREA\n区\n21773 1\n⌀B\nSET\nR\" data-coord=\"top-left:(1702,609); bottom-right:(2468,1127)\" /></figure>",
+                "markdown": "![image](/image/placeholder)\n1h12m36s\nAREA\n区\n21773 1\n⌀B\nSET\nR",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6158,
+                    "y": 0.1564
+                },
+                {
+                    "x": 0.8932,
+                    "y": 0.1564
+                },
+                {
+                    "x": 0.8932,
+                    "y": 0.2894
+                },
+                {
+                    "x": 0.6158,
+                    "y": 0.2894
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='4' style='font-size:14px'><tr><td rowspan=\"2\" colspan=\"4\">Options</td></tr><tr></tr><tr><td>3 SEC</td><td>5 SEC</td><td>10 SEC</td><td>OFF</td></tr></table>",
+                "markdown": "| Options | Options | Options | Options |\n| --- | --- | --- | --- |\n| Options | Options | Options | Options |\n| 3 SEC | 5 SEC | 10 SEC | OFF |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0885,
+                    "y": 0.305
+                },
+                {
+                    "x": 0.8919,
+                    "y": 0.305
+                },
+                {
+                    "x": 0.8919,
+                    "y": 0.3617
+                },
+                {
+                    "x": 0.0885,
+                    "y": 0.3617
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='5' data-category='paragraph' style='font-size:16px'>MEDIA REC SETTING</p>",
+                "markdown": "MEDIA REC SETTING",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0822,
+                    "y": 0.3774
+                },
+                {
+                    "x": 0.3624,
+                    "y": 0.3774
+                },
+                {
+                    "x": 0.3624,
+                    "y": 0.3996
+                },
+                {
+                    "x": 0.0822,
+                    "y": 0.3996
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='6' data-category='paragraph' style='font-size:20px'>Choose movie file settings, including destination, file type, com-<br>pression, and bit rate.</p>",
+                "markdown": "Choose movie file settings, including destination, file type, com-\npression, and bit rate.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0823,
+                    "y": 0.4094
+                },
+                {
+                    "x": 0.8918,
+                    "y": 0.4094
+                },
+                {
+                    "x": 0.8918,
+                    "y": 0.4594
+                },
+                {
+                    "x": 0.0823,
+                    "y": 0.4594
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='7' data-category='paragraph' style='font-size:16px'>MEDIA REC SETTING</p>",
+                "markdown": "MEDIA REC SETTING",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0912,
+                    "y": 0.4814
+                },
+                {
+                    "x": 0.3492,
+                    "y": 0.4814
+                },
+                {
+                    "x": 0.3492,
+                    "y": 0.5036
+                },
+                {
+                    "x": 0.0912,
+                    "y": 0.5036
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='8' data-category='paragraph' style='font-size:22px'>Choose movie file settings, including destination, file type, and<br>compression.</p>",
+                "markdown": "Choose movie file settings, including destination, file type, and\ncompression.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0823,
+                    "y": 0.5113
+                },
+                {
+                    "x": 0.8926,
+                    "y": 0.5113
+                },
+                {
+                    "x": 0.8926,
+                    "y": 0.5614
+                },
+                {
+                    "x": 0.0823,
+                    "y": 0.5614
+                }
+            ],
+            "id": 8,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='9' data-category='paragraph' style='font-size:18px'>Destination</p>",
+                "markdown": "Destination",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0823,
+                    "y": 0.576
+                },
+                {
+                    "x": 0.2116,
+                    "y": 0.576
+                },
+                {
+                    "x": 0.2116,
+                    "y": 0.5983
+                },
+                {
+                    "x": 0.0823,
+                    "y": 0.5983
+                }
+            ],
+            "id": 9,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='10' data-category='paragraph' style='font-size:18px'>Choose save options and save and output destinations for mov-<br>ies.</p>",
+                "markdown": "Choose save options and save and output destinations for mov-\nies.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0839,
+                    "y": 0.6018
+                },
+                {
+                    "x": 0.8923,
+                    "y": 0.6018
+                },
+                {
+                    "x": 0.8923,
+                    "y": 0.6496
+                },
+                {
+                    "x": 0.0839,
+                    "y": 0.6496
+                }
+            ],
+            "id": 10,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='11' style='font-size:14px'><tr><td>Option</td><td>Description</td></tr><tr><td>SD</td><td>Movies are saved solely to the memory card.</td></tr><tr><td>HDMI</td><td>Movies are recorded only to devices connected via HDMI.</td></tr></table>",
+                "markdown": "| Option | Description |\n| --- | --- |\n| SD | Movies are saved solely to the memory card. |\n| HDMI | Movies are recorded only to devices connected via HDMI. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0865,
+                    "y": 0.6629
+                },
+                {
+                    "x": 0.8913,
+                    "y": 0.6629
+                },
+                {
+                    "x": 0.8913,
+                    "y": 0.7385
+                },
+                {
+                    "x": 0.0865,
+                    "y": 0.7385
+                }
+            ],
+            "id": 11,
+            "page": 1
+        },
+        {
+            "category": "header",
+            "content": {
+                "html": "<br><header id='12' style='font-size:22px'>The<br>Shooting<br>Menus</header>",
+                "markdown": "The\nShooting\nMenus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0165,
+                    "y": 0.5762
+                },
+                {
+                    "x": 0.0416,
+                    "y": 0.5762
+                },
+                {
+                    "x": 0.0416,
+                    "y": 0.7311
+                },
+                {
+                    "x": 0.0165,
+                    "y": 0.7311
+                }
+            ],
+            "id": 12,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='13' style='font-size:20px'>190</footer>",
+                "markdown": "190",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0849,
+                    "y": 0.9564
+                },
+                {
+                    "x": 0.1403,
+                    "y": 0.9564
+                },
+                {
+                    "x": 0.1403,
+                    "y": 0.9793
+                },
+                {
+                    "x": 0.0849,
+                    "y": 0.9793
+                }
+            ],
+            "id": 13,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

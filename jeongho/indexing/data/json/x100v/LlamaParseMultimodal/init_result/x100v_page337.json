@@ -1,0 +1,101 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "# Memory Card Capacity\n\nThe following table shows the recording time or number of pictures available at different image sizes. All figures are approximate; file size varies with the scene recorded, producing wide variations in the number of files that can be stored. The number of exposures or length remaining may not diminish at an even rate.\n\n| Capacity | 8 GB | 16 GB |\n|----------|------|-------|\n| **Photos** | **FINE** | **NORMAL** | **FINE** | **NORMAL** |\n| L 3:2 | 490 | 740 | 1030 | 1540 |\n| RAW (UNCOMPRESSED) | 130 | 270 |\n| RAW (LOSSLESS COMPRESSED) | 240 | 510 |\n| **Movies** | 4K 2160 | 9 minutes | 20 minutes |\n| FHD 1080 | 9 minutes | 20 minutes |\n\n1. Use a UHS speed class 3 card or better.\n2. Assumes default bit rate.\n\n> 💡 **Note:**\n> - If the memory card has a capacity of over 32 GB, movies will be recorded in single files, regardless of size. If the card has a capacity of 32 GB or less, movies over 4 GB in size will be recorded uninterrupted across multiple files.",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "Memory Card Capacity",
+                    "md": "# Memory Card Capacity"
+                },
+                {
+                    "type": "text",
+                    "value": "The following table shows the recording time or number of pictures available at different image sizes. All figures are approximate; file size varies with the scene recorded, producing wide variations in the number of files that can be stored. The number of exposures or length remaining may not diminish at an even rate.",
+                    "md": "The following table shows the recording time or number of pictures available at different image sizes. All figures are approximate; file size varies with the scene recorded, producing wide variations in the number of files that can be stored. The number of exposures or length remaining may not diminish at an even rate."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Capacity",
+                            "8 GB",
+                            "16 GB"
+                        ],
+                        [
+                            "**Photos**",
+                            "**FINE**",
+                            "**NORMAL**",
+                            "**FINE**",
+                            "**NORMAL**"
+                        ],
+                        [
+                            "L 3:2",
+                            "490",
+                            "740",
+                            "1030",
+                            "1540"
+                        ],
+                        [
+                            "RAW (UNCOMPRESSED)",
+                            "130",
+                            "270"
+                        ],
+                        [
+                            "RAW (LOSSLESS COMPRESSED)",
+                            "240",
+                            "510"
+                        ],
+                        [
+                            "**Movies**",
+                            "4K 2160",
+                            "9 minutes",
+                            "20 minutes"
+                        ],
+                        [
+                            "FHD 1080",
+                            "9 minutes",
+                            "20 minutes"
+                        ]
+                    ],
+                    "md": "| Capacity | 8 GB | 16 GB |\n|----------|------|-------|\n| **Photos** | **FINE** | **NORMAL** | **FINE** | **NORMAL** |\n| L 3:2 | 490 | 740 | 1030 | 1540 |\n| RAW (UNCOMPRESSED) | 130 | 270 |\n| RAW (LOSSLESS COMPRESSED) | 240 | 510 |\n| **Movies** | 4K 2160 | 9 minutes | 20 minutes |\n| FHD 1080 | 9 minutes | 20 minutes |",
+                    "isPerfectTable": false,
+                    "csv": "\"Capacity\",\"8 GB\",\"16 GB\"\n\"**Photos**\",\"**FINE**\",\"**NORMAL**\",\"**FINE**\",\"**NORMAL**\"\n\"L 3:2\",\"490\",\"740\",\"1030\",\"1540\"\n\"RAW (UNCOMPRESSED)\",\"130\",\"270\"\n\"RAW (LOSSLESS COMPRESSED)\",\"240\",\"510\"\n\"**Movies**\",\"4K 2160\",\"9 minutes\",\"20 minutes\"\n\"FHD 1080\",\"9 minutes\",\"20 minutes\""
+                },
+                {
+                    "type": "text",
+                    "value": "1. Use a UHS speed class 3 card or better.\n2. Assumes default bit rate.\n\n> 💡 **Note:**\n> - If the memory card has a capacity of over 32 GB, movies will be recorded in single files, regardless of size. If the card has a capacity of 32 GB or less, movies over 4 GB in size will be recorded uninterrupted across multiple files.",
+                    "md": "1. Use a UHS speed class 3 card or better.\n2. Assumes default bit rate.\n\n> 💡 **Note:**\n> - If the memory card has a capacity of over 32 GB, movies will be recorded in single files, regardless of size. If the card has a capacity of 32 GB or less, movies over 4 GB in size will be recorded uninterrupted across multiple files."
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 791.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "b8c69c42-9e9e-4ff2-9957-398cbedcfa4f",
+    "file_path": "../data/raw_data/x100v/x100v_split/x100v_page337.pdf"
+}

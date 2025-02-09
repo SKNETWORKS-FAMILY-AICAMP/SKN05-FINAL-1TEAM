@@ -1,0 +1,322 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<h1 id='0' style='font-size:20px'>Multiple Exposures</h1>\n<br><h1 id='1' style='font-size:20px'>Create a photograph that combines multiple exposures.</h1>\n<br><figure id='2'><img style='font-size:14px' alt=\"+ →\" data-coord=\"top-left:(207,565); bottom-right:(2551,1089)\" /></figure>\n<p id='3' data-category='paragraph' style='font-size:20px'>1 Press the DRIVE button to display<br>the drive mode options and select<br>MULTIPLE EXPOSURE.</p>\n<br><figure id='4'><img style='font-size:14px' alt=\"DRIVE\" data-coord=\"top-left:(1750,1187); bottom-right:(2541,1770)\" /></figure>\n\n<br><table id='6' style='font-size:16px'><tr><td>Option</td><td>Description</td></tr><tr><td>ADDITIVE</td><td>The camera adds the exposures together. You may need to lower exposure compensation depending on the number of shots.</td></tr><tr><td>AVERAGE</td><td>The camera automatically optimizes exposure for the final picture. The background in series shot without changing the composition will be optimally exposed.</td></tr><tr><td>BRIGHT</td><td>The camera compares the exposures and chooses only the brightest pixel at each location. Colors may be mixed depending on their brightness and hue.</td></tr><tr><td>DARK</td><td>The camera compares the exposures and chooses only the darkest pixel at each location. Colors may be mixed depending on their brightness and hue.</td></tr><br><caption id='5' style='font-size:16px'>2 Choose a blend mode.</caption></table>\n<br><p id='7' data-category='paragraph' style='font-size:18px'>3 Take the first shot.</p>\n<br><footer id='8' style='font-size:18px'>5</footer>\n<br><footer id='9' style='font-size:22px'>Taking<br>Photographs</footer>\n<footer id='10' style='font-size:18px'>1 19</footer>",
+        "markdown": "# Multiple Exposures\n\n# Create a photograph that combines multiple exposures.\n\n![image](/image/placeholder)\n+ →\n\n1 Press the DRIVE button to display\nthe drive mode options and select\nMULTIPLE EXPOSURE.\n\n![image](/image/placeholder)\nDRIVE\n\n2 Choose a blend mode.\n\n| Option | Description |\n| --- | --- |\n| ADDITIVE | The camera adds the exposures together. You may need to lower exposure compensation depending on the number of shots. |\n| AVERAGE | The camera automatically optimizes exposure for the final picture. The background in series shot without changing the composition will be optimally exposed. |\n| BRIGHT | The camera compares the exposures and chooses only the brightest pixel at each location. Colors may be mixed depending on their brightness and hue. |\n| DARK | The camera compares the exposures and chooses only the darkest pixel at each location. Colors may be mixed depending on their brightness and hue. |\n\n\n3 Take the first shot.\n\n5\n\nTaking\nPhotographs\n\n1 19",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='0' style='font-size:20px'>Multiple Exposures</h1>",
+                "markdown": "# Multiple Exposures",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1811,
+                    "y": 0.0736
+                },
+                {
+                    "x": 0.5076,
+                    "y": 0.0736
+                },
+                {
+                    "x": 0.5076,
+                    "y": 0.1004
+                },
+                {
+                    "x": 0.1811,
+                    "y": 0.1004
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='1' style='font-size:20px'>Create a photograph that combines multiple exposures.</h1>",
+                "markdown": "# Create a photograph that combines multiple exposures.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1788,
+                    "y": 0.1106
+                },
+                {
+                    "x": 0.885,
+                    "y": 0.1106
+                },
+                {
+                    "x": 0.885,
+                    "y": 0.1333
+                },
+                {
+                    "x": 0.1788,
+                    "y": 0.1333
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "figure",
+            "content": {
+                "html": "<br><figure id='2'><img style='font-size:14px' alt=\"+ →\" data-coord=\"top-left:(207,565); bottom-right:(2551,1089)\" /></figure>",
+                "markdown": "![image](/image/placeholder)\n+ →",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.075,
+                    "y": 0.1451
+                },
+                {
+                    "x": 0.923,
+                    "y": 0.1451
+                },
+                {
+                    "x": 0.923,
+                    "y": 0.2794
+                },
+                {
+                    "x": 0.075,
+                    "y": 0.2794
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='3' data-category='paragraph' style='font-size:20px'>1 Press the DRIVE button to display<br>the drive mode options and select<br>MULTIPLE EXPOSURE.</p>",
+                "markdown": "1 Press the DRIVE button to display\nthe drive mode options and select\nMULTIPLE EXPOSURE.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1236,
+                    "y": 0.3025
+                },
+                {
+                    "x": 0.6313,
+                    "y": 0.3025
+                },
+                {
+                    "x": 0.6313,
+                    "y": 0.379
+                },
+                {
+                    "x": 0.1236,
+                    "y": 0.379
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "figure",
+            "content": {
+                "html": "<br><figure id='4'><img style='font-size:14px' alt=\"DRIVE\" data-coord=\"top-left:(1750,1187); bottom-right:(2541,1770)\" /></figure>",
+                "markdown": "![image](/image/placeholder)\nDRIVE",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6333,
+                    "y": 0.3048
+                },
+                {
+                    "x": 0.9194,
+                    "y": 0.3048
+                },
+                {
+                    "x": 0.9194,
+                    "y": 0.4542
+                },
+                {
+                    "x": 0.6333,
+                    "y": 0.4542
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='5' data-category='paragraph' style='font-size:16px'>2 Choose a blend mode.</p>",
+                "markdown": "2 Choose a blend mode.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1238,
+                    "y": 0.4574
+                },
+                {
+                    "x": 0.4489,
+                    "y": 0.4574
+                },
+                {
+                    "x": 0.4489,
+                    "y": 0.4842
+                },
+                {
+                    "x": 0.1238,
+                    "y": 0.4842
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='6' style='font-size:16px'><tr><td>Option</td><td>Description</td></tr><tr><td>ADDITIVE</td><td>The camera adds the exposures together. You may need to lower exposure compensation depending on the number of shots.</td></tr><tr><td>AVERAGE</td><td>The camera automatically optimizes exposure for the final picture. The background in series shot without changing the composition will be optimally exposed.</td></tr><tr><td>BRIGHT</td><td>The camera compares the exposures and chooses only the brightest pixel at each location. Colors may be mixed depending on their brightness and hue.</td></tr><tr><td>DARK</td><td>The camera compares the exposures and chooses only the darkest pixel at each location. Colors may be mixed depending on their brightness and hue.</td></tr></table>",
+                "markdown": "| Option | Description |\n| --- | --- |\n| ADDITIVE | The camera adds the exposures together. You may need to lower exposure compensation depending on the number of shots. |\n| AVERAGE | The camera automatically optimizes exposure for the final picture. The background in series shot without changing the composition will be optimally exposed. |\n| BRIGHT | The camera compares the exposures and chooses only the brightest pixel at each location. Colors may be mixed depending on their brightness and hue. |\n| DARK | The camera compares the exposures and chooses only the darkest pixel at each location. Colors may be mixed depending on their brightness and hue. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1557,
+                    "y": 0.4919
+                },
+                {
+                    "x": 0.9187,
+                    "y": 0.4919
+                },
+                {
+                    "x": 0.9187,
+                    "y": 0.8136
+                },
+                {
+                    "x": 0.1557,
+                    "y": 0.8136
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='7' data-category='paragraph' style='font-size:18px'>3 Take the first shot.</p>",
+                "markdown": "3 Take the first shot.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1247,
+                    "y": 0.8219
+                },
+                {
+                    "x": 0.3927,
+                    "y": 0.8219
+                },
+                {
+                    "x": 0.3927,
+                    "y": 0.8477
+                },
+                {
+                    "x": 0.1247,
+                    "y": 0.8477
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<br><footer id='8' style='font-size:18px'>5</footer>",
+                "markdown": "5",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9578,
+                    "y": 0.4776
+                },
+                {
+                    "x": 0.9747,
+                    "y": 0.4776
+                },
+                {
+                    "x": 0.9747,
+                    "y": 0.4975
+                },
+                {
+                    "x": 0.9578,
+                    "y": 0.4975
+                }
+            ],
+            "id": 8,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<br><footer id='9' style='font-size:22px'>Taking<br>Photographs</footer>",
+                "markdown": "Taking\nPhotographs",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9564,
+                    "y": 0.5174
+                },
+                {
+                    "x": 0.9812,
+                    "y": 0.5174
+                },
+                {
+                    "x": 0.9812,
+                    "y": 0.6648
+                },
+                {
+                    "x": 0.9564,
+                    "y": 0.6648
+                }
+            ],
+            "id": 9,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='10' style='font-size:18px'>1 19</footer>",
+                "markdown": "1 19",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.8619,
+                    "y": 0.9562
+                },
+                {
+                    "x": 0.9181,
+                    "y": 0.9562
+                },
+                {
+                    "x": 0.9181,
+                    "y": 0.9795
+                },
+                {
+                    "x": 0.8619,
+                    "y": 0.9795
+                }
+            ],
+            "id": 10,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

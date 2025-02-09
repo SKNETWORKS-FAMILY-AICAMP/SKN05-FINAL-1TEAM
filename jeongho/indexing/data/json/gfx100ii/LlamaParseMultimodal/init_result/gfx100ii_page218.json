@@ -1,0 +1,93 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "# WAVEFORM/VECTORSCOPE\n\nChoose whether to display chrominance and luminance signals during movie recording. The position and size can be changed using the focus stick (focus lever) and command dials.\n\n| Options    |\n|------------|\n| WAVEFORM   |\n| PARADE     |\n| VECTORSCOPE|\n| OFF        |\n\n## WAVEFORM\nA waveform is displayed.\n\n!Waveform Setting\n\n## PARADE\nAn RGB parade is displayed. You can change the display method for colors by turning the front command dial.\n\n!Parade Setting",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "WAVEFORM/VECTORSCOPE",
+                    "md": "# WAVEFORM/VECTORSCOPE"
+                },
+                {
+                    "type": "text",
+                    "value": "Choose whether to display chrominance and luminance signals during movie recording. The position and size can be changed using the focus stick (focus lever) and command dials.",
+                    "md": "Choose whether to display chrominance and luminance signals during movie recording. The position and size can be changed using the focus stick (focus lever) and command dials."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Options"
+                        ],
+                        [
+                            "WAVEFORM"
+                        ],
+                        [
+                            "PARADE"
+                        ],
+                        [
+                            "VECTORSCOPE"
+                        ],
+                        [
+                            "OFF"
+                        ]
+                    ],
+                    "md": "| Options    |\n|------------|\n| WAVEFORM   |\n| PARADE     |\n| VECTORSCOPE|\n| OFF        |",
+                    "isPerfectTable": true,
+                    "csv": "\"Options\"\n\"WAVEFORM\"\n\"PARADE\"\n\"VECTORSCOPE\"\n\"OFF\""
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "WAVEFORM",
+                    "md": "## WAVEFORM"
+                },
+                {
+                    "type": "text",
+                    "value": "A waveform is displayed.\n\n!Waveform Setting",
+                    "md": "A waveform is displayed.\n\n!Waveform Setting"
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "PARADE",
+                    "md": "## PARADE"
+                },
+                {
+                    "type": "text",
+                    "value": "An RGB parade is displayed. You can change the display method for colors by turning the front command dial.\n\n!Parade Setting",
+                    "md": "An RGB parade is displayed. You can change the display method for colors by turning the front command dial.\n\n!Parade Setting"
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 166.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "4f7c54ca-9a26-4ec5-b3fc-e8e2ef33d38c",
+    "file_path": "../data/raw_data/gfx100ii/gfx100ii_split/gfx100ii_page218.pdf"
+}

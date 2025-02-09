@@ -1,0 +1,108 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "# Dynamic Range\n\nChoose a dynamic range for movie recording.\n\n| Option | Description |\n|--------|-------------|\n| 100%   | See “DYNAMIC RANGE” (p. 113). |\n| 200%   | See “DYNAMIC RANGE” (p. 113). |\n| 400%   | See “DYNAMIC RANGE” (p. 113). |\n\n- Auto dynamic range adjustment (AUTO) is not supported.\n- 200% is available at sensitivities from ISO 320 to ISO 12800.\n- 400% at sensitivities from ISO 640 to 12800.\n- The MOVIE SETTING > DYNAMIC RANGE option is available when OFF is selected for MOVIE SETTING > F-Log RECORDING.\n\n# White Balance\n\nAdjust white balance for movie recording.\n\n| Option | Description |\n|--------|-------------|\n| AUTO   | See “WHITE BALANCE” (p. 110). |\n| Icons  | See “WHITE BALANCE” (p. 110). |",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "Dynamic Range",
+                    "md": "# Dynamic Range"
+                },
+                {
+                    "type": "text",
+                    "value": "Choose a dynamic range for movie recording.",
+                    "md": "Choose a dynamic range for movie recording."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Option",
+                            "Description"
+                        ],
+                        [
+                            "100%",
+                            "See “DYNAMIC RANGE” (p. 113)."
+                        ],
+                        [
+                            "200%",
+                            "See “DYNAMIC RANGE” (p. 113)."
+                        ],
+                        [
+                            "400%",
+                            "See “DYNAMIC RANGE” (p. 113)."
+                        ]
+                    ],
+                    "md": "| Option | Description |\n|--------|-------------|\n| 100%   | See “DYNAMIC RANGE” (p. 113). |\n| 200%   | See “DYNAMIC RANGE” (p. 113). |\n| 400%   | See “DYNAMIC RANGE” (p. 113). |",
+                    "isPerfectTable": true,
+                    "csv": "\"Option\",\"Description\"\n\"100%\",\"See “DYNAMIC RANGE” (p. 113).\"\n\"200%\",\"See “DYNAMIC RANGE” (p. 113).\"\n\"400%\",\"See “DYNAMIC RANGE” (p. 113).\""
+                },
+                {
+                    "type": "text",
+                    "value": "- Auto dynamic range adjustment (AUTO) is not supported.\n- 200% is available at sensitivities from ISO 320 to ISO 12800.\n- 400% at sensitivities from ISO 640 to 12800.\n- The MOVIE SETTING > DYNAMIC RANGE option is available when OFF is selected for MOVIE SETTING > F-Log RECORDING.",
+                    "md": "- Auto dynamic range adjustment (AUTO) is not supported.\n- 200% is available at sensitivities from ISO 320 to ISO 12800.\n- 400% at sensitivities from ISO 640 to 12800.\n- The MOVIE SETTING > DYNAMIC RANGE option is available when OFF is selected for MOVIE SETTING > F-Log RECORDING."
+                },
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "White Balance",
+                    "md": "# White Balance"
+                },
+                {
+                    "type": "text",
+                    "value": "Adjust white balance for movie recording.",
+                    "md": "Adjust white balance for movie recording."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Option",
+                            "Description"
+                        ],
+                        [
+                            "AUTO",
+                            "See “WHITE BALANCE” (p. 110)."
+                        ],
+                        [
+                            "Icons",
+                            "See “WHITE BALANCE” (p. 110)."
+                        ]
+                    ],
+                    "md": "| Option | Description |\n|--------|-------------|\n| AUTO   | See “WHITE BALANCE” (p. 110). |\n| Icons  | See “WHITE BALANCE” (p. 110). |",
+                    "isPerfectTable": true,
+                    "csv": "\"Option\",\"Description\"\n\"AUTO\",\"See “WHITE BALANCE” (p. 110).\"\n\"Icons\",\"See “WHITE BALANCE” (p. 110).\""
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 642.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "e93eb3fe-80e7-4d3b-9492-01fbf3a1e1bb",
+    "file_path": "../data/raw_data/x100v/x100v_split/x100v_page178.pdf"
+}

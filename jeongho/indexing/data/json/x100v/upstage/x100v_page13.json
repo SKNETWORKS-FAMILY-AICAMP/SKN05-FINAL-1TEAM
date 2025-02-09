@@ -1,0 +1,210 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:14px'>Parts of the Camera</header>\n<h1 id='1' style='font-size:18px'>The Serial Number Plate</h1>\n<br><h1 id='2' style='font-size:20px'>Do not remove the serial number plate,<br>which provides serial number and other<br>important information.</h1>\n<br><figure id='3'><img style='font-size:14px' alt=\"응\nSerial number plate\" data-coord=\"top-left:(1748,376); bottom-right:(2543,1123)\" /><br><figcaption id='4' style='font-size:16px'>1</figcaption></figure>\n\n<br><footer id='5' style='font-size:22px'>Before<br>You<br>Begin</footer>\n<footer id='6' style='font-size:20px'>13</footer>",
+        "markdown": "Parts of the Camera\n\n# The Serial Number Plate\n\n# Do not remove the serial number plate,\nwhich provides serial number and other\nimportant information.\n\n![image](/image/placeholder)\n응\nSerial number plate\n\n1\n\nBefore\nYou\nBegin\n\n13",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:14px'>Parts of the Camera</header>",
+                "markdown": "Parts of the Camera",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.7226,
+                    "y": 0.0296
+                },
+                {
+                    "x": 0.9186,
+                    "y": 0.0296
+                },
+                {
+                    "x": 0.9186,
+                    "y": 0.0494
+                },
+                {
+                    "x": 0.7226,
+                    "y": 0.0494
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='1' style='font-size:18px'>The Serial Number Plate</h1>",
+                "markdown": "# The Serial Number Plate",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.108,
+                    "y": 0.0727
+                },
+                {
+                    "x": 0.4397,
+                    "y": 0.0727
+                },
+                {
+                    "x": 0.4397,
+                    "y": 0.0953
+                },
+                {
+                    "x": 0.108,
+                    "y": 0.0953
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='2' style='font-size:20px'>Do not remove the serial number plate,<br>which provides serial number and other<br>important information.</h1>",
+                "markdown": "# Do not remove the serial number plate,\nwhich provides serial number and other\nimportant information.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1056,
+                    "y": 0.1036
+                },
+                {
+                    "x": 0.6318,
+                    "y": 0.1036
+                },
+                {
+                    "x": 0.6318,
+                    "y": 0.1801
+                },
+                {
+                    "x": 0.1056,
+                    "y": 0.1801
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "figure",
+            "content": {
+                "html": "<br><figure id='3'><img style='font-size:14px' alt=\"응\nSerial number plate\" data-coord=\"top-left:(1748,376); bottom-right:(2543,1123)\" /></figure>",
+                "markdown": "![image](/image/placeholder)\n응\nSerial number plate",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6326,
+                    "y": 0.0965
+                },
+                {
+                    "x": 0.9203,
+                    "y": 0.0965
+                },
+                {
+                    "x": 0.9203,
+                    "y": 0.2882
+                },
+                {
+                    "x": 0.6326,
+                    "y": 0.2882
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='4' data-category='paragraph' style='font-size:16px'>1</p>",
+                "markdown": "1",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9595,
+                    "y": 0.2403
+                },
+                {
+                    "x": 0.9721,
+                    "y": 0.2403
+                },
+                {
+                    "x": 0.9721,
+                    "y": 0.2562
+                },
+                {
+                    "x": 0.9595,
+                    "y": 0.2562
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<br><footer id='5' style='font-size:22px'>Before<br>You<br>Begin</footer>",
+                "markdown": "Before\nYou\nBegin",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9567,
+                    "y": 0.2779
+                },
+                {
+                    "x": 0.9813,
+                    "y": 0.2779
+                },
+                {
+                    "x": 0.9813,
+                    "y": 0.4015
+                },
+                {
+                    "x": 0.9567,
+                    "y": 0.4015
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='6' style='font-size:20px'>13</footer>",
+                "markdown": "13",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.882,
+                    "y": 0.9567
+                },
+                {
+                    "x": 0.916,
+                    "y": 0.9567
+                },
+                {
+                    "x": 0.916,
+                    "y": 0.9789
+                },
+                {
+                    "x": 0.882,
+                    "y": 0.9789
+                }
+            ],
+            "id": 6,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

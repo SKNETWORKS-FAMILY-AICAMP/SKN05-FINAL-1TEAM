@@ -1,0 +1,139 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "# Network/USB Setting Menus\n\n## IMAGE TRANSFER WHILE POWER OFF\nIf **ON** is selected, upload of files to Frame.io will continue while the camera is off.\n\n| Options |        |\n|---------|--------|\n| ON      | OFF    |\n\n## ROOT CERTIFICATE\nCopy a root certificate to the camera for use with Frame.io.\n\n| Option                  | Description                                      |\n|-------------------------|--------------------------------------------------|\n| LOAD FROM STORAGE MEDIA | Copy the root certificate from the camera memory card. |\n| DELETE                  | Delete the current root certificate.             |\n\n> Frame.io and **FTP OPTIONAL SETTING > ROOT CERTIFICATE** use the same root certificate. Changing one changes the other.\n\n## UPLOAD STATUS\nView Frame.io upload status.\n\n## TRANSFER QUEUE\nView a list of the files awaiting upload.\n\n## RESET TRANSFER ORDER\nRemove upload marking from all files selected for upload to Frame.io.",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "Network/USB Setting Menus",
+                    "md": "# Network/USB Setting Menus"
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "IMAGE TRANSFER WHILE POWER OFF",
+                    "md": "## IMAGE TRANSFER WHILE POWER OFF"
+                },
+                {
+                    "type": "text",
+                    "value": "If **ON** is selected, upload of files to Frame.io will continue while the camera is off.",
+                    "md": "If **ON** is selected, upload of files to Frame.io will continue while the camera is off."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Options",
+                            ""
+                        ],
+                        [
+                            "ON",
+                            "OFF"
+                        ]
+                    ],
+                    "md": "| Options |        |\n|---------|--------|\n| ON      | OFF    |",
+                    "isPerfectTable": true,
+                    "csv": "\"Options\",\"\"\n\"ON\",\"OFF\""
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "ROOT CERTIFICATE",
+                    "md": "## ROOT CERTIFICATE"
+                },
+                {
+                    "type": "text",
+                    "value": "Copy a root certificate to the camera for use with Frame.io.",
+                    "md": "Copy a root certificate to the camera for use with Frame.io."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Option",
+                            "Description"
+                        ],
+                        [
+                            "LOAD FROM STORAGE MEDIA",
+                            "Copy the root certificate from the camera memory card."
+                        ],
+                        [
+                            "DELETE",
+                            "Delete the current root certificate."
+                        ]
+                    ],
+                    "md": "| Option                  | Description                                      |\n|-------------------------|--------------------------------------------------|\n| LOAD FROM STORAGE MEDIA | Copy the root certificate from the camera memory card. |\n| DELETE                  | Delete the current root certificate.             |",
+                    "isPerfectTable": true,
+                    "csv": "\"Option\",\"Description\"\n\"LOAD FROM STORAGE MEDIA\",\"Copy the root certificate from the camera memory card.\"\n\"DELETE\",\"Delete the current root certificate.\""
+                },
+                {
+                    "type": "text",
+                    "value": "> Frame.io and **FTP OPTIONAL SETTING > ROOT CERTIFICATE** use the same root certificate. Changing one changes the other.",
+                    "md": "> Frame.io and **FTP OPTIONAL SETTING > ROOT CERTIFICATE** use the same root certificate. Changing one changes the other."
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "UPLOAD STATUS",
+                    "md": "## UPLOAD STATUS"
+                },
+                {
+                    "type": "text",
+                    "value": "View Frame.io upload status.",
+                    "md": "View Frame.io upload status."
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "TRANSFER QUEUE",
+                    "md": "## TRANSFER QUEUE"
+                },
+                {
+                    "type": "text",
+                    "value": "View a list of the files awaiting upload.",
+                    "md": "View a list of the files awaiting upload."
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "RESET TRANSFER ORDER",
+                    "md": "## RESET TRANSFER ORDER"
+                },
+                {
+                    "type": "text",
+                    "value": "Remove upload marking from all files selected for upload to Frame.io.",
+                    "md": "Remove upload marking from all files selected for upload to Frame.io."
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 260.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "b190abf4-8be3-463b-9093-c0119ec5c9e4",
+    "file_path": "../data/raw_data/gfx100ii/gfx100ii_split/gfx100ii_page353.pdf"
+}

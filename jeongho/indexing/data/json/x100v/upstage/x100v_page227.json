@@ -1,0 +1,266 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:14px'>BUTTON/DIAL SETTING</header>\n<h1 id='1' style='font-size:18px'>FOCUS RING OPERATION</h1>\n\n<table id='3' style='font-size:14px'><tr><td>Option</td><td>Description</td></tr><tr><td>NONLINEAR</td><td>Focus is adjusted at the same rate as the ring is rotated.</td></tr><tr><td>LINEAR</td><td>Focus is adjusted linearly according to the amount the ring is rotated, but the focusing speed is unaffected by the speed the ring is rotated.</td></tr><br><caption id='2' style='font-size:18px'>Choose how the camera adjusts focus in response to the move-<br>ment of the focus ring.</caption></table>\n<p id='4' data-category='paragraph' style='font-size:16px'>CONTROL RING SETTING</p>\n\n<br><table id='6' style='font-size:14px'><tr><td>Option</td><td>Description</td></tr><tr><td>STANDARD</td><td>The function assigned to the control ring varies with the shooting mode (�� 12).</td></tr><tr><td>WHITE BALANCE</td><td>Assign white balance to the control ring.</td></tr><tr><td>FILM SIMULATION</td><td>Assign film simulation to the control ring.</td></tr><tr><td>DIGITAL TELE-CONV.</td><td>Assign the digital teleconverter to the control ring.</td></tr><tr><td>OFF</td><td>No function assigned.</td></tr><br><caption id='5' style='font-size:20px'>Set functions assigned to the control ring.</caption></table>\n<br><footer id='7' style='font-size:22px'>The<br>Setup<br>Menus</footer>\n<footer id='8' style='font-size:20px'>227</footer>",
+        "markdown": "BUTTON/DIAL SETTING\n\n# FOCUS RING OPERATION\n\nChoose how the camera adjusts focus in response to the move-\nment of the focus ring.\n\n| Option | Description |\n| --- | --- |\n| NONLINEAR | Focus is adjusted at the same rate as the ring is rotated. |\n| LINEAR | Focus is adjusted linearly according to the amount the ring is rotated, but the focusing speed is unaffected by the speed the ring is rotated. |\n\n\nCONTROL RING SETTING\n\nSet functions assigned to the control ring.\n\n| Option | Description |\n| --- | --- |\n| STANDARD | The function assigned to the control ring varies with the shooting mode (�� 12). |\n| WHITE BALANCE | Assign white balance to the control ring. |\n| FILM SIMULATION | Assign film simulation to the control ring. |\n| DIGITAL TELE-CONV. | Assign the digital teleconverter to the control ring. |\n| OFF | No function assigned. |\n\n\nThe\nSetup\nMenus\n\n227",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:14px'>BUTTON/DIAL SETTING</header>",
+                "markdown": "BUTTON/DIAL SETTING",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6873,
+                    "y": 0.0285
+                },
+                {
+                    "x": 0.918,
+                    "y": 0.0285
+                },
+                {
+                    "x": 0.918,
+                    "y": 0.0495
+                },
+                {
+                    "x": 0.6873,
+                    "y": 0.0495
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='1' style='font-size:18px'>FOCUS RING OPERATION</h1>",
+                "markdown": "# FOCUS RING OPERATION",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1081,
+                    "y": 0.0727
+                },
+                {
+                    "x": 0.4486,
+                    "y": 0.0727
+                },
+                {
+                    "x": 0.4486,
+                    "y": 0.0953
+                },
+                {
+                    "x": 0.1081,
+                    "y": 0.0953
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='2' data-category='paragraph' style='font-size:18px'>Choose how the camera adjusts focus in response to the move-<br>ment of the focus ring.</p>",
+                "markdown": "Choose how the camera adjusts focus in response to the move-\nment of the focus ring.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1057,
+                    "y": 0.1044
+                },
+                {
+                    "x": 0.9169,
+                    "y": 0.1044
+                },
+                {
+                    "x": 0.9169,
+                    "y": 0.1546
+                },
+                {
+                    "x": 0.1057,
+                    "y": 0.1546
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='3' style='font-size:14px'><tr><td>Option</td><td>Description</td></tr><tr><td>NONLINEAR</td><td>Focus is adjusted at the same rate as the ring is rotated.</td></tr><tr><td>LINEAR</td><td>Focus is adjusted linearly according to the amount the ring is rotated, but the focusing speed is unaffected by the speed the ring is rotated.</td></tr></table>",
+                "markdown": "| Option | Description |\n| --- | --- |\n| NONLINEAR | Focus is adjusted at the same rate as the ring is rotated. |\n| LINEAR | Focus is adjusted linearly according to the amount the ring is rotated, but the focusing speed is unaffected by the speed the ring is rotated. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1118,
+                    "y": 0.1668
+                },
+                {
+                    "x": 0.9216,
+                    "y": 0.1668
+                },
+                {
+                    "x": 0.9216,
+                    "y": 0.2867
+                },
+                {
+                    "x": 0.1118,
+                    "y": 0.2867
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='4' data-category='paragraph' style='font-size:16px'>CONTROL RING SETTING</p>",
+                "markdown": "CONTROL RING SETTING",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1059,
+                    "y": 0.3044
+                },
+                {
+                    "x": 0.4427,
+                    "y": 0.3044
+                },
+                {
+                    "x": 0.4427,
+                    "y": 0.3272
+                },
+                {
+                    "x": 0.1059,
+                    "y": 0.3272
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='5' data-category='paragraph' style='font-size:20px'>Set functions assigned to the control ring.</p>",
+                "markdown": "Set functions assigned to the control ring.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.106,
+                    "y": 0.3366
+                },
+                {
+                    "x": 0.6355,
+                    "y": 0.3366
+                },
+                {
+                    "x": 0.6355,
+                    "y": 0.3615
+                },
+                {
+                    "x": 0.106,
+                    "y": 0.3615
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='6' style='font-size:14px'><tr><td>Option</td><td>Description</td></tr><tr><td>STANDARD</td><td>The function assigned to the control ring varies with the shooting mode (�� 12).</td></tr><tr><td>WHITE BALANCE</td><td>Assign white balance to the control ring.</td></tr><tr><td>FILM SIMULATION</td><td>Assign film simulation to the control ring.</td></tr><tr><td>DIGITAL TELE-CONV.</td><td>Assign the digital teleconverter to the control ring.</td></tr><tr><td>OFF</td><td>No function assigned.</td></tr></table>",
+                "markdown": "| Option | Description |\n| --- | --- |\n| STANDARD | The function assigned to the control ring varies with the shooting mode (�� 12). |\n| WHITE BALANCE | Assign white balance to the control ring. |\n| FILM SIMULATION | Assign film simulation to the control ring. |\n| DIGITAL TELE-CONV. | Assign the digital teleconverter to the control ring. |\n| OFF | No function assigned. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1079,
+                    "y": 0.3728
+                },
+                {
+                    "x": 0.9194,
+                    "y": 0.3728
+                },
+                {
+                    "x": 0.9194,
+                    "y": 0.5404
+                },
+                {
+                    "x": 0.1079,
+                    "y": 0.5404
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<br><footer id='7' style='font-size:22px'>The<br>Setup<br>Menus</footer>",
+                "markdown": "The\nSetup\nMenus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9578,
+                    "y": 0.5094
+                },
+                {
+                    "x": 0.9796,
+                    "y": 0.5094
+                },
+                {
+                    "x": 0.9796,
+                    "y": 0.6353
+                },
+                {
+                    "x": 0.9578,
+                    "y": 0.6353
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='8' style='font-size:20px'>227</footer>",
+                "markdown": "227",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.8596,
+                    "y": 0.9555
+                },
+                {
+                    "x": 0.918,
+                    "y": 0.9555
+                },
+                {
+                    "x": 0.918,
+                    "y": 0.9799
+                },
+                {
+                    "x": 0.8596,
+                    "y": 0.9799
+                }
+            ],
+            "id": 8,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

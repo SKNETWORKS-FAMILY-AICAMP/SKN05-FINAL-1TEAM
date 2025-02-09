@@ -1,0 +1,13 @@
+{
+    "parsing_result": "\n5. Choose whether to use a proxy server. In this case we’ll choose DISABLE.\n\n   !Proxy Server Option\n\n   - Choose ENABLE to enter the address and port number for a proxy server.\n\n6. Choose whether to enable PASV mode.\n\n   !PASV Mode Option\n\n7. Select USER NAME & PASSWORD. Enter the user name and password used for login to the FTP server.\n\n   !Login Option\n\n   - For connection to servers that do not require a user name and password, select ANONYMOUS.\n   - Selecting FTPS for FTP SERVER TYPE lets you choose the authentication method. If desired, you can load a self-signed root certificate using FTP OPTIONAL SETTING > ROOT CERTIFICATE.\n\n8. Choose the destination folder.\n   - Choose ROOT FOLDER to upload pictures to the server’s root directory.\n   - To select a different folder, choose SPECIFY FOLDER.\n\n   !Specify Target Folder\n",
+    "embedding_result": [],
+    "metadata": {
+        "page": 286,
+        "model": "gfx100ii",
+        "chapter": "Network/USB Setting Menus",
+        "section": "Uploading Files via FTP",
+        "subsection": [
+            "Adjusting Settings for Connection to FTP Servers"
+        ]
+    }
+}

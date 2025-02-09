@@ -1,0 +1,100 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "\n# Overview\n\nThis chapter outlines features that can among other things be used to upload pictures to, or control the camera and take pictures remotely from, a smartphone or computer.\n\n## Supported Features\n\nThis camera supports the following features:\n\n| Feature                        | Description                                                                                   |\n|--------------------------------|-----------------------------------------------------------------------------------------------|\n| Connecting to the smartphone app | Connect to smartphones via Bluetooth® and upload pictures or control the camera remotely while the smartphone displays the view through the lens. |\n| USB card readers               | Connect a card reader to a computer or smartphone via USB and copy pictures from memory cards. |\n| Web camera                     | Connect the camera to a computer via USB for use as a webcam.                                 |\n| instax printers                | Print pictures on connected instax printers.                                                  |\n| Tethered photography           | Take pictures from a computer to which the camera is connected (“tethered”) via wireless LAN or USB. |\n| RAW processing                 | Harness the power of the camera’s image processing engine when processing RAW pictures on a computer. |\n| Saving and Loading Settings    | Save camera settings to, or load existing settings from, a computer or smartphone.            |\n",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "Overview",
+                    "md": "# Overview"
+                },
+                {
+                    "type": "text",
+                    "value": "This chapter outlines features that can among other things be used to upload pictures to, or control the camera and take pictures remotely from, a smartphone or computer.",
+                    "md": "This chapter outlines features that can among other things be used to upload pictures to, or control the camera and take pictures remotely from, a smartphone or computer."
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "Supported Features",
+                    "md": "## Supported Features"
+                },
+                {
+                    "type": "text",
+                    "value": "This camera supports the following features:",
+                    "md": "This camera supports the following features:"
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Feature",
+                            "Description"
+                        ],
+                        [
+                            "Connecting to the smartphone app",
+                            "Connect to smartphones via Bluetooth® and upload pictures or control the camera remotely while the smartphone displays the view through the lens."
+                        ],
+                        [
+                            "USB card readers",
+                            "Connect a card reader to a computer or smartphone via USB and copy pictures from memory cards."
+                        ],
+                        [
+                            "Web camera",
+                            "Connect the camera to a computer via USB for use as a webcam."
+                        ],
+                        [
+                            "instax printers",
+                            "Print pictures on connected instax printers."
+                        ],
+                        [
+                            "Tethered photography",
+                            "Take pictures from a computer to which the camera is connected (“tethered”) via wireless LAN or USB."
+                        ],
+                        [
+                            "RAW processing",
+                            "Harness the power of the camera’s image processing engine when processing RAW pictures on a computer."
+                        ],
+                        [
+                            "Saving and Loading Settings",
+                            "Save camera settings to, or load existing settings from, a computer or smartphone."
+                        ]
+                    ],
+                    "md": "| Feature                        | Description                                                                                   |\n|--------------------------------|-----------------------------------------------------------------------------------------------|\n| Connecting to the smartphone app | Connect to smartphones via Bluetooth® and upload pictures or control the camera remotely while the smartphone displays the view through the lens. |\n| USB card readers               | Connect a card reader to a computer or smartphone via USB and copy pictures from memory cards. |\n| Web camera                     | Connect the camera to a computer via USB for use as a webcam.                                 |\n| instax printers                | Print pictures on connected instax printers.                                                  |\n| Tethered photography           | Take pictures from a computer to which the camera is connected (“tethered”) via wireless LAN or USB. |\n| RAW processing                 | Harness the power of the camera’s image processing engine when processing RAW pictures on a computer. |\n| Saving and Loading Settings    | Save camera settings to, or load existing settings from, a computer or smartphone.            |",
+                    "isPerfectTable": true,
+                    "csv": "\"Feature\",\"Description\"\n\"Connecting to the smartphone app\",\"Connect to smartphones via Bluetooth® and upload pictures or control the camera remotely while the smartphone displays the view through the lens.\"\n\"USB card readers\",\"Connect a card reader to a computer or smartphone via USB and copy pictures from memory cards.\"\n\"Web camera\",\"Connect the camera to a computer via USB for use as a webcam.\"\n\"instax printers\",\"Print pictures on connected instax printers.\"\n\"Tethered photography\",\"Take pictures from a computer to which the camera is connected (“tethered”) via wireless LAN or USB.\"\n\"RAW processing\",\"Harness the power of the camera’s image processing engine when processing RAW pictures on a computer.\"\n\"Saving and Loading Settings\",\"Save camera settings to, or load existing settings from, a computer or smartphone.\""
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "parsingMode": "multimodal-openai-gpt4o",
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 489.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "a83c5a80-d1ae-466c-a9ba-b1df84215feb",
+    "file_path": "../data/raw_data/x-t5/x-t5_split/x-t5_page274.pdf"
+}

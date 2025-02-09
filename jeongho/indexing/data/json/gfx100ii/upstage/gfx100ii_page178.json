@@ -1,0 +1,350 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<h1 id='0' style='font-size:18px'>MOVIE MODE</h1>\n<br><h1 id='1' style='font-size:20px'>Before shooting movies, choose the<br>frame rate and the frame size and aspect<br>ratio.</h1>\n<br><figure id='2'><img style='font-size:14px' alt=\"MOVIE MODE\n16:9\nAF\nMF 17:9\nFD16:9 29.97P\nT C 17:9\n16:9\n8\n2\nOK END CANCEL\" data-coord=\"top-left:(1682,400); bottom-right:(2460,1080)\" /></figure>\n<br><p id='3' data-category='list' style='font-size:20px'>1 In the shooting menu, select MOVIE SETTING, then high-<br>light MOVIE MODE and press MENU/OK.</p>\n<p id='4' data-category='list' style='font-size:20px'>2 Press the focus stick (focus lever) up or down to highlight the<br>desired frame size and aspect ratio 1 and press the stick<br>right.</p>\n<p id='5' data-category='paragraph' style='font-size:20px'>The setting values that can be selected depend on the IMAGE<br>FORMAT setting.</p>\n<p id='6' data-category='paragraph' style='font-size:18px'>3 Press the focus stick (focus lever) up or down to highlight a<br>frame rate ( 2 ) and press MENU/OK.</p>\n<br><h1 id='7' style='font-size:14px'>6</h1>\n<br><table id='8' style='font-size:16px'><tr><td colspan=\"6\">Options</td></tr><tr><td>23.98P</td><td>24P</td><td>25P</td><td>29.97P</td><td>50P</td><td>59.94P</td></tr></table>\n<br><p id='9' data-category='paragraph' style='font-size:16px'>The choice of frame rates varies with the movie mode.</p>\n<footer id='10' style='font-size:20px'>178</footer>\n<br><header id='11' style='font-size:22px'>The<br>Shooting<br>Menus</header>",
+        "markdown": "# MOVIE MODE\n\n# Before shooting movies, choose the\nframe rate and the frame size and aspect\nratio.\n\n![image](/image/placeholder)\nMOVIE MODE\n16:9\nAF\nMF 17:9\nFD16:9 29.97P\nT C 17:9\n16:9\n8\n2\nOK END CANCEL\n\n- 1 In the shooting menu, select MOVIE SETTING, then high-\n- light MOVIE MODE and press MENU/OK.\n\n\n- 2 Press the focus stick (focus lever) up or down to highlight the\n- desired frame size and aspect ratio 1 and press the stick\n- right.\n\n\nThe setting values that can be selected depend on the IMAGE\nFORMAT setting.\n\n3 Press the focus stick (focus lever) up or down to highlight a\nframe rate ( 2 ) and press MENU/OK.\n\n# 6\n\n| Options | Options | Options | Options | Options | Options |\n| --- | --- | --- | --- | --- | --- |\n| 23.98P | 24P | 25P | 29.97P | 50P | 59.94P |\n\n\nThe choice of frame rates varies with the movie mode.\n\n178\n\nThe\nShooting\nMenus",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='0' style='font-size:18px'>MOVIE MODE</h1>",
+                "markdown": "# MOVIE MODE",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0818,
+                    "y": 0.0731
+                },
+                {
+                    "x": 0.271,
+                    "y": 0.0731
+                },
+                {
+                    "x": 0.271,
+                    "y": 0.0945
+                },
+                {
+                    "x": 0.0818,
+                    "y": 0.0945
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='1' style='font-size:20px'>Before shooting movies, choose the<br>frame rate and the frame size and aspect<br>ratio.</h1>",
+                "markdown": "# Before shooting movies, choose the\nframe rate and the frame size and aspect\nratio.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0817,
+                    "y": 0.1038
+                },
+                {
+                    "x": 0.6037,
+                    "y": 0.1038
+                },
+                {
+                    "x": 0.6037,
+                    "y": 0.1802
+                },
+                {
+                    "x": 0.0817,
+                    "y": 0.1802
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "figure",
+            "content": {
+                "html": "<br><figure id='2'><img style='font-size:14px' alt=\"MOVIE MODE\n16:9\nAF\nMF 17:9\nFD16:9 29.97P\nT C 17:9\n16:9\n8\n2\nOK END CANCEL\" data-coord=\"top-left:(1682,400); bottom-right:(2460,1080)\" /></figure>",
+                "markdown": "![image](/image/placeholder)\nMOVIE MODE\n16:9\nAF\nMF 17:9\nFD16:9 29.97P\nT C 17:9\n16:9\n8\n2\nOK END CANCEL",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6089,
+                    "y": 0.1026
+                },
+                {
+                    "x": 0.8902,
+                    "y": 0.1026
+                },
+                {
+                    "x": 0.8902,
+                    "y": 0.2771
+                },
+                {
+                    "x": 0.6089,
+                    "y": 0.2771
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "list",
+            "content": {
+                "html": "<br><p id='3' data-category='list' style='font-size:20px'>1 In the shooting menu, select MOVIE SETTING, then high-<br>light MOVIE MODE and press MENU/OK.</p>",
+                "markdown": "- 1 In the shooting menu, select MOVIE SETTING, then high-\n- light MOVIE MODE and press MENU/OK.\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0941,
+                    "y": 0.285
+                },
+                {
+                    "x": 0.8922,
+                    "y": 0.285
+                },
+                {
+                    "x": 0.8922,
+                    "y": 0.3343
+                },
+                {
+                    "x": 0.0941,
+                    "y": 0.3343
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "list",
+            "content": {
+                "html": "<p id='4' data-category='list' style='font-size:20px'>2 Press the focus stick (focus lever) up or down to highlight the<br>desired frame size and aspect ratio 1 and press the stick<br>right.</p>",
+                "markdown": "- 2 Press the focus stick (focus lever) up or down to highlight the\n- desired frame size and aspect ratio 1 and press the stick\n- right.\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0943,
+                    "y": 0.3479
+                },
+                {
+                    "x": 0.8944,
+                    "y": 0.3479
+                },
+                {
+                    "x": 0.8944,
+                    "y": 0.4238
+                },
+                {
+                    "x": 0.0943,
+                    "y": 0.4238
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='5' data-category='paragraph' style='font-size:20px'>The setting values that can be selected depend on the IMAGE<br>FORMAT setting.</p>",
+                "markdown": "The setting values that can be selected depend on the IMAGE\nFORMAT setting.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1285,
+                    "y": 0.4382
+                },
+                {
+                    "x": 0.8921,
+                    "y": 0.4382
+                },
+                {
+                    "x": 0.8921,
+                    "y": 0.4895
+                },
+                {
+                    "x": 0.1285,
+                    "y": 0.4895
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='6' data-category='paragraph' style='font-size:18px'>3 Press the focus stick (focus lever) up or down to highlight a<br>frame rate ( 2 ) and press MENU/OK.</p>",
+                "markdown": "3 Press the focus stick (focus lever) up or down to highlight a\nframe rate ( 2 ) and press MENU/OK.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1011,
+                    "y": 0.503
+                },
+                {
+                    "x": 0.8905,
+                    "y": 0.503
+                },
+                {
+                    "x": 0.8905,
+                    "y": 0.5533
+                },
+                {
+                    "x": 0.1011,
+                    "y": 0.5533
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='7' style='font-size:14px'>6</h1>",
+                "markdown": "# 6",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0284,
+                    "y": 0.5402
+                },
+                {
+                    "x": 0.0417,
+                    "y": 0.5402
+                },
+                {
+                    "x": 0.0417,
+                    "y": 0.5547
+                },
+                {
+                    "x": 0.0284,
+                    "y": 0.5547
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='8' style='font-size:16px'><tr><td colspan=\"6\">Options</td></tr><tr><td>23.98P</td><td>24P</td><td>25P</td><td>29.97P</td><td>50P</td><td>59.94P</td></tr></table>",
+                "markdown": "| Options | Options | Options | Options | Options | Options |\n| --- | --- | --- | --- | --- | --- |\n| 23.98P | 24P | 25P | 29.97P | 50P | 59.94P |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1365,
+                    "y": 0.5647
+                },
+                {
+                    "x": 0.8886,
+                    "y": 0.5647
+                },
+                {
+                    "x": 0.8886,
+                    "y": 0.6176
+                },
+                {
+                    "x": 0.1365,
+                    "y": 0.6176
+                }
+            ],
+            "id": 8,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='9' data-category='paragraph' style='font-size:16px'>The choice of frame rates varies with the movie mode.</p>",
+                "markdown": "The choice of frame rates varies with the movie mode.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0992,
+                    "y": 0.6268
+                },
+                {
+                    "x": 0.7164,
+                    "y": 0.6268
+                },
+                {
+                    "x": 0.7164,
+                    "y": 0.6495
+                },
+                {
+                    "x": 0.0992,
+                    "y": 0.6495
+                }
+            ],
+            "id": 9,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='10' style='font-size:20px'>178</footer>",
+                "markdown": "178",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.085,
+                    "y": 0.9568
+                },
+                {
+                    "x": 0.1396,
+                    "y": 0.9568
+                },
+                {
+                    "x": 0.1396,
+                    "y": 0.9789
+                },
+                {
+                    "x": 0.085,
+                    "y": 0.9789
+                }
+            ],
+            "id": 10,
+            "page": 1
+        },
+        {
+            "category": "header",
+            "content": {
+                "html": "<br><header id='11' style='font-size:22px'>The<br>Shooting<br>Menus</header>",
+                "markdown": "The\nShooting\nMenus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0163,
+                    "y": 0.5777
+                },
+                {
+                    "x": 0.0421,
+                    "y": 0.5777
+                },
+                {
+                    "x": 0.0421,
+                    "y": 0.7313
+                },
+                {
+                    "x": 0.0163,
+                    "y": 0.7313
+                }
+            ],
+            "id": 11,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

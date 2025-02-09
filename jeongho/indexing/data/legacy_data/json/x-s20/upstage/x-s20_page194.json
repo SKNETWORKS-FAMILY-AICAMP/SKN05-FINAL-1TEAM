@@ -1,0 +1,182 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<h1 id='0' style='font-size:18px'>Bit Rate</h1>\n<br><h1 id='1' style='font-size:16px'>Choose the movie bit rate.</h1>\n<br><table id='2' style='font-size:16px'><tr><td></td><td colspan=\"3\">Options</td></tr><tr><td>50Mbps</td><td>100Mbps</td><td>200Mbps</td><td>360Mbps</td></tr><tr><td colspan=\"4\">The options available for bit rate vary with the settings chosen for high- speed movie recording and compression. The actual bit rate may be slower than the selected value depending on the subject.</td></tr></table>\n<p id='3' data-category='paragraph' style='font-size:14px'>6</p>\n<footer id='4' style='font-size:20px'>192</footer>\n<br><header id='5' style='font-size:22px'>The<br>Shooting<br>Menus</header>",
+        "markdown": "# Bit Rate\n\n# Choose the movie bit rate.\n\n|  | Options | Options | Options |\n| --- | --- | --- | --- |\n| 50Mbps | 100Mbps | 200Mbps | 360Mbps |\n| The options available for bit rate vary with the settings chosen for high- speed movie recording and compression. The actual bit rate may be slower than the selected value depending on the subject. | The options available for bit rate vary with the settings chosen for high- speed movie recording and compression. The actual bit rate may be slower than the selected value depending on the subject. | The options available for bit rate vary with the settings chosen for high- speed movie recording and compression. The actual bit rate may be slower than the selected value depending on the subject. | The options available for bit rate vary with the settings chosen for high- speed movie recording and compression. The actual bit rate may be slower than the selected value depending on the subject. |\n\n\n6\n\n192\n\nThe\nShooting\nMenus",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='0' style='font-size:18px'>Bit Rate</h1>",
+                "markdown": "# Bit Rate",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0825,
+                    "y": 0.0724
+                },
+                {
+                    "x": 0.1737,
+                    "y": 0.0724
+                },
+                {
+                    "x": 0.1737,
+                    "y": 0.094
+                },
+                {
+                    "x": 0.0825,
+                    "y": 0.094
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='1' style='font-size:16px'>Choose the movie bit rate.</h1>",
+                "markdown": "# Choose the movie bit rate.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0823,
+                    "y": 0.0991
+                },
+                {
+                    "x": 0.4183,
+                    "y": 0.0991
+                },
+                {
+                    "x": 0.4183,
+                    "y": 0.1209
+                },
+                {
+                    "x": 0.0823,
+                    "y": 0.1209
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='2' style='font-size:16px'><tr><td></td><td colspan=\"3\">Options</td></tr><tr><td>50Mbps</td><td>100Mbps</td><td>200Mbps</td><td>360Mbps</td></tr><tr><td colspan=\"4\">The options available for bit rate vary with the settings chosen for high- speed movie recording and compression. The actual bit rate may be slower than the selected value depending on the subject.</td></tr></table>",
+                "markdown": "|  | Options | Options | Options |\n| --- | --- | --- | --- |\n| 50Mbps | 100Mbps | 200Mbps | 360Mbps |\n| The options available for bit rate vary with the settings chosen for high- speed movie recording and compression. The actual bit rate may be slower than the selected value depending on the subject. | The options available for bit rate vary with the settings chosen for high- speed movie recording and compression. The actual bit rate may be slower than the selected value depending on the subject. | The options available for bit rate vary with the settings chosen for high- speed movie recording and compression. The actual bit rate may be slower than the selected value depending on the subject. | The options available for bit rate vary with the settings chosen for high- speed movie recording and compression. The actual bit rate may be slower than the selected value depending on the subject. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0854,
+                    "y": 0.1302
+                },
+                {
+                    "x": 0.8929,
+                    "y": 0.1302
+                },
+                {
+                    "x": 0.8929,
+                    "y": 0.2659
+                },
+                {
+                    "x": 0.0854,
+                    "y": 0.2659
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='3' data-category='paragraph' style='font-size:14px'>6</p>",
+                "markdown": "6",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0283,
+                    "y": 0.5406
+                },
+                {
+                    "x": 0.0427,
+                    "y": 0.5406
+                },
+                {
+                    "x": 0.0427,
+                    "y": 0.554
+                },
+                {
+                    "x": 0.0283,
+                    "y": 0.554
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='4' style='font-size:20px'>192</footer>",
+                "markdown": "192",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0849,
+                    "y": 0.9565
+                },
+                {
+                    "x": 0.1394,
+                    "y": 0.9565
+                },
+                {
+                    "x": 0.1394,
+                    "y": 0.9796
+                },
+                {
+                    "x": 0.0849,
+                    "y": 0.9796
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "header",
+            "content": {
+                "html": "<br><header id='5' style='font-size:22px'>The<br>Shooting<br>Menus</header>",
+                "markdown": "The\nShooting\nMenus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0164,
+                    "y": 0.5788
+                },
+                {
+                    "x": 0.0429,
+                    "y": 0.5788
+                },
+                {
+                    "x": 0.0429,
+                    "y": 0.7309
+                },
+                {
+                    "x": 0.0164,
+                    "y": 0.7309
+                }
+            ],
+            "id": 5,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

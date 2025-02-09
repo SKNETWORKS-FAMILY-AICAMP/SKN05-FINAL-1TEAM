@@ -1,0 +1,182 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<h1 id='0' style='font-size:16px'>WHITE BALANCE</h1>\n<br><h1 id='1' style='font-size:18px'>For natural colors, choose a white balance option that matches<br>the light source.</h1>\n<table id='2' style='font-size:14px'><tr><td>Option</td><td>Description</td></tr><tr><td>WB AUTO WHITE w PRIORITY</td><td>White balance is adjusted automatically. Choose for whiter whites in scenes lit by incandescent bulbs.</td></tr><tr><td>AUTO</td><td>White balance is adjusted automatically.</td></tr><tr><td>WB AUTO AMBIENCE PRIORITY</td><td>White balance is adjusted automatically. Choose for warmer whites in scenes lit by incandescent bulbs.</td></tr><tr><td>01 CUSTOM 1</td><td rowspan=\"3\">Measure a value for white balance.</td></tr><tr><td>O2 CUSTOM 2</td></tr><tr><td>□3 CUSTOM 3</td></tr><tr><td>K COLOR TEMPERATURE</td><td>Choose a color temperature.</td></tr><tr><td>DAYLIGHT</td><td>For subjects in direct sunlight.</td></tr><tr><td>SHADE</td><td>For subjects in the shade.</td></tr><tr><td>※ FLUORESCENT LIGHT-1</td><td>Use under\"daylight\"fluorescent lights.</td></tr><tr><td>※ FLUORESCENT LIGHT-2</td><td>Use under \"warm white\" fluorescent lights.</td></tr><tr><td>※ FLUORESCENT LIGHT-3</td><td>Use under\"cool white\" fluorescent lights.</td></tr><tr><td>- INCANDESCENT</td><td>Use under incandescent lighting.</td></tr><tr><td>UNDERWATER</td><td>Reduces the blue cast typically associated with underwater lighting.</td></tr></table>\n<br><p id='3' data-category='paragraph' style='font-size:14px'>6</p>\n<br><header id='4' style='font-size:22px'>The<br>Shooting<br>Menus</header>\n<footer id='5' style='font-size:20px'>136</footer>",
+        "markdown": "# WHITE BALANCE\n\n# For natural colors, choose a white balance option that matches\nthe light source.\n\n| Option | Description |\n| --- | --- |\n| WB AUTO WHITE w PRIORITY | White balance is adjusted automatically. Choose for whiter whites in scenes lit by incandescent bulbs. |\n| AUTO | White balance is adjusted automatically. |\n| WB AUTO AMBIENCE PRIORITY | White balance is adjusted automatically. Choose for warmer whites in scenes lit by incandescent bulbs. |\n| 01 CUSTOM 1 | Measure a value for white balance. |\n| O2 CUSTOM 2 | Measure a value for white balance. |\n| □3 CUSTOM 3 | Measure a value for white balance. |\n| K COLOR TEMPERATURE | Choose a color temperature. |\n| DAYLIGHT | For subjects in direct sunlight. |\n| SHADE | For subjects in the shade. |\n| ※ FLUORESCENT LIGHT-1 | Use under\"daylight\"fluorescent lights. |\n| ※ FLUORESCENT LIGHT-2 | Use under \"warm white\" fluorescent lights. |\n| ※ FLUORESCENT LIGHT-3 | Use under\"cool white\" fluorescent lights. |\n| - INCANDESCENT | Use under incandescent lighting. |\n| UNDERWATER | Reduces the blue cast typically associated with underwater lighting. |\n\n\n6\n\nThe\nShooting\nMenus\n\n136",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='0' style='font-size:16px'>WHITE BALANCE</h1>",
+                "markdown": "# WHITE BALANCE",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0818,
+                    "y": 0.073
+                },
+                {
+                    "x": 0.3145,
+                    "y": 0.073
+                },
+                {
+                    "x": 0.3145,
+                    "y": 0.0942
+                },
+                {
+                    "x": 0.0818,
+                    "y": 0.0942
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='1' style='font-size:18px'>For natural colors, choose a white balance option that matches<br>the light source.</h1>",
+                "markdown": "# For natural colors, choose a white balance option that matches\nthe light source.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0806,
+                    "y": 0.1053
+                },
+                {
+                    "x": 0.8924,
+                    "y": 0.1053
+                },
+                {
+                    "x": 0.8924,
+                    "y": 0.154
+                },
+                {
+                    "x": 0.0806,
+                    "y": 0.154
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='2' style='font-size:14px'><tr><td>Option</td><td>Description</td></tr><tr><td>WB AUTO WHITE w PRIORITY</td><td>White balance is adjusted automatically. Choose for whiter whites in scenes lit by incandescent bulbs.</td></tr><tr><td>AUTO</td><td>White balance is adjusted automatically.</td></tr><tr><td>WB AUTO AMBIENCE PRIORITY</td><td>White balance is adjusted automatically. Choose for warmer whites in scenes lit by incandescent bulbs.</td></tr><tr><td>01 CUSTOM 1</td><td rowspan=\"3\">Measure a value for white balance.</td></tr><tr><td>O2 CUSTOM 2</td></tr><tr><td>□3 CUSTOM 3</td></tr><tr><td>K COLOR TEMPERATURE</td><td>Choose a color temperature.</td></tr><tr><td>DAYLIGHT</td><td>For subjects in direct sunlight.</td></tr><tr><td>SHADE</td><td>For subjects in the shade.</td></tr><tr><td>※ FLUORESCENT LIGHT-1</td><td>Use under\"daylight\"fluorescent lights.</td></tr><tr><td>※ FLUORESCENT LIGHT-2</td><td>Use under \"warm white\" fluorescent lights.</td></tr><tr><td>※ FLUORESCENT LIGHT-3</td><td>Use under\"cool white\" fluorescent lights.</td></tr><tr><td>- INCANDESCENT</td><td>Use under incandescent lighting.</td></tr><tr><td>UNDERWATER</td><td>Reduces the blue cast typically associated with underwater lighting.</td></tr></table>",
+                "markdown": "| Option | Description |\n| --- | --- |\n| WB AUTO WHITE w PRIORITY | White balance is adjusted automatically. Choose for whiter whites in scenes lit by incandescent bulbs. |\n| AUTO | White balance is adjusted automatically. |\n| WB AUTO AMBIENCE PRIORITY | White balance is adjusted automatically. Choose for warmer whites in scenes lit by incandescent bulbs. |\n| 01 CUSTOM 1 | Measure a value for white balance. |\n| O2 CUSTOM 2 | Measure a value for white balance. |\n| □3 CUSTOM 3 | Measure a value for white balance. |\n| K COLOR TEMPERATURE | Choose a color temperature. |\n| DAYLIGHT | For subjects in direct sunlight. |\n| SHADE | For subjects in the shade. |\n| ※ FLUORESCENT LIGHT-1 | Use under\"daylight\"fluorescent lights. |\n| ※ FLUORESCENT LIGHT-2 | Use under \"warm white\" fluorescent lights. |\n| ※ FLUORESCENT LIGHT-3 | Use under\"cool white\" fluorescent lights. |\n| - INCANDESCENT | Use under incandescent lighting. |\n| UNDERWATER | Reduces the blue cast typically associated with underwater lighting. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0848,
+                    "y": 0.1671
+                },
+                {
+                    "x": 0.8895,
+                    "y": 0.1671
+                },
+                {
+                    "x": 0.8895,
+                    "y": 0.7275
+                },
+                {
+                    "x": 0.0848,
+                    "y": 0.7275
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='3' data-category='paragraph' style='font-size:14px'>6</p>",
+                "markdown": "6",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.029,
+                    "y": 0.5403
+                },
+                {
+                    "x": 0.0416,
+                    "y": 0.5403
+                },
+                {
+                    "x": 0.0416,
+                    "y": 0.5543
+                },
+                {
+                    "x": 0.029,
+                    "y": 0.5543
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "header",
+            "content": {
+                "html": "<br><header id='4' style='font-size:22px'>The<br>Shooting<br>Menus</header>",
+                "markdown": "The\nShooting\nMenus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0162,
+                    "y": 0.5772
+                },
+                {
+                    "x": 0.042,
+                    "y": 0.5772
+                },
+                {
+                    "x": 0.042,
+                    "y": 0.7314
+                },
+                {
+                    "x": 0.0162,
+                    "y": 0.7314
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='5' style='font-size:20px'>136</footer>",
+                "markdown": "136",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0847,
+                    "y": 0.9563
+                },
+                {
+                    "x": 0.1404,
+                    "y": 0.9563
+                },
+                {
+                    "x": 0.1404,
+                    "y": 0.9796
+                },
+                {
+                    "x": 0.0847,
+                    "y": 0.9796
+                }
+            ],
+            "id": 5,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

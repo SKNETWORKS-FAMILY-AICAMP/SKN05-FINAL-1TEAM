@@ -1,0 +1,13 @@
+{
+    "parsing_result": "# FOCUS BKT SETTING\n\nChoose from **AUTO** and **MANUAL** focus bracketing modes.\n\n## MANUAL\n\nIn **MANUAL** mode, you choose the following:\n\n| Option   | Description                                           |\n|----------|-------------------------------------------------------|\n| FRAMES   | Choose the number of shots.                           |\n| STEP     | Choose the amount focus changes with each shot.       |\n| INTERVAL | Choose the interval between shots.                    |\n\n### Focus and FRAMES/STEP\n\nThe relation between focus and the options chosen for **FRAMES** and **STEP** is shown in the illustration.\n\n!Focus and Frames/Step Illustration\n\n- Focus proceeds from the starting position toward infinity.\n- Small **STEP** values translate to small changes in focus, larger values to larger changes.\n- Regardless of the option chosen for **FRAMES**, shooting ends when focus reaches infinity.",
+    "embedding_result": [],
+    "metadata": {
+        "page": 143,
+        "model": "x100v",
+        "subsection": [
+            "FOCUS BKT SETTING"
+        ],
+        "chapter": "The Shooting Menus",
+        "section": "SHOOTING SETTING"
+    }
+}

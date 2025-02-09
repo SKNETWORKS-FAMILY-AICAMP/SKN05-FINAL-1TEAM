@@ -1,0 +1,350 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:16px'>Focus/Exposure Lock</header>\n<h1 id='1' style='font-size:20px'>Other Controls</h1>\n<br><p id='2' data-category='paragraph' style='font-size:20px'>Focus and exposure can also be locked<br>using the AEL and AFON buttons. At de-<br>fault settings, you can use the AEL button<br>to lock exposure without locking focus.<br>If the AFON button is assigned AF LOCK<br>ONLY, it can similarly be used to lock fo-<br>cus without locking exposure.</p>\n<br><figure id='3'><img style='font-size:14px' alt=\"AEL\" data-coord=\"top-left:(1753,421); bottom-right:(2541,980)\" /></figure>\n\n<br><p id='5' data-category='list' style='font-size:18px'>● While the assigned control is pressed,<br>pressing the shutter button halfway will<br>not end the lock.<br>● If AE&AF ON/OFF SWITCH is selected<br>for 8 BUTTON/DIAL SETTING > AE/<br>AF-LOCK MODE, the lock can only be<br>ended by pressing the control a second<br>time.</p>\n<br><figure id='6'><img style='font-size:14px' alt=\"AF\nON\" data-coord=\"top-left:(1763,1219); bottom-right:(2534,1668)\" /><br><figcaption id='4' style='font-size:20px'>AEL button<br>(exposure lock)</figcaption></figure>\n<br><p id='7' data-category='paragraph' style='font-size:14px'>AFON button</p>\n<p id='8' data-category='list' style='font-size:14px'>The focus lever (focus stick) can be used to reposition the focus point<br>during exposure lock.<br>● The AEL and AFON buttons can be assigned other roles using<br>BUTTON/DIAL SETTING > FUNCTION (Fn) SETTING. Exposure<br>and focus lock can also be assigned to other buttons (目 317).</p>\n<br><footer id='9' style='font-size:16px'>5</footer>\n<br><footer id='10' style='font-size:22px'>Taking<br>Photographs</footer>\n<footer id='11' style='font-size:20px'>109</footer>",
+        "markdown": "Focus/Exposure Lock\n\n# Other Controls\n\nFocus and exposure can also be locked\nusing the AEL and AFON buttons. At de-\nfault settings, you can use the AEL button\nto lock exposure without locking focus.\nIf the AFON button is assigned AF LOCK\nONLY, it can similarly be used to lock fo-\ncus without locking exposure.\n\n![image](/image/placeholder)\nAEL\n\nAEL button\n(exposure lock)\n\n- ● While the assigned control is pressed,\n- pressing the shutter button halfway will\n- not end the lock.\n- ● If AE&AF ON/OFF SWITCH is selected\n- for 8 BUTTON/DIAL SETTING > AE/\n- AF-LOCK MODE, the lock can only be\n- ended by pressing the control a second\n- time.\n\n\n![image](/image/placeholder)\nAF\nON\n\nAFON button\n\n- The focus lever (focus stick) can be used to reposition the focus point\n- during exposure lock.\n- ● The AEL and AFON buttons can be assigned other roles using\n- BUTTON/DIAL SETTING > FUNCTION (Fn) SETTING. Exposure\n- and focus lock can also be assigned to other buttons (目 317).\n\n\n5\n\nTaking\nPhotographs\n\n109",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:16px'>Focus/Exposure Lock</header>",
+                "markdown": "Focus/Exposure Lock",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.7081,
+                    "y": 0.029
+                },
+                {
+                    "x": 0.9188,
+                    "y": 0.029
+                },
+                {
+                    "x": 0.9188,
+                    "y": 0.0504
+                },
+                {
+                    "x": 0.7081,
+                    "y": 0.0504
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='1' style='font-size:20px'>Other Controls</h1>",
+                "markdown": "# Other Controls",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1074,
+                    "y": 0.0731
+                },
+                {
+                    "x": 0.3135,
+                    "y": 0.0731
+                },
+                {
+                    "x": 0.3135,
+                    "y": 0.0947
+                },
+                {
+                    "x": 0.1074,
+                    "y": 0.0947
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='2' data-category='paragraph' style='font-size:20px'>Focus and exposure can also be locked<br>using the AEL and AFON buttons. At de-<br>fault settings, you can use the AEL button<br>to lock exposure without locking focus.<br>If the AFON button is assigned AF LOCK<br>ONLY, it can similarly be used to lock fo-<br>cus without locking exposure.</p>",
+                "markdown": "Focus and exposure can also be locked\nusing the AEL and AFON buttons. At de-\nfault settings, you can use the AEL button\nto lock exposure without locking focus.\nIf the AFON button is assigned AF LOCK\nONLY, it can similarly be used to lock fo-\ncus without locking exposure.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.105,
+                    "y": 0.1036
+                },
+                {
+                    "x": 0.63,
+                    "y": 0.1036
+                },
+                {
+                    "x": 0.63,
+                    "y": 0.283
+                },
+                {
+                    "x": 0.105,
+                    "y": 0.283
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "figure",
+            "content": {
+                "html": "<br><figure id='3'><img style='font-size:14px' alt=\"AEL\" data-coord=\"top-left:(1753,421); bottom-right:(2541,980)\" /></figure>",
+                "markdown": "![image](/image/placeholder)\nAEL",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6345,
+                    "y": 0.1082
+                },
+                {
+                    "x": 0.9194,
+                    "y": 0.1082
+                },
+                {
+                    "x": 0.9194,
+                    "y": 0.2516
+                },
+                {
+                    "x": 0.6345,
+                    "y": 0.2516
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='4' data-category='paragraph' style='font-size:20px'>AEL button<br>(exposure lock)</p>",
+                "markdown": "AEL button\n(exposure lock)",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6923,
+                    "y": 0.2419
+                },
+                {
+                    "x": 0.8637,
+                    "y": 0.2419
+                },
+                {
+                    "x": 0.8637,
+                    "y": 0.2881
+                },
+                {
+                    "x": 0.6923,
+                    "y": 0.2881
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "list",
+            "content": {
+                "html": "<br><p id='5' data-category='list' style='font-size:18px'>● While the assigned control is pressed,<br>pressing the shutter button halfway will<br>not end the lock.<br>● If AE&AF ON/OFF SWITCH is selected<br>for 8 BUTTON/DIAL SETTING > AE/<br>AF-LOCK MODE, the lock can only be<br>ended by pressing the control a second<br>time.</p>",
+                "markdown": "- ● While the assigned control is pressed,\n- pressing the shutter button halfway will\n- not end the lock.\n- ● If AE&AF ON/OFF SWITCH is selected\n- for 8 BUTTON/DIAL SETTING > AE/\n- AF-LOCK MODE, the lock can only be\n- ended by pressing the control a second\n- time.\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1086,
+                    "y": 0.2949
+                },
+                {
+                    "x": 0.6334,
+                    "y": 0.2949
+                },
+                {
+                    "x": 0.6334,
+                    "y": 0.4991
+                },
+                {
+                    "x": 0.1086,
+                    "y": 0.4991
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "figure",
+            "content": {
+                "html": "<br><figure id='6'><img style='font-size:14px' alt=\"AF\nON\" data-coord=\"top-left:(1763,1219); bottom-right:(2534,1668)\" /></figure>",
+                "markdown": "![image](/image/placeholder)\nAF\nON",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.638,
+                    "y": 0.3128
+                },
+                {
+                    "x": 0.9168,
+                    "y": 0.3128
+                },
+                {
+                    "x": 0.9168,
+                    "y": 0.428
+                },
+                {
+                    "x": 0.638,
+                    "y": 0.428
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='7' data-category='paragraph' style='font-size:14px'>AFON button</p>",
+                "markdown": "AFON button",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.7075,
+                    "y": 0.4418
+                },
+                {
+                    "x": 0.846,
+                    "y": 0.4418
+                },
+                {
+                    "x": 0.846,
+                    "y": 0.463
+                },
+                {
+                    "x": 0.7075,
+                    "y": 0.463
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "list",
+            "content": {
+                "html": "<p id='8' data-category='list' style='font-size:14px'>The focus lever (focus stick) can be used to reposition the focus point<br>during exposure lock.<br>● The AEL and AFON buttons can be assigned other roles using<br>BUTTON/DIAL SETTING > FUNCTION (Fn) SETTING. Exposure<br>and focus lock can also be assigned to other buttons (目 317).</p>",
+                "markdown": "- The focus lever (focus stick) can be used to reposition the focus point\n- during exposure lock.\n- ● The AEL and AFON buttons can be assigned other roles using\n- BUTTON/DIAL SETTING > FUNCTION (Fn) SETTING. Exposure\n- and focus lock can also be assigned to other buttons (目 317).\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1342,
+                    "y": 0.5223
+                },
+                {
+                    "x": 0.9149,
+                    "y": 0.5223
+                },
+                {
+                    "x": 0.9149,
+                    "y": 0.6358
+                },
+                {
+                    "x": 0.1342,
+                    "y": 0.6358
+                }
+            ],
+            "id": 8,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<br><footer id='9' style='font-size:16px'>5</footer>",
+                "markdown": "5",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9572,
+                    "y": 0.4776
+                },
+                {
+                    "x": 0.9756,
+                    "y": 0.4776
+                },
+                {
+                    "x": 0.9756,
+                    "y": 0.4974
+                },
+                {
+                    "x": 0.9572,
+                    "y": 0.4974
+                }
+            ],
+            "id": 9,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<br><footer id='10' style='font-size:22px'>Taking<br>Photographs</footer>",
+                "markdown": "Taking\nPhotographs",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9561,
+                    "y": 0.5171
+                },
+                {
+                    "x": 0.9813,
+                    "y": 0.5171
+                },
+                {
+                    "x": 0.9813,
+                    "y": 0.6653
+                },
+                {
+                    "x": 0.9561,
+                    "y": 0.6653
+                }
+            ],
+            "id": 10,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='11' style='font-size:20px'>109</footer>",
+                "markdown": "109",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.862,
+                    "y": 0.9566
+                },
+                {
+                    "x": 0.9179,
+                    "y": 0.9566
+                },
+                {
+                    "x": 0.9179,
+                    "y": 0.9792
+                },
+                {
+                    "x": 0.862,
+                    "y": 0.9792
+                }
+            ],
+            "id": 11,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

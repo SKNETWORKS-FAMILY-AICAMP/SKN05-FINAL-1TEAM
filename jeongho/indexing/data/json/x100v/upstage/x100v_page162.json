@@ -1,0 +1,378 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<h1 id='0' style='font-size:16px'>MOVIE AF MODE</h1>\n<br><h1 id='1' style='font-size:20px'>Choose how the camera selects the focus point for movie recording.</h1>\n<table id='2' style='font-size:16px'><tr><td>Option</td><td>Description</td></tr><tr><td>MULTI</td><td>Automatic focus-point selection.</td></tr><tr><td>AREA</td><td>The camera focuses on the subject in the selected focus area.</td></tr></table>\n<h1 id='3' style='font-size:18px'>AF-C CUSTOM SETTING</h1>\n<br><p id='4' data-category='paragraph' style='font-size:22px'>Select focus-tracking options when recording movies in focus<br>mode C.</p>\n<p id='5' data-category='paragraph' style='font-size:18px'>TRACKING SENSITIVITY</p>\n\n<br><table id='7' style='font-size:14px'><tr><td colspan=\"5\">Options</td></tr><tr><td>0</td><td>1</td><td>2</td><td>3</td><td>4</td></tr><br><caption id='6' style='font-size:18px'>Choose how long the camera waits to switch focus when an ob-<br>ject enters the focus area behind or in front of the current sub-<br>ject. See \"TRACKING SENSITIVITY\" ( = 123).</caption></table>\n<br><p id='8' data-category='paragraph' style='font-size:18px'>AF SPEED</p>\n\n<table id='10' style='font-size:14px'><tr><td rowspan=\"2\" colspan=\"11\">Options</td></tr><tr></tr><tr><td>-5</td><td>-4</td><td>-3</td><td>-2</td><td>-1</td><td>0</td><td>+1</td><td>+2</td><td>+3</td><td>+4</td><td>+5</td></tr><br><caption id='9' style='font-size:20px'>Adjust the autofocus response speed. Choose higher values for<br>faster response times, lower values for slower response times.</caption></table>\n<br><header id='11' style='font-size:22px'>The<br>Shooting<br>Menus</header>\n<footer id='12' style='font-size:22px'>162</footer>",
+        "markdown": "# MOVIE AF MODE\n\n# Choose how the camera selects the focus point for movie recording.\n\n| Option | Description |\n| --- | --- |\n| MULTI | Automatic focus-point selection. |\n| AREA | The camera focuses on the subject in the selected focus area. |\n\n\n# AF-C CUSTOM SETTING\n\nSelect focus-tracking options when recording movies in focus\nmode C.\n\nTRACKING SENSITIVITY\n\nChoose how long the camera waits to switch focus when an ob-\nject enters the focus area behind or in front of the current sub-\nject. See \"TRACKING SENSITIVITY\" ( = 123).\n\n| Options | Options | Options | Options | Options |\n| --- | --- | --- | --- | --- |\n| 0 | 1 | 2 | 3 | 4 |\n\n\nAF SPEED\n\nAdjust the autofocus response speed. Choose higher values for\nfaster response times, lower values for slower response times.\n\n| Options | Options | Options | Options | Options | Options | Options | Options | Options | Options | Options |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| Options | Options | Options | Options | Options | Options | Options | Options | Options | Options | Options |\n| -5 | -4 | -3 | -2 | -1 | 0 | +1 | +2 | +3 | +4 | +5 |\n\n\nThe\nShooting\nMenus\n\n162",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='0' style='font-size:16px'>MOVIE AF MODE</h1>",
+                "markdown": "# MOVIE AF MODE",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0818,
+                    "y": 0.0729
+                },
+                {
+                    "x": 0.3151,
+                    "y": 0.0729
+                },
+                {
+                    "x": 0.3151,
+                    "y": 0.0946
+                },
+                {
+                    "x": 0.0818,
+                    "y": 0.0946
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='1' style='font-size:20px'>Choose how the camera selects the focus point for movie recording.</h1>",
+                "markdown": "# Choose how the camera selects the focus point for movie recording.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0806,
+                    "y": 0.1042
+                },
+                {
+                    "x": 0.8907,
+                    "y": 0.1042
+                },
+                {
+                    "x": 0.8907,
+                    "y": 0.1295
+                },
+                {
+                    "x": 0.0806,
+                    "y": 0.1295
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='2' style='font-size:16px'><tr><td>Option</td><td>Description</td></tr><tr><td>MULTI</td><td>Automatic focus-point selection.</td></tr><tr><td>AREA</td><td>The camera focuses on the subject in the selected focus area.</td></tr></table>",
+                "markdown": "| Option | Description |\n| --- | --- |\n| MULTI | Automatic focus-point selection. |\n| AREA | The camera focuses on the subject in the selected focus area. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0823,
+                    "y": 0.1413
+                },
+                {
+                    "x": 0.8918,
+                    "y": 0.1413
+                },
+                {
+                    "x": 0.8918,
+                    "y": 0.2156
+                },
+                {
+                    "x": 0.0823,
+                    "y": 0.2156
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='3' style='font-size:18px'>AF-C CUSTOM SETTING</h1>",
+                "markdown": "# AF-C CUSTOM SETTING",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0835,
+                    "y": 0.2318
+                },
+                {
+                    "x": 0.439,
+                    "y": 0.2318
+                },
+                {
+                    "x": 0.439,
+                    "y": 0.2549
+                },
+                {
+                    "x": 0.0835,
+                    "y": 0.2549
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='4' data-category='paragraph' style='font-size:22px'>Select focus-tracking options when recording movies in focus<br>mode C.</p>",
+                "markdown": "Select focus-tracking options when recording movies in focus\nmode C.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0824,
+                    "y": 0.2637
+                },
+                {
+                    "x": 0.8927,
+                    "y": 0.2637
+                },
+                {
+                    "x": 0.8927,
+                    "y": 0.3131
+                },
+                {
+                    "x": 0.0824,
+                    "y": 0.3131
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='5' data-category='paragraph' style='font-size:18px'>TRACKING SENSITIVITY</p>",
+                "markdown": "TRACKING SENSITIVITY",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1138,
+                    "y": 0.3328
+                },
+                {
+                    "x": 0.4082,
+                    "y": 0.3328
+                },
+                {
+                    "x": 0.4082,
+                    "y": 0.3582
+                },
+                {
+                    "x": 0.1138,
+                    "y": 0.3582
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='6' data-category='paragraph' style='font-size:18px'>Choose how long the camera waits to switch focus when an ob-<br>ject enters the focus area behind or in front of the current sub-<br>ject. See \"TRACKING SENSITIVITY\" ( = 123).</p>",
+                "markdown": "Choose how long the camera waits to switch focus when an ob-\nject enters the focus area behind or in front of the current sub-\nject. See \"TRACKING SENSITIVITY\" ( = 123).",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0788,
+                    "y": 0.3655
+                },
+                {
+                    "x": 0.8935,
+                    "y": 0.3655
+                },
+                {
+                    "x": 0.8935,
+                    "y": 0.4433
+                },
+                {
+                    "x": 0.0788,
+                    "y": 0.4433
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='7' style='font-size:14px'><tr><td colspan=\"5\">Options</td></tr><tr><td>0</td><td>1</td><td>2</td><td>3</td><td>4</td></tr></table>",
+                "markdown": "| Options | Options | Options | Options | Options |\n| --- | --- | --- | --- | --- |\n| 0 | 1 | 2 | 3 | 4 |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.087,
+                    "y": 0.4555
+                },
+                {
+                    "x": 0.8912,
+                    "y": 0.4555
+                },
+                {
+                    "x": 0.8912,
+                    "y": 0.508
+                },
+                {
+                    "x": 0.087,
+                    "y": 0.508
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='8' data-category='paragraph' style='font-size:18px'>AF SPEED</p>",
+                "markdown": "AF SPEED",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1174,
+                    "y": 0.5218
+                },
+                {
+                    "x": 0.2462,
+                    "y": 0.5218
+                },
+                {
+                    "x": 0.2462,
+                    "y": 0.5456
+                },
+                {
+                    "x": 0.1174,
+                    "y": 0.5456
+                }
+            ],
+            "id": 8,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='9' data-category='paragraph' style='font-size:20px'>Adjust the autofocus response speed. Choose higher values for<br>faster response times, lower values for slower response times.</p>",
+                "markdown": "Adjust the autofocus response speed. Choose higher values for\nfaster response times, lower values for slower response times.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0805,
+                    "y": 0.5543
+                },
+                {
+                    "x": 0.8927,
+                    "y": 0.5543
+                },
+                {
+                    "x": 0.8927,
+                    "y": 0.6057
+                },
+                {
+                    "x": 0.0805,
+                    "y": 0.6057
+                }
+            ],
+            "id": 9,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='10' style='font-size:14px'><tr><td rowspan=\"2\" colspan=\"11\">Options</td></tr><tr></tr><tr><td>-5</td><td>-4</td><td>-3</td><td>-2</td><td>-1</td><td>0</td><td>+1</td><td>+2</td><td>+3</td><td>+4</td><td>+5</td></tr></table>",
+                "markdown": "| Options | Options | Options | Options | Options | Options | Options | Options | Options | Options | Options |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| Options | Options | Options | Options | Options | Options | Options | Options | Options | Options | Options |\n| -5 | -4 | -3 | -2 | -1 | 0 | +1 | +2 | +3 | +4 | +5 |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0849,
+                    "y": 0.6176
+                },
+                {
+                    "x": 0.8946,
+                    "y": 0.6176
+                },
+                {
+                    "x": 0.8946,
+                    "y": 0.6687
+                },
+                {
+                    "x": 0.0849,
+                    "y": 0.6687
+                }
+            ],
+            "id": 10,
+            "page": 1
+        },
+        {
+            "category": "header",
+            "content": {
+                "html": "<br><header id='11' style='font-size:22px'>The<br>Shooting<br>Menus</header>",
+                "markdown": "The\nShooting\nMenus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0158,
+                    "y": 0.5749
+                },
+                {
+                    "x": 0.0425,
+                    "y": 0.5749
+                },
+                {
+                    "x": 0.0425,
+                    "y": 0.7308
+                },
+                {
+                    "x": 0.0158,
+                    "y": 0.7308
+                }
+            ],
+            "id": 11,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='12' style='font-size:22px'>162</footer>",
+                "markdown": "162",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0849,
+                    "y": 0.9563
+                },
+                {
+                    "x": 0.1395,
+                    "y": 0.9563
+                },
+                {
+                    "x": 0.1395,
+                    "y": 0.9796
+                },
+                {
+                    "x": 0.0849,
+                    "y": 0.9796
+                }
+            ],
+            "id": 12,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

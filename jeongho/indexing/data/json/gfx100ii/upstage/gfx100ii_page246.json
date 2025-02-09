@@ -1,0 +1,406 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:14px'>Overview</header>\n<h1 id='1' style='font-size:20px'>Connection Setting Profiles</h1>\n<br><p id='2' data-category='paragraph' style='font-size:18px'>Connection setting profiles contain information on both network<br>settings and the type of connection used. You can connect to<br>computers and smartphones by selecting the associated profile.</p>\n<h1 id='3' style='font-size:20px'>Selecting a Connection Setting Profile</h1>\n<p id='4' data-category='paragraph' style='font-size:16px'>To select a connection setting pro-<br>file, press MENU/OK and choose SELECT<br>CONNECTION SETTING in the ④  (net-<br>work/USB setting) tab.</p>\n<br><table id='5' style='font-size:14px'><tr><td colspan=\"2\">SELECT CONNECTION SETTING 1/2</td></tr><tr><td>1:</td><td>UNJUNIVERSAL SETTING</td></tr><tr><td>2:</td><td>←CARDUSB CARD READER</td></tr><tr><td>3:</td><td>小 AUTO USB TETHER SHOOTING AUTO</td></tr><tr><td>4:</td><td>←�USB TETHER SHOOTING FIXED</td></tr><tr><td>5:</td><td>小 RAWUSB RAW CONV./BACKUP RESTORE</td></tr><tr><td>6:</td><td>よ WEBUSB WEBCAM</td></tr><tr><td>7:</td><td>NOT CREATED</td></tr><tr><td>8:</td><td>NOT CREATED</td></tr></table>\n<br><p id='6' data-category='paragraph' style='font-size:16px'>For tethered photography via wireless LAN, you will first need to create<br>and save a new connection setting profile by following the instruc-<br>tions of a wizard displayed by selecting CREATE/EDIT CONNECTION<br>SETTING.</p>\n<h1 id='7' style='font-size:22px'>Saving Connection Setting Profiles</h1>\n<br><p id='8' data-category='paragraph' style='font-size:16px'>To create a connection setting profile containing information on<br>network/USB settings and the type of connection used, select<br>CREATE/EDIT CONNECTION SETTING in the network/USB set-<br>ting menu.</p>\n<br><header id='9' style='font-size:22px'>Network/USB<br>Setting<br>Menus</header>\n<header id='10' style='font-size:14px'>8</header>\n<br><p id='11' data-category='paragraph' style='font-size:18px'>Choose CREATE/EDIT CONNECTION<br>SETTING > CREATE USING WIZARD, se-<br>lect the desired network/USB settings,<br>and save the resulting profile (□ 313).</p>\n<br><figure id='12'><img style='font-size:14px' alt=\"CREATE USING WIZARD\nSMARTPHONE APP\nUSB CARD READER\nWEBCAM\ninstax PRINTER PRINT\nTETHER SHOOTING\nCONNECT TO SMARTPHONE APP\" data-coord=\"top-left:(1700,2555); bottom-right:(2465,3134)\" /></figure>\n<footer id='13' style='font-size:20px'>246</footer>",
+        "markdown": "Overview\n\n# Connection Setting Profiles\n\nConnection setting profiles contain information on both network\nsettings and the type of connection used. You can connect to\ncomputers and smartphones by selecting the associated profile.\n\n# Selecting a Connection Setting Profile\n\nTo select a connection setting pro-\nfile, press MENU/OK and choose SELECT\nCONNECTION SETTING in the ④  (net-\nwork/USB setting) tab.\n\n| SELECT CONNECTION SETTING 1/2 | SELECT CONNECTION SETTING 1/2 |\n| --- | --- |\n| 1: | UNJUNIVERSAL SETTING |\n| 2: | ←CARDUSB CARD READER |\n| 3: | 小 AUTO USB TETHER SHOOTING AUTO |\n| 4: | ←�USB TETHER SHOOTING FIXED |\n| 5: | 小 RAWUSB RAW CONV./BACKUP RESTORE |\n| 6: | よ WEBUSB WEBCAM |\n| 7: | NOT CREATED |\n| 8: | NOT CREATED |\n\n\nFor tethered photography via wireless LAN, you will first need to create\nand save a new connection setting profile by following the instruc-\ntions of a wizard displayed by selecting CREATE/EDIT CONNECTION\nSETTING.\n\n# Saving Connection Setting Profiles\n\nTo create a connection setting profile containing information on\nnetwork/USB settings and the type of connection used, select\nCREATE/EDIT CONNECTION SETTING in the network/USB set-\nting menu.\n\nNetwork/USB\nSetting\nMenus\n\n8\n\nChoose CREATE/EDIT CONNECTION\nSETTING > CREATE USING WIZARD, se-\nlect the desired network/USB settings,\nand save the resulting profile (□ 313).\n\n![image](/image/placeholder)\nCREATE USING WIZARD\nSMARTPHONE APP\nUSB CARD READER\nWEBCAM\ninstax PRINTER PRINT\nTETHER SHOOTING\nCONNECT TO SMARTPHONE APP\n\n246",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:14px'>Overview</header>",
+                "markdown": "Overview",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.7927,
+                    "y": 0.0298
+                },
+                {
+                    "x": 0.8929,
+                    "y": 0.0298
+                },
+                {
+                    "x": 0.8929,
+                    "y": 0.0491
+                },
+                {
+                    "x": 0.7927,
+                    "y": 0.0491
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='1' style='font-size:20px'>Connection Setting Profiles</h1>",
+                "markdown": "# Connection Setting Profiles",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0826,
+                    "y": 0.0734
+                },
+                {
+                    "x": 0.4566,
+                    "y": 0.0734
+                },
+                {
+                    "x": 0.4566,
+                    "y": 0.0962
+                },
+                {
+                    "x": 0.0826,
+                    "y": 0.0962
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='2' data-category='paragraph' style='font-size:18px'>Connection setting profiles contain information on both network<br>settings and the type of connection used. You can connect to<br>computers and smartphones by selecting the associated profile.</p>",
+                "markdown": "Connection setting profiles contain information on both network\nsettings and the type of connection used. You can connect to\ncomputers and smartphones by selecting the associated profile.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0808,
+                    "y": 0.1044
+                },
+                {
+                    "x": 0.8957,
+                    "y": 0.1044
+                },
+                {
+                    "x": 0.8957,
+                    "y": 0.1815
+                },
+                {
+                    "x": 0.0808,
+                    "y": 0.1815
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='3' style='font-size:20px'>Selecting a Connection Setting Profile</h1>",
+                "markdown": "# Selecting a Connection Setting Profile",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0912,
+                    "y": 0.2014
+                },
+                {
+                    "x": 0.5648,
+                    "y": 0.2014
+                },
+                {
+                    "x": 0.5648,
+                    "y": 0.228
+                },
+                {
+                    "x": 0.0912,
+                    "y": 0.228
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='4' data-category='paragraph' style='font-size:16px'>To select a connection setting pro-<br>file, press MENU/OK and choose SELECT<br>CONNECTION SETTING in the ④  (net-<br>work/USB setting) tab.</p>",
+                "markdown": "To select a connection setting pro-\nfile, press MENU/OK and choose SELECT\nCONNECTION SETTING in the ④  (net-\nwork/USB setting) tab.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0808,
+                    "y": 0.2376
+                },
+                {
+                    "x": 0.6051,
+                    "y": 0.2376
+                },
+                {
+                    "x": 0.6051,
+                    "y": 0.3397
+                },
+                {
+                    "x": 0.0808,
+                    "y": 0.3397
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='5' style='font-size:14px'><tr><td colspan=\"2\">SELECT CONNECTION SETTING 1/2</td></tr><tr><td>1:</td><td>UNJUNIVERSAL SETTING</td></tr><tr><td>2:</td><td>←CARDUSB CARD READER</td></tr><tr><td>3:</td><td>小 AUTO USB TETHER SHOOTING AUTO</td></tr><tr><td>4:</td><td>←�USB TETHER SHOOTING FIXED</td></tr><tr><td>5:</td><td>小 RAWUSB RAW CONV./BACKUP RESTORE</td></tr><tr><td>6:</td><td>よ WEBUSB WEBCAM</td></tr><tr><td>7:</td><td>NOT CREATED</td></tr><tr><td>8:</td><td>NOT CREATED</td></tr></table>",
+                "markdown": "| SELECT CONNECTION SETTING 1/2 | SELECT CONNECTION SETTING 1/2 |\n| --- | --- |\n| 1: | UNJUNIVERSAL SETTING |\n| 2: | ←CARDUSB CARD READER |\n| 3: | 小 AUTO USB TETHER SHOOTING AUTO |\n| 4: | ←�USB TETHER SHOOTING FIXED |\n| 5: | 小 RAWUSB RAW CONV./BACKUP RESTORE |\n| 6: | よ WEBUSB WEBCAM |\n| 7: | NOT CREATED |\n| 8: | NOT CREATED |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6228,
+                    "y": 0.2392
+                },
+                {
+                    "x": 0.8895,
+                    "y": 0.2392
+                },
+                {
+                    "x": 0.8895,
+                    "y": 0.3818
+                },
+                {
+                    "x": 0.6228,
+                    "y": 0.3818
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='6' data-category='paragraph' style='font-size:16px'>For tethered photography via wireless LAN, you will first need to create<br>and save a new connection setting profile by following the instruc-<br>tions of a wizard displayed by selecting CREATE/EDIT CONNECTION<br>SETTING.</p>",
+                "markdown": "For tethered photography via wireless LAN, you will first need to create\nand save a new connection setting profile by following the instruc-\ntions of a wizard displayed by selecting CREATE/EDIT CONNECTION\nSETTING.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1011,
+                    "y": 0.391
+                },
+                {
+                    "x": 0.8882,
+                    "y": 0.391
+                },
+                {
+                    "x": 0.8882,
+                    "y": 0.4814
+                },
+                {
+                    "x": 0.1011,
+                    "y": 0.4814
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='7' style='font-size:22px'>Saving Connection Setting Profiles</h1>",
+                "markdown": "# Saving Connection Setting Profiles",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0898,
+                    "y": 0.5032
+                },
+                {
+                    "x": 0.5244,
+                    "y": 0.5032
+                },
+                {
+                    "x": 0.5244,
+                    "y": 0.5295
+                },
+                {
+                    "x": 0.0898,
+                    "y": 0.5295
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='8' data-category='paragraph' style='font-size:16px'>To create a connection setting profile containing information on<br>network/USB settings and the type of connection used, select<br>CREATE/EDIT CONNECTION SETTING in the network/USB set-<br>ting menu.</p>",
+                "markdown": "To create a connection setting profile containing information on\nnetwork/USB settings and the type of connection used, select\nCREATE/EDIT CONNECTION SETTING in the network/USB set-\nting menu.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0822,
+                    "y": 0.534
+                },
+                {
+                    "x": 0.8942,
+                    "y": 0.534
+                },
+                {
+                    "x": 0.8942,
+                    "y": 0.6362
+                },
+                {
+                    "x": 0.0822,
+                    "y": 0.6362
+                }
+            ],
+            "id": 8,
+            "page": 1
+        },
+        {
+            "category": "header",
+            "content": {
+                "html": "<br><header id='9' style='font-size:22px'>Network/USB<br>Setting<br>Menus</header>",
+                "markdown": "Network/USB\nSetting\nMenus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.017,
+                    "y": 0.4279
+                },
+                {
+                    "x": 0.0412,
+                    "y": 0.4279
+                },
+                {
+                    "x": 0.0412,
+                    "y": 0.6368
+                },
+                {
+                    "x": 0.017,
+                    "y": 0.6368
+                }
+            ],
+            "id": 9,
+            "page": 1
+        },
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='10' style='font-size:14px'>8</header>",
+                "markdown": "8",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0254,
+                    "y": 0.6567
+                },
+                {
+                    "x": 0.0444,
+                    "y": 0.6567
+                },
+                {
+                    "x": 0.0444,
+                    "y": 0.6782
+                },
+                {
+                    "x": 0.0254,
+                    "y": 0.6782
+                }
+            ],
+            "id": 10,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='11' data-category='paragraph' style='font-size:18px'>Choose CREATE/EDIT CONNECTION<br>SETTING > CREATE USING WIZARD, se-<br>lect the desired network/USB settings,<br>and save the resulting profile (□ 313).</p>",
+                "markdown": "Choose CREATE/EDIT CONNECTION\nSETTING > CREATE USING WIZARD, se-\nlect the desired network/USB settings,\nand save the resulting profile (□ 313).",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0804,
+                    "y": 0.6584
+                },
+                {
+                    "x": 0.6039,
+                    "y": 0.6584
+                },
+                {
+                    "x": 0.6039,
+                    "y": 0.7594
+                },
+                {
+                    "x": 0.0804,
+                    "y": 0.7594
+                }
+            ],
+            "id": 11,
+            "page": 1
+        },
+        {
+            "category": "figure",
+            "content": {
+                "html": "<br><figure id='12'><img style='font-size:14px' alt=\"CREATE USING WIZARD\nSMARTPHONE APP\nUSB CARD READER\nWEBCAM\ninstax PRINTER PRINT\nTETHER SHOOTING\nCONNECT TO SMARTPHONE APP\" data-coord=\"top-left:(1700,2555); bottom-right:(2465,3134)\" /></figure>",
+                "markdown": "![image](/image/placeholder)\nCREATE USING WIZARD\nSMARTPHONE APP\nUSB CARD READER\nWEBCAM\ninstax PRINTER PRINT\nTETHER SHOOTING\nCONNECT TO SMARTPHONE APP",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6152,
+                    "y": 0.6556
+                },
+                {
+                    "x": 0.8922,
+                    "y": 0.6556
+                },
+                {
+                    "x": 0.8922,
+                    "y": 0.8042
+                },
+                {
+                    "x": 0.6152,
+                    "y": 0.8042
+                }
+            ],
+            "id": 12,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='13' style='font-size:20px'>246</footer>",
+                "markdown": "246",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0829,
+                    "y": 0.9571
+                },
+                {
+                    "x": 0.1401,
+                    "y": 0.9571
+                },
+                {
+                    "x": 0.1401,
+                    "y": 0.9792
+                },
+                {
+                    "x": 0.0829,
+                    "y": 0.9792
+                }
+            ],
+            "id": 13,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

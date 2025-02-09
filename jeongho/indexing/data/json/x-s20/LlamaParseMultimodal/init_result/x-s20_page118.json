@@ -1,0 +1,77 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "# Focus Mode\n\nChoose how the camera focuses.\n\n1. Press **MENU/OK** to display the menus.\n2. Select **AF/MF SETTING > FOCUS MODE** in the shooting menu.\n3. Choose from the following options:\n\n| Mode            | Description                                                                                                                                  |\n|-----------------|----------------------------------------------------------------------------------------------------------------------------------------------|\n| **MF** MANUAL FOCUS | Focus manually using the lens focus ring. Choose for manual control of focus or in situations in which the camera is unable to focus using autofocus. |\n| **AF-C** CONTINUOUS AF | Focus is continually adjusted to reflect changes in the distance to the subject while the shutter button is pressed halfway. Use for subjects that are in motion. |\n| **AF-S** SINGLE AF | Focus locks while the shutter button is pressed halfway. Choose for stationary subjects.                                                                 |\n\n> 💡 **Note:**\n> - Regardless of the option selected, manual focus will be used when the lens is in manual focus mode.\n> - If **ON** is selected for **AF/MF SETTING > PRE-AF**, focus will be adjusted continuously in modes **AF-S** and **AF-C** even when the shutter button is not pressed.",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "Focus Mode",
+                    "md": "# Focus Mode"
+                },
+                {
+                    "type": "text",
+                    "value": "Choose how the camera focuses.\n\n1. Press **MENU/OK** to display the menus.\n2. Select **AF/MF SETTING > FOCUS MODE** in the shooting menu.\n3. Choose from the following options:",
+                    "md": "Choose how the camera focuses.\n\n1. Press **MENU/OK** to display the menus.\n2. Select **AF/MF SETTING > FOCUS MODE** in the shooting menu.\n3. Choose from the following options:"
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Mode",
+                            "Description"
+                        ],
+                        [
+                            "**MF** MANUAL FOCUS",
+                            "Focus manually using the lens focus ring. Choose for manual control of focus or in situations in which the camera is unable to focus using autofocus."
+                        ],
+                        [
+                            "**AF-C** CONTINUOUS AF",
+                            "Focus is continually adjusted to reflect changes in the distance to the subject while the shutter button is pressed halfway. Use for subjects that are in motion."
+                        ],
+                        [
+                            "**AF-S** SINGLE AF",
+                            "Focus locks while the shutter button is pressed halfway. Choose for stationary subjects."
+                        ]
+                    ],
+                    "md": "| Mode            | Description                                                                                                                                  |\n|-----------------|----------------------------------------------------------------------------------------------------------------------------------------------|\n| **MF** MANUAL FOCUS | Focus manually using the lens focus ring. Choose for manual control of focus or in situations in which the camera is unable to focus using autofocus. |\n| **AF-C** CONTINUOUS AF | Focus is continually adjusted to reflect changes in the distance to the subject while the shutter button is pressed halfway. Use for subjects that are in motion. |\n| **AF-S** SINGLE AF | Focus locks while the shutter button is pressed halfway. Choose for stationary subjects.                                                                 |",
+                    "isPerfectTable": true,
+                    "csv": "\"Mode\",\"Description\"\n\"**MF** MANUAL FOCUS\",\"Focus manually using the lens focus ring. Choose for manual control of focus or in situations in which the camera is unable to focus using autofocus.\"\n\"**AF-C** CONTINUOUS AF\",\"Focus is continually adjusted to reflect changes in the distance to the subject while the shutter button is pressed halfway. Use for subjects that are in motion.\"\n\"**AF-S** SINGLE AF\",\"Focus locks while the shutter button is pressed halfway. Choose for stationary subjects.\""
+                },
+                {
+                    "type": "text",
+                    "value": "> 💡 **Note:**\n> - Regardless of the option selected, manual focus will be used when the lens is in manual focus mode.\n> - If **ON** is selected for **AF/MF SETTING > PRE-AF**, focus will be adjusted continuously in modes **AF-S** and **AF-C** even when the shutter button is not pressed.",
+                    "md": "> 💡 **Note:**\n> - Regardless of the option selected, manual focus will be used when the lens is in manual focus mode.\n> - If **ON** is selected for **AF/MF SETTING > PRE-AF**, focus will be adjusted continuously in modes **AF-S** and **AF-C** even when the shutter button is not pressed."
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 9.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "eab276f1-9e08-4aad-8eb6-9a52fbd49b57",
+    "file_path": "../data/raw_data/x-s20/x-s20_split/x-s20_page118.pdf"
+}

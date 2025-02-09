@@ -1,0 +1,238 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:14px'>CONNECTION SETTING</header>\n<h1 id='1' style='font-size:18px'>USB POWER SUPPLY SETTING</h1>\n\n<table id='3' style='font-size:14px'><tr><td>Option</td><td>Description</td></tr><tr><td>ON</td><td>The camera draws power from the connected device, reducing the drain on the camera battery.</td></tr><tr><td>OFF</td><td>The camera does not draw power from the connected device.</td></tr><br><caption id='2' style='font-size:16px'>Choose whether power is supplied to the camera when it is con-<br>nected to a computer or other device via a USB cable.</caption></table>\n<p id='4' data-category='paragraph' style='font-size:14px'>The camera cannot draw power from Lightning connections or from<br>devices that do not supply power. Select OFF before connecting the<br>camera to such devices. The connection may not be available for data<br>transfer or the like when ON is selected.</p>\n<br><p id='5' data-category='paragraph' style='font-size:18px'>Regardless of the option selected, the battery will charge while the<br>camera is off.</p>\n<footer id='6' style='font-size:22px'>The<br>Setup<br>Menus</footer>\n<footer id='7' style='font-size:20px'>241</footer>",
+        "markdown": "CONNECTION SETTING\n\n# USB POWER SUPPLY SETTING\n\nChoose whether power is supplied to the camera when it is con-\nnected to a computer or other device via a USB cable.\n\n| Option | Description |\n| --- | --- |\n| ON | The camera draws power from the connected device, reducing the drain on the camera battery. |\n| OFF | The camera does not draw power from the connected device. |\n\n\nThe camera cannot draw power from Lightning connections or from\ndevices that do not supply power. Select OFF before connecting the\ncamera to such devices. The connection may not be available for data\ntransfer or the like when ON is selected.\n\nRegardless of the option selected, the battery will charge while the\ncamera is off.\n\nThe\nSetup\nMenus\n\n241",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:14px'>CONNECTION SETTING</header>",
+                "markdown": "CONNECTION SETTING",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6897,
+                    "y": 0.0288
+                },
+                {
+                    "x": 0.9176,
+                    "y": 0.0288
+                },
+                {
+                    "x": 0.9176,
+                    "y": 0.049
+                },
+                {
+                    "x": 0.6897,
+                    "y": 0.049
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='1' style='font-size:18px'>USB POWER SUPPLY SETTING</h1>",
+                "markdown": "# USB POWER SUPPLY SETTING",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1073,
+                    "y": 0.0728
+                },
+                {
+                    "x": 0.509,
+                    "y": 0.0728
+                },
+                {
+                    "x": 0.509,
+                    "y": 0.0948
+                },
+                {
+                    "x": 0.1073,
+                    "y": 0.0948
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='2' data-category='paragraph' style='font-size:16px'>Choose whether power is supplied to the camera when it is con-<br>nected to a computer or other device via a USB cable.</p>",
+                "markdown": "Choose whether power is supplied to the camera when it is con-\nnected to a computer or other device via a USB cable.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1054,
+                    "y": 0.1042
+                },
+                {
+                    "x": 0.9168,
+                    "y": 0.1042
+                },
+                {
+                    "x": 0.9168,
+                    "y": 0.1547
+                },
+                {
+                    "x": 0.1054,
+                    "y": 0.1547
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='3' style='font-size:14px'><tr><td>Option</td><td>Description</td></tr><tr><td>ON</td><td>The camera draws power from the connected device, reducing the drain on the camera battery.</td></tr><tr><td>OFF</td><td>The camera does not draw power from the connected device.</td></tr></table>",
+                "markdown": "| Option | Description |\n| --- | --- |\n| ON | The camera draws power from the connected device, reducing the drain on the camera battery. |\n| OFF | The camera does not draw power from the connected device. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1095,
+                    "y": 0.1668
+                },
+                {
+                    "x": 0.9203,
+                    "y": 0.1668
+                },
+                {
+                    "x": 0.9203,
+                    "y": 0.2647
+                },
+                {
+                    "x": 0.1095,
+                    "y": 0.2647
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='4' data-category='paragraph' style='font-size:14px'>The camera cannot draw power from Lightning connections or from<br>devices that do not supply power. Select OFF before connecting the<br>camera to such devices. The connection may not be available for data<br>transfer or the like when ON is selected.</p>",
+                "markdown": "The camera cannot draw power from Lightning connections or from\ndevices that do not supply power. Select OFF before connecting the\ncamera to such devices. The connection may not be available for data\ntransfer or the like when ON is selected.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1132,
+                    "y": 0.2814
+                },
+                {
+                    "x": 0.9167,
+                    "y": 0.2814
+                },
+                {
+                    "x": 0.9167,
+                    "y": 0.3729
+                },
+                {
+                    "x": 0.1132,
+                    "y": 0.3729
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='5' data-category='paragraph' style='font-size:18px'>Regardless of the option selected, the battery will charge while the<br>camera is off.</p>",
+                "markdown": "Regardless of the option selected, the battery will charge while the\ncamera is off.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1261,
+                    "y": 0.3821
+                },
+                {
+                    "x": 0.9153,
+                    "y": 0.3821
+                },
+                {
+                    "x": 0.9153,
+                    "y": 0.4257
+                },
+                {
+                    "x": 0.1261,
+                    "y": 0.4257
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='6' style='font-size:22px'>The<br>Setup<br>Menus</footer>",
+                "markdown": "The\nSetup\nMenus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9558,
+                    "y": 0.5045
+                },
+                {
+                    "x": 0.9872,
+                    "y": 0.5045
+                },
+                {
+                    "x": 0.9872,
+                    "y": 0.6774
+                },
+                {
+                    "x": 0.9558,
+                    "y": 0.6774
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='7' style='font-size:20px'>241</footer>",
+                "markdown": "241",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.8605,
+                    "y": 0.9567
+                },
+                {
+                    "x": 0.9151,
+                    "y": 0.9567
+                },
+                {
+                    "x": 0.9151,
+                    "y": 0.9792
+                },
+                {
+                    "x": 0.8605,
+                    "y": 0.9792
+                }
+            ],
+            "id": 7,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

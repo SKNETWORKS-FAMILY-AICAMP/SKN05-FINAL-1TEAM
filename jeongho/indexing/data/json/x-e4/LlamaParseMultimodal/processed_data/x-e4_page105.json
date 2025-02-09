@@ -1,0 +1,13 @@
+{
+    "parsing_result": "# IMAGE QUALITY SETTING (Still Photography)\n\n## IMAGE QUALITY\n\nChoose a file format and compression ratio.\n\n| Option       | Description                                                                 |\n|--------------|-----------------------------------------------------------------------------|\n| FINE         | Low compression ratios are used for higher-quality images.                  |\n| NORMAL       | Higher compression ratios are used to increase the number of images that can be stored. |\n| FINE + RAW   | Record both RAW and fine-quality JPEG images.                               |\n| NORMAL + RAW | Record both RAW and normal-quality JPEG images.                             |\n| RAW          | Record RAW images only.                                                     |\n\n## The Function Buttons\n\nTo toggle RAW image quality on or off for a single shot, assign RAW to a function button. Press the button once to select the option in the right column, again to return to the original setting (left column).\n\n| Option currently selected for IMAGE QUALITY | Option selected by pressing function button to which RAW is assigned |\n|---------------------------------------------|---------------------------------------------------------------------|\n| FINE                                        | FINE + RAW                                                          |\n| NORMAL                                      | NORMAL + RAW                                                        |\n| FINE + RAW                                  | FINE                                                                |\n| NORMAL + RAW                                | NORMAL                                                              |\n| RAW                                         | FINE                                                                |",
+    "embedding_result": [],
+    "metadata": {
+        "page": 105,
+        "model": "x-e4",
+        "subsection": [
+            "IMAGE QUALITY"
+        ],
+        "chapter": "The Shooting Menus",
+        "section": "IMAGE QUALITY SETTING (Still Photography)"
+    }
+}

@@ -1,0 +1,91 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "\n- Install the latest version of the FUJIFILM Camera Remote app on your smartphone or tablet before pairing the device with your camera or uploading images.\n- When **ON** is selected for both **Bluetooth ON/OFF** and **AUTO IMAGE TRANSFER** or images are currently selected for upload using the **IMAGE TRANSFER ORDER** option in the !Playback Icon (playback) menu, upload to paired devices will begin shortly after you exit to playback or turn the camera off. **IMAGE TRANSFER ORDER** can also be used to select pictures for upload when **AUTO IMAGE TRANSFER** is off.\n\n# PC AUTO SAVE\nAdjust settings for connection to computers via wireless LAN.\n\n| Option                             | Description                                                                 |\n|------------------------------------|-----------------------------------------------------------------------------|\n| **PC AUTO SAVE SETTING**           | Choose the method used for connection to computers via a wireless LAN.      |\n|                                    | • **SIMPLE SETUP**: Connect using WPS.                                      |\n|                                    | • **MANUAL SETUP**: Choose the network from a list (**SELECT FROM NETWORK LIST**) or enter the name manually (**ENTER SSID**). |\n| **DELETE REGISTERED DESTINATION PC** | Remove selected destinations.                                               |\n| **DETAILS OF PREVIOUS CONNECTION** | View computers to which the camera has recently connected.                  |\n\n> !Note Icon These settings also apply when pictures are downloaded to a computer using “FUJIFILM PC AutoSave” software.\n",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "text",
+                    "value": "- Install the latest version of the FUJIFILM Camera Remote app on your smartphone or tablet before pairing the device with your camera or uploading images.\n- When **ON** is selected for both **Bluetooth ON/OFF** and **AUTO IMAGE TRANSFER** or images are currently selected for upload using the **IMAGE TRANSFER ORDER** option in the !Playback Icon (playback) menu, upload to paired devices will begin shortly after you exit to playback or turn the camera off. **IMAGE TRANSFER ORDER** can also be used to select pictures for upload when **AUTO IMAGE TRANSFER** is off.",
+                    "md": "- Install the latest version of the FUJIFILM Camera Remote app on your smartphone or tablet before pairing the device with your camera or uploading images.\n- When **ON** is selected for both **Bluetooth ON/OFF** and **AUTO IMAGE TRANSFER** or images are currently selected for upload using the **IMAGE TRANSFER ORDER** option in the !Playback Icon (playback) menu, upload to paired devices will begin shortly after you exit to playback or turn the camera off. **IMAGE TRANSFER ORDER** can also be used to select pictures for upload when **AUTO IMAGE TRANSFER** is off."
+                },
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "PC AUTO SAVE",
+                    "md": "# PC AUTO SAVE"
+                },
+                {
+                    "type": "text",
+                    "value": "Adjust settings for connection to computers via wireless LAN.",
+                    "md": "Adjust settings for connection to computers via wireless LAN."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Option",
+                            "Description"
+                        ],
+                        [
+                            "**PC AUTO SAVE SETTING**",
+                            "Choose the method used for connection to computers via a wireless LAN."
+                        ],
+                        [
+                            "",
+                            "• **SIMPLE SETUP**: Connect using WPS."
+                        ],
+                        [
+                            "",
+                            "• **MANUAL SETUP**: Choose the network from a list (**SELECT FROM NETWORK LIST**) or enter the name manually (**ENTER SSID**)."
+                        ],
+                        [
+                            "**DELETE REGISTERED DESTINATION PC**",
+                            "Remove selected destinations."
+                        ],
+                        [
+                            "**DETAILS OF PREVIOUS CONNECTION**",
+                            "View computers to which the camera has recently connected."
+                        ]
+                    ],
+                    "md": "| Option                             | Description                                                                 |\n|------------------------------------|-----------------------------------------------------------------------------|\n| **PC AUTO SAVE SETTING**           | Choose the method used for connection to computers via a wireless LAN.      |\n|                                    | • **SIMPLE SETUP**: Connect using WPS.                                      |\n|                                    | • **MANUAL SETUP**: Choose the network from a list (**SELECT FROM NETWORK LIST**) or enter the name manually (**ENTER SSID**). |\n| **DELETE REGISTERED DESTINATION PC** | Remove selected destinations.                                               |\n| **DETAILS OF PREVIOUS CONNECTION** | View computers to which the camera has recently connected.                  |",
+                    "isPerfectTable": true,
+                    "csv": "\"Option\",\"Description\"\n\"**PC AUTO SAVE SETTING**\",\"Choose the method used for connection to computers via a wireless LAN.\"\n\"\",\"• **SIMPLE SETUP**: Connect using WPS.\"\n\"\",\"• **MANUAL SETUP**: Choose the network from a list (**SELECT FROM NETWORK LIST**) or enter the name manually (**ENTER SSID**).\"\n\"**DELETE REGISTERED DESTINATION PC**\",\"Remove selected destinations.\"\n\"**DETAILS OF PREVIOUS CONNECTION**\",\"View computers to which the camera has recently connected.\""
+                },
+                {
+                    "type": "text",
+                    "value": "> !Note Icon These settings also apply when pictures are downloaded to a computer using “FUJIFILM PC AutoSave” software.",
+                    "md": "> !Note Icon These settings also apply when pictures are downloaded to a computer using “FUJIFILM PC AutoSave” software."
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "parsingMode": "multimodal-openai-gpt4o",
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 95.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "f7e42f3b-25c5-4f0e-a42e-d40f44731fc6",
+    "file_path": "../data/raw_data/x-e4/x-e4_split/x-e4_page262.pdf"
+}

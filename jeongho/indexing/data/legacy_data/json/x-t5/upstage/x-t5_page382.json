@@ -1,0 +1,126 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<table id='0' style='font-size:14px'><tr><td>Problem</td><td>Solution</td></tr><tr><td>The flash does not fire.</td><td>The flash is disabled: Adjust settings (□□ 180). The electronicshutter is enabled: Choose a SHUTTER TYPE that does not use the electronic shutter ( == 170). The battery is exhausted: Charge the battery or insert a ful- ly-charged spare battery (� 42). The camera is in bracketing or continuous mode: Select single frame mode (□ 6).</td></tr><tr><td>The flash does not fully light the subject.</td><td>The subject is not in range of the flash: Position the subject in range of the flash. ● The flash window is obstructed: Hold the camera correctly. Shutter speed is faster than the sync speed: Choose a slower shutter speed (  74, 80, 398).</td></tr></table>\n<header id='1' style='font-size:20px'>Technical<br>Notes</header>\n<br><footer id='2' style='font-size:16px'>12</footer>\n<footer id='3' style='font-size:18px'>382</footer>",
+        "markdown": "| Problem | Solution |\n| --- | --- |\n| The flash does not fire. | The flash is disabled: Adjust settings (□□ 180). The electronicshutter is enabled: Choose a SHUTTER TYPE that does not use the electronic shutter ( == 170). The battery is exhausted: Charge the battery or insert a ful- ly-charged spare battery (� 42). The camera is in bracketing or continuous mode: Select single frame mode (□ 6). |\n| The flash does not fully light the subject. | The subject is not in range of the flash: Position the subject in range of the flash. ● The flash window is obstructed: Hold the camera correctly. Shutter speed is faster than the sync speed: Choose a slower shutter speed (  74, 80, 398). |\n\n\nTechnical\nNotes\n\n12\n\n382",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='0' style='font-size:14px'><tr><td>Problem</td><td>Solution</td></tr><tr><td>The flash does not fire.</td><td>The flash is disabled: Adjust settings (□□ 180). The electronicshutter is enabled: Choose a SHUTTER TYPE that does not use the electronic shutter ( == 170). The battery is exhausted: Charge the battery or insert a ful- ly-charged spare battery (� 42). The camera is in bracketing or continuous mode: Select single frame mode (□ 6).</td></tr><tr><td>The flash does not fully light the subject.</td><td>The subject is not in range of the flash: Position the subject in range of the flash. ● The flash window is obstructed: Hold the camera correctly. Shutter speed is faster than the sync speed: Choose a slower shutter speed (  74, 80, 398).</td></tr></table>",
+                "markdown": "| Problem | Solution |\n| --- | --- |\n| The flash does not fire. | The flash is disabled: Adjust settings (□□ 180). The electronicshutter is enabled: Choose a SHUTTER TYPE that does not use the electronic shutter ( == 170). The battery is exhausted: Charge the battery or insert a ful- ly-charged spare battery (� 42). The camera is in bracketing or continuous mode: Select single frame mode (□ 6). |\n| The flash does not fully light the subject. | The subject is not in range of the flash: Position the subject in range of the flash. ● The flash window is obstructed: Hold the camera correctly. Shutter speed is faster than the sync speed: Choose a slower shutter speed (  74, 80, 398). |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.082,
+                    "y": 0.0721
+                },
+                {
+                    "x": 0.898,
+                    "y": 0.0721
+                },
+                {
+                    "x": 0.898,
+                    "y": 0.3778
+                },
+                {
+                    "x": 0.082,
+                    "y": 0.3778
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='1' style='font-size:20px'>Technical<br>Notes</header>",
+                "markdown": "Technical\nNotes",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0198,
+                    "y": 0.7619
+                },
+                {
+                    "x": 0.0403,
+                    "y": 0.7619
+                },
+                {
+                    "x": 0.0403,
+                    "y": 0.8818
+                },
+                {
+                    "x": 0.0198,
+                    "y": 0.8818
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<br><footer id='2' style='font-size:16px'>12</footer>",
+                "markdown": "12",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0193,
+                    "y": 0.8973
+                },
+                {
+                    "x": 0.044,
+                    "y": 0.8973
+                },
+                {
+                    "x": 0.044,
+                    "y": 0.917
+                },
+                {
+                    "x": 0.0193,
+                    "y": 0.917
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='3' style='font-size:18px'>382</footer>",
+                "markdown": "382",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0842,
+                    "y": 0.9569
+                },
+                {
+                    "x": 0.1387,
+                    "y": 0.9569
+                },
+                {
+                    "x": 0.1387,
+                    "y": 0.9793
+                },
+                {
+                    "x": 0.0842,
+                    "y": 0.9793
+                }
+            ],
+            "id": 3,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

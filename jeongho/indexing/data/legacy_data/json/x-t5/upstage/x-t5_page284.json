@@ -1,0 +1,182 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<h1 id='0' style='font-size:16px'>LCD BRIGHTNESS</h1>\n<br><h1 id='1' style='font-size:20px'>Adjust monitor brightness.</h1>\n<br><table id='2' style='font-size:16px'><tr><td colspan=\"11\">Options</td></tr><tr><td>-5</td><td>-4</td><td>-3</td><td>-2</td><td>-1</td><td>0</td><td>+1</td><td>+2</td><td>+3</td><td>+4</td><td>+5</td></tr><tr><td colspan=\"11\">LCD COLOR</td></tr><tr><td colspan=\"11\">Adjust monitor saturation.</td></tr><tr><td colspan=\"11\">Options</td></tr><tr><td colspan=\"2\">-5</td><td>-4</td><td>-3 -2</td><td>-1</td><td>0</td><td>+1</td><td>+2</td><td>+3</td><td>+4</td><td>+5</td></tr><tr><td colspan=\"11\">LCD COLOR ADJUSTMENT</td></tr><tr><td colspan=\"11\">Adjust the color of the display in the LCD monitor.</td></tr><tr><td colspan=\"11\">1 Adjust colors using the selector.</td></tr><tr><td colspan=\"11\">2 Press MENU/OK.</td></tr></table>\n<footer id='3' style='font-size:18px'>284</footer>\n<br><p id='4' data-category='paragraph' style='font-size:14px'>9</p>\n<br><header id='5' style='font-size:22px'>The<br>Setup<br>Menus</header>",
+        "markdown": "# LCD BRIGHTNESS\n\n# Adjust monitor brightness.\n\n| Options | Options | Options | Options | Options | Options | Options | Options | Options | Options | Options |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| -5 | -4 | -3 | -2 | -1 | 0 | +1 | +2 | +3 | +4 | +5 |\n| LCD COLOR | LCD COLOR | LCD COLOR | LCD COLOR | LCD COLOR | LCD COLOR | LCD COLOR | LCD COLOR | LCD COLOR | LCD COLOR | LCD COLOR |\n| Adjust monitor saturation. | Adjust monitor saturation. | Adjust monitor saturation. | Adjust monitor saturation. | Adjust monitor saturation. | Adjust monitor saturation. | Adjust monitor saturation. | Adjust monitor saturation. | Adjust monitor saturation. | Adjust monitor saturation. | Adjust monitor saturation. |\n| Options | Options | Options | Options | Options | Options | Options | Options | Options | Options | Options |\n| -5 | -5 | -4 | -3 -2 | -1 | 0 | +1 | +2 | +3 | +4 | +5 |\n| LCD COLOR ADJUSTMENT | LCD COLOR ADJUSTMENT | LCD COLOR ADJUSTMENT | LCD COLOR ADJUSTMENT | LCD COLOR ADJUSTMENT | LCD COLOR ADJUSTMENT | LCD COLOR ADJUSTMENT | LCD COLOR ADJUSTMENT | LCD COLOR ADJUSTMENT | LCD COLOR ADJUSTMENT | LCD COLOR ADJUSTMENT |\n| Adjust the color of the display in the LCD monitor. | Adjust the color of the display in the LCD monitor. | Adjust the color of the display in the LCD monitor. | Adjust the color of the display in the LCD monitor. | Adjust the color of the display in the LCD monitor. | Adjust the color of the display in the LCD monitor. | Adjust the color of the display in the LCD monitor. | Adjust the color of the display in the LCD monitor. | Adjust the color of the display in the LCD monitor. | Adjust the color of the display in the LCD monitor. | Adjust the color of the display in the LCD monitor. |\n| 1 Adjust colors using the selector. | 1 Adjust colors using the selector. | 1 Adjust colors using the selector. | 1 Adjust colors using the selector. | 1 Adjust colors using the selector. | 1 Adjust colors using the selector. | 1 Adjust colors using the selector. | 1 Adjust colors using the selector. | 1 Adjust colors using the selector. | 1 Adjust colors using the selector. | 1 Adjust colors using the selector. |\n| 2 Press MENU/OK. | 2 Press MENU/OK. | 2 Press MENU/OK. | 2 Press MENU/OK. | 2 Press MENU/OK. | 2 Press MENU/OK. | 2 Press MENU/OK. | 2 Press MENU/OK. | 2 Press MENU/OK. | 2 Press MENU/OK. | 2 Press MENU/OK. |\n\n\n284\n\n9\n\nThe\nSetup\nMenus",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='0' style='font-size:16px'>LCD BRIGHTNESS</h1>",
+                "markdown": "# LCD BRIGHTNESS",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0829,
+                    "y": 0.0726
+                },
+                {
+                    "x": 0.3215,
+                    "y": 0.0726
+                },
+                {
+                    "x": 0.3215,
+                    "y": 0.0947
+                },
+                {
+                    "x": 0.0829,
+                    "y": 0.0947
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='1' style='font-size:20px'>Adjust monitor brightness.</h1>",
+                "markdown": "# Adjust monitor brightness.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0818,
+                    "y": 0.1039
+                },
+                {
+                    "x": 0.4232,
+                    "y": 0.1039
+                },
+                {
+                    "x": 0.4232,
+                    "y": 0.1292
+                },
+                {
+                    "x": 0.0818,
+                    "y": 0.1292
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='2' style='font-size:16px'><tr><td colspan=\"11\">Options</td></tr><tr><td>-5</td><td>-4</td><td>-3</td><td>-2</td><td>-1</td><td>0</td><td>+1</td><td>+2</td><td>+3</td><td>+4</td><td>+5</td></tr><tr><td colspan=\"11\">LCD COLOR</td></tr><tr><td colspan=\"11\">Adjust monitor saturation.</td></tr><tr><td colspan=\"11\">Options</td></tr><tr><td colspan=\"2\">-5</td><td>-4</td><td>-3 -2</td><td>-1</td><td>0</td><td>+1</td><td>+2</td><td>+3</td><td>+4</td><td>+5</td></tr><tr><td colspan=\"11\">LCD COLOR ADJUSTMENT</td></tr><tr><td colspan=\"11\">Adjust the color of the display in the LCD monitor.</td></tr><tr><td colspan=\"11\">1 Adjust colors using the selector.</td></tr><tr><td colspan=\"11\">2 Press MENU/OK.</td></tr></table>",
+                "markdown": "| Options | Options | Options | Options | Options | Options | Options | Options | Options | Options | Options |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| -5 | -4 | -3 | -2 | -1 | 0 | +1 | +2 | +3 | +4 | +5 |\n| LCD COLOR | LCD COLOR | LCD COLOR | LCD COLOR | LCD COLOR | LCD COLOR | LCD COLOR | LCD COLOR | LCD COLOR | LCD COLOR | LCD COLOR |\n| Adjust monitor saturation. | Adjust monitor saturation. | Adjust monitor saturation. | Adjust monitor saturation. | Adjust monitor saturation. | Adjust monitor saturation. | Adjust monitor saturation. | Adjust monitor saturation. | Adjust monitor saturation. | Adjust monitor saturation. | Adjust monitor saturation. |\n| Options | Options | Options | Options | Options | Options | Options | Options | Options | Options | Options |\n| -5 | -5 | -4 | -3 -2 | -1 | 0 | +1 | +2 | +3 | +4 | +5 |\n| LCD COLOR ADJUSTMENT | LCD COLOR ADJUSTMENT | LCD COLOR ADJUSTMENT | LCD COLOR ADJUSTMENT | LCD COLOR ADJUSTMENT | LCD COLOR ADJUSTMENT | LCD COLOR ADJUSTMENT | LCD COLOR ADJUSTMENT | LCD COLOR ADJUSTMENT | LCD COLOR ADJUSTMENT | LCD COLOR ADJUSTMENT |\n| Adjust the color of the display in the LCD monitor. | Adjust the color of the display in the LCD monitor. | Adjust the color of the display in the LCD monitor. | Adjust the color of the display in the LCD monitor. | Adjust the color of the display in the LCD monitor. | Adjust the color of the display in the LCD monitor. | Adjust the color of the display in the LCD monitor. | Adjust the color of the display in the LCD monitor. | Adjust the color of the display in the LCD monitor. | Adjust the color of the display in the LCD monitor. | Adjust the color of the display in the LCD monitor. |\n| 1 Adjust colors using the selector. | 1 Adjust colors using the selector. | 1 Adjust colors using the selector. | 1 Adjust colors using the selector. | 1 Adjust colors using the selector. | 1 Adjust colors using the selector. | 1 Adjust colors using the selector. | 1 Adjust colors using the selector. | 1 Adjust colors using the selector. | 1 Adjust colors using the selector. | 1 Adjust colors using the selector. |\n| 2 Press MENU/OK. | 2 Press MENU/OK. | 2 Press MENU/OK. | 2 Press MENU/OK. | 2 Press MENU/OK. | 2 Press MENU/OK. | 2 Press MENU/OK. | 2 Press MENU/OK. | 2 Press MENU/OK. | 2 Press MENU/OK. | 2 Press MENU/OK. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0796,
+                    "y": 0.136
+                },
+                {
+                    "x": 0.8903,
+                    "y": 0.136
+                },
+                {
+                    "x": 0.8903,
+                    "y": 0.4825
+                },
+                {
+                    "x": 0.0796,
+                    "y": 0.4825
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='3' style='font-size:18px'>284</footer>",
+                "markdown": "284",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0823,
+                    "y": 0.9559
+                },
+                {
+                    "x": 0.1408,
+                    "y": 0.9559
+                },
+                {
+                    "x": 0.1408,
+                    "y": 0.9798
+                },
+                {
+                    "x": 0.0823,
+                    "y": 0.9798
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='4' data-category='paragraph' style='font-size:14px'>9</p>",
+                "markdown": "9",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0278,
+                    "y": 0.7187
+                },
+                {
+                    "x": 0.0417,
+                    "y": 0.7187
+                },
+                {
+                    "x": 0.0417,
+                    "y": 0.7348
+                },
+                {
+                    "x": 0.0278,
+                    "y": 0.7348
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "header",
+            "content": {
+                "html": "<br><header id='5' style='font-size:22px'>The<br>Setup<br>Menus</header>",
+                "markdown": "The\nSetup\nMenus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0191,
+                    "y": 0.5707
+                },
+                {
+                    "x": 0.0406,
+                    "y": 0.5707
+                },
+                {
+                    "x": 0.0406,
+                    "y": 0.6988
+                },
+                {
+                    "x": 0.0191,
+                    "y": 0.6988
+                }
+            ],
+            "id": 5,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

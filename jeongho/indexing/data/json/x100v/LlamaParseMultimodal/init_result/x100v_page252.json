@@ -1,0 +1,110 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "# POWER MANAGEMENT\n\n## EVF PERFORMANCE\n\nChoose whether the EVF prioritizes **BRIGHTNESS PRIORITY** or **SMOOTHNESS PRIORITY**.\n\n| Option              | Description                                                                 |\n|---------------------|-----------------------------------------------------------------------------|\n| BRIGHTNESS PRIORITY | The EVF display prioritizes brightness. Recommended in most situations.     |\n| SMOOTHNESS PRIORITY | Minimize ghosting in the EVF display. Choose when photographing moving subjects. The brightness of the EVF may drop. |\n\n> 💡 **Note:**  \n> SMOOTHNESS PRIORITY is only available when BOOST is selected for PERFORMANCE.\n\n## AUTO POWER OFF TEMP.\n\nIf its temperature rises beyond a certain point, the camera will first display a message and then, if the temperature rise continues, automatically end shooting and power down. Choose the temperature at which the camera turns off automatically.\n\n| Option   | Description                                                                                                                                                                                                 |\n|----------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| STANDARD | The camera turns off automatically when its temperature reaches the STANDARD value.                                                                                                                         |\n| HIGH     | Shooting can continue at temperatures higher than the STANDARD value, extending the time available to record movies and the like. Because remaining in contact with the camera at these high temperatures could result in low-temperature burns, this option should only be used after mounting the camera on a tripod or taking other steps to avoid prolonged contact with the camera. |",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "POWER MANAGEMENT",
+                    "md": "# POWER MANAGEMENT"
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "EVF PERFORMANCE",
+                    "md": "## EVF PERFORMANCE"
+                },
+                {
+                    "type": "text",
+                    "value": "Choose whether the EVF prioritizes **BRIGHTNESS PRIORITY** or **SMOOTHNESS PRIORITY**.",
+                    "md": "Choose whether the EVF prioritizes **BRIGHTNESS PRIORITY** or **SMOOTHNESS PRIORITY**."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Option",
+                            "Description"
+                        ],
+                        [
+                            "BRIGHTNESS PRIORITY",
+                            "The EVF display prioritizes brightness. Recommended in most situations."
+                        ],
+                        [
+                            "SMOOTHNESS PRIORITY",
+                            "Minimize ghosting in the EVF display. Choose when photographing moving subjects. The brightness of the EVF may drop."
+                        ]
+                    ],
+                    "md": "| Option              | Description                                                                 |\n|---------------------|-----------------------------------------------------------------------------|\n| BRIGHTNESS PRIORITY | The EVF display prioritizes brightness. Recommended in most situations.     |\n| SMOOTHNESS PRIORITY | Minimize ghosting in the EVF display. Choose when photographing moving subjects. The brightness of the EVF may drop. |",
+                    "isPerfectTable": true,
+                    "csv": "\"Option\",\"Description\"\n\"BRIGHTNESS PRIORITY\",\"The EVF display prioritizes brightness. Recommended in most situations.\"\n\"SMOOTHNESS PRIORITY\",\"Minimize ghosting in the EVF display. Choose when photographing moving subjects. The brightness of the EVF may drop.\""
+                },
+                {
+                    "type": "text",
+                    "value": "> 💡 **Note:**  \n> SMOOTHNESS PRIORITY is only available when BOOST is selected for PERFORMANCE.",
+                    "md": "> 💡 **Note:**  \n> SMOOTHNESS PRIORITY is only available when BOOST is selected for PERFORMANCE."
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "AUTO POWER OFF TEMP.",
+                    "md": "## AUTO POWER OFF TEMP."
+                },
+                {
+                    "type": "text",
+                    "value": "If its temperature rises beyond a certain point, the camera will first display a message and then, if the temperature rise continues, automatically end shooting and power down. Choose the temperature at which the camera turns off automatically.",
+                    "md": "If its temperature rises beyond a certain point, the camera will first display a message and then, if the temperature rise continues, automatically end shooting and power down. Choose the temperature at which the camera turns off automatically."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Option",
+                            "Description"
+                        ],
+                        [
+                            "STANDARD",
+                            "The camera turns off automatically when its temperature reaches the STANDARD value."
+                        ],
+                        [
+                            "HIGH",
+                            "Shooting can continue at temperatures higher than the STANDARD value, extending the time available to record movies and the like. Because remaining in contact with the camera at these high temperatures could result in low-temperature burns, this option should only be used after mounting the camera on a tripod or taking other steps to avoid prolonged contact with the camera."
+                        ]
+                    ],
+                    "md": "| Option   | Description                                                                                                                                                                                                 |\n|----------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| STANDARD | The camera turns off automatically when its temperature reaches the STANDARD value.                                                                                                                         |\n| HIGH     | Shooting can continue at temperatures higher than the STANDARD value, extending the time available to record movies and the like. Because remaining in contact with the camera at these high temperatures could result in low-temperature burns, this option should only be used after mounting the camera on a tripod or taking other steps to avoid prolonged contact with the camera. |",
+                    "isPerfectTable": true,
+                    "csv": "\"Option\",\"Description\"\n\"STANDARD\",\"The camera turns off automatically when its temperature reaches the STANDARD value.\"\n\"HIGH\",\"Shooting can continue at temperatures higher than the STANDARD value, extending the time available to record movies and the like. Because remaining in contact with the camera at these high temperatures could result in low-temperature burns, this option should only be used after mounting the camera on a tripod or taking other steps to avoid prolonged contact with the camera.\""
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 514.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "64d17513-0b2e-4636-aac3-f2908d3d0625",
+    "file_path": "../data/raw_data/x100v/x100v_split/x100v_page252.pdf"
+}

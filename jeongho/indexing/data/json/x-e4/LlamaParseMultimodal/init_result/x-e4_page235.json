@@ -1,0 +1,111 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "\n# USER SETTING\n\n## SENSOR CLEANING\nRemove dust from the camera image sensor.\n\n| Option             | Description                                                                 |\n|--------------------|-----------------------------------------------------------------------------|\n| OK                 | Clean the sensor immediately.                                               |\n| WHEN SWITCHED ON   | Sensor cleaning will be performed when the camera is turned on.             |\n| WHEN SWITCHED OFF  | Sensor cleaning will be performed when the camera turns off (sensor cleaning is not however performed if the camera turns off in playback mode). |\n\n> 💡 **Note:**  \n> Dust that cannot be removed using sensor cleaning can be removed using a blower (📖 313).\n\n## SOUND & FLASH\nSelect **OFF** to disable the speaker, flash, illuminator, and self-timer lamp in situations in which camera sounds and lights may be unwelcome.\n\n| Options |        |\n|---------|--------|\n| ON      | OFF    |\n",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "USER SETTING",
+                    "md": "# USER SETTING"
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "SENSOR CLEANING",
+                    "md": "## SENSOR CLEANING"
+                },
+                {
+                    "type": "text",
+                    "value": "Remove dust from the camera image sensor.",
+                    "md": "Remove dust from the camera image sensor."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Option",
+                            "Description"
+                        ],
+                        [
+                            "OK",
+                            "Clean the sensor immediately."
+                        ],
+                        [
+                            "WHEN SWITCHED ON",
+                            "Sensor cleaning will be performed when the camera is turned on."
+                        ],
+                        [
+                            "WHEN SWITCHED OFF",
+                            "Sensor cleaning will be performed when the camera turns off (sensor cleaning is not however performed if the camera turns off in playback mode)."
+                        ]
+                    ],
+                    "md": "| Option             | Description                                                                 |\n|--------------------|-----------------------------------------------------------------------------|\n| OK                 | Clean the sensor immediately.                                               |\n| WHEN SWITCHED ON   | Sensor cleaning will be performed when the camera is turned on.             |\n| WHEN SWITCHED OFF  | Sensor cleaning will be performed when the camera turns off (sensor cleaning is not however performed if the camera turns off in playback mode). |",
+                    "isPerfectTable": true,
+                    "csv": "\"Option\",\"Description\"\n\"OK\",\"Clean the sensor immediately.\"\n\"WHEN SWITCHED ON\",\"Sensor cleaning will be performed when the camera is turned on.\"\n\"WHEN SWITCHED OFF\",\"Sensor cleaning will be performed when the camera turns off (sensor cleaning is not however performed if the camera turns off in playback mode).\""
+                },
+                {
+                    "type": "text",
+                    "value": "> 💡 **Note:**  \n> Dust that cannot be removed using sensor cleaning can be removed using a blower (📖 313).",
+                    "md": "> 💡 **Note:**  \n> Dust that cannot be removed using sensor cleaning can be removed using a blower (📖 313)."
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "SOUND & FLASH",
+                    "md": "## SOUND & FLASH"
+                },
+                {
+                    "type": "text",
+                    "value": "Select **OFF** to disable the speaker, flash, illuminator, and self-timer lamp in situations in which camera sounds and lights may be unwelcome.",
+                    "md": "Select **OFF** to disable the speaker, flash, illuminator, and self-timer lamp in situations in which camera sounds and lights may be unwelcome."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Options",
+                            ""
+                        ],
+                        [
+                            "ON",
+                            "OFF"
+                        ]
+                    ],
+                    "md": "| Options |        |\n|---------|--------|\n| ON      | OFF    |",
+                    "isPerfectTable": true,
+                    "csv": "\"Options\",\"\"\n\"ON\",\"OFF\""
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "parsingMode": "multimodal-openai-gpt4o",
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 106.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "9cc121f5-db03-4297-9a38-0a336877714f",
+    "file_path": "../data/raw_data/x-e4/x-e4_split/x-e4_page235.pdf"
+}

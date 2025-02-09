@@ -1,0 +1,350 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<h1 id='0' style='font-size:20px'>Multiple Exposures</h1>\n<br><h1 id='1' style='font-size:18px'>Create a photograph that combines multiple exposures.</h1>\n<figure id='2'><img alt=\"\" data-coord=\"top-left:(299,574); bottom-right:(1000,1080)\" /></figure>\n<br><figure id='3'><img style='font-size:14px' alt=\"+ →\" data-coord=\"top-left:(795,568); bottom-right:(2523,1086)\" /></figure>\n\n<br><figure id='5'><img alt=\"\" data-coord=\"top-left:(1746,1177); bottom-right:(2540,1737)\" /><figcaption id='4' style='font-size:18px'>1 Press the 힐 (drive) button and select<br>MULTIPLE EXPOSURE in the drive-<br>mode menu.</figcaption></figure>\n\n<br><table id='7' style='font-size:14px'><tr><td>Option</td><td>Description</td></tr><tr><td>ADDITIVE</td><td>The camera adds the exposures together. You may need to lower exposure compensation depending on the number of shots.</td></tr><tr><td>AVERAGE</td><td>The camera automatically optimizes exposure for the final picture. The background in series shot without changing the composition will be optimally exposed.</td></tr><tr><td>BRIGHT</td><td>The camera compares the exposures and chooses only the brightest pixel at each location. Colors may be mixed de- pending on their brightness and hue.</td></tr><tr><td>DARK</td><td>The camera compares the exposures and chooses only the darkest pixel at each location. Colors may be mixed de- pending on their brightness and hue.</td></tr><br><caption id='6' style='font-size:16px'>2 Choose a blend mode.</caption></table>\n<br><p id='8' data-category='paragraph' style='font-size:16px'>3 Take the first shot.</p>\n<br><footer id='9' style='font-size:16px'>5</footer>\n<footer id='10' style='font-size:20px'>121</footer>\n<br><footer id='11' style='font-size:22px'>Taking<br>Photographs</footer>",
+        "markdown": "# Multiple Exposures\n\n# Create a photograph that combines multiple exposures.\n\n![image](/image/placeholder)\n\n\n![image](/image/placeholder)\n+ →\n\n1 Press the 힐 (drive) button and select\nMULTIPLE EXPOSURE in the drive-\nmode menu.\n\n![image](/image/placeholder)\n\n\n2 Choose a blend mode.\n\n| Option | Description |\n| --- | --- |\n| ADDITIVE | The camera adds the exposures together. You may need to lower exposure compensation depending on the number of shots. |\n| AVERAGE | The camera automatically optimizes exposure for the final picture. The background in series shot without changing the composition will be optimally exposed. |\n| BRIGHT | The camera compares the exposures and chooses only the brightest pixel at each location. Colors may be mixed de- pending on their brightness and hue. |\n| DARK | The camera compares the exposures and chooses only the darkest pixel at each location. Colors may be mixed de- pending on their brightness and hue. |\n\n\n3 Take the first shot.\n\n5\n\n121\n\nTaking\nPhotographs",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='0' style='font-size:20px'>Multiple Exposures</h1>",
+                "markdown": "# Multiple Exposures",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.181,
+                    "y": 0.0736
+                },
+                {
+                    "x": 0.5076,
+                    "y": 0.0736
+                },
+                {
+                    "x": 0.5076,
+                    "y": 0.1004
+                },
+                {
+                    "x": 0.181,
+                    "y": 0.1004
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='1' style='font-size:18px'>Create a photograph that combines multiple exposures.</h1>",
+                "markdown": "# Create a photograph that combines multiple exposures.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1788,
+                    "y": 0.1106
+                },
+                {
+                    "x": 0.885,
+                    "y": 0.1106
+                },
+                {
+                    "x": 0.885,
+                    "y": 0.1333
+                },
+                {
+                    "x": 0.1788,
+                    "y": 0.1333
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "figure",
+            "content": {
+                "html": "<figure id='2'><img alt=\"\" data-coord=\"top-left:(299,574); bottom-right:(1000,1080)\" /></figure>",
+                "markdown": "![image](/image/placeholder)\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1083,
+                    "y": 0.1473
+                },
+                {
+                    "x": 0.362,
+                    "y": 0.1473
+                },
+                {
+                    "x": 0.362,
+                    "y": 0.2771
+                },
+                {
+                    "x": 0.1083,
+                    "y": 0.2771
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "figure",
+            "content": {
+                "html": "<br><figure id='3'><img style='font-size:14px' alt=\"+ →\" data-coord=\"top-left:(795,568); bottom-right:(2523,1086)\" /></figure>",
+                "markdown": "![image](/image/placeholder)\n+ →",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.2877,
+                    "y": 0.1459
+                },
+                {
+                    "x": 0.9131,
+                    "y": 0.1459
+                },
+                {
+                    "x": 0.9131,
+                    "y": 0.2788
+                },
+                {
+                    "x": 0.2877,
+                    "y": 0.2788
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='4' data-category='paragraph' style='font-size:18px'>1 Press the 힐 (drive) button and select<br>MULTIPLE EXPOSURE in the drive-<br>mode menu.</p>",
+                "markdown": "1 Press the 힐 (drive) button and select\nMULTIPLE EXPOSURE in the drive-\nmode menu.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1273,
+                    "y": 0.3018
+                },
+                {
+                    "x": 0.6344,
+                    "y": 0.3018
+                },
+                {
+                    "x": 0.6344,
+                    "y": 0.3771
+                },
+                {
+                    "x": 0.1273,
+                    "y": 0.3771
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "figure",
+            "content": {
+                "html": "<br><figure id='5'><img alt=\"\" data-coord=\"top-left:(1746,1177); bottom-right:(2540,1737)\" /></figure>",
+                "markdown": "![image](/image/placeholder)\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6319,
+                    "y": 0.3021
+                },
+                {
+                    "x": 0.9192,
+                    "y": 0.3021
+                },
+                {
+                    "x": 0.9192,
+                    "y": 0.4457
+                },
+                {
+                    "x": 0.6319,
+                    "y": 0.4457
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='6' data-category='paragraph' style='font-size:16px'>2 Choose a blend mode.</p>",
+                "markdown": "2 Choose a blend mode.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1234,
+                    "y": 0.4544
+                },
+                {
+                    "x": 0.4489,
+                    "y": 0.4544
+                },
+                {
+                    "x": 0.4489,
+                    "y": 0.4811
+                },
+                {
+                    "x": 0.1234,
+                    "y": 0.4811
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='7' style='font-size:14px'><tr><td>Option</td><td>Description</td></tr><tr><td>ADDITIVE</td><td>The camera adds the exposures together. You may need to lower exposure compensation depending on the number of shots.</td></tr><tr><td>AVERAGE</td><td>The camera automatically optimizes exposure for the final picture. The background in series shot without changing the composition will be optimally exposed.</td></tr><tr><td>BRIGHT</td><td>The camera compares the exposures and chooses only the brightest pixel at each location. Colors may be mixed de- pending on their brightness and hue.</td></tr><tr><td>DARK</td><td>The camera compares the exposures and chooses only the darkest pixel at each location. Colors may be mixed de- pending on their brightness and hue.</td></tr></table>",
+                "markdown": "| Option | Description |\n| --- | --- |\n| ADDITIVE | The camera adds the exposures together. You may need to lower exposure compensation depending on the number of shots. |\n| AVERAGE | The camera automatically optimizes exposure for the final picture. The background in series shot without changing the composition will be optimally exposed. |\n| BRIGHT | The camera compares the exposures and chooses only the brightest pixel at each location. Colors may be mixed de- pending on their brightness and hue. |\n| DARK | The camera compares the exposures and chooses only the darkest pixel at each location. Colors may be mixed de- pending on their brightness and hue. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1567,
+                    "y": 0.4919
+                },
+                {
+                    "x": 0.922,
+                    "y": 0.4919
+                },
+                {
+                    "x": 0.922,
+                    "y": 0.8093
+                },
+                {
+                    "x": 0.1567,
+                    "y": 0.8093
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='8' data-category='paragraph' style='font-size:16px'>3 Take the first shot.</p>",
+                "markdown": "3 Take the first shot.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1229,
+                    "y": 0.819
+                },
+                {
+                    "x": 0.3914,
+                    "y": 0.819
+                },
+                {
+                    "x": 0.3914,
+                    "y": 0.8447
+                },
+                {
+                    "x": 0.1229,
+                    "y": 0.8447
+                }
+            ],
+            "id": 8,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<br><footer id='9' style='font-size:16px'>5</footer>",
+                "markdown": "5",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9574,
+                    "y": 0.4776
+                },
+                {
+                    "x": 0.9754,
+                    "y": 0.4776
+                },
+                {
+                    "x": 0.9754,
+                    "y": 0.4974
+                },
+                {
+                    "x": 0.9574,
+                    "y": 0.4974
+                }
+            ],
+            "id": 9,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='10' style='font-size:20px'>121</footer>",
+                "markdown": "121",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.8622,
+                    "y": 0.9565
+                },
+                {
+                    "x": 0.9148,
+                    "y": 0.9565
+                },
+                {
+                    "x": 0.9148,
+                    "y": 0.9794
+                },
+                {
+                    "x": 0.8622,
+                    "y": 0.9794
+                }
+            ],
+            "id": 10,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<br><footer id='11' style='font-size:22px'>Taking<br>Photographs</footer>",
+                "markdown": "Taking\nPhotographs",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9562,
+                    "y": 0.5174
+                },
+                {
+                    "x": 0.9812,
+                    "y": 0.5174
+                },
+                {
+                    "x": 0.9812,
+                    "y": 0.6651
+                },
+                {
+                    "x": 0.9562,
+                    "y": 0.6651
+                }
+            ],
+            "id": 11,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

@@ -1,0 +1,294 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:22px'>Movie<br>Recording<br>and<br>Playback</header>\n<br><h1 id='1' style='font-size:20px'>Recording Movies</h1>\n<br><p id='2' data-category='paragraph' style='font-size:16px'>This section describes how to film movies in auto mode.</p>\n<h1 id='3' style='font-size:18px'>1 Press the DRIVE/DELETE button and se-<br>lect MOVIE in the drive-mode menu.</h1>\n<br><figure id='4'><img style='font-size:14px' alt=\"DRIVE\nDELETE\" data-coord=\"top-left:(1676,646); bottom-right:(2462,1070)\" /></figure>\n<h1 id='5' style='font-size:20px'>2 Adjust settings for program AE.</h1>\n\n<br><figure id='7'><img style='font-size:14px' alt=\"1\n8\n2800\n10000\nIA\n4000\n2000\n1000\n500 09\n2\n3\n2\nA 16 11 8\n���\n1000 · M\nC\ns\" data-coord=\"top-left:(473,1288); bottom-right:(2393,2409)\" /><figcaption id='6' style='font-size:16px'>4</figcaption></figure>\n<br><table id='8' style='font-size:16px'><tr><td colspan=\"2\">Setting</td><td></td></tr><tr><td>1 Shutter speed</td><td>A (auto)</td><td>56</td></tr><tr><td>2 Sensitivity</td><td>A (auto)</td><td>77</td></tr><tr><td>3 Aperture</td><td>A (auto)</td><td>56</td></tr><tr><td>4 Focus mode</td><td>C (Continuous AF)</td><td>66</td></tr><caption id='6' style='font-size:16px'>4</caption></table>\n<footer id='9' style='font-size:18px'>50</footer>",
+        "markdown": "Movie\nRecording\nand\nPlayback\n\n# Recording Movies\n\nThis section describes how to film movies in auto mode.\n\n# 1 Press the DRIVE/DELETE button and se-\nlect MOVIE in the drive-mode menu.\n\n![image](/image/placeholder)\nDRIVE\nDELETE\n\n# 2 Adjust settings for program AE.\n\n4\n\n![image](/image/placeholder)\n1\n8\n2800\n10000\nIA\n4000\n2000\n1000\n500 09\n2\n3\n2\nA 16 11 8\n���\n1000 · M\nC\ns\n\n| Setting | Setting |  |\n| --- | --- | --- |\n| 1 Shutter speed | A (auto) | 56 |\n| 2 Sensitivity | A (auto) | 77 |\n| 3 Aperture | A (auto) | 56 |\n| 4 Focus mode | C (Continuous AF) | 66 |\n\n\n50",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:22px'>Movie<br>Recording<br>and<br>Playback</header>",
+                "markdown": "Movie\nRecording\nand\nPlayback",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0178,
+                    "y": 0.4558
+                },
+                {
+                    "x": 0.0421,
+                    "y": 0.4558
+                },
+                {
+                    "x": 0.0421,
+                    "y": 0.6801
+                },
+                {
+                    "x": 0.0178,
+                    "y": 0.6801
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='1' style='font-size:20px'>Recording Movies</h1>",
+                "markdown": "# Recording Movies",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1534,
+                    "y": 0.0735
+                },
+                {
+                    "x": 0.4613,
+                    "y": 0.0735
+                },
+                {
+                    "x": 0.4613,
+                    "y": 0.1002
+                },
+                {
+                    "x": 0.1534,
+                    "y": 0.1002
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='2' data-category='paragraph' style='font-size:16px'>This section describes how to film movies in auto mode.</p>",
+                "markdown": "This section describes how to film movies in auto mode.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1546,
+                    "y": 0.11
+                },
+                {
+                    "x": 0.8603,
+                    "y": 0.11
+                },
+                {
+                    "x": 0.8603,
+                    "y": 0.1323
+                },
+                {
+                    "x": 0.1546,
+                    "y": 0.1323
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='3' style='font-size:18px'>1 Press the DRIVE/DELETE button and se-<br>lect MOVIE in the drive-mode menu.</h1>",
+                "markdown": "# 1 Press the DRIVE/DELETE button and se-\nlect MOVIE in the drive-mode menu.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0948,
+                    "y": 0.1474
+                },
+                {
+                    "x": 0.6029,
+                    "y": 0.1474
+                },
+                {
+                    "x": 0.6029,
+                    "y": 0.1975
+                },
+                {
+                    "x": 0.0948,
+                    "y": 0.1975
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "figure",
+            "content": {
+                "html": "<br><figure id='4'><img style='font-size:14px' alt=\"DRIVE\nDELETE\" data-coord=\"top-left:(1676,646); bottom-right:(2462,1070)\" /></figure>",
+                "markdown": "![image](/image/placeholder)\nDRIVE\nDELETE",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.6066,
+                    "y": 0.1659
+                },
+                {
+                    "x": 0.8909,
+                    "y": 0.1659
+                },
+                {
+                    "x": 0.8909,
+                    "y": 0.2746
+                },
+                {
+                    "x": 0.6066,
+                    "y": 0.2746
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='5' style='font-size:20px'>2 Adjust settings for program AE.</h1>",
+                "markdown": "# 2 Adjust settings for program AE.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0977,
+                    "y": 0.3046
+                },
+                {
+                    "x": 0.5283,
+                    "y": 0.3046
+                },
+                {
+                    "x": 0.5283,
+                    "y": 0.3305
+                },
+                {
+                    "x": 0.0977,
+                    "y": 0.3305
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='6' data-category='paragraph' style='font-size:16px'>4</p>",
+                "markdown": "4",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0278,
+                    "y": 0.4195
+                },
+                {
+                    "x": 0.0423,
+                    "y": 0.4195
+                },
+                {
+                    "x": 0.0423,
+                    "y": 0.436
+                },
+                {
+                    "x": 0.0278,
+                    "y": 0.436
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "figure",
+            "content": {
+                "html": "<br><figure id='7'><img style='font-size:14px' alt=\"1\n8\n2800\n10000\nIA\n4000\n2000\n1000\n500 09\n2\n3\n2\nA 16 11 8\n���\n1000 · M\nC\ns\" data-coord=\"top-left:(473,1288); bottom-right:(2393,2409)\" /></figure>",
+                "markdown": "![image](/image/placeholder)\n1\n8\n2800\n10000\nIA\n4000\n2000\n1000\n500 09\n2\n3\n2\nA 16 11 8\n���\n1000 · M\nC\ns",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1711,
+                    "y": 0.3305
+                },
+                {
+                    "x": 0.8659,
+                    "y": 0.3305
+                },
+                {
+                    "x": 0.8659,
+                    "y": 0.6182
+                },
+                {
+                    "x": 0.1711,
+                    "y": 0.6182
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='8' style='font-size:16px'><tr><td colspan=\"2\">Setting</td><td></td></tr><tr><td>1 Shutter speed</td><td>A (auto)</td><td>56</td></tr><tr><td>2 Sensitivity</td><td>A (auto)</td><td>77</td></tr><tr><td>3 Aperture</td><td>A (auto)</td><td>56</td></tr><tr><td>4 Focus mode</td><td>C (Continuous AF)</td><td>66</td></tr></table>",
+                "markdown": "| Setting | Setting |  |\n| --- | --- | --- |\n| 1 Shutter speed | A (auto) | 56 |\n| 2 Sensitivity | A (auto) | 77 |\n| 3 Aperture | A (auto) | 56 |\n| 4 Focus mode | C (Continuous AF) | 66 |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1351,
+                    "y": 0.6217
+                },
+                {
+                    "x": 0.8909,
+                    "y": 0.6217
+                },
+                {
+                    "x": 0.8909,
+                    "y": 0.7468
+                },
+                {
+                    "x": 0.1351,
+                    "y": 0.7468
+                }
+            ],
+            "id": 8,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='9' style='font-size:18px'>50</footer>",
+                "markdown": "50",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0827,
+                    "y": 0.9564
+                },
+                {
+                    "x": 0.1228,
+                    "y": 0.9564
+                },
+                {
+                    "x": 0.1228,
+                    "y": 0.9801
+                },
+                {
+                    "x": 0.0827,
+                    "y": 0.9801
+                }
+            ],
+            "id": 9,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

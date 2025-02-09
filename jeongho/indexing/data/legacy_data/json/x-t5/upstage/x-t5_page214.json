@@ -1,0 +1,182 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<h1 id='0' style='font-size:16px'>MIC JACK SETTING</h1>\n<br><h1 id='1' style='font-size:20px'>Specify the type of hardware connected to the microphone jack.</h1>\n<table id='2' style='font-size:18px'><tr><td>Option</td><td>Description</td></tr><tr><td>MIC</td><td>Choose this option for direct connection to an external micro- phone.</td></tr><tr><td>LINE</td><td>Choose this option for external audio devices connected via line output.</td></tr><tr><td colspan=\"2\">MIC LEVEL LIMITER</td></tr><tr><td colspan=\"2\">Reduces distortion caused by input that exceeds the limits of the microphone's audio circuits.</td></tr><tr><td colspan=\"2\">Options</td></tr><tr><td>ON</td><td>OFF</td></tr><tr><td colspan=\"2\">WIND FILTER</td></tr><tr><td colspan=\"2\">Choose whether to enable wind noise reduction during movie recording.</td></tr><tr><td colspan=\"2\">Options</td></tr><tr><td>ON</td><td>OFF</td></tr><tr><td colspan=\"2\">LOW CUT FILTER</td></tr><tr><td colspan=\"2\">Choose whether to enable the low-cut filter, reducing low-fre- quency noise during movie recording.</td></tr><tr><td colspan=\"2\">Options</td></tr><tr><td>ON</td><td>OFF</td></tr><tr><td colspan=\"2\">HEADPHONES VOLUME</td></tr><tr><td colspan=\"2\">Adjust the headphone volume.</td></tr><tr><td>Option</td><td>Description</td></tr><tr><td>0</td><td>Mute output to the headphones.</td></tr><tr><td>1-10</td><td>Choose a volume of from 1 to 10.</td></tr></table>\n<br><p id='3' data-category='paragraph' style='font-size:14px'>6</p>\n<br><header id='4' style='font-size:22px'>The<br>Shooting<br>Menus</header>\n<footer id='5' style='font-size:20px'>214</footer>",
+        "markdown": "# MIC JACK SETTING\n\n# Specify the type of hardware connected to the microphone jack.\n\n| Option | Description |\n| --- | --- |\n| MIC | Choose this option for direct connection to an external micro- phone. |\n| LINE | Choose this option for external audio devices connected via line output. |\n| MIC LEVEL LIMITER | MIC LEVEL LIMITER |\n| Reduces distortion caused by input that exceeds the limits of the microphone's audio circuits. | Reduces distortion caused by input that exceeds the limits of the microphone's audio circuits. |\n| Options | Options |\n| ON | OFF |\n| WIND FILTER | WIND FILTER |\n| Choose whether to enable wind noise reduction during movie recording. | Choose whether to enable wind noise reduction during movie recording. |\n| Options | Options |\n| ON | OFF |\n| LOW CUT FILTER | LOW CUT FILTER |\n| Choose whether to enable the low-cut filter, reducing low-fre- quency noise during movie recording. | Choose whether to enable the low-cut filter, reducing low-fre- quency noise during movie recording. |\n| Options | Options |\n| ON | OFF |\n| HEADPHONES VOLUME | HEADPHONES VOLUME |\n| Adjust the headphone volume. | Adjust the headphone volume. |\n| Option | Description |\n| 0 | Mute output to the headphones. |\n| 1-10 | Choose a volume of from 1 to 10. |\n\n\n6\n\nThe\nShooting\nMenus\n\n214",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='0' style='font-size:16px'>MIC JACK SETTING</h1>",
+                "markdown": "# MIC JACK SETTING",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0818,
+                    "y": 0.073
+                },
+                {
+                    "x": 0.3389,
+                    "y": 0.073
+                },
+                {
+                    "x": 0.3389,
+                    "y": 0.0945
+                },
+                {
+                    "x": 0.0818,
+                    "y": 0.0945
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='1' style='font-size:20px'>Specify the type of hardware connected to the microphone jack.</h1>",
+                "markdown": "# Specify the type of hardware connected to the microphone jack.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0801,
+                    "y": 0.1042
+                },
+                {
+                    "x": 0.8908,
+                    "y": 0.1042
+                },
+                {
+                    "x": 0.8908,
+                    "y": 0.1295
+                },
+                {
+                    "x": 0.0801,
+                    "y": 0.1295
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='2' style='font-size:18px'><tr><td>Option</td><td>Description</td></tr><tr><td>MIC</td><td>Choose this option for direct connection to an external micro- phone.</td></tr><tr><td>LINE</td><td>Choose this option for external audio devices connected via line output.</td></tr><tr><td colspan=\"2\">MIC LEVEL LIMITER</td></tr><tr><td colspan=\"2\">Reduces distortion caused by input that exceeds the limits of the microphone's audio circuits.</td></tr><tr><td colspan=\"2\">Options</td></tr><tr><td>ON</td><td>OFF</td></tr><tr><td colspan=\"2\">WIND FILTER</td></tr><tr><td colspan=\"2\">Choose whether to enable wind noise reduction during movie recording.</td></tr><tr><td colspan=\"2\">Options</td></tr><tr><td>ON</td><td>OFF</td></tr><tr><td colspan=\"2\">LOW CUT FILTER</td></tr><tr><td colspan=\"2\">Choose whether to enable the low-cut filter, reducing low-fre- quency noise during movie recording.</td></tr><tr><td colspan=\"2\">Options</td></tr><tr><td>ON</td><td>OFF</td></tr><tr><td colspan=\"2\">HEADPHONES VOLUME</td></tr><tr><td colspan=\"2\">Adjust the headphone volume.</td></tr><tr><td>Option</td><td>Description</td></tr><tr><td>0</td><td>Mute output to the headphones.</td></tr><tr><td>1-10</td><td>Choose a volume of from 1 to 10.</td></tr></table>",
+                "markdown": "| Option | Description |\n| --- | --- |\n| MIC | Choose this option for direct connection to an external micro- phone. |\n| LINE | Choose this option for external audio devices connected via line output. |\n| MIC LEVEL LIMITER | MIC LEVEL LIMITER |\n| Reduces distortion caused by input that exceeds the limits of the microphone's audio circuits. | Reduces distortion caused by input that exceeds the limits of the microphone's audio circuits. |\n| Options | Options |\n| ON | OFF |\n| WIND FILTER | WIND FILTER |\n| Choose whether to enable wind noise reduction during movie recording. | Choose whether to enable wind noise reduction during movie recording. |\n| Options | Options |\n| ON | OFF |\n| LOW CUT FILTER | LOW CUT FILTER |\n| Choose whether to enable the low-cut filter, reducing low-fre- quency noise during movie recording. | Choose whether to enable the low-cut filter, reducing low-fre- quency noise during movie recording. |\n| Options | Options |\n| ON | OFF |\n| HEADPHONES VOLUME | HEADPHONES VOLUME |\n| Adjust the headphone volume. | Adjust the headphone volume. |\n| Option | Description |\n| 0 | Mute output to the headphones. |\n| 1-10 | Choose a volume of from 1 to 10. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0781,
+                    "y": 0.1435
+                },
+                {
+                    "x": 0.8942,
+                    "y": 0.1435
+                },
+                {
+                    "x": 0.8942,
+                    "y": 0.9041
+                },
+                {
+                    "x": 0.0781,
+                    "y": 0.9041
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<br><p id='3' data-category='paragraph' style='font-size:14px'>6</p>",
+                "markdown": "6",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.029,
+                    "y": 0.5407
+                },
+                {
+                    "x": 0.0416,
+                    "y": 0.5407
+                },
+                {
+                    "x": 0.0416,
+                    "y": 0.5543
+                },
+                {
+                    "x": 0.029,
+                    "y": 0.5543
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "header",
+            "content": {
+                "html": "<br><header id='4' style='font-size:22px'>The<br>Shooting<br>Menus</header>",
+                "markdown": "The\nShooting\nMenus",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0157,
+                    "y": 0.5762
+                },
+                {
+                    "x": 0.0418,
+                    "y": 0.5762
+                },
+                {
+                    "x": 0.0418,
+                    "y": 0.7306
+                },
+                {
+                    "x": 0.0157,
+                    "y": 0.7306
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='5' style='font-size:20px'>214</footer>",
+                "markdown": "214",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0823,
+                    "y": 0.9565
+                },
+                {
+                    "x": 0.1405,
+                    "y": 0.9565
+                },
+                {
+                    "x": 0.1405,
+                    "y": 0.9786
+                },
+                {
+                    "x": 0.0823,
+                    "y": 0.9786
+                }
+            ],
+            "id": 5,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

@@ -1,0 +1,238 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<h1 id='0' style='font-size:20px'>Metering</h1>\n<br><h1 id='1' style='font-size:16px'>Choose how the camera meters exposure.</h1>\n<h1 id='2' style='font-size:16px'>· SHOOTING SETTING > PHOTOMETRY offers a choice of the<br>following metering options:</h1>\n<p id='3' data-category='paragraph' style='font-size:14px'>The selected option will only take effect when AF AF/MF SETTING ><br>MF<br>FACE/EYE DETECTION SETTING is OFF.</p>\n<table id='4' style='font-size:14px'><tr><td>Mode</td><td>Description</td></tr><tr><td>[외] (multi)</td><td>The camera instantly determines exposure based on an analysis of composition, color, and brightness distribution. Recommended in most situations.</td></tr><tr><td>[○] (center- weighted)</td><td>The camera meters the entire frame but assigns the greatest weight to the area at the center.</td></tr><tr><td>[●] (spot)</td><td>The camera meters lighting conditions in an area at the center of the frame equivalent to 2% ofthe total. Recommended with backlit sub- jects and in other cases in which the background is much brighter or darker than the main subject.</td></tr><tr><td>[ ] (average)</td><td>Exposure is set to the average for the entire frame. Provides consis- tent exposure across multiple shots with the same lighting, and is particularly effective for landscapes and portraits of subjects dressed in black or white.</td></tr></table>\n<br><footer id='5' style='font-size:18px'>5</footer>\n<br><footer id='6' style='font-size:22px'>Taking<br>Photographs</footer>\n<footer id='7' style='font-size:20px'>79</footer>",
+        "markdown": "# Metering\n\n# Choose how the camera meters exposure.\n\n# · SHOOTING SETTING > PHOTOMETRY offers a choice of the\nfollowing metering options:\n\nThe selected option will only take effect when AF AF/MF SETTING >\nMF\nFACE/EYE DETECTION SETTING is OFF.\n\n| Mode | Description |\n| --- | --- |\n| [외] (multi) | The camera instantly determines exposure based on an analysis of composition, color, and brightness distribution. Recommended in most situations. |\n| [○] (center- weighted) | The camera meters the entire frame but assigns the greatest weight to the area at the center. |\n| [●] (spot) | The camera meters lighting conditions in an area at the center of the frame equivalent to 2% ofthe total. Recommended with backlit sub- jects and in other cases in which the background is much brighter or darker than the main subject. |\n| [ ] (average) | Exposure is set to the average for the entire frame. Provides consis- tent exposure across multiple shots with the same lighting, and is particularly effective for landscapes and portraits of subjects dressed in black or white. |\n\n\n5\n\nTaking\nPhotographs\n\n79",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='0' style='font-size:20px'>Metering</h1>",
+                "markdown": "# Metering",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1809,
+                    "y": 0.0737
+                },
+                {
+                    "x": 0.3394,
+                    "y": 0.0737
+                },
+                {
+                    "x": 0.3394,
+                    "y": 0.1018
+                },
+                {
+                    "x": 0.1809,
+                    "y": 0.1018
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='1' style='font-size:16px'>Choose how the camera meters exposure.</h1>",
+                "markdown": "# Choose how the camera meters exposure.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1793,
+                    "y": 0.1102
+                },
+                {
+                    "x": 0.7103,
+                    "y": 0.1102
+                },
+                {
+                    "x": 0.7103,
+                    "y": 0.1329
+                },
+                {
+                    "x": 0.1793,
+                    "y": 0.1329
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<h1 id='2' style='font-size:16px'>· SHOOTING SETTING > PHOTOMETRY offers a choice of the<br>following metering options:</h1>",
+                "markdown": "# · SHOOTING SETTING > PHOTOMETRY offers a choice of the\nfollowing metering options:",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1062,
+                    "y": 0.147
+                },
+                {
+                    "x": 0.917,
+                    "y": 0.147
+                },
+                {
+                    "x": 0.917,
+                    "y": 0.1985
+                },
+                {
+                    "x": 0.1062,
+                    "y": 0.1985
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='3' data-category='paragraph' style='font-size:14px'>The selected option will only take effect when AF AF/MF SETTING ><br>MF<br>FACE/EYE DETECTION SETTING is OFF.</p>",
+                "markdown": "The selected option will only take effect when AF AF/MF SETTING >\nMF\nFACE/EYE DETECTION SETTING is OFF.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1123,
+                    "y": 0.2122
+                },
+                {
+                    "x": 0.9133,
+                    "y": 0.2122
+                },
+                {
+                    "x": 0.9133,
+                    "y": 0.2555
+                },
+                {
+                    "x": 0.1123,
+                    "y": 0.2555
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<table id='4' style='font-size:14px'><tr><td>Mode</td><td>Description</td></tr><tr><td>[외] (multi)</td><td>The camera instantly determines exposure based on an analysis of composition, color, and brightness distribution. Recommended in most situations.</td></tr><tr><td>[○] (center- weighted)</td><td>The camera meters the entire frame but assigns the greatest weight to the area at the center.</td></tr><tr><td>[●] (spot)</td><td>The camera meters lighting conditions in an area at the center of the frame equivalent to 2% ofthe total. Recommended with backlit sub- jects and in other cases in which the background is much brighter or darker than the main subject.</td></tr><tr><td>[ ] (average)</td><td>Exposure is set to the average for the entire frame. Provides consis- tent exposure across multiple shots with the same lighting, and is particularly effective for landscapes and portraits of subjects dressed in black or white.</td></tr></table>",
+                "markdown": "| Mode | Description |\n| --- | --- |\n| [외] (multi) | The camera instantly determines exposure based on an analysis of composition, color, and brightness distribution. Recommended in most situations. |\n| [○] (center- weighted) | The camera meters the entire frame but assigns the greatest weight to the area at the center. |\n| [●] (spot) | The camera meters lighting conditions in an area at the center of the frame equivalent to 2% ofthe total. Recommended with backlit sub- jects and in other cases in which the background is much brighter or darker than the main subject. |\n| [ ] (average) | Exposure is set to the average for the entire frame. Provides consis- tent exposure across multiple shots with the same lighting, and is particularly effective for landscapes and portraits of subjects dressed in black or white. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.106,
+                    "y": 0.2708
+                },
+                {
+                    "x": 0.9208,
+                    "y": 0.2708
+                },
+                {
+                    "x": 0.9208,
+                    "y": 0.6291
+                },
+                {
+                    "x": 0.106,
+                    "y": 0.6291
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<br><footer id='5' style='font-size:18px'>5</footer>",
+                "markdown": "5",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9574,
+                    "y": 0.4776
+                },
+                {
+                    "x": 0.9752,
+                    "y": 0.4776
+                },
+                {
+                    "x": 0.9752,
+                    "y": 0.4975
+                },
+                {
+                    "x": 0.9574,
+                    "y": 0.4975
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<br><footer id='6' style='font-size:22px'>Taking<br>Photographs</footer>",
+                "markdown": "Taking\nPhotographs",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.9563,
+                    "y": 0.5181
+                },
+                {
+                    "x": 0.9816,
+                    "y": 0.5181
+                },
+                {
+                    "x": 0.9816,
+                    "y": 0.6653
+                },
+                {
+                    "x": 0.9563,
+                    "y": 0.6653
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='7' style='font-size:20px'>79</footer>",
+                "markdown": "79",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.8784,
+                    "y": 0.9571
+                },
+                {
+                    "x": 0.917,
+                    "y": 0.9571
+                },
+                {
+                    "x": 0.917,
+                    "y": 0.9791
+                },
+                {
+                    "x": 0.8784,
+                    "y": 0.9791
+                }
+            ],
+            "id": 7,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}

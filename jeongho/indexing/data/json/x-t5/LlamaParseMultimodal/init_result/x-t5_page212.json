@@ -1,0 +1,113 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "md": "\n# XLR MIC ADAPTER SETTING\n\nAdjust microphone input channel settings and the like for use with XLR microphone adapters.\n\n| Option                | Description                                                                                                                                                                                                 |\n|-----------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| **MIC INPUT CHANNEL** | Record four-channel (quadraphonic) sound with the help of the camera’s built-in microphone, or two-channel (stereo) sound using only a microphone connected via the XLR microphone adapter.                  |\n|                       | - **4ch XLR+CAMERA**: Record four-channel sound with the help of the camera’s built-in microphone.                                                                                                           |\n|                       | - **2ch XLR ONLY**: Record two-channel sound using only an external microphone connected via the XLR microphone adapter.                                                                                    |\n| **4ch AUDIO MONITORING** | Choose the source of sound output to headphones or other audio monitors during movie recording.                                                                                                           |\n|                       | - **XLR**: Monitor sound from external microphones connected via the XLR microphone adapter.                                                                                                                |\n|                       | - **CAMERA**: Monitor sound from camera’s built-in microphone.                                                                                                                                              |\n| **HDMI 4ch AUDIO OUTPUT** | Choose source of audio output to the HDMI connector.                                                                                                                                                     |\n|                       | - **XLR**: Audio from external microphones connected via the XLR microphone adapter is output to the HDMI connector.                                                                                        |\n|                       | - **CAMERA**: Audio from camera’s built-in microphone is output to the HDMI connector.                                                                                                                      |\n\n> - If an external microphone is connected to the camera’s microphone jack, audio will be recorded not via the camera’s built-in microphone but via the external microphone instead.\n> - Four-channel recording is available only when MOV is selected for movie file format.\n\n## REC FRAME INDICATOR\n\nThis item is also found in the movie menus (📖 198). Changes here also apply to the item in the movie menus.\n",
+            "images": [
+                {
+                    "name": "page_1.jpg",
+                    "height": 0,
+                    "width": 0,
+                    "x": 0,
+                    "y": 0,
+                    "type": "full_page_screenshot"
+                }
+            ],
+            "charts": [],
+            "items": [
+                {
+                    "type": "heading",
+                    "lvl": 1,
+                    "value": "XLR MIC ADAPTER SETTING",
+                    "md": "# XLR MIC ADAPTER SETTING"
+                },
+                {
+                    "type": "text",
+                    "value": "Adjust microphone input channel settings and the like for use with XLR microphone adapters.",
+                    "md": "Adjust microphone input channel settings and the like for use with XLR microphone adapters."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        [
+                            "Option",
+                            "Description"
+                        ],
+                        [
+                            "**MIC INPUT CHANNEL**",
+                            "Record four-channel (quadraphonic) sound with the help of the camera’s built-in microphone, or two-channel (stereo) sound using only a microphone connected via the XLR microphone adapter."
+                        ],
+                        [
+                            "",
+                            "- **4ch XLR+CAMERA**: Record four-channel sound with the help of the camera’s built-in microphone."
+                        ],
+                        [
+                            "",
+                            "- **2ch XLR ONLY**: Record two-channel sound using only an external microphone connected via the XLR microphone adapter."
+                        ],
+                        [
+                            "**4ch AUDIO MONITORING**",
+                            "Choose the source of sound output to headphones or other audio monitors during movie recording."
+                        ],
+                        [
+                            "",
+                            "- **XLR**: Monitor sound from external microphones connected via the XLR microphone adapter."
+                        ],
+                        [
+                            "",
+                            "- **CAMERA**: Monitor sound from camera’s built-in microphone."
+                        ],
+                        [
+                            "**HDMI 4ch AUDIO OUTPUT**",
+                            "Choose source of audio output to the HDMI connector."
+                        ],
+                        [
+                            "",
+                            "- **XLR**: Audio from external microphones connected via the XLR microphone adapter is output to the HDMI connector."
+                        ],
+                        [
+                            "",
+                            "- **CAMERA**: Audio from camera’s built-in microphone is output to the HDMI connector."
+                        ]
+                    ],
+                    "md": "| Option                | Description                                                                                                                                                                                                 |\n|-----------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| **MIC INPUT CHANNEL** | Record four-channel (quadraphonic) sound with the help of the camera’s built-in microphone, or two-channel (stereo) sound using only a microphone connected via the XLR microphone adapter.                  |\n|                       | - **4ch XLR+CAMERA**: Record four-channel sound with the help of the camera’s built-in microphone.                                                                                                           |\n|                       | - **2ch XLR ONLY**: Record two-channel sound using only an external microphone connected via the XLR microphone adapter.                                                                                    |\n| **4ch AUDIO MONITORING** | Choose the source of sound output to headphones or other audio monitors during movie recording.                                                                                                           |\n|                       | - **XLR**: Monitor sound from external microphones connected via the XLR microphone adapter.                                                                                                                |\n|                       | - **CAMERA**: Monitor sound from camera’s built-in microphone.                                                                                                                                              |\n| **HDMI 4ch AUDIO OUTPUT** | Choose source of audio output to the HDMI connector.                                                                                                                                                     |\n|                       | - **XLR**: Audio from external microphones connected via the XLR microphone adapter is output to the HDMI connector.                                                                                        |\n|                       | - **CAMERA**: Audio from camera’s built-in microphone is output to the HDMI connector.                                                                                                                      |",
+                    "isPerfectTable": true,
+                    "csv": "\"Option\",\"Description\"\n\"**MIC INPUT CHANNEL**\",\"Record four-channel (quadraphonic) sound with the help of the camera’s built-in microphone, or two-channel (stereo) sound using only a microphone connected via the XLR microphone adapter.\"\n\"\",\"- **4ch XLR+CAMERA**: Record four-channel sound with the help of the camera’s built-in microphone.\"\n\"\",\"- **2ch XLR ONLY**: Record two-channel sound using only an external microphone connected via the XLR microphone adapter.\"\n\"**4ch AUDIO MONITORING**\",\"Choose the source of sound output to headphones or other audio monitors during movie recording.\"\n\"\",\"- **XLR**: Monitor sound from external microphones connected via the XLR microphone adapter.\"\n\"\",\"- **CAMERA**: Monitor sound from camera’s built-in microphone.\"\n\"**HDMI 4ch AUDIO OUTPUT**\",\"Choose source of audio output to the HDMI connector.\"\n\"\",\"- **XLR**: Audio from external microphones connected via the XLR microphone adapter is output to the HDMI connector.\"\n\"\",\"- **CAMERA**: Audio from camera’s built-in microphone is output to the HDMI connector.\""
+                },
+                {
+                    "type": "text",
+                    "value": "> - If an external microphone is connected to the camera’s microphone jack, audio will be recorded not via the camera’s built-in microphone but via the external microphone instead.\n> - Four-channel recording is available only when MOV is selected for movie file format.",
+                    "md": "> - If an external microphone is connected to the camera’s microphone jack, audio will be recorded not via the camera’s built-in microphone but via the external microphone instead.\n> - Four-channel recording is available only when MOV is selected for movie file format."
+                },
+                {
+                    "type": "heading",
+                    "lvl": 2,
+                    "value": "REC FRAME INDICATOR",
+                    "md": "## REC FRAME INDICATOR"
+                },
+                {
+                    "type": "text",
+                    "value": "This item is also found in the movie menus (📖 198). Changes here also apply to the item in the movie menus.",
+                    "md": "This item is also found in the movie menus (📖 198). Changes here also apply to the item in the movie menus."
+                }
+            ],
+            "status": "OK",
+            "links": [],
+            "triggeredAutoMode": false,
+            "parsingMode": "multimodal-openai-gpt4o",
+            "structuredData": null,
+            "noStructuredContent": false,
+            "noTextContent": false
+        }
+    ],
+    "job_metadata": {
+        "credits_used": 579.0,
+        "job_credits_usage": 10,
+        "job_pages": 1,
+        "job_auto_mode_triggered_pages": 0,
+        "job_is_cache_hit": false,
+        "credits_max": 1000
+    },
+    "job_id": "6e62e9e6-fc7d-4f50-84fc-96843441176c",
+    "file_path": "../data/raw_data/x-t5/x-t5_split/x-t5_page212.pdf"
+}

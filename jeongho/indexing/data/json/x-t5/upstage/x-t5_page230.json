@@ -1,0 +1,322 @@
+{
+    "api": "2.0",
+    "content": {
+        "html": "<header id='0' style='font-size:22px'>Playback<br>and<br>the<br>Playback<br>Menu</header>\n<br><h1 id='1' style='font-size:16px'>ERASE</h1>\n<br><h1 id='2' style='font-size:20px'>Delete individual pictures, multiple selected pictures, or all pic-<br>tures.</h1>\n\n<br><table id='4' style='font-size:16px'><tr><td>Option</td><td>Description</td></tr><tr><td>FRAME</td><td>Delete pictures one at a time.</td></tr><tr><td>SELECTED FRAMES</td><td>Delete multiple selected pictures.</td></tr><tr><td>ALL FRAMES</td><td>Delete all unprotected pictures.</td></tr><caption id='3' style='font-size:14px'>Deleted pictures cannot be recovered. Protect important pictures or<br>copy them to a computer or other storage device before proceeding.</caption></table>\n<p id='5' data-category='paragraph' style='font-size:18px'>FRAME</p>\n<br><p id='6' data-category='list' style='font-size:20px'>1 Select FRAME for ERASE in the playback menu.</p>\n<p id='7' data-category='list' style='font-size:18px'>2 Press the selector left or right to scroll through pictures and<br>press MENU/OK to delete.</p>\n<p id='8' data-category='list' style='font-size:16px'>A confirmation dialog is not displayed before pictures are deleted; be<br>sure the correct picture is selected before pressing MENU/OK.<br>● Additional pictures can be deleted by pressing MENU/OK. Press<br>the multi selector left or right to scroll through pictures and press<br>MENU/OK to delete.</p>\n<br><header id='9' style='font-size:14px'>7</header>\n<footer id='10' style='font-size:22px'>230</footer>",
+        "markdown": "Playback\nand\nthe\nPlayback\nMenu\n\n# ERASE\n\n# Delete individual pictures, multiple selected pictures, or all pic-\ntures.\n\nDeleted pictures cannot be recovered. Protect important pictures or\ncopy them to a computer or other storage device before proceeding.\n\n| Option | Description |\n| --- | --- |\n| FRAME | Delete pictures one at a time. |\n| SELECTED FRAMES | Delete multiple selected pictures. |\n| ALL FRAMES | Delete all unprotected pictures. |\n\n\nFRAME\n\n- 1 Select FRAME for ERASE in the playback menu.\n\n\n- 2 Press the selector left or right to scroll through pictures and\n- press MENU/OK to delete.\n\n\n- A confirmation dialog is not displayed before pictures are deleted; be\n- sure the correct picture is selected before pressing MENU/OK.\n- ● Additional pictures can be deleted by pressing MENU/OK. Press\n- the multi selector left or right to scroll through pictures and press\n- MENU/OK to delete.\n\n\n7\n\n230",
+        "text": ""
+    },
+    "elements": [
+        {
+            "category": "header",
+            "content": {
+                "html": "<header id='0' style='font-size:22px'>Playback<br>and<br>the<br>Playback<br>Menu</header>",
+                "markdown": "Playback\nand\nthe\nPlayback\nMenu",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0177,
+                    "y": 0.3376
+                },
+                {
+                    "x": 0.0417,
+                    "y": 0.3376
+                },
+                {
+                    "x": 0.0417,
+                    "y": 0.585
+                },
+                {
+                    "x": 0.0177,
+                    "y": 0.585
+                }
+            ],
+            "id": 0,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='1' style='font-size:16px'>ERASE</h1>",
+                "markdown": "# ERASE",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0836,
+                    "y": 0.073
+                },
+                {
+                    "x": 0.1774,
+                    "y": 0.073
+                },
+                {
+                    "x": 0.1774,
+                    "y": 0.0949
+                },
+                {
+                    "x": 0.0836,
+                    "y": 0.0949
+                }
+            ],
+            "id": 1,
+            "page": 1
+        },
+        {
+            "category": "heading1",
+            "content": {
+                "html": "<br><h1 id='2' style='font-size:20px'>Delete individual pictures, multiple selected pictures, or all pic-<br>tures.</h1>",
+                "markdown": "# Delete individual pictures, multiple selected pictures, or all pic-\ntures.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.082,
+                    "y": 0.1041
+                },
+                {
+                    "x": 0.8897,
+                    "y": 0.1041
+                },
+                {
+                    "x": 0.8897,
+                    "y": 0.1527
+                },
+                {
+                    "x": 0.082,
+                    "y": 0.1527
+                }
+            ],
+            "id": 2,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='3' data-category='paragraph' style='font-size:14px'>Deleted pictures cannot be recovered. Protect important pictures or<br>copy them to a computer or other storage device before proceeding.</p>",
+                "markdown": "Deleted pictures cannot be recovered. Protect important pictures or\ncopy them to a computer or other storage device before proceeding.",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0821,
+                    "y": 0.168
+                },
+                {
+                    "x": 0.8888,
+                    "y": 0.168
+                },
+                {
+                    "x": 0.8888,
+                    "y": 0.215
+                },
+                {
+                    "x": 0.0821,
+                    "y": 0.215
+                }
+            ],
+            "id": 3,
+            "page": 1
+        },
+        {
+            "category": "table",
+            "content": {
+                "html": "<br><table id='4' style='font-size:16px'><tr><td>Option</td><td>Description</td></tr><tr><td>FRAME</td><td>Delete pictures one at a time.</td></tr><tr><td>SELECTED FRAMES</td><td>Delete multiple selected pictures.</td></tr><tr><td>ALL FRAMES</td><td>Delete all unprotected pictures.</td></tr></table>",
+                "markdown": "| Option | Description |\n| --- | --- |\n| FRAME | Delete pictures one at a time. |\n| SELECTED FRAMES | Delete multiple selected pictures. |\n| ALL FRAMES | Delete all unprotected pictures. |\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0825,
+                    "y": 0.2256
+                },
+                {
+                    "x": 0.8897,
+                    "y": 0.2256
+                },
+                {
+                    "x": 0.8897,
+                    "y": 0.3242
+                },
+                {
+                    "x": 0.0825,
+                    "y": 0.3242
+                }
+            ],
+            "id": 4,
+            "page": 1
+        },
+        {
+            "category": "paragraph",
+            "content": {
+                "html": "<p id='5' data-category='paragraph' style='font-size:18px'>FRAME</p>",
+                "markdown": "FRAME",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0956,
+                    "y": 0.3413
+                },
+                {
+                    "x": 0.1919,
+                    "y": 0.3413
+                },
+                {
+                    "x": 0.1919,
+                    "y": 0.3643
+                },
+                {
+                    "x": 0.0956,
+                    "y": 0.3643
+                }
+            ],
+            "id": 5,
+            "page": 1
+        },
+        {
+            "category": "list",
+            "content": {
+                "html": "<br><p id='6' data-category='list' style='font-size:20px'>1 Select FRAME for ERASE in the playback menu.</p>",
+                "markdown": "- 1 Select FRAME for ERASE in the playback menu.\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0975,
+                    "y": 0.3723
+                },
+                {
+                    "x": 0.7288,
+                    "y": 0.3723
+                },
+                {
+                    "x": 0.7288,
+                    "y": 0.3967
+                },
+                {
+                    "x": 0.0975,
+                    "y": 0.3967
+                }
+            ],
+            "id": 6,
+            "page": 1
+        },
+        {
+            "category": "list",
+            "content": {
+                "html": "<p id='7' data-category='list' style='font-size:18px'>2 Press the selector left or right to scroll through pictures and<br>press MENU/OK to delete.</p>",
+                "markdown": "- 2 Press the selector left or right to scroll through pictures and\n- press MENU/OK to delete.\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0952,
+                    "y": 0.4115
+                },
+                {
+                    "x": 0.8926,
+                    "y": 0.4115
+                },
+                {
+                    "x": 0.8926,
+                    "y": 0.4601
+                },
+                {
+                    "x": 0.0952,
+                    "y": 0.4601
+                }
+            ],
+            "id": 7,
+            "page": 1
+        },
+        {
+            "category": "list",
+            "content": {
+                "html": "<p id='8' data-category='list' style='font-size:16px'>A confirmation dialog is not displayed before pictures are deleted; be<br>sure the correct picture is selected before pressing MENU/OK.<br>● Additional pictures can be deleted by pressing MENU/OK. Press<br>the multi selector left or right to scroll through pictures and press<br>MENU/OK to delete.</p>",
+                "markdown": "- A confirmation dialog is not displayed before pictures are deleted; be\n- sure the correct picture is selected before pressing MENU/OK.\n- ● Additional pictures can be deleted by pressing MENU/OK. Press\n- the multi selector left or right to scroll through pictures and press\n- MENU/OK to delete.\n",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.1078,
+                    "y": 0.4752
+                },
+                {
+                    "x": 0.8904,
+                    "y": 0.4752
+                },
+                {
+                    "x": 0.8904,
+                    "y": 0.5885
+                },
+                {
+                    "x": 0.1078,
+                    "y": 0.5885
+                }
+            ],
+            "id": 8,
+            "page": 1
+        },
+        {
+            "category": "header",
+            "content": {
+                "html": "<br><header id='9' style='font-size:14px'>7</header>",
+                "markdown": "7",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0261,
+                    "y": 0.5965
+                },
+                {
+                    "x": 0.0437,
+                    "y": 0.5965
+                },
+                {
+                    "x": 0.0437,
+                    "y": 0.6181
+                },
+                {
+                    "x": 0.0261,
+                    "y": 0.6181
+                }
+            ],
+            "id": 9,
+            "page": 1
+        },
+        {
+            "category": "footer",
+            "content": {
+                "html": "<footer id='10' style='font-size:22px'>230</footer>",
+                "markdown": "230",
+                "text": ""
+            },
+            "coordinates": [
+                {
+                    "x": 0.0829,
+                    "y": 0.9563
+                },
+                {
+                    "x": 0.1403,
+                    "y": 0.9563
+                },
+                {
+                    "x": 0.1403,
+                    "y": 0.9795
+                },
+                {
+                    "x": 0.0829,
+                    "y": 0.9795
+                }
+            ],
+            "id": 10,
+            "page": 1
+        }
+    ],
+    "model": "document-parse-240910",
+    "usage": {
+        "pages": 1
+    }
+}
