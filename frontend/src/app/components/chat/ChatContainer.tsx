@@ -1,13 +1,13 @@
 'use client';
 
 import { useState, useEffect, useRef, useCallback } from 'react';
-import styles from '../../styles/chat.module.css';
+import styles from '@/app/styles/chat.module.css';
 import { ChatInput } from './ChatInput';
 import { UserMessage } from './UserMessage';
 import { AIMessage } from './AIMessage';
 import { CurrentNodeMessage } from './CurrentNodeMessage';
-import { useUserStore } from '../../store/userStore';
-import { useBrandStore } from '../../store/brandStore';
+import { useUserStore } from '@/app/store/userStore';
+import { useBrandStore } from '@/app/store/brandStore';
 
 
 interface Message {
