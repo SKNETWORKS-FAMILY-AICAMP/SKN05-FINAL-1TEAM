@@ -347,3 +347,122 @@
     width: 100%;
   }
 }
+
+
+
+
+@keyframes spin {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+.loadingSpinner {
+  display: inline-flex;
+  align-items: center;
+  width: 0.8rem; /* 아이콘 크기 */
+  height: 0.8rem;
+  border: 3px solid rgba(0, 0, 0, 0.1); /* 연한 테두리 */
+  border-top: 3px solid #4caf50; /* 강조 색상 */
+  border-radius: 50%;
+  animation: spin 1s linear infinite;
+  margin-right: 8px;  /* ✅ 텍스트와 여백 추가 */
+}
+
+
+.successMark  {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 0.8rem; /* 기존보다 크기 증가 */
+  height: 0.8rem;
+  background-color: #4caf50; /* 초록색 배경 */
+  color: white; /* 아이콘 색상 */
+  font-size: 0.5rem; /* 아이콘 크기 조정 */
+  font-weight: bold;
+  border-radius: 50%; /* 동그란 모양 */
+  margin-right: 8px; /* 텍스트와 간격 */
+}
+
+.queryAnswerMessage {
+  padding: 0rem;
+  border-radius: 0.5rem;
+  max-width: 100%;
+  align-self: flex-start;
+  /* background-color: rgb(230, 230, 230); */
+  border: 0px solid var(--color-cobblestone);
+}
+
+.queryAnswerContainer {
+  /* display: flex; */
+  flex-direction: column;
+  gap: 0.5rem;
+  /* margin-top: 0.75rem; */
+}
+
+.queryAnswers {
+  display: flex;
+  /* flex-wrap: wrap; */
+  flex-direction: row;
+  gap: 0px;
+}
+
+.queryAnswer {
+  padding: 1.3rem;
+  /* background-color: white; */
+  /* border: 1px solid var(--color-tendril); */
+  border-radius: 0.375rem;
+  font-size: 0.8rem;
+  
+  /* color: var(--color-tendril); */
+  /* cursor: pointer; */
+  /* text-align: left; */
+  transition: all 0.2s;
+  margin: 0rem;
+  align-items: center;
+  margin-right: 1rem;
+  /* line-height: 5px; */
+  background-color: rgb(230, 230, 230);
+}
+
+.currentNodeMessage {
+  padding: 0rem;
+  border-radius: 0.5rem;
+  max-width: 80%;
+  align-self: flex-start;
+  background-color: rgb(230, 230, 230);
+  border: 0px solid var(--color-cobblestone);
+}
+
+.currentNodeContainer {
+  /* display: flex; */
+  flex-direction: column;
+  gap: 0.5rem;
+  /* margin-top: 0.75rem; */
+}
+
+.currentNodes {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  gap: 1px;
+}
+
+.currentNode {
+  padding: 0.4rem;
+  /* background-color: white; */
+  /* border: 1px solid var(--color-tendril); */
+  border-radius: 0.375rem;
+  font-size: 0.8rem;
+  /* color: var(--color-tendril); */
+  /* cursor: pointer; */
+  /* text-align: left; */
+  transition: all 0.2s;
+  margin: 0rem;
+  align-items: center;
+  margin-right: 3rem;
+  /* line-height: 5px; */
+}

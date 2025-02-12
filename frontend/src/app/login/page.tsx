@@ -2,8 +2,8 @@
 
 import { useState } from 'react';
 import { useRouter } from 'next/navigation';
-import styles from '../styles/login.module.css';
-import { useUserStore } from '../store/userStore';
+import styles from '@/app/styles/login.module.css';
+import { useUserStore } from '@/app/store/userStore';
 
 const API_URL = 'http://localhost:8000/api/user/login';
 
