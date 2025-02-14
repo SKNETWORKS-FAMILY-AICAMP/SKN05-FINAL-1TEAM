@@ -176,8 +176,6 @@ export function ChatContainer() {
           body: JSON.stringify(cleanRequestData),
         });
         setIsReverseQ(false)
-        keywordsRef.current = [];
-        suggestQuestionsRef.current = [];
       }
 
         if (!response.ok) {
@@ -335,6 +333,8 @@ export function ChatContainer() {
                   );
                   setCurrentAnswer("");
                   setIsGenerating(false);
+                  keywordsRef.current = [];
+                  suggestQuestionsRef.current = [];
               }
             }
           } catch (error) {
