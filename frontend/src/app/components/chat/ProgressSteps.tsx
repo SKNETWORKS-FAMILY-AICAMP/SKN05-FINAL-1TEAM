@@ -28,7 +28,7 @@ export function ProgressStep({
                     : styles.loadingSpinner
                 }
               >
-                {index < currentNodes.length - 1 ? "✔️" : ""}
+                {index < currentNodes.length - 1 ? <span style={{ color: "white" }}>✔</span> : ""}
               </div>
               {node}
             </div>

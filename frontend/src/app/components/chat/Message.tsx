@@ -1,18 +1,33 @@
 import styles from '@/app/styles/chat.module.css';
-import { Keywords } from './Keywords';
-import { SuggestedQuestions } from './SuggestedQuestions';
+import { Keywords, SuggestedQuestions } from './PlusMessage';
 import ReactMarkdown from 'react-markdown';
-import rehypeRaw from 'rehype-raw';
+import remarkGfm from 'remark-gfm';
 
-interface AIMessageProps {
+interface UserMessageProps {
   message: string;
-  keywords: string[];
-  suggestedQuestions: string[];
-  onQuestionClick: (question: string) => void;
-  onKeywordClick: (keyword: string) => void;
-  isGenerating?: boolean;
 }
 
+interface AIMessageProps {
+    message: string;
+    keywords: string[];
+    suggestedQuestions: string[];
+    onQuestionClick: (question: string) => void;
+    onKeywordClick: (keyword: string) => void;
+    isGenerating?: boolean;
+}
+
+// usermessage
+export function UserMessage({ message }: UserMessageProps) {
+  return (
+    <div className={styles.userMessage}>
+      <div className={styles.messageContent}>
+        {message}
+      </div>
+    </div>
+  );
+}
+
+//ai message
 export function AIMessage({ 
   message, 
   keywords, 
@@ -24,9 +39,10 @@ export function AIMessage({
   return (
     <div className={styles.aiMessage}>
       <div className={styles.markdown_body}>
-        <ReactMarkdown>
+      <ReactMarkdown remarkPlugins={[remarkGfm]}>
           {message}
         </ReactMarkdown>
+        {/* {message} */}
         {isGenerating && <span className={styles.cursor}>|</span>}
       </div>
       {!isGenerating && keywords.length > 0 && (
