@@ -46,7 +46,7 @@ def filter_document(state: CanonState, writer: StreamWriter) -> CanonState:
             "messageId": state.get("messageId"),
         }
     )
-    print("---DOCUMENT FILTERING---")
+    print("---[CANON]DOCUMENT FILTERING---")
     # Query 및 문서 임베딩 생성
     query = state['question']
     docs = state['ensemble_context']

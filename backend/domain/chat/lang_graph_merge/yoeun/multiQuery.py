@@ -60,6 +60,10 @@ def query_expansion(state: CanonState, writer: StreamWriter) -> CanonState:
     )
     print("---[CANON] QUERY GENERTATE---")
     query = state["question"]
+    model = state.get("model")
+    print(f"qustion : {query}, model: {model}")
+
+
     transformed_queries = query_chain(query)
     print(transformed_queries)
-    return {"question":query, "transform_question": transformed_queries}
+    return {"question":query, "model":model, "transform_question": transformed_queries}

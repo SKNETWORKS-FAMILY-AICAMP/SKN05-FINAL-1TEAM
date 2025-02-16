@@ -1,5 +1,6 @@
 from langgraph.graph import START, END, StateGraph
 from domain.chat.lang_graph_merge.yoeun.state import CanonState
+from domain.chat.lang_graph_merge.state import OverallState
 from domain.chat.lang_graph_merge.yoeun.multiQuery import query_expansion
 from domain.chat.lang_graph_merge.yoeun.retrieve import ensemble_document, duplicated_delete, document_search
 from domain.chat.lang_graph_merge.yoeun.documentFilter import filter_document
@@ -7,7 +8,7 @@ from domain.chat.lang_graph_merge.yoeun.rerank import rerank_docs
 from domain.chat.lang_graph_merge.yoeun.generate import generate
 
 
-canongraph = StateGraph(CanonState)
+canongraph = StateGraph(CanonState, input=OverallState)
 canongraph.add_node("query_expansion", query_expansion)
 canongraph.add_node("ensemble_retriever", ensemble_document)
 canongraph.add_node("merge_document", duplicated_delete)

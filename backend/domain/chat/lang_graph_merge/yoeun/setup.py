@@ -23,22 +23,22 @@ def kiwi_tokenize(text):
 load_dotenv(dotenv_path=dotenv_path, override=True)
 pinecone_api = os.environ["PINECONE_API_KEY"]
 pc = Pinecone(api_key=pinecone_api)
-index_name = "canon"
+index_name = "canonmodel"
 index = pc.Index(index_name)
 embeddings = OpenAIEmbeddings(model="text-embedding-3-small")
 vector_store = PineconeVectorStore(embedding=embeddings, index=index)
 # retriever load
 retriever = vector_store.as_retriever(
-    search_type="similarity", search_kwargs={"k": 10},
+    search_type="similarity", search_kwargs={"k": 10}, 
 )
 pkl_path = os.path.join(CURRENT_DIR, "data", "bm25_retriever.pkl")
 with open(pkl_path, "rb") as f:
     bm25_retriever = dill.load(f)
 bm25_retriever.preprocess_func = kiwi_tokenize
 
-def ensemble_retriever():
-    # return EnsembleRetriever(retrievers=[retriever, bm25_retriever], weights=[0.5, 0.5])
-    return EnsembleRetriever(retrievers=[retriever], weights=[ 1])
+# def ensemble_retriever():
+#     # return EnsembleRetriever(retrievers=[retriever, bm25_retriever], weights=[0.5, 0.5])
+#     return EnsembleRetriever(retrievers=[retriever, bm25_retriever], weights=[0.5, 0.5])
 
 def filter_embedding_model():
     # # filter model load
