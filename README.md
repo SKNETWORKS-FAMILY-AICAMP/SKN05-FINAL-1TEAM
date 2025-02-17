@@ -53,16 +53,30 @@ LLM 활용 내부고객 업무 효율성 향상을 위한 문서 검색 시스�
 ### 📁시스템 구성도 / 시스템 아키텍쳐
 <details>
 <summary>시스템 구성도</summary>
-    <img src="./images/System configuration.png">
+   - 수집한 데이터<br>
+    <img src="./images/data1.png"><br>
+- 전처리<br>
+    <img src="./images/data2.png"><br>
+    <img src="./images/data3.png"><br>
+    <img src="./images/data4.png"><br>
 </details>
 <details>
   <summary>시스템 아키텍쳐</summary>
     <img src="./images/system architecture.png">
 </details>
 
+---
 
+### 화면설계서
 
+---
 
+### 🗂수행결과
+<details>
+<summary>데이터 전처리</summary>
+    
+    <img src="./images/System configuration.png">
+</details>
 
 
 
