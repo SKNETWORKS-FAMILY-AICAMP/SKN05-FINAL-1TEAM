@@ -8,40 +8,40 @@ interface Model {
     name: string;
     models: Model[];
   }
-  
 
+  
 export const BRANDS: Brand[] = [
     {
       id: 'Canon',
       name: 'Canon',
       models: [
-        { id: '200d', name: 'Canon 200D' },
-        { id: 'M50', name: 'Canon M50' },
-        { id: 'R6', name: 'Canon R6' },
-        { id: 'R50', name: 'Canon R50' },
-        { id: 'Powershot', name: 'Canon Powershot' },
+        { id: 'EOS 200D II', name: 'EOS 200D II' },
+        { id: 'EOS M50 Mark II', name: 'EOS M50 Mark II' },
+        { id: 'EOS R50 Mark II', name: 'EOS R50 Mark II' },
+        { id: 'EOS R6', name: 'EOS R6' },
+        { id: 'PowerShot G7X Mark III', name: 'PowerShot G7X Mark III' },
       ]
     },
     {
       id: 'Sony',
       name: 'Sony',
       models: [
-        { id: 'a7', name: 'Sony a7' },
-        { id: 'a6400', name: 'Sony a6400' },
-        { id: 'a6600', name: 'Sony a6600' },
-        { id: 'a7m3', name: 'Sony a7m3' },
-        { id: 'a7m4', name: 'Sony a7m4' },
+        { id: 'ILCE-6400 a6400', name: 'ILCE-6400 a6400' },
+        { id: 'ILCE-7M3 a7III', name: 'ILCE-7M3 a7III' },
+        { id: 'DSC-RX100M7', name: 'DSC-RX100M7' },
+        { id: 'ZV-1', name: 'ZV-1' },
+        { id: 'ZV-E10', name: 'ZV-E10' },
       ]
     },
     {
-      id: 'Fujifilm',
-      name: 'Fujifilm',
+      id: 'Fuji',
+      name: 'Fuji',
       models: [
-        { id: 'x-t40', name: 'Fujifilm X-T40' },
-        { id: 'x-t50', name: 'Fujifilm X-T50' },
-        { id: 'x-t5', name: 'Fujifilm X-T5' },
-        { id: 'x-t3', name: 'Fujifilm X-T3' },
-        { id: 'x-t4', name: 'Fujifilm X-T4' },
+        { id: 'gfx100ii', name: 'gfx100ii' },
+        { id: 'x-e4', name: 'x-e4' },
+        { id: 'x-s20', name: 'x-s20' },
+        { id: 'x-t5', name: 'x-t5' },
+        { id: 'x100v', name: 'x100v' },
       ]
     }
   ];
