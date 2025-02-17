@@ -53,6 +53,7 @@ LLM 활용 내부고객 업무 효율성 향상을 위한 문서 검색 시스�
 ### 📁시스템 구성도 / 시스템 아키텍쳐
 <details>
 <summary>시스템 구성도</summary>
+   <img src="./images/System configuration.png">
    - 수집한 데이터<br>
     <img src="./images/data1.png"><br>
 - 전처리<br>
@@ -74,9 +75,9 @@ LLM 활용 내부고객 업무 효율성 향상을 위한 문서 검색 시스�
 ### 🗂수행결과
 <details>
 <summary>데이터 전처리</summary>
-- 수집 데이터 : 카메라 사용자 매뉴얼 <br>
-   - 브랜드별 홈페이지에 업로드 되어있는 카메라 사용 매뉴얼 데이터 <br>
-   - 활용 브랜드 : 캐논, 소니, 후지필름<br>
+* 수집 데이터 : 카메라 사용자 매뉴얼 <br>
+   * 브랜드별 홈페이지에 업로드 되어있는 카메라 사용 매뉴얼 데이터 <br>
+   * 활용 브랜드 : 캐논, 소니, 후지필름<br>
 - 파싱<br>
    1) 텍스트 파싱 <br>
       - Llama Parser, Pymupdf <br>
