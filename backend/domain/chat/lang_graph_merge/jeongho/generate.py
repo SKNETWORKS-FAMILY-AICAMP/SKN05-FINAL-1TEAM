@@ -106,7 +106,7 @@ async def async_answer(state, writer):
                 "passages": state["rerank_passages"][i][j],
                 "metadata": state["rerank_passages_metadata"][i][j]
             }
-            tasks.append(process_input(input_data, state, writer))
+            tasks.append(process_input(input_data))
     return await asyncio.gather(*tasks)
 
 # 최상위 함수도 비동기로 작성하여 FastAPI 엔드포인트에서 바로 await하여 호출할 수 있도록 함.
@@ -117,7 +117,6 @@ async def generateAnswer(state: RetrievalState, writer: StreamWriter) -> Generat
         itertools.chain.from_iterable(state["rerank_passages"])
     ))
     context = [Passage(page_content=item) for item in flattened_context]
-    print(f"generate노드")
     return {
         "query": state["query"],
         "answers": results,

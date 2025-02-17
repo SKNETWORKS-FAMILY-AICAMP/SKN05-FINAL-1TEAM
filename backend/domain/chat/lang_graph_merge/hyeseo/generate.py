@@ -24,6 +24,7 @@ async def generate(state: SonyState, writer: StreamWriter):
     답변: "카메라의 ISO 설정은 메뉴에서 '설정'을 선택한 후 'ISO' 옵션을 선택하여 조정할 수 있습니다. ![image](/path/to/iso_setting_image)"
 
     이와 같은 형식으로 질문에 대한 답변을 생성하세요.
+    이미지 경로가 없다면 이미지는 제외하고 답변을 생성하세요.
 
     컨텍스트와 질문을 기반으로 답변을 생성하세요:
     - 컨텍스트: {context}
