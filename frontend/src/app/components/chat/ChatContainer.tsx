@@ -148,7 +148,7 @@ export function ChatContainer() {
       ));
       setCurrentAnswer("");
       setIsGenerating(false);
-      setIsReverseQ(data.currentNode === "refine_question");
+      setIsReverseQ(data.currentNode === "질문 준비 중");
     };
 
     const handleFinalMessage = (data: any) => {
@@ -215,12 +215,12 @@ export function ChatContainer() {
           }
           if (data.currentNode === "답변 생성 중") {
             handleGenerationInProgress(data);
-          } else if (data.currentNode === "query_rewrite") {
+          } else if (data.currentNode === "질문 재검색") {
             // 답변 초기화
             accumulatedAnswer = "";
             setCurrentAnswer("");
             updateNodeState(data);
-          } else if (data.currentNode === "refine_question" || data.currentNode === "not_for_camera") {
+          } else if (data.currentNode === "질문 준비 중" || data.currentNode === "not_for_camera") {
             handleRefinementOrCamera(data);
           } else {
             handleFinalMessage(data);
