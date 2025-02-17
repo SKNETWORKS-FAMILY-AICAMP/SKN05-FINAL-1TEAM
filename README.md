@@ -20,10 +20,16 @@ LLM 활용 내부고객 업무 효율성 향상을 위한 문서 검색 시스�
 - 고객 상담 업무 효율성을 극대화 하기 위해 구매고객을 대상으로 서비스되고 있는 문서의 검색 시스템을 질의 응답(챗봇) 형식으로 구축
 - 카메라 사용자의 카메라에 대한 정보 접근성 확대 및 초기 카메라 문제 발생 시 간편 해결 방안 제시로 편의성 증대
 
+#### 프로젝트 기대 효과
+- 이미지에 대한 처리 진행으로 검색 시 이미지가 답변에 함께 구현된다는 점에서 의의
+- 카메라 시장에서만 활용하지 않고, 이미지가 있는 매뉴얼들의 시스템을 확장 가능성
+- 사용자들에게 서비스 추가 제공을 통해 카메라 고객 응대의 퀄리티 증가
+
+---
+
 ### 🛠 기술 스택
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-
 
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
@@ -37,3 +43,7 @@ LLM 활용 내부고객 업무 효율성 향상을 위한 문서 검색 시스�
 
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+---
+
+### WBS
+<img src="./images/wbs.png">
