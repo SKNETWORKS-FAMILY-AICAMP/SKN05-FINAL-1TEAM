@@ -74,13 +74,36 @@ LLM 활용 내부고객 업무 효율성 향상을 위한 문서 검색 시스�
 ### 🗂수행결과
 <details>
 <summary>데이터 전처리</summary>
+   - 파싱<br>
+   - 청킹<br>
+ 
+    <img src="./images/System configuration.png">
+</details>
+<details>
+<summary>캐논</summary>
     
     <img src="./images/System configuration.png">
 </details>
-
-
-
-
+<details>
+<summary>소니</summary>
+    
+    <img src="./images/System configuration.png">
+</details>
+<details>
+<summary>후지</summary>
+    
+    <img src="./images/System configuration.png">
+</details>
+<details>
+<summary>전체 모델</summary>
+    
+    <img src="./images/System configuration.png">
+</details>
+<details>
+<summary>결과/시연영상</summary>
+    
+    <img src="./images/System configuration.png">
+</details>
 
 
 
