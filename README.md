@@ -36,67 +36,7 @@ LLM 활용 내부고객 업무 효율성 향상을 위한 문서 검색 시스�
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Amazonaws](https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Next.js](https://img.shields.io/badge/Nextjs-000000?style=for-the-badge&logo=nextjs&logoColor=black)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-### 🗓 WBS
-<img src="./images/wbs.png">
-
----
-
-### 📁시스템 구성도 / 시스템 아키텍쳐
-<details>
-<summary>시스템 구성도</summary>
-   <img src="./images/System configuration.png">
-   - 수집한 데이터<br>
-    <img src="./images/data1.png"><br>
-- 전처리<br>
-    <img src="./images/data2.png"><br>
-    <img src="./images/data3.png"><br>
-    <img src="./images/data4.png"><br>
-</details>
-<details>
-  <summary>시스템 아키텍쳐</summary>
-    <img src="./images/system architecture.png">
-</details>
-
----
-
-### 화면설계서
-
----
-
-### 🗂수행결과
-<details>
-<summary> 데이터 전처리</summary>
-
-- **수집 데이터** : 카메라 사용자 매뉴얼  
-  - 브랜드별 홈페이지에 업로드 되어있는 카메라 사용 매뉴얼 데이터  
-  - **활용 브랜드** : 캐논, 소니, 후지필름  
-
-- **파싱**  
-  1. **텍스트 파싱**  
-     - 사용 도구 : **Llama Parser, PyMuPDF**  
-     - **문제점** : 텍스트와 혼용되는 이모티콘이 정상적으로 파싱되지 않음  
-     - **해결 방법** : Llama Parser의 **MultiModal 모드**를 활용하여 LLM을 통해 파싱 데이터 수집  
-  2. **이미지 파싱**  
-     - 추출 방식 추가 예정
-
-- **청킹 (Chunking)**
-     - 파싱된 데이터 분할
-     - 각 브랜드별 모델 별 다른 방식으로 구현
-          1. 캐논 : RecursiveCharacterTextSplitter 진행(청크 사이즈1000, 오버랩 500)
-             - 페이지별 청크 개수 : 평균 403.15(최대 2519, 최소 19)
-            
-          2. 소니 : 파싱된 json파일 데이터 문서를 기반으로 텍스트 청킹을 진행 
+정
 
 </details>
 
