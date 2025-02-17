@@ -47,3 +47,26 @@ LLM 활용 내부고객 업무 효율성 향상을 위한 문서 검색 시스�
 
 ### 🗓 WBS
 <img src="./images/wbs.png">
+
+---
+
+### 시스템 구성도 / 시스템 아키텍쳐
+<details>
+<summary>시스템 구성도</summary>
+    <img src="./images/System configuration.png">
+</details>
+<details>
+  <summary>시스템 아키텍쳐</summary>
+    <img src="./images/system architecture.png">
+</details>
+
+
+
+
+
+
+
+
+
+
+
