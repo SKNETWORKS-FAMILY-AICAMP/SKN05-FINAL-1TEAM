@@ -6,7 +6,7 @@ def relevance_check(state: OverallState, writer: StreamWriter):
 
     writer(
         {
-            "currentNode": "relevance_check(확인을 위한 출력)",
+            "currentNode": "답변 검증",
             "answer": "",
             "keywords": [],
             "suggestQuestions": [],

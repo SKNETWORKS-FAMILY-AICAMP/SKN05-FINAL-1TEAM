@@ -26,9 +26,7 @@ def rerank_docs(state: CanonState, writer: StreamWriter) -> CanonState:
             "messageId": state.get("messageId"),
         }
     )
-    print("---[CANON] RERANK---")
     questions = state['question']
     documents = state['filtered_context']
     reranked_docs = rerank_with_cohere(questions, documents)
-    print(reranked_docs)
     return {"context": reranked_docs}

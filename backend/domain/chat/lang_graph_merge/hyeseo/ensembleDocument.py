@@ -10,7 +10,7 @@ def document_search(state: SonyState):
 def ensemble_document(state: SonyState, writer: StreamWriter):
     writer(
         {
-            "currentNode": "ensemble_document(확인을 위한 출력)",
+            "currentNode": "문서 검색 중",
             "answer": "",
             "keywords": [],
             "suggestQuestions": [],
@@ -18,8 +18,6 @@ def ensemble_document(state: SonyState, writer: StreamWriter):
             "messageId": state.get("messageId"),
         }
     )
-    print("---[SONY] ENSEMBLE RETRIEVE---")
     questions = state["question"]
-    print(f"질문 : {questions}")
     documents = ensemble_retriever().invoke(questions)
     return {"multi_context": documents}

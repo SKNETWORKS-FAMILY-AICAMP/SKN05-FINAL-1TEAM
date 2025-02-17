@@ -11,9 +11,8 @@ load_jeongho_dotenv()
 
 generator_dict = {
     "generator_module_type": "llama_index_llm",  # 예) 이 이름에 해당하는 클래스를 get_support_modules가 로드
-    "llm": "openai",        # 예시: openai
-    "model": "gpt-4o", # 예시: gpt-4o-mini
-    # 기타 필요한 파라미터...
+    "llm": "openai", 
+    "model": "gpt-4o",
 }
 
 CURRENT_DIR = os.path.dirname(os.path.abspath(__file__))
@@ -27,15 +26,8 @@ decomposer = QueryDecompose(
 )
 
 def queryDecompose(state: InputState) -> RetrievalState:
-    df_input = pd.DataFrame(
-        {
-            "query": [
-                state.question
-            ]
-        }
-    )
+    df_input = pd.DataFrame( { "query": [ state.question ] } )
     QD_result_df = decomposer.pure(previous_result=df_input)
-    print(f"queryDecompose노드\n{QD_result_df["queries"][0]}")
     return {
         "query": state.question,
         "query_decompose": QD_result_df["queries"][0]

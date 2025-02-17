@@ -48,22 +48,9 @@ def query_chain(question):
 
 # graph node
 def query_expansion(state: CanonState, writer: StreamWriter) -> CanonState:
-    writer(
-        {
-            "currentNode": "문서 검색 중",
-            "answer": "",
-            "keywords": [],
-            "suggestQuestions": [],
-            "sessionId": state.get("sessionId"),
-            "messageId": state.get("messageId"),
-        }
-    )
-    print("---[CANON] QUERY GENERTATE---")
+    print("---CANON---")
     query = state["question"]
     model = state.get("model")
-    print(f"qustion : {query}, model: {model}")
-
 
     transformed_queries = query_chain(query)
-    print(transformed_queries)
     return {"question":query, "model":model, "transform_question": transformed_queries}

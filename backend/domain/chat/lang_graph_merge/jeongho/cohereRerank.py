@@ -15,7 +15,6 @@ for i in range(len(corpus_df)):
 co = jeongho_cohere()
 
 def cohereRerank(state: RetrievalState, writer: StreamWriter) -> RetrievalState:
-
     writer(
         {
             "currentNode": "문서 정렬 중",
@@ -29,7 +28,7 @@ def cohereRerank(state: RetrievalState, writer: StreamWriter) -> RetrievalState:
 
     rerank_passages = []
     rerank_passages_metadata = []
-    for i, query_from_QD in enumerate(state["query_decompose"]):
+    for i, _ in enumerate(state["query_decompose"]):
         rerank_passages_QD = []
         rerank_passages_QD_metadata = []
         for j, query_from_MQE in enumerate(state["multi_query_expansion"][i]):
@@ -54,5 +53,4 @@ def cohereRerank(state: RetrievalState, writer: StreamWriter) -> RetrievalState:
             rerank_passages_QD_metadata.append(rerank_passages_MQE_metadata)
         rerank_passages.append(rerank_passages_QD)
         rerank_passages_metadata.append(rerank_passages_QD_metadata)
-        print(f"cohere노드\n{rerank_passages_metadata}")
     return {"rerank_passages": rerank_passages, "rerank_passages_metadata": rerank_passages_metadata}

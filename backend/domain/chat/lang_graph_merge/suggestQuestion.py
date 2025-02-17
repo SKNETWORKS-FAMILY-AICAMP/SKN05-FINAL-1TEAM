@@ -8,7 +8,7 @@ from domain.chat.lang_graph_merge.listChain import ListLLMChain
 def suggest_question(state: OverallState, writer: StreamWriter) -> OverallState:
     writer(
         {
-            "currentNode": "추천 질문 작성 중",
+            "currentNode": "추천 질문 생성 중",
             "answer": "",
             "keywords": [],
             "suggestQuestions": [],
@@ -51,7 +51,7 @@ def suggest_question(state: OverallState, writer: StreamWriter) -> OverallState:
     suggests = chain.run(SUGGEST_PROMPT, {"context": context, "question": question, "answer": answer})
     writer(
         {
-            "currentNode": "추천 질문 END",
+            "currentNode": "추천 질문 생성 완료",
             "answer": "",
             "keywords": [],
             "suggestQuestions": suggests,

@@ -38,10 +38,9 @@ VALID_MODELS = {
 
 
 def refine_question(state: RouterState, writer: StreamWriter) -> RouterState:
-
     writer(
         {
-            "currentNode": "refine_question(확인을 위한 출력)",
+            "currentNode": "질문 분석 중",
             "answer": "",
             "keywords": [],
             "suggestQuestions": [],
@@ -77,7 +76,7 @@ Canon, Fuji, Sony 중 하나를 선택하시거나, 원하지 않으시면 "없�
     except GraphInterrupt:
         writer(
             {
-                "currentNode": "refine_question",
+                "currentNode": "질문 준비 중",
                 "answer": new_queries,
                 "keywords": [],
                 "suggestQuestions": [],

@@ -13,7 +13,6 @@ import cohere
 from dotenv import load_dotenv
 from pinecone import Pinecone
 from kiwipiepy import Kiwi
-from sentence_transformers import SentenceTransformer
 from langchain_openai import OpenAIEmbeddings
 from langchain_pinecone import PineconeVectorStore
 from langchain.retrievers import EnsembleRetriever
@@ -34,7 +33,7 @@ def ensemble_retriever():
     load_dotenv(dotenv_path=dotenv_path, override=True)
     pinecone_api = os.environ["PINECONE_API_KEY"]
     pc = Pinecone(api_key=pinecone_api)
-    index_name = "sony"
+    index_name = "sonymodel"
     index = pc.Index(index_name)
     embeddings = OpenAIEmbeddings(model="text-embedding-3-small")
     vector_store = PineconeVectorStore(embedding=embeddings, index=index)
@@ -42,12 +41,12 @@ def ensemble_retriever():
     retriever = vector_store.as_retriever(
         search_type="similarity", search_kwargs={"k": 10},
     )
-    # pkl_path = os.path.join(CURRENT_DIR, "data", "bm25_retriever_a6400.pkl")
-    # with open(pkl_path, "rb") as f:
-    #     bm25_retriever = dill.load(f)
-    # bm25_retriever.preprocess_func = kiwi_tokenize
-    return EnsembleRetriever(retrievers=[retriever], weights=[1])
-    # return EnsembleRetriever(retrievers=[retriever, bm25_retriever], weights=[0.5, 0.5])
+    pkl_path = os.path.join(CURRENT_DIR, "data", "bm25_retriever_sony.pkl")
+    with open(pkl_path, "rb") as f:
+        bm25_retriever = dill.load(f)
+    bm25_retriever.preprocess_func = kiwi_tokenize
+    # return EnsembleRetriever(retrievers=[retriever], weights=[1])
+    return EnsembleRetriever(retrievers=[retriever, bm25_retriever], weights=[0.5, 0.5])
 
 class LineListOutputParser(BaseOutputParser[List[str]]):
     def parse(self, text: str) -> List[str]:

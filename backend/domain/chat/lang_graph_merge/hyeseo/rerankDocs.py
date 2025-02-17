@@ -18,7 +18,7 @@ def rerank_with_cohere(query, retrieved_docs, top_n=5):
 def rerank_docs(state: SonyState, writer: StreamWriter) -> SonyState:
     writer(
         {
-            "currentNode": "rerank_docs(확인을 위한 출력)",
+            "currentNode": "문서 정렬 중",
             "answer": "",
             "keywords": [],
             "suggestQuestions": [],
@@ -26,9 +26,7 @@ def rerank_docs(state: SonyState, writer: StreamWriter) -> SonyState:
             "messageId": state.get("messageId"),
         }
     )
-    print("---[SONY] RERANK---")
     questions = state['question']
     documents = state['ensemble_context']
     reranked_docs = rerank_with_cohere(questions, documents)
-    print(reranked_docs)
     return {"rerank_context": reranked_docs}

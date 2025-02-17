@@ -55,65 +55,20 @@ Generate a single coherent response based on the following answers:
 
 async def merge(state: GenerateState, writer: StreamWriter) -> OverallState:
 
-    writer(
-        {
-            "currentNode": "merge(확인을 위한 출력)",
-            "answer": "",
-            "keywords": [],
-            "suggestQuestions": [],
-            "sessionId": state.get("sessionId"),
-            "messageId": state.get("messageId"),
-        }
-    )
-
     input_data = {}
     input_data["query"] = state["query"]
     input_data["answers"] = state["answers"]
     stream = await ask_openai(input_data)
 
     chunks = []
-    current_node = "답변 생성 중"
     async for chunk in stream:
         if chunk.choices[0].delta.content is not None:
-            # writer(
-            #     {
-            #         "currentNode": current_node,
-            #         "sessionId": state["sessionId"],
-            #         "messageId": state["messageId"],
-            #         "answer": chunk.choices[0].delta.content,
-            #         "keywords": [],
-            #         "suggestQuestions": []
-            #     }
-            # )
             chunks.append(chunk.choices[0].delta.content)
-        # else:
-            # writer(
-            #     {
-            #         "currentNode": current_node,
-            #         "sessionId": state["sessionId"],
-            #         "messageId": state["messageId"],
-            #         "answer": "",
-            #         "keywords": [],
-            #         "suggestQuestions": []
-            #     }
-            # )
 
     return {
         "context": state["context"],
         "answer": "".join(chunks)
         }
-
-
-
-
-
-    # answer_merge = ask_openai(input_data)
-    # print(f"merge노드\n{answer_merge}")
-    # return {
-    #     "context": state["context"],
-    #     "answer": answer_merge
-    #     }
-
 
 
 

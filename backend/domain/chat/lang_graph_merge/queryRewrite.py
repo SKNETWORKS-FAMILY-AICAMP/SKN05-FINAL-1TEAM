@@ -6,7 +6,7 @@ def query_rewrite(state: OverallState, writer: StreamWriter):
 
     writer(
         {
-            "currentNode": "query_rewrite(확인을 위한 출력)",
+            "currentNode": "질문 재검색",
             "answer": "",
             "keywords": [],
             "suggestQuestions": [],

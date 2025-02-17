@@ -1,7 +1,6 @@
 import os
 import asyncio
 import itertools
-import datetime
 from glob import glob
 from pydantic import BaseModel
 from langgraph.types import StreamWriter
@@ -78,32 +77,20 @@ Answer:
 class Passage(BaseModel):
     page_content: str
 
-async def process_input(input_data, state, writer):
-    # datetime 객체는 JSON 직렬화를 위해 문자열로 변환하는 것이 좋습니다.
-    # one_generate_id = datetime.datetime.now().isoformat()
+async def process_input(input_data):
     chunks = []
     stream = await ask_openai(input_data)
     async for chunk in stream:
         content = chunk.choices[0].delta.content
         if content is not None:
-            # writer({
-            #     "currentNode": "jeongho_test",
-            #     "sessionId": state["sessionId"],
-            #     "messageId": state["messageId"],
-            #     "answer": content,
-            #     "keywords": [],
-            #     "suggestQuestions": [],
-            #     "one_generate_id": one_generate_id
-            # })
             chunks.append(content)
     return "".join(chunks)
 
 # 여러 작업을 비동기 태스크로 생성하고 병렬 실행하는 함수
 async def async_answer(state, writer):
-
     writer(
         {
-            "currentNode": "async_answer(확인을 위한 출력)",
+            "currentNode": "답변 확인 중",
             "answer": "",
             "keywords": [],
             "suggestQuestions": [],
@@ -111,9 +98,8 @@ async def async_answer(state, writer):
             "messageId": state.get("messageId"),
         }
     )
-
     tasks = []
-    for i, query_from_QD in enumerate(state['query_decompose']):
+    for i, _ in enumerate(state['query_decompose']):
         for j, query_from_MQE in enumerate(state["multi_query_expansion"][i]):
             input_data = {
                 "query": query_from_MQE,

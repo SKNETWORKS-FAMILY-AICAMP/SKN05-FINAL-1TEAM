@@ -8,17 +8,6 @@ client = AsyncOpenAI()
 
 async def translate_e2k(state: OverallState, writer: StreamWriter):
 
-    writer(
-        {
-            "currentNode": "translate_e2k(확인을 위한 출력)",
-            "answer": "",
-            "keywords": [],
-            "suggestQuestions": [],
-            "sessionId": state.get("sessionId"),
-            "messageId": state.get("messageId"),
-        }
-    )
-
     stream = await client.chat.completions.create(
         model="gpt-4o",
         messages=[
@@ -45,30 +34,17 @@ async def translate_e2k(state: OverallState, writer: StreamWriter):
     )
 
     chunks = []
-    current_node = "답변 생성 중"
     async for chunk in stream:
         if chunk.choices[0].delta.content is not None:
             writer(
                 {
-                    "currentNode": current_node,
-                    # "sessionId": state["sessionId"],
-                    # "messageId": state["messageId"],
+                    "currentNode": "답변 생성 중",
                     "answer": chunk.choices[0].delta.content,
                     "keywords": [],
-                    "suggestQuestions": []
+                    "suggestQuestions": [],
+                    "sessionId": state["sessionId"],
+                    "messageId": state["messageId"],
                 }
             )
             chunks.append(chunk.choices[0].delta.content)
-        else:
-            pass
-            # writer(
-            #     {
-            #         "currentNode": current_node,
-            #         # "sessionId": state["sessionId"],
-            #         # "messageId": state["messageId"],
-            #         "answer": "",
-            #         "keywords": ["temp keyword 1", "temp keyword 2", "temp keyword 3"],
-            #         "suggestQuestions": ["temp suggestQuestion 1", "temp suggestQuestion 2", "temp suggestQuestion 3"]
-            #     }
-            # )
     return {"answer": "".join(chunks)}

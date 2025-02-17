@@ -5,8 +5,8 @@ from langgraph.graph.message import add_messages
 
 class RequiredInputState(TypedDict):
     question: str  # 필수 필드
-    sessionId: int
-    messageId: int
+    sessionId: Annotated[int, "SessionID"]
+    messageId: Annotated[int, "MessageID"]
 
 class OptionalInputState(TypedDict, total=False):
     brand: Annotated[Optional[str], "brandname"]  # 선택적 필드
@@ -33,8 +33,8 @@ class OverallState(TypedDict):
     keyword: Annotated[list, "keywordExtract"]
     suggest_question: Annotated[list, "suggestquestion"]
     validation_results: dict
-    sessionId: int
-    messageId: int
+    sessionId: Annotated[int, "SessionID"]
+    messageId: Annotated[int, "MessageID"]
     next_step: Annotated[str, "routerstep"]
     relevance: Annotated[str, "relevance"]
 
@@ -48,5 +48,5 @@ class RouterState(TypedDict):
     new_queries: list
     awaiting_user_input: Annotated[bool, "사용자 입력 대기 상태"]
     question_context: Annotated[Dict, "질문 컨텍스트 저장"]  # 새로 추가
-    sessionId: int
-    messageId: int
+    sessionId: Annotated[int, "SessionID"]
+    messageId: Annotated[int, "MessageID"]

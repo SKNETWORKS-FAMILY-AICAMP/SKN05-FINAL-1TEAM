@@ -13,25 +13,10 @@ class SonyState(TypedDict):
     filtered_context: Annotated[str, "Filtering Context"]
     rerank_context : Annotated[str, "Context"]
     answer: Annotated[str, "Answer"] # parentgraph 로 전송
-    sessionId: int
-    messageId: int
+    sessionId: Annotated[int, "SessionID"]
+    messageId: Annotated[int, "MessageID"]
     context: Annotated[list, "Context"]
-    
-class OverallState(TypedDict):
-    question: Annotated[str, "Question"]
-    ex_question: Annotated[str, "issettingbeforequstion"]
-    brand: Annotated[Optional[str],"brandname"]
-    model: Annotated[Optional[str],"modelname"]
-    context: Annotated[list, "Context"]
-    message: Annotated[list, add_messages]
-    answer: Annotated[str, "Answer"]
-    keyword: Annotated[list, "keywordExtract"]
-    suggest_question: Annotated[list, "suggestquestion"]
-    validation_results: dict
-    sessionId: int
-    messageId: int
-    next_step: Annotated[str, "routerstep"]
-    relevance: Annotated[str, "relevance"]
+    model: Annotated[Optional[str], "Model Name"]  # 모델 필드 추가
 
 class Queries(BaseModel):
     Query: list[str]

@@ -36,10 +36,6 @@ with open(pkl_path, "rb") as f:
     bm25_retriever = dill.load(f)
 bm25_retriever.preprocess_func = kiwi_tokenize
 
-# def ensemble_retriever():
-#     # return EnsembleRetriever(retrievers=[retriever, bm25_retriever], weights=[0.5, 0.5])
-#     return EnsembleRetriever(retrievers=[retriever, bm25_retriever], weights=[0.5, 0.5])
-
 def filter_embedding_model():
     # # filter model load
     local_model_dir = os.path.join(CURRENT_DIR, "models")  # 저장할 로컬 경로

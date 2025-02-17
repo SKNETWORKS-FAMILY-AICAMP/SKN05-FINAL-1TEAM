@@ -11,15 +11,11 @@ client = jeongho_client()
 CURRENT_DIR = os.path.dirname(os.path.abspath(__file__))
 project_dir = os.path.join(CURRENT_DIR, "autorag/project_dir")
 
-# MODEL = documents[0].metadata['embedding_model']
 MODEL = 'text-embedding-3-small'
-
 index = jeongho_pinecone_index()
-
 bm25_retriever = bm25.BM25(project_dir=project_dir, bm25_tokenizer="porter_stemmer")
 
 def hybridCC(state: RetrievalState, writer: StreamWriter) -> RetrievalState:
-
     writer(
         {
             "currentNode": "문서 검색 중",
@@ -33,11 +29,7 @@ def hybridCC(state: RetrievalState, writer: StreamWriter) -> RetrievalState:
 
     hybrid_cc_IDs = []
     for queries_from_MQE in state["multi_query_expansion"]:
-        df_queries = pd.DataFrame(
-            {
-                "query": queries_from_MQE
-            }
-        )
+        df_queries = pd.DataFrame({"query": queries_from_MQE})
 
         query_results = []
 
@@ -62,7 +54,6 @@ def hybridCC(state: RetrievalState, writer: StreamWriter) -> RetrievalState:
             semantic_ids.append(single_query_result_ids)
             semantic_scores.append(single_query_result_scores)
 
-        # lexical_results_df = bm25_retriever.pure(df_queries, top_k=10,)
         lexical_results_df = bm25_retriever.pure(df_queries, top_k=10, selected_model=state.get("model"))
         lexical_ids = lexical_results_df["retrieved_ids"]
         lexical_scores = lexical_results_df["retrieve_scores"]
@@ -81,5 +72,4 @@ def hybridCC(state: RetrievalState, writer: StreamWriter) -> RetrievalState:
             lexical_theoretical_min_value=0.0     # tmm 모드 사용 시 필요한 값
         )
         hybrid_cc_IDs.append(fused_ids)
-        print(f"hybridCC노드\n{hybrid_cc_IDs}")
     return {"hybrid_cc_IDs": hybrid_cc_IDs}

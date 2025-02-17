@@ -12,8 +12,8 @@ class CanonState(TypedDict):
     filtered_context: Annotated[str, "Filtering Context"]
     context: Annotated[str, "Context"]  # parentgraph 공유
     answer: Annotated[str, "Answer"]  # parentgraph 공유
-    sessionId: int
-    messageId: int
-
+    sessionId: Annotated[int, "SessionID"]
+    messageId: Annotated[int, "MessageID"]
+    
 class QueryState(TypedDict):
     query: str

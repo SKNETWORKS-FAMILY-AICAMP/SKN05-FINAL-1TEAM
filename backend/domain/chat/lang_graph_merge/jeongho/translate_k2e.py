@@ -4,6 +4,7 @@ from domain.chat.lang_graph_merge.jeongho.setup import jeongho_client
 
 client = jeongho_client()
 def translate_k2e(state: InputState) -> InputState:
+    print("---FUJI---")
     messages=[
     {
       "role": "system",
@@ -23,5 +24,4 @@ English text: '''
     )
     
     question = response.choices[0].message.content    
-    print(f"translate_k2e노드: {question}")
     return { "question": question }

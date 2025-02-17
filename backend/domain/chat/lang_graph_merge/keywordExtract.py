@@ -47,7 +47,7 @@ def keyword_extract(state: OverallState, writer: StreamWriter) -> Dict[str, Any]
     keywords = chain.run(KEYWORD_PROMPT, {"context": context, "question": question, "answer": answer})
     writer(
         {
-            "currentNode": "키워드 추출 END",
+            "currentNode": "키워드 추출 완료",
             "answer": "",
             "keywords": keywords,
             "suggestQuestions": [],

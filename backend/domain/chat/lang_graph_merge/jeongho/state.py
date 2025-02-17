@@ -12,12 +12,12 @@ class subOverallState(TypedDict):
     answer: Annotated[str, "Answer"]
     keyword: Annotated[list, "keywordExtract"]
     suggest_question: Annotated[list, "suggestquestion"]
-    sessionId: int
-    messageId: int
+    sessionId: Annotated[int, "SessionID"]
+    messageId: Annotated[int, "MessageID"]
 
 class InputState(BaseModel):
-    sessionId: int
-    messageId: int
+    sessionId: Annotated[int, "SessionID"]
+    messageId: Annotated[int, "MessageID"]
     brand: Optional[str] = Field(default=None)
     model: Optional[str] = Field(default=None)
     question: str  # question은 반드시 있어야 하므로 Optional 아님
@@ -30,22 +30,22 @@ class RetrievalState(TypedDict):
     hybrid_cc_IDs: list[list[list[str]]]
     rerank_passages: list[list[list[str]]]
     rerank_passages_metadata: list[list[list[dict]]]
-    sessionId: int
-    messageId: int
+    sessionId: Annotated[int, "SessionID"]
+    messageId: Annotated[int, "MessageID"]
 
 class GenerateState(TypedDict):
     query: str
     context: Annotated[list, "Context"]
     answers: list[str]
     answer: str
-    sessionId: int
-    messageId: int
+    sessionId: Annotated[int, "SessionID"]
+    messageId: Annotated[int, "MessageID"]
 
 class OutputState(BaseModel):
     temp: str
     currentNode: str
-    sessionId: int
-    messageId: int
+    sessionId: Annotated[int, "SessionID"]
+    messageId: Annotated[int, "MessageID"]
     answer: str
     keywords: list
     suggestQuestions: list

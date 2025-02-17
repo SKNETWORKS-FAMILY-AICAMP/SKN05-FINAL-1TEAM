@@ -7,7 +7,6 @@ generator_dict = {
     "generator_module_type": "llama_index_llm",
     "llm": "openai",
     "model": "gpt-4o",
-    # 기타 필요한 파라미터...
 }
 
 CURRENT_DIR = os.path.dirname(os.path.abspath(__file__))
@@ -21,11 +20,6 @@ mqe = MultiQueryExpansion(
 )
 
 def multiQueryExpansion(state: RetrievalState) -> RetrievalState:
-    df_input = pd.DataFrame(
-        {
-            "query": state["query_decompose"]
-        }
-    )
+    df_input = pd.DataFrame({"query": state["query_decompose"]})
     MQE_result_df = mqe.pure(previous_result=df_input)
-    print(f"multiQueryExpansion노드\n{list(MQE_result_df["queries"])}")
     return {"multi_query_expansion": list(MQE_result_df["queries"])}
