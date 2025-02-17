@@ -76,8 +76,8 @@ LLM 활용 내부고객 업무 효율성 향상을 위한 문서 검색 시스�
 <details>
 <summary>데이터 전처리</summary>
 - 수집 데이터 : 카메라 사용자 매뉴얼 <br>
-   > - 브랜드별 홈페이지에 업로드 되어있는 카메라 사용 매뉴얼 데이터 <br>
-   > - 활용 브랜드 : 캐논, 소니, 후지필름<br>
+    - 브랜드별 홈페이지에 업로드 되어있는 카메라 사용 매뉴얼 데이터 <br>
+    - 활용 브랜드 : 캐논, 소니, 후지필름<br>
 - 파싱<br>
    1) 텍스트 파싱 <br>
       - Llama Parser, Pymupdf <br>
@@ -86,32 +86,31 @@ LLM 활용 내부고객 업무 효율성 향상을 위한 문서 검색 시스�
    2) 이미지 파싱 <br>
 - 청킹<br>
  
-    <img src="./images/System configuration.png">
+    
 </details>
 <details>
 <summary>캐논</summary>
     
-    <img src="./images/System configuration.png">
+   
 </details>
 <details>
 <summary>소니</summary>
-    
-    <img src="./images/System configuration.png">
+   
 </details>
 <details>
 <summary>후지</summary>
     
-    <img src="./images/System configuration.png">
+ 
 </details>
 <details>
 <summary>전체 모델</summary>
     
-    <img src="./images/System configuration.png">
+   
 </details>
 <details>
 <summary>결과/시연영상</summary>
     
-    <img src="./images/System configuration.png">
+ 
 </details>
 
 
