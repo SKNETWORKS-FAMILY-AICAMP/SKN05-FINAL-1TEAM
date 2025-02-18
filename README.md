@@ -120,18 +120,22 @@ LLM 활용 내부고객 업무 효율성 향상을 위한 문서 검색 시스�
 
 <details>
 <summary>전체 모델</summary>
-- Query Analysis
-- Decide Next Step
-- Refine Question
-- Setting Generate
-- Not for Camera
-- Subgraph
-- Ground Check
-- Rewrite Query
-- Extract Keyword
-- Suggest Question
-<img src="./images/model pipeline.png"> 
+
+- **Query Analysis**  
+- **Decide Next Step**  
+- **Refine Question**  
+- **Setting Generate**  
+- **Not for Camera**  
+- **Subgraph**  
+- **Ground Check**  
+- **Rewrite Query**  
+- **Extract Keyword**  
+- **Suggest Question**  
+
+![Model Pipeline](./images/model_pipeline.png)  
+
 </details>
+
 <details>
 <summary>결과/시연영상</summary>
     
