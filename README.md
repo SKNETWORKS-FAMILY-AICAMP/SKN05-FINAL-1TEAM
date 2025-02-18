@@ -1,3 +1,4 @@
+
 # SKN05-FINAL-1TEAM 
 **SKN 5기 최종 단위 프로젝트**
 **프로젝트명:** 카메라 사용자 매뉴얼 검색 시스템  
@@ -59,10 +60,16 @@ LLM 활용 내부고객 업무 효율성 향상을 위한 문서 검색 시스�
      - **문제점** : 텍스트와 혼용되는 이모티콘이 정상적으로 파싱되지 않음  
      - **해결 방법** : Llama Parser의 **MultiModal 모드**를 활용하여 LLM을 통해 파싱 데이터 수집  
   2. **이미지 파싱**  
-     - 추출 방식 추가 예정  
+     - 사용 Parse : Llama Parser, Upstage Parser
+     - Llama Parser를 통해 파싱 데이터에 이미지 위치를 함께 전달
+     - Upstage Parser를 통해 PDF 내에서 이미지를 추출하고 크롭하여 저장 
 
 - **청킹 (Chunking)**  
-  - 데이터 전처리 단계에서 적용 예정  
+  - 파싱된 데이터 분할
+  - 각 브랜드 모델 별 다른 방식으로 구현
+    1. 캐논 : RecursiveCharacterTextSplitter 진행(청크 사이즈 1000, 오버랩 500)
+    2. 소니 : page 단위로 데이터 읽음, 청킹 함수(chunk_text) 사용(청킹 사이즈 512, 오버랩 100)
+    3. 후지 : GPT-4o의 Context Window 제한 : 128,000토큰, Output Token 제한 : 16,384토큰, 페이지별 청킹된 데이터 사용
 
 </details>
 
