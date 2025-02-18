@@ -48,6 +48,7 @@ LLM 활용 내부고객 업무 효율성 향상을 위한 문서 검색 시스�
 
 ---
 ### 🗓 WBS
+
 <img src="./images/wbs.png"  width="800">
 
 ---
