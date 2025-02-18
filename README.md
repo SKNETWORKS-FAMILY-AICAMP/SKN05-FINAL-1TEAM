@@ -1,4 +1,5 @@
 
+
 # SKN05-FINAL-1TEAM 
 **SKN 5기 최종 단위 프로젝트**
 **프로젝트명:** 카메라 사용자 매뉴얼 검색 시스템  
@@ -47,7 +48,15 @@ LLM 활용 내부고객 업무 효율성 향상을 위한 문서 검색 시스�
 
 ---
 ### WBS
-![wbs](images/wbs.png)
+<img src="./images/wbs.png">
+
+---
+<details>
+<summary>시스템 아키텍쳐/시스템 구성도</summary>
+    - 시스템 아키텍쳐
+    
+   
+</details>
 
 <details>
 <summary>데이터 전처리</summary>
