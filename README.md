@@ -87,6 +87,17 @@ LLM 활용 내부고객 업무 효율성 향상을 위한 문서 검색 시스�
 </details>
 
 <details>
+<summary>캐논</summary>
+
+1. **Query Expansion** : LLM Generate, 사용자가 입력한 질문을 기반으로 여러 다른 형태의 질문을 생성  
+2. **Ensemble Retriever** : VectorDB(의미 기반) + BM25(키워드 기반) 결과를 결합하여 최적의 문서 목록 생성
+3. **Filter** :  Ensemble Retriever, Canon 관련성이 떨어지거나 불필요한 정보를 제거  
+4. **Reranker** : Cohere Reranking, 검색된 문서 순위를 재조정해 가장 적절한 자료를 상단에 배치  
+5. **Generate** : LLM Generate, LLM이 최종 답변(매뉴얼 안내, 문제 해결 가이드 등)을 자연어로 작성  
+
+</details>
+
+<details>
 <summary>소니</summary>
 
 1. **Query Expansion** : 사용자가 입력한 질문을 기반으로 여러 다른 형태의 질문을 생성  
@@ -109,17 +120,17 @@ LLM 활용 내부고객 업무 효율성 향상을 위한 문서 검색 시스�
 
 <details>
 <summary>전체 모델</summary>
-    - Query Analysis
-    - Decide Next Step
-    - Refine Question
-    - Setting Generate
-    - Not for Camera
-    - Subgraph
-    - Ground Check
-    - Rewrite Query
-    - Extract Keyword
-    - Suggest Question
-    <img src="./images/model pipeline.png"> 
+- Query Analysis
+- Decide Next Step
+- Refine Question
+- Setting Generate
+- Not for Camera
+- Subgraph
+- Ground Check
+- Rewrite Query
+- Extract Keyword
+- Suggest Question
+<img src="./images/model pipeline.png"> 
 </details>
 <details>
 <summary>결과/시연영상</summary>
