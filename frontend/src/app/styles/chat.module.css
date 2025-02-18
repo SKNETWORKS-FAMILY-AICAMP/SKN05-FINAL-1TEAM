@@ -51,7 +51,7 @@
   border: 1px solid var(--color-cobblestone);
   border-radius: 0.375rem;
   margin-bottom: 1rem;
-  padding: 1rem;
+  padding: 1rem; 
 }
 
 /* 입력 컨테이너 */
@@ -67,6 +67,7 @@
   display: flex;
   align-items: center;
   gap: 0.5rem;
+  width: 100%;
 }
 
 .messageInput {
@@ -529,4 +530,9 @@
   .mainContent {
     width: 100%;
   }
+
+  .messageInput {
+    width: 100%;
+  }
+
 }
