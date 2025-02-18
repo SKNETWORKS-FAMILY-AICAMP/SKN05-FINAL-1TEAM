@@ -87,29 +87,26 @@ LLM 활용 내부고객 업무 효율성 향상을 위한 문서 검색 시스�
 </details>
 
 <details>
-<summary>캐논</summary>
-    - 1. Query Expansion : LLM Generate, 사용자가 입력한 질문을 기반으로 여러 다른 형태의 질문을 생성
-    - 2. Ensemble Retriever : 의미+키워드 기반 검색 결과를 취합 
-    - 3. Filter : Percentile Cutoff, Canon 관련성이 떨어지거나 불필요한 정보를 제거
-    - 4. Reranker : Cohere Reranking, 필터 후 남은 문서들을 우선순위 재정렬
-    - 5. Generate : LLM Generate, 적절한 문서 내용을 종합하여 최종 답변을 생성
-   
-</details>
-<details>
 <summary>소니</summary>
-    1. Query Expansion : 사용자가 입력한 질문을 기반으로 여러 다른 형태의 질문을 생성
-    2. Ensemble Retriever : VectorDB(의미 기반) + BM25(키워드 기반) 결과를 결합하여 최적의 문서 목록 생성
-    3. Reranker : Cohere Reranking, 검색된 문서 순위를 재조정해 가장 적절한 자료를 상단에 배치
-    4. Generate : LLM Gererate, LLM이 최종 답변(매뉴얼 안내, 문제 해결 가이드 등)을 자연어로 작성
+
+1. **Query Expansion** : 사용자가 입력한 질문을 기반으로 여러 다른 형태의 질문을 생성  
+2. **Ensemble Retriever** : VectorDB(의미 기반) + BM25(키워드 기반) 결과를 결합하여 최적의 문서 목록 생성  
+3. **Reranker** : Cohere Reranking, 검색된 문서 순위를 재조정해 가장 적절한 자료를 상단에 배치  
+4. **Generate** : LLM Generate, LLM이 최종 답변(매뉴얼 안내, 문제 해결 가이드 등)을 자연어로 작성  
+
 </details>
+
 <details>
 <summary>후지</summary>
-    1. Query Decompose : 복합적 질의(다중 질문)를 작은 단위로 나누어 처리
-    2. Query Expansion : Decompose된 질의 각각에 대해서 여러 다른 형태의 질문을 생성
-    3. Hybrid Retriever : VectorDB + BM25를 결합
-    4. Reranker : Cohere Reranking, 가장 타당한 문서를 상위에 위치
-    5. Generate : LLM Generate, 각 소질문 결과를 통합해 답변을 생성
+
+1. **Query Decompose** : 복합적 질의(다중 질문)를 작은 단위로 나누어 처리  
+2. **Query Expansion** : Decompose된 질의 각각에 대해서 여러 다른 형태의 질문을 생성  
+3. **Hybrid Retriever** : VectorDB + BM25를 결합  
+4. **Reranker** : Cohere Reranking, 가장 타당한 문서를 상위에 위치  
+5. **Generate** : LLM Generate, 각 소질문 결과를 통합해 답변을 생성  
+
 </details>
+
 <details>
 <summary>전체 모델</summary>
     - Query Analysis
