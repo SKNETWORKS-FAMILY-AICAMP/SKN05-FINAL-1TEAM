@@ -52,9 +52,7 @@ LLM 활용 내부고객 업무 효율성 향상을 위한 문서 검색 시스�
 
 ---
 - **시스템 구성도/시스템 아키텍쳐** 
-    - 시스템 구성<br>
       <img src="./images/System configuration.png"  width="800"> <br>
-    - 시스템 아키텍쳐<br>
       <img src="./images/system architecture.png"  width="800"> <br>
     
    
@@ -63,7 +61,7 @@ LLM 활용 내부고객 업무 효율성 향상을 위한 문서 검색 시스�
 ---
 
 <details>
-<summary> **데이터 전처리** </summary>
+<summary> 데이터 전처리 </summary>
 
 - **수집 데이터** : 카메라 사용자 매뉴얼  
   - 브랜드별 홈페이지에 업로드 되어있는 카메라 사용 매뉴얼 데이터  
