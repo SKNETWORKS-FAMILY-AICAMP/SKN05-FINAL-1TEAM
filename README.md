@@ -46,6 +46,8 @@ LLM 활용 내부고객 업무 효율성 향상을 위한 문서 검색 시스�
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
+### WBS
+![wbs](images/wbs.png)
 
 <details>
 <summary>데이터 전처리</summary>
