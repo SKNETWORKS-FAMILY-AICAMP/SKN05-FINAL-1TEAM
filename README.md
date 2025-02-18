@@ -83,7 +83,7 @@ LLM 활용 내부고객 업무 효율성 향상을 위한 문서 검색 시스�
     1. 캐논 : RecursiveCharacterTextSplitter 진행(청크 사이즈 1000, 오버랩 500)
     2. 소니 : page 단위로 데이터 읽음, 청킹 함수(chunk_text) 사용(청킹 사이즈 512, 오버랩 100)
     3. 후지 : GPT-4o의 Context Window 제한 : 128,000토큰, Output Token 제한 : 16,384토큰, 페이지별 청킹된 데이터 사용
-<img src="./images/데이터전처리.png"> 
+<img src="./images/데이터전처리.png"  width="500"> 
 </details>
 
 <details>
