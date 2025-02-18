@@ -1,13 +1,12 @@
 import os
 import dill
+import json
 import cohere
 from dotenv import load_dotenv
 from pinecone import Pinecone
 from kiwipiepy import Kiwi
-from sentence_transformers import SentenceTransformer
 from langchain_openai import OpenAIEmbeddings
 from langchain_pinecone import PineconeVectorStore
-from langchain.retrievers import EnsembleRetriever
 
 
 CURRENT_DIR = os.path.dirname(os.path.abspath(__file__))
@@ -36,20 +35,11 @@ with open(pkl_path, "rb") as f:
     bm25_retriever = dill.load(f)
 bm25_retriever.preprocess_func = kiwi_tokenize
 
-def filter_embedding_model():
-    # # filter model load
-    local_model_dir = os.path.join(CURRENT_DIR, "models")  # 저장할 로컬 경로
-    local_model_path = os.path.join(local_model_dir, "ko-sbert-sts")  # 저장할 로컬 경로
+embedding_path = os.path.join(CURRENT_DIR, "data", "combined_embeddings.json")
+with open(embedding_path, "r", encoding="utf-8") as f:
+    embedding_data = json.load(f)
 
-    if not os.path.exists(local_model_dir):
-        os.makedirs(local_model_dir)
 
-    # 모델 경로 설정
-    model_name = "jhgan/ko-sbert-sts"  # 한국어 SBERT 임베딩 모델
-    if not os.path.exists(local_model_path):
-        model = SentenceTransformer(model_name)
-        model.save(local_model_path)
-    return SentenceTransformer(local_model_path)
 
 def yoeun_cohere():
     load_dotenv(dotenv_path=dotenv_path, override=True)

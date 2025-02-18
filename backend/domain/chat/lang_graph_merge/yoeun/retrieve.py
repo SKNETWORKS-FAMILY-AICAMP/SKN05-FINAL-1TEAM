@@ -25,8 +25,8 @@ def ensemble_document(state: QueryState, writer: StreamWriter):
     "EOS R6" : "R6",
     "EOS R50 Mark II" : "R50",
     "EOS M50 Mark II" : "M50",
-    "PowerShot G7X Mark III" : "G7X",
-    "EOS 200D II" : "200D"   
+    "PowerShot G7X Mark III" : "PowerShotG7X",
+    "EOS 200D II" : "200D"
     }
 
     search_kwargs = {"k": 10}
