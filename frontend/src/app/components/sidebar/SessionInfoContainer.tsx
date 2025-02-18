@@ -3,6 +3,9 @@
 import { useState, useEffect, useCallback } from 'react';
 import styles from '@/app/styles/sideBar.module.css';
 import { useUserStore } from '@/app/store/userStore';
+import { BASE_URL } from '@/config';
+
+
 
 interface Session {
   session_id: number;
@@ -24,7 +27,7 @@ export function SessionInfoContainer() {
     setIsLoading(true);
     try {
       const sessionResponse = await fetch(
-        `http://localhost:8000/api/chat/sessionlist`,
+        `${BASE_URL}/api/chat/sessionlist`,
         {
           headers: {
             'Authorization': `Bearer ${accessToken}`,

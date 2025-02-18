@@ -1,0 +1,1 @@
+export const BASE_URL = 'https://xpm0h1ghb4zipd-8000.proxy.runpod.net';

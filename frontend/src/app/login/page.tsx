@@ -4,8 +4,9 @@ import { useState } from 'react';
 import { useRouter } from 'next/navigation';
 import styles from '@/app/styles/login.module.css';
 import { useUserStore } from '@/app/store/userStore';
+import { BASE_URL } from '@/config';
 
-const API_URL = 'http://localhost:8000/api/user/login';
+const API_URL = `${BASE_URL}/api/user/login`;
 
 export default function LoginPage() {
   const router = useRouter();

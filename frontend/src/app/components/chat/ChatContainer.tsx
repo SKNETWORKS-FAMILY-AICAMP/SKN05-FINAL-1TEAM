@@ -9,7 +9,7 @@ import { UserMessage, AIMessage } from './Message';
 import { ProgressStep } from './ProgressSteps';
 import { useUserStore } from '@/app/store/userStore';
 import { useBrandStore } from '@/app/store/brandStore';
-
+import { BASE_URL } from '@/config';
 
 interface Message {
   message_id: number;
@@ -34,7 +34,10 @@ export function ChatContainer() {
   const [isLoading, setIsLoading] = useState(false);
   const [currentSessionId, setCurrentSessionId] = useState<number | null>(null);
   const [currentAnswer, setCurrentAnswer] = useState<string>("");
-  const [currentNodes, setCurrentNodes] = useState<{ message_id: number; currentNodes: string[]; }>({});
+  const [currentNodes, setCurrentNodes] = useState<{ message_id: number; currentNodes: string[]; }>({
+    message_id: 0,  // 기본값 설정
+    currentNodes: [] // 빈 배열 설정
+  });
   const [isGenerating, setIsGenerating] = useState(false);
   const [isReverseQ, setIsReverseQ] = useState(false);
 
@@ -52,7 +55,7 @@ export function ChatContainer() {
     try {
       console.log('Loading history for session:', sessionId); // 디버깅용
       const response = await fetch(
-        `http://localhost:8000/api/chat/history?session_id=${sessionId}`,
+        `${BASE_URL}/api/chat/history?session_id=${sessionId}`,
         {
           headers: {
               'Authorization': `Bearer ${accessToken}`,
@@ -109,6 +112,7 @@ export function ChatContainer() {
     let accumulatedAnswer = "";
     let accumulatedNode = { message_id: 0, currentNodes: [] };
     let buffer = "";
+    let isFirstResponse = true;  // 첫 응답 체크를 위한 플래그
 
     const updateNodeState = (data: any) => {
       if (accumulatedNode.currentNodes.at(-1) !== data.currentNode) {
@@ -190,7 +194,12 @@ export function ChatContainer() {
 
     while (true) {
       const { value, done } = await reader.read();
-      if (done) break;
+      if (done) {
+        // 스트림이 끝날 때 세션 리스트 업데이트 이벤트 발생
+        const event = new CustomEvent('updateSessionList');
+        window.dispatchEvent(event);
+        break;
+      }
 
       buffer += decoder.decode(value, { stream: true });
       const lines = buffer.split('\n');
@@ -200,19 +209,20 @@ export function ChatContainer() {
         if (!line.trim()) continue;
         try {
           const data = JSON.parse(line);
-
-          // 세션 ID 처리 로직 개선
-          if (data.sessionId) {
-            setCurrentSessionId(data.sessionId);
-            
-            // 새 세션이 생성된 경우 이벤트 발생
-            if (!currentSessionId) {
-              const event = new CustomEvent('sessionCreated', {
-                detail: { sessionId: data.sessionId }
-              });
+          
+          // 첫 응답에서만 세션 리스트 업데이트
+          if (isFirstResponse) {
+            const newSessionId = data.sessionId; // 새 세션 ID가 포함된 경우
+            if (newSessionId) {
+              setCurrentSessionId(newSessionId);
+              const event = new CustomEvent('sessionCreated', { detail: { sessionId: newSessionId } });
               window.dispatchEvent(event);
             }
+            const event = new CustomEvent('updateSessionList');
+            window.dispatchEvent(event);
+            isFirstResponse = false;
           }
+
           if (data.currentNode === "답변 생성 중") {
             handleGenerationInProgress(data);
           } else if (data.currentNode === "질문 재검색") {
@@ -270,7 +280,7 @@ export function ChatContainer() {
     
     try {
       const endpoint = isReverseQ ? 'rqanswer' : 'answer';
-      const response = await fetch(`http://localhost:8000/api/chat/${endpoint}`, {
+      const response = await fetch(`${BASE_URL}/api/chat/${endpoint}`, {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',

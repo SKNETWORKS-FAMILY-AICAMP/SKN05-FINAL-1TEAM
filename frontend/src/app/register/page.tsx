@@ -3,8 +3,9 @@
 import { useState } from 'react';
 import { useRouter } from 'next/navigation';
 import styles from '../styles/register.module.css';
+import { BASE_URL } from '@/config';
 
-const API_URL = 'http://localhost:8000/api/user/create';
+const API_URL = `${BASE_URL}/api/user/create`;
 
 export default function RegisterPage() {
   const router = useRouter();

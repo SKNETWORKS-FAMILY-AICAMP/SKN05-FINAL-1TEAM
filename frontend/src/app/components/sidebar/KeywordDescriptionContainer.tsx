@@ -3,6 +3,8 @@
 import { useState, useEffect } from 'react';
 import ReactMarkdown from 'react-markdown';
 import styles from '@/app/styles/sideBar.module.css';
+import { BASE_URL } from '@/config';
+
 
 interface KeywordDescription {
   keyword: string;
@@ -17,7 +19,7 @@ export function KeywordDescriptionContainer() {
     setIsLoading(true);
     try {
       const response = await fetch(
-        `http://localhost:8000/api/chat/keyword?keyword=${encodeURIComponent(keyword)}`,
+        `${BASE_URL}/api/chat/keyword?keyword=${encodeURIComponent(keyword)}`,
         {
           method: 'GET',
           headers: {
