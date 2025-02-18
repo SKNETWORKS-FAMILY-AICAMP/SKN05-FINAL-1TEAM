@@ -5,7 +5,9 @@ from openai import OpenAI
 from langgraph.types import StreamWriter
 from domain.chat.lang_graph_merge.yoeun.state import CanonState
 from domain.chat.lang_graph_merge.yoeun.setup import embedding_data
+from domain.chat.lang_graph_merge.yoeun.setup import load_yoeun_dotenv
 
+load_yoeun_dotenv()
 client = OpenAI()
 
 # 특정 키워드 기반 Percentile 필터링 함수
