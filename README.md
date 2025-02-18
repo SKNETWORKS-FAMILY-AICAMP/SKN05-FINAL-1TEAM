@@ -86,10 +86,10 @@ LLM 활용 내부고객 업무 효율성 향상을 위한 문서 검색 시스�
 <img src="./images/데이터전처리.png"> 
 </details>
 
-
 <details>
 <summary>캐논</summary>
-    
+    a. Query Expansion : LLM Generate
+    b.
    
 </details>
 <details>
