@@ -142,4 +142,4 @@ LLM 활용 내부고객 업무 효율성 향상을 위한 문서 검색 시스�
 <summary>결과/시연영상</summary>
 [시연영상.mp4](./docs/SKN05_1팀_시연_영상.mp4)
 </details>
-
+[PDF 보기](./docs/[SKN05 1팀] 0. 최종 발표 자료.pdf)
