@@ -88,11 +88,11 @@ LLM 활용 내부고객 업무 효율성 향상을 위한 문서 검색 시스�
 
 <details>
 <summary>캐논</summary>
-    1. Query Expansion : LLM Generate, 사용자가 입력한 질문을 기반으로 여러 다른 형태의 질문을 생성
-    2. Ensemble Retriever : 의미+키워드 기반 검색 결과를 취합 
-    3. Filter : Percentile Cutoff, Canon 관련성이 떨어지거나 불필요한 정보를 제거
-    4. Reranker : Cohere Reranking, 필터 후 남은 문서들을 우선순위 재정렬
-    5. Generate : LLM Generate, 적절한 문서 내용을 종합하여 최종 답변을 생성
+    - 1. Query Expansion : LLM Generate, 사용자가 입력한 질문을 기반으로 여러 다른 형태의 질문을 생성
+    - 2. Ensemble Retriever : 의미+키워드 기반 검색 결과를 취합 
+    - 3. Filter : Percentile Cutoff, Canon 관련성이 떨어지거나 불필요한 정보를 제거
+    - 4. Reranker : Cohere Reranking, 필터 후 남은 문서들을 우선순위 재정렬
+    - 5. Generate : LLM Generate, 적절한 문서 내용을 종합하여 최종 답변을 생성
    
 </details>
 <details>
